@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="2498ca59-5a45-44f8-bbe1-4f453093ef86" name="dtb:uid"/>
+        <meta content="2" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Baba ve Piç</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Birinci bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_000.xhtml"/>
+            <navPoint id="navPoint-2" playOrder="2">
+                <navLabel>
+                    <text>Tarçın</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_000.xhtml#toc-anchor-18"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>İkinci bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_001.xhtml"/>
+            <navPoint id="navPoint-4" playOrder="4">
+                <navLabel>
+                    <text>Nohut</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_001.xhtml#toc-anchor-19"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>Üçüncü bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_002.xhtml"/>
+            <navPoint id="navPoint-6" playOrder="6">
+                <navLabel>
+                    <text>Tozşeker</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_002.xhtml#toc-anchor-20"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>Dördüncü bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_003.xhtml"/>
+            <navPoint id="navPoint-8" playOrder="8">
+                <navLabel>
+                    <text>Kavrulmuş fındık</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_003.xhtml#toc-anchor-21"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>Beşinci bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_004.xhtml"/>
+            <navPoint id="navPoint-10" playOrder="10">
+                <navLabel>
+                    <text>Vanilya</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_004.xhtml#toc-anchor-22"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>Altıncı bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_005.xhtml"/>
+            <navPoint id="navPoint-12" playOrder="12">
+                <navLabel>
+                    <text>Antepfıstığı</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_005.xhtml#toc-anchor-23"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>Yedinci bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_006.xhtml"/>
+            <navPoint id="navPoint-14" playOrder="14">
+                <navLabel>
+                    <text>Buğday</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_006.xhtml#toc-anchor-24"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>Sekizinci bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_007.xhtml"/>
+            <navPoint id="navPoint-16" playOrder="16">
+                <navLabel>
+                    <text>Çamfıstığı</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_007.xhtml#toc-anchor-25"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+                <text>Dokuzuncu bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_008.xhtml"/>
+            <navPoint id="navPoint-18" playOrder="18">
+                <navLabel>
+                    <text>Portakal kabukları</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_008.xhtml#toc-anchor-26"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+                <text>Onuncu bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_009.xhtml"/>
+            <navPoint id="navPoint-20" playOrder="20">
+                <navLabel>
+                    <text>Badem</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_009.xhtml#toc-anchor-27"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+                <text>On birinci bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_010.xhtml"/>
+            <navPoint id="navPoint-22" playOrder="22">
+                <navLabel>
+                    <text>Kuru kayısı</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_010.xhtml#toc-anchor-28"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+                <text>On ikinci bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_011.xhtml"/>
+            <navPoint id="navPoint-24" playOrder="24">
+                <navLabel>
+                    <text>Nar taneleri</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_011.xhtml#toc-anchor-29"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+            <navLabel>
+                <text>On üçüncü bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_012.xhtml"/>
+            <navPoint id="navPoint-26" playOrder="26">
+                <navLabel>
+                    <text>Kuru incirler</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_012.xhtml#toc-anchor-30"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+            <navLabel>
+                <text>On dördüncü bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_013.xhtml"/>
+            <navPoint id="navPoint-28" playOrder="28">
+                <navLabel>
+                    <text>Su</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_013.xhtml#toc-anchor-31"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+                <text>On beşinci bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_014.xhtml"/>
+            <navPoint id="navPoint-30" playOrder="30">
+                <navLabel>
+                    <text>Kuru üzüm</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_014.xhtml#toc-anchor-32"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+            <navLabel>
+                <text>On altıncı bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_015.xhtml"/>
+            <navPoint id="navPoint-32" playOrder="32">
+                <navLabel>
+                    <text>Gülsuyu</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_015.xhtml#toc-anchor-33"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+            <navLabel>
+                <text>On yedinci bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_016.xhtml"/>
+            <navPoint id="navPoint-34" playOrder="34">
+                <navLabel>
+                    <text>Pirinç</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_016.xhtml#toc-anchor-34"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+            <navLabel>
+                <text>On sekizinci bölüm</text>
+            </navLabel>
+            <content src="Text/BABA_VE_PIC_split_017.xhtml"/>
+            <navPoint id="navPoint-36" playOrder="36">
+                <navLabel>
+                    <text>Potasyum siyanid</text>
+                </navLabel>
+                <content src="Text/BABA_VE_PIC_split_017.xhtml#toc-anchor-35"/>
+            </navPoint>
+        </navPoint>
+    </navMap>
+</ncx>

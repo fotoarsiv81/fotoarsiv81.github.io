@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:file-as="Şafak, Elif" opf:role="aut">Elif Şafak</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:2498ca59-5a45-44f8-bbe1-4f453093ef86</dc:identifier>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:date>2006-02-14T22:00:00+00:00</dc:date>
+    <meta name="cover" content="_cover.jpeg" />
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:title>Baba ve piç</dc:title>
+    <meta content="Baba ve piç" name="calibre:title_sort" />
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>roman</dc:subject>
+    <dc:description>Elif Şafak’ın Baba ve Piç adlı kitabını okudunuz mu? Okuyun. Üzerine çok yazıldığı için çok kısadan söyleyeceğim: Farklı katmanları, farklı okumaları, farklı çağrışımları keşfetmek için okuyun. Türkçenin sonsuz zenginliğini, Elif Şafak’ın dil oyunlarını, dille oynamasını, dili uçurmasını, cinsiyetçiliğe meydan okuyan dil “hınzırlıklarını” keşfedip, tadını çıkarmak için okuyun. Unutmak, anımsamak, anılar, suskunluklar, sırlar ve gerçekler, isyanlar ve boyun eğmeler, kaçışlar ve arayışlar üzerine, bizi bize anlatan enfes bir roman olduğu için okuyun. Zeynep Oral, Cumhuriyet Canlı ve eğlenceli. Bu muhteşem roman beni alıp uzaklara götürdü. Geri döndüğümde ise beni başka bir gerçeklik bekliyordu. Alan Cheuse, Chicago Tribune Cesur ve güzel… Kitapta pek çok karakter olmasına rağmen, bu karakterler arasında en etkileyici olanı Kazancı ailesinin kadın reislerinden biri değil, belki de İstanbul’un kendisi. John Freeman, Star Tribune Şafak güçlü kadın karakterler yaratma konusunda çok hünerli, ayrıca İstanbul’a ilişkin canlı tasvirler pek çok kişiyi şehre çekecek türden. Şafak’ın karakterleri kitabı bitirdikten sonra bile insanın zihnini terk etmiyor. Patricia Corrigan, St. Louis Post-Dispatch</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Elif Şafak&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">299c6fe9-e769-47f3-9acb-9087dd273e8d</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">-t8ZAQAAIAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753425537</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:2498ca59-5a45-44f8-bbe1-4f453093ef86</dc:identifier>
+    <dc:identifier opf:scheme="MERITOKRASI NOTU">5</dc:identifier>
+    <dc:date opf:event="modification">2014-02-16</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/_cover.jpeg" id="_cover.jpeg" media-type="image/jpeg" />
+    <item href="Images/dklogo_fmt.jpeg" id="dklogo_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/icon2b_fmt.jpeg" id="icon2b_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css" />
+    <item href="Text/ARKA_KAPAK.xhtml" id="ARKA_KAPAK.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_000.xhtml" id="BABA_VE_PIC_split_000.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_001.xhtml" id="BABA_VE_PIC_split_001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_002.xhtml" id="BABA_VE_PIC_split_002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_003.xhtml" id="BABA_VE_PIC_split_003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_004.xhtml" id="BABA_VE_PIC_split_004.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_005.xhtml" id="BABA_VE_PIC_split_005.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_006.xhtml" id="BABA_VE_PIC_split_006.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_007.xhtml" id="BABA_VE_PIC_split_007.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_008.xhtml" id="BABA_VE_PIC_split_008.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_009.xhtml" id="BABA_VE_PIC_split_009.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_010.xhtml" id="BABA_VE_PIC_split_010.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_011.xhtml" id="BABA_VE_PIC_split_011.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_012.xhtml" id="BABA_VE_PIC_split_012.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_013.xhtml" id="BABA_VE_PIC_split_013.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_014.xhtml" id="BABA_VE_PIC_split_014.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_015.xhtml" id="BABA_VE_PIC_split_015.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_016.xhtml" id="BABA_VE_PIC_split_016.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BABA_VE_PIC_split_017.xhtml" id="BABA_VE_PIC_split_017.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/EK.xhtml" id="EK.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/GIRIS.xhtml" id="GIRIS.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/ITHAF.xhtml" id="ITHAF.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/KUNYE.xhtml" id="KUNYE.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage.xhtml" />
+    <itemref idref="KUNYE.xhtml" />
+    <itemref idref="GIRIS.xhtml" />
+    <itemref idref="ITHAF.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_000.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_001.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_002.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_003.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_004.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_005.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_006.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_007.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_008.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_009.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_010.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_011.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_012.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_013.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_014.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_015.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_016.xhtml" />
+    <itemref idref="BABA_VE_PIC_split_017.xhtml" />
+    <itemref idref="EK.xhtml" />
+    <itemref idref="ARKA_KAPAK.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>
