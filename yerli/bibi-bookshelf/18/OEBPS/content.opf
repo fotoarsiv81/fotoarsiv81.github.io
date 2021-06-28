@@ -1,0 +1,277 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Firarperest</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Şafak, Elif">Elif Şafak</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:52178461-24de-4c5c-b3b9-d0976280c7d7</dc:identifier>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-02-16</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">eec8d159-4a68-4721-a767-cf0bbac2c7ca</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="_cover.jpeg"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Firarperest" name="calibre:title_sort"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{&quot;Elif Şafak&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:user_metadata:#formats" content="{&quot;#value#&quot;: null, &quot;is_category&quot;: false, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;label&quot;: &quot;formats&quot;, &quot;is_multiple&quot;: null, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;name&quot;: &quot;Formats&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_editable&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_csp&quot;: false, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;display&quot;: {&quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;use_decorations&quot;: 0}, &quot;colnum&quot;: 1}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_000.html" id="elif_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_001.html" id="elif_split_001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_002.html" id="elif_split_002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_003.html" id="elif_split_003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_004.html" id="elif_split_004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_005.html" id="elif_split_005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_006.html" id="elif_split_006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_007.html" id="elif_split_007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_008.html" id="elif_split_008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_009.html" id="elif_split_009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_010.html" id="elif_split_010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_011.html" id="elif_split_011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_012.html" id="elif_split_012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_013.html" id="elif_split_013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_014.html" id="elif_split_014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_015.html" id="elif_split_015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_016.html" id="elif_split_016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_017.html" id="elif_split_017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_018.html" id="elif_split_018.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_019.html" id="elif_split_019.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_020.html" id="elif_split_020.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_021.html" id="elif_split_021.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_022.html" id="elif_split_022.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_023.html" id="elif_split_023.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_024.html" id="elif_split_024.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_025.html" id="elif_split_025.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_026.html" id="elif_split_026.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_027.html" id="elif_split_027.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_028.html" id="elif_split_028.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_029.html" id="elif_split_029.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_030.html" id="elif_split_030.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_031.html" id="elif_split_031.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_032.html" id="elif_split_032.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_033.html" id="elif_split_033.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_034.html" id="elif_split_034.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_035.html" id="elif_split_035.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_036.html" id="elif_split_036.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_037.html" id="elif_split_037.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_038.html" id="elif_split_038.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_039.html" id="elif_split_039.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_040.html" id="elif_split_040.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_041.html" id="elif_split_041.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_042.html" id="elif_split_042.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_043.html" id="elif_split_043.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_044.html" id="elif_split_044.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_045.html" id="elif_split_045.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_046.html" id="elif_split_046.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_047.html" id="elif_split_047.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_048.html" id="elif_split_048.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_049.html" id="elif_split_049.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_050.html" id="elif_split_050.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_051.html" id="elif_split_051.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_052.html" id="elif_split_052.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_053.html" id="elif_split_053.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_054.html" id="elif_split_054.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_055.html" id="elif_split_055.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_056.html" id="elif_split_056.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_057.html" id="elif_split_057.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_058.html" id="elif_split_058.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_059.html" id="elif_split_059.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_060.html" id="elif_split_060.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_061.html" id="elif_split_061.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_062.html" id="elif_split_062.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_063.html" id="elif_split_063.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_064.html" id="elif_split_064.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_065.html" id="elif_split_065.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_066.html" id="elif_split_066.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_067.html" id="elif_split_067.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_068.html" id="elif_split_068.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_069.html" id="elif_split_069.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_070.html" id="elif_split_070.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_071.html" id="elif_split_071.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_072.html" id="elif_split_072.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_073.html" id="elif_split_073.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_074.html" id="elif_split_074.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_075.html" id="elif_split_075.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_076.html" id="elif_split_076.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_077.html" id="elif_split_077.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_078.html" id="elif_split_078.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_079.html" id="elif_split_079.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_080.html" id="elif_split_080.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_081.html" id="elif_split_081.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_082.html" id="elif_split_082.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_083.html" id="elif_split_083.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_084.html" id="elif_split_084.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_085.html" id="elif_split_085.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_086.html" id="elif_split_086.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_087.html" id="elif_split_087.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_088.html" id="elif_split_088.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_089.html" id="elif_split_089.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_090.html" id="elif_split_090.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_091.html" id="elif_split_091.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_092.html" id="elif_split_092.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_093.html" id="elif_split_093.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_094.html" id="elif_split_094.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_095.html" id="elif_split_095.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_096.html" id="elif_split_096.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_097.html" id="elif_split_097.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_098.html" id="elif_split_098.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_099.html" id="elif_split_099.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_100.html" id="elif_split_100.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_101.html" id="elif_split_101.html" media-type="application/xhtml+xml"/>
+    <item href="Text/elif_split_103.html" id="elif_split_103.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/_cover.jpeg" id="_cover.jpeg" media-type="image/jpeg"/>
+    <item href="Images/1.jpg" id="x1.jpg" media-type="image/jpeg"/>
+    <item href="Images/11.jpg" id="x11.jpg" media-type="image/jpeg"/>
+    <item href="Images/12.jpg" id="x12.jpg" media-type="image/jpeg"/>
+    <item href="Images/13.jpg" id="x13.jpg" media-type="image/jpeg"/>
+    <item href="Images/14.jpg" id="x14.jpg" media-type="image/jpeg"/>
+    <item href="Images/15.jpg" id="x15.jpg" media-type="image/jpeg"/>
+    <item href="Images/16.jpg" id="x16.jpg" media-type="image/jpeg"/>
+    <item href="Images/17.jpg" id="x17.jpg" media-type="image/jpeg"/>
+    <item href="Images/18.jpg" id="x18.jpg" media-type="image/jpeg"/>
+    <item href="Images/19.jpg" id="x19.jpg" media-type="image/jpeg"/>
+    <item href="Images/2.jpg" id="x2.jpg" media-type="image/jpeg"/>
+    <item href="Images/20.jpg" id="x20.jpg" media-type="image/jpeg"/>
+    <item href="Images/21.jpg" id="x21.jpg" media-type="image/jpeg"/>
+    <item href="Images/22.jpg" id="x22.jpg" media-type="image/jpeg"/>
+    <item href="Images/23.jpg" id="x23.jpg" media-type="image/jpeg"/>
+    <item href="Images/24.jpg" id="x24.jpg" media-type="image/jpeg"/>
+    <item href="Images/25.jpg" id="x25.jpg" media-type="image/jpeg"/>
+    <item href="Images/26.jpg" id="x26.jpg" media-type="image/jpeg"/>
+    <item href="Images/27.jpg" id="x27.jpg" media-type="image/jpeg"/>
+    <item href="Images/28.jpg" id="x28.jpg" media-type="image/jpeg"/>
+    <item href="Images/29.jpg" id="x29.jpg" media-type="image/jpeg"/>
+    <item href="Images/30.jpg" id="x30.jpg" media-type="image/jpeg"/>
+    <item href="Images/31.jpg" id="x31.jpg" media-type="image/jpeg"/>
+    <item href="Images/32.jpg" id="x32.jpg" media-type="image/jpeg"/>
+    <item href="Images/33.jpg" id="x33.jpg" media-type="image/jpeg"/>
+    <item href="Images/34.jpg" id="x34.jpg" media-type="image/jpeg"/>
+    <item href="Images/35.jpg" id="x35.jpg" media-type="image/jpeg"/>
+    <item href="Images/36.jpg" id="x36.jpg" media-type="image/jpeg"/>
+    <item href="Images/37.jpg" id="x37.jpg" media-type="image/jpeg"/>
+    <item href="Images/38.jpg" id="x38.jpg" media-type="image/jpeg"/>
+    <item href="Images/39.jpg" id="x39.jpg" media-type="image/jpeg"/>
+    <item href="Images/40.jpg" id="x40.jpg" media-type="image/jpeg"/>
+    <item href="Images/41.jpg" id="x41.jpg" media-type="image/jpeg"/>
+    <item href="Images/42.jpg" id="x42.jpg" media-type="image/jpeg"/>
+    <item href="Images/43.jpg" id="x43.jpg" media-type="image/jpeg"/>
+    <item href="Images/44.jpg" id="x44.jpg" media-type="image/jpeg"/>
+    <item href="Images/45.jpg" id="x45.jpg" media-type="image/jpeg"/>
+    <item href="Images/46.jpg" id="x46.jpg" media-type="image/jpeg"/>
+    <item href="Images/icon2b_fmt.jpeg" id="icon2b_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="elif_split_000.html"/>
+    <itemref idref="elif_split_001.html"/>
+    <itemref idref="elif_split_002.html"/>
+    <itemref idref="elif_split_003.html"/>
+    <itemref idref="elif_split_004.html"/>
+    <itemref idref="elif_split_005.html"/>
+    <itemref idref="elif_split_006.html"/>
+    <itemref idref="elif_split_007.html"/>
+    <itemref idref="elif_split_008.html"/>
+    <itemref idref="elif_split_009.html"/>
+    <itemref idref="elif_split_010.html"/>
+    <itemref idref="elif_split_011.html"/>
+    <itemref idref="elif_split_012.html"/>
+    <itemref idref="elif_split_013.html"/>
+    <itemref idref="elif_split_014.html"/>
+    <itemref idref="elif_split_015.html"/>
+    <itemref idref="elif_split_016.html"/>
+    <itemref idref="elif_split_017.html"/>
+    <itemref idref="elif_split_018.html"/>
+    <itemref idref="elif_split_019.html"/>
+    <itemref idref="elif_split_020.html"/>
+    <itemref idref="elif_split_021.html"/>
+    <itemref idref="elif_split_022.html"/>
+    <itemref idref="elif_split_023.html"/>
+    <itemref idref="elif_split_024.html"/>
+    <itemref idref="elif_split_025.html"/>
+    <itemref idref="elif_split_026.html"/>
+    <itemref idref="elif_split_027.html"/>
+    <itemref idref="elif_split_028.html"/>
+    <itemref idref="elif_split_029.html"/>
+    <itemref idref="elif_split_030.html"/>
+    <itemref idref="elif_split_031.html"/>
+    <itemref idref="elif_split_032.html"/>
+    <itemref idref="elif_split_033.html"/>
+    <itemref idref="elif_split_034.html"/>
+    <itemref idref="elif_split_035.html"/>
+    <itemref idref="elif_split_036.html"/>
+    <itemref idref="elif_split_037.html"/>
+    <itemref idref="elif_split_038.html"/>
+    <itemref idref="elif_split_039.html"/>
+    <itemref idref="elif_split_040.html"/>
+    <itemref idref="elif_split_041.html"/>
+    <itemref idref="elif_split_042.html"/>
+    <itemref idref="elif_split_043.html"/>
+    <itemref idref="elif_split_044.html"/>
+    <itemref idref="elif_split_045.html"/>
+    <itemref idref="elif_split_046.html"/>
+    <itemref idref="elif_split_047.html"/>
+    <itemref idref="elif_split_048.html"/>
+    <itemref idref="elif_split_049.html"/>
+    <itemref idref="elif_split_050.html"/>
+    <itemref idref="elif_split_051.html"/>
+    <itemref idref="elif_split_052.html"/>
+    <itemref idref="elif_split_053.html"/>
+    <itemref idref="elif_split_054.html"/>
+    <itemref idref="elif_split_055.html"/>
+    <itemref idref="elif_split_056.html"/>
+    <itemref idref="elif_split_057.html"/>
+    <itemref idref="elif_split_058.html"/>
+    <itemref idref="elif_split_059.html"/>
+    <itemref idref="elif_split_060.html"/>
+    <itemref idref="elif_split_061.html"/>
+    <itemref idref="elif_split_062.html"/>
+    <itemref idref="elif_split_063.html"/>
+    <itemref idref="elif_split_064.html"/>
+    <itemref idref="elif_split_065.html"/>
+    <itemref idref="elif_split_066.html"/>
+    <itemref idref="elif_split_067.html"/>
+    <itemref idref="elif_split_068.html"/>
+    <itemref idref="elif_split_069.html"/>
+    <itemref idref="elif_split_070.html"/>
+    <itemref idref="elif_split_071.html"/>
+    <itemref idref="elif_split_072.html"/>
+    <itemref idref="elif_split_073.html"/>
+    <itemref idref="elif_split_074.html"/>
+    <itemref idref="elif_split_075.html"/>
+    <itemref idref="elif_split_076.html"/>
+    <itemref idref="elif_split_077.html"/>
+    <itemref idref="elif_split_078.html"/>
+    <itemref idref="elif_split_079.html"/>
+    <itemref idref="elif_split_080.html"/>
+    <itemref idref="elif_split_081.html"/>
+    <itemref idref="elif_split_082.html"/>
+    <itemref idref="elif_split_083.html"/>
+    <itemref idref="elif_split_084.html"/>
+    <itemref idref="elif_split_085.html"/>
+    <itemref idref="elif_split_086.html"/>
+    <itemref idref="elif_split_087.html"/>
+    <itemref idref="elif_split_088.html"/>
+    <itemref idref="elif_split_089.html"/>
+    <itemref idref="elif_split_090.html"/>
+    <itemref idref="elif_split_091.html"/>
+    <itemref idref="elif_split_092.html"/>
+    <itemref idref="elif_split_093.html"/>
+    <itemref idref="elif_split_094.html"/>
+    <itemref idref="elif_split_095.html"/>
+    <itemref idref="elif_split_096.html"/>
+    <itemref idref="elif_split_097.html"/>
+    <itemref idref="elif_split_098.html"/>
+    <itemref idref="elif_split_099.html"/>
+    <itemref idref="elif_split_100.html"/>
+    <itemref idref="elif_split_101.html"/>
+    <itemref idref="elif_split_103.html"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

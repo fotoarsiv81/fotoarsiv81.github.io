@@ -1,0 +1,254 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    page-break-before: always
+    }
+.calibre1 {
+    display: block;
+    page-break-after: always
+    }
+.calibre10 {
+    height: 278;
+    width: 400
+    }
+.calibre11 {
+    height: 400;
+    width: 270
+    }
+.calibre12 {
+    height: 400;
+    width: 340
+    }
+.calibre13 {
+    height: 324;
+    width: 400
+    }
+.calibre14 {
+    height: 400;
+    width: 292
+    }
+.calibre15 {
+    height: 323;
+    width: 400
+    }
+.calibre16 {
+    height: 334;
+    width: 400
+    }
+.calibre17 {
+    height: 400;
+    width: 387
+    }
+.calibre18 {
+    height: 400;
+    width: 266
+    }
+.calibre19 {
+    height: 400;
+    width: 357
+    }
+.calibre2 {
+    height: 30;
+    width: 68
+    }
+.calibre20 {
+    font-size: smaller;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre21 {
+    height: 400;
+    width: 307
+    }
+.calibre22 {
+    height: 400;
+    width: 315
+    }
+.calibre23 {
+    height: 400;
+    width: 362
+    }
+.calibre24 {
+    height: 400;
+    width: 293
+    }
+.calibre25 {
+    height: 272;
+    width: 400
+    }
+.calibre26 {
+    height: 400;
+    width: 311
+    }
+.calibre27 {
+    height: 348;
+    width: 400
+    }
+.calibre28 {
+    height: 400;
+    width: 332
+    }
+.calibre29 {
+    height: 389;
+    width: 400
+    }
+.calibre3 {
+    height: 400;
+    width: 286
+    }
+.calibre30 {
+    height: 400;
+    width: 297
+    }
+.calibre31 {
+    height: 267;
+    width: 400
+    }
+.calibre32 {
+    height: 284;
+    width: 400
+    }
+.calibre33 {
+    height: 400;
+    width: 264
+    }
+.calibre34 {
+    height: 400;
+    width: 287
+    }
+.calibre35 {
+    height: 357;
+    width: 400
+    }
+.calibre36 {
+    height: 400;
+    width: 318
+    }
+.calibre37 {
+    height: 364;
+    width: 400
+    }
+.calibre38 {
+    height: 245;
+    width: 400
+    }
+.calibre39 {
+    height: 90%;
+    width: auto
+    }
+.calibre4 {
+    height: 50;
+    width: 50
+    }
+.calibre5 {
+    height: 400;
+    width: 335
+    }
+.calibre6 {
+    height: 400;
+    width: 296
+    }
+.calibre7 {
+    height: 262;
+    width: 400
+    }
+.calibre8 {
+    height: 354;
+    width: 400
+    }
+.calibre9 {
+    height: 400;
+    width: 360
+    }
+.chapter {
+    display: block
+    }
+.idebold {
+    font-weight: bold
+    }
+.ideitalik {
+    font-style: italic
+    }
+.indentmetin {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-indent: 0.75em
+    }
+.kitapickapak {
+    display: block;
+    font-size: 1.4em;
+    font-weight: 100;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kitapickapak1 {
+    display: block;
+    font-size: 1.3em;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.normal {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-indent: 0.75em
+    }
+.normal1 {
+    display: block;
+    font-size: 1em;
+    font-weight: 100;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 2em;
+text-align:Justify;
+
+   
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.solbaslik {
+    display: block;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    page-break-before: always;
+    text-indent: 0.75em
+    }
+a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: default
+    }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer
+    }

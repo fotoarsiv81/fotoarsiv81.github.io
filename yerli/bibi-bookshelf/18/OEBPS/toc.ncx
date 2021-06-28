@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="6f48f2e0-f271-45d2-a55b-c15e0dbf667e" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Firarperest</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Anarşist Aşklar</text>
+            </navLabel>
+            <content src="Text/elif_split_003.html"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>Huzursuz Ruh</text>
+            </navLabel>
+            <content src="Text/elif_split_004.html"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Dünyayı Görmeli!</text>
+            </navLabel>
+            <content src="Text/elif_split_005.html"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Mor Harflerle Yazılmış Bir Yazı</text>
+            </navLabel>
+            <content src="Text/elif_split_007.html"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>Miskinliğe Övgü</text>
+            </navLabel>
+            <content src="Text/elif_split_009.html"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>Yalnızlık Efendi</text>
+            </navLabel>
+            <content src="Text/elif_split_011.html"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>Kalem Ehli ve Kalp Ehli</text>
+            </navLabel>
+            <content src="Text/elif_split_012.html"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>Büyük Aşk, Büyük Nefret</text>
+            </navLabel>
+            <content src="Text/elif_split_013.html"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>Uzaktan Sevmek</text>
+            </navLabel>
+            <content src="Text/elif_split_015.html"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>Yazın Doğup Hep Sonbaharda Yaşayanlar</text>
+            </navLabel>
+            <content src="Text/elif_split_016.html"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>Yazarları Sevmeyen Yazarlar</text>
+            </navLabel>
+            <content src="Text/elif_split_018.html"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>Gül Bahçesi Evlilik</text>
+            </navLabel>
+            <content src="Text/elif_split_020.html"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>Leyla Hanım'ı Kim Alacak?</text>
+            </navLabel>
+            <content src="Text/elif_split_021.html"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>Bir Genç Kızın İntiharı</text>
+            </navLabel>
+            <content src="Text/elif_split_022.html"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>Düz Mantık İnsanları</text>
+            </navLabel>
+            <content src="Text/elif_split_024.html"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+                <text>Bir Hayaleti Kıskanmak</text>
+            </navLabel>
+            <content src="Text/elif_split_026.html"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+                <text>Zamanla Yarışan Kadınlar</text>
+            </navLabel>
+            <content src="Text/elif_split_028.html"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+                <text>Ünlü Olmanın Konuşulmayan Ağırlığı</text>
+            </navLabel>
+            <content src="Text/elif_split_029.html"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+                <text>Kadife Dostluklar, Dikenli Aşklar</text>
+            </navLabel>
+            <content src="Text/elif_split_031.html"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+                <text>Gerilim Hikâyelerinin Sakin Ustaları</text>
+            </navLabel>
+            <content src="Text/elif_split_033.html"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+                <text>Cinnet</text>
+            </navLabel>
+            <content src="Text/elif_split_034.html"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+                <text>Kamusal Alan ve Kadınlar</text>
+            </navLabel>
+            <content src="Text/elif_split_035.html"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+                <text>40 Metrekare Dünya</text>
+            </navLabel>
+            <content src="Text/elif_split_037.html"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+            <navLabel>
+                <text>İncinin İmtihanı</text>
+            </navLabel>
+            <content src="Text/elif_split_038.html"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+            <navLabel>
+                <text>Gelseydi Keşke</text>
+            </navLabel>
+            <content src="Text/elif_split_040.html"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+            <navLabel>
+                <text>Dışarı Korkusu</text>
+            </navLabel>
+            <content src="Text/elif_split_041.html"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+            <navLabel>
+                <text>Rahattan Rahatsız Olanlar</text>
+            </navLabel>
+            <content src="Text/elif_split_042.html"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+            <navLabel>
+                <text>Melankolik Sabahlar</text>
+            </navLabel>
+            <content src="Text/elif_split_044.html"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+                <text>Kadınları Sevmeyen Kadınlar</text>
+            </navLabel>
+            <content src="Text/elif_split_046.html"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+            <navLabel>
+                <text>Yazarlığın İki Altın Formülü</text>
+            </navLabel>
+            <content src="Text/elif_split_048.html"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+            <navLabel>
+                <text>Balondan Görünen Dünya</text>
+            </navLabel>
+            <content src="Text/elif_split_049.html"/>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+            <navLabel>
+                <text>Neler Oluyor Bize?</text>
+            </navLabel>
+            <content src="Text/elif_split_050.html"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+            <navLabel>
+                <text>İnsanın İşi Öğrenmektir</text>
+            </navLabel>
+            <content src="Text/elif_split_052.html"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+            <navLabel>
+                <text>Annesinin Oğlu</text>
+            </navLabel>
+            <content src="Text/elif_split_054.html"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+            <navLabel>
+                <text>Bencil Bir Adam Sevmek</text>
+            </navLabel>
+            <content src="Text/elif_split_056.html"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+            <navLabel>
+                <text>Arjantin'de Mevlânâ Okumak</text>
+            </navLabel>
+            <content src="Text/elif_split_057.html"/>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+            <navLabel>
+                <text>Adı Gülistan</text>
+            </navLabel>
+            <content src="Text/elif_split_058.html"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+            <navLabel>
+                <text>Kadınlar ve Futbol</text>
+            </navLabel>
+            <content src="Text/elif_split_060.html"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+            <navLabel>
+                <text>Akıllı Kadın Nasıl Giyinir?</text>
+            </navLabel>
+            <content src="Text/elif_split_061.html"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+            <navLabel>
+                <text>Mütereddit Olmanın Dayanılmaz Hafifliği</text>
+            </navLabel>
+            <content src="Text/elif_split_063.html"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+            <navLabel>
+                <text>Ben-merkezci Aşk &amp; Sen-merkezci Aşk</text>
+            </navLabel>
+            <content src="Text/elif_split_065.html"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+            <navLabel>
+                <text>Bu Bir U2 Yazısıdır!</text>
+            </navLabel>
+            <content src="Text/elif_split_066.html"/>
+        </navPoint>
+        <navPoint id="navPoint-43" playOrder="43">
+            <navLabel>
+                <text>Kendine Rağmen Sanat</text>
+            </navLabel>
+            <content src="Text/elif_split_068.html"/>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+            <navLabel>
+                <text>Öteki Kadın</text>
+            </navLabel>
+            <content src="Text/elif_split_069.html"/>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+            <navLabel>
+                <text>Biraz Sadi, Biraz Sontag</text>
+            </navLabel>
+            <content src="Text/elif_split_070.html"/>
+        </navPoint>
+        <navPoint id="navPoint-46" playOrder="46">
+            <navLabel>
+                <text>İçinde Yaşadığın Şehri Görememek</text>
+            </navLabel>
+            <content src="Text/elif_split_072.html"/>
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+            <navLabel>
+                <text>Kız Kardeşlik Ölçümleri</text>
+            </navLabel>
+            <content src="Text/elif_split_073.html"/>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+            <navLabel>
+                <text>"Bilmiyorum" Diyebilmek</text>
+            </navLabel>
+            <content src="Text/elif_split_075.html"/>
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+            <navLabel>
+                <text>Özgürlük Sokaktan Gelir!</text>
+            </navLabel>
+            <content src="Text/elif_split_077.html"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+            <navLabel>
+                <text>Baba Ben Eşcinselim...</text>
+            </navLabel>
+            <content src="Text/elif_split_079.html"/>
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+            <navLabel>
+                <text>Edebiyat Sınıfta Kaldı</text>
+            </navLabel>
+            <content src="Text/elif_split_080.html"/>
+        </navPoint>
+        <navPoint id="navPoint-52" playOrder="52">
+            <navLabel>
+                <text>Yalnız Benim İçin Yaz...</text>
+            </navLabel>
+            <content src="Text/elif_split_082.html"/>
+        </navPoint>
+        <navPoint id="navPoint-53" playOrder="53">
+            <navLabel>
+                <text>Erkekler Kadınlardan Daha mı Komik?</text>
+            </navLabel>
+            <content src="Text/elif_split_084.html"/>
+        </navPoint>
+        <navPoint id="navPoint-54" playOrder="54">
+            <navLabel>
+                <text>Çok Okuyan mı Bilir?..</text>
+            </navLabel>
+            <content src="Text/elif_split_085.html"/>
+        </navPoint>
+        <navPoint id="navPoint-55" playOrder="55">
+            <navLabel>
+                <text>Hırs Var, Bir de Hırrrs Var...</text>
+            </navLabel>
+            <content src="Text/elif_split_087.html"/>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56">
+            <navLabel>
+                <text>Üslup Meselesi</text>
+            </navLabel>
+            <content src="Text/elif_split_088.html"/>
+        </navPoint>
+        <navPoint id="navPoint-57" playOrder="57">
+            <navLabel>
+                <text>Tesadüfler ki Tesadüf Değildir...</text>
+            </navLabel>
+            <content src="Text/elif_split_090.html"/>
+        </navPoint>
+        <navPoint id="navPoint-58" playOrder="58">
+            <navLabel>
+                <text>Babalar, Oğullar ve Torunlar</text>
+            </navLabel>
+            <content src="Text/elif_split_091.html"/>
+        </navPoint>
+        <navPoint id="navPoint-59" playOrder="59">
+            <navLabel>
+                <text>Kâğıt Kadın, Kalem Erkek Savına İnat</text>
+            </navLabel>
+            <content src="Text/elif_split_092.html"/>
+        </navPoint>
+        <navPoint id="navPoint-60" playOrder="60">
+            <navLabel>
+                <text>Kendi Eserini Yok Eden Adam</text>
+            </navLabel>
+            <content src="Text/elif_split_094.html"/>
+        </navPoint>
+        <navPoint id="navPoint-61" playOrder="61">
+            <navLabel>
+                <text>Savaş Gibi Yaşanan Aşklar</text>
+            </navLabel>
+            <content src="Text/elif_split_096.html"/>
+        </navPoint>
+        <navPoint id="navPoint-62" playOrder="62">
+            <navLabel>
+                <text>Kutuplaşma İstemeyenlerin Türküsü</text>
+            </navLabel>
+            <content src="Text/elif_split_097.html"/>
+        </navPoint>
+        <navPoint id="navPoint-63" playOrder="63">
+            <navLabel>
+                <text>Sentezler Mahallesi</text>
+            </navLabel>
+            <content src="Text/elif_split_099.html"/>
+        </navPoint>
+        <navPoint id="navPoint-64" playOrder="64">
+            <navLabel>
+                <text>Edep</text>
+            </navLabel>
+            <content src="Text/elif_split_101.html"/>
+        </navPoint>
+    </navMap>
+</ncx>
