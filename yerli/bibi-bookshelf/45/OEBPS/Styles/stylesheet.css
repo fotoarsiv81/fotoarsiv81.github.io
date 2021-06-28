@@ -1,0 +1,23 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.calibre {
+font-family: 'Arial', serif;
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    display: block;
+	font-size: 1 em;
+    margin-bottom: 1em;
+
+    }
+.calibre2 {
+    display: block;
+    font-size: 1 em;
+
+    }

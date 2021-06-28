@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Bir Kedi, Bir Adam, Bir Ölüm</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Livaneli, Zülfü">Zülfü Livaneli</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:3e5d3598-374a-46e2-9606-7e510abf506f</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:description>"Gerçek bir şaheser! Teknik ve psikolojik olarak mükemmel! Öldürmek mi bağışlamak mı ikilemini en iyi veren roman." Yaşar Kemal "Arkadaşlarım bunun farkında değil ama ben bu bağlantıların üstünde ya da dışındayım. Onlar gibi davranmaya, onlara benzemeye çalışıyorum, lakin içim farklı, işte romanı yazan zavallı arkadaşımın inemediği derinliklerden biri de bu. O beni, politik geçmişi olan ve Kuzey sürgününe savrulmuş, sıradan insanlardan biri sanıyor. Başımdan geçenleri, benden daha ilginç buluyor. İçimdeki derin ve köklü karanlığın farkında değil. Çünkü insanları konuşarak tanıyamazsınız. Konuşmak, canlı yaratıklar arasındaki en etkisiz iletişim aracı. Dil yalan söylüyor, olanları çarpıtıyor, insanlığın hiç bıkıp usanmadığı klişeleri tekrarlıyor. Bu yüzden, insanları dinlemek onları anlamak için yeterli değil." 12 Mart rüzgârlarının İstanbul'dan Stockholm'e savurduğu bir mülteci olan Sami Baran, yattığı hastanede Türkiye'den bir hastayla karşılaşır. Bu adam, başına gelenlerin sorumlusu olarak gördüğü eski bir bakandır. Ondan intikamını almak amacıyla Şili, Uruguay, İran gibi farklı ülkelerden gelmiş mülteci arkadaşlarıyla birlikte bir plan yapar. Ancak, bu planı gerçekleştirmek o kadar kolay olmayacaktır: Sami Baran, anadilin yeri geldiğinde düşmanla da anlaşma aracı olabileceğini hesaba katmamıştır. Ve bu, planın önündeki engellerden sadece biridir... Zülfü Livaneli'nin usta kaleminden, sürgün yaşamı ve öldürmek-bağışlamak ikilemi üzerine, okurları ve eleştirmenleri değişik kurgusu ve beklenmedik final(ler)iyle de etkileyen, kusursuz bir roman.</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">a5715891-85c9-467d-a37f-1efc2959a8ba</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:3e5d3598-374a-46e2-9606-7e510abf506f</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786050905441</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/birkedi_split_000.html" id="html33" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_001.html" id="html32" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_002.html" id="html31" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_003.html" id="html30" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_004.html" id="html29" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_005.html" id="html28" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_006.html" id="html27" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_007.html" id="html26" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_008.html" id="html25" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_009.html" id="html24" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_010.html" id="html23" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_011.html" id="html22" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_012.html" id="html21" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_013.html" id="html20" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_014.html" id="html19" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_015.html" id="html18" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_016.html" id="html17" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_017.html" id="html16" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_018.html" id="html15" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_019.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_020.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_021.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_022.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_023.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_024.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_025.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_026.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_027.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_028.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_029.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_030.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_031.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/birkedi_split_032.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/1.jpg" id="added" media-type="image/jpeg"/>
+    <item href="Images/2.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="Images/3.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Fonts/arial.ttf" id="cid5" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbd.ttf" id="cid6" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbi.ttf" id="cid8" media-type="application/x-font-ttf"/>
+    <item href="Fonts/ariali.ttf" id="cid7" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="cid2" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="cid4" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="cid3" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="cid1" media-type="application/x-font-ttf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html33"/>
+    <itemref idref="html32"/>
+    <itemref idref="html31"/>
+    <itemref idref="html30"/>
+    <itemref idref="html29"/>
+    <itemref idref="html28"/>
+    <itemref idref="html27"/>
+    <itemref idref="html26"/>
+    <itemref idref="html25"/>
+    <itemref idref="html24"/>
+    <itemref idref="html23"/>
+    <itemref idref="html22"/>
+    <itemref idref="html21"/>
+    <itemref idref="html20"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

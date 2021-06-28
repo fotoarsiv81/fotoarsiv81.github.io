@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Livaneli, Zülfü">Zülfü Livaneli</dc:creator>
+<dc:identifier id="uuid">{DE1B0B81-CE92-446E-9444-8803EE376415}</dc:identifier>
+    <dc:publisher>Remzi Kitabevi</dc:publisher>
+    <dc:date>2016-05-22T21:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;p&gt;“Boynuna nenesinin astığı mavi gözboncuğuna eliyle dokundu. Mavi gözlere karşı koruyacaktı onu. Unutmamıştı nerede olduğunu, ama çevresinde olup bitenlerden kopmuştu. Aydınlık bir gülümseme yayılmıştı yüzüne. Neredeyse kaşlarının üstünden başlıyordu saçları. Kıvrım kıvrım, güçlü, kapkara saçlardı. Gözleri de her şeye, her zaman şaşarak bakıyormuş gibi kocaman ve parlaktılar. Çoğu zaman, hele soğukta nemli gibi dururlardı.”&lt;/p&gt;
+
+&lt;p&gt;Bazı insanlar bütün hayatlarını sınırları aşma mücadelesi olarak geçirir. Bu konuda tartışmasız en deneyimli kişilerden biri olan Zülfü Livaneli’nin yıllara yayılan, yıllarla beslenen, zenginleşen deneyim ve gözlemlerinden, Almanya’da, İsveç’te, Danimarka’da, Türkiye’de... sınırlar, sınır aşanlar, sürgünler, gurbetçiler üzerine, değerleri yıllarla sınanmış öyküler...&lt;/p&gt;
+
+&lt;p&gt;Zülfü Livaneli’nin edebiyat alanındaki ilk verimleri olan öykülerini bir araya getiren Arafat’ta Bir Çocuk, yayımlandığı 1978 yılından beri hem Türkiye’de hem de dünyada olağanüstü bir ilgi gördü. Türkiye’de defalarca basıldığı gibi Almanca ve Farsçaya da çevrildi. Kitaba adını veren öykü İsveç ve Alman televizyonlarında film yapıldı. Arafat’ta Bir Çocuk’un ana konusu, edebiyatın en eski temalarından “sürgün” ve bütün anlamlarıyla “sınır”. Kitapta yer alan öykülerde, Türkiye’nin Avrupa macerasının başladığı 1960’lardan ve 12 Mart 1971’den bu yana işçi ya da siyasi mülteci olarak Avrupa ülkelerine savrulan Türklerin özellikle kültürel çatışmalar bağlamında yaşadığı sıkıntılar işleniyor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <meta content="Arafat'ta Bir Çocuk" name="calibre:title_sort"/>
+    <meta content="{&quot;Zülfü Livaneli&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="id2"/>
+    <meta content="0.9.5" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2016-05-22</dc:date>
+  <dc:title>Arafat'ta Bir Çocuk</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Logolu</dc:subject>
+<dc:subject>Türk Edebiyatı</dc:subject>
+<dc:contributor opf:role="bkp">calibre (2.56.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr-TR</dc:language>
+<dc:identifier opf:scheme="calibre">6d497240-dbed-4a71-bf4b-27fc7d9718d9</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/kapak.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/ic_kapak.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/soz.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/1.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/5.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/6.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/7.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/8.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/arka_kapak.xhtml" id="id26" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id11" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/kunye.css" id="id" media-type="text/css"/>
+    <item href="Styles/main.css" id="id10" media-type="text/css"/>
+    <item href="Images/cover1.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="Images/cover2.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="Images/remzi.png" id="id28" media-type="image/png"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Text/logo.xhtml" id="logo.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id11">
+    <itemref idref="id12"/>
+    <itemref idref="logo.xhtml"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.xhtml" title="" type="cover"/>
+  </guide>
+</package>

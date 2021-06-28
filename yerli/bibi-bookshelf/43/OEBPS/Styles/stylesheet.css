@@ -1,0 +1,206 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    display: block
+    }
+.calibre10 {
+    height: 600px;
+    width: 402px
+    }
+.calibre11 {
+    height: 600px;
+    width: 399px
+    }
+.calibre12 {
+    height: 600px;
+    width: 421px
+    }
+.calibre13 {
+    height: 600px;
+    width: 416px
+    }
+.calibre14 {
+    height: 600px;
+    width: 486px
+    }
+.calibre15 {
+    height: 600px;
+    width: 483px
+    }
+.calibre16 {
+    height: 600px;
+    width: 376px
+    }
+.calibre17 {
+    height: 600px;
+    width: 413px
+    }
+.calibre18 {
+    font-size: smaller;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre19 {
+    height: 90%;
+    width: auto
+    }
+.calibre2 {
+    height: 30px;
+    width: 68px
+    }
+.calibre3 {
+    height: 600px;
+    width: 338px
+    }
+.calibre4 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre5 {
+    height: 600px;
+    width: 412px
+    }
+.calibre6 {
+    height: 600px;
+    width: 403px
+    }
+.calibre7 {
+    height: 50px;
+    width: 50px
+    }
+.calibre8 {
+    height: 540px;
+    width: 464px
+    }
+.calibre9 {
+    height: 600px;
+    width: 467px
+    }
+.chapter {
+    display: block
+    }
+.footnote-link {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline
+    }
+.h2baslik {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.idebold {
+    font-weight: bold
+    }
+.idebold1 {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.idebolditalik {
+    font-style: italic;
+    font-weight: bold
+    }
+.ideitalik {
+    font-style: italic
+    }
+.ideitalik1 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.indentmetin {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-indent: 0.75em
+    }
+.kitapickapak {
+    display: block;
+    font-size: 1.4em;
+    font-weight: 100;
+    line-height: 1.2;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kitapickapak1 {
+    display: block;
+    font-size: 1.3em;
+    line-height: 1.2;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kitapickapak2 {
+    display: block;
+    font-size: 1.4em;
+    font-weight: 100;
+    line-height: 1.2;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.normal {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-indent: 0.75em
+    }
+.normal1 {
+    display: block;
+    font-size: 1em;
+    font-weight: 100;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 0.75em
+    }
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.sagnormal {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
