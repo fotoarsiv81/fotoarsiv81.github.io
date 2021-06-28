@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Anar, İhsan Oktay">İhsan Oktay Anar</dc:creator>
+<dc:identifier id="uuid">{B0C9E283-D965-493F-BE23-5D8BF3E9877E}</dc:identifier>
+    <dc:description>&lt;p&gt;Çok uzak zamanlarda değil, günümüzün otuz, bilemediniz elli yıl öncesinde, üstelik hep "ülkemizde" geçiyor Efrâsiyâb'ın Hikâyeleri. Ancak... Sanki o zamanlardan ve o mekânlardan değil de, başka zaman ve mekânlardan, hatta başka dillerden aşina olduğumuz hikâyeler... Yani, Puslu Kıtalar Atlası'nı ve Kitab-ül Hiyel'i okumuş olanların tahmin edebilecekleri gibi, üzerine söz söylemesi zor, "içine dalması" keyif verici kitaplardan: Estetik'le oyun'un, mizah'la felsefe'nin bir edebî buluşması...&lt;/p&gt;</dc:description>
+    <dc:publisher>İletişim Yayıncılık</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>1998-07-31T21:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2015-02-28</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Efrasiyab'ın Hikayeleri" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;İhsan Oktay Anar&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <dc:title>Efrasiyab'ın Hikayeleri</dc:title>
+<dc:subject>Hikaye</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">ae54245e-1d1b-4126-8ae4-f909629963ef</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754706482</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0000.xhtml" id="main-0000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0001.xhtml" id="main-0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0002.xhtml" id="main-0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0003.xhtml" id="main-0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0004.xhtml" id="main-0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0005.xhtml" id="main-0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0006.xhtml" id="main-0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0007.xhtml" id="main-0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0008.xhtml" id="main-0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0009.xhtml" id="main-0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0010.xhtml" id="main-0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0011.xhtml" id="main-0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0012.xhtml" id="main-0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0013.xhtml" id="main-0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-0014.xhtml" id="main-0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="Images/57406.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/Iletisim.png" id="Iletisim.png" media-type="image/png"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="main-0000.xhtml"/>
+    <itemref idref="main-0001.xhtml"/>
+    <itemref idref="main-0002.xhtml"/>
+    <itemref idref="main-0003.xhtml"/>
+    <itemref idref="main-0004.xhtml"/>
+    <itemref idref="main-0005.xhtml"/>
+    <itemref idref="main-0006.xhtml"/>
+    <itemref idref="main-0007.xhtml"/>
+    <itemref idref="main-0008.xhtml"/>
+    <itemref idref="main-0009.xhtml"/>
+    <itemref idref="main-0010.xhtml"/>
+    <itemref idref="main-0011.xhtml"/>
+    <itemref idref="main-0012.xhtml"/>
+    <itemref idref="main-0013.xhtml"/>
+    <itemref idref="main-0014.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

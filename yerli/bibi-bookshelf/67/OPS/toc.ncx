@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+  <head>
+    <meta name="dtb:uid" content="urn:isbn:9789750515286" />
+  </head>
+  <docTitle>
+    <text>Peri Gazozu</text>
+  </docTitle>
+  <docAuthor>
+    <text>Ercan Kesal</text>
+  </docAuthor>
+  <navMap>
+    <navLabel>
+      <text>İçindekiler</text>
+    </navLabel>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>SUNUŞ</text>
+      </navLabel>
+      <content src="introduction.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Kurban</text>
+      </navLabel>
+      <content src="chapter1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Yetimim, beni göğsüne yasla</text>
+      </navLabel>
+      <content src="chapter2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Ne alakası var baba!</text>
+      </navLabel>
+      <content src="chapter3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Ben büyüdüm baba</text>
+      </navLabel>
+      <content src="chapter4.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Ceket çıktığında</text>
+      </navLabel>
+      <content src="chapter5.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>“Adımızı sorarız birine, o bize adını söyler”</text>
+      </navLabel>
+      <content src="chapter6.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Mühür</text>
+      </navLabel>
+      <content src="chapter7.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Fotoğraftaki kan kimin?</text>
+      </navLabel>
+      <content src="chapter8.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Ekmek kokusu mu, kan kokusu mu?</text>
+      </navLabel>
+      <content src="chapter9.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Ne kalır bizden geriye</text>
+      </navLabel>
+      <content src="chapter10.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Bir damla su</text>
+      </navLabel>
+      <content src="chapter11.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Korkma, bırak ellerini</text>
+      </navLabel>
+      <content src="chapter12.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>İpin ucundaki Türkiye</text>
+      </navLabel>
+      <content src="chapter13.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Kalbimiz avucumuzdadır</text>
+      </navLabel>
+      <content src="chapter14.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>İçimizdeki yanık kokusu</text>
+      </navLabel>
+      <content src="chapter15.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Yorgan</text>
+      </navLabel>
+      <content src="chapter16.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Ölülerimiz nerede?</text>
+      </navLabel>
+      <content src="chapter17.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Analar kokularından bulur kuzularını</text>
+      </navLabel>
+      <content src="chapter18.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Kelimelerin ruhu vardır</text>
+      </navLabel>
+      <content src="chapter19.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Üç tarz-ı hakikat ve biz</text>
+      </navLabel>
+      <content src="chapter20.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Taşra hekimi</text>
+      </navLabel>
+      <content src="chapter21.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Koltuk altı dosya</text>
+      </navLabel>
+      <content src="chapter22.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Ölülerini unutanların ülkesi</text>
+      </navLabel>
+      <content src="chapter23.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Nişanlının gelişi</text>
+      </navLabel>
+      <content src="chapter24.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Yalan</text>
+      </navLabel>
+      <content src="chapter25.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Yaralarım nedendir?</text>
+      </navLabel>
+      <content src="chapter26.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Silah çeken belediyeci</text>
+      </navLabel>
+      <content src="chapter27.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Arkadaşlara söyle, ölmeyi öğrendim</text>
+      </navLabel>
+      <content src="chapter28.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>İnşaallah ölmüştür</text>
+      </navLabel>
+      <content src="chapter29.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Hadi, önce kendimizi kurtaralım</text>
+      </navLabel>
+      <content src="chapter30.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Kestaneden duduk olur mu?</text>
+      </navLabel>
+      <content src="chapter31.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

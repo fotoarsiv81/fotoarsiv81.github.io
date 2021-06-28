@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Anar, İhsan Oktay">İhsan Oktay Anar</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">f77e3524-05ce-4670-ac50-8c2d8371a603</dc:identifier>
+    <dc:date>2005-01-24T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-10-10</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="amat.jpg"/>
+    <meta content="Amat" name="calibre:title_sort"/>
+    <dc:publisher>İletişim Yayıncılık</dc:publisher>
+    <meta content="8.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;"Kıyıda ise üç direkli, iki güverteli ve 58 toplu bir kalyon, o karanlıkta usturmaçlarını puta edip iskeleye palamar vermişti. Yelkenlerin sarılı olduğu serenler hisar edilmiş ve tez zamanda yola çıkacağını ilân için mizana direğine mavi bayrak çekilmişti. Esrarengiz adam, kalabalığı yarıp elinden tuttuğu İsrâfil'le iskeleden gemiye doğru yürümeye başladı. Kalyonun
+dikmesinin palangalarına asılan ve tıraka tutan gemicilere vardiyan, Yisa, sizi gidi sütü bozuk sünepeler! Yisa beraber! Varda ruhsuzlar! Varda! Bre aman! Laşka! Laşka!? diye feryat ediyor ve hurçların, sandıkların ve fıçıların ambarlara usûlünce istifine nezaret ediyordu. Güneşin doğmasına 7 saat kala esrarengiz adam, sürme iskeleden kalyonun çukur güvertesine çıkmak istedi. Fakat eline ne kadar asılırsa asılsın Eşek İsrâfil yerinden bir türlü kımıldamıyordu. O karanlıkta eline son bir kez daha asılıp Gel yâ mübarek diye nida eyledi. Bunun üzerine çocuk her nedense inat etmekten vazgeçti. Ne var ki, sürme iskelenin kayganlığından dolayı düşmemek için midir, İsrâfil'in kuşağına 40-50 yaşlarında, iri yapılı, sırma işlemeli siyah kaput giymiş biri yapışmıştı. İşte bu adam kuşağı bırakıp küpeşteye
+tutundu ve güverteye ayak bastı. Bunun ilâhi düzenin bozulması demek olduğunu hiç kimse bilmeyecekti."&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;İhsan Oktay Anar&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:title>Amat</dc:title>
+<dc:subject>Tarihi Roman</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">abd4fe28-fa03-4c38-9e58-7ce1a0ae22dd</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750503726</dc:identifier>
+<dc:identifier opf:scheme="UUID">f77e3524-05ce-4670-ac50-8c2d8371a603</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/chapter.xhtml" id="text1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/styles1.css" id="resource7" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/amat.jpg" id="amat.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/image001.png" id="image001.png" media-type="image/png"/>
+    <item href="Images/image002.png" id="image002.png" media-type="image/png"/>
+    <item href="Images/image003.png" id="image003.png" media-type="image/png"/>
+    <item href="Images/image004.png" id="image004.png" media-type="image/png"/>
+    <item href="Images/image005.png" id="image005.png" media-type="image/png"/>
+    <item href="Images/image006.png" id="image006.png" media-type="image/png"/>
+    <item href="Text/chapter2.xhtml" id="chapter2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="text1"/>
+    <itemref idref="text2"/>
+    <itemref idref="chapter2.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/chapter.xhtml" title="Text" type="text"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,93 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Puslu Kıtalar Atlası</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Anar, İhsan Oktay">İhsan Oktay Anar</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:contributor opf:role="edt">Oğuzhan Yağız</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>İletişim Yayınevi</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (3.22.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-09-20</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">9471f992-2844-4d2a-91f0-94c7513fa43c</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_cover.jpg"/>
+    <meta content="Puslu Kıtalar Atlası" name="calibre:title_sort"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;İhsan Oktay Anar&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/telif.xhtml" id="telif.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dikkat.xhtml" id="dikkat.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/gir1.xhtml" id="gir1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/gir2.xhtml" id="gir2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/gir3.xhtml" id="gir3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nakkal1.xhtml" id="nakkal1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic1.xhtml" id="ic1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nakkal2.xhtml" id="nakkal2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic2.xhtml" id="ic2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic3.xhtml" id="ic3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic4.xhtml" id="ic4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nakkal3.xhtml" id="nakkal3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic5.xhtml" id="ic5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nakkal4.xhtml" id="nakkal4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic6.xhtml" id="ic6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic7.xhtml" id="ic7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nakkal5.xhtml" id="nakkal5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic8.xhtml" id="ic8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic9.xhtml" id="ic9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nakkal6.xhtml" id="nakkal6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic10.xhtml" id="ic10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic11.xhtml" id="ic11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/nakkal7.xhtml" id="nakkal7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+    <item href="Styles/Nakkal.css" id="Nakkal.css" media-type="text/css"/>
+    <item href="Images/_cover.jpg" id="_cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/Art_Pcommon.jpg" id="Art_Pcommon.jpg" media-type="image/jpeg"/>
+    <item href="Images/Nakkal Siyah.png" id="Nakkal_Siyah.png" media-type="image/png"/>
+    <item href="Images/yol.jpg" id="yol.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html"/>
+    <itemref idref="telif.xhtml"/>
+    <itemref idref="dikkat.xhtml"/>
+    <itemref idref="toc.xhtml"/>
+    <itemref idref="gir1.xhtml"/>
+    <itemref idref="gir2.xhtml"/>
+    <itemref idref="gir3.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="nakkal1.xhtml"/>
+    <itemref idref="ic1.xhtml"/>
+    <itemref idref="nakkal2.xhtml"/>
+    <itemref idref="ic2.xhtml"/>
+    <itemref idref="ic3.xhtml"/>
+    <itemref idref="ic4.xhtml"/>
+    <itemref idref="nakkal3.xhtml"/>
+    <itemref idref="ic5.xhtml"/>
+    <itemref idref="nakkal4.xhtml"/>
+    <itemref idref="ic6.xhtml"/>
+    <itemref idref="ic7.xhtml"/>
+    <itemref idref="nakkal5.xhtml"/>
+    <itemref idref="ic8.xhtml"/>
+    <itemref idref="ic9.xhtml"/>
+    <itemref idref="nakkal6.xhtml"/>
+    <itemref idref="ic10.xhtml"/>
+    <itemref idref="ic11.xhtml"/>
+    <itemref idref="nakkal7.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" title="Cover" type="cover"/>
+    <reference href="Text/toc.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/rica.html" title="Text" type="text"/>
+    <reference href="Text/dikkat.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum1.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum2.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum3.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum4.xhtml" title="Text" type="text"/>
+  </guide>
+</package>

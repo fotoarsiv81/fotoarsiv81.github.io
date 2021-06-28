@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="urn:uuid:98162ebc-131a-4dea-b44d-0c437b5b5d27" name="dtb:uid"/>
+		<meta content="0" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>
+	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Yazar Hakkında</text>
+			</navLabel>
+			<content src="Text/Yazar%20Hakkinda.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>İç Kapak</text>
+			</navLabel>
+			<content src="Text/ic%20Kapak.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>Künye</text>
+			</navLabel>
+			<content src="Text/Kunye.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>Epigraf</text>
+			</navLabel>
+			<content src="Text/Epigraf.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>Teşekkür</text>
+			</navLabel>
+			<content src="Text/Tesekkur.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>Molla Kasım</text>
+			</navLabel>
+			<content src="Text/Molla%20Kasim.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>Şüphe</text>
+			</navLabel>
+			<content src="Text/suphe.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>1. Bölüm - Rençber</text>
+			</navLabel>
+			<content src="Text/1.%20Bolum%20-%20Rencber.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>İbrahim</text>
+			</navLabel>
+			<content src="Text/ibrahim.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>Temür Alp</text>
+			</navLabel>
+			<content src="Text/Temur%20Alp.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>Satı Nine</text>
+			</navLabel>
+			<content src="Text/Sati%20Nine.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>Sitare</text>
+			</navLabel>
+			<content src="Text/Sitare.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>Hacı Bektaş</text>
+			</navLabel>
+			<content src="Text/Haci%20Bektas.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>Aslanlı Hünkar</text>
+			</navLabel>
+			<content src="Text/Aslanli%20Hunkar.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>Samuel</text>
+			</navLabel>
+			<content src="Text/Samuel.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint16" playOrder="16">
+			<navLabel>
+				<text>Alamutlu</text>
+			</navLabel>
+			<content src="Text/Alamutlu.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>Sitare_</text>
+			</navLabel>
+			<content src="Text/Sitare_.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>2.Bölüm - Derviş</text>
+			</navLabel>
+			<content src="Text/2.Bolum%20-%20Dervis.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>Tapduk Sultan</text>
+			</navLabel>
+			<content src="Text/Tapduk%20Sultan.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint20" playOrder="20">
+			<navLabel>
+				<text>Çelebi Faruk</text>
+			</navLabel>
+			<content src="Text/celebi%20Faruk.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint21" playOrder="21">
+			<navLabel>
+				<text>Mevlâna Hüdavendigâr</text>
+			</navLabel>
+			<content src="Text/Mevlana%20Hudavendigar.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint22" playOrder="22">
+			<navLabel>
+				<text>Samuel-1</text>
+			</navLabel>
+			<content src="Text/Samuel-1.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint23" playOrder="23">
+			<navLabel>
+				<text>Padişah</text>
+			</navLabel>
+			<content src="Text/Padisah.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint24" playOrder="24">
+			<navLabel>
+				<text>Avare</text>
+			</navLabel>
+			<content src="Text/Avare.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint25" playOrder="25">
+			<navLabel>
+				<text>Abdallar</text>
+			</navLabel>
+			<content src="Text/Abdallar.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint26" playOrder="26">
+			<navLabel>
+				<text>Aslanlı Hünkar-1</text>
+			</navLabel>
+			<content src="Text/Aslanli%20Hunkar-1.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint27" playOrder="27">
+			<navLabel>
+				<text>Ana Bacı</text>
+			</navLabel>
+			<content src="Text/Ana%20Baci.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint28" playOrder="28">
+			<navLabel>
+				<text>Samuel_</text>
+			</navLabel>
+			<content src="Text/Samuel_.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint29" playOrder="29">
+			<navLabel>
+				<text>Yunus-ı Guyende</text>
+			</navLabel>
+			<content src="Text/Yunus-i%20Guyende.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint30" playOrder="30">
+			<navLabel>
+				<text>Çelebi Faruk_</text>
+			</navLabel>
+			<content src="Text/celebi%20Faruk_.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint31" playOrder="31">
+			<navLabel>
+				<text>Baybars</text>
+			</navLabel>
+			<content src="Text/Baybars.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint32" playOrder="32">
+			<navLabel>
+				<text>3.Bölüm - Işık</text>
+			</navLabel>
+			<content src="Text/3.Bolum%20-%20isik.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint33" playOrder="33">
+			<navLabel>
+				<text>Zahir Baba</text>
+			</navLabel>
+			<content src="Text/Zahir%20Baba.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint34" playOrder="34">
+			<navLabel>
+				<text>Samuel-2</text>
+			</navLabel>
+			<content src="Text/Samuel-2.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint35" playOrder="35">
+			<navLabel>
+				<text>Çoban</text>
+			</navLabel>
+			<content src="Text/coban.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint36" playOrder="36">
+			<navLabel>
+				<text>Samuel_-1</text>
+			</navLabel>
+			<content src="Text/Samuel_-1.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint37" playOrder="37">
+			<navLabel>
+				<text>Geyikli Baba</text>
+			</navLabel>
+			<content src="Text/Geyikli%20Baba.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint38" playOrder="38">
+			<navLabel>
+				<text>Turakçın</text>
+			</navLabel>
+			<content src="Text/Turakcin.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint39" playOrder="39">
+			<navLabel>
+				<text>Samuel__</text>
+			</navLabel>
+			<content src="Text/Samuel__.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint40" playOrder="40">
+			<navLabel>
+				<text>Molla Kasım-1</text>
+			</navLabel>
+			<content src="Text/Molla%20Kasim-1.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint41" playOrder="41">
+			<navLabel>
+				<text>Arka Kapak</text>
+			</navLabel>
+			<content src="Text/Arka%20Kapak.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>

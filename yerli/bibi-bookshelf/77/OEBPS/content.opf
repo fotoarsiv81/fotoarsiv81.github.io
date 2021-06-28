@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:file-as="Pala, İskender" ns0:role="aut">İskender Pala</dc:creator>
+    <dc:identifier id="bookid">urn:uuid:98162ebc-131a-4dea-b44d-0c437b5b5d27</dc:identifier>
+    <dc:publisher>Kapı Yayınları</dc:publisher>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf">2010-12-31T22:00:00+00:00</dc:date>
+    <meta content="Adobe InDesign" name="generator" />
+    <meta name="cover" content="od.jpg" />
+    <meta content="0.8.7" name="Sigil version" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2016-05-23</dc:date>
+    <dc:title>Od</dc:title>
+    <meta content="Od" name="calibre:title_sort" />
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>Tarih</dc:subject>
+    <dc:subject>Aşk</dc:subject>
+    <dc:subject>Yunus Emre</dc:subject>
+    <dc:description>&lt;p&gt;Od bir Yunus Emre romanı. Gök kubbemizin her zaman parlayan ve hep çok sevilen, şiirleri gönülden gönüle dolup dilden dile dolaşan Yunus Emre, bu kez Od’un ana kahramanı. İskender Pala’nın ilim ve kültür adamı olmasının yanında, yazar kişiliğinin imbiğinden geçirilerek aşkın tahtına bir kez daha oturtuluyor. 13. yüzyılın her bakımdan kavruk ve yanıp yıkılan ortamına Yunus Emre’nin gelişi tarihi atmosfer içerisinde hakiki anlamına kavuşturuluyor. Yıkıntılar ve yangınlar içinden bir gönül ve bir insanlık anıtının inşa edilişi cümle cümle anlatılıyor ve elbette kalbe dokuna dokuna yol alıyor. Romanın her sayfasında Yunus’un hamlıktan saflığa geçişi okunuyor.&lt;/p&gt;</dc:description>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;İskender Pala&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">1b31078a-5871-4b5e-bd5b-9f9107be6f02</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9786054322848</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Text/Yazar%20Hakkinda.xhtml" id="Yazar_Hakkinda.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/ic%20Kapak.xhtml" id="ic_Kapak.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Epigraf.xhtml" id="Epigraf" media-type="application/xhtml+xml" />
+    <item href="Text/Tesekkur.xhtml" id="Tesekkur.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Molla%20Kasim.xhtml" id="Molla_Kasim.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/suphe.xhtml" id="suphe.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/1.%20Bolum%20-%20Rencber.xhtml" id="x1._Bolum_-_Rencber.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/ibrahim.xhtml" id="ibrahim.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Temur%20Alp.xhtml" id="Temur_Alp.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Sati%20Nine.xhtml" id="Sati_Nine.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Sitare.xhtml" id="Sitare" media-type="application/xhtml+xml" />
+    <item href="Text/Haci%20Bektas.xhtml" id="Haci_Bektas.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Aslanli%20Hunkar.xhtml" id="Aslanli_Hunkar.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Samuel.xhtml" id="Samuel" media-type="application/xhtml+xml" />
+    <item href="Text/Alamutlu.xhtml" id="Alamutlu" media-type="application/xhtml+xml" />
+    <item href="Text/Sitare_.xhtml" id="Sitare_" media-type="application/xhtml+xml" />
+    <item href="Text/2.Bolum%20-%20Dervis.xhtml" id="x2.Bolum_-_Dervis.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Tapduk%20Sultan.xhtml" id="Tapduk-Sultan" media-type="application/xhtml+xml" />
+    <item href="Text/celebi%20Faruk.xhtml" id="celebi_Faruk.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Mevlana%20Hudavendigar.xhtml" id="Mevlana_Hudavendigar.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Samuel-1.xhtml" id="Samuel-1" media-type="application/xhtml+xml" />
+    <item href="Text/Padisah.xhtml" id="Padisah.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Avare.xhtml" id="Avare" media-type="application/xhtml+xml" />
+    <item href="Text/Abdallar.xhtml" id="Abdallar" media-type="application/xhtml+xml" />
+    <item href="Text/Aslanli%20Hunkar-1.xhtml" id="Aslanli_Hunkar-1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ana%20Baci.xhtml" id="Ana_Baci.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Samuel_.xhtml" id="Samuel_" media-type="application/xhtml+xml" />
+    <item href="Text/Yunus-i%20Guyende.xhtml" id="Yunus-i_Guyende.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/celebi%20Faruk_.xhtml" id="celebi_Faruk_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Baybars.xhtml" id="Baybars" media-type="application/xhtml+xml" />
+    <item href="Text/3.Bolum%20-%20isik.xhtml" id="x3.Bolum_-_isik.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Zahir%20Baba.xhtml" id="Zahir-Baba" media-type="application/xhtml+xml" />
+    <item href="Text/Samuel-2.xhtml" id="Samuel-2" media-type="application/xhtml+xml" />
+    <item href="Text/coban.xhtml" id="coban.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Samuel_-1.xhtml" id="Samuel_-1" media-type="application/xhtml+xml" />
+    <item href="Text/Geyikli%20Baba.xhtml" id="Geyikli-Baba" media-type="application/xhtml+xml" />
+    <item href="Text/Turakcin.xhtml" id="Turakcin.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Samuel__.xhtml" id="Samuel__" media-type="application/xhtml+xml" />
+    <item href="Text/Molla%20Kasim-1.xhtml" id="Molla_Kasim-1.xhtml" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/Pala_OD.css" id="Pala_OD.css" media-type="text/css" />
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css" />
+    <item href="Images/od.jpg" id="od.jpg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="Yazar_Hakkinda.xhtml" />
+    <itemref idref="ic_Kapak.xhtml" />
+    <itemref idref="Kunye.xhtml" />
+    <itemref idref="Epigraf" />
+    <itemref idref="Tesekkur.xhtml" />
+    <itemref idref="Molla_Kasim.xhtml" />
+    <itemref idref="suphe.xhtml" />
+    <itemref idref="x1._Bolum_-_Rencber.xhtml" />
+    <itemref idref="ibrahim.xhtml" />
+    <itemref idref="Temur_Alp.xhtml" />
+    <itemref idref="Sati_Nine.xhtml" />
+    <itemref idref="Sitare" />
+    <itemref idref="Haci_Bektas.xhtml" />
+    <itemref idref="Aslanli_Hunkar.xhtml" />
+    <itemref idref="Samuel" />
+    <itemref idref="Alamutlu" />
+    <itemref idref="Sitare_" />
+    <itemref idref="x2.Bolum_-_Dervis.xhtml" />
+    <itemref idref="Tapduk-Sultan" />
+    <itemref idref="celebi_Faruk.xhtml" />
+    <itemref idref="Mevlana_Hudavendigar.xhtml" />
+    <itemref idref="Samuel-1" />
+    <itemref idref="Padisah.xhtml" />
+    <itemref idref="Avare" />
+    <itemref idref="Abdallar" />
+    <itemref idref="Aslanli_Hunkar-1.xhtml" />
+    <itemref idref="Ana_Baci.xhtml" />
+    <itemref idref="Samuel_" />
+    <itemref idref="Yunus-i_Guyende.xhtml" />
+    <itemref idref="celebi_Faruk_.xhtml" />
+    <itemref idref="Baybars" />
+    <itemref idref="x3.Bolum_-_isik.xhtml" />
+    <itemref idref="Zahir-Baba" />
+    <itemref idref="Samuel-2" />
+    <itemref idref="coban.xhtml" />
+    <itemref idref="Samuel_-1" />
+    <itemref idref="Geyikli-Baba" />
+    <itemref idref="Turakcin.xhtml" />
+    <itemref idref="Samuel__" />
+    <itemref idref="Molla_Kasim-1.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

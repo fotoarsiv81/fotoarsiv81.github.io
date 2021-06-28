@@ -1,0 +1,17 @@
+h2 {
+font-size:200% ;
+text-align:center;
+text-decoration:underline;
+padding-bottom: 4em;
+}
+
+span.alt{
+font-family:'Arial';
+font-size:50%;
+text-decoration:none;
+} 
+
+p {
+text-indent:1em;
+text-align:justify;
+}

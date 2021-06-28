@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Anar, İhsan Oktay">İhsan Oktay Anar</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:6dab470b-c90d-4529-8cf6-144675d68def</dc:identifier>
+    <dc:date>2007-01-11T22:00:00+00:00</dc:date>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <meta name="cover" content="iletisim-suskunlar.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Suskunlar" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;Eflâtun rengi hayaller kuran bir “suskun”un sözleridir, bu roman. İşittiğini gören, gördüğünü dinleyen, dinlediğini sessizliğin büyüsüyle sırlayan ve tüm bunların görkemini hikâye eden bir adamın alçakgönüllü dünyasına misafir olacaksınız, satırlar akıp giderken. O ise, muzip bir tebessümle size eşlik edecek, sessizce... Sayfaları birer birer tüketirken, benzersiz erguvanî düşlerin “gerçekliği”nde semâ edeceksiniz ve bu düşlerden âdeta başınız dönecek. Hayat kadar gerçek, düş kadar inanılmaz bu dünyanın tüm kahramanlarının seslerini duyacak, nefeslerini hissedeceksiniz. Çünkü Suskunlar, sessizliğin olduğu kadar, seslerin ve sözlerin, yani musikînin romanıdır. Sonsuzluğun derin sessizliğinin “nefesini üfleyen” ve ona “can veren” bir adamın hayallerinin ete kemiğe bürünmüş kahramanları, en az sizler kadar gerçektir; ya da siz, en az onlar kadar bir düş ürünü... Bağdasar, Kirkor, Dâvut, Kalın Musa, İbrahim Dede Efendi, Rafael, Tağut, Veysel Bey ve diğerleri... Onlar, sessizliğin evreninden İhsan Oktay Anar’ın düş dünyasına duhûl ederek suskunluklarını bozmuşlardır. Bir meczûp aşkı tattı, bir âşıksa aşkına şarkılar yazıp ruhunu maviyle bezedi; diğeri, kaybolduğu dünyada bir sesin peşine düşerek kendini buldu. Nevâ, belki de, herkesin âşık olduğu bir kadının pür hayâliydi. Hayâlet avcısı, kendi ruhunu yakalamaya çalıştı. Zâhir ve Bâtın ise, zıtlıkların muhteşem birliğinde denge bulan iki ayrı gücün cisimleşmiş hâliydi. Suskunlar’ı okuduktan sonra aynaya bakmak, yansıyan aksinizde gerçeği görmek, gördüğünüzü işitmek ve duyduklarınızla sağırlaşıp susmak isteyeceksiniz. Sayfalar tükenip bittiğinde, kim bilir, belki de “suskunlar”dan biri&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;İhsan Oktay Anar&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2015-04-27</dc:date>
+    <dc:title>Suskunlar</dc:title>
+<dc:subject>Türk Edebiyatı</dc:subject>
+<dc:subject>Tarihi Roman</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e75dce9e-91e1-4521-8386-c12ee9696bac</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750505386</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:6dab470b-c90d-4529-8cf6-144675d68def</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/iletisim-suskunlar.jpg" id="iletisim-suskunlar.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Section0001.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

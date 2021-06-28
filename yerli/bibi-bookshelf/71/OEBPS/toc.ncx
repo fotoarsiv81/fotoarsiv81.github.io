@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Puslu Kıtalar Atlası</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Yeni Roman Ülkelerinde...</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Kostantiniye'de Birkaç Kişi</text>
+      </navLabel>
+      <content src="Text/nakkal1.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/nakkal1.xhtml#heading_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/ic1.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Günbatımı</text>
+      </navLabel>
+      <content src="Text/nakkal2.xhtml"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/nakkal2.xhtml#heading_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/ic2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/ic3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/ic4.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Yeraltı</text>
+      </navLabel>
+      <content src="Text/nakkal3.xhtml"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/nakkal3.xhtml#heading_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/ic5.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Yılanın Renkleri</text>
+      </navLabel>
+      <content src="Text/nakkal4.xhtml"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/nakkal4.xhtml#heading_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/ic6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/ic7.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Büyük Efendi</text>
+      </navLabel>
+      <content src="Text/nakkal5.xhtml"/>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/nakkal5.xhtml#heading_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/ic8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/ic9.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Ölüler ve Kahramanlar</text>
+      </navLabel>
+      <content src="Text/nakkal6.xhtml"/>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/nakkal6.xhtml#heading_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/ic10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/ic11.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Karanlık</text>
+      </navLabel>
+      <content src="Text/nakkal7.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="f77e3524-05ce-4670-ac50-8c2d8371a603" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Amat</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

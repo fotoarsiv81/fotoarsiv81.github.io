@@ -1,0 +1,18 @@
+body {}
+p.Standard {margin-left:0;margin-right:0;margin-top:0;margin-bottom:0;border:none;padding:0}
+p.Textbody {margin-left:0;margin-right:0;margin-top:0;margin-bottom:8.012598px;border:none;padding:0}
+.frameGraphics {margin-left:0;margin-right:0;margin-top:0;margin-bottom:0;border:none;padding:0}
+.frameGraphics p {margin-left:0;margin-right:0;margin-top:0;margin-bottom:0}
+h1
+{
+margin-top:3em;
+margin-bottom:5em;
+text-align:center;
+Font-size:1.5em;
+}
+p{
+text-align:justify;
+text-indent:1em;
+margin-top:0.3em;
+margin-bottom:0.3em;
+}

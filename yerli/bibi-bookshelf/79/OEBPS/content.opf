@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta content="İstanbul Hatırası" name="calibre:title_sort" />
+    <dc:language>tr</dc:language>
+    <dc:creator opf:file-as="Ümit, Ahmet" opf:role="aut">Ahmet Ümit</dc:creator>
+    <meta content="2014-02-08T19:17:35.556000+00:00" name="calibre:timestamp" />
+    <dc:title>İstanbul Hatırası</dc:title>
+    <meta name="cover" content="cover" />
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.23.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c9d87b12-0084-421a-90ce-4e8e4da94fa9</dc:identifier>
+    <dc:identifier opf:scheme="calibre">c9d87b12-0084-421a-90ce-4e8e4da94fa9</dc:identifier>
+    <dc:subject>www.epubkitap.com</dc:subject>
+    <dc:subject>www.freekitap.com</dc:subject>
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date opf:event="modification">2016-01-22</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg" />
+    <item href="Text/tesekkur.html" id="tesekkur.html" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_001.html" id="id18" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_002.html" id="id17" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_003.html" id="id16" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_004.html" id="id15" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_005.html" id="id14" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_006.html" id="id13" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_007.html" id="id12" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_008.html" id="id11" media-type="application/xhtml+xml" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_000.html" id="index_split_000.html" media-type="application/xhtml+xml" />
+    <item href="Text/ithaf.html" id="ithaf.html" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="index_split_000.html" />
+    <itemref idref="ithaf.html" />
+    <itemref idref="tesekkur.html" />
+    <itemref idref="id18" />
+    <itemref idref="id17" />
+    <itemref idref="id16" />
+    <itemref idref="id15" />
+    <itemref idref="id14" />
+    <itemref idref="id13" />
+    <itemref idref="id12" />
+    <itemref idref="id11" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

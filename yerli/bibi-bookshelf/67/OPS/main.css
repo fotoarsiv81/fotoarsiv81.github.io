@@ -1,0 +1,184 @@
+@font-face {
+  font-family: "Nato";
+  font-style: normal;
+  font-weight: normal;
+  src: url('font/NotoSerif-Regular.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Nato";
+  font-style: italic;
+  font-weight: normal;
+  src: url('font/NotoSerif-Italic.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Nato";
+  font-style: normal;
+  font-weight: bold;
+  src: url('font/NotoSerif-Bold.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Nato";
+  font-style: italic;
+  font-weight: bold;
+  src: url('font/NotoSerif-BoldItalic.ttf') format("truetype");
+}
+@font-face {
+  font-family: "NatoS";
+  font-style: normal;
+  font-weight: bold;
+  src: url('font/NotoSans-Bold.ttf') format("truetype");
+}
+@font-face {
+  font-family: "NatoS";
+  font-style: italic;
+  font-weight: normal;
+  src: url('font/NotoSans-Italic.ttf') format("truetype");
+}
+@font-face {
+  font-family: "NatoS";
+  font-style: normal;
+  font-weight: normal;
+  src: url('font/NotoSans-Regular.ttf') format("truetype");
+}
+@font-face {
+  font-family: "NatoS";
+  font-style: italic;
+  font-weight: bold;
+  src: url('font/NotoSans-BoldItalic.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Three Stars";
+  font-style: normal;
+  font-weight: normal;
+  src: url('font/three-stars.ttf') format("truetype");
+}
+.baslik {
+  font: italic bold 1.25em "NatoS";
+  text-align: center;
+  margin: 1em auto 7em auto;
+}
+.alt-baslik {
+  font: normal bold .95em "Nato";
+  margin: 1em auto 0 auto;
+}
+.b-big {
+  font-size: 1.1em;
+}
+p {
+  font: normal normal .91em / 1.5em "Nato";
+  margin: .2em 0 0;
+  text-indent: 1.3em;
+  text-align: justify;
+}
+.s-margin {
+  margin-top: 7em;
+}
+.no-indent {
+  text-indent: 0;
+}
+.margin {
+  border: none;
+  margin: 1em auto;
+}
+.titlepage p {
+  text-indent: 0;
+  text-align: center;
+}
+.t-1 {
+  font: normal normal 1.16em / 1.1em "Nato";
+  margin: 0 0 .1em 0;
+}
+.t-2 {
+  font: normal bold 3em / 1.1em "Nato";
+  margin: 0;
+}
+.title {
+  width: 50px !important;
+  margin: 2em auto 5em auto;
+}
+.title img {
+  width: 50px;
+}
+.copyright-page section {
+  font-family: "Nato";
+  margin-bottom: 1em;
+  font-size: .83em;
+  line-height: 1.4em;
+}
+.copyright-page em {
+  font-size: .9em;
+  font-style: italic;
+}
+.small {
+  font-size: .75em;
+}
+a {
+  text-decoration: none;
+  color: #aaaaaa;
+}
+#biography p {
+  font: normal normal .75em / 1.4em "Nato";
+  padding-left: 1em;
+  text-align: justify;
+}
+.first {
+  text-indent: -1em;
+}
+img {
+  width: 100%;
+}
+.cover div {
+  max-width: 500px;
+  margin: 0 auto;
+}
+.yildiz {
+  text-align: center;
+  margin: 1em auto;
+  border: none;
+}
+.yildiz:after {
+  content: "*";
+  font: normal normal .74em / 1.3em "Three Stars";
+}
+.si-noteref {
+  text-decoration: none;
+  color: #7a7a7a;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes {
+  margin: 4em 0 1em;
+}
+.si-backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+}
+.si-footnote {
+  font-family: Nato;
+  font-size: .8em;
+  margin-bottom: .25em;
+}
+.p-right {
+  text-align: right;
+}
+.ic-image {
+  width: 450px;
+  margin: 1em auto;
+  page-break-inside: avoid;
+}
+figcaption {
+  font: normal normal .8em "Natos";
+  text-align: center;
+}
+#intro h1 {
+  font-style: normal;
+}
+.lvl1 {
+  margin-top: 2em;
+}
+h1, h2, h3, h4, h5, h6, .copyright-page section, .dedication p {
+  hyphens: none !important;
+}

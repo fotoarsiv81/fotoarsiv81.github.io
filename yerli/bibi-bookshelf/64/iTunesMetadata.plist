@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Turgut Özakman</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>5D589B9C2BEBB2A56C9F8B56041F32C8</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>package-file-hash</key>
+		<string>A5FBECA9B2430DFD43CF9A6335F9E58B</string>
+		<key>publisher-unique-id</key>
+		<string>5a6dca0b-c2ed-4e45-96f4-2849311fb2ec</string>
+		<key>unique-id</key>
+		<integer>-5478919087055382987</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Diriliş Çanakkale 1915</string>
+	<key>playlistName</key>
+	<string>Diriliş Çanakkale 1915</string>
+	<key>releaseDate</key>
+	<string>2011-07-11T09:12:35+00:00</string>
+	<key>sort-artist</key>
+	<string>Özakman, Turgut</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

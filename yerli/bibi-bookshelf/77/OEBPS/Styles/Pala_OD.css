@@ -1,0 +1,1725 @@
+@font-face {
+	font-family:Georgia;
+	font-style:normal;
+	font-weight:normal;
+	
+}
+@font-face {
+	font-family:Georgia;
+	font-style:normal;
+	font-weight:bold;
+	
+}
+@font-face {
+	font-family:Georgia;
+	font-style:italic;
+	font-weight:normal;
+	
+}
+@font-face {
+	font-family:Georgia;
+	font-style:oblique;
+	font-weight:normal;
+	
+}
+@font-face {
+	font-family:"Minion Pro";
+	font-style:italic;
+	font-weight:bold;
+	
+}
+@font-face {
+	font-family:"Minion Pro";
+	font-style:oblique;
+	font-weight:bold;
+	
+}
+@font-face {
+	font-family:"Minion Pro";
+	font-style:italic;
+	font-weight:normal;
+	
+}
+@font-face {
+	font-family:"Minion Pro";
+	font-style:oblique;
+	font-weight:normal;
+	
+}
+@font-face {
+	font-family:"Minion Pro";
+	font-style:normal;
+	font-weight:normal;
+	
+}
+@font-face {
+	font-family:"Times New Roman";
+	font-style:italic;
+	font-weight:bold;
+	
+}
+@font-face {
+	font-family:"Times New Roman";
+	font-style:oblique;
+	font-weight:bold;
+	
+}
+@font-face {
+	font-family:"Times New Roman";
+	font-style:normal;
+	font-weight:bold;
+	
+}
+@font-face {
+	font-family:"Times New Roman";
+	font-style:italic;
+	font-weight:normal;
+	
+}
+@font-face {
+	font-family:"Times New Roman";
+	font-style:oblique;
+	font-weight:normal;
+	
+}
+@font-face {
+	font-family:"Times New Roman";
+	font-style:normal;
+	font-weight:normal;
+	
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+p.Basic-Paragraph {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal--Web- {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-1 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-1 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-2 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-2 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-3 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-3 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-4 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-4 {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:Calibri, sans-serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-5 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-5 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-6 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-6 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-7 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.No-Paragraph-Style {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-7 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-8 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-8 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-9 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-9 {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:Calibri, sans-serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-10 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-10 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-11 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-11 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-12 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-12 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-13 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-13 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-14 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-14 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-15 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-15 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-16 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-16 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-17 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-17 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-18 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-19 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-20 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-18 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-21 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-19 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-22 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-20 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-23 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-21 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-24 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-22 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-25 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-23 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-26 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-24 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-27 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-28 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-25 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-29 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-26 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-30 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-27 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-31 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-32 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-28 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-33 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-29 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-34 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.No-Paragraph-Style-1 {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-35 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-30 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-36 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal-31 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-G-vdesi-37 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.15;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+span.x-nternet-Ba-lant-s- {
+	color:#000080;
+	text-decoration:underline;
+}
+p.para-style-override-1 {
+	margin-bottom:9px;
+	text-align:center;
+}
+p.para-style-override-2 {
+	margin-bottom:9px;
+	margin-left:100px;
+	margin-right:100px;
+	text-align:justify;
+}
+p.para-style-override-3 {
+	text-align:center;
+}
+p.para-style-override-4 {
+	font-family:"Times New Roman", serif;
+	font-style:normal;
+	font-weight:bold;
+}
+p.para-style-override-5 {
+	font-family:"Times New Roman", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-weight:bold;
+}
+p.para-style-override-6 {
+	font-family:"Times New Roman", serif;
+	font-size:0.917em;
+	font-style:italic;
+	font-weight:normal;
+}
+p.para-style-override-7 {
+	font-family:Georgia, serif;
+	font-style:italic;
+	font-weight:normal;
+	text-align:center;
+}
+p.para-style-override-8 {
+	font-family:Georgia, serif;
+	font-size:1.167em;
+	font-style:italic;
+	font-weight:normal;
+	margin-bottom:12px;
+	text-align:center;
+}
+p.para-style-override-9 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	margin-left:32px;
+}
+p.para-style-override-10 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+}
+p.para-style-override-11 {
+	margin-bottom:9px;
+}
+p.para-style-override-12 {
+	margin-bottom:9px;
+	text-align:justify;
+}
+p.para-style-override-13 {
+	margin-bottom:9px;
+	margin-left:35px;
+	text-align:justify;
+}
+p.para-style-override-14 {
+	font-size:1.167em;
+	margin-bottom:9px;
+	text-align:justify;
+}
+p.para-style-override-15 {
+	font-size:1.167em;
+	margin-bottom:9px;
+	text-align:center;
+}
+p.para-style-override-16 {
+	font-size:1.333em;
+	margin-bottom:9px;
+	text-align:center;
+}
+p.para-style-override-17 {
+	font-size:1.083em;
+	margin-bottom:9px;
+	text-align:justify;
+}
+p.para-style-override-18 {
+	text-align:justify;
+}
+p.para-style-override-19 {
+	font-size:1.333em;
+	margin-bottom:9px;
+	text-align:justify;
+}
+p.para-style-override-20 {
+	font-size:1.167em;
+	margin-bottom:12px;
+	text-align:justify;
+}
+p.para-style-override-21 {
+	font-family:"Times New Roman", serif;
+	font-style:italic;
+	font-weight:normal;
+	text-align:center;
+}
+p.para-style-override-22 {
+	font-family:"Times New Roman", serif;
+	font-size:1.083em;
+	font-style:italic;
+	font-weight:normal;
+	text-align:center;
+}
+p.para-style-override-23 {
+	font-family:"Minion Pro", serif;
+	font-size:1.083em;
+	font-style:italic;
+	font-weight:normal;
+	margin-bottom:9px;
+}
+span.char-style-override-1 {
+	font-family:"Times New Roman";
+	font-size:1.083em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-2 {
+	font-family:"Times New Roman";
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-3 {
+	font-family:"Times New Roman";
+	font-size:1.091em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-4 {
+	font-family:Georgia, serif;
+	font-size:5em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-5 {
+	font-family:Georgia, serif;
+	font-size:3em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-6 {
+	font-family:Georgia, serif;
+	font-size:4em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-7 {
+	font-family:Georgia;
+	font-size:3em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-8 {
+	font-family:Georgia;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-9 {
+	font-family:"Times New Roman", serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-10 {
+	font-family:"Times New Roman";
+	font-size:0.917em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-11 {
+	color:#0000ff;
+	font-family:"Times New Roman";
+	font-size:0.917em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-12 {
+	font-family:"Times New Roman", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-13 {
+	font-family:Georgia, serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-14 {
+	font-family:Georgia, serif;
+	font-size:1.167em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-15 {
+	font-family:"Times New Roman";
+	font-size:1.167em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-16 {
+	font-family:"Minion Pro";
+	font-size:1.167em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-17 {
+	font-family:"Minion Pro";
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-18 {
+	font-family:"Times New Roman";
+	font-size:1.333em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-19 {
+	font-family:"Times New Roman";
+	font-size:1.083em;
+	font-style:italic;
+	font-weight:bold;
+}
+span.char-style-override-20 {
+	font-family:"Times New Roman";
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-21 {
+	font-size:1.167em;
+}
+span.char-style-override-22 {
+	font-size:1.333em;
+}
+span.char-style-override-23 {
+	font-family:"Minion Pro";
+	font-size:1.083em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-24 {
+	font-family:"Times New Roman";
+	font-size:3em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-25 {
+	font-family:"Times New Roman", serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-26 {
+	font-family:"Times New Roman", serif;
+	font-size:1.083em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-27 {
+	font-family:"Times New Roman";
+	font-size:1.167em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-28 {
+	font-size:1.083em;
+}
+span.char-style-override-29 {
+	font-family:"Times New Roman";
+	font-size:1.167em;
+	font-style:italic;
+	font-weight:bold;
+}
+span.char-style-override-30 {
+	font-family:"Minion Pro", serif;
+	font-size:1.167em;
+	font-style:italic;
+	font-weight:bold;
+}
+span.char-style-override-31 {
+	font-family:"Minion Pro", serif;
+	font-size:1.083em;
+	font-style:italic;
+	font-weight:normal;
+}

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:file-as="Serbes, Emrah" opf:role="aut">Emrah Serbes</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:25e67d2a-b5c3-41d0-96c3-57be99e0822d</dc:identifier>
+    <dc:description>&lt;div&gt;&lt;p&gt;Behzat Ç., Cinayet Büro Amirliği'nde başkomiser, hayata karşı işlenen suçlar uzmanı... &lt;/p&gt;&lt;p&gt;Başına gelenlerden sonra lanet etmiş, çekip gitmişti aslında. (Dizinin ilk kitabı Her Temas İz Bırakır’ı okuyanlar bilir.) Hayır, hâlâ işinin başında! Ama ağzını bıçak açmıyor. Tek bir laf çıkmıyor ağzından. El işaretleriyle, çehresiyle, suskunluklarla anlatıyor anlatacağını – ve tabii dellenmeleriyle... &lt;/p&gt;&lt;p&gt;Bu bir AnKara polisiyesidir... &lt;/p&gt;&lt;p&gt;Behzat Ç. ve ekibi, kötü bir Renault Toros’la Sakarya Caddesi’nden Ayaş’a kadar altını üstüne getiriyor Ankara’nın. &lt;/p&gt;&lt;p&gt;Sadece cinayetçiler değil, belediyenin envai çeşit birimi de altını üstüne getiriyor Ankara’nın. Her yer hafriyat. Kavşak inşaatıydı, kabloydu, boruydu, tamirattı... &lt;/p&gt;&lt;p&gt;Sadece onlar da değil ama... Kendine “Red Kit” diyen bir adam da çukurlar kazıp duruyor. Öldürdüklerini tabuta koyup gömüyor o çukurlara - gömüp polise haber veriyor. Çok acayip, çok da zeki bir adam bu, feleğin çemberinden geçmiş, içinde intikam acısı... Belli, polisle bir meselesi var. &lt;/p&gt;&lt;p&gt;Behzat Ç. ve ekibi, Ahlak Bürosu’na bile nasip olup da hâlâ kendilerine verilmeyen bir Megane’ın hayalini kurarak, kötü Renault’yla Ankara’da fink atıp Red Kit’i arıyor. &lt;/p&gt;&lt;p&gt;Bir AnKara polisiyesi...&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>İletişim</dc:publisher>
+    <dc:date>2014-02-01T22:00:00+00:00</dc:date>
+    <meta content="0.8.7" name="Sigil version" xmlns="http://www.idpf.org/2007/opf" />
+    <meta name="cover" content="_son-hafriyat.jpg" xmlns="http://www.idpf.org/2007/opf" />
+    <dc:title>Son Hafriyat</dc:title>
+    <meta content="Son Hafriyat" name="calibre:title_sort" />
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>Polisiye</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Emrah Serbes&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">6911ed88-0f42-4ba1-94df-a7100b26dd39</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">9750505662</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">zAPAPgAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750505669</dc:identifier>
+    <dc:identifier opf:scheme="UUID">urn:uuid:25e67d2a-b5c3-41d0-96c3-57be99e0822d</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">9648783</dc:identifier>
+    <dc:date opf:event="modification">2016-04-29</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/_son-hafriyat.jpg" id="_son-hafriyat.jpg" media-type="image/jpeg" />
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/iletisim.png" id="iletisim.png" media-type="image/png" />
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_1.xhtml" id="Bolum_1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_2.xhtml" id="Bolum_2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/chapter_break.png" id="chapter_break.png" media-type="image/png" />
+    <item href="Text/Bolum_3.xhtml" id="Bolum_3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_4.xhtml" id="Bolum_4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_5.xhtml" id="Bolum_5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_6.xhtml" id="Bolum_6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_7.xhtml" id="Bolum_7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_8.xhtml" id="Bolum_8.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_9.xhtml" id="Bolum_9.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_10.xhtml" id="Bolum_10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_11.xhtml" id="Bolum_11.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_12.xhtml" id="Bolum_12.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_13.xhtml" id="Bolum_13.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_14.xhtml" id="Bolum_14.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_15.xhtml" id="Bolum_15.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_16.xhtml" id="Bolum_16.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_17.xhtml" id="Bolum_17.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_18.xhtml" id="Bolum_18.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_19.xhtml" id="Bolum_19.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_20.xhtml" id="Bolum_20.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_21.xhtml" id="Bolum_21.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_22.xhtml" id="Bolum_22.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_23.xhtml" id="Bolum_23.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_24.xhtml" id="Bolum_24.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_25.xhtml" id="Bolum_25.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_26.xhtml" id="Bolum_26.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_27.xhtml" id="Bolum_27.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_28.xhtml" id="Bolum_28.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_29.xhtml" id="Bolum_29.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_30.xhtml" id="Bolum_30.xhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/Format.css" id="Format.css" media-type="text/css" />
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.xhtml" />
+    <itemref idref="Section0002.xhtml" />
+    <itemref idref="Section0003.xhtml" />
+    <itemref idref="Bolum_1.xhtml" />
+    <itemref idref="Bolum_2.xhtml" />
+    <itemref idref="Bolum_3.xhtml" />
+    <itemref idref="Bolum_4.xhtml" />
+    <itemref idref="Bolum_5.xhtml" />
+    <itemref idref="Bolum_6.xhtml" />
+    <itemref idref="Bolum_7.xhtml" />
+    <itemref idref="Bolum_8.xhtml" />
+    <itemref idref="Bolum_9.xhtml" />
+    <itemref idref="Bolum_10.xhtml" />
+    <itemref idref="Bolum_11.xhtml" />
+    <itemref idref="Bolum_12.xhtml" />
+    <itemref idref="Bolum_13.xhtml" />
+    <itemref idref="Bolum_14.xhtml" />
+    <itemref idref="Bolum_15.xhtml" />
+    <itemref idref="Bolum_16.xhtml" />
+    <itemref idref="Bolum_17.xhtml" />
+    <itemref idref="Bolum_18.xhtml" />
+    <itemref idref="Bolum_19.xhtml" />
+    <itemref idref="Bolum_20.xhtml" />
+    <itemref idref="Bolum_21.xhtml" />
+    <itemref idref="Bolum_22.xhtml" />
+    <itemref idref="Bolum_23.xhtml" />
+    <itemref idref="Bolum_24.xhtml" />
+    <itemref idref="Bolum_25.xhtml" />
+    <itemref idref="Bolum_26.xhtml" />
+    <itemref idref="Bolum_27.xhtml" />
+    <itemref idref="Bolum_28.xhtml" />
+    <itemref idref="Bolum_29.xhtml" />
+    <itemref idref="Bolum_30.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/Section0001.xhtml" title="Cover" type="cover" xmlns="http://www.idpf.org/2007/opf" />
+    <reference href="Text/Section0002.xhtml" title="Title Page" type="title-page" xmlns="http://www.idpf.org/2007/opf" />
+    <reference href="Text/Section0003.xhtml" title="Dedication" type="dedication" xmlns="http://www.idpf.org/2007/opf" />
+  </guide>
+</package>

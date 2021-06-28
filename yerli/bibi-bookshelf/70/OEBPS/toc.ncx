@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{B0C9E283-D965-493F-BE23-5D8BF3E9877E}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="Text/main-0000.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="Text/main-0001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="Text/main-0002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="Text/main-0003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="Text/main-0004.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="Text/main-0005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="Text/main-0006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="Text/main-0007.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="Text/main-0008.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="Text/main-0009.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="Text/main-0010.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="Text/main-0011.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="Text/main-0012.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="Text/main-0013.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="Text/main-0014.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

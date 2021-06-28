@@ -1,0 +1,108 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-justify-trim: punctuation;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-family: "Courier New";
+    font-size: 1.2em;
+    line-height: 1.2
+    }
+.calibre2 {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    margin: 12pt 0 3pt
+    }
+.calibre3 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.2em;
+    line-height: 1.2
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    font-style: italic
+    }
+.calibre6 {
+    font-family: "Times New Roman", "serif";
+    font-size: 2em;
+    line-height: 1.2
+    }
+.calibre7 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre8 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre9 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre10 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 457.5pt;
+    padding: 0
+    }
+.calibre11 {
+    color: black;
+    font-family: "Courier New";
+    font-size: 1em
+    }
+.MsoNormal {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: normal;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-autospace: none;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.MsoNormal1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: normal;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    text-autospace: none;
+    margin: 0
+    }
+.MsoNormalTable {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 457.5pt
+    }
+.WordSection {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    page: WordSection1;
+    text-indent: 1.5em
+    }

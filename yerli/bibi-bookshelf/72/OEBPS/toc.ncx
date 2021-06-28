@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:6dab470b-c90d-4529-8cf6-144675d68def" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Suskunlar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Yegâh</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Dügâh</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Segâh</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

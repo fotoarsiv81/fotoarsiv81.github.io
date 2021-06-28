@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:24eb24e8-2b58-46ab-9c43-d094153e03c1</dc:identifier>
+    <dc:creator opf:file-as="Aral, İnci" opf:role="aut">İnci Aral</dc:creator>
+    <dc:publisher>Kırmızı Kedi</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255); "&gt;İnci Aral, "GELECEKSİZLİK" üzerine kurduğu romanında bu üç kişinin kesişen yollarını anlatıyor. 2000'li yılların başında, yaşanmakta olan toplumsal, ekonomik ve kültürel çalkantılardan etkilenen bu insanlar, savruluşlarını ve belirsizleşmiş geleceği sorguluyorlar. Bir yanda bol para, her türlü zevk, renkli hayatlar, öte yandan kirlenen, çürüyen değerler, tatminsizlik, sömürü düzeni ve yozlaşan cinsellik. Safran Sarı; para, güç ve başarı peşinde koşarken kimliklerinden, aşktan ve umutlarından uzaklaşan, sayıları gitgide artan otuzlu yaşlarında bir kesimin önce sevgiyi, sonra geleceğe olan inancını, en sonunda ruhunu kaybedişinin serüveni…&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:title>Safran Sarı</dc:title>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">26699e77-a06e-4537-bdac-459e56f42f9b</dc:identifier>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="Safran Sarı" name="calibre:title_sort" />
+    <meta content="10.0" name="calibre:rating" />
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;İnci Aral&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#checked&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;checked&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {}, &quot;name&quot;: &quot;Checked&quot;}" name="calibre:user_metadata:#checked" />
+    <meta name="cover" content="safran_sari.jpg" />
+    <dc:date opf:event="modification">2014-08-25</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/SymphoniC_7.xhtml" id="SymphoniC_7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_2.xhtml" id="SymphoniC_2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_3.xhtml" id="SymphoniC_3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_4.xhtml" id="SymphoniC_4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_5.xhtml" id="SymphoniC_5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_6.xhtml" id="SymphoniC_6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_1.xhtml" id="SymphoniC_1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_8.xhtml" id="SymphoniC_8.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_9.xhtml" id="SymphoniC_9.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_10.xhtml" id="SymphoniC_10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_11.xhtml" id="SymphoniC_11.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_12.xhtml" id="SymphoniC_12.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_13.xhtml" id="SymphoniC_13.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_14.xhtml" id="SymphoniC_14.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_15.xhtml" id="SymphoniC_15.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_16.xhtml" id="SymphoniC_16.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_17.xhtml" id="SymphoniC_17.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_18.xhtml" id="SymphoniC_18.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_19.xhtml" id="SymphoniC_19.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_20.xhtml" id="SymphoniC_20.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_21.xhtml" id="SymphoniC_21.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_22.xhtml" id="SymphoniC_22.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_23.xhtml" id="SymphoniC_23.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/SymphoniC_24.xhtml" id="SymphoniC_24.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/safran%20sari.jpg" id="safran_sari.jpg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="SymphoniC_1.xhtml" />
+    <itemref idref="SymphoniC_2.xhtml" />
+    <itemref idref="SymphoniC_3.xhtml" />
+    <itemref idref="SymphoniC_4.xhtml" />
+    <itemref idref="SymphoniC_5.xhtml" />
+    <itemref idref="SymphoniC_6.xhtml" />
+    <itemref idref="SymphoniC_7.xhtml" />
+    <itemref idref="SymphoniC_8.xhtml" />
+    <itemref idref="SymphoniC_9.xhtml" />
+    <itemref idref="SymphoniC_10.xhtml" />
+    <itemref idref="SymphoniC_11.xhtml" />
+    <itemref idref="SymphoniC_12.xhtml" />
+    <itemref idref="SymphoniC_13.xhtml" />
+    <itemref idref="SymphoniC_14.xhtml" />
+    <itemref idref="SymphoniC_15.xhtml" />
+    <itemref idref="SymphoniC_16.xhtml" />
+    <itemref idref="SymphoniC_17.xhtml" />
+    <itemref idref="SymphoniC_18.xhtml" />
+    <itemref idref="SymphoniC_19.xhtml" />
+    <itemref idref="SymphoniC_20.xhtml" />
+    <itemref idref="SymphoniC_21.xhtml" />
+    <itemref idref="SymphoniC_22.xhtml" />
+    <itemref idref="SymphoniC_23.xhtml" />
+    <itemref idref="SymphoniC_24.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover" />
+  </guide>
+</package>

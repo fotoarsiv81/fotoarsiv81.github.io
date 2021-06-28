@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+<head>
+<meta content="AWP-9221B859-EC66-45B3-8101-503FA2D9B18F" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Hallaç</text>
+</docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel>
+<text>Title page</text>
+</navLabel>
+<content src="Text/001.html"/>
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel>
+<text>BÖLÜM I</text>
+</navLabel>
+<content src="Text/007.html"/>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel>
+<text>YATAK</text>
+</navLabel>
+<content src="Text/008.html"/>
+</navPoint>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel>
+<text>BİLİNÇLİ EĞÎNİM I</text>
+</navLabel>
+<content src="Text/009.html"/>
+</navPoint>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel>
+<text>BİLİNÇLİ EĞİNİM II</text>
+</navLabel>
+<content src="Text/010.html"/>
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel>
+<text>ÖYKÜSÜZ</text>
+</navLabel>
+<content src="Text/011.html"/>
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel>
+<text>SARHOŞ YAŞANTILAR</text>
+</navLabel>
+<content src="Text/012.html"/>
+</navPoint>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel>
+<text>GÜNDELİK</text>
+</navLabel>
+<content src="Text/013.html"/>
+</navPoint>
+<navPoint id="navpoint-9" playOrder="9">
+<navLabel>
+<text>KONUŞMAKLARDAN BIKAN</text>
+</navLabel>
+<content src="Text/014.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-10" playOrder="10">
+<navLabel>
+<text>BÖLÜM II</text>
+</navLabel>
+<content src="Text/015.html"/>
+<navPoint id="navpoint-11" playOrder="11">
+<navLabel>
+<text>BALTIK</text>
+</navLabel>
+<content src="Text/016.html"/>
+</navPoint>
+<navPoint id="navpoint-12" playOrder="12">
+<navLabel>
+<text>DİKTATÖR</text>
+</navLabel>
+<content src="Text/017.html"/>
+</navPoint>
+<navPoint id="navpoint-13" playOrder="13">
+<navLabel>
+<text>İNCİK BONCUK</text>
+</navLabel>
+<content src="Text/018.html"/>
+</navPoint>
+<navPoint id="navpoint-14" playOrder="14">
+<navLabel>
+<text>ÜÇ ARKADAŞ YA DA OYUN</text>
+</navLabel>
+<content src="Text/019.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-15" playOrder="15">
+<navLabel>
+<text>BÖLÜM III</text>
+</navLabel>
+<content src="Text/020.html"/>
+<navPoint id="navpoint-16" playOrder="16">
+<navLabel>
+<text>ÖYKÜ</text>
+</navLabel>
+<content src="Text/021.html"/>
+</navPoint>
+<navPoint id="navpoint-17" playOrder="17">
+<navLabel>
+<text>HALLAÇ</text>
+</navLabel>
+<content src="Text/022.html"/>
+</navPoint>
+<navPoint id="navpoint-18" playOrder="18">
+<navLabel>
+<text>UĞRAŞSIZ</text>
+</navLabel>
+<content src="Text/023.html"/>
+</navPoint>
+<navPoint id="navpoint-19" playOrder="19">
+<navLabel>
+<text>KUTSAL AİLE</text>
+</navLabel>
+<content src="Text/024.html"/>
+</navPoint>
+<navPoint id="navpoint-20" playOrder="20">
+<navLabel>
+<text>BAY SURET</text>
+</navLabel>
+<content src="Text/025.html"/>
+</navPoint>
+</navPoint>
+</navMap>
+</ncx>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="5b29cb32-1569-43d3-a62e-96eb875e0c1b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.29)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Nefes Nefese</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="64fab820-6659-439a-88bd-b6811aadd1cd" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="titlepage.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

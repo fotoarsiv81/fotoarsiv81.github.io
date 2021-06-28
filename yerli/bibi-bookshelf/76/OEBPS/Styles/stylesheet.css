@@ -1,0 +1,108 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-justify-trim: punctuation;
+    margin: 0 5pt
+    }
+.calibre1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em
+    }
+.calibre3 {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    margin: 12pt 0 3pt
+    }
+.calibre4 {
+    line-height: 1.2
+    }
+.calibre5 {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    margin: 12pt 0 3pt
+    }
+.calibre6 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.2em;
+    line-height: 1.2
+    }
+.calibre7 {
+    font-style: italic
+    }
+.calibre8 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre9 {
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.calibre10 {
+    color: #C9F;
+    line-height: 1.2
+    }
+.calibre11 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre12 {
+    font-weight: bold
+    }
+.calibre13 {
+    color: black;
+    font-family: "Courier New";
+    font-size: 1em
+    }
+.MsoNormal {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: normal;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-autospace: none;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.MsoNormal1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: normal;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: right;
+    text-autospace: none;
+    margin: 0
+    }
+.WordSection {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    page: WordSection1;
+    text-indent: 1.5em
+    }
