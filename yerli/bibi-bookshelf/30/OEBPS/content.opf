@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Serbes, Emrah">Emrah Serbes</dc:creator>
+<meta content="Her Temas İz Bırakır" name="calibre:title_sort"/>
+    <meta content="2012-10-21T09:42:58+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2006-04-06T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">11810804-9534-47ae-8e14-51335d06d2b7</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-04-20</dc:date>
+  <dc:title>Her Temas İz Bırakır</dc:title>
+<dc:publisher>İletişim Yayıncılık</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Polisiye</dc:subject>
+<dc:description>&lt;p&gt;Kızılay, Sakarya Caddesi, SSK İşhanı, Dil-Tarih, Atakule, öğrenci evleri... ve Emniyet... Cinayet Masası. Behzat Ç., "yeni müktesebata" uyum sağlayamamış, lambur lumbur, "dişli" bir başkomiser. Müzik dinlemez, polis telsizi dinler. Kitap okumaz, gazeteye spor sayfasından başlar. Herhangi bir siyasi görüşü yok. "İçimizden birinin" üçüncü sayfa haberlerine yansımış hali gibi, adı bile tam değil. 1. Amatör'de duran toplara iyi vuran bir stoperken, topçuluğu bırakıp başkalarını tekmelemeye başlamış. Mesela beş lira için kalbinden adam bıçaklayanları, on üç yaşında kızlara tecavüz eden, namus için en yakın akrabalarını vuranları... Kendi adalet anlayışı bakımından sorun yok; "it uğursuz" kimdir, belli gibi görünüyor... Ama acaba öyle mi? Behzat Ç.'yi ve onun adalet duygusunu da rahatsız eden işler olabiliyor bazen hayatta... At izinin it izine karıştığı bir cinayet... Kim, niye öldürsün bu kızı? Hem niye bu şekilde? Siyaset karışmış desek?.. Garip... Öğrenci âlemine, başka âlemlere, ama asıl polis âlemine dikiz atan, entrikası bereketli bir polisiye...&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Emrah Serbes&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">4e806a24-c9bc-412e-bf10-0d34e8d65641</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750504402</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/content_1.xhtml" id="content_1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/content_2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/content_3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/content_4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="content_1.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

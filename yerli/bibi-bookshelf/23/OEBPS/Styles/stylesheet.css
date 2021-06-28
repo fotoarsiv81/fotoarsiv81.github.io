@@ -1,0 +1,436 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.calibre {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 10pt;
+  margin-right: 10pt;
+  margin-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+.calibre1 {
+  display: block;
+}
+.calibre10 {
+  height: 26px;
+  width: 80px;
+}
+.calibre11 {
+  height: 95px;
+  width: 81px;
+}
+.calibre12 {
+  height: 74px;
+  width: 59px;
+}
+.calibre13 {
+  height: 35px;
+  width: 172px;
+}
+.calibre14 {
+  height: 44px;
+  width: 52px;
+}
+.calibre15 {
+  height: 63px;
+  width: 66px;
+}
+.calibre16 {
+  height: 95px;
+  width: 61px;
+}
+.calibre17 {
+  height: 81px;
+  width: 41px;
+}
+.calibre18 {
+  font-size: smaller;
+  line-height: normal;
+  vertical-align: super;
+}
+.calibre19 {
+  height: 50px;
+  width: 99px;
+}
+.calibre2 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre20 {
+  height: 77px;
+  width: 29px;
+}
+.calibre21 {
+  height: 140px;
+  width: 52px;
+}
+.calibre22 {
+  height: 125px;
+  width: 58px;
+}
+.calibre23 {
+  height: 62px;
+  width: 75px;
+}
+.calibre24 {
+  height: 48px;
+  width: 60px;
+}
+.calibre25 {
+  height: 115px;
+  width: 46px;
+}
+.calibre26 {
+  height: 83px;
+  width: 74px;
+}
+.calibre27 {
+  height: 71px;
+  width: 115px;
+}
+.calibre28 {
+  height: 65px;
+  width: 132px;
+}
+.calibre29 {
+  height: 60px;
+  width: 57px;
+}
+.calibre3 {
+  height: 30px;
+  width: 68px;
+}
+.calibre30 {
+  height: 65px;
+  width: 46px;
+}
+.calibre31 {
+  height: 87px;
+  width: 52px;
+}
+.calibre32 {
+  height: 111px;
+  width: 46px;
+}
+.calibre33 {
+  height: 73px;
+  width: 70px;
+}
+.calibre34 {
+  height: 65px;
+  width: 95px;
+}
+.calibre35 {
+  height: 63px;
+  width: 57px;
+}
+.calibre36 {
+  height: 75px;
+  width: 56px;
+}
+.calibre37 {
+  height: 68px;
+  width: 63px;
+}
+.calibre38 {
+  height: 73px;
+  width: 75px;
+}
+.calibre39 {
+  height: 104px;
+  width: 102px;
+}
+.calibre4 {
+  height: 55px;
+  width: 65px;
+}
+.calibre40 {
+  height: 88px;
+  width: 76px;
+}
+.calibre41 {
+  height: 45px;
+  width: 56px;
+}
+.calibre42 {
+  height: 70px;
+  width: 65px;
+}
+.calibre43 {
+  height: 83px;
+  width: 92px;
+}
+.calibre44 {
+  height: 41px;
+  width: 103px;
+}
+.calibre45 {
+  height: 85px;
+  width: 60px;
+}
+.calibre46 {
+  height: 53px;
+  width: 103px;
+}
+.calibre47 {
+  height: 67px;
+  width: 70px;
+}
+.calibre48 {
+  height: 81px;
+  width: 73px;
+}
+.calibre49 {
+  height: 98px;
+  width: 102px;
+}
+.calibre5 {
+  height: 50px;
+  width: 50px;
+}
+.calibre50 {
+  height: 155px;
+  width: 39px;
+}
+.calibre51 {
+  height: 46px;
+  width: 76px;
+}
+.calibre52 {
+  height: 63px;
+  width: 34px;
+}
+.calibre53 {
+  height: 76px;
+  width: 38px;
+}
+.calibre54 {
+  height: 107px;
+  width: 87px;
+}
+.calibre55 {
+  height: 75px;
+  width: 94px;
+}
+.calibre56 {
+  height: 78px;
+  width: 94px;
+}
+.calibre57 {
+  height: 84px;
+  width: 44px;
+}
+.calibre58 {
+  height: 83px;
+  width: 70px;
+}
+.calibre59 {
+  height: 50px;
+  width: 89px;
+}
+.calibre6 {
+  height: 56px;
+  width: 60px;
+}
+.calibre60 {
+  height: 57px;
+  width: 58px;
+}
+.calibre61 {
+  height: 65px;
+  width: 42px;
+}
+.calibre62 {
+  height: 91px;
+  width: 55px;
+}
+.calibre63 {
+  height: 56px;
+  width: 73px;
+}
+.calibre64 {
+  height: 83px;
+  width: 81px;
+}
+.calibre65 {
+  height: 73px;
+  width: 38px;
+}
+.calibre66 {
+  height: 61px;
+  width: 69px;
+}
+.calibre67 {
+  height: 66px;
+  width: 66px;
+}
+.calibre68 {
+  height: 72px;
+  width: 100px;
+}
+.calibre69 {
+  height: 107px;
+  width: 166px;
+}
+.calibre7 {
+  height: 64px;
+  width: 86px;
+}
+.calibre70 {
+  height: 68px;
+  width: 42px;
+}
+.calibre71 {
+  height: 90%;
+  width: auto;
+}
+.calibre8 {
+  height: 31px;
+  width: 52px;
+}
+.calibre9 {
+  height: 112px;
+  width: 63px;
+}
+.chapter {
+  display: block;
+}
+.footnote-link {
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.idebold {
+  font-weight: bold;
+}
+.ideitalik {
+  font-style: italic;
+}
+.kitapickapak {
+  display: block;
+  font-size: 1.4em;
+  font-weight: 100;
+  line-height: 1.2;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: center;
+}
+.kitapickapak1 {
+  display: block;
+  font-size: 1.3em;
+  line-height: 1.2;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: center;
+}
+.kitapickapak2 {
+  display: block;
+  font-size: 1.4em;
+  font-weight: 100;
+  line-height: 1.2;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: center;
+}
+.normal {
+  display: block;
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.7em;
+  text-indent: 0.75em;
+}
+.normal1 {
+  display: block;
+  font-size: 1em;
+  font-weight: 100;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: Justify;
+  text-indent: 2em;
+}
+.ortayazi {
+  display: block;
+  font-style: normal;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.resim {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.sagnormal {
+  display: block;
+  font-style: normal;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: right;
+}
+@font-face {
+  font-style: normal;
+  font-family: "Liberation Serif", serif, sans-serif;
+  font-weight: normal;
+  src: url(../Fonts/LiberationSerif-Regular.ttf);
+  }
+@font-face {
+  font-style: italic;
+  font-family: "Liberation Serif", serif, sans-serif;
+  font-weight: normal;
+  src: url(../Fonts/LiberationSerif-Italic.ttf);
+  }
+@font-face {
+  font-style: bold;
+  font-family: "Liberation Serif", serif, sans-serif;
+  font-weight: bold;
+  src: url(../Fonts/LiberationSerif-Bold.ttf);
+  }
+@font-face {
+  font-style: italic;
+  font-family: "Liberation Serif", serif, sans-serif;
+  font-weight: bold;
+  src: url(../Fonts/LiberationSerif-BoldItalic.ttf);
+  }
+@font-face {
+  font-style: normal;
+  font-family: "Arial", sans-serif;
+  font-weight: normal;
+  src: url(../Fonts/arial.ttf);
+  }
+@font-face {
+  font-style: italic;
+  font-family: "Arial", sans-serif;
+  font-weight: normal;
+  src: url(../Fonts/ariali.ttf);
+  }
+@font-face {
+  font-style: normal;
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  src: url(../Fonts/arialbd.ttf);
+  }
+@font-face {
+  font-style: italic;
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  src: url(../Fonts/arialbi.ttf);
+  }

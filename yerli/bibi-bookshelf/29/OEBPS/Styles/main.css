@@ -1,0 +1,104 @@
+/*----H----*/
+h1 {
+  font: normal normal 1.1em "Lithos Pro Regular";
+  margin-bottom: 10em;
+  text-align: center;
+}
+h2 {
+  font: normal bold 1.1em "Berkeley";
+  margin-bottom: 2em;
+  text-align: center;
+}
+.reference1 {
+  margin-left: 1em;
+}
+p.reference1 {
+  font-family: "Berkeley";
+  font-size: 0.751em;
+  text-indent: -1em;
+  text-align: justify;
+}
+/*----Künye----*/
+div.copyright {
+  font: normal normal 0.751em "Berkeley";
+  margin-top: 4em;
+  margin-left: 2em;
+}
+div.copyright > p.crt:last-child {
+  margin-bottom: 0;
+}
+p.crt {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-indent: 0;
+}
+/*Titlepage*/
+.center {
+  text-align: center;
+  text-indent: 0;
+}
+.t-1 {
+  font: normal bold 1.13em "Berkeley";
+  margin: 2em auto 0.2em auto;
+}
+.t-2 {
+  font: normal bold 2.5em "Berkeley";
+  margin: 0;
+}
+.logo {
+  margin: 7em auto 0 auto;
+}
+/*----P----*/
+p {
+  font-family: "Berkeley";
+  font-size: 0.93em;
+  margin: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.nonindent {
+  text-indent: 0;
+}
+.right {
+  text-align: right;
+  margin-bottom: 1em;
+}
+/*----Block----*/
+.block {
+  margin-top: 8em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+hr {
+  margin: 1em auto;
+  border: none;
+  text-align: center;
+}
+hr:after {
+  content: url(../Images/sep.png);
+}
+/*****FONT*****/
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/BerkeleyBoldE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyItaE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyMediumE.ttf);
+  }
+@font-face {
+  font-family: "Lithos Pro Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/LithosPro-Regular.ttf);
+  }

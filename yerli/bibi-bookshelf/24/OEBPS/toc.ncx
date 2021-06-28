@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="abeebe89-0639-4482-bc5c-1304a8ff563c" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>PINHAN</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Elma</text>
+            </navLabel>
+            <content src="Text/pinhan_split_003.html"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>Nokta</text>
+            </navLabel>
+            <content src="Text/pinhan_split_004.html"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Hafıza</text>
+            </navLabel>
+            <content src="Text/pinhan_split_005.html"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Halka</text>
+            </navLabel>
+            <content src="Text/pinhan_split_006.html"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>Emanet</text>
+            </navLabel>
+            <content src="Text/pinhan_split_008.html"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>Hıyanet</text>
+            </navLabel>
+            <content src="Text/pinhan_split_009.html"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>Felâket</text>
+            </navLabel>
+            <content src="Text/pinhan_split_010.html"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>Kefaret</text>
+            </navLabel>
+            <content src="Text/pinhan_split_011.html"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>Hezarpâre</text>
+            </navLabel>
+            <content src="Text/pinhan_split_013.html"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>Rindâne</text>
+            </navLabel>
+            <content src="Text/pinhan_split_014.html"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>Peymâne</text>
+            </navLabel>
+            <content src="Text/pinhan_split_015.html"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>Püryâre</text>
+            </navLabel>
+            <content src="Text/pinhan_split_016.html"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>Cehennemin kapıları</text>
+            </navLabel>
+            <content src="Text/pinhan_split_018.html"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>Nida hamamı</text>
+            </navLabel>
+            <content src="Text/pinhan_split_019.html"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>Elem Şehristanı</text>
+            </navLabel>
+            <content src="Text/pinhan_split_020.html"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+                <text>Firar yolları</text>
+            </navLabel>
+            <content src="Text/pinhan_split_021.html"/>
+        </navPoint>
+    </navMap>
+</ncx>

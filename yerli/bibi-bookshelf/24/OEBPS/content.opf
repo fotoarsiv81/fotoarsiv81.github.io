@@ -1,0 +1,97 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Pinhan</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Şafak, Elif">Elif Şafak</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:abeebe89-0639-4482-bc5c-1304a8ff563c</dc:identifier>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">b5c51a59-dc54-4914-8f47-b9ad68b0f92b</dc:identifier>
+    <meta name="cover" content="_cover.jpeg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Pinhan" name="calibre:title_sort"/>
+    <meta content="{&quot;Elif Şafak&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:user_metadata:#formats" content="{&quot;rec_index&quot;: 22, &quot;datatype&quot;: &quot;composite&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;column&quot;: &quot;value&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {&quot;composite_sort&quot;: &quot;text&quot;, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;make_category&quot;: false}, &quot;#value#&quot;: null, &quot;colnum&quot;: 1, &quot;is_csp&quot;: false, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_000.html" id="pinhan_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_001.html" id="pinhan_split_001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_002.html" id="pinhan_split_002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_003.html" id="pinhan_split_003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_004.html" id="pinhan_split_004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_005.html" id="pinhan_split_005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_006.html" id="pinhan_split_006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_007.html" id="pinhan_split_007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_008.html" id="pinhan_split_008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_009.html" id="pinhan_split_009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_010.html" id="pinhan_split_010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_011.html" id="pinhan_split_011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_012.html" id="pinhan_split_012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_013.html" id="pinhan_split_013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_014.html" id="pinhan_split_014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_015.html" id="pinhan_split_015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_016.html" id="pinhan_split_016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_017.html" id="pinhan_split_017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_018.html" id="pinhan_split_018.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_019.html" id="pinhan_split_019.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_020.html" id="pinhan_split_020.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_021.html" id="pinhan_split_021.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_023.html" id="pinhan_split_023.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_024.html" id="pinhan_split_024.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_025.html" id="pinhan_split_025.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_026.html" id="pinhan_split_026.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_027.html" id="pinhan_split_027.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_028.html" id="pinhan_split_028.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_029.html" id="pinhan_split_029.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_030.html" id="pinhan_split_030.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_031.html" id="pinhan_split_031.html" media-type="application/xhtml+xml"/>
+    <item href="Text/pinhan_split_032.html" id="pinhan_split_032.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/_cover.jpeg" id="_cover.jpeg" media-type="image/jpeg"/>
+    <item href="Images/1.jpg" id="x1.jpg" media-type="image/jpeg"/>
+    <item href="Images/2.jpg" id="x2.jpg" media-type="image/jpeg"/>
+    <item href="Images/icon2b_fmt.jpeg" id="icon2b_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="pinhan_split_000.html"/>
+    <itemref idref="pinhan_split_001.html"/>
+    <itemref idref="pinhan_split_002.html"/>
+    <itemref idref="pinhan_split_003.html"/>
+    <itemref idref="pinhan_split_004.html"/>
+    <itemref idref="pinhan_split_005.html"/>
+    <itemref idref="pinhan_split_006.html"/>
+    <itemref idref="pinhan_split_007.html"/>
+    <itemref idref="pinhan_split_008.html"/>
+    <itemref idref="pinhan_split_009.html"/>
+    <itemref idref="pinhan_split_010.html"/>
+    <itemref idref="pinhan_split_011.html"/>
+    <itemref idref="pinhan_split_012.html"/>
+    <itemref idref="pinhan_split_013.html"/>
+    <itemref idref="pinhan_split_014.html"/>
+    <itemref idref="pinhan_split_015.html"/>
+    <itemref idref="pinhan_split_016.html"/>
+    <itemref idref="pinhan_split_017.html"/>
+    <itemref idref="pinhan_split_018.html"/>
+    <itemref idref="pinhan_split_019.html"/>
+    <itemref idref="pinhan_split_020.html"/>
+    <itemref idref="pinhan_split_021.html"/>
+    <itemref idref="pinhan_split_023.html"/>
+    <itemref idref="pinhan_split_024.html"/>
+    <itemref idref="pinhan_split_025.html"/>
+    <itemref idref="pinhan_split_026.html"/>
+    <itemref idref="pinhan_split_027.html"/>
+    <itemref idref="pinhan_split_028.html"/>
+    <itemref idref="pinhan_split_029.html"/>
+    <itemref idref="pinhan_split_030.html"/>
+    <itemref idref="pinhan_split_031.html"/>
+    <itemref idref="pinhan_split_032.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

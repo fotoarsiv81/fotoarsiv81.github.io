@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="e7095ec4-0141-4b60-96a4-26992d75d466" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Kâğıt Helva</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Aşk</text>
+            </navLabel>
+            <content src="Text/helva_split_003.html"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>İnsan</text>
+            </navLabel>
+            <content src="Text/helva_split_009.html"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Yolculuk</text>
+            </navLabel>
+            <content src="Text/helva_split_015.html"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Varoluş</text>
+            </navLabel>
+            <content src="Text/helva_split_021.html"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>İnanç</text>
+            </navLabel>
+            <content src="Text/helva_split_027.html"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>Zaman</text>
+            </navLabel>
+            <content src="Text/helva_split_033.html"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>Yazmak</text>
+            </navLabel>
+            <content src="Text/helva_split_039.html"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>Kadınlık</text>
+            </navLabel>
+            <content src="Text/helva_split_045.html"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>Ben</text>
+            </navLabel>
+            <content src="Text/helva_split_051.html"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>Sen</text>
+            </navLabel>
+            <content src="Text/helva_split_055.html"/>
+        </navPoint>
+    </navMap>
+</ncx>

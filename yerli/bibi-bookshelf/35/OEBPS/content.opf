@@ -1,0 +1,212 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Az</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Günday, Hakan">Hakan Günday</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:bc6b22af-9a8f-4d26-a9e7-eba125231aa2</dc:identifier>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.14.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">0a98a337-a021-431b-945b-c9f175c86c82</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Az"/>
+    <meta name="calibre:author_link_map" content="{&quot;Hakan Günday&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/KAPAK.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/KUNYE.xhtml" id="KUNYE.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.xhtml" id="GIRIS.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ITHAF.xhtml" id="ITHAF.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ITHAF-1.xhtml" id="ITHAF-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda.xhtml" id="Derda.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-1.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-2.xhtml" id="Derda-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-3.xhtml" id="Derda-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-4.xhtml" id="Derda-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-5.xhtml" id="Derda-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-6.xhtml" id="Derda-6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-7.xhtml" id="Derda-7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-8.xhtml" id="Derda-8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-9.xhtml" id="Derda-9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-10.xhtml" id="Derda-10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-11.xhtml" id="Derda-11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-12.xhtml" id="Derda-12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-13.xhtml" id="Derda-13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-14.xhtml" id="Derda-14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-15.xhtml" id="Derda-15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-16.xhtml" id="Derda-16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-17.xhtml" id="Derda-17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-18.xhtml" id="Derda-18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-19.xhtml" id="Derda-19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-20.xhtml" id="Derda-20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-21.xhtml" id="Derda-21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-22.xhtml" id="Derda-22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-23.xhtml" id="Derda-23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-24.xhtml" id="Derda-24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-25.xhtml" id="Derda-25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-26.xhtml" id="Derda-26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-27.xhtml" id="Derda-27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-28.xhtml" id="Derda-28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-29.xhtml" id="Derda-29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-30.xhtml" id="Derda-30.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-31.xhtml" id="Derda-31.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-32.xhtml" id="Derda-32.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-33.xhtml" id="Derda-33.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-34.xhtml" id="Derda-34.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-35.xhtml" id="Derda-35.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-36.xhtml" id="Derda-36.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-37.xhtml" id="Derda-37.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-38.xhtml" id="Derda-38.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda-.xhtml" id="Derda-.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--1.xhtml" id="Derda--1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--2.xhtml" id="Derda--2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--3.xhtml" id="Derda--3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--4.xhtml" id="Derda--4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--5.xhtml" id="Derda--5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--6.xhtml" id="Derda--6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--7.xhtml" id="Derda--7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--8.xhtml" id="Derda--8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--9.xhtml" id="Derda--9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--10.xhtml" id="Derda--10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--11.xhtml" id="Derda--11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--12.xhtml" id="Derda--12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--13.xhtml" id="Derda--13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--14.xhtml" id="Derda--14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--15.xhtml" id="Derda--15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--16.xhtml" id="Derda--16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--17.xhtml" id="Derda--17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--18.xhtml" id="Derda--18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--19.xhtml" id="Derda--19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--20.xhtml" id="Derda--20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--21.xhtml" id="Derda--21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--22.xhtml" id="Derda--22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--23.xhtml" id="Derda--23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--24.xhtml" id="Derda--24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--25.xhtml" id="Derda--25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--26.xhtml" id="Derda--26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--27.xhtml" id="Derda--27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--28.xhtml" id="Derda--28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--29.xhtml" id="Derda--29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda--30.xhtml" id="Derda--30.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derdanin_mektubu.xhtml" id="Derdanin_mektubu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derdanin_mektubu-1.xhtml" id="Derdanin_mektubu-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yolculuk.xhtml" id="Yolculuk.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yolculuk-1.xhtml" id="Yolculuk-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yolculuk-2.xhtml" id="Yolculuk-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derdaninn_mektubu-.xhtml" id="Derdaninn_mektubu-.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derdanin_mektubu--1.xhtml" id="Derdanin_mektubu--1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda_ve_Derda.xhtml" id="Derda_ve_Derda.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda_ve_Derda-1.xhtml" id="Derda_ve_Derda-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Derda_ve_Derda-2.xhtml" id="Derda_ve_Derda-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="template.css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/dk_logo_fmt.jpeg" id="dk_logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/h_nota_fmt.jpeg" id="h_nota_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon_fmt.jpeg" id="icon_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/img262_fmt.jpeg" id="img262_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/img263_fmt.jpeg" id="img263_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/img264_fmt.jpeg" id="img264_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/img265_fmt.jpeg" id="img265_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/img266_fmt.jpeg" id="img266_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/img267_fmt.jpeg" id="img267_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/img268_fmt.jpeg" id="img268_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/img269_fmt.jpeg" id="img269_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/img270_fmt.jpeg" id="img270_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/img271_fmt.jpeg" id="img271_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/GillSans.ttc" id="GillSans.ttc" media-type="application/octet-stream"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="KUNYE.xhtml"/>
+    <itemref idref="GIRIS.xhtml"/>
+    <itemref idref="ITHAF.xhtml"/>
+    <itemref idref="ITHAF-1.xhtml"/>
+    <itemref idref="Derda.xhtml"/>
+    <itemref idref="id"/>
+    <itemref idref="Derda-2.xhtml"/>
+    <itemref idref="Derda-3.xhtml"/>
+    <itemref idref="Derda-4.xhtml"/>
+    <itemref idref="Derda-5.xhtml"/>
+    <itemref idref="Derda-6.xhtml"/>
+    <itemref idref="Derda-7.xhtml"/>
+    <itemref idref="Derda-8.xhtml"/>
+    <itemref idref="Derda-9.xhtml"/>
+    <itemref idref="Derda-10.xhtml"/>
+    <itemref idref="Derda-11.xhtml"/>
+    <itemref idref="Derda-12.xhtml"/>
+    <itemref idref="Derda-13.xhtml"/>
+    <itemref idref="Derda-14.xhtml"/>
+    <itemref idref="Derda-15.xhtml"/>
+    <itemref idref="Derda-16.xhtml"/>
+    <itemref idref="Derda-17.xhtml"/>
+    <itemref idref="Derda-18.xhtml"/>
+    <itemref idref="Derda-19.xhtml"/>
+    <itemref idref="Derda-20.xhtml"/>
+    <itemref idref="Derda-21.xhtml"/>
+    <itemref idref="Derda-22.xhtml"/>
+    <itemref idref="Derda-23.xhtml"/>
+    <itemref idref="Derda-24.xhtml"/>
+    <itemref idref="Derda-25.xhtml"/>
+    <itemref idref="Derda-26.xhtml"/>
+    <itemref idref="Derda-27.xhtml"/>
+    <itemref idref="Derda-28.xhtml"/>
+    <itemref idref="Derda-29.xhtml"/>
+    <itemref idref="Derda-30.xhtml"/>
+    <itemref idref="Derda-31.xhtml"/>
+    <itemref idref="Derda-32.xhtml"/>
+    <itemref idref="Derda-33.xhtml"/>
+    <itemref idref="Derda-34.xhtml"/>
+    <itemref idref="Derda-35.xhtml"/>
+    <itemref idref="Derda-36.xhtml"/>
+    <itemref idref="Derda-37.xhtml"/>
+    <itemref idref="Derda-38.xhtml"/>
+    <itemref idref="Derda-.xhtml"/>
+    <itemref idref="Derda--1.xhtml"/>
+    <itemref idref="Derda--2.xhtml"/>
+    <itemref idref="Derda--3.xhtml"/>
+    <itemref idref="Derda--4.xhtml"/>
+    <itemref idref="Derda--5.xhtml"/>
+    <itemref idref="Derda--6.xhtml"/>
+    <itemref idref="Derda--7.xhtml"/>
+    <itemref idref="Derda--8.xhtml"/>
+    <itemref idref="Derda--9.xhtml"/>
+    <itemref idref="Derda--10.xhtml"/>
+    <itemref idref="Derda--11.xhtml"/>
+    <itemref idref="Derda--12.xhtml"/>
+    <itemref idref="Derda--13.xhtml"/>
+    <itemref idref="Derda--14.xhtml"/>
+    <itemref idref="Derda--15.xhtml"/>
+    <itemref idref="Derda--16.xhtml"/>
+    <itemref idref="Derda--17.xhtml"/>
+    <itemref idref="Derda--18.xhtml"/>
+    <itemref idref="Derda--19.xhtml"/>
+    <itemref idref="Derda--20.xhtml"/>
+    <itemref idref="Derda--21.xhtml"/>
+    <itemref idref="Derda--22.xhtml"/>
+    <itemref idref="Derda--23.xhtml"/>
+    <itemref idref="Derda--24.xhtml"/>
+    <itemref idref="Derda--25.xhtml"/>
+    <itemref idref="Derda--26.xhtml"/>
+    <itemref idref="Derda--27.xhtml"/>
+    <itemref idref="Derda--28.xhtml"/>
+    <itemref idref="Derda--29.xhtml"/>
+    <itemref idref="Derda--30.xhtml"/>
+    <itemref idref="Derdanin_mektubu.xhtml"/>
+    <itemref idref="Derdanin_mektubu-1.xhtml"/>
+    <itemref idref="Yolculuk.xhtml"/>
+    <itemref idref="Yolculuk-1.xhtml"/>
+    <itemref idref="Yolculuk-2.xhtml"/>
+    <itemref idref="Derdaninn_mektubu-.xhtml"/>
+    <itemref idref="Derdanin_mektubu--1.xhtml"/>
+    <itemref idref="Derda_ve_Derda.xhtml"/>
+    <itemref idref="Derda_ve_Derda-1.xhtml"/>
+    <itemref idref="Derda_ve_Derda-2.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/KAPAK.xhtml" type="cover"/>
+  </guide>
+</package>

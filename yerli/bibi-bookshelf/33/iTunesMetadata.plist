@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Ayşe Kulin</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>86923E4DC33135314C2480885394BFF2</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>0ADBC445A18FBE8138072D84FD73EDFF</string>
+		<key>publisher-unique-id</key>
+		<string>fbd0baa6-5076-4c0d-8685-69baf9e0fc31</string>
+		<key>unique-id</key>
+		<integer>-272283959027932022</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>www.iphonepub.com</string>
+	<key>itemName</key>
+	<string>Gece Sesleri</string>
+	<key>playlistName</key>
+	<string>Gece Sesleri</string>
+	<key>releaseDate</key>
+	<string>2010-11-21T01:09:52.183181+00:00</string>
+	<key>sort-artist</key>
+	<string>Kulin, Ayşe</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

@@ -1,0 +1,147 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    height: 30px;
+    width: 68px
+    }
+.calibre3 {
+    height: 90%;
+    position: relative;
+    width: auto
+    }
+.calibre4 {
+    height: 50px;
+    width: 50px
+    }
+.calibre5 {
+    height: auto;
+    position: relative;
+    width: 60%
+    }
+.chapter {
+    display: block
+    }
+.clrb {
+    clear: both;
+    display: block
+    }
+.idebold {
+    font-weight: bold
+    }
+.ideitalik {
+    font-style: italic
+    }
+.ideitalik1 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.indentmetin {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-indent: 0.75em
+    }
+.kitapickapak {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: 100;
+    line-height: 1.2;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kitapickapak1 {
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.normal {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-indent: 0.75em
+    }
+.normal1 {
+    display: block;
+    font-size: 1em;
+    font-weight: 100;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 0.75em;
+	text-align:justify;
+    }
+.normal2 {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-indent: 0.75em
+    }
+.normal3 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: 100;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 0.75em
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.sagitalik {
+    display: block;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }

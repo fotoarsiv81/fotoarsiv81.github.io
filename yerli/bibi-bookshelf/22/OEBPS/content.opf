@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Mahrem</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Şafak, Elif">Elif Şafak</dc:creator>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:6CDC35F3-D810-4812-841E-E33CF70ACBED</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">0f0c641a-477d-425d-80b0-0584e54a3458</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="KAPAK.html" id="KAPAK" media-type="application/xhtml+xml"/>
+    <item href="KUNYE.html" id="KUNYE" media-type="application/xhtml+xml"/>
+    <item href="GIRIS.html" id="GIRIS" media-type="application/xhtml+xml"/>
+    <item href="ITHAF.html" id="ITHAF" media-type="application/xhtml+xml"/>
+    <item href="ITHAF-1.html" id="ITHAF-1" media-type="application/xhtml+xml"/>
+    <item href="MAHREM.html" id="MAHREM" media-type="application/xhtml+xml"/>
+    <item href="MAHREM-1.html" id="MAHREM-1" media-type="application/xhtml+xml"/>
+    <item href="BIR.html" id="BIR" media-type="application/xhtml+xml"/>
+    <item href="BIR-1.html" id="BIR-1" media-type="application/xhtml+xml"/>
+    <item href="BIR-2.html" id="BIR-2" media-type="application/xhtml+xml"/>
+    <item href="BIR-3.html" id="BIR-3" media-type="application/xhtml+xml"/>
+    <item href="BIR-4.html" id="BIR-4" media-type="application/xhtml+xml"/>
+    <item href="IKI.html" id="IKI" media-type="application/xhtml+xml"/>
+    <item href="IKI-1.html" id="IKI-1" media-type="application/xhtml+xml"/>
+    <item href="IKI-2.html" id="IKI-2" media-type="application/xhtml+xml"/>
+    <item href="IKI-3.html" id="IKI-3" media-type="application/xhtml+xml"/>
+    <item href="IKI-4.html" id="IKI-4" media-type="application/xhtml+xml"/>
+    <item href="UC.html" id="UC" media-type="application/xhtml+xml"/>
+    <item href="UC-1.html" id="UC-1" media-type="application/xhtml+xml"/>
+    <item href="UC-2.html" id="UC-2" media-type="application/xhtml+xml"/>
+    <item href="&quot;IKI!&quot;.html" id="x-IKI--" media-type="application/xhtml+xml"/>
+    <item href="&quot;BIR!&quot;.html" id="x-BIR--" media-type="application/xhtml+xml"/>
+    <item href="&quot;SIFIR!&quot;.html" id="x-SIFIR--" media-type="application/xhtml+xml"/>
+    <item href="EK.html" id="EK" media-type="application/xhtml+xml"/>
+    <item href="ARKA_KAPAK.html" id="ARKA_KAPAK" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/dk_logo_fmt.png" id="dk_logo_fmt.png" media-type="image/png"/>
+    <item href="images/icon1b_fmt.jpeg" id="icon1b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/on_D_fmt.jpeg" id="on_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/on_D.jpg" id="on_D.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uMwMmIGOxvDRNNkOlyu7z92" media-type="image/jpeg"/>
+    <item href="fonts/Serif6BetaRgitalic.ttf" id="Serif6BetaRgitalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/Serif12Beta-BoldItalic.ttf" id="Serif12Beta-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/Serif12Beta-Roman.ttf" id="Serif12Beta-Roman.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/Serif12BetaRgBold.ttf" id="Serif12BetaRgBold.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/Uni-Sans-Book.ttf" id="Uni-Sans-Book.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="KAPAK"/>
+    <itemref idref="KUNYE"/>
+    <itemref idref="GIRIS"/>
+    <itemref idref="ITHAF"/>
+    <itemref idref="ITHAF-1"/>
+    <itemref idref="MAHREM"/>
+    <itemref idref="MAHREM-1"/>
+    <itemref idref="BIR"/>
+    <itemref idref="BIR-1"/>
+    <itemref idref="BIR-2"/>
+    <itemref idref="BIR-3"/>
+    <itemref idref="BIR-4"/>
+    <itemref idref="IKI"/>
+    <itemref idref="IKI-1"/>
+    <itemref idref="IKI-2"/>
+    <itemref idref="IKI-3"/>
+    <itemref idref="IKI-4"/>
+    <itemref idref="UC"/>
+    <itemref idref="UC-1"/>
+    <itemref idref="UC-2"/>
+    <itemref idref="x-IKI--"/>
+    <itemref idref="x-BIR--"/>
+    <itemref idref="x-SIFIR--"/>
+    <itemref idref="EK"/>
+    <itemref idref="ARKA_KAPAK"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

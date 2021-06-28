@@ -1,0 +1,221 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Siyah Süt</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Şafak, Elif">Elif Şafak</dc:creator>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:c9b0701d-d298-4d16-9f43-20e0e9a0cf62</dc:identifier>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-02-16</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">2df988c1-f88d-46d2-8e9b-36d30dbcd829</dc:identifier>
+    <meta name="cover" content="_cover.jpeg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Siyah Süt" name="calibre:title_sort"/>
+    <meta content="{&quot;Elif Şafak&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:user_metadata:#formats" content="{&quot;search_terms&quot;: [&quot;#formats&quot;], &quot;display&quot;: {&quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;composite_sort&quot;: &quot;text&quot;, &quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;use_decorations&quot;: 0}, &quot;category_sort&quot;: &quot;value&quot;, &quot;colnum&quot;: 1, &quot;#extra#&quot;: null, &quot;is_editable&quot;: true, &quot;datatype&quot;: &quot;composite&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;is_multiple2&quot;: {}, &quot;is_category&quot;: false, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;#value#&quot;: null, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;rec_index&quot;: 22, &quot;name&quot;: &quot;Formats&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_000.html" id="siyahsut_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_001.html" id="siyahsut_split_001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_002.html" id="siyahsut_split_002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_003.html" id="siyahsut_split_003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_004.html" id="siyahsut_split_004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_005.html" id="siyahsut_split_005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_006.html" id="siyahsut_split_006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_007.html" id="siyahsut_split_007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_008.html" id="siyahsut_split_008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_009.html" id="siyahsut_split_009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_010.html" id="siyahsut_split_010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_011.html" id="siyahsut_split_011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_012.html" id="siyahsut_split_012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_013.html" id="siyahsut_split_013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_014.html" id="siyahsut_split_014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_015.html" id="siyahsut_split_015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_016.html" id="siyahsut_split_016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_017.html" id="siyahsut_split_017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_018.html" id="siyahsut_split_018.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_019.html" id="siyahsut_split_019.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_020.html" id="siyahsut_split_020.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_021.html" id="siyahsut_split_021.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_022.html" id="siyahsut_split_022.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_023.html" id="siyahsut_split_023.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_024.html" id="siyahsut_split_024.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_025.html" id="siyahsut_split_025.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_026.html" id="siyahsut_split_026.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_027.html" id="siyahsut_split_027.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_028.html" id="siyahsut_split_028.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_029.html" id="siyahsut_split_029.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_030.html" id="siyahsut_split_030.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_031.html" id="siyahsut_split_031.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_032.html" id="siyahsut_split_032.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_033.html" id="siyahsut_split_033.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_034.html" id="siyahsut_split_034.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_035.html" id="siyahsut_split_035.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_036.html" id="siyahsut_split_036.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_037.html" id="siyahsut_split_037.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_038.html" id="siyahsut_split_038.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_039.html" id="siyahsut_split_039.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_040.html" id="siyahsut_split_040.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_041.html" id="siyahsut_split_041.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_042.html" id="siyahsut_split_042.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_043.html" id="siyahsut_split_043.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_044.html" id="siyahsut_split_044.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_045.html" id="siyahsut_split_045.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_046.html" id="siyahsut_split_046.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_047.html" id="siyahsut_split_047.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_048.html" id="siyahsut_split_048.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_049.html" id="siyahsut_split_049.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_050.html" id="siyahsut_split_050.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_051.html" id="siyahsut_split_051.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_052.html" id="siyahsut_split_052.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_053.html" id="siyahsut_split_053.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_054.html" id="siyahsut_split_054.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_055.html" id="siyahsut_split_055.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_056.html" id="siyahsut_split_056.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_057.html" id="siyahsut_split_057.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_058.html" id="siyahsut_split_058.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_059.html" id="siyahsut_split_059.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_060.html" id="siyahsut_split_060.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_061.html" id="siyahsut_split_061.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_062.html" id="siyahsut_split_062.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_063.html" id="siyahsut_split_063.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_064.html" id="siyahsut_split_064.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_065.html" id="siyahsut_split_065.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_066.html" id="siyahsut_split_066.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_067.html" id="siyahsut_split_067.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_068.html" id="siyahsut_split_068.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_069.html" id="siyahsut_split_069.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_070.html" id="siyahsut_split_070.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_071.html" id="siyahsut_split_071.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_072.html" id="siyahsut_split_072.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_073.html" id="siyahsut_split_073.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_074.html" id="siyahsut_split_074.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_075.html" id="siyahsut_split_075.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_076.html" id="siyahsut_split_076.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_077.html" id="siyahsut_split_077.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_078.html" id="siyahsut_split_078.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_079.html" id="siyahsut_split_079.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_080.html" id="siyahsut_split_080.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_081.html" id="siyahsut_split_081.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_083.html" id="siyahsut_split_083.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_084.html" id="siyahsut_split_084.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_085.html" id="siyahsut_split_085.html" media-type="application/xhtml+xml"/>
+    <item href="Text/siyahsut_split_086.html" id="siyahsut_split_086.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/_cover.jpeg" id="_cover.jpeg" media-type="image/jpeg"/>
+    <item href="Images/1.jpg" id="x1.jpg" media-type="image/jpeg"/>
+    <item href="Images/11.jpg" id="x11.jpg" media-type="image/jpeg"/>
+    <item href="Images/12.jpg" id="x12.jpg" media-type="image/jpeg"/>
+    <item href="Images/13.jpg" id="x13.jpg" media-type="image/jpeg"/>
+    <item href="Images/14.jpg" id="x14.jpg" media-type="image/jpeg"/>
+    <item href="Images/15.jpg" id="x15.jpg" media-type="image/jpeg"/>
+    <item href="Images/16.jpg" id="x16.jpg" media-type="image/jpeg"/>
+    <item href="Images/17.jpg" id="x17.jpg" media-type="image/jpeg"/>
+    <item href="Images/18.jpg" id="x18.jpg" media-type="image/jpeg"/>
+    <item href="Images/19.jpg" id="x19.jpg" media-type="image/jpeg"/>
+    <item href="Images/2.jpg" id="x2.jpg" media-type="image/jpeg"/>
+    <item href="Images/20.jpg" id="x20.jpg" media-type="image/jpeg"/>
+    <item href="Images/21.jpg" id="x21.jpg" media-type="image/jpeg"/>
+    <item href="Images/22.jpg" id="x22.jpg" media-type="image/jpeg"/>
+    <item href="Images/23.jpg" id="x23.jpg" media-type="image/jpeg"/>
+    <item href="Images/24.jpg" id="x24.jpg" media-type="image/jpeg"/>
+    <item href="Images/25.jpg" id="x25.jpg" media-type="image/jpeg"/>
+    <item href="Images/icon2b_fmt.jpeg" id="icon2b_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="siyahsut_split_000.html"/>
+    <itemref idref="siyahsut_split_001.html"/>
+    <itemref idref="siyahsut_split_002.html"/>
+    <itemref idref="siyahsut_split_003.html"/>
+    <itemref idref="siyahsut_split_004.html"/>
+    <itemref idref="siyahsut_split_005.html"/>
+    <itemref idref="siyahsut_split_006.html"/>
+    <itemref idref="siyahsut_split_007.html"/>
+    <itemref idref="siyahsut_split_008.html"/>
+    <itemref idref="siyahsut_split_009.html"/>
+    <itemref idref="siyahsut_split_010.html"/>
+    <itemref idref="siyahsut_split_011.html"/>
+    <itemref idref="siyahsut_split_012.html"/>
+    <itemref idref="siyahsut_split_013.html"/>
+    <itemref idref="siyahsut_split_014.html"/>
+    <itemref idref="siyahsut_split_015.html"/>
+    <itemref idref="siyahsut_split_016.html"/>
+    <itemref idref="siyahsut_split_017.html"/>
+    <itemref idref="siyahsut_split_018.html"/>
+    <itemref idref="siyahsut_split_019.html"/>
+    <itemref idref="siyahsut_split_020.html"/>
+    <itemref idref="siyahsut_split_021.html"/>
+    <itemref idref="siyahsut_split_022.html"/>
+    <itemref idref="siyahsut_split_023.html"/>
+    <itemref idref="siyahsut_split_024.html"/>
+    <itemref idref="siyahsut_split_025.html"/>
+    <itemref idref="siyahsut_split_026.html"/>
+    <itemref idref="siyahsut_split_027.html"/>
+    <itemref idref="siyahsut_split_028.html"/>
+    <itemref idref="siyahsut_split_029.html"/>
+    <itemref idref="siyahsut_split_030.html"/>
+    <itemref idref="siyahsut_split_031.html"/>
+    <itemref idref="siyahsut_split_032.html"/>
+    <itemref idref="siyahsut_split_033.html"/>
+    <itemref idref="siyahsut_split_034.html"/>
+    <itemref idref="siyahsut_split_035.html"/>
+    <itemref idref="siyahsut_split_036.html"/>
+    <itemref idref="siyahsut_split_037.html"/>
+    <itemref idref="siyahsut_split_038.html"/>
+    <itemref idref="siyahsut_split_039.html"/>
+    <itemref idref="siyahsut_split_040.html"/>
+    <itemref idref="siyahsut_split_041.html"/>
+    <itemref idref="siyahsut_split_042.html"/>
+    <itemref idref="siyahsut_split_043.html"/>
+    <itemref idref="siyahsut_split_044.html"/>
+    <itemref idref="siyahsut_split_045.html"/>
+    <itemref idref="siyahsut_split_046.html"/>
+    <itemref idref="siyahsut_split_047.html"/>
+    <itemref idref="siyahsut_split_048.html"/>
+    <itemref idref="siyahsut_split_049.html"/>
+    <itemref idref="siyahsut_split_050.html"/>
+    <itemref idref="siyahsut_split_051.html"/>
+    <itemref idref="siyahsut_split_052.html"/>
+    <itemref idref="siyahsut_split_053.html"/>
+    <itemref idref="siyahsut_split_054.html"/>
+    <itemref idref="siyahsut_split_055.html"/>
+    <itemref idref="siyahsut_split_056.html"/>
+    <itemref idref="siyahsut_split_057.html"/>
+    <itemref idref="siyahsut_split_058.html"/>
+    <itemref idref="siyahsut_split_059.html"/>
+    <itemref idref="siyahsut_split_060.html"/>
+    <itemref idref="siyahsut_split_061.html"/>
+    <itemref idref="siyahsut_split_062.html"/>
+    <itemref idref="siyahsut_split_063.html"/>
+    <itemref idref="siyahsut_split_064.html"/>
+    <itemref idref="siyahsut_split_065.html"/>
+    <itemref idref="siyahsut_split_066.html"/>
+    <itemref idref="siyahsut_split_067.html"/>
+    <itemref idref="siyahsut_split_068.html"/>
+    <itemref idref="siyahsut_split_069.html"/>
+    <itemref idref="siyahsut_split_070.html"/>
+    <itemref idref="siyahsut_split_071.html"/>
+    <itemref idref="siyahsut_split_072.html"/>
+    <itemref idref="siyahsut_split_073.html"/>
+    <itemref idref="siyahsut_split_074.html"/>
+    <itemref idref="siyahsut_split_075.html"/>
+    <itemref idref="siyahsut_split_076.html"/>
+    <itemref idref="siyahsut_split_077.html"/>
+    <itemref idref="siyahsut_split_078.html"/>
+    <itemref idref="siyahsut_split_079.html"/>
+    <itemref idref="siyahsut_split_080.html"/>
+    <itemref idref="siyahsut_split_081.html"/>
+    <itemref idref="siyahsut_split_083.html"/>
+    <itemref idref="siyahsut_split_084.html"/>
+    <itemref idref="siyahsut_split_085.html"/>
+    <itemref idref="siyahsut_split_086.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

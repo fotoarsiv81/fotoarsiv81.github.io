@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:5dfa30f2-8dc8-42bf-9dc1-984e721351a0" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Erken Kaybedenler</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Epigraf</text>
+      </navLabel>
+      <content src="Text/epigraf.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>ANNEANNEMİN SON ÖLÜMÜ</text>
+      </navLabel>
+      <content src="Text/01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>ZANNETTİĞİN GİBİ DEĞİL</text>
+      </navLabel>
+      <content src="Text/02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>KORHAN AĞBİ’NİN KARDEŞİ</text>
+      </navLabel>
+      <content src="Text/03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>DENİZİN ÇAĞRISI</text>
+      </navLabel>
+      <content src="Text/04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>CAHİDE</text>
+      </navLabel>
+      <content src="Text/05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>ÜST KATTAKİ TERÖRİST</text>
+      </navLabel>
+      <content src="Text/06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>ALÇAK GÖNÜLLÜ ARZULAR</text>
+      </navLabel>
+      <content src="Text/07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>KİMİ SEVSEM ÇIKMAZI</text>
+      </navLabel>
+      <content src="Text/08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/tesekkur.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="10e32633-544c-415a-99a5-3fd5a0563f07" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.9)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>KINYAS VE KAYRA</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="ua6742e85-a6e5-435a-b5f2-2df2d0808e21" playOrder="1">
+      <navLabel>
+        <text>Birinci Kitap</text>
+      </navLabel>
+      <content src="Text/1_split_004_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="u7bec3be6-cbcf-4c31-9f9c-7adafc5c5ce0" playOrder="2">
+      <navLabel>
+        <text>İkinci Kitap</text>
+      </navLabel>
+      <content src="Text/1_split_031_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="u91be38e9-b28f-49ef-9631-da53e00b8ea6" playOrder="3">
+      <navLabel>
+        <text>Üçüncü Kitap</text>
+      </navLabel>
+      <content src="Text/1_split_044_split_000.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

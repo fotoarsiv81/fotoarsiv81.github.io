@@ -1,0 +1,132 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    height: 30px;
+    width: 68px
+    }
+.calibre3 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre4 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre5 {
+    height: 50px;
+    width: 50px
+    }
+.calibre6 {
+    height: 90%;
+    width: auto
+    }
+.chapter {
+    display: block
+    }
+.h1baslik {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.idebold {
+    font-weight: bold
+    }
+.indentmetin {
+    display: block;
+    font-size: 0.83333em;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-indent: 0.75em
+    }
+.indentmetinitalik {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-indent: 0.75em
+    }
+.kitapickapak {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: 100;
+    line-height: 1.2;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kitapickapak1 {
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.normal {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-indent: 0.75em
+    }
+.normal1 {
+text-align:justify;
+    display: block;
+    font-size: 1em;
+    font-weight: 100;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 0.75em
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Erken Kaybedenler</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Serbes, Emrah">Emrah Serbes</dc:creator>
+    <dc:description>&lt;div&gt;&lt;p&gt;Ankara polisiyeleriyle tanıdığımız Emrah Serbes, bu defa direksiyonu kırıyor ve edebiyatımızda pek de işlenmemiş bir başka meseleye el atıyor. Erkek çocukların enerjik, hüzünlü, alengirli dünyasına giriyoruz...&lt;br&gt;Baba çalışıyor, anne ev hanımı, muhafazakârlığın kalesi...İşçiler, yoksullar, teyzeler, abiler... Kolay ağlayan sert adamlar... Taşra seyrekliği, mahallenin kalabalığı... Kıskanç, gururlu, saf ergenler... Emrah Serbes, çabuk öfkelenen, kolay vazgeçen, baştan çıkmış erkek çocukları konuşturuyor... Kederli, insana dokunan komik hikâyeler bunlar... &lt;/p&gt;&lt;p&gt;“Dizinin dizime değişi, Handan’ın annesi için bir kelebeğin kanat çırpışıysa benim için kasırgaydı. Kaç sene geçti, hâlâ unutmam, günde en az beş sefer aklıma gelir. Biliyorum bu durumun, kökeni memeden kesildiğim güne kadar uzanan psikolojik nedenleri vardır. Ama bir kadını unutulmaz yapan şey, bir vakitler ona duyulan arzunun şiddetiyle doğru orantılı değil midir? O arzunun kıyısında, gerçekleşme olasılığının tam yanı başında, sanki arada başka hiçbir engel yokmuş gibi rahat davranabilmekle, kendini o tatlı yanılsamaya kaptırabilmekle doğru orantılı değil midir? Bu olgunun da mı sorumlusu benim mutsuz geçen çocukluğum? Cevap? Yok! Kalırsın öyle...”&lt;br&gt;Taşrada ve kâinatta, yapayalnız kalmış erkek çocukların hikâyesi... &lt;/p&gt;&lt;p&gt;Erken Kaybedenler... Yoldan çıkmış bir neslin manifestosu...&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:5dfa30f2-8dc8-42bf-9dc1-984e721351a0</dc:identifier>
+    <dc:date opf:event="modification">2017-01-13</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">dc299779-bcdb-43be-b8ae-69826f79ccb8</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789750506765</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="epigraf.xhtml" href="Text/epigraf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="son.xhtml" href="Text/son.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tesekkur.xhtml" href="Text/tesekkur.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="logo_iletisim.svg" href="Images/logo_iletisim.svg" media-type="image/svg+xml"/>
+    <item id="sep.png" href="Images/sep.png" media-type="image/png"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="LithosPro-Regular.ttf" href="Fonts/LithosPro-Regular.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="epigraf.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="son.xhtml"/>
+    <itemref idref="tesekkur.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
