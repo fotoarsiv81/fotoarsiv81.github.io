@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Orhan Pamuk</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>482AE8115D264E1C6B3D163614172F58</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>package-file-hash</key>
+		<string>D918AF257B9021E888EF26D09C8AA48B</string>
+		<key>publisher-unique-id</key>
+		<string>5099a702-41f7-42a4-9fdf-c28c2a657126</string>
+		<key>unique-id</key>
+		<integer>-3085823112480423566</integer>
+	</dict>
+	<key>composerName</key>
+	<string>5099a702-41f7-42a4-9fdf-c28c2a657126</string>
+	<key>itemName</key>
+	<string>Benim Adım Kırmızı</string>
+	<key>playlistName</key>
+	<string>Benim Adım Kırmızı</string>
+	<key>releaseDate</key>
+	<string>2011-03-03T23:25:48.821261+00:00</string>
+	<key>sort-artist</key>
+	<string>Pamuk, Orhan</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+	<key>sort-composer</key>
+	<string></string>
+	<key>sort-composer-status</key>
+	<integer>128</integer>
+	<key>sort-name</key>
+	<string>Benim Adım Kırmızı</string>
+	<key>sort-name-status</key>
+	<integer>1</integer>
+</dict>
+</plist>
