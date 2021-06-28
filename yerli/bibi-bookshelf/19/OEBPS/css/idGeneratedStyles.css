@@ -1,0 +1,67 @@
+body,div,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,pre,code,blockquote{margin:0;padding:0;border-width:0}
+td,th{border-style:solid;border-width:1px}
+table{border-collapse:collapse}
+body{-epub-hyphens:auto;-webkit-hyphens:auto}
+@page{margin:.5px}
+p.Normal{-epub-hyphens:none;-webkit-hyphens:none;color:#000;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:left;text-decoration:none;text-indent:0;widows:1;margin:0}
+p.Paragraph20{-epub-hyphens:none;-webkit-hyphens:none;color:#000;font-size:1em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:left;text-decoration:none;text-indent:20px;widows:1;margin:20px 30px 0}
+p.alinti{-epub-hyphens:none;-webkit-hyphens:none;color:#000;font-size:.875em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:left;text-decoration:none;text-indent:10px;widows:1;margin:0 30px 0 50px}
+p.alinti_copy{-epub-hyphens:none;-webkit-hyphens:none;color:#000;font-size:.875em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:left;text-decoration:none;text-indent:10px;widows:1;margin:20px 30px 0 50px}
+p.alt20{color:#000;font-size:1em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:right;text-decoration:none;text-indent:0;widows:1;margin:0 50px 20px}
+p.anabaslik{color:#000;font-size:1.25em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:center;text-decoration:none;text-indent:0;widows:1;margin:60px 0 0}
+p.arabaslik_orta{color:#000;font-size:1.417em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:center;text-decoration:none;text-indent:0;widows:1;margin:0 0 50px}
+p.arabaslik_sol{color:#000;font-size:1.083em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:left;text-decoration:none;text-indent:0;widows:1;margin:30px 30px 20px 50px}
+p.arayazi{color:#000;font-size:.833em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:left;text-decoration:none;text-indent:20px;widows:1;margin:0 50px}
+p.arayazi_copy{color:#000;font-size:.833em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:left;text-decoration:none;text-indent:20px;widows:1;margin:20px 50px 0}
+p.dipnot{color:#000;font-size:.75em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:left;text-decoration:none;text-indent:0;widows:1;margin:20px 30px 0}
+p.paragraf{-epub-hyphens:none;-webkit-hyphens:none;color:#000;font-size:1em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:left;text-decoration:none;text-indent:20px;widows:1;margin:0 30px}
+p.res{color:#000;font-size:.75em;font-style:italic;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:center;text-decoration:none;text-indent:0;widows:1;margin:70px 0 15px}
+p.split{color:#000;font-size:1.083em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:center;text-decoration:none;text-indent:0;widows:1;margin:100px 30px 0 50px}
+p.yildiz{color:#000;font-size:1em;font-style:normal;font-variant:normal;font-weight:400;orphans:1;page-break-after:auto;page-break-before:auto;text-align:center;text-decoration:none;text-indent:0;widows:1;margin:17px 30px 17px 0}
+span.Normal{color:#000;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none}
+span.alinti{font-size:.771em;font-style:normal;font-weight:400}
+span.bolum-baslik{color:#000;font-size:1.667em;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none}
+span.dipnot-numarasi{color:#000;font-size:.667em;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:super}
+span.dipnotlar{color:#000;font-size:.708em;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none}
+span.dipnotlar-bold{color:#000;font-size:.708em;font-style:normal;font-variant:normal;font-weight:700;text-decoration:none}
+span.metin-italik{color:#000;font-size:1em;font-style:italic;font-variant:normal;font-weight:400;text-decoration:none}
+p.ParaOverride-1{margin-left:30px;margin-top:30px}
+p.ParaOverride-2{margin-left:30px;margin-top:20px}
+p.ParaOverride-3{margin-left:30px;margin-top:60px}
+p.ParaOverride-4{margin-left:30px;margin-top:9px}
+p.ParaOverride-5{margin-left:30px}
+p.ParaOverride-6{margin-left:30px;margin-top:5px}
+p.ParaOverride-7{margin-top:70px;text-align:center}
+p.ParaOverride-8{margin-top:60px;text-align:center}
+p.ParaOverride-9{text-align:center}
+p.ParaOverride-10{-epub-hyphens:none;-webkit-hyphens:none}
+p.ParaOverride-11{text-align:center;text-indent:0}
+p.ParaOverride-12{text-align:right}
+p.ParaOverride-13{margin-left:11px;margin-right:11px;text-align:right}
+span.CharOverride-1{font-style:normal;font-weight:700}
+span.CharOverride-2{font-style:normal;font-weight:400}
+span.CharOverride-3{font-style:normal;font-weight:700}
+span.CharOverride-4{}
+span.CharOverride-5{font-style:normal;font-weight:400}
+span.CharOverride-6{color:#00f;font-style:normal;font-weight:700}
+span.CharOverride-7{color:#00f;font-style:normal;font-weight:700}
+span.CharOverride-8{font-size:1.667em;font-style:normal;font-weight:400}
+span.CharOverride-9{font-size:1.417em;font-style:normal;font-weight:400}
+span.CharOverride-10{font-size:1.083em;font-style:normal;font-weight:400}
+span.CharOverride-11{font-size:1.25em;font-style:normal;font-weight:400}
+span.CharOverride-12{color:#000;font-size:.923em;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none}
+span.CharOverride-13{color:#000;font-size:1em;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none}
+span.CharOverride-14{font-size:.925em;font-style:normal;font-weight:400}
+span.CharOverride-15{font-size:.881em;font-style:normal;font-weight:400}
+span.CharOverride-16{color:#000;font-size:1.038em;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none}
+span.CharOverride-17{font-size:1.038em}
+span.CharOverride-18{font-size:.944em;font-style:normal;font-weight:400}
+span.CharOverride-19{color:#000;font-size:.706em;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none}
+span.CharOverride-20{color:#000;font-size:.875em;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none}
+span._idGenCharOverride-1{font-size:1.333em}
+span._idGenCharOverride-2{font-size:1.176em}
+span._idGenCharOverride-3{font-size:1.538em}
+img._idGenPageitem-1{height:733px;width:508px}
+div._idGenPageitem-2{text-align:center}
+img._idGenPageitem-3{height:66px;width:119px}
+img._idGenPageitem-4{height:727px;width:508px}
