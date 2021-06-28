@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Pamuk, Orhan">Orhan Pamuk</dc:creator>
+<dc:description>&lt;p&gt;"Yeni Hayat özel bir vaka."
+-The Guardian-
+
+Orhan Pamuk'un tuhaf, şiirsel ve başdöndürücü bu romanı 1994 yılında yayımlandığında, tıpkı anlattığı sihirli kitap gibi esrarlı havasıyla kült roman olmuş, bir anda yüz binlerce okura ulaşmış, kırkı aşkın dile çevrilmişti.
+
+"Yeni Hayat insana Walter Benjamin'in, 'Bütün büyük edebiyat eserleri bir biçimi ya sona erdirir ya da bir yenisini başlatır, yani özel vakalardır' sözünü hatırlatıyor. Yeni Hayat özel bir vaka." 
+-The Guardian- 
+
+"Bir gün bir kitap okudum ve bütün hayatım değişti." Orhan Pamuk'un coşkulu, lirik ve sihirli romanı Yeni Hayat bu sözlerle başlıyor. Okuduğu bir kitaptan sarsılarak etkilenen, sayfalardan neredeyse fışkıran ışığa bütün hayatını veren ve kitabın vaat ettiği yeni hayatın peşinden koşan genç bir kahramanın olağanüstü hikâyesi bu. Kitabın etkisiyle âşık oluyor, üniversite öğrenciliğinden uzaklaşıyor, İstanbul'dan ayrılıyor, bitip tükenmeyen otobüs yolculuklarına çıkıyor, taşra şehirlerine doğru savruluyor. Onunla birlikte ve aynı hızla sürüklenen okuyucu, kahramanın okuduğu kitabı değil, başından geçenleri izleyerek bize özgü bir hüznün ve şiddetin ta kalbinde buluyor kendini. Siyah-beyaz televizyonlu kahvelere, video seyredilen otobüslere, trafik kazalarına, siyasi kumpas ve cinayetlere, bayi örgütlerine, paranoyakça kuramlara, saat kadar dakik muhbirlere, kaybolan eski eşyaların şiirine ve taşranın öfkesine uzanan bu harikulade yolculuk, Orhan Pamuk'un çağdaş dünya romanının en özgün yaratıcılarından biri olduğunu bir kere daha kanıtlıyor. Bir yandan Hayat'ın, Eşsiz Anlar'ın, Ölüm'ün, Yazı'nın, Kaza'nın sırlarına, bir yandan da çocukluğun resimli romanlarına, bir belirip bir kaybolan arzu meleğine ve Dante'nin, Rilke'nin şiirlerine açılan benzersiz bir roman. Hayatla okumanın kesiştiği alanda seyreden ve her sayfada katman katman genişleyen sarsıcı bir yol hikâyesi.
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{0F4780AB-7FE6-498C-9ED8-91FB9926C810}</dc:identifier>
+    <dc:date>2013-12-26T22:00:00+00:00</dc:date>
+    <dc:publisher>İletişim Yayıncılık</dc:publisher>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Yeni Hayat"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Orhan Pamuk&quot;: &quot;&quot;}"/>
+  <dc:title>Yeni Hayat</dc:title>
+<dc:subject>Çağdaş Edebiyat</dc:subject>
+<dc:subject>Gizem</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">9f408766-f32c-4414-a634-40b6fa2f430c</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750826481</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id5" media-type="text/css"/>
+    <item href="Images/yh.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,195 @@
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.italik {
+	font-weight : normal;
+	font-style : italic;
+}
+p.e-iyikikitaplarvar {
+	font-family : Cochin, serif;
+	font-weight : 500;
+	font-style : italic;
+	font-size : 1.33em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.38;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.e-jenerikbaslik {
+	font-family : "Trajan Pro", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.69;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 14px 0px 0px 0px;
+}
+p.e-jenerik {
+	font-family : "Myriad Pro", sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.63em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.47;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 0px 0px 0px;
+}
+p.e-parca {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.perde {
+	font-family : "Adobe Garamond Pro Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.36em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.5;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.paragraf {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.27;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px;
+}
+p.bosluk {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 0.64;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 6px 0px 0px 0px;
+}
+p.perdenumara {
+	font-family : "Adobe Garamond Pro Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 2.04;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 43px 0px 6px 0px;
+}
+p.siir {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.09;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 6px 0px 6px 20px;
+}
+p.resim {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.27;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 14px 0px;
+}
+p.epigraf {
+	font-family : "Chaparral Pro", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.27;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 28px 0px;
+}
+p.uzunbosluk {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.27;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 43px 0px 0px 0px;
+}
+p.tesekkur {
+	font-family : "Chaparral Pro", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.27;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 0px 0px 0px;
+}
+p.para-style-override-1 {
+	text-align : center;
+	margin-top : 4em;
+	margin-bottom : 4em;
+	page-break-after : always;
+}
+div.Basic-Text-Frame {
+}

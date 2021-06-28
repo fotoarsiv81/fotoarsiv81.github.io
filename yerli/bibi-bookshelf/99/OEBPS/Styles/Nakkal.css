@@ -1,0 +1,26 @@
+  @page {
+    margin-bottom: 9pt;
+    margin-top: 10pt;
+    margin-left: 8pt;
+    margin-right: 8pt;
+    }
+  
+body { 
+   font-family: "Trebuchet MS", sans-serif;
+   font-size: 95%;
+   text-align: justify;
+   text-indent: 16px;
+   line-height: 28px;
+}
+
+p.yirmibosluk {
+    margin-top: 20pt;
+    }
+
+p.otuzbosluk {
+    margin-top: 30pt;
+    }
+
+div#coverpage {
+	text-align: center;
+}

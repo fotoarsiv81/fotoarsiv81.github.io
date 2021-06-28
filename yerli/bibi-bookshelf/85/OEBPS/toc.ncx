@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="15742a6f-ed22-417f-ad72-6456ff8ef3fb" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.85.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Nil'in Kelebekleri</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>BÖLÜMLER</text>
+      </navLabel>
+      <content src="Text/section-0001.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Baaa... Baaaa...</text>
+      </navLabel>
+      <content src="Text/section-0003.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Içimdekiler</text>
+      </navLabel>
+      <content src="Text/section-0004.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Her şey değişecek: Var mısın, yok musun?</text>
+      </navLabel>
+      <content src="Text/section-0005.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>içeriden diyaloglar</text>
+      </navLabel>
+      <content src="Text/section-0006.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Acısı olan okusun!</text>
+      </navLabel>
+      <content src="Text/section-0007.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>R&gt;s,ş,t,u,ü,v,y,z</text>
+      </navLabel>
+      <content src="Text/section-0008.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>İnsanlar koklaşa koklaşa...</text>
+      </navLabel>
+      <content src="Text/section-0009.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>Yavaşa övgü</text>
+      </navLabel>
+      <content src="Text/section-0010.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>Hep beraber:</text>
+      </navLabel>
+      <content src="Text/section-0011.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>Bahar hanıma iletiniz</text>
+      </navLabel>
+      <content src="Text/section-0012.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>Ah Beyrut!</text>
+      </navLabel>
+      <content src="Text/section-0013.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

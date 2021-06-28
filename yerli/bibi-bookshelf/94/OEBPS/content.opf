@@ -1,0 +1,132 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Yağmur, Sinan">Sinan Yağmur</dc:creator>
+<dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:contributor opf:role="edt">Oğuzhan Yağız</dc:contributor>
+    <dc:date>2010-08-07T21:00:00+00:00</dc:date>
+    <dc:publisher>Karatay Akademi</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Celaleddin'i Mevlana'laştıran Şemsi Tebrizi'nin Kitabı...&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Yedinci ve en tesirli bıçak darbesi ensesine gelir boynu sağa doğru bükülmüştür. Dervişler yere kapanmasını bekleye dursun. Şems Hz. Peygamberin şu hadisini sesi boğuk mırıldanır: "Allah'a kavuşmayı isteyeni Allah da sever" Dervişlerden birisi sırtına tekmeyi vurur. Yüzüstü taş zemine kapanır, dudağı patlamış, dişleri zemine dökülmüştür Siyah feracesi kanlar içinde bordoya dönmüştür. Saçlarından tutarak kafasını kaldıran dervişin niyeti Şemsin başını gövdesinden ayırmaktır &lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Baş derviş engeller. Bırakın son nefesini versin. Sonra da en yakın bir kuyuya atın. Kıyafetine sarp atın. Avluyu yıkayın. Sabah ile yola çıkarız. Şems hala son nefesini vermemiştir Sille taşının üzerindeki başını hafifçe göğe kaldırır ve: "Allah ne güzel sevgilidir. Rabbim sana aşığım. Ve bu canı sana hediye ediyorum." Mevlana içeri girer, mendili koklar eli titreyerek açar. İçinden san kağıda yazılmış bir not çıkar: "Yemin ederim ki ölümümün gözlerinin önünde olmasını isterdim. Gör ki aşk için &lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;ölmek ne demekmiş." Mevlana olduğu yere düşüp bayılmıştır. Geceden sonra doğan ve kalplerin çöllerini cennetlere çeviren bir gözyaşı bu. Çoraklaşmış ve çöle dönmüş kalpler; açın sadrınızı! Aşkın gözyaşları, serin serin, sağanak sağanak, üzerimize damlıyor; bakın gökyüzüne, nasılda aşk yağıyor...&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <meta content="0.5.3" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Tebrizli Şems"/>
+    <meta name="calibre:series" content="Aşkın Gözyaşları"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Sinan Yağmur&quot;: &quot;&quot;}"/>
+  <dc:title>Tebrizli Şems</dc:title>
+<dc:subject>Din</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Mevlevilik</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.24.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">0f13be65-6140-4f8d-b916-dc619414d568</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786051130293</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/telif.xhtml" id="telif.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dikkat.xhtml" id="dikkat.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b1.xhtml" id="b1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b2.xhtml" id="b2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b3.xhtml" id="b3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b4.xhtml" id="b4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b5.xhtml" id="b5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b6.xhtml" id="b6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b7.xhtml" id="b7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b8.xhtml" id="b8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b9.xhtml" id="b9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0021.xhtml" id="Section0021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0022.xhtml" id="Section0022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b10.xhtml" id="b10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b11.xhtml" id="b11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0025.xhtml" id="Section0025.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0026.xhtml" id="Section0026.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0027.xhtml" id="Section0027.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b12.xhtml" id="b12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0029.xhtml" id="Section0029.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0030.xhtml" id="Section0030.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0031.xhtml" id="Section0031.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b13.xhtml" id="b13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0033.xhtml" id="Section0033.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0034.xhtml" id="Section0034.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b14.xhtml" id="b14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0036.xhtml" id="Section0036.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0037.xhtml" id="Section0037.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/b15.xhtml" id="b15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+    <item href="Styles/Nakkal.css" id="Nakkal.css" media-type="text/css"/>
+    <item href="Images/Art_Pcommon.jpg" id="Art_Pcommon.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/Nakkal Siyah.png" id="Nakkal_Siyah.png" media-type="image/png"/>
+    <item href="Images/sema.jpg" id="sema.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html"/>
+    <itemref idref="telif.xhtml"/>
+    <itemref idref="dikkat.xhtml"/>
+    <itemref idref="toc.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="b1.xhtml"/>
+    <itemref idref="b2.xhtml"/>
+    <itemref idref="b3.xhtml"/>
+    <itemref idref="b4.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="b5.xhtml"/>
+    <itemref idref="b6.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="b7.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="b8.xhtml"/>
+    <itemref idref="b9.xhtml"/>
+    <itemref idref="Section0021.xhtml"/>
+    <itemref idref="Section0022.xhtml"/>
+    <itemref idref="b10.xhtml"/>
+    <itemref idref="b11.xhtml"/>
+    <itemref idref="Section0025.xhtml"/>
+    <itemref idref="Section0026.xhtml"/>
+    <itemref idref="Section0027.xhtml"/>
+    <itemref idref="b12.xhtml"/>
+    <itemref idref="Section0029.xhtml"/>
+    <itemref idref="Section0030.xhtml"/>
+    <itemref idref="Section0031.xhtml"/>
+    <itemref idref="b13.xhtml"/>
+    <itemref idref="Section0033.xhtml"/>
+    <itemref idref="Section0034.xhtml"/>
+    <itemref idref="b14.xhtml"/>
+    <itemref idref="Section0036.xhtml"/>
+    <itemref idref="Section0037.xhtml"/>
+    <itemref idref="b15.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" title="Cover" type="cover"/>
+    <reference href="Text/toc.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/rica.html" title="Text" type="text"/>
+    <reference href="Text/dikkat.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum1.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum2.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum3.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum4.xhtml" title="Text" type="text"/>
+  </guide>
+</package>

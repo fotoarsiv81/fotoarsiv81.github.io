@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="b24377f7-b2ec-4abd-8a21-dc0a12f7e977" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Tehlikeli Oyunlar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/index_split_001.html" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/index_split_002.html" />
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>1 GECEKONDU</text>
+        </navLabel>
+        <content src="Text/index_split_003.html" />
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>2 DUL KADIN</text>
+        </navLabel>
+        <content src="Text/index_split_003.html#sigil_toc_id_1" />
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>3 ALBAY HÜSAMETTİN BEY</text>
+        </navLabel>
+        <content src="Text/index_split_003.html#sigil_toc_id_2" />
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>4 ÜLKEMİZ</text>
+        </navLabel>
+        <content src="Text/index_split_004.html#sigil_toc_id_3" />
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>5 MEYHANE</text>
+        </navLabel>
+        <content src="Text/index_split_004.html#sigil_toc_id_4" />
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>6 BİLGE</text>
+        </navLabel>
+        <content src="Text/index_split_004.html#sigil_toc_id_5" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>II. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/index_split_005.html" />
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>7 SEVGİ VESAİRE</text>
+        </navLabel>
+        <content src="Text/index_split_006.html" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>8 SELİM BEY</text>
+        </navLabel>
+        <content src="Text/index_split_006.html#sigil_toc_id_6" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>9 MUM IŞIĞI</text>
+        </navLabel>
+        <content src="Text/index_split_006.html#sigil_toc_id_7" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>10 MÜCEVHERLER</text>
+        </navLabel>
+        <content src="Text/index_split_006.html#sigil_toc_id_8" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>III. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/index_split_007.html" />
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>11 YALNIZLIĞIN OYUNCAKLARI</text>
+        </navLabel>
+        <content src="Text/index_split_008.html" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>12 ŞİMDİSENİYAKALADIM</text>
+        </navLabel>
+        <content src="Text/index_split_008.html#sigil_toc_id_9" />
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>13 KORKU</text>
+        </navLabel>
+        <content src="Text/index_split_008.html#sigil_toc_id_10" />
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>14 BÜYÜK OYUN</text>
+        </navLabel>
+        <content src="Text/index_split_008.html#sigil_toc_id_11" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>IV. BÖLÜM</text>
+      </navLabel>
+      <content src="Text/index_split_009.html" />
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>15 EN BÜYÜK HAZİNEMİZ AKLIMIZDIR</text>
+        </navLabel>
+        <content src="Text/index_split_010.html" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>17 DÜŞÜŞ</text>
+        </navLabel>
+        <content src="Text/index_split_010.html#sigil_toc_id_12" />
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>18 ALBAY GİRER</text>
+        </navLabel>
+        <content src="Text/index_split_010.html#sigil_toc_id_13" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>TEHLİKELİ OYUNLAR ÜSTÜNE</text>
+      </navLabel>
+      <content src="Text/index_split_011.html" />
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Aşkın Gözyaşları I -Şems Tebrizi-</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/toc.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Sinan Yağmur</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Şems İçin Özel Mukaddime</text>
+      </navLabel>
+      <content src="Text/b1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Ailem</text>
+      </navLabel>
+      <content src="Text/b2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Çocukluğum</text>
+      </navLabel>
+      <content src="Text/b3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Gençliğim</text>
+      </navLabel>
+      <content src="Text/b4.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Arayışım</text>
+      </navLabel>
+      <content src="Text/b5.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Aşk-ı Mevlâna Yurduna Vuslat</text>
+      </navLabel>
+      <content src="Text/b6.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Halvetten Mirac'a</text>
+      </navLabel>
+      <content src="Text/b7.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Celâleddin'den Mevlânalığa Doğru</text>
+      </navLabel>
+      <content src="Text/b8.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Benim Mevlâna'm</text>
+      </navLabel>
+      <content src="Text/b9.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Mahşerin Rüzgârı Konya Sokaklarını Kavuruyor</text>
+      </navLabel>
+      <content src="Text/b10.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Aşkın Sürgünü</text>
+      </navLabel>
+      <content src="Text/b11.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Karşılama Şöleni</text>
+      </navLabel>
+      <content src="Text/b12.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Kimyamı Alt-Üst Eden Hatun</text>
+      </navLabel>
+      <content src="Text/b13.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Aşkın Şehadeti</text>
+      </navLabel>
+      <content src="Text/b14.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>KAYNAKÇA</text>
+      </navLabel>
+      <content src="Text/b15.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

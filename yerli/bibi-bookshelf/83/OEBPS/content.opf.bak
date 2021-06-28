@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+	<metadata>
+		<meta name="generator" content="Adobe InDesign"/>
+		<meta name="cover" content="naragaci-dis.jpg"/>
+		<dc:title>NAR AĞACI</dc:title>
+		<dc:creator>NAZAN BEKİROĞLU</dc:creator>
+		<dc:subject></dc:subject>
+		<dc:description></dc:description>
+		<dc:publisher>TİMAŞ YAYINLARI</dc:publisher>
+		<dc:date>2012-09-20</dc:date>
+		<dc:source></dc:source>
+		<dc:relation></dc:relation>
+		<dc:coverage></dc:coverage>
+		<dc:rights></dc:rights>
+		<dc:language>tr-TR</dc:language>
+		<dc:identifier id="bookid">978-605-08-0707-3</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="css" href="template.css" media-type="text/css"/>
+		<item id="naragaci-kapak" href="naragaci-kapak.html" media-type="application/xhtml+xml"/>
+		<item id="naragaci-epub" href="naragaci-epub.html" media-type="application/xhtml+xml"/>
+		<item id="naragaci-epub-1" href="naragaci-epub-1.html" media-type="application/xhtml+xml"/>
+		<item id="naragaci-epub-2" href="naragaci-epub-2.html" media-type="application/xhtml+xml"/>
+		<item id="naragaci-epub-3" href="naragaci-epub-3.html" media-type="application/xhtml+xml"/>
+		<item id="naragaci-epub-4" href="naragaci-epub-4.html" media-type="application/xhtml+xml"/>
+		<item id="naragaci-epub-5" href="naragaci-epub-5.html" media-type="application/xhtml+xml"/>
+		<item id="naragaci-dis.jpg" href="images/naragaci-dis.jpg" media-type="image/jpeg"/>
+		<item id="naragaci-ic_fmt.jpeg" href="images/naragaci-ic_fmt.jpeg" media-type="image/jpeg"/>
+		<item id="naragaciperde_fmt.jpeg" href="images/naragaciperde_fmt.jpeg" media-type="image/jpeg"/>
+		<item id="naragaciperde_fmt1.jpeg" href="images/naragaciperde_fmt1.jpeg" media-type="image/jpeg"/>
+		<item id="naragaciperde_fmt10.jpeg" href="images/naragaciperde_fmt10.jpeg" media-type="image/jpeg"/>
+		<item id="naragaciperde_fmt11.jpeg" href="images/naragaciperde_fmt11.jpeg" media-type="image/jpeg"/>
+		<item id="naragaciperde_fmt12.jpeg" href="images/naragaciperde_fmt12.jpeg" media-type="image/jpeg"/>
+		<item id="naragaciperde_fmt13.jpeg" href="images/naragaciperde_fmt13.jpeg" media-type="image/jpeg"/>
+		<item id="naragaciperde_fmt2.jpeg" href="images/naragaciperde_fmt2.jpeg" media-type="image/jpeg"/>
+		<item id="naragaciperde_fmt3.jpeg" href="images/naragaciperde_fmt3.jpeg" media-type="image/jpeg"/>
+		<item id="naragaciperde_fmt4.jpeg" href="images/naragaciperde_fmt4.jpeg" media-type="image/jpeg"/>
+		<item id="naragaciperde_fmt5.jpeg" href="images/naragaciperde_fmt5.jpeg" media-type="image/jpeg"/>
+		<item id="naragaciperde_fmt6.jpeg" href="images/naragaciperde_fmt6.jpeg" media-type="image/jpeg"/>
+		<item id="naragaciperde_fmt7.jpeg" href="images/naragaciperde_fmt7.jpeg" media-type="image/jpeg"/>
+		<item id="naragaciperde_fmt8.jpeg" href="images/naragaciperde_fmt8.jpeg" media-type="image/jpeg"/>
+		<item id="naragaciperde_fmt9.jpeg" href="images/naragaciperde_fmt9.jpeg" media-type="image/jpeg"/>
+		<item id="nokta_fmt.png" href="images/nokta_fmt.png" media-type="image/png"/>
+		<item id="nokta_fmt1.png" href="images/nokta_fmt1.png" media-type="image/png"/>
+		<item id="nokta_fmt2.png" href="images/nokta_fmt2.png" media-type="image/png"/>
+		<item id="nokta_fmt3.png" href="images/nokta_fmt3.png" media-type="image/png"/>
+		<item id="nokta_fmt4.png" href="images/nokta_fmt4.png" media-type="image/png"/>
+		<item id="timaslogo_fmt.jpeg" href="images/timaslogo_fmt.jpeg" media-type="image/jpeg"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="naragaci-kapak"/>
+		<itemref idref="naragaci-epub"/>
+		<itemref idref="naragaci-epub-1"/>
+		<itemref idref="naragaci-epub-2"/>
+		<itemref idref="naragaci-epub-3"/>
+		<itemref idref="naragaci-epub-4"/>
+		<itemref idref="naragaci-epub-5"/>
+	</spine>
+</package>

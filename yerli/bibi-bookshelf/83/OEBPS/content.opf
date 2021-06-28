@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Nar Ağacı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Bekiroğlu, Nazan">Nazan Bekiroğlu</dc:creator>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">978-605-08-0707-3</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">2f992f2b-1779-411d-9dd1-363c6b314a8a</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="naragaci-epub.html" id="naragaci-epub" media-type="application/xhtml+xml"/>
+    <item href="naragaci-epub-1.html" id="naragaci-epub-1" media-type="application/xhtml+xml"/>
+    <item href="naragaci-epub-2.html" id="naragaci-epub-2" media-type="application/xhtml+xml"/>
+    <item href="naragaci-epub-3.html" id="naragaci-epub-3" media-type="application/xhtml+xml"/>
+    <item href="naragaci-epub-4.html" id="naragaci-epub-4" media-type="application/xhtml+xml"/>
+    <item href="naragaci-epub-5.html" id="naragaci-epub-5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/naragaci-dis.jpg" id="naragaci-dis.jpg" media-type="image/jpeg"/>
+    <item href="images/naragaciperde_fmt.jpeg" id="naragaciperde_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/naragaciperde_fmt1.jpeg" id="naragaciperde_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/naragaciperde_fmt2.jpeg" id="naragaciperde_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="images/naragaciperde_fmt3.jpeg" id="naragaciperde_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="images/naragaciperde_fmt4.jpeg" id="naragaciperde_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="images/naragaciperde_fmt5.jpeg" id="naragaciperde_fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="images/naragaciperde_fmt6.jpeg" id="naragaciperde_fmt6.jpeg" media-type="image/jpeg"/>
+    <item href="images/naragaciperde_fmt7.jpeg" id="naragaciperde_fmt7.jpeg" media-type="image/jpeg"/>
+    <item href="images/naragaciperde_fmt8.jpeg" id="naragaciperde_fmt8.jpeg" media-type="image/jpeg"/>
+    <item href="images/naragaciperde_fmt9.jpeg" id="naragaciperde_fmt9.jpeg" media-type="image/jpeg"/>
+    <item href="images/naragaciperde_fmt10.jpeg" id="naragaciperde_fmt10.jpeg" media-type="image/jpeg"/>
+    <item href="images/naragaciperde_fmt11.jpeg" id="naragaciperde_fmt11.jpeg" media-type="image/jpeg"/>
+    <item href="images/naragaciperde_fmt12.jpeg" id="naragaciperde_fmt12.jpeg" media-type="image/jpeg"/>
+    <item href="images/naragaciperde_fmt13.jpeg" id="naragaciperde_fmt13.jpeg" media-type="image/jpeg"/>
+    <item href="images/nokta_fmt.png" id="nokta_fmt.png" media-type="image/png"/>
+    <item href="images/nokta_fmt1.png" id="nokta_fmt1.png" media-type="image/png"/>
+    <item href="images/nokta_fmt2.png" id="nokta_fmt2.png" media-type="image/png"/>
+    <item href="images/nokta_fmt3.png" id="nokta_fmt3.png" media-type="image/png"/>
+    <item href="images/nokta_fmt4.png" id="nokta_fmt4.png" media-type="image/png"/>
+    <item href="images/timaslogo_fmt.jpeg" id="timaslogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="u2wbGwuZAhWjXSc9xnHFpaE" media-type="image/jpeg"/>
+    <item href="LiberationSerif-Bold.ttf" id="added" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-BoldItalic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Italic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Regular.ttf" id="added1" media-type="application/x-font-truetype"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="naragaci-epub"/>
+    <itemref idref="naragaci-epub-1"/>
+    <itemref idref="naragaci-epub-2"/>
+    <itemref idref="naragaci-epub-3"/>
+    <itemref idref="naragaci-epub-4"/>
+    <itemref idref="naragaci-epub-5"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

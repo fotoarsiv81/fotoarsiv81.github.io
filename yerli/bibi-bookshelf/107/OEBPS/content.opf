@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Ali, Sabahattin">Sabahattin Ali</dc:creator>
+<meta content="Kuyucaklı Yusuf" name="calibre:title_sort"/>
+    <meta content="2013-11-07T21:45:28.962000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2001-07-31T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">dca9c131-6118-46a5-b0eb-038b07f6b7a7</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-08-13</dc:date>
+  <dc:title>Kuyucaklı Yusuf</dc:title>
+<dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Cumhuriyet Dönemi</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;p&gt;"Bu manasız ve yabancı hayatta bir tek şeye hakikaten sarılmış, hakikaten inanır gibi olmuştu. Bu da karısı idi. Muazzez'in varlığı Yusuf için büyük, boşlukları dolduracak mahiyette bir şey değildi, fakat onun yokluğu müthişti. Onun bu kadar sebepsiz yere, bu kadar insafsızca Yusuf'un hayatından koparılması çıldırtacak kadar acı idi. Hayatında asıl aradığı şeyin Muazzez olmadığını biliyordu, fakat Muazzez olmadan bunu aramaya muktedir olamayacağını sanıyordu."
+
+Kuyucaklı Yusuf Türk edebiyatının belki de en romantik kahramanıdır. Hayatın ve insanların zalimliği karşısındaki naif duruşu ile bir yandan trajik bir sona ilerlerken, bir yandan da yaşadığı lirik aşk hiyakesinin kahramanı olarak edebiyat tarihinde yerini almıştır.
+&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Sabahattin Ali&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">a6d6fab4-e531-4e62-8c41-81d039164803</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750800016</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.html" id="Section0005.html" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Kuyucakli_Yusuf_split_000.html" id="Kuyucakli_Yusuf_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.html" id="Section0006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Kuyucakli_Yusuf_split_000.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0006.html"/>
+    <itemref idref="Section0004.html"/>
+    <itemref idref="Section0005.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/Kuyucakli_Yusuf_split_000.html#filepos16691" title="İçindekiler" type="toc"/>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

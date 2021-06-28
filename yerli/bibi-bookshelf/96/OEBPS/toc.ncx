@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Aşkın Gözyaşları 3 (Kimya Hatun)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/toc.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Sinan Yağmur</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Muhabbet-i Aşk ile</text>
+      </navLabel>
+      <content src="Text/muhab.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Çocukluğum</text>
+      </navLabel>
+      <content src="Text/nakkal1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Kalbimin Üzerindeki Buz: Konstantiniyye</text>
+      </navLabel>
+      <content src="Text/nakkal2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Ruhuma Şekil Veren Sehr-i Aşk: Konya</text>
+      </navLabel>
+      <content src="Text/nakkal3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Yeri Göğe Yaklaştıran Adam: Şems</text>
+      </navLabel>
+      <content src="Text/nakkal4.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Yüreğimi Nasıl Tutuştursam da Yüreğine Tutunsam Şems!</text>
+      </navLabel>
+      <content src="Text/nakkal5.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Değmez Bu Yangın Yeri Avuç Açmaya</text>
+      </navLabel>
+      <content src="Text/nakkal6.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Gelişi Güzel Olana Gidişi Güzel Olmak Yakışır Mı?</text>
+      </navLabel>
+      <content src="Text/nakkal7.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Gecenin Kıyamında Kıyametleri Soğutuyorum</text>
+      </navLabel>
+      <content src="Text/nakkal8.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Hüzne Müptelayım Şifam Sendedir Ey Yâr</text>
+      </navLabel>
+      <content src="Text/nakkal9.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Aşkın Arifesi: Maşuk Geliyor</text>
+      </navLabel>
+      <content src="Text/nakkal10.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Şems, Ben ve Gül Bahçesi</text>
+      </navLabel>
+      <content src="Text/nakkal11.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Aşk, Vahdet Kaderinin Bilinci ile Nikâhlanmaktır</text>
+      </navLabel>
+      <content src="Text/nakkal12.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Her Günü Binlerce Ömre Bedel</text>
+      </navLabel>
+      <content src="Text/nakkal13.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Ametist Kolye</text>
+      </navLabel>
+      <content src="Text/nakkal14.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Babam ve Şems</text>
+      </navLabel>
+      <content src="Text/nakkal15.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Ah Şems'i Benim Gözlerimle Görebilseydiniz</text>
+      </navLabel>
+      <content src="Text/nakkal16.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>O, Tene Tutkun, Ben Ruhu Cennet Kokana Vurgun</text>
+      </navLabel>
+      <content src="Text/nakkal17.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>İlahi Aşka Uçan Bir Üveykim</text>
+      </navLabel>
+      <content src="Text/nakkal18.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Gönül Körlüğü</text>
+      </navLabel>
+      <content src="Text/nakkal19.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Sözden Öze, Özden Köze Geçişim: Halvet</text>
+      </navLabel>
+      <content src="Text/nakkal20.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Bunalımları Aşmak, Mânâ Hırkasını Giymek</text>
+      </navLabel>
+      <content src="Text/nakkal21.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Rabia'nın Hayatından Rabıta Muştusu Almak</text>
+      </navLabel>
+      <content src="Text/nakkal22.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Abitlikten Zahitliğe Doğru</text>
+      </navLabel>
+      <content src="Text/nakkal23.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Hem Rüzgârımsın Hem Hârım</text>
+      </navLabel>
+      <content src="Text/nakkal24.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Şems'te Âlemleri Seyre Dalmak</text>
+      </navLabel>
+      <content src="Text/nakkal25.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Günah Günah ile Takas Edilmez</text>
+      </navLabel>
+      <content src="Text/nakkal26.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Ruhu Beden Zindanından Çıkarmak: İlahi Aşk</text>
+      </navLabel>
+      <content src="Text/nakkal27.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Ve Esrarın Perdesi Aralanıyor</text>
+      </navLabel>
+      <content src="Text/nakkal28.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Hak Nurunun Hikmetli Kadınları</text>
+      </navLabel>
+      <content src="Text/nakkal29.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Varlığımın Örgüsü Lif Lif Çözülüyor</text>
+      </navLabel>
+      <content src="Text/nakkal30.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Dünyadan Boşanmadıkça Şems Anlaşılmaz</text>
+      </navLabel>
+      <content src="Text/nakkal31.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Adresini Bulamayan Mektuplar</text>
+      </navLabel>
+      <content src="Text/nakkal32.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Yaşamak: Rüyamın En Kısa Hecesi, Ölüm: Gelinliğimin Kına Gecesi</text>
+      </navLabel>
+      <content src="Text/nakkal33.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Sözün Sonu</text>
+      </navLabel>
+      <content src="Text/nakkal34.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>KAYNAKÇA</text>
+      </navLabel>
+      <content src="Text/nakkal35.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

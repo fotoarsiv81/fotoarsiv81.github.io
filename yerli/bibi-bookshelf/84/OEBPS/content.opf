@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookID" opf:scheme="UUID" />
+    <dc:title>Korkuyu Beklerken</dc:title>
+    <dc:creator opf:file-as="Atay, Oğuz" opf:role="aut">Oğuz Atay</dc:creator>
+    <dc:language>tr</dc:language>
+    <dc:publisher>İletişim Yayınevi</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;Oğuz Atay'ın hikayeleri, gündelik hayatı kavrayış derinliği, anlatım zenginliği ve okuru alıp götürmedeki enerjileri bakımından romanlarından geri kalmaz. Kitaba adını veren hikayenin korkuyu beklerken kendini evine hapseden kahramanı, Atay'ın edebiyat güzergahındaki farklılığının en büyük kanıtlarından. Yazarın bu kitaptaki ilk hikayeyle varettiği "beyaz mantolu adam" da öyle.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:subject>Hikaye</dc:subject>
+    <dc:subject>Türk Edebiyatı</dc:subject>
+    <dc:identifier opf:scheme="ISBN">9789754701586</dc:identifier>
+    <dc:date opf:event="modification">2014-02-22</dc:date>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta name="cover" content="cover.jpg" />
+    <meta content="Korkuyu Beklerken" name="calibre:title_sort" />
+    <meta content="10.0" name="calibre:rating" />
+    <meta content="{&quot;Oğuz Atay&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="{}" name="calibre:user_categories" />
+  </metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml" />
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum3.xhtml" id="bolum3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum4.xhtml" id="bolum4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum5.xhtml" id="bolum5.xhtml" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/style.css" id="style.css" media-type="text/css" />
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html" />
+    <itemref idref="onsoz.xhtml" />
+    <itemref idref="bolum1.xhtml" />
+    <itemref idref="bolum2.xhtml" />
+    <itemref idref="bolum3.xhtml" />
+    <itemref idref="bolum4.xhtml" />
+    <itemref idref="bolum5.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" title="Cover" type="cover" />
+    <reference href="Text/bolum1.xhtml" title="Text" type="text" />
+    <reference href="Text/bolum2.xhtml" title="Text" type="text" />
+    <reference href="Text/bolum3.xhtml" title="Text" type="text" />
+    <reference href="Text/bolum4.xhtml" title="Text" type="text" />
+  </guide>
+</package>

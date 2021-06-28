@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Diri Gömülen</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Hidayet, Sadık">Sadık Hidayet</dc:creator>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:626D225A-4BE0-4E32-A4C2-0FF689BDE4D5</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">62f64e99-cf21-42c3-bafa-a65750368d9b</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="on_kapak.xhtml" id="on_kapak" media-type="application/xhtml+xml"/>
+    <item href="1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="1-1.xhtml" id="x1-1" media-type="application/xhtml+xml"/>
+    <item href="1-2.xhtml" id="x1-2" media-type="application/xhtml+xml"/>
+    <item href="1-3.xhtml" id="x1-3" media-type="application/xhtml+xml"/>
+    <item href="1-4.xhtml" id="x1-4" media-type="application/xhtml+xml"/>
+    <item href="1-5.xhtml" id="x1-5" media-type="application/xhtml+xml"/>
+    <item href="1-6.xhtml" id="x1-6" media-type="application/xhtml+xml"/>
+    <item href="1-7.xhtml" id="x1-7" media-type="application/xhtml+xml"/>
+    <item href="1-8.xhtml" id="x1-8" media-type="application/xhtml+xml"/>
+    <item href="1-9.xhtml" id="x1-9" media-type="application/xhtml+xml"/>
+    <item href="1-10.xhtml" id="x1-10" media-type="application/xhtml+xml"/>
+    <item href="1-11.xhtml" id="x1-11" media-type="application/xhtml+xml"/>
+    <item href="1-12.xhtml" id="x1-12" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="image/KAPAK_fmt.jpeg" id="KAPAK_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/yky_fmt.jpeg" id="yky_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uWA7KhnGDmLNdpEkMxUoU29" media-type="image/jpeg"/>
+    <item href="font/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="on_kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x1-1"/>
+    <itemref idref="x1-2"/>
+    <itemref idref="x1-3"/>
+    <itemref idref="x1-4"/>
+    <itemref idref="x1-5"/>
+    <itemref idref="x1-6"/>
+    <itemref idref="x1-7"/>
+    <itemref idref="x1-8"/>
+    <itemref idref="x1-9"/>
+    <itemref idref="x1-10"/>
+    <itemref idref="x1-11"/>
+    <itemref idref="x1-12"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

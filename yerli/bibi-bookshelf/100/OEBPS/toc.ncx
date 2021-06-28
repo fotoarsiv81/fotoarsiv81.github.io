@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="71071ee9-2a1d-4c95-9e99-1d5acd0c1f07" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.24.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kör Baykuş</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8208b8ef-12b1-435e-86b6-f077cbe7f6fa" playOrder="1">
+      <navLabel>
+        <text>KÖR BAYKUŞ</text>
+      </navLabel>
+      <content src="Text/index_split_000.xhtml"/>
+    </navPoint>
+    <navPoint id="ubad310c7-ce60-4e09-bd73-3e0768330dae" playOrder="2">
+      <navLabel>
+        <text>SÂDIK HİDÂYET</text>
+      </navLabel>
+      <content src="Text/index_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="ued68a7f5-89a4-4297-b3ab-08332c76d2d9" playOrder="3">
+      <navLabel>
+        <text>Kör Baykuş</text>
+      </navLabel>
+      <content src="Text/index_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="uf4bf8e48-2c40-42d3-8d46-9348d2c3e99c" playOrder="4">
+      <navLabel>
+        <text>İÇİNDEKİLER</text>
+      </navLabel>
+      <content src="Text/index_split_005.xhtml"/>
+    </navPoint>
+    <navPoint id="u9a1660c0-e0db-4ad1-9354-3b89d01b6144" playOrder="5">
+      <navLabel>
+        <text>KÖR BAYKUŞ</text>
+      </navLabel>
+      <content src="Text/index_split_007.xhtml"/>
+    </navPoint>
+    <navPoint id="u4c876351-da5e-40fa-b694-f6900d83d725" playOrder="6">
+      <navLabel>
+        <text>ARKA KAPAK</text>
+      </navLabel>
+      <content src="Text/index_split_009.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

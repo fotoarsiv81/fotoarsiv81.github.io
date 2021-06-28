@@ -1,0 +1,175 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-size: 1em;
+    text-indent: 0
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+    width: auto
+    }
+.calibre4 {
+    font-size: 1.2em;
+    line-height: 1.2
+    }
+.calibre5 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre6 {
+    font-size: 2em;
+    line-height: 1.2
+    }
+.calibre7 {
+    font-size: 1em;
+    height: auto;
+    text-indent: 0;
+    width: 60px
+    }
+.calibre8 {
+    display: block;
+    text-align: center;
+    width: 1672px
+    }
+.calibre9 {
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-indent: 0
+    }
+.calibre10 {
+    display: block;
+    width: 1672px
+    }
+.calibre11 {
+    display: block;
+    text-align: center;
+    width: 100%
+    }
+.calibre12 {
+    height: auto;
+    width: 100%
+    }
+.calibre13 {
+    font-weight: bold
+    }
+.calibre14 {
+    }
+.calibre15 {
+    font-weight: bold
+    }
+.calibre16 {
+    font-style: italic
+    }
+.calibre17 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre18 {
+    font-size: 0.75em;
+    vertical-align: super
+    }
+.calibre19 {
+    font-size: 0.75em;
+    text-indent: 0;
+    vertical-align: super
+    }
+.calibre20 {
+    font-weight: normal
+    }
+.calibre21 {
+    font-style: italic;
+    font-weight: bold
+    }
+.CCurrentAndItalicAndUnderline {
+    font-style: italic;
+    text-decoration: underline
+    }
+.CCurrentAndUnderline {
+    text-decoration: underline
+    }
+.PAndCentreAlignment {
+    display: block;
+    font-size: 1em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 0.56em
+    }
+.PAndJustification {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 0.56em
+    }
+.PCurrentAndTimesNewRomanAndCentreAlignmentAndSpacingAfter {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 0.56em
+    }
+.PCurrentAndTimesNewRomanAndCentreAlignmentAndSpacingAfter1 {
+    display: inline-block;
+    max-height: 100%;
+    max-width: 100%;
+    text-align: center;
+    text-indent: 0;
+    width: 647px;
+    margin: 0 0 0.56em
+    }
+.Ph1AndCentreAlignment {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.56em 0
+    }
+.Ph3AndJustification {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0.56em 0
+    }
+.Ph4AndCentreAlignment {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.56em 0
+    }
+.Ph4AndJustification {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0.56em 0
+    }
+.PNormal {
+    display: block;
+    font-size: 1em;
+    text-indent: 0;
+    margin: 0
+    }
+.Pp {
+    display: block;
+    font-size: 1em;
+    text-indent: 0;
+    margin: 0 0 0.56em
+    }
