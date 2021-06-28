@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Ahmet Ümit</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>B8A6746CD8DD4652CA5F8E708AAC04CD</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>94F9F541A2D190B99931FB9302FA12D3</string>
+		<key>publisher-unique-id</key>
+		<string>4eb9a11d-3eb3-4598-9a0f-5a7993bb2921</string>
+		<key>unique-id</key>
+		<integer>6443037064986843627</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Beyoğlu Rapsodisi</string>
+	<key>playlistName</key>
+	<string>Beyoğlu Rapsodisi</string>
+	<key>releaseDate</key>
+	<string>2011-07-21T18:47:44+00:00</string>
+	<key>sort-artist</key>
+	<string>Ümit, Ahmet</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>
