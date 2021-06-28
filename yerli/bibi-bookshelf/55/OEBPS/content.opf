@@ -1,0 +1,141 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Malafa</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Günday, Hakan">Hakan Günday</dc:creator>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:identifier id="BookID">urn:uuid:7414c3b3-8b38-4cd5-99b1-fd86ebe692bd</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.81.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">814648f1-88c6-4880-a440-fdb43a303fb4</dc:identifier>
+    <meta name="cover" content="on_D_fmt.jpeg"/>
+    <meta content="0.3.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Malafa"/>
+    <meta name="calibre:author_link_map" content="{&quot;Hakan Günday&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/KAPAK.xhtml" id="KAPAK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KUNYE.xhtml" id="KUNYE.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.xhtml" id="GIRIS.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ITHAF.xhtml" id="ITHAF.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA.xhtml" id="MALAFA.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-1.xhtml" id="MALAFA-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-2.xhtml" id="MALAFA-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-3.xhtml" id="MALAFA-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-4.xhtml" id="MALAFA-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-5.xhtml" id="MALAFA-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-6.xhtml" id="MALAFA-6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-7.xhtml" id="MALAFA-7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-8.xhtml" id="MALAFA-8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-9.xhtml" id="MALAFA-9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-10.xhtml" id="MALAFA-10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-11.xhtml" id="MALAFA-11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-12.xhtml" id="MALAFA-12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-13.xhtml" id="MALAFA-13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-14.xhtml" id="MALAFA-14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-15.xhtml" id="MALAFA-15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-16.xhtml" id="MALAFA-16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-17.xhtml" id="MALAFA-17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-18.xhtml" id="MALAFA-18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-19.xhtml" id="MALAFA-19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-20.xhtml" id="MALAFA-20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-21.xhtml" id="MALAFA-21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-22.xhtml" id="MALAFA-22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-23.xhtml" id="MALAFA-23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-24.xhtml" id="MALAFA-24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-25.xhtml" id="MALAFA-25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-26.xhtml" id="MALAFA-26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-27.xhtml" id="MALAFA-27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-28.xhtml" id="MALAFA-28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-29.xhtml" id="MALAFA-29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-30.xhtml" id="MALAFA-30.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-31.xhtml" id="MALAFA-31.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/MALAFA-32.xhtml" id="MALAFA-32.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ARKA_KAPAK.xhtml" id="ARKA_KAPAK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="template.css" media-type="text/css"/>
+    <item href="Images/ar_D_fmt.jpg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt.jpeg" id="basliklar_bos_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt1.jpeg" id="basliklar_bos_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt10.jpeg" id="basliklar_bos_fmt10.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt11.jpeg" id="basliklar_bos_fmt11.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt12.jpeg" id="basliklar_bos_fmt12.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt13.jpeg" id="basliklar_bos_fmt13.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt14.jpeg" id="basliklar_bos_fmt14.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt15.jpeg" id="basliklar_bos_fmt15.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt16.jpeg" id="basliklar_bos_fmt16.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt17.jpeg" id="basliklar_bos_fmt17.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt18.jpeg" id="basliklar_bos_fmt18.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt19.jpeg" id="basliklar_bos_fmt19.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt2.jpeg" id="basliklar_bos_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt20.jpeg" id="basliklar_bos_fmt20.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt21.jpeg" id="basliklar_bos_fmt21.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt22.jpeg" id="basliklar_bos_fmt22.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt23.jpeg" id="basliklar_bos_fmt23.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt24.jpeg" id="basliklar_bos_fmt24.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt25.jpeg" id="basliklar_bos_fmt25.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt26.jpeg" id="basliklar_bos_fmt26.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt27.jpeg" id="basliklar_bos_fmt27.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt28.jpeg" id="basliklar_bos_fmt28.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt29.jpeg" id="basliklar_bos_fmt29.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt3.jpeg" id="basliklar_bos_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt30.jpeg" id="basliklar_bos_fmt30.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt31.jpeg" id="basliklar_bos_fmt31.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt32.jpeg" id="basliklar_bos_fmt32.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt4.jpeg" id="basliklar_bos_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt5.jpeg" id="basliklar_bos_fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt6.jpeg" id="basliklar_bos_fmt6.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt7.jpeg" id="basliklar_bos_fmt7.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt8.jpeg" id="basliklar_bos_fmt8.jpeg" media-type="image/jpeg"/>
+    <item href="Images/basliklar_bos_fmt9.jpeg" id="basliklar_bos_fmt9.jpeg" media-type="image/jpeg"/>
+    <item href="Images/dk_logo_fmt.jpeg" id="dk_logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon1b_fmt.jpeg" id="icon1b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/on_D_fmt.jpg" id="on_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/GillSans.ttc" id="GillSans.ttc" media-type="application/x-font-truetype-collection"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="KAPAK.xhtml"/>
+    <itemref idref="KUNYE.xhtml"/>
+    <itemref idref="GIRIS.xhtml"/>
+    <itemref idref="ITHAF.xhtml"/>
+    <itemref idref="MALAFA.xhtml"/>
+    <itemref idref="MALAFA-1.xhtml"/>
+    <itemref idref="MALAFA-2.xhtml"/>
+    <itemref idref="MALAFA-3.xhtml"/>
+    <itemref idref="MALAFA-4.xhtml"/>
+    <itemref idref="MALAFA-5.xhtml"/>
+    <itemref idref="MALAFA-6.xhtml"/>
+    <itemref idref="MALAFA-7.xhtml"/>
+    <itemref idref="MALAFA-8.xhtml"/>
+    <itemref idref="MALAFA-9.xhtml"/>
+    <itemref idref="MALAFA-10.xhtml"/>
+    <itemref idref="MALAFA-11.xhtml"/>
+    <itemref idref="MALAFA-12.xhtml"/>
+    <itemref idref="MALAFA-13.xhtml"/>
+    <itemref idref="MALAFA-14.xhtml"/>
+    <itemref idref="MALAFA-15.xhtml"/>
+    <itemref idref="MALAFA-16.xhtml"/>
+    <itemref idref="MALAFA-17.xhtml"/>
+    <itemref idref="MALAFA-18.xhtml"/>
+    <itemref idref="MALAFA-19.xhtml"/>
+    <itemref idref="MALAFA-20.xhtml"/>
+    <itemref idref="MALAFA-21.xhtml"/>
+    <itemref idref="MALAFA-22.xhtml"/>
+    <itemref idref="MALAFA-23.xhtml"/>
+    <itemref idref="MALAFA-24.xhtml"/>
+    <itemref idref="MALAFA-25.xhtml"/>
+    <itemref idref="MALAFA-26.xhtml"/>
+    <itemref idref="MALAFA-27.xhtml"/>
+    <itemref idref="MALAFA-28.xhtml"/>
+    <itemref idref="MALAFA-29.xhtml"/>
+    <itemref idref="MALAFA-30.xhtml"/>
+    <itemref idref="MALAFA-31.xhtml"/>
+    <itemref idref="MALAFA-32.xhtml"/>
+    <itemref idref="ARKA_KAPAK.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/KAPAK.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

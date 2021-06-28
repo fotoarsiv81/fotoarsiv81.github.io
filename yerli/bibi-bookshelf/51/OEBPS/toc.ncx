@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{33B805F3-9A63-48B1-BBEE-6366616FBF56}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ermiş</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İthaf</text>
+      </navLabel>
+      <content src="Text/ithaf.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Geminin Gelişi</text>
+      </navLabel>
+      <content src="Text/01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Aşka Dair</text>
+      </navLabel>
+      <content src="Text/02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Evliliğe Dair</text>
+      </navLabel>
+      <content src="Text/03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Çocuklara Dair</text>
+      </navLabel>
+      <content src="Text/04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Vermeye Dair</text>
+      </navLabel>
+      <content src="Text/05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Yemeye ve İçmeye Dair</text>
+      </navLabel>
+      <content src="Text/06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Çalışmaya Dair</text>
+      </navLabel>
+      <content src="Text/07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Sevinç ve Kedere Dair</text>
+      </navLabel>
+      <content src="Text/08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Evlere Dair</text>
+      </navLabel>
+      <content src="Text/09.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Giysilere Dair</text>
+      </navLabel>
+      <content src="Text/10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Almaya ve Satmaya Dair</text>
+      </navLabel>
+      <content src="Text/11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Suç ve Cezaya Dair</text>
+      </navLabel>
+      <content src="Text/12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Yasalara Dair</text>
+      </navLabel>
+      <content src="Text/13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Özgürlüğe Dair</text>
+      </navLabel>
+      <content src="Text/14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Akıl ve Tutkuya Dair</text>
+      </navLabel>
+      <content src="Text/15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Acıya Dair</text>
+      </navLabel>
+      <content src="Text/16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Kendini Bilmeye Dair</text>
+      </navLabel>
+      <content src="Text/17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Öğretmeye Dair</text>
+      </navLabel>
+      <content src="Text/18.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Dostluğa Dair</text>
+      </navLabel>
+      <content src="Text/19.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Konuşmaya Dair</text>
+      </navLabel>
+      <content src="Text/20.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Zamana Dair</text>
+      </navLabel>
+      <content src="Text/21.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>İyiye ve Kötüye Dair</text>
+      </navLabel>
+      <content src="Text/22.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Duaya Dair</text>
+      </navLabel>
+      <content src="Text/23.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Hazza Dair</text>
+      </navLabel>
+      <content src="Text/24.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Güzelliğe Dair</text>
+      </navLabel>
+      <content src="Text/25.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Dine Dair</text>
+      </navLabel>
+      <content src="Text/26.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Ölüme Dair</text>
+      </navLabel>
+      <content src="Text/27.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Veda</text>
+      </navLabel>
+      <content src="Text/28.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

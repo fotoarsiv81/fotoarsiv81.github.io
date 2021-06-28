@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="90cafa8c-4dd5-403f-8ec1-2b2edfd294a1" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>İstanbul Kırmızısı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>UÇAKTA</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>UÇURTMALAR</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>LALELER</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>VARIŞ</text>
+      </navLabel>
+      <content src="Text/main-4.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>OTELDE</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>VAPURDA</text>
+      </navLabel>
+      <content src="Text/main-6.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>GÖLGELER</text>
+      </navLabel>
+      <content src="Text/main-7.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>BABASIZ</text>
+      </navLabel>
+      <content src="Text/main-8.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>BAŞKA DENİZLER</text>
+      </navLabel>
+      <content src="Text/main-9.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>CEP TELEFONU</text>
+      </navLabel>
+      <content src="Text/main-10.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>MOR SALKIMLAR</text>
+      </navLabel>
+      <content src="Text/main-11.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>GRAFİTİ</text>
+      </navLabel>
+      <content src="Text/main-12.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>HAYDARPAŞA</text>
+      </navLabel>
+      <content src="Text/main-13.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>MURAT</text>
+      </navLabel>
+      <content src="Text/main-14.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>YUSUF</text>
+      </navLabel>
+      <content src="Text/main-15.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>YENİDEN BAŞLAMAK</text>
+      </navLabel>
+      <content src="Text/main-16.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>SİNEMA, SİNEMA</text>
+      </navLabel>
+      <content src="Text/main-17.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>KERTENKELE</text>
+      </navLabel>
+      <content src="Text/main-18.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>BEKLEYİŞ</text>
+      </navLabel>
+      <content src="Text/main-19.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>YÜRÜYEN ORMAN</text>
+      </navLabel>
+      <content src="Text/main-20.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>VEDALAR</text>
+      </navLabel>
+      <content src="Text/main-21.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>STAMBOUL</text>
+      </navLabel>
+      <content src="Text/main-22.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>MARTILAR</text>
+      </navLabel>
+      <content src="Text/main-23.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>GÜNEYE DOĞRU</text>
+      </navLabel>
+      <content src="Text/main-24.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

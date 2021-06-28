@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Cibran, Halil">Halil Cibran</dc:creator>
+<dc:publisher>Bordo-Siyah</dc:publisher>
+    <dc:date>2010-03-29T11:57:12.305000+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8923e581-aab6-4567-b067-7b7da56e30e1</dc:identifier>
+    <dc:date opf:event="modification">2014-09-10</dc:date>
+    <dc:description>&lt;p&gt;Cibran dinsel hakikatin, deneye değil, içgörü dediğimiz vicdan ve sezgiye dayanması gerektiğini; dinin, kurallar getirici ve toplumu düzenleyici bir kurum olarak değil, kişiyi özgürleştirici bir "ruhi yükseliş sistemi" olarak algılanması gerektiğini savunuyor. Cibran'a göre genç insanın kendini bulması, kendi dünya görüşünü oluşturabilmesi için bütün eğitim dayatmalarından ve kalıplaşmış geleneklerden kurtulması gerekir. İşte insan ancak o zman kendini ve içindeki inancı bulabilir. Cibran'ın fikirlerinde sühreverdi gibi İşrakıye ekolünden gelen Müslüman filozofların izi vardır, ancak kimi zaman Nietzsche'nin panteist bir versiyonu olarak da algılanabilir. Ancak en çok Emerson'ın fikirleri açıkça izini belli eder onda.
+(Arka Kapak)&lt;/p&gt;</dc:description>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2011-03-29T11:57:12.305000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Kum ve Köpük"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Halil Cibran&quot;: &quot;&quot;}"/>
+  <dc:title>Kum ve Köpük</dc:title>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>İnanç</dc:subject>
+<dc:subject>Şiirsel</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">8cbd8f85-7569-4c3c-9c22-8007eef138d6</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786053541868</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KumveKopuk_split_000.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/KumveKopuk_split_001.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/KumveKopuk_split_002.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/KumveKopuk_split_003.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/KumveKopuk_split_004.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/KumveKopuk_split_005.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/KumveKopuk_split_006.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/KumveKopuk_split_007.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

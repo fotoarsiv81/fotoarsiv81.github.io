@@ -1,0 +1,232 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    page-break-before: always
+    }
+.calibre1 {
+    height: 343;
+    width: 240
+    }
+.calibre10 {
+    height: 285;
+    width: 220
+    }
+.calibre11 {
+    height: 300;
+    width: 210
+    }
+.calibre12 {
+    height: 271;
+    width: 189
+    }
+.calibre13 {
+    height: 250;
+    width: 278
+    }
+.calibre14 {
+    height: 275;
+    width: 160
+    }
+.calibre15 {
+    height: 310;
+    width: 216
+    }
+.calibre16 {
+    height: 285;
+    width: 228
+    }
+.calibre17 {
+    font-size: smaller;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre2 {
+    display: block;
+    page-break-after: always
+    }
+.calibre3 {
+    height: 300;
+    width: 248
+    }
+.calibre4 {
+    height: 267;
+    width: 350
+    }
+.calibre5 {
+    height: 300;
+    width: 245
+    }
+.calibre6 {
+    height: 300;
+    width: 258
+    }
+.calibre7 {
+    height: 328;
+    width: 215
+    }
+.calibre8 {
+    height: 300;
+    width: 250
+    }
+.calibre9 {
+    height: 236;
+    width: 327
+    }
+.capter {
+    display: block
+    }
+.h1baslik {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.idebold {
+    font-weight: bold
+    }
+.ideitalik {
+    font-style: italic
+    }
+.kapakmetin {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.3em;
+    text-align: center
+    }
+.kitapickapak {
+    display: block;
+    font-size: 1.75em;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kitapickapak1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kunye {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 3em;
+    margin-right: 3em;
+    margin-top: 1em;
+    text-align: center
+    }
+.sagnormal {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: default
+    }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer
+    }
+    @font-face {
+font-style: normal;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: normal;
+src: url(LiberationSerif-Regular.ttf);
+}
+@font-face {
+font-style: italic;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: normal;
+src: url(LiberationSerif-Italic.ttf);
+}
+@font-face {
+font-style: bold;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: bold;
+src: url(LiberationSerif-Bold.ttf);
+}
+
+@font-face {
+font-style: italic;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: bold;
+src: url(LiberationSerif-BoldItalic.ttf);
+
+}
+
+@font-face {
+font-style: normal;
+font-family: 'Arial', sans-serif;
+font-weight: normal;
+src: url(arial.ttf);
+
+}
+
+@font-face {
+font-style: italic;
+font-family: 'Arial',sans-serif;
+font-weight: normal;
+src: url(ariali.ttf);
+
+}
+
+@font-face {
+
+font-style: normal;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+src: url(arialbd.ttf);
+
+}
+
+
+@font-face {
+font-style: italic;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+src: url(arialbi.ttf);
+}

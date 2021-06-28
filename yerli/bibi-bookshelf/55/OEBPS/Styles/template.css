@@ -1,0 +1,286 @@
+@page {margin-bottom: 10.000000pt; margin-top: 15.000000pt;}
+body {
+  font-size: 1em;}
+h1.foto-ustten-bosluklu {
+	font-weight: bold;
+	font-style: normal;
+	font-size: 1.50em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	color: #000000;
+	margin: 1.57em 0.16em 0.47em 0.16em;
+}
+p.kitap-ismi-1 {
+
+	font-weight: bold;
+	font-style: normal;
+	font-size: 0.9em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;
+	color: #000000;
+	margin: 1.42em 0.28em 0em 0.28em;
+}
+p.kunye-yeni-madde {
+
+	font-weight: normal;
+	font-style: normal;
+	font-size: 0.9em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;
+	color: #000000;
+	margin: 1.42em 0.28em 0em 0.28em;
+}
+p.kunye-yeni-madde-devam {
+
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;
+	color: #000000;
+	margin: 0em 0.28em;
+}
+p.kitap-ismi-2-son {
+
+	font-weight: bold;
+	font-style: normal;
+	font-size: 1.17em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	color: #000000;
+	margin: 0.40em 0.20em 4.05em 0.20em;
+}
+p.yazar-ismi {
+
+	font-weight: bold;
+	font-style: normal;
+	font-size: 1.17em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	color: #000000;
+	margin: 0em 0.20em 6.07em 0.20em;
+}
+p.dk-logo {
+
+	font-weight: bold;
+	font-style: normal;
+	font-size: 1.50em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	color: #000000;
+	margin: 0em 0.16em;
+}
+p.bold-ortali-2-en-son {
+
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	color: #000000;
+	margin: 0em 0.27em 6.75em 0.27em;
+}
+p.duz-ilk-paragraf-x {
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.35em;
+	text-align: left;
+	color: #000000;
+	margin: 2em 0.27em 0.81em 0.27em;
+}
+p.duz-sagdan-blok-altta-bosluk {
+
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.35em;
+	text-align: right;
+	color: #000000;
+	margin: 0.54em 0.27em 2.70em 0.27em;
+}
+p.bolum-ismi-tek-satir {
+
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.08em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	color: #000000;
+	margin: 13.08em 0.22em 8.72em 0.22em;
+	font-weight: bold;
+}
+p.duz {
+
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.35em;
+	text-align: left;
+	color: #000000;
+	margin: 0.81em 0.27em 0.54em 0.27em;
+}
+p.duz-ilk-paragraf {
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.35em;
+	text-align: left;
+	color: #000000;
+	margin: 2.70em 0.27em 0.81em 0.27em;
+}
+p.duz-son-paragraf-2 {
+
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.35em;
+	text-align: left;
+	color: #000000;
+	margin: 0.81em 0.27em 10.80em 0.27em;
+}
+p.ikon {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 0.83em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	color: #000000;
+	margin: 0.57em 1.70em 0em 1.70em;
+}
+p.duz-son-paragraf-1 {
+
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 1.35em;
+	text-align: left;
+	color: #000000;
+	margin: 0.81em 0.27em 2.70em 0.27em;
+}
+span.k-nye-kitap-ad- {
+
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	color: #000000;
+}
+span.k-nye-bold {
+
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	color: #000000;
+}
+span.k-nye-regular {
+
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	color: #000000;
+}
+span.kitap-ismi-2 {
+
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.42em;
+	text-decoration: none;
+	font-variant: normal;
+	color: #000000;
+}
+span.yazar-ismi {
+
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.17em;
+	text-decoration: none;
+	font-variant: normal;
+	color: #000000;
+}
+span.dk-logo {
+
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.50em;
+	text-decoration: none;
+	font-variant: normal;
+	color: #000000;
+}
+span.foto {
+
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.50em;
+	text-decoration: none;
+	font-variant: normal;
+	color: #000000;
+}
+span.dar-paragraf-duz {
+
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	color: #000000;
+}
+span.duz {
+
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	color: #000000;
+}
+span.italik {
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	color: #000000;
+}
+span.bolum-ismi {
+
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.08em;
+	text-decoration: none;
+	font-variant: normal;
+	color: #000000;
+	font-weight: bold;
+}
+span.ikon {
+
+	font-weight: normal;
+	font-style: normal;
+	font-size: 0.83em;
+	text-decoration: none;
+	font-variant: normal;
+	color: #000000;
+}

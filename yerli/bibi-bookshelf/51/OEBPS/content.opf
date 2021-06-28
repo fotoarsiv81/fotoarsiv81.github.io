@@ -1,0 +1,98 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ermiş</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Cibran, Halil">Halil Cibran</dc:creator>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{33B805F3-9A63-48B1-BBEE-6366616FBF56}</dc:identifier>
+    <dc:date opf:event="modification">2017-03-24</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.5.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">fa6fe56f-93c3-4d0a-b31e-1121aeb12083</dc:identifier>
+    <meta content="0.9.6" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="Ermiş" name="calibre:title_sort"/>
+    <meta content="{&quot;Halil Cibran&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ithaf.xhtml" href="Text/ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09.xhtml" href="Text/09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10.xhtml" href="Text/10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11.xhtml" href="Text/11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12.xhtml" href="Text/12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13.xhtml" href="Text/13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14.xhtml" href="Text/14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x15.xhtml" href="Text/15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x16.xhtml" href="Text/16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x17.xhtml" href="Text/17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x18.xhtml" href="Text/18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x19.xhtml" href="Text/19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20.xhtml" href="Text/20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x21.xhtml" href="Text/21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x22.xhtml" href="Text/22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x23.xhtml" href="Text/23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x24.xhtml" href="Text/24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x25.xhtml" href="Text/25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x26.xhtml" href="Text/26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x27.xhtml" href="Text/27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x28.xhtml" href="Text/28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id30" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id29" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id30">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="x17.xhtml"/>
+    <itemref idref="x18.xhtml"/>
+    <itemref idref="x19.xhtml"/>
+    <itemref idref="x20.xhtml"/>
+    <itemref idref="x21.xhtml"/>
+    <itemref idref="x22.xhtml"/>
+    <itemref idref="x23.xhtml"/>
+    <itemref idref="x24.xhtml"/>
+    <itemref idref="x25.xhtml"/>
+    <itemref idref="x26.xhtml"/>
+    <itemref idref="x27.xhtml"/>
+    <itemref idref="x28.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

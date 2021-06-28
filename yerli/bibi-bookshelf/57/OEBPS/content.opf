@@ -1,0 +1,213 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kadının Adı Yok</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Asena, Duygu">Duygu Asena</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:d833b756-cb93-402d-8189-7186e8651ca4</dc:identifier>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">420c4d8b-061a-4a07-b037-88a7ac5f8d85</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="_kapak.jpeg"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta content="Kadının Adı Yok" name="calibre:title_sort"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Duygu Asena&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="Text/KAPAK.xhtml" id="KAPAK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KUNYE.xhtml" id="KUNYE.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.xhtml" id="GIRIS.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK.xhtml" id="KADININ_ADI_YOK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-1.xhtml" id="KADININ_ADI_YOK-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-2.xhtml" id="KADININ_ADI_YOK-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-3.xhtml" id="KADININ_ADI_YOK-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-4.xhtml" id="KADININ_ADI_YOK-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-5.xhtml" id="KADININ_ADI_YOK-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-6.xhtml" id="KADININ_ADI_YOK-6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-7.xhtml" id="KADININ_ADI_YOK-7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-8.xhtml" id="KADININ_ADI_YOK-8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-9.xhtml" id="KADININ_ADI_YOK-9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-10.xhtml" id="KADININ_ADI_YOK-10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-11.xhtml" id="KADININ_ADI_YOK-11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-12.xhtml" id="KADININ_ADI_YOK-12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-13.xhtml" id="KADININ_ADI_YOK-13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-14.xhtml" id="KADININ_ADI_YOK-14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-15.xhtml" id="KADININ_ADI_YOK-15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-16.xhtml" id="KADININ_ADI_YOK-16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-17.xhtml" id="KADININ_ADI_YOK-17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-18.xhtml" id="KADININ_ADI_YOK-18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-19.xhtml" id="KADININ_ADI_YOK-19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-20.xhtml" id="KADININ_ADI_YOK-20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-21.xhtml" id="KADININ_ADI_YOK-21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-22.xhtml" id="KADININ_ADI_YOK-22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-23.xhtml" id="KADININ_ADI_YOK-23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-24.xhtml" id="KADININ_ADI_YOK-24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-25.xhtml" id="KADININ_ADI_YOK-25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-26.xhtml" id="KADININ_ADI_YOK-26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-27.xhtml" id="KADININ_ADI_YOK-27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-28.xhtml" id="KADININ_ADI_YOK-28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-29.xhtml" id="KADININ_ADI_YOK-29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-30.xhtml" id="KADININ_ADI_YOK-30.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-31.xhtml" id="KADININ_ADI_YOK-31.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-32.xhtml" id="KADININ_ADI_YOK-32.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-33.xhtml" id="KADININ_ADI_YOK-33.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-34.xhtml" id="KADININ_ADI_YOK-34.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-35.xhtml" id="KADININ_ADI_YOK-35.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-36.xhtml" id="KADININ_ADI_YOK-36.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-37.xhtml" id="KADININ_ADI_YOK-37.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-38.xhtml" id="KADININ_ADI_YOK-38.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-39.xhtml" id="KADININ_ADI_YOK-39.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-40.xhtml" id="KADININ_ADI_YOK-40.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-41.xhtml" id="KADININ_ADI_YOK-41.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-42.xhtml" id="KADININ_ADI_YOK-42.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-43.xhtml" id="KADININ_ADI_YOK-43.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-44.xhtml" id="KADININ_ADI_YOK-44.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-45.xhtml" id="KADININ_ADI_YOK-45.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-46.xhtml" id="KADININ_ADI_YOK-46.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-47.xhtml" id="KADININ_ADI_YOK-47.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-48.xhtml" id="KADININ_ADI_YOK-48.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-49.xhtml" id="KADININ_ADI_YOK-49.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-50.xhtml" id="KADININ_ADI_YOK-50.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-51.xhtml" id="KADININ_ADI_YOK-51.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-52.xhtml" id="KADININ_ADI_YOK-52.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-53.xhtml" id="KADININ_ADI_YOK-53.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-54.xhtml" id="KADININ_ADI_YOK-54.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-55.xhtml" id="KADININ_ADI_YOK-55.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-56.xhtml" id="KADININ_ADI_YOK-56.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-57.xhtml" id="KADININ_ADI_YOK-57.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-58.xhtml" id="KADININ_ADI_YOK-58.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-59.xhtml" id="KADININ_ADI_YOK-59.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-60.xhtml" id="KADININ_ADI_YOK-60.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-61.xhtml" id="KADININ_ADI_YOK-61.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-62.xhtml" id="KADININ_ADI_YOK-62.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-63.xhtml" id="KADININ_ADI_YOK-63.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-64.xhtml" id="KADININ_ADI_YOK-64.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-65.xhtml" id="KADININ_ADI_YOK-65.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-66.xhtml" id="KADININ_ADI_YOK-66.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-67.xhtml" id="KADININ_ADI_YOK-67.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-68.xhtml" id="KADININ_ADI_YOK-68.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-69.xhtml" id="KADININ_ADI_YOK-69.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-70.xhtml" id="KADININ_ADI_YOK-70.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-71.xhtml" id="KADININ_ADI_YOK-71.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-72.xhtml" id="KADININ_ADI_YOK-72.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-73.xhtml" id="KADININ_ADI_YOK-73.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-74.xhtml" id="KADININ_ADI_YOK-74.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-75.xhtml" id="KADININ_ADI_YOK-75.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-76.xhtml" id="KADININ_ADI_YOK-76.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-77.xhtml" id="KADININ_ADI_YOK-77.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-78.xhtml" id="KADININ_ADI_YOK-78.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-79.xhtml" id="KADININ_ADI_YOK-79.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-80.xhtml" id="KADININ_ADI_YOK-80.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-81.xhtml" id="KADININ_ADI_YOK-81.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-82.xhtml" id="KADININ_ADI_YOK-82.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-83.xhtml" id="KADININ_ADI_YOK-83.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-84.xhtml" id="KADININ_ADI_YOK-84.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KADININ_ADI_YOK-85.xhtml" id="KADININ_ADI_YOK-85.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ARKA_KAPAK.xhtml" id="ARKA_KAPAK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="template.css" media-type="text/css"/>
+    <item href="Images/_kapak.jpeg" id="_kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/dk_logo_fmt.jpeg" id="dk_logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon_fmt.jpeg" id="icon_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="KAPAK.xhtml"/>
+    <itemref idref="KUNYE.xhtml"/>
+    <itemref idref="GIRIS.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-1.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-2.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-3.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-4.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-5.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-6.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-7.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-8.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-9.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-10.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-11.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-12.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-13.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-14.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-15.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-16.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-17.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-18.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-19.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-20.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-21.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-22.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-23.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-24.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-25.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-26.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-27.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-28.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-29.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-30.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-31.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-32.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-33.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-34.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-35.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-36.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-37.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-38.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-39.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-40.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-41.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-42.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-43.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-44.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-45.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-46.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-47.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-48.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-49.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-50.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-51.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-52.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-53.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-54.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-55.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-56.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-57.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-58.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-59.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-60.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-61.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-62.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-63.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-64.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-65.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-66.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-67.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-68.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-69.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-70.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-71.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-72.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-73.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-74.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-75.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-76.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-77.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-78.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-79.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-80.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-81.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-82.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-83.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-84.xhtml"/>
+    <itemref idref="KADININ_ADI_YOK-85.xhtml"/>
+    <itemref idref="ARKA_KAPAK.xhtml"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/KAPAK.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

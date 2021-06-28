@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:isbn:9789750725005" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="Sistematik epub-tools" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Devir</text>
+  </docTitle>
+  <navMap>
+    <navLabel>
+      <text>İçindekiler</text>
+    </navLabel>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>1. ÜNİTE: AİLEMİZİ TANIYALIM</text>
+      </navLabel>
+      <content src="Text/part1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>2. ÜNİTE: MAHALLEMİZİ TANIYALIM</text>
+      </navLabel>
+      <content src="Text/part2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>3. ÜNİTE: ERKEN YATALIM ERKEN KALKALIM</text>
+      </navLabel>
+      <content src="Text/part3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>4. ÜNİTE: ŞEHRİMİZİ TANIYALIM</text>
+      </navLabel>
+      <content src="Text/part4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>5. ÜNİTE: HAYVAN DOSTLARIMIZ</text>
+      </navLabel>
+      <content src="Text/part5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>6. ÜNİTE: ŞEHRİMİZDEKİ MÜZELER VE DOĞAL GÜZELLİKLER</text>
+      </navLabel>
+      <content src="Text/part6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>7. ÜNİTE: AHLAK BİLGİSİ</text>
+      </navLabel>
+      <content src="Text/part7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>8. ÜNİTE: MÜZİK RUHUN GIDASIDIR</text>
+      </navLabel>
+      <content src="Text/part8.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>9. ÜNİTE: TÜRKİYE CUMHURİYETİ DEMOKRASİYLE YÖNETİLİR</text>
+      </navLabel>
+      <content src="Text/part9.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>10. ÜNİTE: YURDUMUZ DÜŞMANLARDAN NASIL KURTULDU?</text>
+      </navLabel>
+      <content src="Text/part10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>11. ÜNİTE: BÜYÜK TÜRK MİLLETİ</text>
+      </navLabel>
+      <content src="Text/part11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>12. ÜNİTE: YALANCININ MUMU YATSIYA KADAR YANAR</text>
+      </navLabel>
+      <content src="Text/part12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>13. ÜNİTE: MARŞLARIMIZ</text>
+      </navLabel>
+      <content src="Text/part13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>14. ÜNİTE: KOMŞULUK İLİŞKİLERİ</text>
+      </navLabel>
+      <content src="Text/part14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>15. ÜNİTE: YURTTAŞLIK BİLGİSİ</text>
+      </navLabel>
+      <content src="Text/part15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>16. ÜNİTE: TEMİZLİK İMANDAN GELİR</text>
+      </navLabel>
+      <content src="Text/part16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>17. ÜNİTE: DOĞAL ZENGİNLİKLERİMİZ</text>
+      </navLabel>
+      <content src="Text/part17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>18. ÜNİTE: KÖYLÜ MİLLETİN EFENDİSİDİR!</text>
+      </navLabel>
+      <content src="Text/part18.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>19. ÜNİTE: YAZ TATİLİNDE NELER YAPTINIZ?</text>
+      </navLabel>
+      <content src="Text/part19.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

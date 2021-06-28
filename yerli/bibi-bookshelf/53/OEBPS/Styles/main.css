@@ -1,0 +1,125 @@
+hr {
+  margin-top: 0.5em;
+  margin-right: 0;
+  border: 1px solid #C14926;
+  max-width: 20em;
+}
+/*IMAGES*/
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+/*----H----*/
+h1 {
+  font: italic normal 1.25em;
+  margin-top: 6em;
+  margin-bottom: 2em;
+  text-align: center;
+}
+h1:before {
+  display: block;
+  margin: 0 0 2em 0;
+  content: "";
+  background: url(../Images/sep.jpg) 50% 0% no-repeat;
+  height: 1em;
+}
+h2 {
+  font: normal normal 1.25em;
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+/*YAZAR*/
+.aut {
+  margin-top: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.aut p {
+  font: normal normal 0.75em;
+  text-indent: 0;
+  text-align: justify;
+}
+/*----Künye----*/
+.copyright > p:last-child {
+  margin-bottom: 0;
+}
+.copyright p {
+  font: normal normal 0.751em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  text-indent: 0;
+  text-align: center;
+}
+/*Titlepage*/
+.titlepage {
+  text-align: right;
+}
+.seri {
+  font: normal normal 1em;
+  margin: 1em auto 0.2em auto;
+}
+.author {
+  font: normal bold 1.3em;
+  margin: 0.5em auto 0.2em auto;
+}
+.title {
+  font: normal bold 2.5em;
+  margin: 0;
+}
+.trans {
+  font: normal normal 1em;
+  margin-top: 1.5em;
+}
+.logo, .ithaf {
+  margin: 6em auto 0 auto;
+}
+/*Önsöz*/
+/*----Block----*/
+/*----P----*/
+p {
+  font-family:;
+  font-size: 0.93em;
+  text-align: justify;
+  text-indent: 1.5em;
+  margin: 0;
+}
+.extract {
+  margin-top: 1em;
+}
+/******FOOTNOTE******/
+.footnote {
+  font-family:;
+  font-size: 0.851em;
+  margin-bottom: 0.25em;
+  margin-left: 1em;
+  text-align: justify;
+  text-indent: 0;
+}
+.footnotelabel {
+  width: 1.5em;
+  float: left;
+  font-size: 0.8em;
+  line-height: 165%;
+}
+.footnoteref, .footnotetarget {
+  text-decoration: none;
+  color: black;
+  border: 1px solid #999;
+  font-size: 80%;
+  padding: 1px;
+  padding-top: 3px;
+  font-style: normal;
+  font-weight: normal;
+}
+.footnotecontent {
+  padding-left: 1.8em;
+  margin-bottom: 10px;
+}
+.footnotecontent p {
+  text-indent: 0;
+  margin-left: 15px;
+  vertical-align: middle;
+  page-break-before: avoid;
+  margin-top: 1px;
+}

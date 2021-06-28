@@ -1,0 +1,91 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Özpetek, Ferzan">Ferzan Özpetek</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:eb6debac-1109-4b98-8c98-847f1da73999</dc:identifier>
+    <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">2014-05-26T21:00:00+00:00</dc:date>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="İstanbul Kırmızısı" name="calibre:title_sort"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2014-05-19T09:47:38.827000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="cover"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+  <dc:title>İstanbul Kırmızısı</dc:title>
+<dc:publisher>Can Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;p&gt;Ferzan Özpetek, doğup büyüdüğü şehir olan İstanbul'u yıllardır uzaktan gözlemliyor. Bu sevginin ve hüznün romanı olan İstanbul Kırmızısı, sanatçının sinema eğitimi için İtalya'ya gidişine kadarki İstanbul yaşantısından izler taşıyor. Mesafelerle ölçülebilen uzaklığın kişiyi bir şehre ait olmaktan alıkoyamayacağını, önemli olanın şehirde yaşamak değil, şehri yaşatmak olduğunu gösteriyor.
+
+Filmleriyle tüm dünyada adından söz ettiren Ferzan Özpetek, romancılıkta da bir o kadar iddialı.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ferzan Özpetek&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">dbfacf3d-725b-4a73-9f8c-22dfc14fb29c</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750719448</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-10.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/main-11.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/main-12.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/main-13.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/main-14.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/main-15.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/main-16.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/main-17.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/main-18.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/main-19.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-20.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/main-21.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/main-22.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/main-23.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/main-24.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/main-8.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/main-9.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/navigation.xhtml" id="nav" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="nav"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="47ec4aa52a5-bc3c-4810-8f4f-a014b6255a8d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Aforizmalar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="a5c0645d-1f08-4b9d-a7b0-69b33a876139" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="aforizmalar_split_003.html"/>
+    </navPoint>
+    <navPoint id="03e86d1d-a95c-4a7f-9e35-aeefefa9aa70" playOrder="2">
+      <navLabel>
+        <text>HALİL CİBRAN’IN HAYATI</text>
+      </navLabel>
+      <content src="aforizmalar_split_004.html"/>
+    </navPoint>
+    <navPoint id="6d4ea4ec-6641-4336-88a1-dd9b293d0d4a" playOrder="3">
+      <navLabel>
+        <text>TÜRKÇEDE HALİL CİBRAN KİTAPLARI</text>
+      </navLabel>
+      <content src="aforizmalar_split_005.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
