@@ -1,0 +1,68 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Uzuner, Buket">Buket Uzuner</dc:creator>
+<dc:publisher>Everest Yayınları</dc:publisher>
+    <meta content="Güneş Yiyen Çingene" name="calibre:title_sort"/>
+    <dc:description>&lt;p&gt;Güneş Yiyen Çingene, Türk öykü sanatına zengin düşgücü, dinamik ve şaşırtıcı üslubuyla yepyeni bir renk katan Buket Uzuner'in dokuz öyküsünden oluşuyor.
+
+'Genç, modern ve kentli' diye tanımlanan anlatımıyla Buket Uzuner bu kitabında 'gülmek ve düşlemek' eylemlerini ciddiye almamızı öneriyor. Güneş Yiyen Çingene, "Erişilmeyecek hiçbir şey yoktur, çünkü aslında her şey insanın kafasındadır. Güneş bile erişilmez değil artık!" diyor.
+
+Ve her zamanki gibi bütün bunları özgün kara mizah ve güleryüzlü ciddiyet renkleriyle anlatıyor Buket Uzuner.&lt;/p&gt;</dc:description>
+    <meta content="2014-08-06T07:43:09.453000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2005-04-10T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8376fb59-d66a-4603-9423-512953ac2077</dc:identifier>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Buket Uzuner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-08-10</dc:date>
+  <dc:title>Güneş Yiyen Çingene</dc:title>
+<dc:subject>Hikâye</dc:subject>
+<dc:subject>Öykü</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">7b9e0bde-5e41-4e94-95ff-4c8d70a92e4f</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9752890601</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0000.xhtml" id="Section0000.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yayin Bilgisi.xhtml" id="Yayin_Bilgisi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Icindekiler.xhtml" id="Icindekiler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0000.xhtml"/>
+    <itemref idref="Yayin_Bilgisi.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Icindekiler.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
