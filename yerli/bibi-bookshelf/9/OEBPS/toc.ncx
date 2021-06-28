@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>ÖNSÖZ</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>BUKRE</text>
+			</navLabel>
+			<content src="Text/5-1.html#toc_marker-2"/>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>1</text>
+				</navLabel>
+				<content src="Text/5-2.html#toc_marker-2-1"/>
+			</navPoint>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>2</text>
+				</navLabel>
+				<content src="Text/5-3.html#toc_marker-2-2"/>
+			</navPoint>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>3</text>
+				</navLabel>
+				<content src="Text/5-4.html#toc_marker-2-3"/>
+			</navPoint>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>4</text>
+				</navLabel>
+				<content src="Text/5-5.html#toc_marker-2-4"/>
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>5</text>
+				</navLabel>
+				<content src="Text/5-6.html#toc_marker-2-5"/>
+			</navPoint>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>6</text>
+				</navLabel>
+				<content src="Text/5-7.html#toc_marker-2-6"/>
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>7</text>
+				</navLabel>
+				<content src="Text/5-8.html#toc_marker-2-7"/>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>8</text>
+				</navLabel>
+				<content src="Text/5-9.html#toc_marker-2-8"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>VEBA BUSESİ</text>
+			</navLabel>
+			<content src="Text/5-10.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>MERHABA EVLAT</text>
+			</navLabel>
+			<content src="Text/5-12.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>AŞAĞI MAHALLENİN HAYLAZ ÇOCUĞU</text>
+			</navLabel>
+			<content src="Text/5-14.html#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>MÜSAİT BİR AŞKTA GÜLECEK VAR</text>
+			</navLabel>
+			<content src="Text/5-16.html#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>YALANCIYA</text>
+			</navLabel>
+			<content src="Text/5-18.html#toc_marker-7"/>
+		</navPoint>
+		<navPoint id="navpoint16" playOrder="16">
+			<navLabel>
+				<text>ÖZLENENE</text>
+			</navLabel>
+			<content src="Text/5-20.html#toc_marker-8"/>
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>UNUTULMAYANA</text>
+			</navLabel>
+			<content src="Text/5-22.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>KALANA</text>
+			</navLabel>
+			<content src="Text/5-24.html#toc_marker-10"/>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>GİDENE</text>
+			</navLabel>
+			<content src="Text/5-26.html#toc_marker-11"/>
+		</navPoint>
+		<navPoint id="navpoint20" playOrder="20">
+			<navLabel>
+				<text>KIYIDA</text>
+			</navLabel>
+			<content src="Text/5-28.html#toc_marker-12"/>
+		</navPoint>
+		<navPoint id="navpoint21" playOrder="21">
+			<navLabel>
+				<text>CAN YARAM</text>
+			</navLabel>
+			<content src="Text/5-30.html#toc_marker-13"/>
+		</navPoint>
+		<navPoint id="navpoint22" playOrder="22">
+			<navLabel>
+				<text>DUYGUSUZLUĞA YENİLEN</text>
+			</navLabel>
+			<content src="Text/5-32.html#toc_marker-14"/>
+		</navPoint>
+		<navPoint id="navpoint23" playOrder="23">
+			<navLabel>
+				<text>İNTİKAM</text>
+			</navLabel>
+			<content src="Text/5-34.html#toc_marker-15"/>
+		</navPoint>
+		<navPoint id="navpoint24" playOrder="24">
+			<navLabel>
+				<text>GİTMEK</text>
+			</navLabel>
+			<content src="Text/5-36.html#toc_marker-16"/>
+		</navPoint>
+		<navPoint id="navpoint25" playOrder="25">
+			<navLabel>
+				<text>UNUTULAN</text>
+			</navLabel>
+			<content src="Text/5-42.html#toc_marker-17"/>
+		</navPoint>
+		<navPoint id="navpoint26" playOrder="26">
+			<navLabel>
+				<text>İÇİNDEN</text>
+			</navLabel>
+			<content src="Text/5-44.html#toc_marker-18"/>
+		</navPoint>
+		<navPoint id="navpoint27" playOrder="27">
+			<navLabel>
+				<text>FAZIL</text>
+			</navLabel>
+			<content src="Text/5-47.html#toc_marker-19"/>
+		</navPoint>
+	</navMap>
+</ncx>
