@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Sarıyıldız, Mürvet">Mürvet Sarıyıldız</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">c1301b82-df99-44f0-98c2-cbd5755da687</dc:identifier>
+    <dc:publisher>Sayfa 6</dc:publisher>
+    <dc:description>&lt;p&gt;Bazen sınırları aşk belirler...Sinan, düşüncelere daldı, eskilere gitti, gecelere şerh düştü gözyaşlarından. Sabah gün doğmadan uyandı, doğan günden once zamana koşmak istedi. Haykırmak istedi sevgilisine zamanın ne kadar yakıcı olduğunu. İçinde ne varsa her şeyi yakıp kül ettiğini.
+
+Ne zaman dinledi onu ne de hayalindeki sevgilisi. Ağladı Sinan, sabaha karşı, gün doğmadan. Zamana yetişemeyeceğini anlayınca yeminler etti, aşkı üstüne. İçindeki ateşi yeryüzüne kazıyacaktı.
+
+Kendi arzusuyla devşirilip payitahta getirilen Sinan'ın hayatı Karaboğdan Seferi sırasında değişecektir. On ü. gün gibi kısa bir sürede sağlam bir k.prü yapıp Osmanlı ordusunu saplandığı Prut bataklığından kurtarması ona mimarbaşı olma yolunu açar. Bu sure zarfında Kanuni ile Hürrem'in dillere destan aşklarının güzeller güzeli meyvesi Mihrimah Sultan'a da g.nlünü kaptırır. Ancak Sinan kırk sekiz yaşındadır ve üstelik de evlidir. Mihrimah Sultan ise Rüstem Paşa ile evlendirilecektir. Güneş de ay da tüm umutlarıyla birlikte batmıştır artık. Sinan'ın bu imkânsız aşkı yaşatmak için sultanını kalbine ve yaptığı eserlere gizlemekten başka çaresi kalmamıştır. Aşkının küllerinden iki cami vücuda getirir Sinan. Öyle ki bu camilerin birinde güneş batarken diğerinde ay doğmaktadır. Bu iki camide asırları aşan zamansız bir aşk her gün sonsuzluğa karışır. İmkânsız bir aşka duyduğu umudun bir ustayı nasıl dünya çapında ünlü bir mimar haline getirdiğini daha önce de yüz binler satan bu kitapta okuyacaksınız.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2014-05-31T21:00:00+00:00</dc:date>
+    <meta content="İki Cami Arasında Aşk" name="calibre:title_sort"/>
+    <meta content="2014-06-01T16:12:13.357000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>İki Cami Arasında Aşk</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Tarihi Roman</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Mürvet Sarıyıldız&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">57572ee4-0ea8-4d62-98d7-dd5deccaf4c9</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789751033635</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/image.png" id="id4" media-type="image/png"/>
+    <item href="Text/index_split_000.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/backcover.xhtml" id="backcover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/backcover.JPG" id="backcover.JPG" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+    <itemref idref="backcover.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,423 @@
+
+
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+}
+@page {
+	margin : 5px 5px 5px 5px;
+}
+p.Temel-Paragraf {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.25;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:15px;
+}
+p.Baslik-Yayinevi {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:2em;
+	font-style:normal;
+	font-weight:bold;
+	line-height:0.625;
+    margin-top:50px;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:15px;
+	text-transform:uppercase;
+}
+p.Baslik-Yazar {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1.667em;
+	font-style:normal;
+	font-weight:bold;
+	line-height:0.75;
+	margin-bottom:50px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+	text-transform:uppercase;
+}
+p.Kesme {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1em;
+	font-style:normal;
+	font-weight:bold;
+	line-height:1.25;
+    margin-top:50px;
+	margin-bottom:50px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+	text-transform:uppercase;
+}
+p.Baslik-Eser {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:2em;
+	font-style:normal;
+	font-weight:normal;
+	line-height:0.850;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+	text-transform:uppercase;
+}
+p.Kunye-1 {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1em;
+	font-style:normal;
+	font-weight:normal;
+	line-height:1.25;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+	text-transform:uppercase;
+}
+p.Kunye-2 {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.667;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Ana-Baslik {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:0.833;
+    margin-top:30px;
+	margin-bottom:30px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-Ana-Baslik-Alti {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.833em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.5;
+	margin-bottom:20px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Paragraf-Ana-Baslik-Sonrasi {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.25;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:15px;
+}
+p.Alt-Baslik {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1.167em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.071;
+    margin-top:20px;
+	margin-bottom:20px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Metin-Alt-Baslik-Alti {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.833em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.5;
+	margin-bottom:15px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:50px;
+}
+li.Yildiz {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.25;
+	margin-bottom:15px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.siir {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:0.833;
+    margin-top:5px;
+	margin-bottom:5px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:15px;
+}
+p.Paragraf-arasi {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.25;
+    margin-top:5px;
+	margin-bottom:5px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:90px;
+}
+p.Kelimeler {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:0.833;
+    margin-top:30px;
+	margin-bottom:20px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+span.Baslik-Yayinevi {
+	font-family :LiberationSerif, serif;
+	font-size:2em;
+	font-style:normal;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+span.Baslik-Yazar {
+	font-family :LiberationSerif, serif;
+	font-size:1.667em;
+	font-style:normal;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+span.x-lk-Harf-Buyuk {
+	font-family :LiberationSerif, serif;
+	font-size:2.5em;
+	font-style:normal;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+span.Baslik-Eser {
+	font-family :LiberationSerif, serif;
+	font-size:2em;
+	font-style:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.Bold {
+	font-family :LiberationSerif, serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.Ana-Baslik {
+	font-family :LiberationSerif, serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+}
+span.Metin-Baslik-Alti {
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+}
+span.x-talik {
+	font-family :LiberationSerif, serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.Yildiz {
+	font-family :LiberationSerif, serif;
+	font-size:1em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.Alt-Baslik {
+	font-family :LiberationSerif, serif;
+	font-size:1.167em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:bold;
+}
+span.Metin-temel-ustu {
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+}
+p.para-style-override-1 {
+	break-after:page;
+}
+span.char-style-override-1 {
+	font-size:3.052em;
+	float:left;
+	line-height:1;
+	margin-top:-0.061em;
+	margin-right:0.05em;
+	-adobe-float-keep:column;
+	margin-bottom:-0.275em;
+	font-family :LiberationSerif, serif;
+	font-weight:bold;
+	font-style:normal;
+	text-transform:uppercase;
+}
+span.char-style-override-2 {
+	font-family :LiberationSerif, serif;
+	font-size:1em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-3 {
+	font-family :LiberationSerif, serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-4 {
+	font-family :LiberationSerif, serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-5 {
+	font-family :LiberationSerif, serif;
+	font-size:1.25em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-6 {
+	font-family :LiberationSerif, serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-7 {
+	font-family :LiberationSerif, serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-8 {
+	font-family :LiberationSerif, serif;
+	font-size:1.1em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-9 {
+	display:inline-block;
+	text-indent:0;
+	white-space:pre-wrap;
+}
+span.char-style-override-10 {
+	font-size:1em;
+}

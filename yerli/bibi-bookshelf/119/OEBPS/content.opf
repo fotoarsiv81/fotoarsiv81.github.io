@@ -1,0 +1,65 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Safa, Peyami">Peyami Safa</dc:creator>
+<meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="Dokuzuncu-Hariciye_1.jpg"/>
+    <dc:description>&lt;p&gt;Yalnız ve hasta bir çocuğun çocukça aşkını ve ızdırabını; mesut olmak isteyen bir genç kızın temiz sevgisini; inanmak arzusu bütün benliğini saran bir insanın kuruntularını ve çıplak hastane duvarlarında yankılanan sessiz hıçkırıkları anlatır. Peyami'nin kendi geçmişinden izler taşıyan bu romanda mutluluğu ve felaketi aynı etkileyicilikle anlatma gücüne hayran kalacaksınız.&lt;/p&gt;</dc:description>
+    <dc:publisher>Ötüken Yayınları</dc:publisher>
+    <dc:date>2199-09-05T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:343449b9-7bf0-4382-9263-6c25c44a5f56</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-04-17</dc:date>
+  <dc:title>Dokuzuncu Hariciye Koğuşu</dc:title>
+<meta name="calibre:title_sort" content="Dokuzuncu Hariciye Koğuşu"/>
+<meta name="calibre:series" content="Peyami Safa Bütün Romanları"/>
+<meta name="calibre:series_index" content="1.0"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>100 Temel Eser</dc:subject>
+<dc:subject>Türk Edebiyatı</dc:subject>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Peyami Safa&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">7509838e-0eda-417e-b461-6676179e345f</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">2789785931980</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/dokuzuncu_hariciye_kogusu_2.xhtml" id="dokuzuncu_hariciye_kogusu_2" media-type="application/xhtml+xml"/>
+    <item href="Text/dokuzuncu_hariciye_kogusu_2-1.xhtml" id="dokuzuncu_hariciye_kogusu_2-1" media-type="application/xhtml+xml"/>
+    <item href="Text/dokuzuncu_hariciye_kogusu_2-2.xhtml" id="dokuzuncu_hariciye_kogusu_2-2" media-type="application/xhtml+xml"/>
+    <item href="Text/dokuzuncu_hariciye_kogusu_2-3.xhtml" id="dokuzuncu_hariciye_kogusu_2-3" media-type="application/xhtml+xml"/>
+    <item href="Text/dokuzuncu_hariciye_kogusu_2-4.xhtml" id="dokuzuncu_hariciye_kogusu_2-4" media-type="application/xhtml+xml"/>
+    <item href="Text/dokuzuncu_hariciye_kogusu_2-5.xhtml" id="dokuzuncu_hariciye_kogusu_2-5" media-type="application/xhtml+xml"/>
+    <item href="Text/dokuzuncu_hariciye_kogusu_2-6.xhtml" id="dokuzuncu_hariciye_kogusu_2-6" media-type="application/xhtml+xml"/>
+    <item href="Text/dokuzuncu_hariciye_kogusu_2-7.xhtml" id="dokuzuncu_hariciye_kogusu_2-7" media-type="application/xhtml+xml"/>
+    <item href="Text/dokuzuncu_hariciye_kogusu_2-8.xhtml" id="dokuzuncu_hariciye_kogusu_2-8" media-type="application/xhtml+xml"/>
+    <item href="Text/dokuzuncu_hariciye_kogusu_2-9.xhtml" id="dokuzuncu_hariciye_kogusu_2-9" media-type="application/xhtml+xml"/>
+    <item href="Text/dokuzuncu_hariciye_kogusu_2-10.xhtml" id="dokuzuncu_hariciye_kogusu_2-10" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/dokuzuncuhariciyekogusu.css" id="dokuzuncuhariciyekogusu.css" media-type="text/css"/>
+    <item href="Images/Dokuzuncu-Hariciye_1.jpg" id="Dokuzuncu-Hariciye_1.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="dokuzuncu_hariciye_kogusu_2"/>
+    <itemref idref="dokuzuncu_hariciye_kogusu_2-1"/>
+    <itemref idref="dokuzuncu_hariciye_kogusu_2-2"/>
+    <itemref idref="dokuzuncu_hariciye_kogusu_2-3"/>
+    <itemref idref="dokuzuncu_hariciye_kogusu_2-4"/>
+    <itemref idref="dokuzuncu_hariciye_kogusu_2-5"/>
+    <itemref idref="dokuzuncu_hariciye_kogusu_2-6"/>
+    <itemref idref="dokuzuncu_hariciye_kogusu_2-7"/>
+    <itemref idref="dokuzuncu_hariciye_kogusu_2-8"/>
+    <itemref idref="dokuzuncu_hariciye_kogusu_2-9"/>
+    <itemref idref="dokuzuncu_hariciye_kogusu_2-10"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

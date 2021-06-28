@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="d323da5e-947d-4502-ba7d-dccfcf9aa099" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.29)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Köprü</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="18f3fbe5-fd3e-42cc-94ff-e701e8d3c087" playOrder="0">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="index_split_000.html#7"/>
+    </navPoint>
+    <navPoint id="e6e2dc20-99e9-48f2-9883-9f42eccea1ba" playOrder="1">
+      <navLabel>
+        <text>Kö</text>
+      </navLabel>
+      <content src="index_split_000.html#12"/>
+    </navPoint>
+    <navPoint id="06efb444-8e59-4c7e-a8bc-b0f10c3416ec" playOrder="2">
+      <navLabel>
+        <text>H</text>
+      </navLabel>
+      <content src="index_split_000.html#58"/>
+    </navPoint>
+    <navPoint id="76ce3434-4f68-4b68-b5e6-0427da0ab48c" playOrder="3">
+      <navLabel>
+        <text>iran Olayı ve Şeyh Sait</text>
+      </navLabel>
+      <content src="index_split_000.html#60"/>
+    </navPoint>
+    <navPoint id="53b07e6a-c703-4b46-9b1f-36ca364d86ae" playOrder="4">
+      <navLabel>
+        <text>Ho</text>
+      </navLabel>
+      <content src="index_split_000.html#62"/>
+    </navPoint>
+    <navPoint id="af85dfd5-0182-4c74-a218-4704669f642c" playOrder="5">
+      <navLabel>
+        <text>Zil</text>
+      </navLabel>
+      <content src="index_split_000.html#65"/>
+    </navPoint>
+    <navPoint id="a06cf20d-f4c0-400a-a02f-ea56adf9e473" playOrder="6">
+      <navLabel>
+        <text>Umut Kö</text>
+      </navLabel>
+      <content src="index_split_000.html#94"/>
+    </navPoint>
+  </navMap>
+</ncx>

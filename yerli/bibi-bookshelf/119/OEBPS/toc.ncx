@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="urn:uuid:343449b9-7bf0-4382-9263-6c25c44a5f56" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Dokuzuncu Hariciye Koğuşu</text>
+	</docTitle>
+	<docAuthor>
+		<text>Peyami Safa</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Çocuklar Hastahanesi</text>
+			</navLabel>
+			<content src="Text/dokuzuncu_hariciye_kogusu_2-4.xhtml#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Paşa</text>
+			</navLabel>
+			<content src="Text/dokuzuncu_hariciye_kogusu_2-5.xhtml#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>Zavallı Yorik</text>
+			</navLabel>
+			<content src="Text/dokuzuncu_hariciye_kogusu_2-6.xhtml#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>Değişiyorum</text>
+			</navLabel>
+			<content src="Text/dokuzuncu_hariciye_kogusu_2-7.xhtml#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>Tehlike</text>
+			</navLabel>
+			<content src="Text/dokuzuncu_hariciye_kogusu_2-8.xhtml#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>Dokuzuncu Hariciye Koğuşu</text>
+			</navLabel>
+			<content src="Text/dokuzuncu_hariciye_kogusu_2-9.xhtml#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>Kelimeler</text>
+			</navLabel>
+			<content src="Text/dokuzuncu_hariciye_kogusu_2-10.xhtml#toc_marker-7"/>
+		</navPoint>
+	</navMap>
+</ncx>

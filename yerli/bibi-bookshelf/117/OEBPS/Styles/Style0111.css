@@ -1,0 +1,152 @@
+@font-face {
+  font-family: "TR GALLERIA";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/TR GALLERIA.TTF);
+}
+
+
+h1
+{
+margin-top:2em;
+margin-bottom:3em;
+text-align:center;
+font-size:1.5em;
+font-weight:bold;
+}
+
+h3
+{
+margin-top:1em;
+margin-bottom:1em;
+text-align:center;
+Font-size:.75em;
+font-style:italic;
+}
+
+h2
+{
+margin-top:2em;
+margin-bottom:2em;
+text-align:center;
+font-size:1.5em;
+font-weight:bold;
+}
+
+p{
+text-align:justify;
+font-family:verdana;
+text-indent:1em;
+margin-top:0.2em;
+margin-bottom:0.2em;
+font-size: medium;
+line-height: 120%;
+padding-bottom:3px;
+}
+
+.p2
+{
+text-align:justify;
+text-indent:0em;
+margin-top:0.3em;
+margin-bottom:0.3em;
+font-size:2.5em;
+font-weight: bold;
+font-family:TR GALLERIA;
+}
+
+.p3
+{
+text-align:justify;
+text-indent:0.5em;
+margin-top:0.5em;
+margin-bottom:0.5em;
+margin-left:0.5em;
+margin-right:0.5em;
+}
+
+.yildiz {
+Font-size:2em;
+margin-top:1em;
+margin-bottom:1em;
+text-align:center;
+}
+
+.bas{
+text-align:center;
+font-style:bold;
+font-size:1.5em;
+margin-top:1.5em;
+margin-bottom:0.5em;
+font-family:times new roman;
+}
+
+.kunye {
+	font-family : "Times New Roman", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.93em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.1999969482421875;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 0px 0px 0px;
+}
+
+.dip
+{
+text-align:justify;
+text-indent:2em;
+margin-top:1em;
+margin-bottom:1em;
+margin-left:2em;
+}
+
+.chapterHeader {
+  height:60px;
+  border:1px solid #000;
+  display:block;
+  margin-bottom:20px;
+  background-color:#FFF;
+}
+  
+.chapterHeader .translation {
+  float:left;
+  font-weight: normal;
+  margin-top:38px;
+  margin-left: -8px;
+  margin-bottom: 0px;
+  padding-right: 16px;
+  padding-left: 5px ;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  font-size:26px;
+  background-color:#FFF;
+  line-spacing: 1.2em;
+}
+                             
+.chapterHeader .count {
+  line-height: 100%;
+  font-style:normal;
+  font-weight: normal;
+  text-transform:uppercase;
+  font-size:94px;
+  margin-right:18px;
+  margin-top:-14px;
+  margin-bottom: -20px;
+  float:left;
+  padding:0px;
+  background-color:#FFF;}
+
+span.dropcap {
+  font-size: 300%; 
+  font-weight: bold; 
+  float: left; 
+  margin: -0.15em 0.15em -0.25em 0.2em; 
+  text-indent: 0em; 
+  line-height: 1em; 
+  height: 1em;
+  font-family:TR GALLERIA;
+}

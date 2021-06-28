@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="a6afb63f-47c8-4af3-b92a-ee317b1b8619" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.37)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kitabı Aşk</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="21b0f242-28a8-4036-be03-c7cc79b10386" playOrder="0">
+      <navLabel>
+        <text>��0</text>
+      </navLabel>
+      <content src="index_split_000.html#1"/>
+    </navPoint>
+    <navPoint class="chapter" id="dae5b2bd-674e-4cbc-bccc-d6358256d0c5" playOrder="1">
+      <navLabel>
+        <text>��</text>
+      </navLabel>
+      <content src="index_split_000.html#56"/>
+    </navPoint>
+  </navMap>
+</ncx>

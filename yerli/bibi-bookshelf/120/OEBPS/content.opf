@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Fi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kohen, Akilah Azra">Akilah Azra Kohen</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:73f22f2a-dac2-4412-83c8-f5ccd67a7aae</dc:identifier>
+    <dc:publisher>Destek Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+    <dc:description>Fi, deneyimin içinde kaybolmak yerine korkmadan deneyime sahip olmanın yolculuğudur. İçinde bolca bulunan manipülasyon, seks, aldatma ve aldanma hikâyeleri belki herkesin dikkatini çekebilir ama gerçeklerden yola çıkılarak ulaşılmak istenen yerde sadece farkındalık vardır. Fi güzelliğin lanetlendiği, zekânın yağmalandığı, iyinin kurban edildiği ve kasaba kurnazlığıyla yönetilen bu gezegende, içine doğduğumuz bu kutsal hayatı kutlamak için yazılmıştır. Kendi potansiyelini keşfetme cesareti gösterebilmiş gerçek kişilere, çatlama cesareti gösterebilmiş tohumlara adanmıştır. Bir kişiye duyulan aşktan daha acımasız bir şey var mıdır? (Tanıtım Bülteninden)</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">930f477f-8a86-4328-aef2-45507819ee73</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054994861</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/4-1.xhtml" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="Text/4-2.xhtml" id="x4-2" media-type="application/xhtml+xml"/>
+    <item href="Text/4-3.xhtml" id="x4-3" media-type="application/xhtml+xml"/>
+    <item href="Text/4-4.xhtml" id="x4-4" media-type="application/xhtml+xml"/>
+    <item href="Text/4-4_split3.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/4-4_split1.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/4-4_split2.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/4-4_split4.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/4-5.xhtml" id="x4-5" media-type="application/xhtml+xml"/>
+    <item href="Text/4-6.xhtml" id="x4-6" media-type="application/xhtml+xml"/>
+    <item href="Text/4-7.xhtml" id="x4-7" media-type="application/xhtml+xml"/>
+    <item href="Text/4-8.xhtml" id="x4-8" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="Images/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt1.jpeg" id="x3_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt2.jpeg" id="x3_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt3.jpeg" id="x3_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt4.jpeg" id="x3_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt5.jpeg" id="x3_fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt6.jpeg" id="x3_fmt6.jpeg" media-type="image/jpeg"/>
+    <item href="Images/3_fmt7.jpeg" id="x3_fmt7.jpeg" media-type="image/jpeg"/>
+    <item href="Images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="Images/d_fmt.jpeg" id="d_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/d_fmt1.jpeg" id="d_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/d_fmt2.jpeg" id="d_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="Images/destek_fmt.jpeg" id="destek_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/destek_fmt1.jpeg" id="destek_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/kapak.jpeg" id="kapak.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="unGJ4343bnhVIY6UbPuYlH9" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+    <itemref idref="x4-3"/>
+    <itemref idref="x4-4"/>
+    <itemref idref="id2"/>
+    <itemref idref="id"/>
+    <itemref idref="id1"/>
+    <itemref idref="id3"/>
+    <itemref idref="x4-5"/>
+    <itemref idref="x4-6"/>
+    <itemref idref="x4-7"/>
+    <itemref idref="x4-8"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

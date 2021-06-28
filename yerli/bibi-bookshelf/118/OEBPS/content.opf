@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Şarkını Söylediğin Zaman</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Aral, İnci">İnci Aral</dc:creator>
+    <dc:publisher>Kırmızı Kedi</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:a64b20d4-f6be-465a-a771-ffaaf25597c4</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (3.19.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">78dd5ee9-496a-4f48-afa5-b1ef3a9bdf25</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="calibre:title_sort" content="Şarkını Söylediğin Zaman"/>
+    <meta name="calibre:author_link_map" content="{&quot;İnci Aral&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="kapak_fmt.png"/>
+  </metadata>
+  <manifest>
+    <item href="kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/kapak.jpg" id="kapak_fmt.png" media-type="image/jpeg"/>
+    <item href="images/KedigriLogo-1_fmt.jpeg" id="KedigriLogo-1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/KedigriLogo-1_fmt1.jpeg" id="KedigriLogo-1_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/mmmmmm_fmt.jpeg" id="mmmmmm_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/mmmmmm_fmt1.jpeg" id="mmmmmm_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/mmmmmm_fmt2.jpeg" id="mmmmmm_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="images/nota_musicale_fmt.png" id="nota_musicale_fmt.png" media-type="image/png"/>
+    <item href="images/nota_musicale_fmt1.png" id="nota_musicale_fmt1.png" media-type="image/png"/>
+    <item href="images/nota_musicale_fmt10.png" id="nota_musicale_fmt10.png" media-type="image/png"/>
+    <item href="images/nota_musicale_fmt11.png" id="nota_musicale_fmt11.png" media-type="image/png"/>
+    <item href="images/nota_musicale_fmt12.png" id="nota_musicale_fmt12.png" media-type="image/png"/>
+    <item href="images/nota_musicale_fmt13.png" id="nota_musicale_fmt13.png" media-type="image/png"/>
+    <item href="images/nota_musicale_fmt2.png" id="nota_musicale_fmt2.png" media-type="image/png"/>
+    <item href="images/nota_musicale_fmt3.png" id="nota_musicale_fmt3.png" media-type="image/png"/>
+    <item href="images/nota_musicale_fmt4.png" id="nota_musicale_fmt4.png" media-type="image/png"/>
+    <item href="images/nota_musicale_fmt5.png" id="nota_musicale_fmt5.png" media-type="image/png"/>
+    <item href="images/nota_musicale_fmt6.png" id="nota_musicale_fmt6.png" media-type="image/png"/>
+    <item href="images/nota_musicale_fmt7.png" id="nota_musicale_fmt7.png" media-type="image/png"/>
+    <item href="images/nota_musicale_fmt8.png" id="nota_musicale_fmt8.png" media-type="image/png"/>
+    <item href="images/nota_musicale_fmt9.png" id="nota_musicale_fmt9.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+  </spine>
+  <guide>
+    <reference href="images/kapak.jpg" type="cover"/>
+  </guide>
+</package>

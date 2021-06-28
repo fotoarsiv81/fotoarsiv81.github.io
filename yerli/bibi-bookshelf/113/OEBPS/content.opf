@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Safa, Peyami">Peyami Safa</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7f8ea229-a8a4-48a3-ba2c-e52c266f4cef</dc:identifier>
+    <dc:date>1995-05-26T21:00:00+00:00</dc:date>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Adobe InDesign" name="generator"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="_kapak.jpg"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+  <dc:title>Sözde Kızlar</dc:title>
+<meta name="calibre:title_sort" content="Sözde Kızlar"/>
+<dc:publisher>Ötüken Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Cumhuriyet Dönemi</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;p&gt;Mütareke döneminin bunalımlı günlerinde, babasını aramak amacıyla İstanbul'a gelen bir genç kızın İstanbul sosyetesinin savaştan bile yıkıcı, tefessüh etmiş hayatlarına şahadeti… Bir yanda yalnızlığın çaresizliği, diğer yanda içerisinde kalınan muhitin kendisine tesir etmeye çalışan ahlakî çöküntüsüyle verilen mücadele. Sözde Kızlar, bir uçurumdan diğerine yuvarlanan sözde kızların olduğu kadar tahakküm ve hilelerin yok edemediği cevherin romanıdır.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Peyami Safa&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">43dc5f8c-18b5-497c-b8ae-201acf912ddf</dc:identifier>
+<dc:identifier opf:scheme="ISBN">2789785932505</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/sozde_kizlar.xhtml" id="sozde_kizlar" media-type="application/xhtml+xml"/>
+    <item href="Text/sozde_kizlar-1.xhtml" id="sozde_kizlar-1" media-type="application/xhtml+xml"/>
+    <item href="Text/sozde_kizlar-2.xhtml" id="sozde_kizlar-2" media-type="application/xhtml+xml"/>
+    <item href="Text/sozde_kizlar-3.xhtml" id="sozde_kizlar-3" media-type="application/xhtml+xml"/>
+    <item href="Text/sozde_kizlar-4.xhtml" id="sozde_kizlar-4" media-type="application/xhtml+xml"/>
+    <item href="Text/sozde_kizlar-5.xhtml" id="sozde_kizlar-5" media-type="application/xhtml+xml"/>
+    <item href="Styles/sozde_kizl_idstyles.css" id="sozde_kizl_idstyles.css" media-type="text/css"/>
+    <item href="Images/logo01_fmt.png" id="logo01_fmt.png" media-type="image/png"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="sozde_kizlar"/>
+    <itemref idref="sozde_kizlar-1"/>
+    <itemref idref="sozde_kizlar-2"/>
+    <itemref idref="sozde_kizlar-3"/>
+    <itemref idref="sozde_kizlar-4"/>
+    <itemref idref="sozde_kizlar-5"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
