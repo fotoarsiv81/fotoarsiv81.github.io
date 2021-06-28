@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f9e655a4-9629-4cb4-a2c3-4c1934812939</dc:identifier>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:file-as="Şafak, Elif" ns0:role="aut" xmlns:dc="http://purl.org/dc/elements/1.1/">Elif Şafak</dc:creator>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Metis Yayınları</dc:publisher>
+    <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">2002-02-14T22:00:00+00:00</dc:date>
+    <meta content="Adobe InDesign" name="generator" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="Bit Palas" name="calibre:title_sort" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="{}" name="calibre:user_categories" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="{&quot;Elif Şafak&quot;: &quot;&quot;}" name="calibre:author_link_map" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="0.7.4" name="Sigil version" xmlns="http://www.idpf.org/2007/opf" />
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Bit Palas</dc:title>
+    <meta content="10.0" name="calibre:rating" xmlns="http://www.idpf.org/2007/opf" />
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Orijinal</dc:subject>
+    <dc:description>&lt;p&gt;Bazı romanlar bittiklerinde başa dönüp ilk sayfaları tekrar okumak istersiniz. Romanı birkaç günde okusanız bile, sanki ilk sayfaları okuyalı aylar, hatta yıllar geçmiş gibi, nasıl ve nerede başladığını anımsamakta zorlanırsınız. İşte Elif Şafak'ın Bit Palas romanını bitirdikten sonra bunları hissettim ve tekrar başladım okumaya… Asuman Kafaoğlu Büke / Cumhuriyet Kitap Edebi ve yazınsal başarısı, Türk kimliğini ve ülkenin tarihine yaklaşımını edebiyat yoluyla yeniden tanımlamayan genç kuşak yazarlar arasında Şafak'ı temsilci olarak öne çıkarıyor... Bu roman enerji dolu ve gizemli bir yolculuğa davet ediyor insanı; tutkuyla, gülmeceyle ve Türkiye'ye dair bir dolu fotoğraf karesiyle... The Independent&lt;/p&gt;</dc:description>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp" xmlns:dc="http://purl.org/dc/elements/1.1/">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">tr</dc:language>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre" xmlns:dc="http://purl.org/dc/elements/1.1/">07fb9ea2-38bc-47db-aff8-75b9e173dcc4</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="GOOGLE" xmlns:dc="http://purl.org/dc/elements/1.1/">d04LAQAAMAAJ</dc:identifier>
+    <dc:identifier xmlns:ns5="http://www.idpf.org/2007/opf" ns5:scheme="ISBN" xmlns:dc="http://purl.org/dc/elements/1.1/">9789753423540</dc:identifier>
+    <dc:identifier xmlns:ns6="http://www.idpf.org/2007/opf" ns6:scheme="MERITOKRASI NOTU" xmlns:dc="http://purl.org/dc/elements/1.1/">5</dc:identifier>
+    <meta content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB,MOBI&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}" name="calibre:user_metadata:#formats" xmlns="http://www.idpf.org/2007/opf" />
+    <meta name="cover" content="_bit_palas_on_D_fmt.jpeg" xmlns="http://www.idpf.org/2007/opf" />
+    <dc:date opf:event="modification">2014-02-16</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/KUNYE.xhtml" id="kunye" media-type="application/xhtml+xml" />
+    <item href="Text/GIRIS.xhtml" id="giris" media-type="application/xhtml+xml" />
+    <item href="Text/ICINDEKILER.xhtml" id="icindekiler" media-type="application/xhtml+xml" />
+    <item href="Text/ITHAF.xhtml" id="ithaf" media-type="application/xhtml+xml" />
+    <item href="Text/ONSOZ.xhtml" id="onsoz" media-type="application/xhtml+xml" />
+    <item href="Text/BIT_PALAS.xhtml" id="bit-palas" media-type="application/xhtml+xml" />
+    <item href="Text/DAHA_ONCESI.xhtml" id="daha-oncesi" media-type="application/xhtml+xml" />
+    <item href="Text/SIMDI.xhtml" id="simdi" media-type="application/xhtml+xml" />
+    <item href="Text/YA_SONRA.xhtml" id="ya-sonra" media-type="application/xhtml+xml" />
+    <item href="Text/ARKA_KAPAK.xhtml" id="arka-kapak" media-type="application/xhtml+xml" />
+    <item href="Images/bit_palas_ar_D_fmt.jpeg" id="bit-palas-ar-d-fmt-jpeg" media-type="image/jpeg" />
+    <item href="Images/_bit_palas_on_D_fmt.jpeg" id="_bit_palas_on_D_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/cizgi_fmt.jpeg" id="cizgi-fmt-jpeg" media-type="image/jpeg" />
+    <item href="Images/cizgi_fmt1.jpeg" id="cizgi-fmt1-jpeg" media-type="image/jpeg" />
+    <item href="Images/daire_fmt.jpeg" id="daire-fmt-jpeg" media-type="image/jpeg" />
+    <item href="Images/daire_fmt1.jpeg" id="daire-fmt1-jpeg" media-type="image/jpeg" />
+    <item href="Images/dcizgi_fmt.jpeg" id="dcizgi-fmt-jpeg" media-type="image/jpeg" />
+    <item href="Images/dcizgi_fmt1.jpeg" id="dcizgi-fmt1-jpeg" media-type="image/jpeg" />
+    <item href="Images/dk%20logo_fmt.jpeg" id="dk-logo-fmt-jpeg" media-type="image/jpeg" />
+    <item href="Images/icon_fmt.jpeg" id="icon-fmt-jpeg" media-type="image/jpeg" />
+    <item href="Styles/template.css" id="css" media-type="text/css" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="kunye" />
+    <itemref idref="giris" />
+    <itemref idref="icindekiler" />
+    <itemref idref="ithaf" />
+    <itemref idref="onsoz" />
+    <itemref idref="bit-palas" />
+    <itemref idref="daha-oncesi" />
+    <itemref idref="simdi" />
+    <itemref idref="ya-sonra" />
+    <itemref idref="arka-kapak" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" xmlns="http://www.idpf.org/2007/opf" />
+  </guide>
+</package>
