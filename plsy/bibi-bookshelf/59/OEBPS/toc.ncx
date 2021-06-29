@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:13efe2e8-7e1b-46da-9f7b-e025086eab73" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>DENİZ</text>
+      </navLabel>
+      <content src="Text/yorunge.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>KALKIŞ</text>
+      </navLabel>
+      <content src="Text/Section0001.htm"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>ÜÇ</text>
+        </navLabel>
+        <content src="Text/Section0002.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>ISS</text>
+      </navLabel>
+      <content src="Text/Section0003.htm"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>BEŞ</text>
+        </navLabel>
+        <content src="Text/Section0004.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>ALTI</text>
+        </navLabel>
+        <content src="Text/Section0007.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>İSTASYON</text>
+      </navLabel>
+      <content src="Text/Section0010.htm"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>SEKİZ</text>
+        </navLabel>
+        <content src="Text/Section0012.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>HASTALIK</text>
+      </navLabel>
+      <content src="Text/Section0016.htm"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>ON</text>
+        </navLabel>
+        <content src="Text/Section0018.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>ON BİR</text>
+        </navLabel>
+        <content src="Text/Section0021.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>ON İKİ</text>
+        </navLabel>
+        <content src="Text/Section0024.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>ON ÜÇ</text>
+        </navLabel>
+        <content src="Text/Section0026.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>ON DÖRT</text>
+        </navLabel>
+        <content src="Text/Section0027.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>ON BEŞ</text>
+        </navLabel>
+        <content src="Text/Section0028.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>OTOPSİ</text>
+      </navLabel>
+      <content src="Text/Section0029.htm"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>ON YEDİ</text>
+        </navLabel>
+        <content src="Text/Section0030.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>ON SEKİZ</text>
+        </navLabel>
+        <content src="Text/Section0032.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>KİMERA</text>
+      </navLabel>
+      <content src="Text/Section0033.htm"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>YİRMİ</text>
+        </navLabel>
+        <content src="Text/Section0035.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>YİRMİ BİR</text>
+        </navLabel>
+        <content src="Text/Section0037.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>YİRMİ İKİ</text>
+        </navLabel>
+        <content src="Text/Section0039.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>YİRMİ ÜÇ</text>
+        </navLabel>
+        <content src="Text/Section0040.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>YİRMİ DÖRT</text>
+        </navLabel>
+        <content src="Text/Section0041.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>KÖKEN</text>
+      </navLabel>
+      <content src="Text/Section0043.htm"/>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>YİRMİ ALTI</text>
+        </navLabel>
+        <content src="Text/Section0045.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>YİRMİ YEDİ</text>
+        </navLabel>
+        <content src="Text/Section0047.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>DENİZ</text>
+      </navLabel>
+      <content src="Text/Section0049.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

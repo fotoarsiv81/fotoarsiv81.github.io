@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Taş Meclisi</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Grange, Jean-Christophe">Jean-Christophe Grange</dc:creator>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:9A62B809-796C-4A92-B680-4D44A777EE21</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">0fbb1b4d-29f0-485c-9638-2aefeb0ba887</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="KAPAK.html" id="KAPAK" media-type="application/xhtml+xml"/>
+    <item href="KUNYE.html" id="KUNYE" media-type="application/xhtml+xml"/>
+    <item href="GIRIS.html" id="GIRIS" media-type="application/xhtml+xml"/>
+    <item href="ITHAF.html" id="ITHAF" media-type="application/xhtml+xml"/>
+    <item href="I.html" id="I" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="7.html" id="x7" media-type="application/xhtml+xml"/>
+    <item href="8.html" id="x8" media-type="application/xhtml+xml"/>
+    <item href="9.html" id="x9" media-type="application/xhtml+xml"/>
+    <item href="10.html" id="x10" media-type="application/xhtml+xml"/>
+    <item href="11.html" id="x11" media-type="application/xhtml+xml"/>
+    <item href="12.html" id="x12" media-type="application/xhtml+xml"/>
+    <item href="13.html" id="x13" media-type="application/xhtml+xml"/>
+    <item href="14.html" id="x14" media-type="application/xhtml+xml"/>
+    <item href="15.html" id="x15" media-type="application/xhtml+xml"/>
+    <item href="16.html" id="x16" media-type="application/xhtml+xml"/>
+    <item href="17.html" id="x17" media-type="application/xhtml+xml"/>
+    <item href="18.html" id="x18" media-type="application/xhtml+xml"/>
+    <item href="II.html" id="II" media-type="application/xhtml+xml"/>
+    <item href="19.html" id="x19" media-type="application/xhtml+xml"/>
+    <item href="20.html" id="x20" media-type="application/xhtml+xml"/>
+    <item href="21.html" id="x21" media-type="application/xhtml+xml"/>
+    <item href="22.html" id="x22" media-type="application/xhtml+xml"/>
+    <item href="23.html" id="x23" media-type="application/xhtml+xml"/>
+    <item href="24.html" id="x24" media-type="application/xhtml+xml"/>
+    <item href="25.html" id="x25" media-type="application/xhtml+xml"/>
+    <item href="26.html" id="x26" media-type="application/xhtml+xml"/>
+    <item href="27.html" id="x27" media-type="application/xhtml+xml"/>
+    <item href="28.html" id="x28" media-type="application/xhtml+xml"/>
+    <item href="29.html" id="x29" media-type="application/xhtml+xml"/>
+    <item href="30.html" id="x30" media-type="application/xhtml+xml"/>
+    <item href="31.html" id="x31" media-type="application/xhtml+xml"/>
+    <item href="32.html" id="x32" media-type="application/xhtml+xml"/>
+    <item href="33.html" id="x33" media-type="application/xhtml+xml"/>
+    <item href="34.html" id="x34" media-type="application/xhtml+xml"/>
+    <item href="35.html" id="x35" media-type="application/xhtml+xml"/>
+    <item href="36.html" id="x36" media-type="application/xhtml+xml"/>
+    <item href="37.html" id="x37" media-type="application/xhtml+xml"/>
+    <item href="38.html" id="x38" media-type="application/xhtml+xml"/>
+    <item href="39.html" id="x39" media-type="application/xhtml+xml"/>
+    <item href="40.html" id="x40" media-type="application/xhtml+xml"/>
+    <item href="41.html" id="x41" media-type="application/xhtml+xml"/>
+    <item href="42.html" id="x42" media-type="application/xhtml+xml"/>
+    <item href="III.html" id="III" media-type="application/xhtml+xml"/>
+    <item href="43.html" id="x43" media-type="application/xhtml+xml"/>
+    <item href="44.html" id="x44" media-type="application/xhtml+xml"/>
+    <item href="45.html" id="x45" media-type="application/xhtml+xml"/>
+    <item href="46.html" id="x46" media-type="application/xhtml+xml"/>
+    <item href="47.html" id="x47" media-type="application/xhtml+xml"/>
+    <item href="48.html" id="x48" media-type="application/xhtml+xml"/>
+    <item href="49.html" id="x49" media-type="application/xhtml+xml"/>
+    <item href="50.html" id="x50" media-type="application/xhtml+xml"/>
+    <item href="51.html" id="x51" media-type="application/xhtml+xml"/>
+    <item href="52.html" id="x52" media-type="application/xhtml+xml"/>
+    <item href="53.html" id="x53" media-type="application/xhtml+xml"/>
+    <item href="54.html" id="x54" media-type="application/xhtml+xml"/>
+    <item href="55.html" id="x55" media-type="application/xhtml+xml"/>
+    <item href="56.html" id="x56" media-type="application/xhtml+xml"/>
+    <item href="57.html" id="x57" media-type="application/xhtml+xml"/>
+    <item href="58.html" id="x58" media-type="application/xhtml+xml"/>
+    <item href="59.html" id="x59" media-type="application/xhtml+xml"/>
+    <item href="60.html" id="x60" media-type="application/xhtml+xml"/>
+    <item href="61.html" id="x61" media-type="application/xhtml+xml"/>
+    <item href="62.html" id="x62" media-type="application/xhtml+xml"/>
+    <item href="63.html" id="x63" media-type="application/xhtml+xml"/>
+    <item href="64.html" id="x64" media-type="application/xhtml+xml"/>
+    <item href="65.html" id="x65" media-type="application/xhtml+xml"/>
+    <item href="66.html" id="x66" media-type="application/xhtml+xml"/>
+    <item href="67.html" id="x67" media-type="application/xhtml+xml"/>
+    <item href="68.html" id="x68" media-type="application/xhtml+xml"/>
+    <item href="69.html" id="x69" media-type="application/xhtml+xml"/>
+    <item href="70.html" id="x70" media-type="application/xhtml+xml"/>
+    <item href="71.html" id="x71" media-type="application/xhtml+xml"/>
+    <item href="72.html" id="x72" media-type="application/xhtml+xml"/>
+    <item href="SONSOZ.html" id="SONSOZ" media-type="application/xhtml+xml"/>
+    <item href="ARKA_KAPAK.html" id="ARKA_KAPAK" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/dk_logo_fmt.png" id="dk_logo_fmt.png" media-type="image/png"/>
+    <item href="images/icon1b_fmt.jpeg" id="icon1b_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/on_D_fmt.jpeg" id="on_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/on_D.jpg" id="on_D.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uvmiIoHCK5TcsaAASpB7EF8" media-type="image/jpeg"/>
+    <item href="fonts/Serif6BetaRgitalic.ttf" id="Serif6BetaRgitalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/Serif12Beta-Roman.ttf" id="Serif12Beta-Roman.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/Serif12BetaRgBold.ttf" id="Serif12BetaRgBold.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="KAPAK"/>
+    <itemref idref="KUNYE"/>
+    <itemref idref="GIRIS"/>
+    <itemref idref="ITHAF"/>
+    <itemref idref="I"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x8"/>
+    <itemref idref="x9"/>
+    <itemref idref="x10"/>
+    <itemref idref="x11"/>
+    <itemref idref="x12"/>
+    <itemref idref="x13"/>
+    <itemref idref="x14"/>
+    <itemref idref="x15"/>
+    <itemref idref="x16"/>
+    <itemref idref="x17"/>
+    <itemref idref="x18"/>
+    <itemref idref="II"/>
+    <itemref idref="x19"/>
+    <itemref idref="x20"/>
+    <itemref idref="x21"/>
+    <itemref idref="x22"/>
+    <itemref idref="x23"/>
+    <itemref idref="x24"/>
+    <itemref idref="x25"/>
+    <itemref idref="x26"/>
+    <itemref idref="x27"/>
+    <itemref idref="x28"/>
+    <itemref idref="x29"/>
+    <itemref idref="x30"/>
+    <itemref idref="x31"/>
+    <itemref idref="x32"/>
+    <itemref idref="x33"/>
+    <itemref idref="x34"/>
+    <itemref idref="x35"/>
+    <itemref idref="x36"/>
+    <itemref idref="x37"/>
+    <itemref idref="x38"/>
+    <itemref idref="x39"/>
+    <itemref idref="x40"/>
+    <itemref idref="x41"/>
+    <itemref idref="x42"/>
+    <itemref idref="III"/>
+    <itemref idref="x43"/>
+    <itemref idref="x44"/>
+    <itemref idref="x45"/>
+    <itemref idref="x46"/>
+    <itemref idref="x47"/>
+    <itemref idref="x48"/>
+    <itemref idref="x49"/>
+    <itemref idref="x50"/>
+    <itemref idref="x51"/>
+    <itemref idref="x52"/>
+    <itemref idref="x53"/>
+    <itemref idref="x54"/>
+    <itemref idref="x55"/>
+    <itemref idref="x56"/>
+    <itemref idref="x57"/>
+    <itemref idref="x58"/>
+    <itemref idref="x59"/>
+    <itemref idref="x60"/>
+    <itemref idref="x61"/>
+    <itemref idref="x62"/>
+    <itemref idref="x63"/>
+    <itemref idref="x64"/>
+    <itemref idref="x65"/>
+    <itemref idref="x66"/>
+    <itemref idref="x67"/>
+    <itemref idref="x68"/>
+    <itemref idref="x69"/>
+    <itemref idref="x70"/>
+    <itemref idref="x71"/>
+    <itemref idref="x72"/>
+    <itemref idref="SONSOZ"/>
+    <itemref idref="ARKA_KAPAK"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

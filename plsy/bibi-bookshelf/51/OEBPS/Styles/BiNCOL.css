@@ -1,0 +1,231 @@
+@font-face {
+    font-family: 'Palantino Linotype';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/PalatinoLTStd-Roman.otf');
+	}
+
+@font-face {
+    font-family: 'Palantino Linotype';
+    font-weight: bold;
+    font-style: normal;
+    src: url('../Fonts/PalatinoLTStd-Bold.otf');
+	}
+
+@font-face {
+    font-family: 'Palantino Linotype' ;
+    font-weight: normal;
+    font-style: italic;
+    src: url('../Fonts/PalatinoLTStd-Italic.otf');
+	}
+
+@font-face {
+    font-family: 'Palantino Linotype';
+    font-weight: bold;
+    font-style: italic;
+    src: url('../Fonts/PalatinoLTStd-BoldItalic.otf');
+	}
+
+h1
+	{
+	margin-top:0em;
+	margin-bottom:0.5em;
+	text-align:right;
+	font-size:1.5em;
+	font-weight:bold;
+	}
+
+h2
+	{
+	margin-top:2em;
+	margin-bottom:2em;
+	text-align:center;
+	font-size:1.5em;
+	font-weight:bold;
+	}
+
+h3
+	{
+	margin-top:1em;
+	margin-bottom:1em;
+	font-weight:normal;
+	text-align:center;
+	font-size:normal;
+	text-indent:0em;
+	}
+
+p
+	{
+	font-family: 'Palantino Linotype', serif;
+	text-align:justify;
+	text-indent:1em;
+	margin-top:0.0em;
+	margin-bottom:0.0em;
+	font-size: medium;
+	}
+.p1
+	{
+	font-family: 'Palantino Linotype', serif;
+	text-indent:0em;
+	}
+
+.kunye
+	{
+	text-align:center;
+	text-indent:0em;
+	margin-top:0em;
+	margin-left:1em;
+	margin-bottom:0em;
+	font-size: 0.7em;
+	}
+
+.pi
+	{
+	text-align:justify;
+	text-indent:1em;
+	margin-top:1em;
+	margin-left:2em;
+	margin-bottom:1em;
+	font-size: small;
+	}
+
+.pi2
+	{
+	text-align:justify;
+	text-indent:0em;
+	margin-top:1em;
+	margin-left:2em;
+	margin-bottom:1em;
+	font-size: small;
+	}
+
+.p2
+	{
+	text-align:justify;
+	text-indent:0em;
+	margin-top:0.3em;
+	margin-bottom:0.3em;
+	font-size: small;
+	}
+
+.p3
+	{
+	text-align:justify;
+	text-indent:1em;
+	margin-top:1em;
+	margin-bottom:1em;
+	margin-left:1em;
+	margin-right:1em;
+	font-size: small;
+	}
+
+.p4
+	{
+	font-family: 'Palantino Linotype', serif;
+	margin-left:2em;
+	text-indent:3em;
+	}
+
+.p5
+	{
+	font-family: 'Palantino Linotype', serif;
+	margin-left:2em;
+	text-indent:0em;
+	}
+
+.yildiz
+	{
+	font-size:1em;
+	margin-top:1em;
+	margin-bottom:1em;
+	text-align:center;
+	}
+
+.baslik
+	{
+	text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:2.0em;
+	margin-top:2em;
+	margin-bottom:2em;
+	}
+
+.baslik2
+	{
+	text-align:center;
+	font-style:bold;
+	font-size:1.5em;
+	text-indent:0em;
+	margin-top:0em;
+	margin-bottom:2em;
+	}
+
+.baslik3
+	{
+	text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:3em;
+	margin-top:1em;
+	margin-bottom:1em;
+	}
+
+.baslik4
+	{
+	text-align:center;
+	font-size:1em;
+	text-indent:0em;
+	margin-top:0em;
+	margin-bottom:0em;
+	}
+
+.baslik5
+	{
+	text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:1.3em;
+	margin-top:0em;
+	margin-bottom:3em;
+	}
+
+.dipnot
+	{
+	text-align:align-left;
+	text-indent:2em;
+	margin-top:1em;
+	margin-bottom:1em;
+	margin-left:2em;
+	}
+
+.border1 
+	{
+	border-top: 0;
+	border-top-color: black;
+	border-top-style: solid;
+	color: black;
+	text-align: justify;
+	padding: 0 4pt;
+	border-top: black solid 1pt;
+	margin-left: 0.7em;
+	margin-right: 0.7em
+	}
+
+.ilkharf
+	{
+	font-size:1.3em;
+	font-style:bold;
+	}
+
+.lettrine 
+	{
+	float: left; 
+	margin: 0 0.5em -0.1em 0.25em; 
+	}
+
+.logo {
+	margin-top:5em;
+	text-indent:0em;
+	text-align:center;
+	}

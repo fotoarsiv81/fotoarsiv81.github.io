@@ -1,0 +1,1714 @@
+@font-face {
+	font-family : Serif12BetaRoman;
+	font-style : normal;
+	font-weight : normal;
+	src : url("fonts/Serif12Beta-Roman.ttf");
+}
+@font-face {
+	font-family : "Serif12 Beta Rg Bold";
+	font-style : normal;
+	font-weight : bold;
+	src : url("fonts/Serif12BetaRgBold.ttf");
+}
+@font-face {
+	font-family : "Serif6 Beta Rg italic";
+	font-style : normal;
+	font-weight : normal;
+	src : url("fonts/Serif6BetaRgitalic.ttf");
+}
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.bolum-ismi {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.duz {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-1 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.ikon {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-2 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.italik {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-3 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dar-paragraf-duz {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-4 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-5 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.italik-1 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-6 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.italik-2 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-7 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.italik-3 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-8 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-9 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-10 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-11 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.italik-4 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-12 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-13 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dar-paragraf-duz-1 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.ana-bolum-basligi {
+	font-family : "Serif12 Beta Rg Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.25em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-14 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-15 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-16 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-17 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-18 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-19 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-20 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dar-paragraf-duz-2 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.italik-5 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-21 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-22 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dar-paragraf-duz-3 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-23 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.italik-6 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-24 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-25 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dipnot-no {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dipnot {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-26 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-27 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dar-paragraf-duz-4 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-28 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dar-paragraf-duz-5 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-29 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.italik-7 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-30 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dar-paragraf-duz-6 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.italik-8 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-31 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.duz-vitamin-ismi {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.58em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-32 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.italik-9 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-33 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dar-paragraf-duz-7 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-34 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-35 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-36 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.italik-10 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-37 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-38 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.k-nye-bold {
+	font-family : "Serif12 Beta Rg Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.79em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.k-nye-regular {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.79em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.k-nye-kitap-ad- {
+	font-family : "Serif12 Beta Rg Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-39 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.DK-logo {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.yazar-ismi {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.kitap-ismi-2 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.42em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.ceviren {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-40 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-41 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dar-paragraf-duz-8 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-42 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-43 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dar-paragraf-duz-9 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-44 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-45 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-46 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.italik-11 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-47 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dar-paragraf-duz-10 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-48 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-49 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dar-paragraf-duz-11 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.italik-12 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-50 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-51 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-52 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dipnot-no-1 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dipnot-1 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-53 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.duz-vitamin-ismi-1 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.58em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-54 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dar-paragraf-duz-12 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.duz-vitamin-ismi-2 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.58em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-55 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.italik-13 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-56 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.bolum-ismi-57 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+p.duz {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 14px;
+	margin : 9px 3px 6px 3px;
+}
+p.bolum-ismi {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 142px 3px 57px 3px;
+}
+p.ikon {
+	font-family : "HelveticaNeueLT Std Cn", sans-serif;
+	font-stretch : condensed;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 10px 17px 50px 17px;
+}
+p.duz-son-paragraf-2 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 14px;
+	margin : 9px 3px 113px 3px;
+}
+p.alinti {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 0px 28px;
+}
+p.alinti-ilk-paragraf {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 22px 28px 0px 28px;
+}
+p.alinti-son-paragraf {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 20px 28px;
+}
+p.duz-ilk-paragraf {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 14px;
+	margin : 30px 3px 6px 3px;
+}
+p.alinti-1 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 0px 28px;
+}
+p.alinti-ilk-paragraf-1 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 22px 28px 0px 28px;
+}
+p.alinti-son-paragraf-1 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 20px 28px;
+}
+p.duz-ilk-paragraf-1 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 14px;
+	margin : 30px 3px 6px 3px;
+}
+p.bolum-ismi-2-satir {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 9px 3px 57px 3px;
+}
+p.alinti-ilk-paragraf-2 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 22px 28px 0px 28px;
+}
+p.alinti-son-paragraf-2 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 20px 28px;
+}
+p.duz-ilk-paragraf-2 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 14px;
+	margin : 30px 3px 6px 3px;
+}
+p.alinti-2 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 0px 28px;
+}
+p.alinti-ilk-paragraf-3 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 22px 28px 0px 28px;
+}
+p.alinti-son-paragraf-3 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 20px 28px;
+}
+p.dipnotlar {
+	font-family : "Gill Regular", sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.18;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.duz-son-paragraf-2-1 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 14px;
+	margin : 9px 3px 113px 3px;
+}
+p.alinti-3 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 0px 28px;
+}
+p.alinti-ilk-paragraf-4 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 22px 28px 0px 28px;
+}
+p.alinti-son-paragraf-4 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 20px 28px;
+}
+p.alinti-4 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 0px 28px;
+}
+p.alinti-ilk-paragraf-5 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 22px 28px 0px 28px;
+}
+p.alinti-son-paragraf-5 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 20px 28px;
+}
+p.duz-sagdan-blok-yakin {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : right;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px 3px;
+}
+p.duz-sagdan-blok-altta-bosluk {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : right;
+	color : #000000;
+	text-indent : 14px;
+	margin : 6px 3px 28px 3px;
+}
+p.alinti-ilk-paragraf-6 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 22px 28px 0px 28px;
+}
+p.duz-ilk-paragraf-3 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 14px;
+	margin : 30px 3px 6px 3px;
+}
+p.alinti-5 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 0px 28px;
+}
+p.alinti-ilk-paragraf-7 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 22px 28px 0px 28px;
+}
+p.alinti-son-paragraf-6 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 20px 28px;
+}
+p.duz-sagdan-blok-yakin-1 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : right;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px 3px;
+}
+p.duz-sagdan-blok-altta-bosluk-1 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : right;
+	color : #000000;
+	text-indent : 14px;
+	margin : 6px 3px 28px 3px;
+}
+p.duz-ilk-paragraf-4 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 14px;
+	margin : 30px 3px 6px 3px;
+}
+p.diger-kitaplar-listesi {
+	font-family : GillSans, sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 3px 0px 3px;
+}
+p.kitap-ismi-1 {
+	font-family : "Serif12 Beta Rg Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 14px 3px 0px 3px;
+}
+p.kunye-yeni-madde {
+	font-family : GillSans, sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 14px 3px 0px 3px;
+}
+p.kunye-yeni-madde-devam {
+	font-family : GillSans, sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 3px;
+}
+p.yazar-ad- {
+	font-family : "Serif12 Beta Rg Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 28px 3px 156px 3px;
+}
+p.DK-logo {
+	font-family : "Serif12 Beta Rg Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 3px;
+}
+p.kitap-ismi-2-son {
+	font-family : "Serif12 Beta Rg Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.43;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 6px 3px 57px 3px;
+}
+p.yazar-ismi-1 {
+	font-family : "Serif12 Beta Rg Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 3px 6px 3px;
+}
+p.alinti-6 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 0px 28px;
+}
+p.alinti-ilk-paragraf-8 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 22px 28px 0px 28px;
+}
+p.alinti-son-paragraf-7 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 20px 28px;
+}
+p.bold-ortali-4 {
+	font-family : "Serif12 Beta Rg Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 70px 3px 10px 3px;
+}
+p.alinti-ilk-paragraf-9 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 22px 28px 0px 28px;
+}
+p.duz-ilk-paragraf-5 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 14px;
+	margin : 30px 3px 6px 3px;
+}
+p.alinti-7 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 0px 28px;
+}
+p.alinti-ilk-paragraf-10 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 22px 28px 0px 28px;
+}
+p.alinti-son-paragraf-8 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 3px 28px 20px 28px;
+}
+p.dipnotlar-1 {
+	font-family : "Gill Regular", sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.18;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.duz-son-paragraf-2-2 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 14px;
+	margin : 9px 3px 113px 3px;
+}
+p.alinti-ilk-paragraf-11 {
+	font-family : Serif12BetaRoman, serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 22px 28px 0px 28px;
+}
+p.duz-ilk-paragraf-6 {
+	font-family : "Serif6 Beta Rg italic", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.88em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 14px;
+	margin : 30px 3px 6px 3px;
+}
+p.para-style-override-1 {
+	text-align : center;
+	margin-top : 0em;
+	margin-bottom : 0em;
+}
+div.Basic-Graphics-Frame {
+}
+div.Basic-Graphics-Frame-1 {
+}

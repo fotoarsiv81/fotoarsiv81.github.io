@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="tr-TR" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{E8FC4DD3-9D29-42D4-AC64-B4882391F5A2}" name="uid"/>
+  </head>
+  <docTitle>
+    <text>Untitled.FR12</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="{68360607-493B-4275-A583-A08551394CD4}" playOrder="1">
+      <navLabel>
+        <text>SADİST</text>
+      </navLabel>
+      <content src="Text/main.xhtml#caption1"/>
+    </navPoint>
+    <navPoint id="{7A428049-A2E0-48A7-A469-BCD20A5C808D}" playOrder="2">
+      <navLabel>
+        <text>"Baba, ben doydum. Bu ikinci porsiyonum."</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml"/>
+    </navPoint>
+    <navPoint id="{844E1A59-ED30-47C2-A488-1C95D840E743}" playOrder="3">
+      <navLabel>
+        <text>"Nerede yaşıyorsun sen?"</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml"/>
+    </navPoint>
+    <navPoint id="{5B3F5C3B-6542-4FCD-B0CD-E43D64EFA9FB}" playOrder="4">
+      <navLabel>
+        <text>Başka bir şey daha vardı. Sam, koparılmış organın</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml"/>
+    </navPoint>
+    <navPoint id="{03451FE4-F7B5-4481-B3B0-1B6574813AFE}" playOrder="5">
+      <navLabel>
+        <text>"Bir şey fark etmeyecektir," demişti Susan, Ben ne</text>
+      </navLabel>
+      <content src="Text/main-4.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

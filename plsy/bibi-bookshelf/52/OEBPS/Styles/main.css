@@ -1,0 +1,150 @@
+.cevirennot {
+  color: #007400;
+}
+hr {
+  margin: 1em auto;
+  border: none;
+  text-align: center;
+}
+hr:after {
+  content: "* * *";
+  font-size: 0.8em;
+}
+/*----H----*/
+h1 {
+  font: normal normal 1em/1.2em "BerkeleyBlackE";
+  margin-top: 2em;
+  margin-bottom: 4em;
+  text-align: center;
+}
+.yazar, .seri {
+  margin: 2em 2em 0 2em;
+}
+/*----Künye----*/
+div.copyright {
+  font: normal normal 0.751em "Berkeley";
+  margin-top: 4em;
+  margin-left: 2em;
+}
+div.copyright > p.crt:last-child {
+  margin-bottom: 0;
+}
+p.crt {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  margin-left: 0;
+  text-indent: 0;
+}
+/*Titlepage*/
+.center {
+  text-align: center;
+  text-indent: 0;
+}
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+.picture {
+  page-break-inside: avoid;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+.picture img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.t-1 {
+  font: normal bold 1.13em "Berkeley";
+  margin: 1em auto 1.5em auto;
+}
+.t-2 {
+  font: normal bold 1.5em "Berkeley";
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+}
+.t-3 {
+  font: normal normal 0.75em "Berkeley";
+}
+.logo {
+  margin: 7em auto 0 auto;
+}
+.logo img {
+  width: 110px;
+}
+.kunyelogo {
+  margin-top: 1em;
+  width: 70px;
+}
+img.dropcap {
+  /*float: left;
+  margin: 0;
+  padding-right: 0.5em;*/
+	display:inline;
+	padding-right: .1em;
+	height:100px;
+}
+img.dropcap1 {
+  float: left;
+  margin: 0;
+  padding-right: 0.5em;
+}
+/*----P----*/
+p {
+  font-family: "Berkeley";
+  font-size: 0.93em;
+  margin: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.nonindent {
+  text-indent: 0;
+}
+.extract {
+  margin-top: 1em;
+}
+.seri, .yazar p{
+	font-size:.75em;
+}
+/******FOOTNOTE******/
+.footnote {
+  font-family: "Berkeley";
+  font-size: 0.851em;
+  margin-bottom: 0.25em;
+  text-align: justify;
+  text-indent: 0;
+}
+.backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  /*ipad için*/-webkit-text-fill-color: #000;
+  color: #000;
+  font-size: 1.1em;
+}
+/*****FONT*****/
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/BerkeleyBoldE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyItaE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyMediumE.ttf);
+  }
+@font-face {
+  font-family: "BerkeleyBlackE";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyBlackE.ttf);
+  }

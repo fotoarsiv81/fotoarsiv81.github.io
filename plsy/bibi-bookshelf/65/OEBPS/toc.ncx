@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="eaee6ea3-d07c-4d1b-bab3-6d2e6a6bbe3c" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Iskemlede Bes Ceset - Agatha Christie</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İskemlede Beş Ceset</text>
+      </navLabel>
+      <content src="Text/index_000.html#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BİR, İKİ, AYAKKABIMIN TOKASINI TAK</text>
+      </navLabel>
+      <content src="Text/Section0003.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/Section0003.html#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/Section0004.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/Section0005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/Section0006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>ÜÇ, DÖRT, KAPIYI KAPAT</text>
+      </navLabel>
+      <content src="Text/Section0008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/Section0008.html#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/Section0009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/Section0010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/Section0011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>BEŞ, ALTI, ÇOMAKLARI AL</text>
+      </navLabel>
+      <content src="Text/Section0018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/Section0018.html#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/Section0019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/Section0020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="Text/Section0023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="Text/Section0024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>VIII</text>
+      </navLabel>
+      <content src="Text/Section0025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>IX</text>
+      </navLabel>
+      <content src="Text/Section0026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>YEDİ, SEKİZ, ONLARI DÜZGÜN KOY</text>
+      </navLabel>
+      <content src="Text/Section0027.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/Section0027.html#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/Section0028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/Section0029.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/Section0030.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="Text/Section0031.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="Text/Section0032.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="Text/Section0033.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>DOKUZ, ON, BESİLİ BİR TAVUK</text>
+      </navLabel>
+      <content src="Text/Section0034.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/Section0034.html#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/Section0035.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/Section0036.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/Section0037.html"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="Text/Section0038.html"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="Text/Section0039.html"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>ON BİR, ON İKİ, İNSANLAR İNCELEMELİ</text>
+      </navLabel>
+      <content src="Text/Section0040.html"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/Section0040.html#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/Section0041.html"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/Section0042.html"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/Section0043.html"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>ON ÜÇ, ON DÖRT, KIZLAR FLÖRT EDİYOR</text>
+      </navLabel>
+      <content src="Text/Section0046.html"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/Section0046.html#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/Section0047.html"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/Section0048.html"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/Section0049.html"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>ON BEŞ, ON ALTI, KIZLAR MUTFAKTA</text>
+      </navLabel>
+      <content src="Text/Section0050.html"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/Section0050.html#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/Section0051.html"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/Section0052.html"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/Section0053.html"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>ON DOKUZ, YİRMİ, KIZLAR BEKLİYOR</text>
+      </navLabel>
+      <content src="Text/Section0054.html"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/Section0054.html#sigil_toc_id_10"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>ON DOKUZ, YİRMİ, TABAĞIM BOŞALDI</text>
+      </navLabel>
+      <content src="Text/Section0055.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

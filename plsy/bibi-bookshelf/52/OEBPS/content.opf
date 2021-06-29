@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sıradan Bir Cinayet</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Capek, Karel">Karel Capek</dc:creator>
+    <dc:date>2009-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Okuyan Us Yayınevi</dc:publisher>
+    <dc:identifier id="uuid">{C44A8D3E-DB47-43DE-8DDC-17259E04EB98}</dc:identifier>
+    <dc:date opf:event="modification">2017-01-25</dc:date>
+    <dc:description>&lt;div&gt;&lt;p style="margin: 6px 0px;"&gt;"Sokakta yürüyen her insan gizemlidir&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;Karel Capek'in, suç olgusunu ve suçlunun doğasını soruşturan öyküleri, en popüler edebiyat dallarından olan polisiyenin sınırlarını aşıyor.&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;Robot kelimesini Capek'e borçluyuz. Mistik ve garip dünyasıyla birlikte, suçta, çözümden daha karmaşık bir şeyler olduğunu göreceğiz.&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;Dünya edebiyatının daha önce Türkçeye çevrilmemiş, daha önce karşılaşmadığımız tatları sunan özel eserlerini bir araya getiren Ex Libris dizimizin bu 4. Kitabı..."-Tanıtım&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">39553a12-92de-49ed-8dcb-ee9505042ed3</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786054054374</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09.xhtml" href="Text/09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10.xhtml" href="Text/10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11.xhtml" href="Text/11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12.xhtml" href="Text/12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13.xhtml" href="Text/13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14.xhtml" href="Text/14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x15.xhtml" href="Text/15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x16.xhtml" href="Text/16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="seri.xhtml" href="Text/seri.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id18" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id17" href="Styles/main.css" media-type="text/css"/>
+    <item id="b.png" href="Images/b.png" media-type="image/png"/>
+    <item id="d.png" href="Images/d.png" media-type="image/png"/>
+    <item id="exlibrislogo.png" href="Images/exlibrislogo.png" media-type="image/png"/>
+    <item id="h.png" href="Images/h.png" media-type="image/png"/>
+    <item id="logo.png" href="Images/logo.png" media-type="image/png"/>
+    <item id="tirnakb.png" href="Images/tirnakb.png" media-type="image/png"/>
+    <item id="tirnakd.png" href="Images/tirnakd.png" media-type="image/png"/>
+    <item id="tirnake.png" href="Images/tirnake.png" media-type="image/png"/>
+    <item id="tirnakh.png" href="Images/tirnakh.png" media-type="image/png"/>
+    <item id="tirnakr.png" href="Images/tirnakr.png" media-type="image/png"/>
+    <item id="tirnaks.png" href="Images/tirnaks.png" media-type="image/png"/>
+    <item id="yazar.jpg" href="Images/yazar.jpg" media-type="image/jpeg"/>
+    <item id="BerkeleyBlackE.ttf" href="Fonts/BerkeleyBlackE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id18">
+    <itemref idref="titlepage"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="seri.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

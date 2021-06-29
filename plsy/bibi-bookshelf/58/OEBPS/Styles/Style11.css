@@ -1,0 +1,200 @@
+h1
+	{
+	margin-top:3em;
+	margin-bottom:1em;
+	text-align:center;
+	font-size:1.5em;
+	font-weight:bold;
+	}
+
+h2
+	{
+	margin-top:2em;
+	margin-bottom:2em;
+	text-align:center;
+	font-size:1.5em;
+	font-weight:bold;
+	}
+
+h3
+	{
+	margin-top:1em;
+	margin-bottom:1em;
+	font-weight:normal;
+	text-align:center;
+	font-size:normal;
+	text-indent:0em;
+	}
+
+p
+	{
+	text-align:justify;
+	text-indent:1em;
+	margin-top:0.0em;
+	margin-bottom:0.5em;
+	font-size: medium;
+	line-height: 120%;
+	}
+.px
+	{
+	text-align:justify;
+	text-indent:0em;
+	margin-top:0.3em;
+	margin-bottom:0.3em;
+	font-size:2.5em;
+	font-weight: bold;
+	}
+
+.p1
+	{
+	text-indent:0em;
+	}
+
+.kunye
+	{
+	text-align:center;
+	text-indent:0em;
+	margin-top:0em;
+	margin-left:1em;
+	margin-bottom:0em;
+	font-size: 0.8em;
+	}
+
+.pi
+	{
+	text-align:justify;
+	text-indent:5em;
+	margin-top:1em;
+	margin-left:2em;
+	margin-bottom:1em;
+	font-size: medium;
+	}
+
+.pi2
+	{
+	text-align:justify;
+	text-indent:0em;
+	margin-top:1em;
+	margin-left:2em;
+	margin-bottom:1em;
+	font-size: medium;
+	}
+
+.p2
+	{
+	text-align:justify;
+	margin-top:0.5em;
+	margin-bottom:0.5em;
+	font-size: medium;
+	text-indent:0;
+	margin-left:5em;
+	margin-right:5em;
+
+	}
+
+.p3
+	{
+	text-align:justify;
+	text-indent:1em;
+	margin-top:1em;
+	margin-bottom:1em;
+	margin-left:1em;
+	margin-right:1em;
+	font-size: small;
+	}
+
+.yildiz
+	{
+	font-size:2em;
+	margin-top:1em;
+	margin-bottom:1em;
+	text-align:center;
+	}
+
+.baslik
+	{
+	text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:2.0em;
+	margin-top:2em;
+	margin-bottom:2em;
+	}
+
+.baslik2
+	{
+	text-align:center;
+	font-style:bold;
+	font-size:1.5em;
+	text-indent:0em;
+	margin-top:4em;
+	margin-bottom:2em;
+	}
+
+.baslik3
+	{
+	text-align:left;
+	font-style:italic;
+	text-indent:1em;
+	font-size:1em;
+	margin-top:1em;
+	margin-bottom:1em;
+	}
+
+.baslik4
+	{
+	font-style:bold;
+	text-align:center;
+	font-size:1em;
+	text-indent:0em;
+	margin-top:1em;
+	margin-bottom:1em;
+	}
+
+.baslik5
+	{
+	text-align:center;
+	font-style:bold;
+	text-indent:0em;
+	font-size:1.3em;
+	margin-top:0em;
+	margin-bottom:3em;
+	}
+
+.dipnot
+	{
+	text-align:align-left;
+	text-indent:2em;
+	margin-top:1em;
+	margin-bottom:1em;
+	margin-left:2em;
+	}
+
+.border1 
+	{
+	border-top: 0;
+	border-top-color: black;
+	border-top-style: solid;
+	color: black;
+	text-align: justify;
+	padding: 0 4pt;
+	border-top: black solid 1pt;
+	margin-left: 0.7em;
+	margin-right: 0.7em
+	}
+
+.ilkharf
+	{
+	text-align:justify;
+	text-indent:0em;
+	margin-top:0.0em;
+	font-size:2.5em;
+	font-weight: bold;
+	
+	}
+
+.lettrine 
+	{
+	float: left; 
+	margin: 0 0.5em -0.1em 0.25em; 
+	}

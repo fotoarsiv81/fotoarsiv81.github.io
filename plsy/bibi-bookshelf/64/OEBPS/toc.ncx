@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="AWP-38A04607-65F1-4B7C-95AF-BE64CEF7E1C1" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Miss Marple'ın Son Maceraları</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Tapınak</text>
+      </navLabel>
+      <content src="Text/2.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Tuhaf Bir Şaka</text>
+      </navLabel>
+      <content src="Text/3.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Mezura Olayı</text>
+      </navLabel>
+      <content src="Text/4.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Kâhya Kadın</text>
+      </navLabel>
+      <content src="Text/5.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Kusursuz Hizmetçi</text>
+      </navLabel>
+      <content src="Text/6.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Miss Marple Bir Öykü Anlatıyor</text>
+      </navLabel>
+      <content src="Text/7.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Terzinin Bebeği</text>
+      </navLabel>
+      <content src="Text/8.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Karanlık Sularda</text>
+      </navLabel>
+      <content src="Text/9.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

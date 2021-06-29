@@ -1,0 +1,16 @@
+body{margin:0}
+p{text-indent:1em;margin-left:0;;margin-right:0;text-align:justify;margin-top:.5em;margin-bottom:.5em}
+.p0{text-indent:1.3em;text-align:center;margin-top:0;margin-bottom:0}
+.p1{text-indent:1.3em;text-align:center}
+.p2{text-indent:1.3em;line-height:120%}
+.p4{text-indent:0}
+h1{text-indent:1.1em;margin-left:0;line-height:115%;margin-right:0;text-align:justify;page-break-after:avoid;margin-top:.38em;margin-bottom:1.1em;font-family:"Constantia",sans-serif;font-size:145%;font-weight:bold}
+.h11{text-indent:0}
+h2{text-indent:1.2em;margin-left:0;line-height:115%;margin-right:0;page-break-after:avoid;margin-top:2.1em;margin-bottom:.43em;font-family:"Constantia",sans-serif;font-size:127%;font-weight:bold;font-style:italic}
+.h21{text-indent:0}
+.t1{font-size:.92em;line-height:130%;letter-spacing:.021em}
+.t4{font-weight:bold}
+.t5{font-size:1.2em;line-height:130%;font-weight:bold}
+.th11{font-family:Constantia,serif}
+.th21{font-family:Constantia,serif}
+.th22{font-family:Constantia,serif;font-style:normal}

@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Miras</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Aysu, Osman">Osman Aysu</dc:creator>
+    <dc:publisher>İnkılap Yayınevi</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:ea6d03a5-9352-46de-a7df-b7bdfa4498a5</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-01-26</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">e66e7e21-b20c-4a6f-93d7-1b8610f96cbc</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="x203.png"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Miras"/>
+    <meta name="calibre:author_link_map" content="{&quot;Osman Aysu&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Osman Aysu - Miras-1.xhtml" id="Osman-Aysu---Miras-1" media-type="application/xhtml+xml"/>
+    <item href="Text/Osman Aysu - Miras-4.xhtml" id="Osman-Aysu---Miras-4" media-type="application/xhtml+xml"/>
+    <item href="Text/Osman Aysu - Miras-5.xhtml" id="Osman-Aysu---Miras-5" media-type="application/xhtml+xml"/>
+    <item href="Text/Osman Aysu - Miras-6.xhtml" id="Osman-Aysu---Miras-6" media-type="application/xhtml+xml"/>
+    <item href="Text/Osman Aysu - Miras-7.xhtml" id="Osman-Aysu---Miras-7" media-type="application/xhtml+xml"/>
+    <item href="Text/Osman Aysu - Miras-8.xhtml" id="Osman-Aysu---Miras-8" media-type="application/xhtml+xml"/>
+    <item href="Text/Osman Aysu - Miras-9.xhtml" id="Osman-Aysu---Miras-9" media-type="application/xhtml+xml"/>
+    <item href="Text/Osman Aysu - Miras-10.xhtml" id="Osman-Aysu---Miras-10" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="Osman-Aysu---Miras3.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="x203.png" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Osman-Aysu---Miras-1"/>
+    <itemref idref="Osman-Aysu---Miras-4"/>
+    <itemref idref="Osman-Aysu---Miras-5"/>
+    <itemref idref="Osman-Aysu---Miras-6"/>
+    <itemref idref="Osman-Aysu---Miras-7"/>
+    <itemref idref="Osman-Aysu---Miras-8"/>
+    <itemref idref="Osman-Aysu---Miras-9"/>
+    <itemref idref="Osman-Aysu---Miras-10"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

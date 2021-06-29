@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sadist</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Burley, John">John Burley</dc:creator>
+    <dc:identifier id="uuid">{465979C1-E2B2-41E0-B62E-532F2F9676A2}</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Panama Yayıncılık</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (3.6.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">305a5a32-d7b3-478b-b66b-90ab90ba0020</dc:identifier>
+    <meta content="0.9.7" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Sadist"/>
+    <meta name="calibre:author_link_map" content="{&quot;John Burley&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id0" href="Text/main.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id2" href="Text/main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id3" href="Text/main-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id4" href="Text/main-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id5" href="Text/main-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id7" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

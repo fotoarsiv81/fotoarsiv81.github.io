@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Aysu, Osman">Osman Aysu</dc:creator>
+<dc:identifier id="BookId">AWP-B2DFFAE1-E3ED-4671-97D1-DC4FD31F21EF</dc:identifier>
+    <dc:date>2014-01-06T22:00:00+00:00</dc:date>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-04-16</dc:date>
+  <dc:title>Gölgede Kalan Sırlar</dc:title>
+<meta name="calibre:title_sort" content="Gölgede Kalan Sırlar"/>
+<dc:publisher>Etna</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Macera</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Aksiyon</dc:subject>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; "&gt;Genç bir kız vahşi bir cinayete kurban gider. Üstelik görünürde öldürülmesi için hiçbir neden yoktur. Zengin, eğitimli, aklı başında ve güzel biridir. Yardımseverliği ve sevecenliğiyle herkesin gönlünde taht kurmuştur. Peki, neden öldürülmüştür? &lt;/span&gt;&lt;br style="text-align: start; text-indent: 0px; "&gt;&lt;br style="text-align: start; text-indent: 0px; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; "&gt;Cinayetin gizeminin izini süren Komiser Barış, kanlı ayak izlerini takip ettikçe "Gölgede Kalan Sırlar"a adım adım yaklaşır…&lt;/span&gt;&lt;br style="text-align: start; text-indent: 0px; "&gt;&lt;br style="text-align: start; text-indent: 0px; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; "&gt;Polisiye-gerilim kitaplarının duayeni kabul edilen Osman Aysu, okurlarının kahramanıyla özdeşleşip bir cinayetin üzerindeki sır perdesini kaldırma heyecanını canlı anlatımıyla yaşatıyor. Hazırsanız, takip etmeniz gereken ipuçları sizi bekliyor…&lt;/span&gt;&lt;br style="text-align: start; text-indent: 0px; "&gt;&lt;br style="text-align: start; text-indent: 0px; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; "&gt;"Ağır ve temkinli adımlarla basamakları indi. Alt katın salonunda verandaya açılan geniş camlı bölmeye doğru yürüdü. Perdeler sıkı sıkıya kapanmıştı. Duvardaki apliklerin aydınlattığı yarı loş ortamda boş nazarlarla etrafına bakındı. Görünürde hiçbir şey yoktu; her şey yukarıya çıktığındaki gibi sakin ve normaldi. Ne var ki, sebepsiz ürküntüsü onu şaşırtmaya ve rahatsız etmeye devam ediyor, kalbinden çok beyninden kaynaklanan bir içgüdünün etkisiyle garip bir beklenti içinde hareket ettiğini hissediyordu…"&lt;/span&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Osman Aysu&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">79d0130c-2d69-4eb2-bc4e-48894078df51</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Styles/cover.css" id="coverstyle" media-type="text/css"/>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id001" linear="no"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+  </spine>
+  <guide>
+    <reference href="Text/001.html" title="Cover" type="cover"/>
+  </guide>
+</package>

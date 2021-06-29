@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+<head>
+<meta content="AWP-B2DFFAE1-E3ED-4671-97D1-DC4FD31F21EF" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Gölgede Kalan Sırlar</text>
+</docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel>
+<text>Title page</text>
+</navLabel>
+<content src="Text/001.html"/>
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel>
+<text>BİRİNCİ BÖLÜM</text>
+</navLabel>
+<content src="Text/002.html#ncx2"/>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel>
+<text>1</text>
+</navLabel>
+<content src="Text/002.html#ncx3"/>
+</navPoint>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel>
+<text>2</text>
+</navLabel>
+<content src="Text/002.html#ncx86"/>
+</navPoint>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel>
+<text>3</text>
+</navLabel>
+<content src="Text/002.html#ncx118"/>
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel>
+<text>4</text>
+</navLabel>
+<content src="Text/002.html#ncx513"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel>
+<text>İKİNCİ BÖLÜM</text>
+</navLabel>
+<content src="Text/003.html#ncx674"/>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel>
+<text>1</text>
+</navLabel>
+<content src="Text/003.html#ncx675"/>
+</navPoint>
+<navPoint id="navpoint-9" playOrder="9">
+<navLabel>
+<text>2</text>
+</navLabel>
+<content src="Text/003.html#ncx819"/>
+</navPoint>
+<navPoint id="navpoint-10" playOrder="10">
+<navLabel>
+<text>3</text>
+</navLabel>
+<content src="Text/003.html#ncx1004"/>
+</navPoint>
+<navPoint id="navpoint-11" playOrder="11">
+<navLabel>
+<text>4</text>
+</navLabel>
+<content src="Text/003.html#ncx1056"/>
+</navPoint>
+<navPoint id="navpoint-12" playOrder="12">
+<navLabel>
+<text>5</text>
+</navLabel>
+<content src="Text/003.html#ncx1241"/>
+</navPoint>
+<navPoint id="navpoint-13" playOrder="13">
+<navLabel>
+<text>6</text>
+</navLabel>
+<content src="Text/003.html#ncx1363"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-14" playOrder="14">
+<navLabel>
+<text>ÜÇÜNCÜ BÖLÜM</text>
+</navLabel>
+<content src="Text/004.html#ncx1465"/>
+<navPoint id="navpoint-15" playOrder="15">
+<navLabel>
+<text>1</text>
+</navLabel>
+<content src="Text/004.html#ncx1466"/>
+</navPoint>
+<navPoint id="navpoint-16" playOrder="16">
+<navLabel>
+<text>2</text>
+</navLabel>
+<content src="Text/004.html#ncx1574"/>
+</navPoint>
+<navPoint id="navpoint-17" playOrder="17">
+<navLabel>
+<text>3</text>
+</navLabel>
+<content src="Text/004.html#ncx1650"/>
+</navPoint>
+<navPoint id="navpoint-18" playOrder="18">
+<navLabel>
+<text>4</text>
+</navLabel>
+<content src="Text/004.html#ncx1723"/>
+</navPoint>
+<navPoint id="navpoint-19" playOrder="19">
+<navLabel>
+<text>5</text>
+</navLabel>
+<content src="Text/004.html#ncx1831"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-20" playOrder="20">
+<navLabel>
+<text>DÖRDÜNCÜ BÖLÜM</text>
+</navLabel>
+<content src="Text/005.html#ncx1979"/>
+<navPoint id="navpoint-21" playOrder="21">
+<navLabel>
+<text>1</text>
+</navLabel>
+<content src="Text/005.html#ncx1980"/>
+</navPoint>
+<navPoint id="navpoint-22" playOrder="22">
+<navLabel>
+<text>2</text>
+</navLabel>
+<content src="Text/005.html#ncx2078"/>
+</navPoint>
+<navPoint id="navpoint-23" playOrder="23">
+<navLabel>
+<text>3</text>
+</navLabel>
+<content src="Text/005.html#ncx2211"/>
+</navPoint>
+<navPoint id="navpoint-24" playOrder="24">
+<navLabel>
+<text>4</text>
+</navLabel>
+<content src="Text/005.html#ncx2413"/>
+</navPoint>
+<navPoint id="navpoint-25" playOrder="25">
+<navLabel>
+<text>5</text>
+</navLabel>
+<content src="Text/005.html#ncx2701"/>
+</navPoint>
+</navPoint>
+</navMap>
+</ncx>

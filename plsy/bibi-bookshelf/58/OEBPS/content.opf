@@ -1,0 +1,109 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sona Kalan</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Gerritsen, Tess">Tess Gerritsen</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:00de9ddf-7ad7-41a1-88c2-1adc6f59fc31</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:type>Polisiye-Gerilim</dc:type>
+    <dc:relation>Ayhan Hocha</dc:relation>
+    <dc:publisher>Martı Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.85.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">3b275e26-289f-475d-825c-93e2d6dd6abe</dc:identifier>
+    <meta content="0.8.6" name="Sigil version"/>
+    <meta name="cover" content="Sona_Kalan.jpg"/>
+    <meta name="calibre:title_sort" content="Sona Kalan"/>
+    <meta name="calibre:author_link_map" content="{&quot;Tess Gerritsen&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Tess Gerritsen - sona kalan.htm" id="Tess_Gerritsen_-_sona_kalan.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0035.htm" id="Section0035.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.htm" id="Section0002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.htm" id="Section0003.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.htm" id="Section0004.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.htm" id="Section0005.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.htm" id="Section0006.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.htm" id="Section0007.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.htm" id="Section0008.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.htm" id="Section0009.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.htm" id="Section0010.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.htm" id="Section0011.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.htm" id="Section0012.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.htm" id="Section0013.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.htm" id="Section0014.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.htm" id="Section0015.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.htm" id="Section0016.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.htm" id="Section0017.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.htm" id="Section0018.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0019.htm" id="Section0019.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0020.htm" id="Section0020.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0021.htm" id="Section0021.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0022.htm" id="Section0022.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0023.htm" id="Section0023.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0024.htm" id="Section0024.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0025.htm" id="Section0025.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0026.htm" id="Section0026.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0027.htm" id="Section0027.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0028.htm" id="Section0028.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0029.htm" id="Section0029.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0030.htm" id="Section0030.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0031.htm" id="Section0031.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0032.htm" id="Section0032.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0033.htm" id="Section0033.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0034.htm" id="Section0034.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0036.htm" id="Section0036.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Styles/Style11.css" id="Style11.css" media-type="text/css"/>
+    <item href="Images/SonaKalan.jpg" id="Sona_Kalan.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Tess_Gerritsen_-_sona_kalan.htm"/>
+    <itemref idref="Section0035.htm"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="Section0002.htm"/>
+    <itemref idref="Section0003.htm"/>
+    <itemref idref="Section0004.htm"/>
+    <itemref idref="Section0005.htm"/>
+    <itemref idref="Section0006.htm"/>
+    <itemref idref="Section0007.htm"/>
+    <itemref idref="Section0008.htm"/>
+    <itemref idref="Section0009.htm"/>
+    <itemref idref="Section0010.htm"/>
+    <itemref idref="Section0011.htm"/>
+    <itemref idref="Section0012.htm"/>
+    <itemref idref="Section0013.htm"/>
+    <itemref idref="Section0014.htm"/>
+    <itemref idref="Section0015.htm"/>
+    <itemref idref="Section0016.htm"/>
+    <itemref idref="Section0017.htm"/>
+    <itemref idref="Section0018.htm"/>
+    <itemref idref="Section0019.htm"/>
+    <itemref idref="Section0020.htm"/>
+    <itemref idref="Section0021.htm"/>
+    <itemref idref="Section0022.htm"/>
+    <itemref idref="Section0023.htm"/>
+    <itemref idref="Section0024.htm"/>
+    <itemref idref="Section0025.htm"/>
+    <itemref idref="Section0026.htm"/>
+    <itemref idref="Section0027.htm"/>
+    <itemref idref="Section0028.htm"/>
+    <itemref idref="Section0029.htm"/>
+    <itemref idref="Section0030.htm"/>
+    <itemref idref="Section0031.htm"/>
+    <itemref idref="Section0032.htm"/>
+    <itemref idref="Section0033.htm"/>
+    <itemref idref="Section0034.htm"/>
+    <itemref idref="Section0036.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="İçindekiler" type="toc"/>
+  </guide>
+</package>

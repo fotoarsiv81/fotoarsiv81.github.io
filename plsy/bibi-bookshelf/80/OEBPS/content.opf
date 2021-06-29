@@ -1,0 +1,81 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Allende, Isabel">Isabel Allende</dc:creator>
+<dc:identifier id="uuid">{0000A437-45E6-72A0-F9ED-77B44F2B692A}</dc:identifier>
+    <dc:date>2001-10-19T21:00:00+00:00</dc:date>
+    <meta name="cover" content="cover-image"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Ruhlar Evi" name="calibre:title_sort"/>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;Şili'nin seçimle iş başına gelen, askeri bir darbeyle devrilip öldürülen Marksist başkanı Salvador Allende'nin son saatleri nasıl geçti? Nobel ödüllü büyük şair Pablo Neruda'nın cenaze töreni, faşist diktatör Pinochet'nin onca baskısına karşın, nasıl bir gösteriye dönüştü? Clara del Valle neden dokuz yıl konuşmadı ve öldüğü zaman nasıl oldu da annesinin kesik başıyla birlikte gömüldü? Bunlar, Isabel Allende'nin bu romanında yer verdiği ilginç olaylardan bazıları. Isabel Allende, Latin Amerika'nın yetiştirdiği en büyük romancılardan biri. Ruhlar Evi adlı bu ilk romanında, bir ailenin üç kuşağını, yetmiş yıllık bir süreç içinde, Márquez'e yaklaşan bir ustalıkla dile getiriyor. Romanda, yaşayan kişilerle geçmişin ruhları iç içe. Latin Amerika edebiyatının büyülü gerçekçilik geleneği, bu romanda da bütün görkemiyle hüküm sürüyor. Sınırsız bir hayal gücü ve anlatım ustalığı, Isabel Allende'yi çağımızın en başarılı romancılarından biri yapıyor.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; widows: 1; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{&quot;Isabel Allende&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2015-10-31</dc:date>
+  <dc:title>Ruhlar Evi</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Gerilim</dc:subject>
+<dc:subject>Gizem</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">673dac1e-78d8-43da-8d6f-a5437334f729</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755102160</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="Text/son.xhtml" id="son.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id29" media-type="text/css"/>
+    <item href="toc.ncx" id="id30" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/ithaf.xhtml" id="ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/Can.png" id="Can.png" media-type="image/png"/>
+    <item href="Images/newsDivider.png" id="newsDivider.png" media-type="image/png"/>
+    <item href="Text/quote.xhtml" id="quote.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/baslik.xhtml" id="baslik.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="x07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/08.xhtml" id="x08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/09.xhtml" id="x09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="x10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/11.xhtml" id="x11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/12.xhtml" id="x12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/13.xhtml" id="x13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/14.xhtml" id="x14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.xhtml" id="dipnot.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id30">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="baslik.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="quote.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="son.xhtml"/>
+    <itemref idref="dipnot.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

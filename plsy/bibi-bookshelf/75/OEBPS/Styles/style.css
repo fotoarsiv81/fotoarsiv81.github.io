@@ -1,0 +1,14 @@
+body{margin:0}
+p{text-indent:1em;margin-left:0;margin-right:0;text-align:justify;margin-top:.5em;margin-bottom:.5em;font-size:100%}
+.p0{text-indent:0;margin-left:0;text-align:center;margin-top:0;margin-bottom:0}
+.p1{text-indent:0;margin-left:0;text-align:center}
+.p3{text-indent:0;margin-left:0;text-align:center;margin-top:8.7em;margin-bottom:1.6em}
+.p4{text-indent:0;margin-left:0;text-align:center;margin-bottom:4.9em}
+.p5{text-indent:0}
+h1{text-indent:0;margin-left:0;line-height:120%;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.33em;margin-bottom:1.7em;font-size:164%;font-weight:bold}
+.h11{text-indent:0}
+h2{text-indent:0;margin-left:2.7em;line-height:120%;margin-right:0;text-align:justify;page-break-after:avoid;margin-top:2.3em;margin-bottom:1.1em;font-size:145%;font-weight:bold}
+.h21{text-indent:0}
+.t2{font-size:1.3em;line-height:120%;font-weight:bold}
+.t3{font-size:2.2em;line-height:120%;font-weight:bold}
+.t4{font-size:1.5em;line-height:120%;font-weight:bold}
