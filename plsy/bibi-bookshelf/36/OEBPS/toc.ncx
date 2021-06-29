@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{BDFC9380-51D4-4F39-B642-6F31E7D1CC4C}" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>h1</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>H. R. Lovecraft (1890-1937)</text>
+      </navLabel>
+      <content src="Text/HP002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>DELİLİK DAĞLARI’NDA</text>
+      </navLabel>
+      <content src="Text/HP003.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/HP003.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/HP003.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/HP003.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/HP003.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/HP004.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/HP004.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/HP004.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/HP004.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/HP005.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/HP005.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/HP005.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/HP005.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>CHARLES DEXTER WARD VAKASI</text>
+      </navLabel>
+      <content src="Text/HP006.xhtml"/>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>I. Bölüm Sonuç ve Önsöz</text>
+        </navLabel>
+        <content src="Text/HP006.xhtml#sigil_toc_id_13"/>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>1</text>
+          </navLabel>
+          <content src="Text/HP006.xhtml#sigil_toc_id_14"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>2</text>
+          </navLabel>
+          <content src="Text/HP006.xhtml#sigil_toc_id_15"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>3</text>
+          </navLabel>
+          <content src="Text/HP006.xhtml#sigil_toc_id_16"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>II. BÖLÜM Geçmiş ve Dehşet</text>
+        </navLabel>
+        <content src="Text/HP007.xhtml#sigil_toc_id_17"/>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>1</text>
+          </navLabel>
+          <content src="Text/HP007.xhtml#sigil_toc_id_18"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>2</text>
+          </navLabel>
+          <content src="Text/HP007.xhtml#sigil_toc_id_19"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>3</text>
+          </navLabel>
+          <content src="Text/HP007.xhtml#sigil_toc_id_20"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>4</text>
+          </navLabel>
+          <content src="Text/HP007.xhtml#sigil_toc_id_21"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>5</text>
+          </navLabel>
+          <content src="Text/HP007.xhtml#sigil_toc_id_22"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>III. BÖLÜM Araştırma ve Ruh Çağırma</text>
+        </navLabel>
+        <content src="Text/HP008.xhtml#sigil_toc_id_23"/>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>1</text>
+          </navLabel>
+          <content src="Text/HP008.xhtml#sigil_toc_id_24"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>2</text>
+          </navLabel>
+          <content src="Text/HP008.xhtml#sigil_toc_id_25"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>3</text>
+          </navLabel>
+          <content src="Text/HP008.xhtml#sigil_toc_id_26"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>4</text>
+          </navLabel>
+          <content src="Text/HP008.xhtml#sigil_toc_id_27"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>5</text>
+          </navLabel>
+          <content src="Text/HP008.xhtml#sigil_toc_id_28"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>IV. BÖLÜM Dönüşme ve Delilik</text>
+        </navLabel>
+        <content src="Text/HP009.xhtml#sigil_toc_id_29"/>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>1</text>
+          </navLabel>
+          <content src="Text/HP009.xhtml#sigil_toc_id_30"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>2</text>
+          </navLabel>
+          <content src="Text/HP009.xhtml#sigil_toc_id_31"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>3</text>
+          </navLabel>
+          <content src="Text/HP009.xhtml#sigil_toc_id_32"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>4</text>
+          </navLabel>
+          <content src="Text/HP009.xhtml#sigil_toc_id_33"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>V. BÖLÜM Karabasan ve Felaket</text>
+        </navLabel>
+        <content src="Text/HP010.xhtml#sigil_toc_id_34"/>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>1</text>
+          </navLabel>
+          <content src="Text/HP010.xhtml#sigil_toc_id_35"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>2</text>
+          </navLabel>
+          <content src="Text/HP010.xhtml#sigil_toc_id_36"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>3</text>
+          </navLabel>
+          <content src="Text/HP010.xhtml#sigil_toc_id_37"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>4</text>
+          </navLabel>
+          <content src="Text/HP010.xhtml#sigil_toc_id_38"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>5</text>
+          </navLabel>
+          <content src="Text/HP010.xhtml#sigil_toc_id_39"/>
+        </navPoint>
+        <navPoint id="navPoint-43" playOrder="43">
+          <navLabel>
+            <text>6</text>
+          </navLabel>
+          <content src="Text/HP010.xhtml#sigil_toc_id_40"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>CADI EVİNDEKİ DÜŞLER</text>
+      </navLabel>
+      <content src="Text/HP011.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>RANDOLPH CARTER’IN İFADESİ</text>
+      </navLabel>
+      <content src="Text/HP012.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>BİLİNMEYEN KADATH’A DÜŞ YOLCULUĞU</text>
+      </navLabel>
+      <content src="Text/HP013.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>GÜMÜŞ ANAHTAR</text>
+      </navLabel>
+      <content src="Text/HP015.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>GÜMÜŞ ANAHTARIN AÇTIĞI KAPILARIN ÖTESİ</text>
+      </navLabel>
+      <content src="Text/HP016.xhtml"/>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/HP016.xhtml#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/HP016.xhtml#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/HP016.xhtml#sigil_toc_id_43"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/HP016.xhtml#sigil_toc_id_44"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/HP016.xhtml#sigil_toc_id_45"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/HP016.xhtml#sigil_toc_id_46"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/HP016.xhtml#sigil_toc_id_47"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/HP016.xhtml#sigil_toc_id_48"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>DAGON</text>
+      </navLabel>
+      <content src="Text/HP017.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>MEZAR</text>
+      </navLabel>
+      <content src="Text/HP018.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>KUTUPYILDIZI</text>
+      </navLabel>
+      <content src="Text/HP019.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>UYKU DUVARININ ÖTESİ</text>
+      </navLabel>
+      <content src="Text/HP020.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>SARNATH’IN ÖLÜM HÜKMÜ</text>
+      </navLabel>
+      <content src="Text/HP021.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>BEYAZ GEMİ</text>
+      </navLabel>
+      <content src="Text/HP022.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>ARTHUR JERMYN</text>
+      </navLabel>
+      <content src="Text/HP023.xhtml"/>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/HP023.xhtml#sigil_toc_id_49"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/HP023.xhtml#sigil_toc_id_50"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>ULTHAR’IN KEDİLERİ</text>
+      </navLabel>
+      <content src="Text/HP024.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>CELEPHAIS</text>
+      </navLabel>
+      <content src="Text/HP025.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>ÖTE TARAFTAN</text>
+      </navLabel>
+      <content src="Text/HP026.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>TAPINAK</text>
+      </navLabel>
+      <content src="Text/HP027.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>AĞAÇ</text>
+      </navLabel>
+      <content src="Text/HP028.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>AY BATAKLIĞI</text>
+      </navLabel>
+      <content src="Text/HP029.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>ADSIZ KENT</text>
+      </navLabel>
+      <content src="Text/HP030.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>BAŞKA TANRILAR</text>
+      </navLabel>
+      <content src="Text/HP031.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>IRANON’UN ARAYIŞI</text>
+      </navLabel>
+      <content src="Text/HP032.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>HERBERT WEST - DİRİLTİCİ</text>
+      </navLabel>
+      <content src="Text/HP033.xhtml"/>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>I. Karanlıklardan</text>
+        </navLabel>
+        <content src="Text/HP033.xhtml#sigil_toc_id_51"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>II. Salgın Belası</text>
+        </navLabel>
+        <content src="Text/HP033.xhtml#sigil_toc_id_52"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>III. Ay Işığında Altı El Silah Sesi</text>
+        </navLabel>
+        <content src="Text/HP033.xhtml#sigil_toc_id_53"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>IV. Ölünün Çığlığı</text>
+        </navLabel>
+        <content src="Text/HP033.xhtml#sigil_toc_id_54"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>V. Gölgelerden Gelen Dehşet</text>
+        </navLabel>
+        <content src="Text/HP033.xhtml#sigil_toc_id_55"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>VI. Mezarlık Ordusu</text>
+        </navLabel>
+        <content src="Text/HP033.xhtml#sigil_toc_id_56"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>AV KÖPEĞİ</text>
+      </navLabel>
+      <content src="Text/HP034.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>HYPNOS</text>
+      </navLabel>
+      <content src="Text/HP035.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>FESTIVAL</text>
+      </navLabel>
+      <content src="Text/HP036.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-85" playOrder="85">
+      <navLabel>
+        <text>ADLANDIRILAMAYAN</text>
+      </navLabel>
+      <content src="Text/HP037.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-86" playOrder="86">
+      <navLabel>
+        <text>FİRAVUNLARLA BİRLİKTE MAHPUS</text>
+      </navLabel>
+      <content src="Text/HP038.xhtml"/>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/HP038.xhtml#sigil_toc_id_57"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-88" playOrder="88">
+      <navLabel>
+        <text>O ADAM</text>
+      </navLabel>
+      <content src="Text/HP039.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-89" playOrder="89">
+      <navLabel>
+        <text>RED HOOK’DA DEHŞET</text>
+      </navLabel>
+      <content src="Text/HP040.xhtml"/>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/HP040.xhtml#sigil_toc_id_58"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/HP040.xhtml#sigil_toc_id_59"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/HP040.xhtml#sigil_toc_id_60"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/HP040.xhtml#sigil_toc_id_61"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/HP040.xhtml#sigil_toc_id_62"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/HP040.xhtml#sigil_toc_id_63"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/HP040.xhtml#sigil_toc_id_64"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-97" playOrder="97">
+      <navLabel>
+        <text>SİSLER İÇİNDE UÇURUMUN KIYISINDA DURAN TUHAF EV</text>
+      </navLabel>
+      <content src="Text/HP041.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>ERYX’İN DUVARLARI İÇİNDE</text>
+      </navLabel>
+      <content src="Text/HP042.xhtml"/>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>Öğleden Sonra, VI, 13</text>
+        </navLabel>
+        <content src="Text/HP042.xhtml#sigil_toc_id_65"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>Gece- VI, 13</text>
+        </navLabel>
+        <content src="Text/HP042.xhtml#sigil_toc_id_66"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>Gece - VI, 14</text>
+        </navLabel>
+        <content src="Text/HP042.xhtml#sigil_toc_id_67"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>Akşama Doğru - VI, 15</text>
+        </navLabel>
+        <content src="Text/HP042.xhtml#sigil_toc_id_68"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>Geceye Doğru — VI, 15</text>
+        </navLabel>
+        <content src="Text/HP042.xhtml#sigil_toc_id_69"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>ŞEF WESLEY P. MILLER’IN RAPORU, GRUP A, VENÜS KRİSTAL ŞİRKETİ</text>
+        </navLabel>
+        <content src="Text/HP042.xhtml#sigil_toc_id_70"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-105" playOrder="105">
+      <navLabel>
+        <text>KÖTÜ RAHİP</text>
+      </navLabel>
+      <content src="Text/HP043.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-106" playOrder="106">
+      <navLabel>
+        <text>İLK DÖNEM ÖYKÜLERİ</text>
+      </navLabel>
+      <content src="Text/HP044.xhtml"/>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>MAĞARADAKİ CANAVAR</text>
+        </navLabel>
+        <content src="Text/HP044.xhtml#sigil_toc_id_71"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>SİMYACI</text>
+        </navLabel>
+        <content src="Text/HP044.xhtml#sigil_toc_id_72"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>ŞİİR SANATI ve TANRILAR[45]</text>
+        </navLabel>
+        <content src="Text/HP044.xhtml#sigil_toc_id_73"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>O SOKAK</text>
+        </navLabel>
+        <content src="Text/HP044.xhtml#sigil_toc_id_74"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>JUAN ROMERO’NUN DEGİŞİMİ</text>
+        </navLabel>
+        <content src="Text/HP044.xhtml#sigil_toc_id_75"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-112" playOrder="112">
+      <navLabel>
+        <text>DÖRT FRAGMAN</text>
+      </navLabel>
+      <content src="Text/HP045.xhtml"/>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>AZATHOTH</text>
+        </navLabel>
+        <content src="Text/HP045.xhtml#sigil_toc_id_76"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>TORUN</text>
+        </navLabel>
+        <content src="Text/HP045.xhtml#sigil_toc_id_77"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>KİTAP</text>
+        </navLabel>
+        <content src="Text/HP045.xhtml#sigil_toc_id_78"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>AYIŞIĞINDAKİ ŞEY</text>
+        </navLabel>
+        <content src="Text/HP045.xhtml#sigil_toc_id_79"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-117" playOrder="117">
+      <navLabel>
+        <text>YABANCI</text>
+      </navLabel>
+      <content src="Text/HP046.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-118" playOrder="118">
+      <navLabel>
+        <text>DUVARLARIN İÇİNDEKİ SIÇANLAR</text>
+      </navLabel>
+      <content src="Text/HP047.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-119" playOrder="119">
+      <navLabel>
+        <text>PICKMAN’İN MODELİ</text>
+      </navLabel>
+      <content src="Text/HP048.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-120" playOrder="120">
+      <navLabel>
+        <text>CTHULHU’NUN ÇAĞRISI</text>
+      </navLabel>
+      <content src="Text/HP049.xhtml"/>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>I. KİLDEKİ DEHŞET</text>
+        </navLabel>
+        <content src="Text/HP049.xhtml#sigil_toc_id_80"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>II. MÜFETTİŞ LEGRASSE’NİN ÖYKÜSÜ</text>
+        </navLabel>
+        <content src="Text/HP049.xhtml#sigil_toc_id_81"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>III. DENİZDEN GELEN DELİLİK</text>
+        </navLabel>
+        <content src="Text/HP049.xhtml#sigil_toc_id_82"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-124" playOrder="124">
+      <navLabel>
+        <text>DUNWICH DEHŞETİ</text>
+      </navLabel>
+      <content src="Text/HP050.xhtml"/>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/HP050.xhtml#sigil_toc_id_83"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/HP050.xhtml#sigil_toc_id_84"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/HP050.xhtml#sigil_toc_id_85"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/HP050.xhtml#sigil_toc_id_86"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/HP050.xhtml#sigil_toc_id_87"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/HP050.xhtml#sigil_toc_id_88"/>
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/HP050.xhtml#sigil_toc_id_89"/>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/HP050.xhtml#sigil_toc_id_90"/>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/HP050.xhtml#sigil_toc_id_91"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/HP050.xhtml#sigil_toc_id_92"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-135" playOrder="135">
+      <navLabel>
+        <text>KARANLIKTA FISILTIYLA KONUŞAN ADAM</text>
+      </navLabel>
+      <content src="Text/HP051.xhtml"/>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/HP051.xhtml#sigil_toc_id_93"/>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/HP051.xhtml#sigil_toc_id_94"/>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/HP051.xhtml#sigil_toc_id_95"/>
+      </navPoint>
+      <navPoint id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/HP051.xhtml#sigil_toc_id_96"/>
+      </navPoint>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/HP051.xhtml#sigil_toc_id_97"/>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/HP051.xhtml#sigil_toc_id_98"/>
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/HP051.xhtml#sigil_toc_id_99"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-143" playOrder="143">
+      <navLabel>
+        <text>UZAYDAN DÜŞEN RENK</text>
+      </navLabel>
+      <content src="Text/HP052.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-144" playOrder="144">
+      <navLabel>
+        <text>KARANLIĞIN HAYALETİ</text>
+      </navLabel>
+      <content src="Text/HP053.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-145" playOrder="145">
+      <navLabel>
+        <text>EŞİKTEKİ ŞEY</text>
+      </navLabel>
+      <content src="Text/HP054.xhtml"/>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/HP054.xhtml#sigil_toc_id_100"/>
+      </navPoint>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/HP054.xhtml#sigil_toc_id_101"/>
+      </navPoint>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/HP054.xhtml#sigil_toc_id_102"/>
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/HP054.xhtml#sigil_toc_id_103"/>
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/HP054.xhtml#sigil_toc_id_104"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-151" playOrder="151">
+      <navLabel>
+        <text>ERICH ZANN’IN MUZİGİ</text>
+      </navLabel>
+      <content src="Text/HP055.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-152" playOrder="152">
+      <navLabel>
+        <text>PUSUDAKİ DEHŞET</text>
+      </navLabel>
+      <content src="Text/HP056.xhtml"/>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>1. Bacaya Vuran Gölge</text>
+        </navLabel>
+        <content src="Text/HP056.xhtml#sigil_toc_id_105"/>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>II. FIRTINADA BİR YOLCU</text>
+        </navLabel>
+        <content src="Text/HP056.xhtml#sigil_toc_id_106"/>
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>III. KIZIL PARILTININ ANLAMI</text>
+        </navLabel>
+        <content src="Text/HP056.xhtml#sigil_toc_id_107"/>
+      </navPoint>
+      <navPoint id="navPoint-156" playOrder="156">
+        <navLabel>
+          <text>IV. GÖZLERDEKİ DEHŞET</text>
+        </navLabel>
+        <content src="Text/HP056.xhtml#sigil_toc_id_108"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-157" playOrder="157">
+      <navLabel>
+        <text>EVDEKİ RESİM</text>
+      </navLabel>
+      <content src="Text/HP057.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-158" playOrder="158">
+      <navLabel>
+        <text>INNSMOUTH ÜZERİNDEKİ GÖLGE</text>
+      </navLabel>
+      <content src="Text/HP058.xhtml"/>
+      <navPoint id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/HP058.xhtml#sigil_toc_id_109"/>
+      </navPoint>
+      <navPoint id="navPoint-160" playOrder="160">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/HP058.xhtml#sigil_toc_id_110"/>
+      </navPoint>
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/HP058.xhtml#sigil_toc_id_111"/>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/HP058.xhtml#sigil_toc_id_112"/>
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/HP058.xhtml#sigil_toc_id_113"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-164" playOrder="164">
+      <navLabel>
+        <text>ZAMANDAN DÜŞEN GÖLGE</text>
+      </navLabel>
+      <content src="Text/HP059.xhtml"/>
+      <navPoint id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/HP059.xhtml#sigil_toc_id_114"/>
+      </navPoint>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/HP059.xhtml#sigil_toc_id_115"/>
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/HP059.xhtml#sigil_toc_id_116"/>
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/HP059.xhtml#sigil_toc_id_117"/>
+      </navPoint>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/HP059.xhtml#sigil_toc_id_118"/>
+      </navPoint>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/HP059.xhtml#sigil_toc_id_119"/>
+      </navPoint>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/HP059.xhtml#sigil_toc_id_120"/>
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/HP059.xhtml#sigil_toc_id_121"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

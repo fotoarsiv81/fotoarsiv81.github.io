@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Oker, Celil">Celil Oker</dc:creator>
+<dc:description>&lt;p&gt;Özel detektifimiz Remzi Ünal, ellisini geçmiş, Hava Kuvvetleri'nden emekli, THY'den ayrılma bir pilot. şimdi hayatını simülatörde uçak uçurmakla ve müşterisini memnun edecek detektiflik hizmetleri yapmakla geçiriyor. Kadınlara karşı mesafeli. Hâlâ çevresindeki güzel kadınlara asılmıyor.İlk kitabı Çıplak Ceset'le Kaktüs Kahvesi Polisiye Roman Yarışması'nı (1999) kazanan Celil Oker'in ikinci kitabı Kramponlu Ceset'te olaylar üçüncü ligde küme düşme tehlikesi yaşayan bir futbol takımının aleyhindeki şike girişimi kuşkusuyla başlıyor. Beklenebileceği gibi işler bununla kalmıyor. İşin içine, reklamcılık dünyası, transferler, şantajlar ve kuşkusuz ölümler giriyor...Daha çok sayfa, daha çok karakter ve karmaşık ama usta bir entrika, Kramponlu Ceset için verebileceğimiz ip uçları.&lt;/p&gt;</dc:description>
+    <dc:date>2014-09-26T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9f30e522-473e-426b-b2e4-bf3512a12dfd</dc:identifier>
+    <dc:date opf:event="modification">2015-01-31</dc:date>
+    <dc:publisher>Oğlak Yayıncılık</dc:publisher>
+    <meta content="Kramponlu Ceset" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="2014-09-27T10:51:31.234000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Celil Oker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  <dc:title>Kramponlu Ceset</dc:title>
+<dc:subject>Polisiye</dc:subject>
+<dc:subject>Dedektif</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">a0e8747c-8501-4f46-9aef-2670bcff236f</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753292764</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

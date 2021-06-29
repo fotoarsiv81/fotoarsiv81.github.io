@@ -1,0 +1,162 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Lovecraft, H.P.">H.P. Lovecraft</dc:creator>
+<dc:identifier id="uuid">{BDFC9380-51D4-4F39-B642-6F31E7D1CC4C}</dc:identifier>
+    <dc:date>2001-09-04T21:00:00+00:00</dc:date>
+    <dc:publisher>Dost Kitabevi</dc:publisher>
+    <dc:description>&lt;p&gt;Yeni keşfedilmiş ve sonsuz bir dünyanın daha önce hiç anlatılmamış, kötücül öyküsü... Sorgulanamayan inançlar ve sarsılmaz gibi görünen toplumsal katmanların ayrıştığı ipince sınır... Gecenin sırrıyla irkilen, uzak olduğu kadar yakın, bıçaksırtı bir metafor... Tüm kehanet ve mucizeleriyle somut bir evren tasarımı olarak dehşet... Varlığıyla dünyayı lanetleyen bir giz ve çıkışsız bir aynalar salonu...
+
+H.P. Lovecraft, kınında uyuyan kadim bir yüzle size dönüyor...&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Toplu Eserleri"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;H.P. Lovecraft&quot;: &quot;&quot;}"/>
+  <dc:title>Toplu Eserleri</dc:title>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Fantastik</dc:subject>
+<dc:subject>Korku</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">72462698-db91-432d-bdfb-9a1da7841b02</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789758457908</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP001.xhtml" id="HP001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP002.xhtml" id="HP002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP003.xhtml" id="HP003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP004.xhtml" id="HP004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP005.xhtml" id="HP005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP006.xhtml" id="HP006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP007.xhtml" id="HP007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP008.xhtml" id="HP008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP009.xhtml" id="HP009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP010.xhtml" id="HP010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP011.xhtml" id="HP011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP012.xhtml" id="HP012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP013.xhtml" id="HP013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP014.xhtml" id="HP014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP015.xhtml" id="HP015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP016.xhtml" id="HP016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP017.xhtml" id="HP017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP018.xhtml" id="HP018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP019.xhtml" id="HP019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP020.xhtml" id="HP020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP021.xhtml" id="HP021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP022.xhtml" id="HP022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP023.xhtml" id="HP023.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP024.xhtml" id="HP024.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP025.xhtml" id="HP025.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP026.xhtml" id="HP026.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP027.xhtml" id="HP027.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP028.xhtml" id="HP028.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP029.xhtml" id="HP029.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP030.xhtml" id="HP030.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP031.xhtml" id="HP031.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP032.xhtml" id="HP032.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP033.xhtml" id="HP033.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP034.xhtml" id="HP034.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP035.xhtml" id="HP035.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP036.xhtml" id="HP036.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP037.xhtml" id="HP037.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP038.xhtml" id="HP038.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP039.xhtml" id="HP039.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP040.xhtml" id="HP040.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP041.xhtml" id="HP041.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP042.xhtml" id="HP042.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP043.xhtml" id="HP043.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP044.xhtml" id="HP044.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP045.xhtml" id="HP045.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP046.xhtml" id="HP046.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP047.xhtml" id="HP047.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP048.xhtml" id="HP048.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP049.xhtml" id="HP049.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP050.xhtml" id="HP050.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP051.xhtml" id="HP051.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP052.xhtml" id="HP052.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP053.xhtml" id="HP053.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP054.xhtml" id="HP054.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP055.xhtml" id="HP055.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP056.xhtml" id="HP056.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP057.xhtml" id="HP057.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP058.xhtml" id="HP058.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP059.xhtml" id="HP059.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP060.xhtml" id="HP060.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HP061.xhtml" id="HP061.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id5" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="main-1.png" media-type="image/png"/>
+    <item href="Images/main-2.png" id="main-2.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="HP001.xhtml"/>
+    <itemref idref="HP002.xhtml"/>
+    <itemref idref="HP003.xhtml"/>
+    <itemref idref="HP004.xhtml"/>
+    <itemref idref="HP005.xhtml"/>
+    <itemref idref="HP006.xhtml"/>
+    <itemref idref="HP007.xhtml"/>
+    <itemref idref="HP008.xhtml"/>
+    <itemref idref="HP009.xhtml"/>
+    <itemref idref="HP010.xhtml"/>
+    <itemref idref="HP011.xhtml"/>
+    <itemref idref="HP012.xhtml"/>
+    <itemref idref="HP013.xhtml"/>
+    <itemref idref="HP014.xhtml"/>
+    <itemref idref="HP015.xhtml"/>
+    <itemref idref="HP016.xhtml"/>
+    <itemref idref="HP017.xhtml"/>
+    <itemref idref="HP018.xhtml"/>
+    <itemref idref="HP019.xhtml"/>
+    <itemref idref="HP020.xhtml"/>
+    <itemref idref="HP021.xhtml"/>
+    <itemref idref="HP022.xhtml"/>
+    <itemref idref="HP023.xhtml"/>
+    <itemref idref="HP024.xhtml"/>
+    <itemref idref="HP025.xhtml"/>
+    <itemref idref="HP026.xhtml"/>
+    <itemref idref="HP027.xhtml"/>
+    <itemref idref="HP028.xhtml"/>
+    <itemref idref="HP029.xhtml"/>
+    <itemref idref="HP030.xhtml"/>
+    <itemref idref="HP031.xhtml"/>
+    <itemref idref="HP032.xhtml"/>
+    <itemref idref="HP033.xhtml"/>
+    <itemref idref="HP034.xhtml"/>
+    <itemref idref="HP035.xhtml"/>
+    <itemref idref="HP036.xhtml"/>
+    <itemref idref="HP037.xhtml"/>
+    <itemref idref="HP038.xhtml"/>
+    <itemref idref="HP039.xhtml"/>
+    <itemref idref="HP040.xhtml"/>
+    <itemref idref="HP041.xhtml"/>
+    <itemref idref="HP042.xhtml"/>
+    <itemref idref="HP043.xhtml"/>
+    <itemref idref="HP044.xhtml"/>
+    <itemref idref="HP045.xhtml"/>
+    <itemref idref="HP046.xhtml"/>
+    <itemref idref="HP047.xhtml"/>
+    <itemref idref="HP048.xhtml"/>
+    <itemref idref="HP049.xhtml"/>
+    <itemref idref="HP050.xhtml"/>
+    <itemref idref="HP051.xhtml"/>
+    <itemref idref="HP052.xhtml"/>
+    <itemref idref="HP053.xhtml"/>
+    <itemref idref="HP054.xhtml"/>
+    <itemref idref="HP055.xhtml"/>
+    <itemref idref="HP056.xhtml"/>
+    <itemref idref="HP057.xhtml"/>
+    <itemref idref="HP058.xhtml"/>
+    <itemref idref="HP059.xhtml"/>
+    <itemref idref="HP060.xhtml"/>
+    <itemref idref="HP061.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

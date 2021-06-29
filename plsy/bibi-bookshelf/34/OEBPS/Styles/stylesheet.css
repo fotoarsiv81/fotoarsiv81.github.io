@@ -1,0 +1,171 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    page-break-before: always;
+    text-align: justify
+    }
+.calibre1 {
+    display: block;
+    page-break-after: always
+    }
+.chapter {
+    display: block
+    }
+.clrb {
+    clear: both;
+    display: block
+    }
+.h1baslik {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.h2baslik {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.ideitalik {
+    font-style: italic
+    }
+.indentmetinitalik {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.kitapickapak {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kitapickapak1 {
+    display: block;
+    font-size: 1.75em;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kunye {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify
+    }
+.kunye1 {
+    display: block;
+    font-size: 0.75em;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify
+    }
+.leftimage {
+    float: left;
+    height: 263;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    width: 300
+    }
+.leftimage1 {
+    float: left;
+    height: 300;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    width: 226
+    }
+.leftimage2 {
+    float: left;
+    height: 300;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    width: 240
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.ortabaslik {
+    display: block;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.sag {
+    clear: both;
+    display: block;
+    float: right;
+    font-style: normal;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    width: 40%
+    }
+.sag1 {
+    clear: both;
+    display: block;
+    float: right;
+    font-style: normal;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: right;
+    width: 40%
+    }
+a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: default
+    }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer
+    }

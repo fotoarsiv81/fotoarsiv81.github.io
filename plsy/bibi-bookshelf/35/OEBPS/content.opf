@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Ötesinde, Uyku Duvarının">Uyku Duvarının Ötesinde</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">a8f50e55-7fb8-47f1-bc47-55d1a7fca0be</dc:identifier>
+    <dc:date>2013-10-25T21:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2013-10-27</dc:date>
+    <meta content="0.7.3" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+  <dc:title>H. P. Lovecraft</dc:title>
+<meta name="calibre:title_sort" content="H. P. Lovecraft"/>
+<dc:publisher>Altıkırkbeş Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Korku</dc:subject>
+<dc:subject>Gerilim</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;div&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Ürkütücü derinliklerin içlerine doğru indirilen bir meşale...&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Dehşet verici intikamlarını sürdürebilmek için yüzyıllar boyunca gizli ilimleri kullanarak yaşayan insanlar...&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Rüyasız uykunun özgürlüğünde isimsizce yaşayan ışık kardeşlerin...&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Binlerce yıldır unutulmuş yollarda yürüyecek ilk kişi olmak istemiyorsan, geri kalan her şeyi bırak ve kaç! Bu senin tek şansın...&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Gerçekler ve deneyim bunu başaramıyorsa, güzelliği hayaller ve yanılsamalarda ara.&lt;/span&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Uyku Duvarının Ötesinde&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">418c9e82-b2ef-4d47-9f1e-d0cb2b53e7a1</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9799758467197</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/chapter.xhtml" id="text1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="text3" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="text4" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="text5" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="text6" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="text7" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="text8" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="text9" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="text10" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter10.xhtml" id="text11" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter11.xhtml" id="text12" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter12.xhtml" id="text13" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter13.xhtml" id="text14" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter14.xhtml" id="text15" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter15.xhtml" id="text16" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter16.xhtml" id="text17" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter17.xhtml" id="text18" media-type="application/xhtml+xml"/>
+    <item href="Styles/styles1.css" id="resource1" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="text1"/>
+    <itemref idref="text2"/>
+    <itemref idref="text3"/>
+    <itemref idref="text4"/>
+    <itemref idref="text5"/>
+    <itemref idref="text6"/>
+    <itemref idref="text7"/>
+    <itemref idref="text8"/>
+    <itemref idref="text9"/>
+    <itemref idref="text10"/>
+    <itemref idref="text11"/>
+    <itemref idref="text12"/>
+    <itemref idref="text13"/>
+    <itemref idref="text14"/>
+    <itemref idref="text15"/>
+    <itemref idref="text16"/>
+    <itemref idref="text17"/>
+    <itemref idref="text18"/>
+  </spine>
+  <guide>
+    <reference href="Text/chapter.xhtml" title="Text" type="text"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="b39d1114-61fa-4095-8187-c21a0ba6690f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>DEDEKTİF AUGUSTE DUPIN ÖYKÜLERİ</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="7d6c739c-a1c6-4067-a68b-25401e555d31" playOrder="1">
+      <navLabel>
+        <text>MORGUE SOKAĞI CİNAYETİ</text>
+      </navLabel>
+      <content src="Text/Poe_split_003.html"/>
+    </navPoint>
+    <navPoint id="803c876a-9b1a-478b-9592-75654c189b8a" playOrder="2">
+      <navLabel>
+        <text>MARIE ROGÊT’NİN GİZEMİ [2]</text>
+      </navLabel>
+      <content src="Text/Poe_split_004.html"/>
+    </navPoint>
+    <navPoint id="4fda55bf-65de-421d-b8c9-ff048d45d776" playOrder="3">
+      <navLabel>
+        <text>ÇALINAN MEKTUP</text>
+      </navLabel>
+      <content src="Text/Poe_split_005.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

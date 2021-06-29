@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Oker, Celil">Celil Oker</dc:creator>
+<dc:description>&lt;p&gt;Özel dedektif Remzi Ünal telefonuna bırakılan onlarca sesli mesajın sahibiyle sonunda karşılaşır. Karşılarındaki kararlı ses ona belki de bir dedektiften istenmeyecek kadar kolay bir iş yapmasını teklif etmektedir. Ancak Remzi Ünal bu kadar basit bir işin arkasında çok daha karmaşık bir hikâyenin olduğunu hissetmiştir. Ve hislerinde yanılmayacaktır da…
+
+Bir oto galerisinin karşısında başlayan bekleyişi onu İstanbul'un değişik köşelerine, olayların etrafında dolaşan başka insanlara yönlendirir. Başka bir hikâyenin izini sürmesini sağlar.
+
+Polisiye türünün usta yazarı Celil Oker bu romanında da okurunu Remzi Ünal'ın peşinde heyecanlı ve sürükleyici bir maceraya çağırıyor.&lt;/p&gt;</dc:description>
+    <dc:date>2014-02-11T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">6133b759-d169-4c0f-bddf-bcdbd8a7bc93</dc:identifier>
+    <dc:publisher>Turkuvaz Kitap</dc:publisher>
+    <meta name="calibre:timestamp" content="2014-02-12T08:37:02+00:00"/>
+    <meta name="calibre:title_sort" content="Yenik ve Yalnız"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Celil Oker&quot;: &quot;&quot;}"/>
+  <dc:title>Yenik ve Yalnız</dc:title>
+<dc:subject>Cinayet</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:subject>Dedektif</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">2c09ac33-ef20-43f3-858e-2f6faa637af2</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786055596699</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-1.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-2.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-3.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-4.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-5.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-6.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-7.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-8.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-9.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main-10.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

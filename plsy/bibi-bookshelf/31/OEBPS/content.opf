@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dedektif Auguste Dupin Öyküleri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Poe, Edgar Allan">Edgar Allan Poe</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:e5b14ec9-dc70-45ba-acae-47da537bc02d</dc:identifier>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.24.2) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-05-31</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">5b23452a-8207-409c-871e-870d1cfba956</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="1" name="calibre:series_index"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2011-02-01T12:29:29.258000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Dedektif Auguste Dupin Öyküleri"/>
+    <meta name="calibre:author_link_map" content="{&quot;Edgar Allan Poe&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Poe_split_000.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/Poe_split_001.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/Poe_split_002.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Poe_split_003.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Poe_split_004.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Poe_split_005.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Poe_split_006.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

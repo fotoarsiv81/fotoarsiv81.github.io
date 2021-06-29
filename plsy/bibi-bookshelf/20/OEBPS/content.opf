@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Casus</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Conrad, Joseph">Joseph Conrad</dc:creator>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.79.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">2c547fb3-4729-46c8-b325-c4cefbf34054</dc:identifier>
+    <dc:date opf:event="modification">2017-07-30</dc:date>
+    <dc:subject>iz_hazir</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2b71fc36-a950-4737-90aa-42644a7d69db</dc:identifier>
+    <meta name="Sigil version" content="0.9.6"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Casus"/>
+    <meta name="calibre:author_link_map" content="{&quot;Joseph Conrad&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.html" href="Text/kunye.html" media-type="application/xhtml+xml"/>
+    <item id="title.html" href="Text/title.html" media-type="application/xhtml+xml"/>
+    <item id="ithaf.html" href="Text/ithaf.html" media-type="application/xhtml+xml"/>
+    <item id="onsoz.html" href="Text/onsoz.html" media-type="application/xhtml+xml"/>
+    <item id="x01.html" href="Text/01.html" media-type="application/xhtml+xml"/>
+    <item id="x02.html" href="Text/02.html" media-type="application/xhtml+xml"/>
+    <item id="x03.html" href="Text/03.html" media-type="application/xhtml+xml"/>
+    <item id="x04.html" href="Text/04.html" media-type="application/xhtml+xml"/>
+    <item id="x05.html" href="Text/05.html" media-type="application/xhtml+xml"/>
+    <item id="x06.html" href="Text/06.html" media-type="application/xhtml+xml"/>
+    <item id="x07.html" href="Text/07.html" media-type="application/xhtml+xml"/>
+    <item id="x08.html" href="Text/08.html" media-type="application/xhtml+xml"/>
+    <item id="x09.html" href="Text/09.html" media-type="application/xhtml+xml"/>
+    <item id="x10.html" href="Text/10.html" media-type="application/xhtml+xml"/>
+    <item id="x11.html" href="Text/11.html" media-type="application/xhtml+xml"/>
+    <item id="x12.html" href="Text/12.html" media-type="application/xhtml+xml"/>
+    <item id="x13.html" href="Text/13.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="title.html"/>
+    <itemref idref="ithaf.html"/>
+    <itemref idref="onsoz.html"/>
+    <itemref idref="x01.html"/>
+    <itemref idref="x02.html"/>
+    <itemref idref="x03.html"/>
+    <itemref idref="x04.html"/>
+    <itemref idref="x05.html"/>
+    <itemref idref="x06.html"/>
+    <itemref idref="x07.html"/>
+    <itemref idref="x08.html"/>
+    <itemref idref="x09.html"/>
+    <itemref idref="x10.html"/>
+    <itemref idref="x11.html"/>
+    <itemref idref="x12.html"/>
+    <itemref idref="x13.html"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

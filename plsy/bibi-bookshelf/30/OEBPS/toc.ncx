@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="c44d7d4e-eee7-49d4-98ee-a419b3cbd135" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Deliligin Daglarinda</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>- I -</text>
+            </navLabel>
+            <content src="Text/Section1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>- II -</text>
+            </navLabel>
+            <content src="Text/Section2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>- III -</text>
+            </navLabel>
+            <content src="Text/Section3.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>- IV -</text>
+            </navLabel>
+            <content src="Text/Section4.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>- V -</text>
+            </navLabel>
+            <content src="Text/Section5.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>- VI -</text>
+            </navLabel>
+            <content src="Text/Section6.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>- VII -</text>
+            </navLabel>
+            <content src="Text/Section7.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>- VIII -</text>
+            </navLabel>
+            <content src="Text/Section8.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>- IX -</text>
+            </navLabel>
+            <content src="Text/Section9.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>- X -</text>
+            </navLabel>
+            <content src="Text/Section10.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>- XI -</text>
+            </navLabel>
+            <content src="Text/Section11.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>- XII -</text>
+            </navLabel>
+            <content src="Text/Section12.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="a8f50e55-7fb8-47f1-bc47-55d1a7fca0be" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Küçük Bir Yanılgılar Atlası</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Mağaradaki Hayvan</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Simyacı</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Uyku Duvarının Ötesinde</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Hafıza</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Randolph Carter'ın İfadesi</text>
+      </navLabel>
+      <content src="Text/chapter7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Ağaç</text>
+      </navLabel>
+      <content src="Text/chapter8.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Ulthar'ın Kedileri</text>
+      </navLabel>
+      <content src="Text/chapter9.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Tapınak</text>
+      </navLabel>
+      <content src="Text/chapter10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Celephais</text>
+      </navLabel>
+      <content src="Text/chapter11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Ötelerden</text>
+      </navLabel>
+      <content src="Text/chapter12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Önceki Unutuş</text>
+      </navLabel>
+      <content src="Text/chapter13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Adsız Kent</text>
+      </navLabel>
+      <content src="Text/chapter14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Iranon'un Yolculuğu</text>
+      </navLabel>
+      <content src="Text/chapter15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Ay Bataklığı</text>
+      </navLabel>
+      <content src="Text/chapter16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Başka Tanrılar</text>
+      </navLabel>
+      <content src="Text/chapter17.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

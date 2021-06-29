@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Joseph Conrad</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>402A42D18A37FFD197F1922D276ECAD1</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>0DE4B4D0245DFDE4E1154F18E8BA387C</string>
+		<key>publisher-unique-id</key>
+		<string>2c547fb3-4729-46c8-b325-c4cefbf34054</string>
+		<key>unique-id</key>
+		<integer>-5634278439383556920</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>iz_hazir</string>
+	<key>itemName</key>
+	<string>Casus</string>
+	<key>playlistName</key>
+	<string>Casus</string>
+	<key>releaseDate</key>
+	<string>0101-01-01T00:00:00+00:00</string>
+	<key>sort-artist</key>
+	<string>Conrad, Joseph</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

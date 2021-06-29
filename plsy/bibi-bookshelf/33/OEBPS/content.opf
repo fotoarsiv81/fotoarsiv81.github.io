@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>İyi Yazarlar Neden İyi Yazarlar?</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Poe, Edgar Allan">Edgar Allan Poe</dc:creator>
+    <dc:date>2010-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:A9A56BCC-BAC7-4CB6-BA93-35D085C583BB</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Kafe Kültür Yayıncılık</dc:publisher>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">67a1f3b6-0fe5-4416-b1f8-be7e0f0f7ea8</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="4-1.html" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="4-2.html" id="x4-2" media-type="application/xhtml+xml"/>
+    <item href="4-3.html" id="x4-3" media-type="application/xhtml+xml"/>
+    <item href="4-4.html" id="x4-4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/1_fmt1.jpeg" id="x1_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt.jpeg" id="x4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/5_fmt.jpeg" id="x5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/6_fmt.jpeg" id="x6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/7_fmt.jpeg" id="x7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uEhwbyMnPzqg9sdiSgpHRRC" media-type="image/jpeg"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+    <itemref idref="x4-3"/>
+    <itemref idref="x4-4"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

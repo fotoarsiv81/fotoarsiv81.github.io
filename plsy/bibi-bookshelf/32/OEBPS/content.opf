@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Gizem Ve Hayalgücü Öyküleri</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Poe, Edgar Allan">Edgar Allan Poe</dc:creator>
+    <dc:publisher>Mitra Yayınları</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:51740E18-938A-416E-A95F-4BCFE3F0AAD7</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">54376164-ce63-4759-8810-dd2a31b29ad5</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="KAPAK.html" id="KAPAK" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="images/638.jpg" id="x638.jpg" media-type="image/jpeg"/>
+    <item href="images/663.jpg" id="x663.jpg" media-type="image/jpeg"/>
+    <item href="images/674.jpg" id="x674.jpg" media-type="image/jpeg"/>
+    <item href="images/683.jpg" id="x683.jpg" media-type="image/jpeg"/>
+    <item href="images/688.jpg" id="x688.jpg" media-type="image/jpeg"/>
+    <item href="images/696.jpg" id="x696.jpg" media-type="image/jpeg"/>
+    <item href="images/701.jpg" id="x701.jpg" media-type="image/jpeg"/>
+    <item href="images/706.jpg" id="x706.jpg" media-type="image/jpeg"/>
+    <item href="images/711.jpg" id="x711.jpg" media-type="image/jpeg"/>
+    <item href="images/718.jpg" id="x718.jpg" media-type="image/jpeg"/>
+    <item href="images/723.jpg" id="x723.jpg" media-type="image/jpeg"/>
+    <item href="images/728.jpg" id="x728.jpg" media-type="image/jpeg"/>
+    <item href="images/736.jpg" id="x736.jpg" media-type="image/jpeg"/>
+    <item href="images/744.jpg" id="x744.jpg" media-type="image/jpeg"/>
+    <item href="images/752.jpg" id="x752.jpg" media-type="image/jpeg"/>
+    <item href="images/762.jpg" id="x762.jpg" media-type="image/jpeg"/>
+    <item href="images/770.jpg" id="x770.jpg" media-type="image/jpeg"/>
+    <item href="images/781.jpg" id="x781.jpg" media-type="image/jpeg"/>
+    <item href="images/786.jpg" id="x786.jpg" media-type="image/jpeg"/>
+    <item href="images/795.jpg" id="x795.jpg" media-type="image/jpeg"/>
+    <item href="images/801.jpg" id="x801.jpg" media-type="image/jpeg"/>
+    <item href="images/828.jpg" id="x828.jpg" media-type="image/jpeg"/>
+    <item href="images/1065.jpg" id="x1065.jpg" media-type="image/jpeg"/>
+    <item href="images/6381.jpg" id="x6381.jpg" media-type="image/jpeg"/>
+    <item href="images/Image77296_fmt.jpeg" id="Image77296_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/KAPAK_fmt.jpeg" id="KAPAK_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uBGWMJC2DCfOqySbKXoSYTB" media-type="image/jpeg"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="KAPAK"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

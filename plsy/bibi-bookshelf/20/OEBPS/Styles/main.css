@@ -1,0 +1,107 @@
+hr {
+  margin-top: 0.5em;
+  margin-right: 0;
+  border: 1px solid #035A76;
+  max-width: 20em;
+}
+/*IMAGES*/
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+/*----H----*/
+h1 {
+  font: italic normal 1.25em "Berkeley";
+  margin-bottom: 2em;
+  margin-top: 6em;
+  text-align: center;
+}
+/*YAZAR*/
+.aut {
+  margin-top: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.aut p {
+  font: normal normal 0.75em "Berkeley";
+  text-indent: 0;
+  text-align: justify;
+}
+/*----Künye----*/
+.copyright > p:last-child {
+  margin-bottom: 0;
+}
+.copyright p {
+  font: normal normal 0.751em "Berkeley";
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  text-indent: 0;
+  text-align: center;
+}
+/*Titlepage*/
+.titlepage {
+  text-align: right;
+}
+.seri {
+  font: normal normal 1em "Gill Sans MT Pro Book";
+  margin: 1em auto 0.2em auto;
+}
+.author {
+  font: normal bold 1.3em "Berkeley";
+  margin: 0.5em auto 0.2em auto;
+}
+.title {
+  font: normal bold 2.5em "Berkeley";
+  margin: 0;
+}
+.trans {
+  font: normal normal 1em "Gill Sans MT Pro Book";
+  margin-top: 1.5em;
+}
+.trans span {
+  display: block;
+}
+.logo {
+  margin: 6em auto 0 auto;
+}
+/*Önsöz*/
+/*----Block----*/
+/*----P----*/
+p {
+  font-family: "Berkeley";
+  font-size: 0.93em;
+  margin: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.right {
+  text-indent: 0;
+  text-align: right;
+  margin-top: 1em;
+}
+/******FOOTNOTE******/
+/*****FONT*****/
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/BerkeleyBoldE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyItaE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyMediumE.ttf);
+  }
+@font-face {
+  font-family: "Gill Sans MT Pro Book";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/GillSansMTPro-Book.ttf);
+  }

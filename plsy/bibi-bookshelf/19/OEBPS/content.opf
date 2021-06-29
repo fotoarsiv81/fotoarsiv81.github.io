@@ -1,0 +1,128 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Cussler, Clive">Clive Cussler</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:35f06d22-645f-4509-93f2-bb8bf6170634</dc:identifier>
+    <dc:date>2013-05-15T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="Beyaz_Ölüm.jpg"/>
+    <meta content="Beyaz Ölüm" name="calibre:title_sort"/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2014-03-03</dc:date>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <meta content="8.0" name="calibre:rating"/>
+    <dc:description>&lt;div&gt;&lt;span style="text-align: left; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;NUMA’nın Özel Görevler Ekip Şefi Kurt Austin, çok özel bir görevle karşı karşıyadır. Pek çok insanın ölümü ve korkunç bir çevre felaketiyle sonuçlanabilecek olaylar zinciri, iki farklı grubun çatışmasıyla patlak verir.&lt;/span&gt;&lt;br style="text-align: left; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: left; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Radikal çevrecilerle Danimarka savaş gemisi arasında şiddetli bir çatışma çıkmıştır. Görünürde kararlı bir müdahale ile engellenebilecek bu olay, aslında bir gemi dolusu insanın hayatına mal olabilecek kadar tehlikelidir. Çünkü olayın derinliklerinde çok daha sinsi bir gücün varlığı söz konusudur.&lt;/span&gt;&lt;br style="text-align: left; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: left; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Onlar, tüm dünyayı yönetmek ve gücü ellerinde tutmak için önlerine çıkan her engeli -insan öldürmek dahil- yıkmaya kararlıdırlar.&lt;/span&gt;&lt;br style="text-align: left; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: left; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Kurt Austin ve meslektaşı Joe Zavala bu tehlikeli görevde ölümle karşı karşıya kalırlar. Üstelik işler geri dönülmez bir noktadadır. Çevre felaketi başlamıştır ve tek umut NUMA’dır.&lt;/span&gt;&lt;br style="text-align: left; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="text-align: left; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: left; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Yüksek temposu ve Cussler’a özgü hayal gücüyle Beyaz Ölüm, macera romanlarında yeni bir sayfa açıyor..&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:title>Beyaz Ölüm</dc:title>
+<meta name="calibre:series" content="Numa Dosyaları"/>
+<meta name="calibre:series_index" content="4.0"/>
+<dc:subject>Macera</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Aksiyon</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">b9b5594f-b0cb-4bbe-bf1e-f05de6eedd2c</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752104693</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0045.xhtml" id="Section0045.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0019.xhtml" id="Section0019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0020.xhtml" id="Section0020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0021.xhtml" id="Section0021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0022.xhtml" id="Section0022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0023.xhtml" id="Section0023.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0024.xhtml" id="Section0024.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0025.xhtml" id="Section0025.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0026.xhtml" id="Section0026.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0027.xhtml" id="Section0027.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0028.xhtml" id="Section0028.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0029.xhtml" id="Section0029.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0030.xhtml" id="Section0030.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0031.xhtml" id="Section0031.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0032.xhtml" id="Section0032.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0033.xhtml" id="Section0033.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0034.xhtml" id="Section0034.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0035.xhtml" id="Section0035.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0036.xhtml" id="Section0036.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0037.xhtml" id="Section0037.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0038.xhtml" id="Section0038.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0039.xhtml" id="Section0039.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0040.xhtml" id="Section0040.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0041.xhtml" id="Section0041.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0042.xhtml" id="Section0042.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0043.xhtml" id="Section0043.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0044.xhtml" id="Section0044.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/Beyaz Ölüm.jpg" id="Beyaz_Ölüm.jpg" media-type="image/jpeg"/>
+    <item href="Styles/stil.css" id="stil.css" media-type="text/css"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="Section0019.xhtml"/>
+    <itemref idref="Section0020.xhtml"/>
+    <itemref idref="Section0021.xhtml"/>
+    <itemref idref="Section0022.xhtml"/>
+    <itemref idref="Section0023.xhtml"/>
+    <itemref idref="Section0024.xhtml"/>
+    <itemref idref="Section0025.xhtml"/>
+    <itemref idref="Section0026.xhtml"/>
+    <itemref idref="Section0027.xhtml"/>
+    <itemref idref="Section0028.xhtml"/>
+    <itemref idref="Section0029.xhtml"/>
+    <itemref idref="Section0030.xhtml"/>
+    <itemref idref="Section0031.xhtml"/>
+    <itemref idref="Section0032.xhtml"/>
+    <itemref idref="Section0033.xhtml"/>
+    <itemref idref="Section0034.xhtml"/>
+    <itemref idref="Section0035.xhtml"/>
+    <itemref idref="Section0036.xhtml"/>
+    <itemref idref="Section0037.xhtml"/>
+    <itemref idref="Section0038.xhtml"/>
+    <itemref idref="Section0039.xhtml"/>
+    <itemref idref="Section0040.xhtml"/>
+    <itemref idref="Section0041.xhtml"/>
+    <itemref idref="Section0042.xhtml"/>
+    <itemref idref="Section0043.xhtml"/>
+    <itemref idref="Section0044.xhtml"/>
+    <itemref idref="Section0045.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
