@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="AWP-5A5543E4-EC46-4523-97DD-905688060802" />
+    <meta name="dtb:depth" content="3" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Sherlock Holmes Antolojisi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>KIZIL SORUŞTURMA</text>
+      </navLabel>
+      <content src="Text/006.html" />
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>BİRİNCİ KISIM</text>
+        </navLabel>
+        <content src="Text/007.html" />
+        <navPoint id="navPoint-3" playOrder="3">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/007.html#sigil_toc_id_1" />
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/008.html" />
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/009.html" />
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>IV</text>
+          </navLabel>
+          <content src="Text/010.html" />
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>V</text>
+          </navLabel>
+          <content src="Text/011.html" />
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>VI</text>
+          </navLabel>
+          <content src="Text/012.html" />
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>VII</text>
+          </navLabel>
+          <content src="Text/013.html" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>İKİNCİ KISIM</text>
+        </navLabel>
+        <content src="Text/014.html" />
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/014.html#sigil_toc_id_2" />
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/015.html" />
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/016.html" />
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>IV</text>
+          </navLabel>
+          <content src="Text/017.html" />
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>V</text>
+          </navLabel>
+          <content src="Text/018.html" />
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>VI</text>
+          </navLabel>
+          <content src="Text/019.html" />
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>VII</text>
+          </navLabel>
+          <content src="Text/020.html" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>DÖRTLÜ İTTİFAK</text>
+      </navLabel>
+      <content src="Text/021.html" />
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/022.html" />
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/023.html" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/024.html" />
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/025.html" />
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/026.html" />
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/027.html" />
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/028.html" />
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/029.html" />
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/030.html" />
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/031.html" />
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/032.html" />
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/033.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>SHERLOCK HOLMES'ÜN MACERALARI</text>
+      </navLabel>
+      <content src="Text/034.html" />
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Bohemya'da Skandal</text>
+        </navLabel>
+        <content src="Text/035.html" />
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/035.html#sigil_toc_id_3" />
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/036.html" />
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/037.html" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Kızıl Saçlılar Kulübü</text>
+        </navLabel>
+        <content src="Text/038.html" />
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Bir Kimlik Vakası</text>
+        </navLabel>
+        <content src="Text/039.html" />
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Boscombe Vadisi'nin Esrarı</text>
+        </navLabel>
+        <content src="Text/040.html" />
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Beş Portakal Çekirdeği</text>
+        </navLabel>
+        <content src="Text/041.html" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Tavşan Dudaklı Adam</text>
+        </navLabel>
+        <content src="Text/042.html" />
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Mavi Yakut</text>
+        </navLabel>
+        <content src="Text/043.html" />
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Benekli Kordon</text>
+        </navLabel>
+        <content src="Text/044.html" />
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Mühendisin Başparmağı</text>
+        </navLabel>
+        <content src="Text/045.html" />
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Asil Bekâr</text>
+        </navLabel>
+        <content src="Text/046.html" />
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Zümrüt Taç</text>
+        </navLabel>
+        <content src="Text/047.html" />
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Akgürgenlerin Esrarı</text>
+        </navLabel>
+        <content src="Text/048.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>SHERLOCK HOLMES'ÜN ANILARI</text>
+      </navLabel>
+      <content src="Text/049.html" />
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Gümüş Şimşek</text>
+        </navLabel>
+        <content src="Text/050.html" />
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Karton Kutu</text>
+        </navLabel>
+        <content src="Text/051.html" />
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Sarı Surat</text>
+        </navLabel>
+        <content src="Text/052.html" />
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Borsa Kâtibi</text>
+        </navLabel>
+        <content src="Text/053.html" />
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Gloria Scott Vakası</text>
+        </navLabel>
+        <content src="Text/054.html" />
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Musgrave'lerin Tekerlemesi</text>
+        </navLabel>
+        <content src="Text/055.html" />
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Reigate Bulmacası</text>
+        </navLabel>
+        <content src="Text/056.html" />
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Albayın Ölümü</text>
+        </navLabel>
+        <content src="Text/057.html" />
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Brook Sokağı Cinayeti</text>
+        </navLabel>
+        <content src="Text/058.html" />
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Yunanlı Tercüman</text>
+        </navLabel>
+        <content src="Text/059.html" />
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Kayıp Antlaşma</text>
+        </navLabel>
+        <content src="Text/060.html" />
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Son Olay</text>
+        </navLabel>
+        <content src="Text/061.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>BASKERVILLE'LERİN KÖPEĞİ</text>
+      </navLabel>
+      <content src="Text/062.html" />
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/063.html" />
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/064.html" />
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/065.html" />
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/066.html" />
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/067.html" />
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/068.html" />
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/069.html" />
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/070.html" />
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/071.html" />
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/072.html" />
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/073.html" />
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/074.html" />
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/075.html" />
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/076.html" />
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/077.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>SHERLOCK HOLMES'ÜN DÖNÜŞÜ</text>
+      </navLabel>
+      <content src="Text/078.html" />
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Boş Ev</text>
+        </navLabel>
+        <content src="Text/079.html" />
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Norwood'lu İnşaatcı</text>
+        </navLabel>
+        <content src="Text/080.html" />
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>Dans Eden Adamlar</text>
+        </navLabel>
+        <content src="Text/081.html" />
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Bisikletli Takip</text>
+        </navLabel>
+        <content src="Text/082.html" />
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Priory Okulu Vakası</text>
+        </navLabel>
+        <content src="Text/083.html" />
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>Kara Peter</text>
+        </navLabel>
+        <content src="Text/084.html" />
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Charles Augustus Milverton Vakası</text>
+        </navLabel>
+        <content src="Text/085.html" />
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>Altı Napolyon'un Esrarı</text>
+        </navLabel>
+        <content src="Text/086.html" />
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Üç Öğrencinin Hikâyesi</text>
+        </navLabel>
+        <content src="Text/087.html" />
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Altın Gözlüğünün Esrarı</text>
+        </navLabel>
+        <content src="Text/088.html" />
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>Kayıp Rugby Oyuncusu</text>
+        </navLabel>
+        <content src="Text/089.html" />
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>Abbey Çiftliği Vakası</text>
+        </navLabel>
+        <content src="Text/090.html" />
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>İkinci Lekenin Esrarı</text>
+        </navLabel>
+        <content src="Text/091.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>SON GÖREV</text>
+      </navLabel>
+      <content src="Text/092.html" />
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>Wisteria Köşkü</text>
+        </navLabel>
+        <content src="Text/093.html" />
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>Kızıl Çember</text>
+        </navLabel>
+        <content src="Text/094.html" />
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>Bruce Partington Planları</text>
+        </navLabel>
+        <content src="Text/095.html" />
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>Dedektif Ölüm Döşeğinde</text>
+        </navLabel>
+        <content src="Text/096.html" />
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>Lady Frances Carfex'in Kayboluşu</text>
+        </navLabel>
+        <content src="Text/097.html" />
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>Şeytan Ayağı</text>
+        </navLabel>
+        <content src="Text/098.html" />
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>Perde Kapanıyor</text>
+        </navLabel>
+        <content src="Text/099.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>KORKU VADİSİ</text>
+      </navLabel>
+      <content src="Text/100.html" />
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>BİRİNCİ KISIM</text>
+        </navLabel>
+        <content src="Text/101.html" />
+        <navPoint id="navPoint-100" playOrder="100">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/101.html#sigil_toc_id_4" />
+        </navPoint>
+        <navPoint id="navPoint-101" playOrder="101">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/102.html" />
+        </navPoint>
+        <navPoint id="navPoint-102" playOrder="102">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/103.html" />
+        </navPoint>
+        <navPoint id="navPoint-103" playOrder="103">
+          <navLabel>
+            <text>IV</text>
+          </navLabel>
+          <content src="Text/104.html" />
+        </navPoint>
+        <navPoint id="navPoint-104" playOrder="104">
+          <navLabel>
+            <text>V</text>
+          </navLabel>
+          <content src="Text/105.html" />
+        </navPoint>
+        <navPoint id="navPoint-105" playOrder="105">
+          <navLabel>
+            <text>VI</text>
+          </navLabel>
+          <content src="Text/106.html" />
+        </navPoint>
+        <navPoint id="navPoint-106" playOrder="106">
+          <navLabel>
+            <text>VII</text>
+          </navLabel>
+          <content src="Text/107.html" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>İKİNCİ KISIM</text>
+        </navLabel>
+        <content src="Text/108.html" />
+        <navPoint id="navPoint-108" playOrder="108">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/108.html#sigil_toc_id_5" />
+        </navPoint>
+        <navPoint id="navPoint-109" playOrder="109">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/109.html" />
+        </navPoint>
+        <navPoint id="navPoint-110" playOrder="110">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/110.html" />
+        </navPoint>
+        <navPoint id="navPoint-111" playOrder="111">
+          <navLabel>
+            <text>IV</text>
+          </navLabel>
+          <content src="Text/111.html" />
+        </navPoint>
+        <navPoint id="navPoint-112" playOrder="112">
+          <navLabel>
+            <text>V</text>
+          </navLabel>
+          <content src="Text/112.html" />
+        </navPoint>
+        <navPoint id="navPoint-113" playOrder="113">
+          <navLabel>
+            <text>VI</text>
+          </navLabel>
+          <content src="Text/113.html" />
+        </navPoint>
+        <navPoint id="navPoint-114" playOrder="114">
+          <navLabel>
+            <text>VII</text>
+          </navLabel>
+          <content src="Text/114.html" />
+        </navPoint>
+        <navPoint id="navPoint-115" playOrder="115">
+          <navLabel>
+            <text>SONSÖZ</text>
+          </navLabel>
+          <content src="Text/115.html" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-116" playOrder="116">
+      <navLabel>
+        <text>DAVA KİTABI</text>
+      </navLabel>
+      <content src="Text/116.html" />
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>Mazarin Taşı</text>
+        </navLabel>
+        <content src="Text/117.html" />
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>Thor Köprüsü</text>
+        </navLabel>
+        <content src="Text/118.html" />
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>Sürünen Adam</text>
+        </navLabel>
+        <content src="Text/119.html" />
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>Sussex Vampiri</text>
+        </navLabel>
+        <content src="Text/120.html" />
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>Üç Garrideb</text>
+        </navLabel>
+        <content src="Text/121.html" />
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>Şanslı Müşteri</text>
+        </navLabel>
+        <content src="Text/122.html" />
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>Üç Çatılı Ev</text>
+        </navLabel>
+        <content src="Text/123.html" />
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>Beyaz Asker</text>
+        </navLabel>
+        <content src="Text/124.html" />
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>Aslan Yelesi</text>
+        </navLabel>
+        <content src="Text/125.html" />
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>Emekli Boya İmalatçısı</text>
+        </navLabel>
+        <content src="Text/126.html" />
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>Peçeli Kiracı</text>
+        </navLabel>
+        <content src="Text/127.html" />
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>Shoscombe Prensi</text>
+        </navLabel>
+        <content src="Text/128.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-129" playOrder="129">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="Text/129.html" />
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Sherlock Holmes - Suç Detayda Saklıdır</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Doyle, Arthur Conan">Arthur Conan Doyle</dc:creator>
+    <dc:publisher>Martı Yayınları</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:DA57930A-5841-4500-B9D9-9DD70FD2ED02</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">caffff03-b1f1-4678-a0cf-34909abad12b</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="images/akil-oyunlari-3d_fmt.jpeg" id="akil-oyunlari-3d_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/bolum-basi-2_fmt.jpeg" id="bolum-basi-2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/bolum-basi-2_fmt.png" id="bolum-basi-2_fmt.png" media-type="image/png"/>
+    <item href="images/bolum-basi-2_fmt1.jpeg" id="bolum-basi-2_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/bolum-basi-2_fmt2.jpeg" id="bolum-basi-2_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="images/bolum-basi-2_fmt3.jpeg" id="bolum-basi-2_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="images/bolum-basi-2_fmt4.jpeg" id="bolum-basi-2_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="images/bolum-basi-2_fmt5.jpeg" id="bolum-basi-2_fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="images/bolum-basi-2_fmt6.jpeg" id="bolum-basi-2_fmt6.jpeg" media-type="image/jpeg"/>
+    <item href="images/bolum-basi-2_fmt7.jpeg" id="bolum-basi-2_fmt7.jpeg" media-type="image/jpeg"/>
+    <item href="images/bolum-basi-2_fmt8.jpeg" id="bolum-basi-2_fmt8.jpeg" media-type="image/jpeg"/>
+    <item href="images/bolum-basi-2_fmt9.jpeg" id="bolum-basi-2_fmt9.jpeg" media-type="image/jpeg"/>
+    <item href="images/Screen Shot 2012-05-1_fmt10.png" id="Screen-20Shot-202012-05-1_fmt10.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-1_fmt11.png" id="Screen-20Shot-202012-05-1_fmt11.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-1_fmt12.png" id="Screen-20Shot-202012-05-1_fmt12.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-1_fmt13.png" id="Screen-20Shot-202012-05-1_fmt13.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-1_fmt14.png" id="Screen-20Shot-202012-05-1_fmt14.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-1_fmt15.png" id="Screen-20Shot-202012-05-1_fmt15.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-1_fmt16.png" id="Screen-20Shot-202012-05-1_fmt16.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-1_fmt17.png" id="Screen-20Shot-202012-05-1_fmt17.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-1_fmt18.png" id="Screen-20Shot-202012-05-1_fmt18.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-1_fmt19.png" id="Screen-20Shot-202012-05-1_fmt19.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-1_fmt20.png" id="Screen-20Shot-202012-05-1_fmt20.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-1_fmt21.png" id="Screen-20Shot-202012-05-1_fmt21.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-11 _fmt.png" id="Screen-20Shot-202012-05-11-20_fmt.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-11_fmt1.png" id="Screen-20Shot-202012-05-11_fmt1.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-11_fmt2.png" id="Screen-20Shot-202012-05-11_fmt2.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-11_fmt3.png" id="Screen-20Shot-202012-05-11_fmt3.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-11_fmt4.png" id="Screen-20Shot-202012-05-11_fmt4.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-11_fmt5.png" id="Screen-20Shot-202012-05-11_fmt5.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-11_fmt6.png" id="Screen-20Shot-202012-05-11_fmt6.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-11_fmt7.png" id="Screen-20Shot-202012-05-11_fmt7.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-11_fmt8.png" id="Screen-20Shot-202012-05-11_fmt8.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-11_fmt9.png" id="Screen-20Shot-202012-05-11_fmt9.png" media-type="image/png"/>
+    <item href="fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-BoldIt.otf" id="MinionPro-BoldIt.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/x-font-otf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

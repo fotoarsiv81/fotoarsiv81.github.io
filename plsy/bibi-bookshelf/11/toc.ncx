@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="96378351-8116-4ae3-b300-88569c8c97ca" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Korku Vadisi Sherlock Holmes</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="cf524404-1d44-4bfb-9288-8d932e8f286f" playOrder="1">
+      <navLabel>
+        <text>I. KISIM BIRLSTONE TRAJEDİSİ</text>
+      </navLabel>
+      <content src="korkuvadisi_split_002.html"/>
+      <navPoint id="4698e8ce-ed69-404a-bc7b-8c8abc7ea061" playOrder="2">
+        <navLabel>
+          <text>I. BÖLÜM UYARI</text>
+        </navLabel>
+        <content src="korkuvadisi_split_003.html"/>
+      </navPoint>
+      <navPoint id="a3ca14a2-e4c5-45b2-b67c-7a669e1a7942" playOrder="3">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM SHERLOCK HOLMES'UN KONUŞMASI</text>
+        </navLabel>
+        <content src="korkuvadisi_split_004.html"/>
+      </navPoint>
+      <navPoint id="42ce2f0e-166c-47ce-846a-8c402d4097c1" playOrder="4">
+        <navLabel>
+          <text>ÜÇÜNCÜ BÖLÜM BIRLSTONE TRAJEDİSİ</text>
+        </navLabel>
+        <content src="korkuvadisi_split_005.html"/>
+      </navPoint>
+      <navPoint id="60c3de9e-bc48-4d47-9721-949598ba5777" playOrder="5">
+        <navLabel>
+          <text>DÖRDÜNCÜ BÖLÜM KARANLIK</text>
+        </navLabel>
+        <content src="korkuvadisi_split_006.html"/>
+      </navPoint>
+      <navPoint id="36f8ee59-b8a9-4fde-a6a4-3e0d07d61f30" playOrder="6">
+        <navLabel>
+          <text>BEŞİNCİ BÖLÜM ŞAHİTLER</text>
+        </navLabel>
+        <content src="korkuvadisi_split_007.html"/>
+      </navPoint>
+      <navPoint id="715e7654-4f08-4346-bb0c-3c255d9c5f34" playOrder="7">
+        <navLabel>
+          <text>ALTINCI BÖLÜM AYDINLANMA</text>
+        </navLabel>
+        <content src="korkuvadisi_split_008.html"/>
+      </navPoint>
+      <navPoint id="9b2e73a0-0225-411e-8984-b265ccb2a7db" playOrder="8">
+        <navLabel>
+          <text>YEDİNCİ BÖLÜM ÇÖZÜM</text>
+        </navLabel>
+        <content src="korkuvadisi_split_009.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="aa23a43e-ba1d-41a0-ab8f-a748af362fc9" playOrder="9">
+      <navLabel>
+        <text>II. KISIM VANDALLAR</text>
+      </navLabel>
+      <content src="korkuvadisi_split_010.html"/>
+      <navPoint id="c19ead63-eeab-4020-afab-82ffa7a38921" playOrder="10">
+        <navLabel>
+          <text>BİRİNCİ BÖLÜM ADAM</text>
+        </navLabel>
+        <content src="korkuvadisi_split_011.html"/>
+      </navPoint>
+      <navPoint id="ea21ce86-47f4-4a79-84da-6c4f929496de" playOrder="11">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM VÜCUTLARIN EFENDİSİ</text>
+        </navLabel>
+        <content src="korkuvadisi_split_012.html"/>
+      </navPoint>
+      <navPoint id="b3c3beff-3fd3-424b-adfe-ae9aaac817d9" playOrder="12">
+        <navLabel>
+          <text>ÜÇÜNCÜ BÖLÜM LOCA 341, VERMISSA</text>
+        </navLabel>
+        <content src="korkuvadisi_split_013.html"/>
+      </navPoint>
+      <navPoint id="2a84b1d8-804f-44a3-8784-f47202637dbe" playOrder="13">
+        <navLabel>
+          <text>DÖRDÜNCÜ BÖLÜM KORKU VADİSİ</text>
+        </navLabel>
+        <content src="korkuvadisi_split_014.html"/>
+      </navPoint>
+      <navPoint id="14b05d21-c7cc-4a8c-b4c5-cc0196f9d87b" playOrder="14">
+        <navLabel>
+          <text>BEŞİNCİ BÖLÜM EN KARANLIK SAAT</text>
+        </navLabel>
+        <content src="korkuvadisi_split_015.html"/>
+      </navPoint>
+      <navPoint id="7139f125-f1a9-4286-8402-fd1ccdb25be8" playOrder="15">
+        <navLabel>
+          <text>ALTINCI BÖLÜM TEHLİKE</text>
+        </navLabel>
+        <content src="korkuvadisi_split_016.html"/>
+      </navPoint>
+      <navPoint id="11596799-cc27-4233-8a6e-91025b8590b2" playOrder="16">
+        <navLabel>
+          <text>YEDİNCİ BÖLÜM BIRDY EDWARDS'A TUZAK</text>
+        </navLabel>
+        <content src="korkuvadisi_split_017.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="6a63dc33-e11e-4ac9-b268-fb09da540875" playOrder="17">
+      <navLabel>
+        <text>SONSÖZ</text>
+      </navLabel>
+      <content src="korkuvadisi_split_018.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="00c50052-ce81-45d4-90b8-c2c1ce37bfa7" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bir Kimlik Vakası</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="41653024-43a7-442f-938e-eec9a39f19e7" playOrder="1">
+      <navLabel>
+        <text>BİR KİMLİK VAKASI</text>
+      </navLabel>
+      <content src="kimlik_split_003.html"/>
+    </navPoint>
+    <navPoint id="bde5b9af-bf55-45ba-9736-b39cb740ffac" playOrder="2">
+      <navLabel>
+        <text>SUSSEX VAMPİRİ</text>
+      </navLabel>
+      <content src="kimlik_split_004.html"/>
+    </navPoint>
+    <navPoint id="684f8678-c498-4b0a-a267-d76d3fe96eec" playOrder="3">
+      <navLabel>
+        <text>EMEKLİ BOYA İMALATÇISININ MACERASI</text>
+      </navLabel>
+      <content src="kimlik_split_005.html"/>
+    </navPoint>
+    <navPoint id="b65565e4-fafe-4324-9d9e-0a27ed280855" playOrder="4">
+      <navLabel>
+        <text>WİSTERİA KÖŞKÜ</text>
+      </navLabel>
+      <content src="kimlik_split_006.html"/>
+    </navPoint>
+    <navPoint id="0c1903bf-636f-45fd-af87-c9d60e6408fb" playOrder="5">
+      <navLabel>
+        <text>YUNANLI TERCÜMAN</text>
+      </navLabel>
+      <content src="kimlik_split_007.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="671c9103-3394-4af0-8543-de05ce9d689c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.47)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sarı Surat</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ea4b3307-eba0-4764-9e8a-e5b5733f0285" playOrder="1">
+      <navLabel>
+        <text>BERİL TAÇ DAVASI</text>
+      </navLabel>
+      <content src="sarisurat_split_003.html"/>
+    </navPoint>
+    <navPoint id="88534096-2a66-48bf-b7d0-dbe89cc72927" playOrder="2">
+      <navLabel>
+        <text>SURAT</text>
+      </navLabel>
+      <content src="sarisurat_split_005.html"/>
+    </navPoint>
+    <navPoint id="3cc8933e-2097-4ecb-8a65-7fc7cf24661e" playOrder="3">
+      <navLabel>
+        <text>TAVŞAN DUDAKLI ADAM</text>
+      </navLabel>
+      <content src="sarisurat_split_007.html"/>
+    </navPoint>
+    <navPoint id="8dd4e14f-e718-4252-b226-0e5b4d55f7c0" playOrder="4">
+      <navLabel>
+        <text>KAYIP RUGBY[3] OYUNCUSU</text>
+      </navLabel>
+      <content src="sarisurat_split_009.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

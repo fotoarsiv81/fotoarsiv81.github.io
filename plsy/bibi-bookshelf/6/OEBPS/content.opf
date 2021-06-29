@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Sherlock Holmes - Boş Ev</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Doyle, Arthur Conan">Arthur Conan Doyle</dc:creator>
+    <dc:publisher>Mitra Yayınları</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:FFAE3E61-CE52-4EF6-BD35-CB5E8650E874</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;span style="orphans: 2; widows: 2;"&gt;Güzel bir sayfiye yerinin adı olan "Kırmızı Gürgenler"de iş bulmak için bir iş ilanına başvurmuş olan Bayan Hunter'in başından geçen tuhaf öykü anlatılmaktadır. Garip davranışlar içinde olan bir karı-kocanın biricik kızlarına bakmak için evlerine yerleşmiş olan Bayan Hunter kısa süre içinde buranın hiç de tekin bir yer olmadığını anlayacaktır. Büyük evin içinde olan tuhaf şeyleri çözmesi için Sherlock Holmes ve Dr. Watson'a başvuran Bayan Hunter evde saçları kendi saçına benzeyen birinin hapis hayatı yaşadığını öğrenirler. Bu meraklıların kendi evinde sırrını öğrenmesinden hiç hoşlanmayan ev sahibinin de onlar hakkında başka planları vardır.&lt;/span&gt;</dc:description>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">fe0ef740-2b14-4ab1-bd91-4d16bb8d4cce</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="KAPAK.html" id="KAPAK" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="images/Image33174_fmt.jpeg" id="Image33174_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/Image33188_fmt.jpeg" id="Image33188_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/Image33197_fmt.jpeg" id="Image33197_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/Image33206_fmt.jpeg" id="Image33206_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/Image33215_fmt.jpeg" id="Image33215_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/Image33231_fmt.jpeg" id="Image33231_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/Image33243_fmt.jpeg" id="Image33243_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/Image33253_fmt.jpeg" id="Image33253_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/Image33262_fmt.jpeg" id="Image33262_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uuKufABqyilNWU5wBdvvKQC" media-type="image/jpeg"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="KAPAK"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
