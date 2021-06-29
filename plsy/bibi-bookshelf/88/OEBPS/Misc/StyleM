@@ -1,0 +1,82 @@
+h1
+	{font-family:"Liberation Serif", serif;margin-top:0.5em;text-indent:0em;margin-bottom:0em;text-align:center;font-size:.9em;font-weight:normal;}
+
+
+
+h2
+	{font-family:"Liberation Serif", serif;margin-top:2em;margin-bottom:6em;text-align:center;font-size:1.4em;text-indent:0em;font-weight:bold;}
+
+
+h3
+	{font-family:"Liberation Serif", serif;margin-top:1em;margin-bottom:9em;text-align:center;font-size:normal;text-indent:0em;font-style:italic;font-weight:bold;}
+
+p
+	{text-align:left;font-family:"Liberation Serif", serif;text-indent:1em;margin-top:0.0em;margin-bottom:0.0em;font-size:.9em;}
+
+.p1 {text-indent:0em;}
+
+.p2 {margin-left:2em;text-indent:0em;font-size:.8;margin-top:1em;margin-bottom:1em;}
+
+.p20 {margin-left:2em;text-indent:0em;font-size:.8;margin-top:0em;margin-bottom:0em;}
+
+.p21 {margin-left:2em;text-indent:1em;font-size:.8;margin-top:0em;margin-bottom:0em;}
+
+.ithaf {text-align:right;font-size:.8em;margin-top:4em;text-indent:0em;margin-bottom:4em;}
+
+.kunye {text-align:left;text-indent:0em;margin-top:0em;margin-left:1em;margin-bottom:0em;font-size: 0.7em;}
+
+.baslangic {text-indent:0em;text-align:center;font-size:1.1em;margin-top:3em;}
+
+.logo {margin-top:5em;text-indent:0em;text-align:center;}
+
+.logo1 {text-indent:0em;text-align:center;}
+
+
+.baslik
+	{text-align:center;font-family:"Liberation Serif-Bold", serif;font-weight:normal;text-indent:0em;font-size:1.4em;margin-top:2em;margin-bottom:0.5em;}
+
+.baslik2{text-align:center;font-family:"Liberation Serif-Bold", serif;font-style:bold;font-size:1.9em;text-indent:0em;margin-top:0em;margin-bottom:0.6em;}
+
+.baslik3 {text-align:center;font-family:"Liberation Serif-Bold", serif;text-indent:0em;font-size:.8em;margin-top:4em;margin-bottom:2em;}
+
+.baslik4 {text-align:center;font-family:"Liberation Serif-Bold", serif;font-size:.8em;text-indent:0em;margin-top:.2em;margin-bottom:.2em;}
+
+.baslik45{text-align:center;font-family:"Liberation Serif-Bold", serif;font-size:.95em;text-indent:0em;margin-top:0em;margin-bottom:7em;}
+
+.dipnot {text-align:left;text-indent:2em;margin-top:1em;margin-bottom:1em;margin-left:2em;}
+
+.dipnot1 {text-align:left;text-indent:2em;margin-top:1em;margin-bottom:1em;page-break-before: always;margin-left:2em;}
+
+span.ilkharf {font-size:2.5em;font-weight:bold;float: left; margin: 0em 0.05em -0.1em -0.10em;}
+
+.ilkharf {font-size:2.5em;font-weight:bold;float: left;margin: 0em 0.05em -0.1em -0.10em;}
+
+sup, sub {line-height: 0;}
+
+.lettrine {float: left; margin: 0 0.5em -0.1em 0.25em;}
+
+.kisim {margin-top:4em;}
+
+.onsoz {text-align:center;text-indent:0em;font-size:1.1em;font-style:italic;}
+
+.onsoz3 {text-align:center;text-indent:0em;text-align:center;font-size:1.4em;font-weight:bold;}
+
+.onsoz35 {text-align:center;text-indent:0em;text-align:center;font-size:1.1em;font-weight:bold;}
+
+.onsoz2 {text-align:center;text-indent:0em;font-size:1.2em;margin-bottom:6em;}
+
+.dipnot1 {page-break-before: always;}
+
+.kronoloji {clear:both; width: 100%;}
+.kronoloji_sol {clear:both;
+float: left; width: 10%; margin-top:1em;}
+.kronoloji_sag {float: right; width: 90%;}
+.kronoloji_sag_sag {float: right; text-align: justify; text-indent:0em; margin-right:0.1em; margin-top:1em; width: 47.5%;}
+.kronoloji_sag_sol {clear:both;
+float: left; text-align: justify; text-indent:0em; margin-right:0.1em;width: 47.5%;margin-top:1em;}
+
+.kronoloji p {text-indent:0em; font-size:0.68em;}
+
+.yazar{text-align:justify;text-indent:-1em;margin-top:0em;margin-left:1em;margin-bottom:0em;font-size: 0.85em;}
+
+.yazar1{text-align:justify;text-indent:1em;margin-top:0em;margin-left:1em;margin-bottom:0em;font-size: 0.7em;}

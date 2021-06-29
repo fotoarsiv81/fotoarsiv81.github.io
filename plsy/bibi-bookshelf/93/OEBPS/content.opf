@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="King, Stephen">Stephen King</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:bd0a77b5-822e-45be-8d20-75e852b6ba1e</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>1973-12-31T22:00:00+00:00</dc:date>
+    <meta content="Göz" name="calibre:title_sort"/>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;Korku romanlarına yepyeni bir soluk getiren Stephen King, bu yapıtında intikam duygusuyla yanıp tutuşan, telekinetik güçlere sahip, Carrie White'ın öyküsünü sergiliyor... Korkuyla buluşun, kâbusu yaşayın.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2014-11-01</dc:date>
+  <dc:title>Göz</dc:title>
+<dc:subject>Gerilim</dc:subject>
+<dc:subject>Korku</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">04df14e4-853d-4a71-b221-992e5e40a2e6</dc:identifier>
+<dc:identifier opf:scheme="AMAZON">B00EN018MC</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">eUjcSgAACAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754054217</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">13977422</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Styles/page_styles.css" id="page_styles.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Text/Chapter-1.xhtml" id="Chapter-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-2.xhtml" id="Chapter-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-3.xhtml" id="Chapter-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/author.xhtml" id="author.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="author.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Chapter-1.xhtml"/>
+    <itemref idref="Chapter-2.xhtml"/>
+    <itemref idref="Chapter-3.xhtml"/>
+  </spine>
+</package>

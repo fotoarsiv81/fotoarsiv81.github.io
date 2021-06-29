@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8a6a3a70-3f19-4f3f-83d4-c5a0e4d50c7c</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.22.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2013-09-08T21:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-03-01</dc:date>
+    <meta content="Silahşor" name="calibre:title_sort" />
+    <meta content="Kara Kule" name="calibre:series" />
+    <meta content="1.0" name="calibre:series_index" />
+    <meta content="10.0" name="calibre:rating" />
+    <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta name="cover" content="cover" />
+    <meta content="0.7.2" name="Sigil version" />
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="2014-02-01T00:19:59.485000+00:00" name="calibre:timestamp" />
+    <dc:title>Silahşor</dc:title>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Fantezi</dc:subject>
+    <dc:subject>Korku</dc:subject>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Western</dc:subject>
+    <dc:description>&lt;p&gt;SİLAHŞÖR GİZEMLİ YOLCULUĞUNA BAŞLIYOR. &lt;/p&gt;&lt;p&gt;KARA KULE NEREDE? &lt;/p&gt;&lt;p&gt;ONU BULMAK İÇİN BU MACERAYA KATILIN! &lt;/p&gt;&lt;p&gt;&lt;em&gt;Silahşor (Kara Kule I)&lt;/em&gt;, Stephen King'in Kara kule serisinin yenidene gözden geçirilmiş ilk kitabıdır. &lt;/p&gt;&lt;p&gt;Gizemli kahraman son Silahşor Gilead'lı Roland tek başına büyüleyici bir iyilik ve kötülük yolculuğuna çıkar. Siyahlı Adam'ı ararken Alice adında çekici bir kadın ve Jake adında New York'lu bir çocukla arkadaşlık etmeye başlar. Ama bizimkini yansıtan kendi iç dünyasında aslında oldukça yalnız ve mutsuz bir tiptir. &lt;/p&gt;&lt;p&gt;&lt;em&gt;Kara Kule&lt;/em&gt;, diğer adıyla &lt;em&gt;Silahşor&lt;/em&gt;, Roland'ın gerçek kimliği ve ilgi çekici karakterini keşfedebileceğiniz, baş döndürücü hayali görüntüler ve karakterlerle bezeli inanılmaz bir roman. &lt;/p&gt;&lt;p&gt;Büyük usta Stephen King'in korku, hayal ve gerçeği harmanladığı &lt;em&gt;Kara Kule&lt;/em&gt;, onu yazarlığın zirvesine çıkardı.&lt;/p&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">835bbe5a-6bef-4003-8ea5-52bdcd8cb34e</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">9754051518</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">v6AxAAAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754051513</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">12414976</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/1.xhtml" id="x1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/2.xhtml" id="x2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/3.xhtml" id="x3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/4.xhtml" id="x4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/5.xhtml" id="x5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/6.xhtml" id="x6.xhtml" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/page_styles.css" id="page_styles.css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css" />
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="x1.xhtml" />
+    <itemref idref="x2.xhtml" />
+    <itemref idref="x3.xhtml" />
+    <itemref idref="x4.xhtml" />
+    <itemref idref="x5.xhtml" />
+    <itemref idref="x6.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

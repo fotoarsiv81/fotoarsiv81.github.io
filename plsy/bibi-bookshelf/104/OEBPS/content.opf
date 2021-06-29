@@ -1,0 +1,178 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Harris, Thomas">Thomas Harris</dc:creator>
+<dc:identifier id="uuid">{DECFAE61-3744-44DB-B5D9-6586B85EDA19}</dc:identifier>
+    <dc:publisher>Nemesis Kitap</dc:publisher>
+    <dc:date>2014-09-11T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x1_-_0001.jpg"/>
+  <meta name="calibre:title_sort" content="Hannibal Doğuyor"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:description>&lt;p&gt;Bir korku imparatoru: Hannibal Lecter Soğuk bir kış günü doğan Hannibal, masumiyetinin çok ötesinde hisler taşımaktadır. Yalnızdır, korkmuştur. Yanında olduğunu hissettiği tek şeyse kötülüktür. Onu bulup yanlarına alan amcası ve ve amcasının eşiyle birlikte bir şansı olur. Özellikle amcasının eşi olan Leydi Murasaki'nin çabalarıyla iyileşmeye başlar. Ancak baştan beri içine işleyen kötülük hissinden hiçbir zaman kurtulamadığını fark etmesi uzun sürmez. Kurtulamamıştır çünkü, kız kardeşini gözlerinin önünde parçalara ayırıp yiyenler, Hannibal'in içine asla kurtulamayacağı intikam tohumları ekmişlerdir. Thomas Harris'in yarattığı bir korku klasiği olan Hannibal Lecter'ın hikâyesi, kötülük ve intikam isteği arasındaki ilişkiyi, yeniden düşünmenize neden olacak.
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Thomas Harris&quot;: &quot;&quot;}"/>
+<meta name="calibre:series" content="Hannibal Lecter"/>
+<meta name="calibre:series_index" content="4.0"/>
+<dc:title>Hannibal Doğuyor</dc:title>
+<dc:subject>Korku</dc:subject>
+<dc:subject>Gerilim</dc:subject>
+<dc:subject>Gizem</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">67ca08ad-4b9f-4a4b-91b2-b6c0dbbec2f0</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786055092573</dc:identifier>
+<meta name="calibre:user_metadata:#ege" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#ege&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;ege&quot;, &quot;is_multiple&quot;: null, &quot;column&quot;: &quot;value&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {&quot;use_decorations&quot;: 2}, &quot;name&quot;: &quot;Goodreads&quot;}"/>
+        <meta name="calibre:user_metadata:#check" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#check&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;check&quot;, &quot;is_multiple&quot;: null, &quot;column&quot;: &quot;value&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {&quot;use_decorations&quot;: 2}, &quot;name&quot;: &quot;OKUNMA DURUMU&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="Text/B-011.xhtml" id="B-011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-029.xhtml" id="B-029.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-033.xhtml" id="B-033.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-050.xhtml" id="B-050.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/T-001.xhtml" id="T-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/I-001.xhtml" id="I-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/I-002.xhtml" id="I-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-001.xhtml" id="P-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-001.xhtml" id="B-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-004.xhtml" id="B-004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-002.xhtml" id="B-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-003.xhtml" id="B-003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-005.xhtml" id="B-005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-006.xhtml" id="B-006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-007.xhtml" id="B-007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-008.xhtml" id="B-008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-009.xhtml" id="B-009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-010.xhtml" id="B-010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-012.xhtml" id="B-012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-013.xhtml" id="B-013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-014.xhtml" id="B-014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-015.xhtml" id="B-015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-016.xhtml" id="B-016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-017.xhtml" id="B-017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-018.xhtml" id="B-018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-019.xhtml" id="B-019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-020.xhtml" id="B-020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-021.xhtml" id="B-021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-022.xhtml" id="B-022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-023.xhtml" id="B-023.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-024.xhtml" id="B-024.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-025.xhtml" id="B-025.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-026.xhtml" id="B-026.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-027.xhtml" id="B-027.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-028.xhtml" id="B-028.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-030.xhtml" id="B-030.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-031.xhtml" id="B-031.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-002.xhtml" id="P-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-034.xhtml" id="B-034.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-035.xhtml" id="B-035.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-036.xhtml" id="B-036.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-037.xhtml" id="B-037.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-038.xhtml" id="B-038.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-039.xhtml" id="B-039.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-040.xhtml" id="B-040.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-041.xhtml" id="B-041.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-042.xhtml" id="B-042.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-043.xhtml" id="B-043.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-044.xhtml" id="B-044.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-045.xhtml" id="B-045.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-046.xhtml" id="B-046.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-047.xhtml" id="B-047.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-048.xhtml" id="B-048.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-049.xhtml" id="B-049.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-051.xhtml" id="B-051.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-052.xhtml" id="B-052.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-053.xhtml" id="B-053.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-054.xhtml" id="B-054.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-055.xhtml" id="B-055.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-056.xhtml" id="B-056.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-003.xhtml" id="P-003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-058.xhtml" id="B-058.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-059.xhtml" id="B-059.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-060.xhtml" id="B-060.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-057.xhtml" id="B-057.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/NEMESiiS.jpg" id="NEMESiiS.jpg" media-type="image/jpeg"/>
+    <item href="Text/I-003.xhtml" id="I-003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/B-032.xhtml" id="B-032.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/1 - 0001.jpg" id="x1_-_0001.jpg" media-type="image/jpeg"/>
+    <item href="Styles/STYLE.css" id="STYLE.css" media-type="text/css"/>
+    <item href="Text/rica.xhtml" id="rica.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="rica.xhtml"/>
+    <itemref idref="I-001.xhtml"/>
+    <itemref idref="I-002.xhtml"/>
+    <itemref idref="I-003.xhtml"/>
+    <itemref idref="P-001.xhtml"/>
+    <itemref idref="B-001.xhtml"/>
+    <itemref idref="B-002.xhtml"/>
+    <itemref idref="B-003.xhtml"/>
+    <itemref idref="B-004.xhtml"/>
+    <itemref idref="B-005.xhtml"/>
+    <itemref idref="B-006.xhtml"/>
+    <itemref idref="B-007.xhtml"/>
+    <itemref idref="B-008.xhtml"/>
+    <itemref idref="B-009.xhtml"/>
+    <itemref idref="B-010.xhtml"/>
+    <itemref idref="B-011.xhtml"/>
+    <itemref idref="B-012.xhtml"/>
+    <itemref idref="B-013.xhtml"/>
+    <itemref idref="B-014.xhtml"/>
+    <itemref idref="B-015.xhtml"/>
+    <itemref idref="B-016.xhtml"/>
+    <itemref idref="B-017.xhtml"/>
+    <itemref idref="B-018.xhtml"/>
+    <itemref idref="B-019.xhtml"/>
+    <itemref idref="B-020.xhtml"/>
+    <itemref idref="B-021.xhtml"/>
+    <itemref idref="B-022.xhtml"/>
+    <itemref idref="B-023.xhtml"/>
+    <itemref idref="B-024.xhtml"/>
+    <itemref idref="B-025.xhtml"/>
+    <itemref idref="B-026.xhtml"/>
+    <itemref idref="B-027.xhtml"/>
+    <itemref idref="B-028.xhtml"/>
+    <itemref idref="B-029.xhtml"/>
+    <itemref idref="B-030.xhtml"/>
+    <itemref idref="B-031.xhtml"/>
+    <itemref idref="B-032.xhtml"/>
+    <itemref idref="P-002.xhtml"/>
+    <itemref idref="B-033.xhtml"/>
+    <itemref idref="B-034.xhtml"/>
+    <itemref idref="B-035.xhtml"/>
+    <itemref idref="B-036.xhtml"/>
+    <itemref idref="B-037.xhtml"/>
+    <itemref idref="B-038.xhtml"/>
+    <itemref idref="B-039.xhtml"/>
+    <itemref idref="B-040.xhtml"/>
+    <itemref idref="B-041.xhtml"/>
+    <itemref idref="B-042.xhtml"/>
+    <itemref idref="B-043.xhtml"/>
+    <itemref idref="B-044.xhtml"/>
+    <itemref idref="B-045.xhtml"/>
+    <itemref idref="B-046.xhtml"/>
+    <itemref idref="B-047.xhtml"/>
+    <itemref idref="B-048.xhtml"/>
+    <itemref idref="B-049.xhtml"/>
+    <itemref idref="B-050.xhtml"/>
+    <itemref idref="B-051.xhtml"/>
+    <itemref idref="B-052.xhtml"/>
+    <itemref idref="B-053.xhtml"/>
+    <itemref idref="B-054.xhtml"/>
+    <itemref idref="B-055.xhtml"/>
+    <itemref idref="B-056.xhtml"/>
+    <itemref idref="B-057.xhtml"/>
+    <itemref idref="P-003.xhtml"/>
+    <itemref idref="B-058.xhtml"/>
+    <itemref idref="B-059.xhtml"/>
+    <itemref idref="B-060.xhtml"/>
+    <itemref idref="T-001.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

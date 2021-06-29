@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (1.22.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ca211035-708f-4f4f-8a55-859e40dbea17</dc:identifier>
+    <dc:date>2001-12-31T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-02-13</dc:date>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:description>&lt;p&gt;Stephen King'den daha önce hiç yayınlanmamış ya da yalnızca internet üzerinden ve kaset olarak okuyucuya sunulmuş 14 öykünün yer aldığı yeni bir koleksiyon. Ölüleri, ölmek üzere olanları veya günlük hayatın sıradan dehşetini anlatan 14 karanlık öyküden oluşan bu kitap, King'in yine formunun zirvesinde olduğunu kanıtlıyor. Gerilim yüklü, ürkütücü ve okuyucuyu ilk cümlede esir alan bu öyküler, günümüzün belki de en muhteşem yazarının şaşırtıcı derecede zengin hayal gücünü gözler önüne seriyor.&lt;/p&gt;</dc:description>
+    <meta content="Karanlık Öyküler" name="calibre:title_sort" />
+    <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="10.0" name="calibre:rating" />
+    <meta content="2014-01-31T22:31:57.906000+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="cover" />
+    <dc:title>Karanlık Öyküler</dc:title>
+    <dc:subject>Antoloji</dc:subject>
+    <dc:subject>Fantezi</dc:subject>
+    <dc:subject>Gerilim</dc:subject>
+    <dc:subject>Korku</dc:subject>
+    <meta content="{}" name="calibre:user_categories" />
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">74d5190d-0a62-4b61-9a62-67d826353343</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">-J1SAAAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752103139</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">10357603</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Text/Kapak.xhtml" id="Kapak.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ic_Kapak.html" id="Ic_Kapak.html" media-type="application/xhtml+xml" />
+    <item href="Text/Icindekiler.html" id="Icindekiler.html" media-type="application/xhtml+xml" />
+    <item href="Text/Onsoz.html" id="Onsoz.html" media-type="application/xhtml+xml" />
+    <item href="Text/Hikaye-01.html" id="Chapter-1.html" media-type="application/xhtml+xml" />
+    <item href="Text/Hikaye-02.html" id="Chapter-2.html" media-type="application/xhtml+xml" />
+    <item href="Text/Hikaye-03.html" id="Chapter-3.html" media-type="application/xhtml+xml" />
+    <item href="Text/Hikaye-04.html" id="Chapter-4.html" media-type="application/xhtml+xml" />
+    <item href="Text/Hikaye-05.html" id="Chapter-5.html" media-type="application/xhtml+xml" />
+    <item href="Text/Hikaye-06.html" id="Chapter-6.html" media-type="application/xhtml+xml" />
+    <item href="Text/Hikaye-07.html" id="Chapter-7.html" media-type="application/xhtml+xml" />
+    <item href="Text/Hikaye-08.html" id="Chapter-8.html" media-type="application/xhtml+xml" />
+    <item href="Text/Hikaye-09.html" id="Chapter-9.html" media-type="application/xhtml+xml" />
+    <item href="Text/Hikaye-10.html" id="Chapter-10.html" media-type="application/xhtml+xml" />
+    <item href="Text/Hikaye-11.html" id="Chapter-11.html" media-type="application/xhtml+xml" />
+    <item href="Text/Hikaye-12.html" id="Chapter-12.html" media-type="application/xhtml+xml" />
+    <item href="Text/Hikaye-13.html" id="Chapter-13.html" media-type="application/xhtml+xml" />
+    <item href="Text/Hikaye-14.html" id="Chapter-14.html" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Kapak.xhtml" />
+    <itemref idref="Ic_Kapak.html" />
+    <itemref idref="Icindekiler.html" />
+    <itemref idref="Onsoz.html" />
+    <itemref idref="Chapter-1.html" />
+    <itemref idref="Chapter-2.html" />
+    <itemref idref="Chapter-3.html" />
+    <itemref idref="Chapter-4.html" />
+    <itemref idref="Chapter-5.html" />
+    <itemref idref="Chapter-6.html" />
+    <itemref idref="Chapter-7.html" />
+    <itemref idref="Chapter-8.html" />
+    <itemref idref="Chapter-9.html" />
+    <itemref idref="Chapter-10.html" />
+    <itemref idref="Chapter-11.html" />
+    <itemref idref="Chapter-12.html" />
+    <itemref idref="Chapter-13.html" />
+    <itemref idref="Chapter-14.html" />
+  </spine>
+  <guide>
+    <reference href="Text/Kapak.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

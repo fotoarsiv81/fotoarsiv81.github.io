@@ -1,0 +1,99 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="King, Stephen">Stephen King</dc:creator>
+<dc:identifier id="BookId">AWP-97B42F59-E99A-4962-855D-F2BAF1F5C7D0</dc:identifier>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:date>2014-08-21T21:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;Ünlü bir yazar olan Michael Noonan karısının ani ölümüyle adeta hayata küser. Ne yaptığı işe, ne de çevresine karşı bir isteği kalmıştır. Tüm bunların yanında yaşadığı yalnızlık duygusu beraberinde bunalımları ve kâbusları getirir. Her gece Sara Laughs adını verdikleri yazlık evlerini rüyalarında görür. Karşı koyamaz ve gider. Artık yeni bir hayata uyanacağını düşünmektedir. Ne var ki hiçbir şey göründüğü gibi değildir. O lanetli evde, kâbuslarının birer gerçek olduğunu anlaması uzun sürmez. Burası, dünyanın bu cennet köşesi, aslında hayal ve gerçeğin birbirinden ayrılmadığı bir cehennemdir.&lt;br style="padding: 0px; margin: 0px; font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Kemik Torbası" name="calibre:title_sort"/>
+    <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="kapak.bmp"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+  <dc:title>Kemik Torbası</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Korku</dc:subject>
+<dc:subject>Gerilim</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">c014b489-ba68-4b28-a7c5-d5fda387bce9</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754059748</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="id016" media-type="application/xhtml+xml"/>
+    <item href="Text/017.html" id="id017" media-type="application/xhtml+xml"/>
+    <item href="Text/018.html" id="id018" media-type="application/xhtml+xml"/>
+    <item href="Text/019.html" id="id019" media-type="application/xhtml+xml"/>
+    <item href="Text/020.html" id="id020" media-type="application/xhtml+xml"/>
+    <item href="Text/021.html" id="id021" media-type="application/xhtml+xml"/>
+    <item href="Text/022.html" id="id022" media-type="application/xhtml+xml"/>
+    <item href="Text/023.html" id="id023" media-type="application/xhtml+xml"/>
+    <item href="Text/024.html" id="id024" media-type="application/xhtml+xml"/>
+    <item href="Text/025.html" id="id025" media-type="application/xhtml+xml"/>
+    <item href="Text/026.html" id="id026" media-type="application/xhtml+xml"/>
+    <item href="Text/027.html" id="id027" media-type="application/xhtml+xml"/>
+    <item href="Text/028.html" id="id028" media-type="application/xhtml+xml"/>
+    <item href="Text/029.html" id="id029" media-type="application/xhtml+xml"/>
+    <item href="Text/030.html" id="id030" media-type="application/xhtml+xml"/>
+    <item href="Text/031.html" id="id031" media-type="application/xhtml+xml"/>
+    <item href="Text/032.html" id="id032" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/img1.jpg" id="img1" media-type="image/jpeg"/>
+    <item href="Images/kapak.bmp" id="kapak.bmp" media-type="image/bmp"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+    <itemref idref="id018"/>
+    <itemref idref="id019"/>
+    <itemref idref="id020"/>
+    <itemref idref="id021"/>
+    <itemref idref="id022"/>
+    <itemref idref="id023"/>
+    <itemref idref="id024"/>
+    <itemref idref="id025"/>
+    <itemref idref="id026"/>
+    <itemref idref="id027"/>
+    <itemref idref="id028"/>
+    <itemref idref="id029"/>
+    <itemref idref="id030"/>
+    <itemref idref="id031"/>
+    <itemref idref="id032"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,64 @@
+body {font-family: serif;}
+
+p {font-size: 1em;}
+i, em {font-style: italic;}
+b, strong {font-weight: bold;}
+a {text-decoration: none;}
+blockquote {margin: 1.5em 0;}
+
+.kapak_resmi {text-align: center; margin: 0; padding: 0;}
+
+.ic_kapak_1, .ithaf, .alinti, .ana_baslik {margin: 5em 0 1em;}
+.ic_kapak_2 {margin: 1em 0;}
+
+.kitap_adi, .yazar_adi, .cevirmen_adi, .yayinevi_adi, .baslik_1, .baslik_2, .baslik_3 {font-weight: normal; text-align: center;}
+.kitap_adi, .yazar_adi, .cevirmen_adi, .yayinevi_adi {margin: 0;}
+.baslik_1, .baslik_2 {margin: 1em 0;}
+.aciklama .baslik_1, .bolum .baslik_2 {margin: 3em 0 1em;}
+.baslik_3 {margin: 1em 0 2em;}
+.kitap_adi {font-size: 2em;}
+.baslik_1 {font-size: 1.7em;}
+.yazar_adi, .baslik_2 {font-size: 1.5em;}
+.baslik_3 {font-size: 1.3em;}
+.cevirmen_adi, .yayinevi_adi {font-size: 1em;}
+
+.kunye p {font-family: sans-serif; font-size: 0.875em; text-align: center; margin: 0;}
+.kunye_1 {margin: 3em 0 1.5em;}
+.kunye_2 {margin: 1.5em 0;}
+
+.ithaf p {text-align: right; text-indent: 0; margin: 0;}
+
+.aciklama p, .alinti p, .bolum p {text-indent: 1.5em; margin: 0;}
+
+.duzyazi_1a, .duzyazi_2a, .duzyazi_2b, .siir {margin-left: 1.5em;}
+.duzyazi_1b {border: 1px solid; padding: 1em;}
+blockquote.duzyazi_2b p {margin: 1.5em 0;}
+blockquote.duzyazi_3 p {text-align: center}
+blockquote.duzyazi_2a p, blockquote.duzyazi_2b p,
+blockquote.duzyazi_3 p, blockquote.siir p {text-indent: 0;}
+
+.tabela {overflow: auto;}
+.tabela_sol {float: left; width: 48%;}
+.tabela_sag {float: right; width: 48%;}
+.temizle {clear: both;}
+
+table {border-collapse: collapse; border-spacing: 0; margin: 1.5em auto;}
+th, td {text-align: center;}
+th {font-weight: bold; padding: 3px 15px 6px;}
+td {padding: 3px 15px;}
+
+p.tarih {margin: 0.5em 0;}
+p.toplanti_basi, p.sekreter {margin-top: 0.5em;}
+
+p.sol, p.orta, p.sag {text-indent: 0;}
+p.sol {text-align: left;}
+p.orta {text-align: center;}
+p.sag {text-align: right;}
+
+.resim {text-align: center; margin: 1.5em 0;}
+
+p.bolum_basi {margin-top: 4.5em;}
+
+p.paragraf {margin-top: 1.5em;}
+
+.dipnotlar p {text-indent: 0; margin: 1em 0;}

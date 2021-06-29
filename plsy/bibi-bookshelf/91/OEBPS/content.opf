@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+    <dc:date>2002-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.22.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">63187ac1-8344-4862-b17a-10d46d383bd8</dc:identifier>
+    <dc:date opf:event="modification">2014-02-10</dc:date>
+    <meta content="Çorak Topraklar" name="calibre:title_sort" />
+    <meta content="Kara Kule" name="calibre:series" />
+    <meta content="3.0" name="calibre:series_index" />
+    <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="2014-01-31T22:07:17.186000+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="cover" />
+    <dc:title>Çorak Topraklar</dc:title>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Fantezi</dc:subject>
+    <dc:subject>Korku</dc:subject>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Western</dc:subject>
+    <dc:description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Büyüleyici ve unutulmaz karakterlerin sergilendiği sanal bir dünyayı içeren Kara Kule serisinin bu kitabı bugüne dek okuduklarınızın en sürükleyicisi...&lt;/p&gt;&lt;p&gt;Stephen King'in eşsiz hayal dünyasını dile getiren, fantaziyle korkunun iç içe geçtiği bir başyapıt.&lt;/p&gt;&lt;p&gt;Ve her yeni kitapta Kara Kule'ye bir adım daha yaklaşacaksınız...&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <meta content="{}" name="calibre:user_categories" />
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">617f209b-aff6-4116-96c5-e5eb99948c82</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">9752103596</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">NqLeAAAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752103597</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">12785876</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Text/Ic_Kapak.html" id="Ic_Kapak.html" media-type="application/xhtml+xml" />
+    <item href="Text/Not.html" id="Not.html" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter-1.html" id="Chapter-1.html" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter-1_1.html" id="Chapter-1_1.html" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter-1_2.html" id="Chapter-1_2.html" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter-1_3.html" id="Chapter-1_3.html" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter-2.html" id="Chapter-2.html" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter-2_1.html" id="Chapter-2_1.html" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter-2_2.html" id="Chapter-2_2.html" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter-2_3.html" id="Chapter-2_3.html" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="Ic_Kapak.html" />
+    <itemref idref="Not.html" />
+    <itemref idref="Chapter-1.html" />
+    <itemref idref="Chapter-1_1.html" />
+    <itemref idref="Chapter-1_2.html" />
+    <itemref idref="Chapter-1_3.html" />
+    <itemref idref="Chapter-2.html" />
+    <itemref idref="Chapter-2_1.html" />
+    <itemref idref="Chapter-2_2.html" />
+    <itemref idref="Chapter-2_3.html" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

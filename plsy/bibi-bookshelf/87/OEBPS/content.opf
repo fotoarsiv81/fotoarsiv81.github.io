@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:902cf0a4-5ba5-49dd-bae1-437250d0ae81</dc:identifier>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:description>&lt;p&gt;Hiç düşünmediğimiz bir zamanda ve ne olduğunu anlamadan artık bir karabasanın ortasında başrol oyuncusu olabiliriz ve cinnetin esrarengiz gücü yakaladı mı birkez, artık kurtuluş yoktur.&lt;br&gt;Tıpkı Stephen King'in bu romanındaki kahramanı gibi...&lt;/p&gt;</dc:description>
+    <dc:date>1999-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.22.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="2014-01-31T17:13:18.147000+00:00" name="calibre:timestamp" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="Ateş Yolu" name="calibre:title_sort" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="0.7.4" name="Sigil version" xmlns="http://www.idpf.org/2007/opf" />
+    <meta name="cover" content="cover" />
+    <dc:title>Ateş Yolu</dc:title>
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>Korku</dc:subject>
+    <dc:subject>Gerilim</dc:subject>
+    <meta content="{}" name="calibre:user_categories" />
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">e8d1470f-4681-4490-83de-451aa61a4926</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">krOrAAAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9754055599</dc:identifier>
+    <dc:identifier opf:scheme="MERITOKRASI NOTU">5</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">13503643</dc:identifier>
+    <dc:date opf:event="modification">2014-02-10</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="Text/ates_yolu_001.html" id="ates_yolu_001.html" media-type="application/xhtml+xml" />
+    <item href="Text/ates_yolu_002.html" id="ates_yolu_002.html" media-type="application/xhtml+xml" />
+    <item href="Text/ates_yolu_003.html" id="ates_yolu_003.html" media-type="application/xhtml+xml" />
+    <item href="Text/ates_yolu_100.html" id="ates_yolu_100.html" media-type="application/xhtml+xml" />
+    <item href="Text/ates_yolu_101.html" id="ates_yolu_101.html" media-type="application/xhtml+xml" />
+    <item href="Text/ates_yolu_200.html" id="ates_yolu_200.html" media-type="application/xhtml+xml" />
+    <item href="Text/ates_yolu_201.html" id="ates_yolu_201.html" media-type="application/xhtml+xml" />
+    <item href="Text/ates_yolu_300.html" id="ates_yolu_300.html" media-type="application/xhtml+xml" />
+    <item href="Text/ates_yolu_301.html" id="ates_yolu_301.html" media-type="application/xhtml+xml" />
+    <item href="Text/ates_yolu_401.html" id="ates_yolu_401.html" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="ates_yolu_001.html" />
+    <itemref idref="ates_yolu_002.html" />
+    <itemref idref="ates_yolu_003.html" />
+    <itemref idref="ates_yolu_100.html" />
+    <itemref idref="ates_yolu_101.html" />
+    <itemref idref="ates_yolu_200.html" />
+    <itemref idref="ates_yolu_201.html" />
+    <itemref idref="ates_yolu_300.html" />
+    <itemref idref="ates_yolu_301.html" />
+    <itemref idref="ates_yolu_401.html" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

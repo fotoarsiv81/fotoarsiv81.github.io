@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">143a9b6b-b002-4629-99cc-b6a8aa8eba5f</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.22.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2005-01-15T19:46:26+00:00</dc:date>
+    <dc:date opf:event="modification">2014-02-10</dc:date>
+    <meta content="Rüyalar ve Karabasanlar" name="calibre:title_sort" />
+    <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="2014-01-31T17:14:23+00:00" name="calibre:timestamp" />
+    <dc:publisher>İnkılâp Yayınları</dc:publisher>
+    <meta content="10.0" name="calibre:rating" />
+    <meta name="cover" content="cover" />
+    <dc:title>Rüyalar ve Karabasanlar</dc:title>
+    <dc:subject>Gerilim</dc:subject>
+    <dc:subject>Korku</dc:subject>
+    <dc:description>&lt;p&gt;Ben çocukken söylenen her şeye, okuduğum her şeye ve aşırı çalışan hayal gücümün gönderdiği her mesaja inanırdım. Bu nedenle epey gecemi uykusuz geçirirdim ama, yaşadığım dünya da huzurlu geçen geceler karşılığında takas edemeyeceğim renkler ve dokularla dolu olurdu.&lt;/p&gt;</dc:description>
+    <meta content="{}" name="calibre:user_categories" />
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">aeea55ae-6bf0-49a7-8a9a-28863732bc08</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">grVbOgAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789751023094</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Text/1.html" id="x1.html" media-type="application/xhtml+xml" />
+    <item href="Text/2.html" id="x2.html" media-type="application/xhtml+xml" />
+    <item href="Text/3.html" id="x3.html" media-type="application/xhtml+xml" />
+    <item href="Text/4.html" id="x4.html" media-type="application/xhtml+xml" />
+    <item href="Text/5.html" id="x5.html" media-type="application/xhtml+xml" />
+    <item href="Text/6.html" id="x6.html" media-type="application/xhtml+xml" />
+    <item href="Text/7.html" id="x7.html" media-type="application/xhtml+xml" />
+    <item href="Text/8.html" id="x8.html" media-type="application/xhtml+xml" />
+    <item href="Text/9.html" id="x9.html" media-type="application/xhtml+xml" />
+    <item href="Text/10.html" id="x10.html" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/page_styles.css" id="page_styles.css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css" />
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="x1.html" />
+    <itemref idref="x2.html" />
+    <itemref idref="x3.html" />
+    <itemref idref="x4.html" />
+    <itemref idref="x5.html" />
+    <itemref idref="x6.html" />
+    <itemref idref="x7.html" />
+    <itemref idref="x8.html" />
+    <itemref idref="x9.html" />
+    <itemref idref="x10.html" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

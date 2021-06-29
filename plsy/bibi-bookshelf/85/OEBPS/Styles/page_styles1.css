@@ -1,0 +1,32 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Times New Roman";
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    src: url(../Fonts/Times-New-Roman.ttf)
+    }
+@font-face {
+    font-family: "Cambria";
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    src: url(../Fonts/Cambria-Bold.ttf)
+    }
+@font-face {
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    src: url(../Fonts/Times-New-Roman-Bold.ttf)
+    }
+@font-face {
+    font-family: "Comic Sans MS";
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    src: url(../Fonts/Comic-Sans-MS.ttf)
+    }

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="63187ac1-8344-4862-b17a-10d46d383bd8" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.22.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Stephen King - Kara Kule 3. Çorak Topraklar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u3a8fc6da-8d6f-415e-a5ab-c89fb02c14d9" playOrder="1">
+      <navLabel>
+        <text>JAKE</text>
+      </navLabel>
+      <content src="Text/Chapter-1.html"/>
+      <navPoint id="uf01b50e4-7475-4565-aab4-7e5d769fe854" playOrder="2">
+        <navLabel>
+          <text>BİRİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Chapter-1_1.html"/>
+      </navPoint>
+      <navPoint id="ue55ac234-9b91-4b59-adb4-1afb5028913c" playOrder="3">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Chapter-1_2.html"/>
+      </navPoint>
+      <navPoint id="uc878d73d-77e9-4175-9134-808a4f902f82" playOrder="4">
+        <navLabel>
+          <text>ÜÇÜNCÜ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Chapter-1_3.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="ud507eb81-47de-4741-9342-66e1ca1d1a94" playOrder="5">
+      <navLabel>
+        <text>LUD</text>
+      </navLabel>
+      <content src="Text/Chapter-2.html"/>
+      <navPoint id="u2c36cb71-e50e-4cb1-87fd-c05dcbe49284" playOrder="6">
+        <navLabel>
+          <text>BİRİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Chapter-2_1.html"/>
+      </navPoint>
+      <navPoint id="u5665c1c2-d141-4a2f-8e0f-ea20b2429027" playOrder="7">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Chapter-2_2.html"/>
+      </navPoint>
+      <navPoint id="u44ab63e8-1335-419f-96d4-d83292136fbe" playOrder="8">
+        <navLabel>
+          <text>ÜÇÜNCÜ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Chapter-2_3.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

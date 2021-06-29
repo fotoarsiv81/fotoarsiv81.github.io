@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="7084db3f-9f8e-4368-b8ef-6328abdcb458" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Tom Gordon'a Aşık Olan Kız</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Oyun Öncesi</text>
+      </navLabel>
+      <content src="Text/index_split_002.html" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Birinci Devre</text>
+      </navLabel>
+      <content src="Text/index_split_003.html" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İkinci Devre</text>
+      </navLabel>
+      <content src="Text/index_split_004.html" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Üçüncü Devre</text>
+      </navLabel>
+      <content src="Text/index_split_005.html" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Dördüncü Devrenin Başı</text>
+      </navLabel>
+      <content src="Text/index_split_006.html" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Dördüncü Devrenin Sonu</text>
+      </navLabel>
+      <content src="Text/index_split_007.html" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Beşinci Devre</text>
+      </navLabel>
+      <content src="Text/index_split_008.html" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Altıncı Devre</text>
+      </navLabel>
+      <content src="Text/index_split_009.html" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Yedinci Devrenin Başı</text>
+      </navLabel>
+      <content src="Text/index_split_010.html" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Yedinci Devrenin Uzatma Dakikaları</text>
+      </navLabel>
+      <content src="Text/index_split_011.html" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Sekizinci Devre</text>
+      </navLabel>
+      <content src="Text/index_split_012.html" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Dokuzuncu Devrenin Başı</text>
+      </navLabel>
+      <content src="Text/index_split_013.html" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Dokuzuncu Devrenin Sonu</text>
+      </navLabel>
+      <content src="Text/index_split_014.html" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Dokuzuncu Devrenin Sonu:</text>
+      </navLabel>
+      <content src="Text/index_split_015.html" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Oyun Sonrası</text>
+      </navLabel>
+      <content src="Text/index_split_016.html" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>YAZARIN DİPNOTU</text>
+      </navLabel>
+      <content src="Text/index_split_017.html" />
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="c0b3ad8f-2218-4df1-b36a-527b2c06e0a1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.22.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Göz</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u24b20c11-c6c6-446e-adfe-86b67f992dd7" playOrder="1">
+      <navLabel>
+        <text>Yazar Hakkında</text>
+      </navLabel>
+      <content src="Text/author.xhtml"/>
+    </navPoint>
+    <navPoint id="ue828902d-1d76-4d96-aaf9-07a0390fb039" playOrder="2">
+      <navLabel>
+        <text>1. Bölüm: KAN BANYOSU</text>
+      </navLabel>
+      <content src="Text/Chapter-1.xhtml#u43fd2dae-8e6f-413d-8b36-aad20f3d9e02"/>
+    </navPoint>
+    <navPoint id="u91cff598-c2cd-4e65-be0c-d0c26b0843f7" playOrder="3">
+      <navLabel>
+        <text>2. Bölüm: BALO GECESİ</text>
+      </navLabel>
+      <content src="Text/Chapter-2.xhtml#u88db566a-818e-4736-b391-512b5a71166d"/>
+    </navPoint>
+    <navPoint id="ue9c1ea77-ed22-4ea4-8ece-c6756c9143f6" playOrder="4">
+      <navLabel>
+        <text>3. Bölüm: ENKAZ</text>
+      </navLabel>
+      <content src="Text/Chapter-3.xhtml#u7fc66d01-912a-43f9-b29d-a7aa2a67a996"/>
+    </navPoint>
+  </navMap>
+</ncx>

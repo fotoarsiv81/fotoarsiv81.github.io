@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:identifier id="uuid_id" opf:scheme="uuid">842c9ee8-87da-4683-a2ec-263cfd50da2c</dc:identifier>
+    <dc:title>Stephen King - Kara Ev: Tılsım 2</dc:title>
+    <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+    <dc:language>tr</dc:language>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <meta content="2011-03-18T21:22:17+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="id3" />
+    <meta content="Kara Ev Cilt2" name="calibre:title_sort" />
+    <meta content="0.8.7" name="Sigil version" />
+    <dc:date opf:event="modification">2015-12-29</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg" />
+    <item href="Images/image-1.jpeg" id="id3" media-type="image/jpeg" />
+    <item href="Images/image-2.jpeg" id="id4" media-type="image/jpeg" />
+    <item href="Images/image-3.jpeg" id="id5" media-type="image/jpeg" />
+    <item href="Text/KaraEv0008.html" id="KaraEv0008.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0011.html" id="KaraEv0011.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0012.html" id="KaraEv0012.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0016.html" id="KaraEv0016.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0021.html" id="KaraEv0021.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0022.html" id="KaraEv0022.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0026.html" id="KaraEv0026.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0030.html" id="KaraEv0030.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0035.html" id="KaraEv0035.html" media-type="application/xhtml+xml" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/KaraEv0001.xhtml" id="KaraEv0001.xhtml" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/KaraEv0002.html" id="KaraEv0002.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0003.html" id="KaraEv0003.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0004.html" id="KaraEv0004.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0005.html" id="KaraEv0005.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0006.html" id="KaraEv0006.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0007.html" id="KaraEv0007.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0009.html" id="KaraEv0009.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0013.html" id="KaraEv0013.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0014.html" id="KaraEv0014.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0015.html" id="KaraEv0015.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0017.html" id="KaraEv0017.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0018.html" id="KaraEv0018.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0019.html" id="KaraEv0019.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0023.html" id="KaraEv0023.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0024.html" id="KaraEv0024.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0025.html" id="KaraEv0025.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0027.html" id="KaraEv0027.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0028.html" id="KaraEv0028.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0029.html" id="KaraEv0029.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0031.html" id="KaraEv0031.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0032.html" id="KaraEv0032.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0033.html" id="KaraEv0033.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0034.html" id="KaraEv0034.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0010.html" id="KaraEv0010.html" media-type="application/xhtml+xml" />
+    <item href="Text/KaraEv0020.html" id="KaraEv0020.html" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="KaraEv0001.xhtml" />
+    <itemref idref="KaraEv0002.html" />
+    <itemref idref="KaraEv0003.html" />
+    <itemref idref="KaraEv0004.html" />
+    <itemref idref="KaraEv0005.html" />
+    <itemref idref="KaraEv0006.html" />
+    <itemref idref="KaraEv0007.html" />
+    <itemref idref="KaraEv0008.html" />
+    <itemref idref="KaraEv0009.html" />
+    <itemref idref="KaraEv0010.html" />
+    <itemref idref="KaraEv0011.html" />
+    <itemref idref="KaraEv0012.html" />
+    <itemref idref="KaraEv0013.html" />
+    <itemref idref="KaraEv0014.html" />
+    <itemref idref="KaraEv0015.html" />
+    <itemref idref="KaraEv0016.html" />
+    <itemref idref="KaraEv0017.html" />
+    <itemref idref="KaraEv0018.html" />
+    <itemref idref="KaraEv0019.html" />
+    <itemref idref="KaraEv0020.html" />
+    <itemref idref="KaraEv0021.html" />
+    <itemref idref="KaraEv0022.html" />
+    <itemref idref="KaraEv0023.html" />
+    <itemref idref="KaraEv0024.html" />
+    <itemref idref="KaraEv0025.html" />
+    <itemref idref="KaraEv0026.html" />
+    <itemref idref="KaraEv0027.html" />
+    <itemref idref="KaraEv0028.html" />
+    <itemref idref="KaraEv0029.html" />
+    <itemref idref="KaraEv0030.html" />
+    <itemref idref="KaraEv0031.html" />
+    <itemref idref="KaraEv0032.html" />
+    <itemref idref="KaraEv0033.html" />
+    <itemref idref="KaraEv0034.html" />
+    <itemref idref="KaraEv0035.html" />
+  </spine>
+  <guide>
+    <reference href="Text/KaraEv0001.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

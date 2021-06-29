@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="ce3064ee-1674-4c18-81bf-ca10ce9f489b" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ateş Yolu</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="onsoz" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/ates_yolu_003.html#onsoz"/>
+    </navPoint>
+    <navPoint id="birincibolum" playOrder="2">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/ates_yolu_100.html"/>
+      <navPoint id="kas20" playOrder="3">
+        <navLabel>
+          <text>20 Kasım 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_101.html#kas20"/>
+      </navPoint>
+      <navPoint id="kas21" playOrder="4">
+        <navLabel>
+          <text>21 Kasım 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_101.html#kas21"/>
+      </navPoint>
+      <navPoint id="kas22" playOrder="5">
+        <navLabel>
+          <text>22 Kasım 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_101.html#kas22"/>
+      </navPoint>
+      <navPoint id="kas23" playOrder="6">
+        <navLabel>
+          <text>23 Kasım 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_101.html#kas23"/>
+      </navPoint>
+      <navPoint id="kas25" playOrder="7">
+        <navLabel>
+          <text>25 Kasım 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_101.html#kas25"/>
+      </navPoint>
+      <navPoint id="kas26" playOrder="8">
+        <navLabel>
+          <text>26 Kasım 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_101.html#kas26"/>
+      </navPoint>
+      <navPoint id="kas27" playOrder="9">
+        <navLabel>
+          <text>27 Kasım 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_101.html#kas27"/>
+      </navPoint>
+      <navPoint id="kas28" playOrder="10">
+        <navLabel>
+          <text>28 Kasım 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_101.html#kas28"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="ikincibolum" playOrder="11">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/ates_yolu_200.html"/>
+      <navPoint id="ara5" playOrder="12">
+        <navLabel>
+          <text>5 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara5"/>
+      </navPoint>
+      <navPoint id="ara6" playOrder="13">
+        <navLabel>
+          <text>6 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara6"/>
+      </navPoint>
+      <navPoint id="ara7" playOrder="14">
+        <navLabel>
+          <text>7 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara7"/>
+      </navPoint>
+      <navPoint id="ara8" playOrder="15">
+        <navLabel>
+          <text>8 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara8"/>
+      </navPoint>
+      <navPoint id="ara9" playOrder="16">
+        <navLabel>
+          <text>9 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara9"/>
+      </navPoint>
+      <navPoint id="ara10" playOrder="17">
+        <navLabel>
+          <text>10 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara10"/>
+      </navPoint>
+      <navPoint id="ara12" playOrder="18">
+        <navLabel>
+          <text>12 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara12"/>
+      </navPoint>
+      <navPoint id="ara17" playOrder="19">
+        <navLabel>
+          <text>17 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara17"/>
+      </navPoint>
+      <navPoint id="ara18-19" playOrder="20">
+        <navLabel>
+          <text>18-19 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara18-19"/>
+      </navPoint>
+      <navPoint id="ara19" playOrder="21">
+        <navLabel>
+          <text>19 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara19"/>
+      </navPoint>
+      <navPoint id="ara21" playOrder="22">
+        <navLabel>
+          <text>21 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara21"/>
+      </navPoint>
+      <navPoint id="ara24" playOrder="23">
+        <navLabel>
+          <text>24 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara24"/>
+      </navPoint>
+      <navPoint id="ara25" playOrder="24">
+        <navLabel>
+          <text>25 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara25"/>
+      </navPoint>
+      <navPoint id="ara26" playOrder="25">
+        <navLabel>
+          <text>26 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara26"/>
+      </navPoint>
+      <navPoint id="ara31" playOrder="26">
+        <navLabel>
+          <text>31 Aralık 1973</text>
+        </navLabel>
+        <content src="Text/ates_yolu_201.html#ara31"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="ucuncubolum" playOrder="27">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/ates_yolu_300.html"/>
+      <navPoint id="oca5" playOrder="28">
+        <navLabel>
+          <text>5 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca5"/>
+      </navPoint>
+      <navPoint id="oca7" playOrder="29">
+        <navLabel>
+          <text>7 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca7"/>
+      </navPoint>
+      <navPoint id="oca8" playOrder="30">
+        <navLabel>
+          <text>8 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca8"/>
+      </navPoint>
+      <navPoint id="oca9" playOrder="31">
+        <navLabel>
+          <text>9 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca9"/>
+      </navPoint>
+      <navPoint id="oca10" playOrder="32">
+        <navLabel>
+          <text>10 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca10"/>
+      </navPoint>
+      <navPoint id="oca11" playOrder="33">
+        <navLabel>
+          <text>11 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca11"/>
+      </navPoint>
+      <navPoint id="oca12" playOrder="34">
+        <navLabel>
+          <text>12 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca12"/>
+      </navPoint>
+      <navPoint id="oca13" playOrder="35">
+        <navLabel>
+          <text>13 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca13"/>
+      </navPoint>
+      <navPoint id="oca14" playOrder="36">
+        <navLabel>
+          <text>14 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca14"/>
+      </navPoint>
+      <navPoint id="oca15" playOrder="37">
+        <navLabel>
+          <text>15 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca15"/>
+      </navPoint>
+      <navPoint id="oca16" playOrder="38">
+        <navLabel>
+          <text>16 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca16"/>
+      </navPoint>
+      <navPoint id="oca17" playOrder="39">
+        <navLabel>
+          <text>17 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca17"/>
+      </navPoint>
+      <navPoint id="oca18" playOrder="40">
+        <navLabel>
+          <text>18 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca18"/>
+      </navPoint>
+      <navPoint id="oca19" playOrder="41">
+        <navLabel>
+          <text>19 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca19"/>
+      </navPoint>
+      <navPoint id="oca201" playOrder="42">
+        <navLabel>
+          <text>20 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca201"/>
+      </navPoint>
+      <navPoint id="oca202" playOrder="43">
+        <navLabel>
+          <text>Zaman Durmuştu, 20 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca202"/>
+      </navPoint>
+      <navPoint id="oca203" playOrder="44">
+        <navLabel>
+          <text>20 Ocak 1974</text>
+        </navLabel>
+        <content src="Text/ates_yolu_301.html#oca203"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sonsoz" playOrder="5">
+      <navLabel>
+        <text>SONSÖZ</text>
+      </navLabel>
+      <content src="Text/ates_yolu_401.html#sonsoz"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:7e973c96-065d-4955-9007-5758c4a37206" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Mahşer</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Yazarın Notu</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İki Bölüm Halinde Bir Önsöz</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Çember Açılıyor</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>1. Kitap</text>
+      </navLabel>
+      <content src="Text/Section0013.xhtml" />
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>1. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0017.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>2. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0018.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>3. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0019.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>4. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0020.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>5. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0021.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>6. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0022.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>7. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0023.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>8. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0024.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>9. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0025.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>10. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0026.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>11. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0027.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>12. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0028.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>13. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0029.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>14. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0030.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>15. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0031.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>16. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0032.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>17. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0033.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>18. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0034.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>19. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0035.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>20. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0036.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>21. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0037.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>22. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0038.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>23. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0039.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>24. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0040.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>25. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0041.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>26. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0042.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>27. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0043.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>28. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0044.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>29. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0045.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>30. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0046.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>31. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0047.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>32. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0048.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>33. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0049.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>34. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0050.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>35. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0051.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>36. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0052.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>37. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0053.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>38. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0054.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>39. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0055.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>40. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0056.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>41. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0057.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>42. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0058.xhtml" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>2. Kitap</text>
+      </navLabel>
+      <content src="Text/Section0059.xhtml" />
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>43. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0063.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>44. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0064.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>45. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0065.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>46. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0066.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>47. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0067.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>48. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0068.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>49. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0069.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>50. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0070.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>51. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0071.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>52. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0072.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>53. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0073.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>54. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0074.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>55. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0075.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>56. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0076.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>57. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0077.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>58. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0078.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>59. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0079.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>60. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0080.xhtml" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>3. Kitap</text>
+      </navLabel>
+      <content src="Text/Section0081.xhtml" />
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>61. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0086.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>62. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0087.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>63. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0088.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>64. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0089.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>65. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0090.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>66. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0091.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>67. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0092.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>68. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0093.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>69. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0094.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>70. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0095.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>71. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0096.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>72. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0097.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>73. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0098.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>74. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0099.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>75. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0100.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>76. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0101.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>77. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0102.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>78. Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0103.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Alacakaranlık, Bir Yaz Akşamı</text>
+        </navLabel>
+        <content src="Text/Section0104.xhtml" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-87" playOrder="87">
+      <navLabel>
+        <text>Çemberin Uçları Birleşiyor</text>
+      </navLabel>
+      <content src="Text/Section0105.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-88" playOrder="88">
+      <navLabel>
+        <text>Dipnotlar</text>
+      </navLabel>
+      <content src="Text/Section0108.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

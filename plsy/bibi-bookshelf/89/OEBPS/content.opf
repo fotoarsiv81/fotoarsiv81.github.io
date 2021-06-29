@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+    <dc:date>2003-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.22.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c70e4cd3-aabc-4cd9-a0b2-4cab8e1d0f3a</dc:identifier>
+    <dc:date opf:event="modification">2014-02-13</dc:date>
+    <meta content="Calla'nın Kurtları" name="calibre:title_sort" />
+    <meta content="Kara Kule" name="calibre:series" />
+    <meta content="5.0" name="calibre:series_index" />
+    <meta content="10.0" name="calibre:rating" />
+    <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta name="cover" content="cover" />
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="0101-01-01T00:00:00+00:00" name="calibre:timestamp" />
+    <dc:title>Calla'nın Kurtları</dc:title>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:subject>Fantezi</dc:subject>
+    <dc:subject>Korku</dc:subject>
+    <dc:subject>Macera</dc:subject>
+    <dc:subject>Western</dc:subject>
+    <dc:description>&lt;div&gt;&lt;div&gt;Calla, doğunun bereketli topraklarında görünüşte kendi halinde yaşayan bir yerdir. Ama kasaba tarihinde yaşanan korkunç tekrarlardan biri yine gelip çatmıştır. Yakında Kurtlar gelecek ve her şey yeniden başlayacaktır. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bu sırada Kara Kule'yi arayan Gilead'l Roland önderliğindeki silahşorların yolu, bu kasabadan geçmektedir ve Calla'nın çiftçileri kendilerini Kurtlar'dan korumaları için onlardan yardım isterler. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Artık Roland bir seçim yapmak zorundadır. Ya vicdanının sesini dinleyip çiftçilere yardım edecek ya da Kara Kule'nin izini sürecektir. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Orta-Dünya'da sürdürdüğü bu yolculuk sırasında beklenmedik tehlikeler ve ölüm, ne yazık ki Roland'ın yakın takipçisi olacaktır.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">a77045c6-78f9-4556-8003-b7abd79098de</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">9752104541</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">8F1pPwAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752104549</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">13537082</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml" />
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml" />
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml" />
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml" />
+    <item href="Text/007.html" id="id007" media-type="application/xhtml+xml" />
+    <item href="Text/008.html" id="id008" media-type="application/xhtml+xml" />
+    <item href="Text/009.html" id="id009" media-type="application/xhtml+xml" />
+    <item href="Text/010.html" id="id010" media-type="application/xhtml+xml" />
+    <item href="Text/011.html" id="id011" media-type="application/xhtml+xml" />
+    <item href="Text/012.html" id="id012" media-type="application/xhtml+xml" />
+    <item href="Text/013.html" id="id013" media-type="application/xhtml+xml" />
+    <item href="Text/014.html" id="id014" media-type="application/xhtml+xml" />
+    <item href="Text/015.html" id="id015" media-type="application/xhtml+xml" />
+    <item href="Text/016.html" id="id016" media-type="application/xhtml+xml" />
+    <item href="Text/017.html" id="id017" media-type="application/xhtml+xml" />
+    <item href="Text/018.html" id="id018" media-type="application/xhtml+xml" />
+    <item href="Text/019.html" id="id019" media-type="application/xhtml+xml" />
+    <item href="Text/020.html" id="id020" media-type="application/xhtml+xml" />
+    <item href="Text/021.html" id="id021" media-type="application/xhtml+xml" />
+    <item href="Text/022.html" id="id022" media-type="application/xhtml+xml" />
+    <item href="Text/023.html" id="id023" media-type="application/xhtml+xml" />
+    <item href="Text/024.html" id="id024" media-type="application/xhtml+xml" />
+    <item href="Text/025.html" id="id025" media-type="application/xhtml+xml" />
+    <item href="Text/026.html" id="id026" media-type="application/xhtml+xml" />
+    <item href="Text/027.html" id="id027" media-type="application/xhtml+xml" />
+    <item href="Text/028.html" id="id028" media-type="application/xhtml+xml" />
+    <item href="Text/029.html" id="id029" media-type="application/xhtml+xml" />
+    <item href="Text/030.html" id="id030" media-type="application/xhtml+xml" />
+    <item href="Text/031.html" id="id031" media-type="application/xhtml+xml" />
+    <item href="Text/032.html" id="id032" media-type="application/xhtml+xml" />
+    <item href="Text/033.html" id="id033" media-type="application/xhtml+xml" />
+    <item href="Text/034.html" id="id034" media-type="application/xhtml+xml" />
+    <item href="Text/035.html" id="id035" media-type="application/xhtml+xml" />
+    <item href="Text/036.html" id="id036" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="id003" />
+    <itemref idref="id004" />
+    <itemref idref="id005" />
+    <itemref idref="id006" />
+    <itemref idref="id007" />
+    <itemref idref="id008" />
+    <itemref idref="id009" />
+    <itemref idref="id010" />
+    <itemref idref="id011" />
+    <itemref idref="id012" />
+    <itemref idref="id013" />
+    <itemref idref="id014" />
+    <itemref idref="id015" />
+    <itemref idref="id016" />
+    <itemref idref="id017" />
+    <itemref idref="id018" />
+    <itemref idref="id019" />
+    <itemref idref="id020" />
+    <itemref idref="id021" />
+    <itemref idref="id022" />
+    <itemref idref="id023" />
+    <itemref idref="id024" />
+    <itemref idref="id025" />
+    <itemref idref="id026" />
+    <itemref idref="id027" />
+    <itemref idref="id028" />
+    <itemref idref="id029" />
+    <itemref idref="id030" />
+    <itemref idref="id031" />
+    <itemref idref="id032" />
+    <itemref idref="id033" />
+    <itemref idref="id034" />
+    <itemref idref="id035" />
+    <itemref idref="id036" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

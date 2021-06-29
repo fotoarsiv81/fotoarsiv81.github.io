@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="King, Stephen">Stephen King</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">678074f9-79fa-4d11-be92-22962aac5526</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.22.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2003-01-15T18:11:38+00:00</dc:date>
+    <dc:publisher>İnkılâp Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Stephen King şöyle diyor:'Kızım on üç yaşına gelinceye kadar ben de on üç roman yazıp bitirmiştim,ama hiçbirini okumuş değildi. Beni çok sevdiğini her fırsatta ifade etmesine karşın, yarattığım vampirlere, hortlaklara garip yaratıklara ilgi gösterdiği yoktu. Bir gece çalışma odama kapandım, başlangıçta 'Peçeteler' adını vermeyi tasarladığım bu kitabı yazmaya koyuldum. Taslak bittiği zaman kızım Naomi aynı hevessiz tutumuyla eline aldı. Ama okudukça kitap onu kendine esir etti. Derken bir gün yanıma gelip beni kucakladı, "Bu kitabın bir tek kusuru var", dedi. "Bitmesini hiç istemiyordum, oysa bitiverdi. "İşte bu kızıma büyük bir saygı duydum. Artık ona hep elimden gelenin en iyisini vermeye çalışıyorum. Konuşurken onu çocuk yerine koymaya da kalkışmıyorum. Bundan böyle kitaplarımı kendim için yazdığım kadar, onun için de yazıyorum.&lt;/p&gt;</dc:description>
+    <dc:date opf:event="modification">2014-01-31</dc:date>
+    <meta content="Ejderhanın Gözleri" name="calibre:title_sort"/>
+    <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="2014-01-31T17:13:34.551000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  <dc:title>Ejderhanın Gözleri</dc:title>
+<dc:subject>Gerilim</dc:subject>
+<dc:subject>Korku</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">227a2764-d70c-483a-b9b2-1acd264cd59e</dc:identifier>
+<dc:identifier opf:scheme="AMAZON">9751000025</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">6096AQAACAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789751000026</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">17032077</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-2.html" id="Section0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-3.html" id="Section0010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-1.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_styles.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0005.html"/>
+    <itemref idref="Section0010.html"/>
+    <itemref idref="Section0001.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

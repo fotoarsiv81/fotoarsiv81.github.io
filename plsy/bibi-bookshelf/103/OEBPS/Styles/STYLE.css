@@ -1,0 +1,62 @@
+h1 {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+h3 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: center;
+  font-size: 1em;
+  font-weight: bold;
+}
+h2 {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+p {
+  text-align: justify;
+  text-indent: 1em;
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  font-size: small;
+}
+.p2 {
+  text-align: justify;
+  text-indent: 0;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+.p3 {
+  text-align: justify;
+  text-indent: 0.5em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+.yildiz {
+  font-size: 2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+.baslik {
+  text-align: center;
+  font-style: bold;
+  font-size: 1.5em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+.baslik2 {
+  text-align: center;
+  font-style: bold;
+  font-size: 3em;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}

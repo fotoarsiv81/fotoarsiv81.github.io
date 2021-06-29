@@ -1,0 +1,83 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="King, Stephen">Stephen King</dc:creator>
+<dc:description>&lt;p&gt;Broşür, Appalachian Yolu'nun Maine-Nej Hampshire bölümündeki altı millik yürüyüş parkurunun orta zorlukta olduğunu belirtiyordu. Bu parkur, dokuz yaşındaki Trisha McFarland'ın erkek kardeşi ve annesiyle bir Cumartesi gününü geçirecekleri yerdi. Trisha, annesiyle kardeşinin her zamanki çekimelerinden kurtulmak için yoldan ayrılıp sonra da kestirmeden onları yakalamak isterken, tehlike ve korku dolu vahşiliğin derinliklerine daldı. Karanlık çöktüğünde ise bu derinliklerin tam ortasındaydı artık.
+Trisha, sezgileriyle yönünü bulmak; aklıyla kendini savunmak ve cesaretiyle giderek artan korkusunu yenmek zorundaydı. Korkusunu yatıştırmak için Walkman'inden Boston Red Sox'ın beyzbol maçını yayınlayan radyo istasyonunu ayarladı. Kahramanı, Tom Gordon'ın cesur artışları, Trisha'yı yalnızlığa karşı da koruyordu. Radyo istasyonunun sesi giderek zayıflayıp yok olduğunda Trisha, Tom Gordon'ın yanında olduğunu hayal etmeye başladı. Artık yalnız değildi.
+En ilkel duygularımıza seslenen ve harekete geçiren Tom Gordon'a Âşık Olan Kız, bilinmeyene karşı duyduğumuz derin korkunun ve buna karşı koyacak cesaretin, inancın romanı. Daha doğrusu, bizi küçük bir kızın yenilmez ruhuna tanık eden, korkunç bir peri masalı...&lt;/p&gt;</dc:description>
+    <dc:publisher>İnkılap Kitabevi</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">7084db3f-9f8e-4368-b8ef-6328abdcb458</dc:identifier>
+    <dc:date>2005-02-13T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2015-01-16</dc:date>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta name="cover" content="cover"/>
+    <meta content="Tom Gordon'a Aşık Olan Kız" name="calibre:title_sort"/>
+    <meta content="2015-01-15T07:55:29+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+  <dc:title>Tom Gordon'a Aşık Olan Kız</dc:title>
+<dc:subject>Gizem</dc:subject>
+<dc:subject>Gerilim</dc:subject>
+<dc:subject>Kurgu</dc:subject>
+<dc:subject>Fantastik</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:subject>Yetişkin</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">8b6c524e-d4a6-410e-a322-61e612e45f5c</dc:identifier>
+<dc:identifier opf:scheme="AMAZON">9751016150</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">E3OTBAAAQBAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9751016150</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">11959299</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="id218" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id217" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id216" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id215" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id214" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="id213" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="id212" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_007.html" id="id211" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_008.html" id="id210" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_009.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_010.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_011.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_012.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_013.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_014.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_015.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_016.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_017.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id218"/>
+    <itemref idref="id217"/>
+    <itemref idref="id216"/>
+    <itemref idref="id215"/>
+    <itemref idref="id214"/>
+    <itemref idref="id213"/>
+    <itemref idref="id212"/>
+    <itemref idref="id211"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

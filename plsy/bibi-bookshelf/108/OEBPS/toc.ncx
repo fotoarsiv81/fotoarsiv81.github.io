@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="143a9b6b-b002-4629-99cc-b6a8aa8eba5f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Rüyalar ve Karabasanlar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ROMAN</text>
+      </navLabel>
+      <content src="Text/1.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="Text/2.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>1. Dolan’ ın Cadillac Arabası</text>
+      </navLabel>
+      <content src="Text/3.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>2. Küçük Çocuklara Katlanmak Güçtür</text>
+      </navLabel>
+      <content src="Text/4.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>3. Gece Pilotu</text>
+      </navLabel>
+      <content src="Text/5.html"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/5.html#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/5.html#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/5.html#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/5.html#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/5.html#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/5.html#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/5.html#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="Text/5.html#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>9</text>
+        </navLabel>
+        <content src="Text/5.html#sigil_toc_id_9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>4. Dopsy</text>
+      </navLabel>
+      <content src="Text/6.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>5. İthaf</text>
+      </navLabel>
+      <content src="Text/7.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>6. Benim Sevimli Tayım</text>
+      </navLabel>
+      <content src="Text/8.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>7. Maple Sokağı'ndaki Ev</text>
+      </navLabel>
+      <content src="Text/9.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>8. Oynayan Parmak</text>
+      </navLabel>
+      <content src="Text/10.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

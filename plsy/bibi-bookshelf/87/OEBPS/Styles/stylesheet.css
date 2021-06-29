@@ -1,0 +1,113 @@
+.block {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 25pt;
+  margin: 6pt 0;
+}
+.block1 {
+  display: block;
+  font-family: serif;
+  font-size: 0.75em;
+  line-height: 1.2;
+  text-align: justify;
+  padding: 0;
+  margin: 6pt 0;
+}
+.block2 {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0;
+  margin: 20pt 0;
+}
+.block5 {
+  display: block;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0;
+  margin: 6pt 0;
+}
+.block6 {
+  display: block;
+  line-height: 1.2;
+  text-align: right;
+  padding: 0;
+  margin: 6pt 0;
+}
+.block7 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  padding: 0;
+  margin: 6pt 0;
+}
+.block10 {
+  display: block;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0;
+  margin: 6pt 0;
+}
+.block12 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  padding: 0;
+  margin: 6pt 0 6pt 35.4pt;
+}
+.block13 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 35.4pt;
+  padding: 0;
+  margin: 6pt 0;
+}
+.block15 {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: left;
+  padding: 0;
+  margin: 6pt 0;
+}
+.block16 {
+  display: block;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0;
+  margin: 20pt 0;
+}
+.block17 {
+  display: block;
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0;
+  margin: 20pt 0;
+}
+.block18 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  margin: 6pt 0;
+}
+.calibre {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre4 {
+  line-height: 1.2;
+}
