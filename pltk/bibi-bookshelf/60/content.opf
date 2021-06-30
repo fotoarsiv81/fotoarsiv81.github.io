@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>en</dc:language>
+    <dc:language>tr</dc:language>
+    <dc:title>Abi Kabadayılar, Mafya ve Derin Devlet</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Doğan Yurdakul</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;p&gt;"Rahmetli Sabahattin Eyüboğlu ile ilgili bir anım var. Birlikte yatıyoruz. 12 Mart dönemi. Şimdi Sabahattin Bey Amca bana soruyor -çok zeki adamdı-: 'Evladım Dündar, bizi buraya neden getirdiler?' Ben de diyorum ki: 'Aaa! Hocam. Ben diyeyim altı ay, sen de on altı ay sonra seni çağırıp soracaklar: 'Kimsin?' Sen diyeceksin ki 'Ben Profesör Sabahattin Eyüboğlu'yum'. 'Hay Allah, bir yanlışlık olmuş. Biz pezevenk Sabahattin'i arıyorduk. Kusura bakma,' deyip seni salıverecekler. İşte seni o zannediyorlar, onun için tutuyorlar Hocam..." Bir kuşağın son temsilcisidir Dündar Kılıç. İlhan Selçuk'un ifadesiyle "Külhanbeyi değil kabadayı, mafya babası değil kabadayı"dır. 21 yılı cezaevlerinde geçen hayatı, yeraltı dünyasının iç işleyişini, devletle olan gizli-açık ilişkilerini ve suçun evrimini gözler önüne serer. Gazeteci-yazar Doğan Yurdakul "Abi" lakabıyla tanınan Dündar Kılıç'ın renkli kişiliği ve "racon" etrafında şekillenen sıra dışı yaşamı üzerinden Türkiye'nin yeraltı dünyasının bir dönemine ışık tutuyor.&lt;/p&gt;</dc:description>
+    <dc:publisher>Kırmızı Kedi</dc:publisher>
+    <dc:identifier opf:scheme="ISBN">9786055340315</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e93d75ae-1739-4aaf-bce9-a0bc53d6f447</dc:identifier>
+    <dc:subject>Siyasi</dc:subject>
+    <dc:subject>Orjinal</dc:subject>
+    <dc:date>2014-08-24T22:00:00+00:00</dc:date>
+    <meta name="calibre:timestamp" content="2021-06-30T22:23:32.934239+00:00"/>
+  </metadata>
+  <manifest>
+    <item id="id19" href="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id18" href="index_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id17" href="index_split_002.html" media-type="application/xhtml+xml"/>
+    <item id="id16" href="index_split_003.html" media-type="application/xhtml+xml"/>
+    <item id="id15" href="index_split_004.html" media-type="application/xhtml+xml"/>
+    <item id="id14" href="index_split_005.html" media-type="application/xhtml+xml"/>
+    <item id="id13" href="index_split_006.html" media-type="application/xhtml+xml"/>
+    <item id="id12" href="index_split_007.html" media-type="application/xhtml+xml"/>
+    <item id="id11" href="index_split_008.html" media-type="application/xhtml+xml"/>
+    <item id="id2" href="index-1_1.jpg" media-type="image/jpeg"/>
+    <item id="id3" href="index-3_1.jpg" media-type="image/jpeg"/>
+    <item id="id4" href="index-5_1.png" media-type="image/png"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+</package>

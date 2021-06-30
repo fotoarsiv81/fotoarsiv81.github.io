@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>tr</dc:language>
+    <dc:title>CIA'nın Büyük Operasyonları</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Mark Zepezauer</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;p&gt;Elinizdeki kitapta CIA'nın en büyük 42 suçu özetlenerek anlatılıyor. Yasadışı, kanlı faaliyetlerin bu özeti bile, bağımsızlık, özgürlük ve adalet yanlısı herkesin kemiklerini sızlatmaya yeter. 
+
+CIA'nın bir istihbarat toplama örgütü olduğu düşüncesi, CIA'nın en büyük propaganda zaferidir. Merkezi Haber Alma Ajansı adına rağmen, CIA'nın temel işlevi, gerçekte, ekonomik savaşı, darbeleri, suikastları ve hatta soykırımı da içeren örtülü ve gizli operasyonları yürütmektir. Örtülü operasyonlar CIA'nın can damarıdır.&lt;/p&gt;</dc:description>
+    <dc:publisher>Kaynak Yayınları</dc:publisher>
+    <dc:identifier opf:scheme="ISBN">9789753431385</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4b12ba22-f3d3-4f6a-b20d-a5723eec3bd2</dc:identifier>
+    <dc:subject>Politika</dc:subject>
+    <dc:subject>Devlet Güçleri</dc:subject>
+    <dc:subject>İstihbarat</dc:subject>
+    <dc:date>2000-03-20T22:00:00+00:00</dc:date>
+    <meta name="calibre:timestamp" content="2021-06-30T22:36:26.544922+00:00"/>
+  </metadata>
+  <manifest>
+    <item id="id12" href="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id11" href="index_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id3" href="index-1_1.jpg" media-type="image/jpeg"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+</package>

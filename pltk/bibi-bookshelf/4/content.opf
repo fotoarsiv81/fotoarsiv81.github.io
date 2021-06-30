@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>tr</dc:language>
+    <dc:title>Kötülüğün Sıradanlığı</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Hannah Arendt</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;p&gt;Yahudi soykırımı nasıl oldu? Neden oldu? Neden Yahudiler? Neden Almanlar? Diğer devletlerin rolü neydi? Müttefikler bundan ne ölçüde sorumluydu? Yahudi liderler kendi insanlarının sonunu hazırlayanlarla işbirliği yapmaya nasıl yanaşmışlardı? Yahudiler neden kendi ayaklarıyla ölüme gitmişlerdi? Ülkemizde özellikle totalitarizm üzerine çalışmalarıyla tanınan ünlü Alman filozof ve siyaset bilimci Hannah Arendt bu sorular doğrultusunda, Nazi Almanyası döneminde milyonlarca Yahudinin toplama kamplarına, ölüme gönderilmesinden sorumlu SS yetkilisi Karl Adolf Eichmann'ın Kudüs'teki yargı sürecini ele alıyor.
+
+Yahudi soykırımının mimarı olarak sunulan Adolf Eichmann'ın sadist bir canavardan ziyade, normal, hatta korkutucu derecede normal bir insan olduğuna dikkat çeken Arendt, özellikle düşünme ve muhakeme yetisinin kaybolmasıyla birlikte kötülüğün nasıl sıradanlaştığını vurguluyor. Eichmann duruşmasından yola çıkarak, insanlık tarihinin dönüm noktalarından birini ve bu dönemde yaşanan toptan ahlaki çöküşü gözler önüne seriyor.&lt;/p&gt;</dc:description>
+    <dc:publisher>Metis Yayıncılık</dc:publisher>
+    <dc:identifier opf:scheme="ISBN">9789753427326</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">de726233-52cb-41f4-b6b8-f009fc8a3250</dc:identifier>
+    <dc:subject>Tarih</dc:subject>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:subject>Politik</dc:subject>
+    <dc:date>2009-11-22T22:00:00+00:00</dc:date>
+    <meta name="calibre:timestamp" content="2021-06-30T22:41:36.935404+00:00"/>
+  </metadata>
+  <manifest>
+    <item id="id15" href="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id14" href="index_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id13" href="index_split_002.html" media-type="application/xhtml+xml"/>
+    <item id="id12" href="index_split_003.html" media-type="application/xhtml+xml"/>
+    <item id="id11" href="index_split_004.html" media-type="application/xhtml+xml"/>
+    <item id="id2" href="index-1_1.jpg" media-type="image/jpeg"/>
+    <item id="id5" href="index-3_1.png" media-type="image/png"/>
+    <item id="id3" href="index-4_1.png" media-type="image/png"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+</package>
