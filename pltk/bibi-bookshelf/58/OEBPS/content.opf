@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Dahi Diktatör</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Şengör, A. M. Celal">A. M. Celal Şengör</dc:creator>
+    <dc:date>2014-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-11-09</dc:date>
+    <dc:publisher>Ka Kitap</dc:publisher>
+    <dc:description>Atatürk hâlâ önemli mi bizim için? Çok önemli. Peki akıl bizim için önemli mi, aklımızı kullanmak zorunda mıyız? Buna verilecek cevap neyse, Atatürk'ün bugün bizimle ilgili olup olmadığı, onun adını hatırlayıp hatırlamamız, onun yaptıklarından ders alıp almamamız gerektiği ortaya çıkacaktır. Kendisinin de söylediği budur. Atatürk bize aklın neler yapabileceğini göstermiştir. Bunun mümkün olduğunu göstermiş; ama "Ben böyle diyorum, böyle yapın" dememiştir. Bilakis, "Ben hiçbir şey söylemiyorum, sadece aklınızı rehber edinin" demiştir. Yaptığı bütün inkılapların gayesi de aklın rehberliğinde Türkiye Cumhuriyeti halkını tamamen çağa uygun, bütün mana ve biçimiyle uygar bir toplum haline dönüştürmektir. Atatürk bir diktatör mü, değil mi? Son yıllarda yazılmış en iddialı Atatürk kitabı olmaya aday bu eserde bu ve daha birçok sorunun cevabını bulacaksınız. (Tanıtım Bülteninden)</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">676370d0-855e-4666-bf0c-ce8cbc5fa5f8</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786058488830</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/1-1.xhtml" id="x1-1" media-type="application/xhtml+xml"/>
+    <item href="Text/1-2.xhtml" id="x1-2" media-type="application/xhtml+xml"/>
+    <item href="Text/1-3.xhtml" id="x1-3" media-type="application/xhtml+xml"/>
+    <item href="Text/1-4.xhtml" id="x1-4" media-type="application/xhtml+xml"/>
+    <item href="Text/1-5.xhtml" id="x1-5" media-type="application/xhtml+xml"/>
+    <item href="Text/1-6.xhtml" id="x1-6" media-type="application/xhtml+xml"/>
+    <item href="Text/1-7.xhtml" id="x1-7" media-type="application/xhtml+xml"/>
+    <item href="Text/1-8.xhtml" id="x1-8" media-type="application/xhtml+xml"/>
+    <item href="Text/1-9.xhtml" id="x1-9" media-type="application/xhtml+xml"/>
+    <item href="Text/1-10.xhtml" id="x1-10" media-type="application/xhtml+xml"/>
+    <item href="Text/1-11.xhtml" id="x1-11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="Images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/16_fmt.jpeg" id="x16_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/17_fmt.jpeg" id="x17_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/171_fmt.jpeg" id="x171_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/251.jpg" id="x251.jpg" media-type="image/jpeg"/>
+    <item href="Images/ataf_fmt.jpeg" id="ataf_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataf1_fmt.jpeg" id="ataf1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataf2_fmt.jpeg" id="ataf2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataf3_fmt.jpeg" id="ataf3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataf4_fmt.jpeg" id="ataf4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataf5_fmt.jpeg" id="ataf5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataf6_fmt.jpeg" id="ataf6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataf7_fmt.jpeg" id="ataf7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataf8_fmt.jpeg" id="ataf8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataf9_fmt.jpeg" id="ataf9_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataf10_fmt.jpeg" id="ataf10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataf11_fmt.jpeg" id="ataf11_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataf12_fmt.jpeg" id="ataf12_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataf14_fmt.jpeg" id="ataf14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ataf15_fmt.jpeg" id="ataf15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/desen (1)_fmt.jpeg" id="desen--1-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/desen (1)_fmt1.jpeg" id="desen--1-_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/desen (1)_fmt2.jpeg" id="desen--1-_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="Images/desen (1)_fmt3.jpeg" id="desen--1-_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ka black_fmt.jpeg" id="ka-black_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ka black_fmt1.jpeg" id="ka-black_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/ka black_fmt2.jpeg" id="ka-black_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="Images/P1000474_fmt.jpeg" id="P1000474_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="u5kXifEoT6G4jQvSVCUptF4" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x1-1"/>
+    <itemref idref="x1-2"/>
+    <itemref idref="x1-3"/>
+    <itemref idref="x1-4"/>
+    <itemref idref="x1-5"/>
+    <itemref idref="x1-6"/>
+    <itemref idref="x1-7"/>
+    <itemref idref="x1-8"/>
+    <itemref idref="x1-9"/>
+    <itemref idref="x1-10"/>
+    <itemref idref="x1-11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

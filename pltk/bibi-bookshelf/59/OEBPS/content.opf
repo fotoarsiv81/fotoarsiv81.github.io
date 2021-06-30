@@ -1,0 +1,79 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Boratav, Korkut">Korkut Boratav</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">a8876d19-1183-4c24-9780-c8d73ff989d0</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2000-01-05T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2015-01-16</dc:date>
+    <dc:publisher>İmge Kitabevi Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Yirmi yılı aşkın bir süredir dünyayı ve Türkiye'yi neoliberal rüzgarlar savurup duruyor. Çalışan, sıradan insanın zorlu mücadelelerle elde ettiği ekonomik, toplumsal, siyasal kazanımlar tehdit ediliyor, aşındırılıyor. Emperyalizm, küreselleşme adını aldı... Serbest piyasa ekonomisi "başka seçenek yok" sloganıyla saygınlaştırıldı...
+
+Dünya bir kurtlar sofrasına dönüşüyor... Emeğiyle geçinen ya teslimiyete ya da köktendinciliğe, şovenizme, anarşizme yöneliyor.
+Ama devran dönecek ve insanlık, er geç, dayanışmacı birikimlerine ve sosyalizme yeniden sarılacaktır.
+Bu derleme, neoliberal politikalara bunların savunucu ve uygulayıcılarına karşı bir dizi polemiktir, direnme yazısıdır.&lt;/p&gt;</dc:description>
+    <meta content="Yeni Dünya Düzeni Nereye" name="calibre:title_sort"/>
+    <meta content="2015-01-11T14:16:46.284000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{&quot;Korkut Boratav&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  <dc:title>Yeni Dünya Düzeni Nereye</dc:title>
+<dc:subject>Araştırma</dc:subject>
+<dc:subject>Ekonomi</dc:subject>
+<dc:subject>Emek</dc:subject>
+<dc:subject>Globalleşme</dc:subject>
+<dc:subject>İnceleme</dc:subject>
+<dc:subject>İş Dünyası</dc:subject>
+<dc:subject>Politika</dc:subject>
+<dc:subject>Siyaset</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">cac30702-98d5-4c29-9d44-0afba5ab511e</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755333861</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/y1.htm" id="y1.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/y2.htm" id="y2.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.htm" id="Section0002.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.htm" id="Section0003.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.htm" id="Section0005.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.htm" id="Section0006.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.htm" id="Section0007.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.htm" id="Section0008.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.htm" id="Section0009.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/y3.htm" id="y3.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/y4.htm" id="y4.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/y5.htm" id="y5.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/boratav_yenidunyaduzeninereye-1.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="Images/boratav_yenidunyaduzeninereye-2.png" id="added2" media-type="image/png"/>
+    <item href="Images/boratav_yenidunyaduzeninereye-3.png" id="added3" media-type="image/png"/>
+    <item href="Images/boratav_yenidunyaduzeninereye-4.png" id="added4" media-type="image/png"/>
+    <item href="Images/boratav_yenidunyaduzeninereye-5.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="Images/cover_image.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="y1.htm"/>
+    <itemref idref="y2.htm"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="Section0002.htm"/>
+    <itemref idref="Section0003.htm"/>
+    <itemref idref="Section0005.htm"/>
+    <itemref idref="Section0006.htm"/>
+    <itemref idref="Section0007.htm"/>
+    <itemref idref="Section0008.htm"/>
+    <itemref idref="Section0009.htm"/>
+    <itemref idref="y3.htm"/>
+    <itemref idref="y4.htm"/>
+    <itemref idref="y5.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Title Page" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,1906 @@
+.calibre {
+  display: block;
+  font-size: 1.125em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  display: block;
+  padding: 0 0 18pt;
+  margin: 1em 0;
+}
+.calibre2 {
+  display: block;
+  font-size: 1.33333em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justify;
+  padding: 18pt 0 0;
+  margin: 0.67em 0;
+}
+.calibre3 {
+  line-height: 1.2;
+}
+.calibre4 {
+  display: block;
+  text-align: right;
+  margin: 1em 0;
+}
+.calibre5 {
+  display: inline;
+  layout-flow: horizontal;
+}
+.calibre7 {
+  display: block;
+}
+.calibre8 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 6pt;
+  margin: 1em 0;
+}
+.calibre9 {
+  display: block;
+  text-align: justify;
+  padding: 6pt 0 0 17pt;
+  margin: 1em 0;
+}
+.calibre10 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 0 17pt;
+  margin: 1em 0;
+}
+.calibre11 {
+  display: block;
+  text-align: center;
+  padding: 0 0 6pt 18pt;
+  margin: 1em 0;
+}
+.calibre12 {
+  display: block;
+  text-align: center;
+  padding: 6pt 0 6pt 18pt;
+  margin: 1em 0;
+}
+.calibre13 {
+  display: block;
+  text-align: center;
+  padding: 6pt 0 0 18pt;
+  margin: 1em 0;
+}
+.calibre14 {
+  display: block;
+  text-align: justify;
+  padding: 6pt 0 0 94pt;
+  margin: 1em 0;
+}
+.calibre15 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 6pt 94pt;
+  margin: 1em 0;
+}
+.calibre16 {
+  display: block;
+  text-align: center;
+  padding: 0 0 129pt 18pt;
+  margin: 1em 0;
+}
+.calibre18 {
+  display: block;
+  text-align: center;
+  padding: 0 0 0 18pt;
+  margin: 1em 0;
+}
+.calibre19 {
+  border-collapse: separate;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0;
+}
+.calibre20 {
+  display: table-row;
+  vertical-align: middle;
+}
+.calibre21 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: inherit;
+  padding: 1px;
+}
+.calibre22 {
+  display: block;
+  margin: 1em 0;
+}
+.calibre23 {
+  display: block;
+  float: left;
+  layout-flow: horizontal;
+}
+.calibre24 {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+.calibre25 {
+  color: gray;
+  display: block;
+  height: 2px;
+  margin: 0.5em auto;
+  border: currentColor inset 1px;
+}
+.calibre26 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 0 45pt 1pt;
+  margin: 1em 0;
+}
+.calibre27 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 45pt 0 162pt 1pt;
+  margin: 1em 0;
+}
+.calibre28 {
+  display: block;
+  text-align: center;
+  padding: 162pt 0 126pt 1pt;
+  margin: 1em 0;
+}
+.calibre29 {
+  height: 18pt;
+  width: 23pt;
+}
+.calibre30 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 1pt 0 0;
+  margin: 1em 0;
+}
+.calibre31 {
+  display: block;
+  text-align: center;
+  padding: 0 21pt 45pt 0;
+  margin: 1em 0;
+}
+.calibre32 {
+  display: block;
+  text-align: justify;
+  padding: 45pt 0 0;
+  margin: 1em 0;
+}
+.calibre33 {
+  display: block;
+  text-align: justify;
+  margin: 1em 0;
+}
+.calibre34 {
+  display: block;
+  text-align: center;
+  padding: 0 19pt 0 0;
+  margin: 1em 0;
+}
+.calibre35 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 0 10pt;
+  margin: 1em 0;
+}
+.calibre36 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 9pt;
+  margin: 1em 0;
+}
+.calibre37 {
+  display: block;
+  text-align: center;
+  padding: 9pt 1pt 9pt 0;
+  margin: 1em 0;
+}
+.calibre38 {
+  display: block;
+  text-align: justify;
+  padding: 9pt 0 0;
+  margin: 1em 0;
+}
+.calibre39 {
+  display: block;
+  float: right;
+  layout-flow: horizontal;
+}
+.calibre40 {
+  display: block;
+  text-align: center;
+  padding: 9pt 0 0;
+  margin: 1em 0;
+}
+.calibre41 {
+  display: block;
+  text-align: center;
+  padding: 0 0 9pt;
+  margin: 1em 0;
+}
+.calibre42 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 0 11pt;
+  margin: 1em 0;
+}
+.calibre43 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 0 195pt;
+  margin: 1em 0;
+}
+.calibre45 {
+  display: block;
+  text-align: justify;
+  text-indent: 22pt;
+  margin: 1em 0;
+}
+.calibre46 {
+  display: block;
+  text-align: justify;
+  text-indent: 21pt;
+  padding: 0 0 9pt;
+  margin: 1em 0;
+}
+.calibre47 {
+  display: block;
+  text-align: center;
+  padding: 9pt 7pt 0 0;
+  margin: 1em 0;
+}
+.calibre48 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 0 3pt;
+  margin: 1em 0;
+}
+.calibre49 {
+  display: block;
+  text-align: center;
+  padding: 3pt 0 141pt;
+  margin: 1em 0;
+}
+.calibre50 {
+  display: block;
+  text-align: justify;
+  padding: 141pt 0 0;
+  margin: 1em 0;
+}
+.calibre51 {
+  display: block;
+  text-align: justify;
+  text-indent: 21pt;
+  margin: 1em 0;
+}
+.calibre52 {
+  display: block;
+  text-align: justify;
+  text-indent: 21pt;
+  padding: 0 0 3pt;
+  margin: 1em 0;
+}
+.calibre53 {
+  display: block;
+  text-align: center;
+  padding: 3pt 2pt 3pt 0;
+  margin: 1em 0;
+}
+.calibre54 {
+  display: block;
+  padding: 3pt 0 0 141pt;
+  margin: 1em 0;
+}
+.calibre55 {
+  display: block;
+  text-align: center;
+  padding: 0 3pt 15pt 0;
+  margin: 1em 0;
+}
+.calibre56 {
+  display: block;
+  padding: 15pt 0 0 21pt;
+  margin: 1em 0;
+}
+.calibre57 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 3pt 0 174pt;
+  margin: 1em 0;
+}
+.calibre58 {
+  font-size: 0.875em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre59 {
+  display: block;
+  text-align: justify;
+  padding: 174pt 0 0;
+  margin: 1em 0;
+}
+.calibre60 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 0 16pt;
+  margin: 1em 0;
+}
+.calibre61 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 0 15pt;
+  margin: 1em 0;
+}
+.calibre62 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 0 186pt;
+  margin: 1em 0;
+}
+.calibre63 {
+  display: block;
+  text-align: justify;
+  padding: 186pt 0 0;
+  margin: 1em 0;
+}
+.calibre64 {
+  display: block;
+  text-align: center;
+  padding: 0 1pt 0 0;
+  margin: 1em 0;
+}
+.calibre65 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 0 198pt;
+  margin: 1em 0;
+}
+.calibre66 {
+  display: block;
+  text-align: justify;
+  padding: 198pt 0 0;
+  margin: 1em 0;
+}
+.calibre67 {
+  display: block;
+  text-align: justify;
+  text-indent: 23pt;
+  margin: 1em 0;
+}
+.calibre68 {
+  display: block;
+  text-align: justify;
+  text-indent: 20pt;
+  margin: 1em 0;
+}
+.calibre69 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 1em 0;
+}
+.calibre70 {
+  display: block;
+  text-align: justify;
+  padding: 168pt 0 0;
+  margin: 1em 0;
+}
+.calibre71 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 0 222pt;
+  margin: 1em 0;
+}
+.calibre72 {
+  display: block;
+  text-align: justify;
+  padding: 222pt 0 0;
+  margin: 1em 0;
+}
+.calibre73 {
+  display: block;
+  text-align: justify;
+  text-indent: 21pt;
+  padding: 0 0 15pt;
+  margin: 1em 0;
+}
+.calibre74 {
+  display: block;
+  text-align: justify;
+  padding: 15pt 0 0;
+  margin: 1em 0;
+}
+.calibre75 {
+  display: block;
+  text-align: center;
+  padding: 0 0 6pt;
+  margin: 1em 0;
+}
+.calibre76 {
+  display: block;
+  text-align: justify;
+  padding: 6pt 0 0;
+  margin: 1em 0;
+}
+.calibre77 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 0 171pt;
+  margin: 1em 0;
+}
+.calibre78 {
+  display: block;
+  text-align: justify;
+  padding: 171pt 0 0;
+  margin: 1em 0;
+}
+.calibre79 {
+  display: block;
+  text-indent: 24pt;
+  margin: 1em 0;
+}
+.calibre80 {
+  display: block;
+  text-align: center;
+  padding: 0 0 198pt;
+  margin: 1em 0;
+}
+.calibre81 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 3pt;
+  margin: 1em 0;
+}
+.calibre82 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 12pt;
+  margin: 1em 0;
+}
+.calibre83 {
+  display: block;
+  text-align: justify;
+  padding: 12pt 0 0;
+  margin: 1em 0;
+}
+.calibre84 {
+  display: block;
+  text-align: justify;
+  text-indent: 24pt;
+  margin: 1em 0;
+}
+.calibre85 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 2pt 186pt 0;
+  margin: 1em 0;
+}
+.calibre86 {
+  display: block;
+  text-align: justify;
+  padding: 186pt 0 9pt;
+  margin: 1em 0;
+}
+.calibre87 {
+  display: block;
+  text-align: justify;
+  text-indent: 22pt;
+  padding: 0 0 12pt;
+  margin: 1em 0;
+}
+.calibre88 {
+  display: block;
+  text-indent: 21pt;
+  margin: 1em 0;
+}
+.calibre89 {
+  display: block;
+  text-align: center;
+  padding: 0 0 15pt 39pt;
+  margin: 1em 0;
+}
+.calibre90 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 1pt 210pt 0;
+  margin: 1em 0;
+}
+.calibre91 {
+  display: block;
+  text-align: justify;
+  padding: 210pt 0 0;
+  margin: 1em 0;
+}
+.calibre92 {
+  display: block;
+  text-align: center;
+  padding: 0 0 0 10pt;
+  margin: 1em 0;
+}
+.calibre93 {
+  display: block;
+  text-align: justify;
+  padding: 0 12pt 0 0;
+  margin: 1em 0;
+}
+.calibre94 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 0 210pt 1pt;
+  margin: 1em 0;
+}
+.calibre95 {
+  display: block;
+  text-align: justify;
+  text-indent: 22pt;
+  padding: 0 0 9pt;
+  margin: 1em 0;
+}
+.calibre96 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 0 210pt;
+  margin: 1em 0;
+}
+.calibre97 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 24pt;
+  padding: 0 0 225pt;
+  margin: 1em 0;
+}
+.calibre98 {
+  display: block;
+  text-align: justify;
+  padding: 225pt 0 0;
+  margin: 1em 0;
+}
+.calibre99 {
+  display: block;
+  padding: 15pt 0 0 140pt;
+  margin: 1em 0;
+}
+.calibre100 {
+  display: block;
+  text-align: justify;
+  padding: 9pt 0;
+  margin: 1em 0;
+}
+.calibre101 {
+  display: block;
+  text-align: justify;
+  text-indent: 26pt;
+  margin: 1em 0;
+}
+.calibre102 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 0 201pt 1pt;
+  margin: 1em 0;
+}
+.calibre103 {
+  display: block;
+  text-align: justify;
+  padding: 201pt 0 0;
+  margin: 1em 0;
+}
+.calibre104 {
+  display: block;
+  text-align: justify;
+  text-indent: 21pt;
+  padding: 0 9pt 9pt 0;
+  margin: 1em 0;
+}
+.calibre105 {
+  display: block;
+  text-align: justify;
+  text-indent: 21pt;
+  padding: 0 9pt 0 0;
+  margin: 1em 0;
+}
+.calibre106 {
+  display: block;
+  text-align: center;
+  padding: 0 0 0 9pt;
+  margin: 1em 0;
+}
+.calibre107 {
+  display: block;
+  text-align: center;
+  padding: 0 0 0 1pt;
+  margin: 1em 0;
+}
+.calibre108 {
+  display: block;
+  padding: 3pt 0 3pt 107pt;
+  margin: 1em 0;
+}
+.calibre109 {
+  display: block;
+  text-align: justify;
+  padding: 3pt 0 0;
+  margin: 1em 0;
+}
+.calibre110 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding: 0 0 210pt 17pt;
+  margin: 1em 0;
+}
+.calibre111 {
+  display: block;
+  text-align: justify;
+  text-indent: 22pt;
+  padding: 0 12pt 0 0;
+  margin: 1em 0;
+}
+.calibre112 {
+  display: block;
+  text-align: justify;
+  text-indent: 22pt;
+  padding: 0 11pt 3pt 0;
+  margin: 1em 0;
+}
+.calibre113 {
+  display: block;
+  padding: 3pt 0 0 142pt;
+  margin: 1em 0;
+}
+.calibre114 {
+  display: block;
+  text-align: center;
+  padding: 0 0 15pt 1pt;
+  margin: 1em 0;
+}
+.calibre115 {
+  display: block;
+  padding: 15pt 0 0;
+  margin: 1em 0;
+}
+.calibre116 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 0 213pt;
+  margin: 1em 0;
+}
+.calibre117 {
+  display: block;
+  text-align: justify;
+  padding: 213pt 0 0;
+  margin: 1em 0;
+}
+.calibre118 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 12pt 16pt;
+  margin: 1em 0;
+}
+.calibre119 {
+  display: block;
+  text-align: justify;
+  text-indent: 21pt;
+  padding: 12pt 0 297pt;
+  margin: 1em 0;
+}
+.calibre120 {
+  display: block;
+  padding: 297pt 0 0 140pt;
+  margin: 1em 0;
+}
+.calibre121 {
+  display: block;
+  text-align: justify;
+  padding: 192pt 0 0;
+  margin: 1em 0;
+}
+.calibre122 {
+  display: block;
+  text-align: justify;
+  text-indent: 22pt;
+  padding: 0 0 3pt;
+  margin: 1em 0;
+}
+.calibre123 {
+  display: block;
+  padding: 3pt 0 0 143pt;
+  margin: 1em 0;
+}
+.calibre124 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 2pt 210pt 0;
+  margin: 1em 0;
+}
+.calibre125 {
+  display: block;
+  text-align: justify;
+  text-indent: 24pt;
+  padding: 0 0 12pt;
+  margin: 1em 0;
+}
+.calibre126 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding: 0 0 3pt 12pt;
+  margin: 1em 0;
+}
+.calibre127 {
+  display: block;
+  text-align: center;
+  padding: 3pt 0 210pt;
+  margin: 1em 0;
+}
+.calibre128 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 9pt 16pt;
+  margin: 1em 0;
+}
+.calibre129 {
+  display: block;
+  text-align: justify;
+  text-indent: 21pt;
+  padding: 9pt 0 0;
+  margin: 1em 0;
+}
+.calibre130 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding: 0 0 186pt 16pt;
+  margin: 1em 0;
+}
+.calibre131 {
+  display: block;
+  text-align: justify;
+  text-indent: 25pt;
+  margin: 1em 0;
+}
+.calibre132 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding: 0 0 183pt 30pt;
+  margin: 1em 0;
+}
+.calibre133 {
+  display: block;
+  text-align: center;
+  padding: 183pt 2pt 15pt 0;
+  margin: 1em 0;
+}
+.calibre134 {
+  display: block;
+  text-align: justify;
+  text-indent: 21pt;
+  padding: 0 0 12pt;
+  margin: 1em 0;
+}
+.calibre135 {
+  display: block;
+  text-align: center;
+  padding: 12pt 0 18pt;
+  margin: 1em 0;
+}
+.calibre136 {
+  display: block;
+  text-align: justify;
+  padding: 18pt 0 0;
+  margin: 1em 0;
+}
+.calibre137 {
+  display: block;
+  text-align: center;
+  padding: 12pt 0 15pt;
+  margin: 1em 0;
+}
+.calibre138 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 12pt 15pt;
+  margin: 1em 0;
+}
+.calibre139 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding: 0 0 210pt 15pt;
+  margin: 1em 0;
+}
+.calibre140 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 6pt 16pt;
+  margin: 1em 0;
+}
+.calibre141 {
+  display: block;
+  text-align: center;
+  padding: 6pt 16pt 0 0;
+  margin: 1em 0;
+}
+.calibre142 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 1pt 3pt 0;
+  margin: 1em 0;
+}
+.calibre143 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 3pt 1pt 171pt 0;
+  margin: 1em 0;
+}
+.calibre144 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justify;
+  padding: 0 0 225pt;
+  margin: 1em 0;
+}
+.calibre145 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding: 0 0 198pt 10pt;
+  margin: 1em 0;
+}
+.calibre146 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: right;
+  padding: 0 0 219pt;
+  margin: 1em 0;
+}
+.calibre147 {
+  display: block;
+  text-align: justify;
+  padding: 219pt 0 0;
+  margin: 1em 0;
+}
+.calibre148 {
+  display: block;
+  text-align: center;
+  padding: 0 0 3pt;
+  margin: 1em 0;
+}
+.calibre149 {
+  display: block;
+  text-align: center;
+  padding: 0 0 15pt 5pt;
+  margin: 1em 0;
+}
+.calibre150 {
+  display: block;
+  text-align: center;
+  padding: 15pt 0 0 5pt;
+  margin: 1em 0;
+}
+.calibre151 {
+  display: block;
+  text-align: center;
+  padding: 0 0 168pt;
+  margin: 1em 0;
+}
+.calibre152 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 4pt 213pt 0;
+  margin: 1em 0;
+}
+.calibre153 {
+  display: block;
+  text-align: center;
+  padding: 0 4pt 0 0;
+  margin: 1em 0;
+}
+.calibre154 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 2pt 198pt 0;
+  margin: 1em 0;
+}
+.calibre156 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 2pt 213pt 0;
+  margin: 1em 0;
+}
+.calibre157 {
+  display: block;
+  padding: 0 0 0 8pt;
+  margin: 1em 0;
+}
+.calibre158 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: middle;
+  padding: 1px;
+}
+.calibre159 {
+  display: block;
+  padding: 0 0 0 7pt;
+  margin: 1em 0;
+}
+.calibre160 {
+  display: block;
+  text-align: right;
+  padding: 0 11pt 0 0;
+  margin: 1em 0;
+}
+.calibre161 {
+  display: block;
+  text-align: center;
+  padding: 0 0 0 4pt;
+  margin: 1em 0;
+}
+.calibre162 {
+  display: block;
+  text-align: justify;
+  text-indent: 22pt;
+  padding: 15pt 0 0;
+  margin: 1em 0;
+}
+.calibre163 {
+  display: block;
+  text-align: justify;
+  text-indent: 23pt;
+  padding: 0 0 12pt;
+  margin: 1em 0;
+}
+.calibre164 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding: 0 77pt 198pt 64pt;
+  margin: 1em 0;
+}
+.calibre165 {
+  display: block;
+  text-align: justify;
+  padding: 0 9pt 0 20pt;
+  margin: 1em 0;
+}
+.calibre166 {
+  display: block;
+  text-align: justify;
+  text-indent: 20pt;
+  padding: 0 9pt 0 20pt;
+  margin: 1em 0;
+}
+.calibre168 {
+  display: block;
+  text-align: justify;
+  padding: 0 20pt 0 10pt;
+  margin: 1em 0;
+}
+.calibre169 {
+  display: block;
+  text-align: justify;
+  text-indent: 20pt;
+  padding: 0 20pt 0 10pt;
+  margin: 1em 0;
+}
+.calibre170 {
+  display: block;
+  text-align: justify;
+  padding: 0 9pt 0 21pt;
+  margin: 1em 0;
+}
+.calibre171 {
+  display: block;
+  text-align: justify;
+  text-indent: 19pt;
+  padding: 0 9pt 0 21pt;
+  margin: 1em 0;
+}
+.calibre172 {
+  display: block;
+  text-align: justify;
+  padding: 210pt 14pt 0 16pt;
+  margin: 1em 0;
+}
+.calibre173 {
+  display: block;
+  text-align: justify;
+  text-indent: 19pt;
+  padding: 0 14pt 0 16pt;
+  margin: 1em 0;
+}
+.calibre174 {
+  display: block;
+  text-align: justify;
+  padding: 0 11pt 0 19pt;
+  margin: 1em 0;
+}
+.calibre175 {
+  display: block;
+  text-align: justify;
+  text-indent: 20pt;
+  padding: 0 11pt 0 19pt;
+  margin: 1em 0;
+}
+.calibre176 {
+  display: block;
+  text-align: justify;
+  text-indent: 20pt;
+  padding: 0 0 0 19pt;
+  margin: 1em 0;
+}
+.calibre177 {
+  display: block;
+  text-align: justify;
+  text-indent: 24pt;
+  padding: 0 24pt 0 0;
+  margin: 1em 0;
+}
+.calibre179 {
+  display: block;
+  text-align: justify;
+  text-indent: 19pt;
+  padding: 0 12pt 0 17pt;
+  margin: 1em 0;
+}
+.calibre180 {
+  display: block;
+  text-align: center;
+  padding: 0 1pt 15pt 0;
+  margin: 1em 0;
+}
+.calibre181 {
+  display: block;
+  text-align: center;
+  padding: 15pt 1pt 3pt 0;
+  margin: 1em 0;
+}
+.calibre182 {
+  display: block;
+  text-align: center;
+  padding: 3pt 1pt 0 0;
+  margin: 1em 0;
+}
+.calibre183 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 0 219pt;
+  margin: 1em 0;
+}
+.calibre184 {
+  font-size: 1em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre185 {
+  display: block;
+  padding: 0 55pt 12pt 94pt;
+  margin: 1em 0;
+}
+.calibre186 {
+  display: block;
+  text-align: justify;
+  padding: 9pt 0 15pt 39pt;
+  margin: 1em 0;
+}
+.calibre187 {
+  display: block;
+  text-align: justify;
+  padding: 9pt 0 15pt 16pt;
+  margin: 1em 0;
+}
+.calibre188 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: bottom;
+  padding: 1px;
+}
+.calibre189 {
+  display: block;
+  text-align: right;
+  padding: 0 10pt 0 0;
+  margin: 1em 0;
+}
+.calibre190 {
+  display: block;
+  text-align: right;
+  padding: 0 12pt 0 0;
+  margin: 1em 0;
+}
+.calibre191 {
+  display: block;
+  padding: 0 0 3pt;
+  margin: 1em 0;
+}
+.calibre192 {
+  display: block;
+  padding: 3pt 0 0;
+  margin: 1em 0;
+}
+.calibre193 {
+  display: block;
+  text-align: center;
+  padding: 0 2pt 0 0;
+  margin: 1em 0;
+}
+.calibre194 {
+  display: block;
+  text-align: right;
+  padding: 0 8pt 0 0;
+  margin: 1em 0;
+}
+.calibre195 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 0 26pt;
+  margin: 1em 0;
+}
+.calibre196 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 0 23pt;
+  margin: 1em 0;
+}
+.calibre197 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 0 24pt;
+  margin: 1em 0;
+}
+.calibre198 {
+  display: block;
+  padding: 0 0 0 13pt;
+  margin: 1em 0;
+}
+.calibre199 {
+  display: block;
+  padding: 0 0 0 11pt;
+  margin: 1em 0;
+}
+.calibre200 {
+  display: block;
+  padding: 0 0 0 12pt;
+  margin: 1em 0;
+}
+.calibre201 {
+  display: block;
+  text-align: center;
+  padding: 0 3pt 0 0;
+  margin: 1em 0;
+}
+.calibre202 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding: 0 70pt 159pt 69pt;
+  margin: 1em 0;
+}
+.calibre203 {
+  display: block;
+  text-align: justify;
+  padding: 159pt 0 0;
+  margin: 1em 0;
+}
+.calibre204 {
+  display: block;
+  text-align: center;
+  padding: 0 0 15pt;
+  margin: 1em 0;
+}
+.calibre205 {
+  display: block;
+  padding: 6pt 0 0 141pt;
+  margin: 1em 0;
+}
+.calibre206 {
+  display: block;
+  text-align: center;
+  padding: 12pt 0 0 1pt;
+  margin: 1em 0;
+}
+.calibre207 {
+  display: block;
+  text-align: justify;
+  padding: 0 9pt 0 7pt;
+  margin: 1em 0;
+}
+.calibre208 {
+  display: block;
+  text-align: justify;
+  padding: 0 11pt 0 8pt;
+  margin: 1em 0;
+}
+.calibre209 {
+  display: block;
+  text-align: center;
+  padding: 0 0 0 3pt;
+  margin: 1em 0;
+}
+.calibre210 {
+  display: block;
+  text-align: center;
+  padding: 0 8pt 0 0;
+  margin: 1em 0;
+}
+.calibre211 {
+  display: block;
+  text-align: center;
+  padding: 0 0 0 6pt;
+  margin: 1em 0;
+}
+.calibre212 {
+  display: block;
+  text-align: justify;
+  padding: 0 9pt 0 8pt;
+  margin: 1em 0;
+}
+.calibre213 {
+  display: block;
+  text-align: right;
+  padding: 0 20pt 0 0;
+  margin: 1em 0;
+}
+.calibre214 {
+  display: block;
+  text-align: center;
+  padding: 0 9pt 0 0;
+  margin: 1em 0;
+}
+.calibre215 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 15pt;
+  margin: 1em 0;
+}
+.calibre216 {
+  display: block;
+  text-align: center;
+  padding: 15pt 0;
+  margin: 1em 0;
+}
+.calibre217 {
+  display: block;
+  padding: 12pt 0 15pt 12pt;
+  margin: 1em 0;
+}
+.calibre218 {
+  display: block;
+  text-indent: 22pt;
+  margin: 1em 0;
+}
+.calibre219 {
+  display: block;
+  text-align: justify;
+  padding: 171pt 0 15pt 15pt;
+  margin: 1em 0;
+}
+.calibre220 {
+  display: block;
+  text-align: justify;
+  padding: 12pt 0 0 15pt;
+  margin: 1em 0;
+}
+.calibre221 {
+  display: block;
+  text-align: justify;
+  padding: 12pt 0 15pt 65pt;
+  margin: 1em 0;
+}
+.calibre222 {
+  display: block;
+  text-align: center;
+  padding: 0 0 0 8pt;
+  margin: 1em 0;
+}
+.calibre223 {
+  display: block;
+  text-align: justify;
+  text-indent: 23pt;
+  padding: 9pt 0 0;
+  margin: 1em 0;
+}
+.calibre224 {
+  display: block;
+  text-align: justify;
+  padding: 0 0 0 18pt;
+  margin: 1em 0;
+}
+.calibre225 {
+  display: block;
+  text-align: justify;
+  text-indent: 21pt;
+  padding: 12pt 0;
+  margin: 1em 0;
+}
+.calibre226 {
+  display: block;
+  text-align: justify;
+  padding: 12pt 0 18pt 31pt;
+  margin: 1em 0;
+}
+.calibre227 {
+  display: block;
+  text-align: center;
+  padding: 0 0 0 5pt;
+  margin: 1em 0;
+}
+.calibre228 {
+  display: block;
+  text-align: justify;
+  text-indent: 30pt;
+  padding: 12pt 0 0;
+  margin: 1em 0;
+}
+.calibre229 {
+  display: block;
+  text-align: justify;
+  padding: 12pt 0 18pt 40pt;
+  margin: 1em 0;
+}
+.calibre230 {
+  display: block;
+  text-align: justify;
+  text-indent: 23pt;
+  padding: 12pt 0 0;
+  margin: 1em 0;
+}
+.calibre231 {
+  display: block;
+  text-align: justify;
+  text-indent: 22pt;
+  padding: 12pt 0;
+  margin: 1em 0;
+}
+.calibre232 {
+  display: block;
+  text-align: justify;
+  text-indent: 22pt;
+  padding: 12pt 0 18pt;
+  margin: 1em 0;
+}
+.calibre233 {
+  display: block;
+  padding: 0 59pt 0 66pt;
+  margin: 1em 0;
+}
+.calibre234 {
+  display: block;
+  padding: 0 0 0 9pt;
+  margin: 1em 0;
+}
+.calibre235 {
+  display: block;
+  text-align: justify;
+  padding: 12pt 0;
+  margin: 1em 0;
+}
+.calibre236 {
+  display: block;
+  text-align: center;
+  padding: 12pt 0 0;
+  margin: 1em 0;
+}
+.calibre237 {
+  display: block;
+  text-align: justify;
+  text-indent: 22pt;
+  padding: 12pt 0 0;
+  margin: 1em 0;
+}
+.calibre238 {
+  display: block;
+  text-align: justify;
+  text-indent: 22pt;
+  padding: 0 0 15pt;
+  margin: 1em 0;
+}
+.calibre239 {
+  display: block;
+  text-align: justify;
+  padding: 15pt 0 15pt 49pt;
+  margin: 1em 0;
+}
+.calibre240 {
+  display: block;
+  text-align: right;
+  padding: 0 21pt 0 0;
+  margin: 1em 0;
+}
+.calibre241 {
+  display: block;
+  text-align: center;
+  padding: 0 7pt 0 0;
+  margin: 1em 0;
+}
+.calibre242 {
+  display: block;
+  text-align: center;
+  padding: 12pt 1pt 3pt 0;
+  margin: 1em 0;
+}
+.calibre243 {
+  display: block;
+  text-align: justify;
+  padding: 12pt 0 15pt 42pt;
+  margin: 1em 0;
+}
+.calibre244 {
+  display: block;
+  text-align: justify;
+  text-indent: 20pt;
+  padding: 0 0 12pt;
+  margin: 1em 0;
+}
+.calibre245 {
+  display: block;
+  text-align: justify;
+  text-indent: 20pt;
+  padding: 12pt 0 15pt;
+  margin: 1em 0;
+}
+.calibre246 {
+  display: block;
+  text-align: center;
+  padding: 0 0 0 2pt;
+  margin: 1em 0;
+}
+.calibre247 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding: 0 65pt 171pt 61pt;
+  margin: 1em 0;
+}
+.calibre248 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 22pt;
+  padding: 0 0 210pt;
+  margin: 1em 0;
+}
+.calibre249 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0 0 183pt;
+  margin: 1em 0;
+}
+.calibre250 {
+  display: block;
+  text-align: justify;
+  padding: 183pt 0 0;
+  margin: 1em 0;
+}
+.calibre251 {
+  display: block;
+  text-align: center;
+  padding: 0 1pt 3pt 0;
+  margin: 1em 0;
+}
+.calibre252 {
+  display: block;
+  padding: 0 0 6pt;
+  margin: 1em 0;
+}
+.calibre253 {
+  height: 23pt;
+  width: 43pt;
+}
+.calibre254 {
+  display: block;
+  font-size: 1.22222em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justify;
+  padding: 6pt 0 0;
+  margin: 0.83em 0;
+}
+.calibre255 {
+  height: 49pt;
+  width: 52pt;
+}
+.calibre256 {
+  display: block;
+  text-align: justify;
+  padding: 3pt 0;
+  margin: 1em 0;
+}
+.calibre257 {
+  display: block;
+  font-size: 1.11111em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding: 0 0 9pt;
+  margin: 1em 0;
+}
+.calibre258 {
+  height: 102pt;
+  width: 78pt;
+}
+.calibre259 {
+  display: block;
+  text-align: right;
+  padding: 9pt 19pt 3pt 0;
+  margin: 1em 0;
+}
+.calibre260 {
+  display: block;
+  padding: 3pt 0;
+  margin: 1em 0;
+}
+.calibre261 {
+  display: block;
+  text-align: right;
+  padding: 3pt 19pt 21pt 0;
+  margin: 1em 0;
+}
+.calibre262 {
+  display: block;
+  padding: 21pt 0 0 95pt;
+  margin: 1em 0;
+}
+.calibre263 {
+  display: block;
+  text-align: justify;
+  padding: 0 19pt 0 35pt;
+  margin: 1em 0;
+}
+.calibre265 {
+  display: block;
+  padding: 0 0 0 17pt;
+  margin: 1em 0;
+}
+.calibre266 {
+  display: block;
+  padding: 0 0 0 16pt;
+  margin: 1em 0;
+}
+.font {
+  font-family: Arial, sans-serif;
+  font-size: 1.22222em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font1 {
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: normal;
+}
+.font3 {
+  font-family: Book, Antiqua, serif;
+  font-size: 0.66667em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font4 {
+  font-family: Book, Antiqua, serif;
+  font-size: 0.66667em;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font5 {
+  font-family: Book, Antiqua, serif;
+  font-size: 0.88889em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font6 {
+  font-family: Book, Antiqua, serif;
+  font-size: 0.9em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.font7 {
+  font-family: Georgia, serif;
+  font-size: 1em;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font8 {
+  font-family: Book, Antiqua, serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.font9 {
+  font-family: Georgia, serif;
+  font-size: 0.66667em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font10 {
+  font-family: Book, Antiqua, serif;
+  font-size: 0.88889em;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font11 {
+  font-family: Arial, Unicode, MS, sans-serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font12 {
+  font-family: Book, Antiqua, serif;
+  font-size: 0.8em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font13 {
+  font-family: Book, Antiqua, serif;
+  font-size: 0.88889em;
+  font-style: italic;
+  font-variant: small-caps;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font14 {
+  font-family: Book, Antiqua, serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: small-caps;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.font15 {
+  font-family: Book, Antiqua, serif;
+  font-size: 0.88889em;
+  font-style: normal;
+  font-variant: small-caps;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font16 {
+  font-family: Georgia, serif;
+  font-size: 0.77778em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font17 {
+  font-family: Trebuchet, MS, sans-serif;
+  font-size: 0.66667em;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.font18 {
+  font-family: Trebuchet, MS, sans-serif;
+  font-size: 0.66667em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.font19 {
+  font-family: Segoe, UI, sans-serif;
+  font-size: 1.11111em;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.font20 {
+  font-family: Book, Antiqua, serif;
+  font-size: 0.88889em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  text-decoration: underline;
+}
+.font21 {
+  font-family: Tahoma, sans-serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font22 {
+  font-family: Tahoma, sans-serif;
+  font-size: 1.11111em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font23 {
+  font-family: Book, Antiqua, serif;
+  font-size: 0.77778em;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font26 {
+  font-family: Lucida, Sans, Unicode, sans-serif;
+  font-size: 0.66667em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font27 {
+  font-family: Arial, Unicode, MS, sans-serif;
+  font-size: 0.66667em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font28 {
+  font-family: Arial, Unicode, MS, sans-serif;
+  font-size: 0.77778em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font29 {
+  font-family: Tahoma, sans-serif;
+  font-size: 1.22222em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font30 {
+  font-family: Tahoma, sans-serif;
+  font-size: 1.22222em;
+  font-style: normal;
+  font-variant: small-caps;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.font31 {
+  font-family: Lucida, Sans, Unicode, sans-serif;
+  font-size: 1.09091em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: normal;
+}
+.font32 {
+  font-family: Tahoma, sans-serif;
+  font-size: 1.33333em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: normal;
+}
+.font33 {
+  font-family: Lucida, Sans, Unicode, sans-serif;
+  font-size: 1.33333em;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: normal;
+}

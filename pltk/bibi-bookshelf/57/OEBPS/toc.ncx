@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="AWP-78155557-E9DB-4150-8D32-7DF64B96F893" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Aptalı Tanımak</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>APTALI TANIMAK</text>
+      </navLabel>
+      <content src="Text/001.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Aptalı Tanımak</text>
+      </navLabel>
+      <content src="Text/006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Cahil ve Aptal “Uyanabilir” mi?</text>
+      </navLabel>
+      <content src="Text/007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Cahilin Arkadaşı Olur mu?</text>
+      </navLabel>
+      <content src="Text/008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Mantıkî Şüpheye (Reasonable Doubt) Yobazın Bakışı</text>
+      </navLabel>
+      <content src="Text/009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Bilim Neden Yapılır?</text>
+      </navLabel>
+      <content src="Text/010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Yine Bilim Yapmanın Üzerine</text>
+      </navLabel>
+      <content src="Text/011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Yaratıcılık mı, Problem Teşhis Etmek mi!7</text>
+      </navLabel>
+      <content src="Text/012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Bilimsel Düşünme Özürlü Halkım Talihsiz Esirleri?</text>
+      </navLabel>
+      <content src="Text/013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Bilim ve Toplum Üzerine</text>
+      </navLabel>
+      <content src="Text/014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Irkçılık Üzerine</text>
+      </navLabel>
+      <content src="Text/015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Gerçeği Aramak: Bilimde İnsanlığın Buluştuğu Yer</text>
+      </navLabel>
+      <content src="Text/016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Bilgi Değerlendirmesi</text>
+      </navLabel>
+      <content src="Text/017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Bilimsel Düşünmeyen Halktan Seçimde Beklenenler</text>
+      </navLabel>
+      <content src="Text/018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Bilginin Pratikteki. Faydası ve Masalcı Osmanlı Tarihinin Zararları</text>
+      </navLabel>
+      <content src="Text/019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>“Osmanlı'da Bilim Var mıydı?” Sorusu ve Sonuçları</text>
+      </navLabel>
+      <content src="Text/020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>İslâm ve Bilim</text>
+      </navLabel>
+      <content src="Text/021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Cehaletin Eserleri</text>
+      </navLabel>
+      <content src="Text/022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Toplumun Ahlâkı Yok Olursa</text>
+      </navLabel>
+      <content src="Text/023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Sibel Kekilli ve Bilimsel Düşünebilen Bir Toplum Olmak</text>
+      </navLabel>
+      <content src="Text/024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Sibel Kekilli’nin Anımsattıkları</text>
+      </navLabel>
+      <content src="Text/025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Porno Siteleri ve Sayısız Faydaları Hakkında</text>
+      </navLabel>
+      <content src="Text/026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Hipotezin Zararları ve Türkiye’de İnsan İlişkileri</text>
+      </navLabel>
+      <content src="Text/027.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Her Şehre Üniversite Üzerine</text>
+      </navLabel>
+      <content src="Text/028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Cehennemdeki Üniversiteliler</text>
+      </navLabel>
+      <content src="Text/029.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Yobazlar Gezegeninde Üniversite!</text>
+      </navLabel>
+      <content src="Text/030.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Yabancı Dil Öğrenimi, Türkiye’de Öğrenenim ve Kulluk Mantalitesi Üzerine</text>
+      </navLabel>
+      <content src="Text/031.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Üniversite Özerkliği, Bilim ve Bilimsel Kalite</text>
+      </navLabel>
+      <content src="Text/032.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Yine Üniversite Özerkliği Üzerine</text>
+      </navLabel>
+      <content src="Text/033.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Üniversite Adamı Aforoz Etmesin!</text>
+      </navLabel>
+      <content src="Text/034.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Rektör Olarak Bir Unamuno Olabilmek</text>
+      </navLabel>
+      <content src="Text/035.html"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Eğitim</text>
+      </navLabel>
+      <content src="Text/036.html"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Eğitim-Araştırma İlişkileri ve Bilimin Gelişmesi</text>
+      </navLabel>
+      <content src="Text/037.html"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Din Temelli Eğitim Türkiye’nin Karşısında Bulunduğu En Büyük Tehlikedir</text>
+      </navLabel>
+      <content src="Text/038.html"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Elitist Eğitim Şart</text>
+      </navLabel>
+      <content src="Text/039.html"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Elit Düşmanlığının Ayyuka Çıktığı Ülke</text>
+      </navLabel>
+      <content src="Text/040.html"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Dünyanın Belki de En Sorunu: Elitizm Düşmanlığı</text>
+      </navLabel>
+      <content src="Text/041.html"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Türkiye'de Yasalara Bakışın İnançsal Temelleri</text>
+      </navLabel>
+      <content src="Text/042.html"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Uzun Süre Akıllı Tasarım Yapılabilir mi!</text>
+      </navLabel>
+      <content src="Text/043.html"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>“Akıllı Tasarım” Bilim Değildir</text>
+      </navLabel>
+      <content src="Text/044.html"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>İnsan Olmanın Zorluğu</text>
+      </navLabel>
+      <content src="Text/045.html"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Akıl Olmayınca</text>
+      </navLabel>
+      <content src="Text/046.html"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Darwin Türkler Hakkında Ne Demişti?</text>
+      </navLabel>
+      <content src="Text/047.html"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Standartlar, Goethe ve Cahil Sohbet</text>
+      </navLabel>
+      <content src="Text/048.html"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Evrimsel Etik</text>
+      </navLabel>
+      <content src="Text/049.html"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Uçmak: Evrimde Başarının Sırrı</text>
+      </navLabel>
+      <content src="Text/050.html"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Evrim, Marx ve Türkiye'de Bilgisizlikle Mücadele</text>
+      </navLabel>
+      <content src="Text/051.html"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Darwinci Fiziğin ilahiyat ve Sosyal Bilimlere Etkisi</text>
+      </navLabel>
+      <content src="Text/052.html"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Yobazın Büyük Zaferi: Kavram Kargaşası</text>
+      </navLabel>
+      <content src="Text/053.html"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Demokrasi Alerjisi</text>
+      </navLabel>
+      <content src="Text/054.html"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>New Orleans Felaketi, Demokrasi ve Cahil Politikacılar</text>
+      </navLabel>
+      <content src="Text/055.html"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Bilgi ve Görgünün Yararları, Demokrasinin Zararları</text>
+      </navLabel>
+      <content src="Text/056.html"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Ohlokrasinin Nüfus Politikası</text>
+      </navLabel>
+      <content src="Text/057.html"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Bilim, Darbeler ve Darbe Düşmanları (!)</text>
+      </navLabel>
+      <content src="Text/058.html"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Atatürk Devrimleri İnsan Olma Projesinin Basamaklarıdır</text>
+      </navLabel>
+      <content src="Text/059.html"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Bellek</text>
+      </navLabel>
+      <content src="Text/060.html"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Otuzdokuzdaki Aydınlık</text>
+      </navLabel>
+      <content src="Text/061.html"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Milli Bayramlarımız Korkan İnsanlık Düşmanları</text>
+      </navLabel>
+      <content src="Text/062.html"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Aziz (!) Kiril’i Tanıyalım</text>
+      </navLabel>
+      <content src="Text/063.html"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Bir Yazı, Bir Sansür ve Nedenleri</text>
+      </navLabel>
+      <content src="Text/064.html"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>İrtica ile Mücade</text>
+      </navLabel>
+      <content src="Text/065.html"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>İrtica ile Mücadelenin Yöntemi</text>
+      </navLabel>
+      <content src="Text/066.html"/>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>İrticanın Demokratik Bir Ülkede Mücadele Yöntemi</text>
+      </navLabel>
+      <content src="Text/067.html"/>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Yozlaşan Demokrasilerde İrtica ile Mücadele</text>
+      </navLabel>
+      <content src="Text/068.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
