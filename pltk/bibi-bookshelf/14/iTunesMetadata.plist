@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Uğur Mumcu</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>B3B3C3028514861F875596B2F8FC3CE4</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>77D210F85B590D35D46CEEA2F105BC5C</string>
+		<key>publisher-unique-id</key>
+		<string>f2501a5a-0521-41d1-a1be-00113a37397a</string>
+		<key>unique-id</key>
+		<integer>8908175064293320008</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Çağın Suçu</string>
+	<key>playlistName</key>
+	<string>Çağın Suçu</string>
+	<key>releaseDate</key>
+	<string>2010-12-04T08:00:00+00:00</string>
+</dict>
+</plist>

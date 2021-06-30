@@ -1,0 +1,104 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Valla, Kurda Yedirdin Beni!</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Alatlı, Alev">Alev Alatlı</dc:creator>
+    <dc:identifier id="BookId">urn:uuid:46c1ac4d-74ac-42e4-86d3-14e3d1d87c17</dc:identifier>
+    <dc:date opf:event="creation">2016-07-11T15:53:17Z</dc:date>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Alfa Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">7eed16b9-e554-4b02-831e-f09aa25a324c</dc:identifier>
+    <meta content="0.9.5" name="Sigil version"/>
+    <meta name="cover" content="Alev_Alatli_Valla_Kurda_Yedirdin_Beni_CS.jpg"/>
+    <meta name="calibre:title_sort" content="Valla, Kurda Yedirdin Beni!"/>
+    <meta name="calibre:author_link_map" content="{&quot;Alev Alatlı&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/KAPAK.xhtml" id="KAPAK.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Alfa Kulliyati.xhtml" id="Alfa_Kulliyati.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Ic Kapak1.xhtml" id="Ic_Kapak1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Ithaf.xhtml" id="Ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1-1.xhtml" id="Bolum1-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1-2.xhtml" id="Bolum1-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1-3.xhtml" id="Bolum1-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1-4.xhtml" id="Bolum1-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1-5.xhtml" id="Bolum1-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1-6.xhtml" id="Bolum1-6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1-7.xhtml" id="Bolum1-7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1-8.xhtml" id="Bolum1-8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1-9.xhtml" id="Bolum1-9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2-1.xhtml" id="Bolum2-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2-2.xhtml" id="Bolum2-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2-3.xhtml" id="Bolum2-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2-4.xhtml" id="Bolum2-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2-5.xhtml" id="Bolum2-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2-6.xhtml" id="Bolum2-6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2-7.xhtml" id="Bolum2-7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2-8.xhtml" id="Bolum2-8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2-9.xhtml" id="Bolum2-9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum3-1.xhtml" id="Bolum3-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum3-2.xhtml" id="Bolum3-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum3-3.xhtml" id="Bolum3-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum3-4.xhtml" id="Bolum3-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum3-5.xhtml" id="Bolum3-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum3-6.xhtml" id="Bolum3-6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum3-7.xhtml" id="Bolum3-7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum4-1.xhtml" id="Bolum4-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum4-2.xhtml" id="Bolum4-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum4-3.xhtml" id="Bolum4-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum4-4.xhtml" id="Bolum4-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum4-5.xhtml" id="Bolum4-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum5.xhtml" id="Bolum5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Notlar.xhtml" id="Notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/dipnot.css" id="dipnot.css" media-type="text/css"/>
+    <item href="Styles/style.css" id="style.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="Alev_Alatli_Valla_Kurda_Yedirdin_Beni_CS.jpg" media-type="image/jpeg"/>
+    <item href="Images/image001.png" id="image001.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="KAPAK.xhtml"/>
+    <itemref idref="Alfa_Kulliyati.xhtml"/>
+    <itemref idref="Ic_Kapak1.xhtml"/>
+    <itemref idref="Kunye.xhtml"/>
+    <itemref idref="Ithaf.xhtml"/>
+    <itemref idref="Bolum1-1.xhtml"/>
+    <itemref idref="Bolum1-2.xhtml"/>
+    <itemref idref="Bolum1-3.xhtml"/>
+    <itemref idref="Bolum1-4.xhtml"/>
+    <itemref idref="Bolum1-5.xhtml"/>
+    <itemref idref="Bolum1-6.xhtml"/>
+    <itemref idref="Bolum1-7.xhtml"/>
+    <itemref idref="Bolum1-8.xhtml"/>
+    <itemref idref="Bolum1-9.xhtml"/>
+    <itemref idref="Bolum2-1.xhtml"/>
+    <itemref idref="Bolum2-2.xhtml"/>
+    <itemref idref="Bolum2-3.xhtml"/>
+    <itemref idref="Bolum2-4.xhtml"/>
+    <itemref idref="Bolum2-5.xhtml"/>
+    <itemref idref="Bolum2-6.xhtml"/>
+    <itemref idref="Bolum2-7.xhtml"/>
+    <itemref idref="Bolum2-8.xhtml"/>
+    <itemref idref="Bolum2-9.xhtml"/>
+    <itemref idref="Bolum3-1.xhtml"/>
+    <itemref idref="Bolum3-2.xhtml"/>
+    <itemref idref="Bolum3-3.xhtml"/>
+    <itemref idref="Bolum3-4.xhtml"/>
+    <itemref idref="Bolum3-5.xhtml"/>
+    <itemref idref="Bolum3-6.xhtml"/>
+    <itemref idref="Bolum3-7.xhtml"/>
+    <itemref idref="Bolum4-1.xhtml"/>
+    <itemref idref="Bolum4-2.xhtml"/>
+    <itemref idref="Bolum4-3.xhtml"/>
+    <itemref idref="Bolum4-4.xhtml"/>
+    <itemref idref="Bolum4-5.xhtml"/>
+    <itemref idref="Bolum5.xhtml"/>
+    <itemref idref="Notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/KAPAK.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

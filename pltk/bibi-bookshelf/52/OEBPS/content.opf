@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="1.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Reis</dc:title>
+    <dc:subject>İnceleme</dc:subject>
+    <dc:subject>Araştırma</dc:subject>
+    <dc:rights>© Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş. Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.</dc:rights>
+    <dc:creator opf:role="aut">Soner Yalçın</dc:creator>
+    <dc:creator opf:role="aut">Doğan Yurdakul</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:306de6ca-3d4c-417c-8621-f979e0aee960</dc:identifier>
+    <meta name="cover" content="on_D_fmt.jpeg" />
+    <meta content="0.7.2" name="Sigil version" />
+    <description xmlns="http://purl.org/dc/elements/1.1/">D&amp;R E-Kitap Formatlı ürün.</description>
+    <publisher xmlns="http://purl.org/dc/elements/1.1/">Doğan Kitap</publisher>
+    <dc:date opf:event="modification">2014-01-27</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Images/Reis_fmt.jpeg" id="Reis_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/ar_D_fmt.jpeg" id="ar_D_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/dk_logo_fmt.jpeg" id="dk_logo_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/icon1b_fmt.jpeg" id="icon1b_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/on_D_fmt.jpeg" id="on_D_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Styles/template.css" id="template.css" media-type="text/css" />
+    <item href="Text/ARKA_KAPAK.xhtml" id="ARKA_KAPAK.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BIRINCI_BOLUM.xhtml" id="BIRINCI_BOLUM.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/DORDUNCU_BOLUM.xhtml" id="DORDUNCU_BOLUM.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/GIRIS.xhtml" id="GIRIS.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/IKINCI_BOLUM.xhtml" id="IKINCI_BOLUM.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/ITHAF.xhtml" id="ITHAF.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/KAPAK.xhtml" id="KAPAK.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/KUNYE.xhtml" id="KUNYE.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/ONSOZ.xhtml" id="ONSOZ.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/UCUNCU_BOLUM.xhtml" id="UCUNCU_BOLUM.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="KAPAK.xhtml" />
+    <itemref idref="KUNYE.xhtml" />
+    <itemref idref="GIRIS.xhtml" />
+    <itemref idref="ITHAF.xhtml" />
+    <itemref idref="ONSOZ.xhtml" />
+    <itemref idref="BIRINCI_BOLUM.xhtml" />
+    <itemref idref="IKINCI_BOLUM.xhtml" />
+    <itemref idref="UCUNCU_BOLUM.xhtml" />
+    <itemref idref="DORDUNCU_BOLUM.xhtml" />
+    <itemref idref="ARKA_KAPAK.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/KAPAK.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

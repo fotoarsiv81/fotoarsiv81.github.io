@@ -1,0 +1,77 @@
+.Balk1Char {
+    color: black;
+    font-family: "Cambria", "serif";
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-justify-trim: punctuation;
+    margin: 0 5pt
+    }
+.calibre1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em
+    }
+.calibre2 {
+    color: windowtext;
+    font-family: "Times New Roman", "serif"
+    }
+.calibre3 {
+    color: black;
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    margin: 12pt 0 3pt
+    }
+.calibre4 {
+    line-height: 1.2
+    }
+.calibre5 {
+    font-size: 1.29167em;
+    line-height: 1.2
+    }
+.calibre6 {
+    color: black;
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    margin: 12pt 0 3pt
+    }
+.MsoNormal {
+    border-bottom: 0;
+    border-top: 0;
+    color: black;
+    display: block;
+    font-family: "Arial Unicode MS", "sans-serif";
+    font-size: 1em;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.WordSection {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    page: WordSection1;
+    text-indent: 1.5em
+    }

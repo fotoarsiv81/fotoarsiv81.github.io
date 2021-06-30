@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="14ce5b44-a608-4865-a922-b88565ef1150" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Büyük Ortadogu Projesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>YAZARLAR</text>
+      </navLabel>
+      <content src="Text/main.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>BÜYÜK ORTADOĞU PROJESİ'NİN ASIL AMACI NEDİR?</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>BÜYÜK ORTADOĞU PROJESİNE AVRUPA BİRLİĞİ NASIL BAKIYOR?</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>İkinci Bölüm</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>HIRİSTİYANLlK-YAHUDİLİK ÇATIŞMASI</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml#sigil_toc_id_5"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>HIRİSTİYANLIK-YAHUDİLİK ÇATIŞMASININ ANLAMI NEDİR?</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>İSLAM ÇATIŞMA ALANININ İÇİNDE MI OLACAK?</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>IRAKTA NELER OLUYOR?</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Üçüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>TERÖR MÜ UZLAŞMA MI</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml#sigil_toc_id_9"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>ISPANYA'DAKİ TERÖR SALDIRISINI KİM YAPTI?</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>TERÖR KİMİN İŞİNE YARADI?</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>KOSOVA'DA SIRP-ARNAVUT ÇATIŞMASININ ARKASINDA NE VAR?</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>KAFKASLARDA NELER OLUYOR?</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>SURİYE'DE KÜRTLER NEDEN ARAPLARLA ÇATIŞTI?</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

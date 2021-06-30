@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="urn:uuid:41B6834E-6EA0-495F-81AF-8FD88FFE836E"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle>
+		<text>TÜRKİYE'DE DEVLET GELENEĞİ</text>
+	</docTitle>
+	<docAuthor>
+		<text>METİN HEPER</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>KİTABIN TÜRKÇE BASKISINA ÖNSÖZ  </text>
+			</navLabel>
+			<content src="1-2.xhtml#_idParaDest-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>KİTABIN İNGİLİZCE ÖZGÜN BASKISININ ÖNSÖZÜ  </text>
+			</navLabel>
+			<content src="1-3.xhtml#_idParaDest-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>BİRİNCİ BÖLÜM : GİRİŞ  </text>
+			</navLabel>
+			<content src="1-4.xhtml#_idParaDest-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>İKİNCİ BÖLÜM : OSMANLI MİRASI  </text>
+			</navLabel>
+			<content src="1-5.xhtml#_idParaDest-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>ÜÇÜNCÜ BÖLÜM : GEÇİCİ AŞKIN DEVLET  </text>
+			</navLabel>
+			<content src="1-6.xhtml#_idParaDest-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>DÖRDÜNCÜ BÖLÜM : BÜROKRATİK AŞKINCILIK  </text>
+			</navLabel>
+			<content src="1-7.xhtml#_idParaDest-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>BEŞİNCİ BÖLÜM : DEVLET VE TOPLUM  </text>
+			</navLabel>
+			<content src="1-8.xhtml#_idParaDest-7"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>ALTINCI BÖLÜM : YENİ AŞKIN DEVLET  </text>
+			</navLabel>
+			<content src="1-9.xhtml#_idParaDest-8"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>YEDİNCİ BÖLÜM : SONUÇ - GÖZLEMLER  </text>
+			</navLabel>
+			<content src="1-10.xhtml#_idParaDest-9"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>KAYNAKÇA  </text>
+			</navLabel>
+			<content src="1-11.xhtml#_idParaDest-10"/>
+		</navPoint>
+	</navMap>
+</ncx>

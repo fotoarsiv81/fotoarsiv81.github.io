@@ -1,0 +1,35 @@
+body{font-family:serif}
+
+a {text-decoration:none;color:#000000} 
+}
+
+.baslik {font-size:1.2em;text-align:center;text-indent:0em;}
+
+div.sgc-toc-title {    
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-top: 1.2em;
+    margin-left: 0em;
+    text-align: left;
+    margin-top:0.1em;
+    margin-bottom:.1em;
+}
+
+div.sgc-toc-level-1 {
+	font-size: 1em;
+    margin-left: 0em;
+	font-weight:bold;
+	margin-top:.1em;
+}
+
+div.sgc-toc-level-2 {
+    font-size: .90em;
+    margin-left: 1.5em;
+    margin-top:0.1em;
+}
+
+div.sgc-toc-level-3 {
+    font-size: .80em;
+    margin-left: 2em;
+    margin-top:0.1em;
+}

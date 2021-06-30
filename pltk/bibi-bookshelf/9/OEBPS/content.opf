@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Kaynak, Mahir">Mahir Kaynak</dc:creator>
+<dc:publisher>Profil Yayıncılık</dc:publisher>
+    <meta content="Büyük Ortadogu Projesi" name="calibre:title_sort"/>
+    <meta content="2013-12-14T14:22:55.092000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">14ce5b44-a608-4865-a922-b88565ef1150</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-07-27</dc:date>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Mahir Kaynak&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:rating" content="8.0"/>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;ABD'nin Büyük Ortadoğu Projesi'ndeki temel amacı neydi? Türkiye'nin bu projede yeri neresi? İsrail küresel imparatorluğunu mu kuruyor? Bu &lt;/span&gt;&lt;a href="http://www.idefix.com/kitap/" style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;kitap&lt;/a&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt; Büyük Ortadoğu Projesi'nin tüm maksatlarını, iktisadi, siyasi ve dini taraflarını tespit ve tahlil etmiştir. Gelecekte memleketimizi bekleyen tehlikeler ve ABD, İsrail ile Türkiye arasında meydana gelebilecek ihtilaflar, değişen haritalar ve Büyük Savaş. Yakın zamanda meydana gelebilecek büyük olayların arka planını bu kitapta bulacaksınız.&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent; "&gt;&lt;/div&gt;</dc:description>
+<dc:title>Büyük Ortadogu Projesi</dc:title>
+<dc:subject>Ortadoğu</dc:subject>
+<dc:subject>Uluslararası İlişkiler</dc:subject>
+<dc:subject>Dış Politika</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">d94d097c-6603-439c-b2c4-4f15c9382885</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789759962609</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

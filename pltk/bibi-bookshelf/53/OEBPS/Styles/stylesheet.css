@@ -1,0 +1,104 @@
+@page {
+  margin-right: 5pt;
+  margin-top: 5pt;
+  margin-left: 5pt;
+  margin-bottom: 5pt;
+  }
+img.resim {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+h1 {
+  font-family: Tahoma;
+  text-align: center;
+  font-size: 2em;
+  margin-right: 2em;
+  margin-top: 0.1em;
+  margin-left: 2em;
+  margin-bottom: 0.1em;
+}
+h2 {
+  font-family: Tahoma;
+  text-align: center;
+  font-size: 1.4em;
+}
+h3 {
+  font-family: Tahoma;
+  text-align: justify;
+  font-size: 1em;
+  text-indent: 1.7em;
+}
+h4 {
+  font-family: Georgia;
+  font-style: italic;
+  font-size: 12pt;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 1.5em;
+  text-align: justify;
+  font-size: 1em;
+  text-indent: 1.7em;
+  margin-right: 2em;
+  margin-top: 0.1em;
+  margin-left: 2em;
+  margin-bottom: 0.1em;
+}
+p {
+  font-family: Georgia;
+  font-style: normal;
+  font-size: 12pt;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.5em;
+  margin-right: 2em;
+  margin-top: 0.1em;
+  margin-left: 2em;
+  margin-bottom: 0.1em;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 1.7em;
+}
+.alinti {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 0.8em;
+  line-height: 1.2em;
+  margin-right: 2em;
+  margin-top: 0.7em;
+  margin-left: 2em;
+  margin-bottom: 0.7em;
+  text-decoration: none;
+  font-variant: normal;
+  text-indent: 0;
+  text-align: right;
+}
+.alinti2 {
+  font-family: Georgia;
+  font-style: normal;
+  font-size: 12pt;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.5em;
+  margin-right: 4em;
+  margin-top: 0.8em;
+  margin-left: 4em;
+  margin-bottom: 0.8em;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 0;
+}
+.baslik {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1em;
+  line-height: 1.2em;
+  margin-bottom: 0.8em;
+  margin-top: 0.8em;
+  text-decoration: none;
+  font-variant: normal;
+  text-indent: 0;
+  text-align: justify;
+}

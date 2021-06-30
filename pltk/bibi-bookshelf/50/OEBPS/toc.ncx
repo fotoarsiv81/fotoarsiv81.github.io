@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:e288b006-fb3f-4abd-80ec-4222477ad380" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ortadoğu: Bir Şiddet Tarihi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İthaf</text>
+      </navLabel>
+      <content src="Text/ithaf.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Türkçe Çeviriye Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/giris.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>I Devletler, Milliyetçilikler ve Devrimci Karşı Çıkışlar (1906-1979)</text>
+      </navLabel>
+      <content src="Text/part1.htm"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Devrimci İmgelemler ve Meşruiyetler</text>
+        </navLabel>
+        <content src="Text/01.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Cihan Harbi, Osmanlı İmparatorluğu’nun Dağılması ve Manda Rejimleri</text>
+        </navLabel>
+        <content src="Text/02.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>“Nekbet”ten “Devrimci Rejimler”e</text>
+        </navLabel>
+        <content src="Text/03.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Soğuk Savaşın Başlangıcından Altı Gün Savaşına: Kolektif İmgelemlerin Radikalleşmesi</text>
+        </navLabel>
+        <content src="Text/04.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>II Bölgesel Savaşlar, Devrimci İslamcılık ve Baskı (1979-1991)</text>
+      </navLabel>
+      <content src="Text/part2.htm"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Bir Kopuşmanın Adı: Seyyid Kutb</text>
+        </navLabel>
+        <content src="Text/05.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>1979: Büyük Sarsıntı</text>
+        </navLabel>
+        <content src="Text/06.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>1980 Savaşları: Şehit, Mücahit ve Milis</text>
+        </navLabel>
+        <content src="Text/07.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>1980’li Yıllarda Devrimci İslamcılığın Gücü ve Sınırları</text>
+        </navLabel>
+        <content src="Text/08.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Azınlık ve Mezhep Sorunları</text>
+        </navLabel>
+        <content src="Text/09.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>III İslam Toprağındaki Cihatlardan 2000’li Yılların Savaşlarına</text>
+      </navLabel>
+      <content src="Text/part3.htm"/>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Körfez Savaşı ve Cezayir ile Mısır’daki İslamcı Gerillalar</text>
+        </navLabel>
+        <content src="Text/10.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Yeni İktidar Mühendislikleri: Irak, Türkiye, İran</text>
+        </navLabel>
+        <content src="Text/11.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Kürdistan ve Filistin’de Kendini Kurban Etme Şiddeti (1990-2000)</text>
+        </navLabel>
+        <content src="Text/12.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Siyasal İslam’ın Gerilemesi mi, Muhalif Uç Bölgelerin Öne Çıkması mı?</text>
+        </navLabel>
+        <content src="Text/13.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>El-Kaide veya Yeni Radikalizmlerin Kümelenmesi</text>
+        </navLabel>
+        <content src="Text/14.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>2000’li Yılların Savaşları</text>
+        </navLabel>
+        <content src="Text/15.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Sonuç</text>
+      </navLabel>
+      <content src="Text/sonuc.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Kronoloji</text>
+      </navLabel>
+      <content src="Text/kronoloji.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Kısa Biyografiler</text>
+      </navLabel>
+      <content src="Text/biyografi.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Kısaltmalar ve Örgütler</text>
+      </navLabel>
+      <content src="Text/kisaltma.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Ortadoğu’ya Ait Terimler Ve Kavramlar</text>
+      </navLabel>
+      <content src="Text/terimler.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Seçilmiş Kaynakça</text>
+      </navLabel>
+      <content src="Text/kaynaklar.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/notlar.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

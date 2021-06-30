@@ -1,0 +1,88 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Mumcu, Ugur">Ugur Mumcu</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:4ab9cf15-605b-4a27-94cc-6bfe11fbc9e8</dc:identifier>
+    <dc:date>2000-07-14T22:00:00+00:00</dc:date>
+    <dc:publisher>UM:AG Arastimaci Gazetecilik Vakfi</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p&gt;"Ataturk donemi ile 2'nci Dunya Savasi yillarinin da geregince incelenebilmesi, cumhurbaskanligi arsivi ile disisleri bakanligi gizli dosyalarinin cift ayli, kirmizi damgali yasaklardan kurtarilip arastirmacilara acilmasina baglidir. Amerikan, Ingiliz, Alman ve Fransiz belgeleri uzerindeki yasaklar coktan kalkti; bizde, yasak olmayan yazisma ve tutanaklari incelemek bile olanaksizdir. Yakin tarihi inceleyemezsek, bugunu nasil anlayacagiz?!"&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:date opf:event="modification">2015-07-12</dc:date>
+    <meta content="0.8.5" name="Sigil version"/>
+    <meta content="Gazi Pasa'ya Suikast" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{&quot;Ugur Mumcu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:title>Gazi Pasa'ya Suikast</dc:title>
+<dc:subject>Atatürk</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">443ae8f9-075d-48e8-9449-b4b1582f8dba</dc:identifier>
+<dc:identifier opf:scheme="AMAZON">9758084097</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">ao80uAAACAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789758084098</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">7278247</dc:identifier>
+<meta name="calibre:user_metadata:#tagread" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#tagread&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;column&quot;: &quot;value&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;tagread&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 2}, &quot;name&quot;: &quot;TagRead?&quot;}"/>
+        <meta name="calibre:user_metadata:#read" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;datatype&quot;: &quot;bool&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#read&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;column&quot;: &quot;value&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;read&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Read?&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="Text/Kapak.xhtml" id="Kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Ickapak.xhtml" id="Ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Sunus.xhtml" id="Sunus.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Onsoz.xhtml" id="Onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bir.xhtml" id="Bir.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Iki.xhtml" id="Iki.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Uc.xhtml" id="Uc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Dort.xhtml" id="Dort.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bes.xhtml" id="Bes.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Alti.xhtml" id="Alti.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Yedi.xhtml" id="Yedi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Sekiz.xhtml" id="Sekiz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Dokuz.xhtml" id="Dokuz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/On.xhtml" id="On.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/OnBir.xhtml" id="OnBir.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/OnIki.xhtml" id="OnIki.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/OnUc.xhtml" id="OnUc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/OnDort.xhtml" id="OnDort.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/OnBes.xhtml" id="OnBes.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/OnAlti.xhtml" id="OnAlti.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Notlar.xhtml" id="Notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/AdDizini.xhtml" id="AdDizini.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ArkaKapak.xhtml" id="ArkaKapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Format.css" id="Format.css" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/2014825164616.jpg" id="x2014825164616.jpg" media-type="image/jpeg"/>
+    <item href="Images/mumcu.jpg" id="mumcu.jpg" media-type="image/jpeg"/>
+    <item href="Images/umag_logo.png" id="umag_logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Kapak.xhtml"/>
+    <itemref idref="Ickapak.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Sunus.xhtml"/>
+    <itemref idref="Onsoz.xhtml"/>
+    <itemref idref="Bir.xhtml"/>
+    <itemref idref="Iki.xhtml"/>
+    <itemref idref="Uc.xhtml"/>
+    <itemref idref="Dort.xhtml"/>
+    <itemref idref="Bes.xhtml"/>
+    <itemref idref="Alti.xhtml"/>
+    <itemref idref="Yedi.xhtml"/>
+    <itemref idref="Sekiz.xhtml"/>
+    <itemref idref="Dokuz.xhtml"/>
+    <itemref idref="On.xhtml"/>
+    <itemref idref="OnBir.xhtml"/>
+    <itemref idref="OnIki.xhtml"/>
+    <itemref idref="OnUc.xhtml"/>
+    <itemref idref="OnDort.xhtml"/>
+    <itemref idref="OnBes.xhtml"/>
+    <itemref idref="OnAlti.xhtml"/>
+    <itemref idref="Notlar.xhtml"/>
+    <itemref idref="AdDizini.xhtml"/>
+    <itemref idref="ArkaKapak.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

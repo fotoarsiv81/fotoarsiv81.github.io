@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="306de6ca-3d4c-417c-8621-f979e0aee960" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Reis</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>(1956-1974)</text>
+            </navLabel>
+            <content src="Text/BIRINCI_BOLUM.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>(1974-1980)</text>
+            </navLabel>
+            <content src="Text/IKINCI_BOLUM.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>(1980-1990)</text>
+            </navLabel>
+            <content src="Text/UCUNCU_BOLUM.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>(1990-1996)</text>
+            </navLabel>
+            <content src="Text/DORDUNCU_BOLUM.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>

@@ -1,0 +1,225 @@
+.ekdg-logo {
+  text-align: center;
+  margin: 5em 0 1em;
+}
+
+/*----H----*/
+h1 {
+  font: normal normal 1.25em/1.2em "TradeGothic LT CondEighteen";
+  margin-bottom: 10em;
+  text-align: center;
+}
+.num {
+font: normal normal 2em/1.2em "TradeGothic LT CondEighteen";
+text-align: right;
+margin-bottom:0;
+}
+hr {
+    padding: 0;
+   	background-color:#000;
+	color:#000;
+    height: 5px;
+	border: 0;
+	margin-top:-10px;
+}
+.part {
+  margin-top: 8em;
+  margin-bottom: 0em;
+}
+.chapter {
+  font: normal normal 1.25em/1.2em "TradeGothic LT CondEighteen";
+  margin-bottom: 10em;
+  text-align: left;
+}
+.big {
+  font-size: 2em;
+}
+h2 {
+  font: normal normal 1em/1.2em "TradeGothic LT CondEighteen";
+  margin-bottom: 1em;
+  margin-top: 2em;
+}
+.reference1 {
+  margin-left: 1em;
+}
+p.reference1 {
+  font-family: "Berkeley";
+  font-size: 0.751em;
+  text-indent: -1em;
+  text-align: justify;
+}
+/*----Künye----*/
+div.copyright {
+  font: normal normal 0.751em "Berkeley";
+  margin-top: 4em;
+  margin-left: 2em;
+}
+div.copyright > p.crt:last-child {
+  margin-bottom: 0;
+}
+p.crt {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-indent: 0;
+}
+/*Titlepage*/
+.titlepage {
+  text-align: center;
+}
+.t-1 {
+  font: normal bold 1.13em "Berkeley";
+  margin: 0 auto 0.2em auto;
+}
+.t-2 {
+  font: normal bold 2.5em "Berkeley";
+  margin: 0;
+}
+.t-21 {
+  font: normal bold 1.2em "Berkeley";
+  margin: 0;
+}
+.t-3 {
+  font: normal normal 0.85em "Berkeley";
+  margin-top: 2em;
+}
+.t-22 {
+  font-family: "Berkeley";
+  font-size: 1em;
+  margin-top: 1em;
+}
+.logo {
+  margin: 7em auto 0 auto;
+}
+.ithaf {
+  margin-top: 4em;
+  margin-left: 2em;
+}
+.ithaf p {
+  text-indent: 0;
+  font-size: 0.85em;
+  font-style: italic;
+}
+/*----P----*/
+p {
+  font-family: "Berkeley";
+  font-size: 0.93em;
+  margin: 0;
+  text-indent: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.nonindent {
+  text-indent: 0;
+}
+.extract {
+  text-indent: 0;
+  margin-top: 2em;
+}
+.hangindent {
+  display: block;
+  font-family: "Berkeley";
+  font-size: 0.85em;
+  margin-top: 0.3em;
+  margin-left: 2em;
+  text-align: justify;
+  text-indent: -1.5em;
+}
+span.dropcaps {
+  float: left;
+  font-size: 50px;
+  line-height: 50px;
+  padding-top: 1px;
+  margin-top: -0.09em;
+  margin-right: 0.09em;
+}
+/*----Block----*/
+div.block {
+  margin-left: 0;
+  margin-right: 0;
+  text-align: justify;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+p.bl_nonindent {
+  text-indent: 0;
+  font-family: "Berkeley";
+  font-size: 0.851em;
+  margin-left: 1.5em;
+  margin-right: 0;
+  text-align: justify;
+}
+/* ---- Tables ---- */
+table {
+  margin: auto;
+  border-collapse: collapse;
+  font-family: "Berkeley";
+  font-weight: normal;
+  font-size: 0.75em;
+}
+td {
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+.border {
+  border-bottom: 1px solid black;
+}
+/******FOOTNOTE******/
+.footnote {
+  font-family: "Berkeley";
+  font-size: 0.851em;
+  margin-bottom: 0.25em;
+  text-align: justify;
+  text-indent: 0;
+}
+.backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+/*ipad için*/-webkit-text-fill-color: #000;
+  color: #000;
+  font-size: 1.1em;
+}
+.noteref {
+  font-family: sans-serif;
+  text-decoration: none;
+/*ipad için*/-webkit-text-fill-color: #00688B;
+  color: #DC143C;
+  font-size: 0.66em;
+  line-height: 1em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}
+.bkz { text-decoration: none; color: #00688B; /*ipad için*/-webkit-text-fill-color: #00688B; }
+/*****FONT*****/
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/BerkeleyBoldE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: italic;
+  font-weight: bold;
+  src: url(../Fonts/BerkeleyBoldItaE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyItaE.ttf);
+  }
+@font-face {
+  font-family: "Berkeley";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/BerkeleyMediumE.ttf);
+  }
+@font-face {
+  font-family: "TradeGothic LT CondEighteen";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/TradeGothicTR.otf);
+  }

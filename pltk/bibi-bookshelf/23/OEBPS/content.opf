@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Mit</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Şimşek, Erdal">Erdal Şimşek</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:74c90bdd-dd85-4810-b27a-6c1a930ac03e</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Destek Yayınları</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">96b61f64-7190-43e2-84b9-ad691a853b44</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="calibre:title_sort" content="Mit"/>
+    <meta name="calibre:author_link_map" content="{&quot;Erdal Şimşek&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="Screen-20Shot-202012-05-07-20_fmt.png"/>
+  </metadata>
+  <manifest>
+    <item href="kapak.html" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/581.jpg" id="x581.jpg" media-type="image/jpeg"/>
+    <item href="images/cover.jpg" id="Screen-20Shot-202012-05-07-20_fmt.png" media-type="image/jpeg"/>
+    <item href="images/Screen Shot 2012-05-07_fmt1.png" id="Screen-20Shot-202012-05-07_fmt1.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-07_fmt2.png" id="Screen-20Shot-202012-05-07_fmt2.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-07_fmt3.png" id="Screen-20Shot-202012-05-07_fmt3.png" media-type="image/png"/>
+    <item href="images/Screen Shot 2012-05-07_fmt4.png" id="Screen-20Shot-202012-05-07_fmt4.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+  </spine>
+  <guide>
+    <reference href="images/cover.jpg" type="cover"/>
+  </guide>
+</package>

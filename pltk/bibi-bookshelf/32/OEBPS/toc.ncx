@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{88305ED1-A76C-4B91-BBE6-C99D9878F820}" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Komplo Yok</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Komplo Yok</text>
+      </navLabel>
+      <content src="Text/after-cover.xhtml#book-name" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Mahir Kaynak</text>
+      </navLabel>
+      <content src="Text/after-cover.xhtml#serie-name" />
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Timaş Yayınları</text>
+        </navLabel>
+        <content src="Text/after-cover.xhtml#translator" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Saddam’ın izindeyiz</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>12 Eylül, darbeciler ve devrimciler</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Irak’ta ne oluyor?</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Türk-Rus ilişkileri</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Ülkeyi kim yönetiyor?</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Orta Doğu’da barış olmaz</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>İstihbarat zor iştir</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Düşmansız yaşanmaz ki!</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Tehdit kime yönelik?</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Dengeler korunmalıdır</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>İran’a ambargo</text>
+      </navLabel>
+      <content src="Text/Section0012.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Uçuk düşünceler</text>
+      </navLabel>
+      <content src="Text/Section0013.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Hasmınız kazanmalı</text>
+      </navLabel>
+      <content src="Text/Section0014.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>CIA Başkanı Türkiye’de</text>
+      </navLabel>
+      <content src="Text/Section0015.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Bizim yolumuz</text>
+      </navLabel>
+      <content src="Text/Section0016.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Şifre</text>
+      </navLabel>
+      <content src="Text/Section0017.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Suikast</text>
+      </navLabel>
+      <content src="Text/Section0018.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Atatürkçülerin çıkmazı</text>
+      </navLabel>
+      <content src="Text/Section0019.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>İdeolojik dış politika</text>
+      </navLabel>
+      <content src="Text/Section0020.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Komplo yok!</text>
+      </navLabel>
+      <content src="Text/Section0021.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Rusya ile ilişkiler</text>
+      </navLabel>
+      <content src="Text/Section0022.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>İran terörü</text>
+      </navLabel>
+      <content src="Text/Section0023.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Bir hikâye</text>
+      </navLabel>
+      <content src="Text/Section0024.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Sol bu değildir</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Gizli işler</text>
+      </navLabel>
+      <content src="Text/Section0025.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Dış dinamikler</text>
+      </navLabel>
+      <content src="Text/Section0026.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>İhanet burcu</text>
+      </navLabel>
+      <content src="Text/Section0027.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Cevapsız sorular</text>
+      </navLabel>
+      <content src="Text/Section0028.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Zorluk ilerde</text>
+      </navLabel>
+      <content src="Text/Section0029.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Dikkat dinleniyorsunuz!</text>
+      </navLabel>
+      <content src="Text/Section0030.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Rusya sahnede</text>
+      </navLabel>
+      <content src="Text/Section0031.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Kim yapıyor?</text>
+      </navLabel>
+      <content src="Text/Section0032.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Kazanın ardından</text>
+      </navLabel>
+      <content src="Text/Section0033.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Küçük olamayız</text>
+      </navLabel>
+      <content src="Text/Section0034.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Ne yapmalı?</text>
+      </navLabel>
+      <content src="Text/Section0035.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Zafer bazen prangadır</text>
+      </navLabel>
+      <content src="Text/Section0036.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Dünya kaç kutuplu?</text>
+      </navLabel>
+      <content src="Text/Section0037.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Komik bir kriz</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Hikâye bitti</text>
+      </navLabel>
+      <content src="Text/Section0038.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Final</text>
+      </navLabel>
+      <content src="Text/Section0039.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Bürokrasinin yeri</text>
+      </navLabel>
+      <content src="Text/Section0040.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Kurgu</text>
+      </navLabel>
+      <content src="Text/Section0041.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Yangın</text>
+      </navLabel>
+      <content src="Text/Section0042.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Demokrasi sürecek</text>
+      </navLabel>
+      <content src="Text/Section0043.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Öldüren sürüklesin</text>
+      </navLabel>
+      <content src="Text/Section0044.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Öğütülebilirsiniz</text>
+      </navLabel>
+      <content src="Text/Section0045.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Görülen köy</text>
+      </navLabel>
+      <content src="Text/Section0046.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Tülün ardındaki</text>
+      </navLabel>
+      <content src="Text/Section0047.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Üç boyut</text>
+      </navLabel>
+      <content src="Text/main-4.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Çatışma senaryosu</text>
+      </navLabel>
+      <content src="Text/Section0048.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Casus yakalanmaz</text>
+      </navLabel>
+      <content src="Text/Section0049.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Karmaşık ilişkiler</text>
+      </navLabel>
+      <content src="Text/Section0050.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Yeni bir strateji</text>
+      </navLabel>
+      <content src="Text/Section0051.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Susurluk’u anlamak</text>
+      </navLabel>
+      <content src="Text/Section0052.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>İki tez</text>
+      </navLabel>
+      <content src="Text/Section0053.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Kime karşı?</text>
+      </navLabel>
+      <content src="Text/Section0054.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Yine kaza</text>
+      </navLabel>
+      <content src="Text/Section0055.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Şimdi biniyorlar</text>
+      </navLabel>
+      <content src="Text/Section0056.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Dışarıya bakın</text>
+      </navLabel>
+      <content src="Text/Section0057.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>Gri siyaset</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>Bilinmiyor</text>
+      </navLabel>
+      <content src="Text/Section0058.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Zaman farkı</text>
+      </navLabel>
+      <content src="Text/Section0059.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>Tepkisiz direnç</text>
+      </navLabel>
+      <content src="Text/Section0060.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Sert önlemler</text>
+      </navLabel>
+      <content src="Text/Section0061.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>İstihbarat</text>
+      </navLabel>
+      <content src="Text/Section0062.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>GÖÇ</text>
+      </navLabel>
+      <content src="Text/Section0063.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>Irak krizi</text>
+      </navLabel>
+      <content src="Text/Section0064.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Çelişki</text>
+      </navLabel>
+      <content src="Text/Section0065.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>Ara rejim</text>
+      </navLabel>
+      <content src="Text/Section0066.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>Silah tutkusu</text>
+      </navLabel>
+      <content src="Text/Section0067.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>Disiplinli demokrasi</text>
+      </navLabel>
+      <content src="Text/main-6.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>Örtülü eylemler</text>
+      </navLabel>
+      <content src="Text/Section0068.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>Kim yapıyor?</text>
+      </navLabel>
+      <content src="Text/Section0069.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

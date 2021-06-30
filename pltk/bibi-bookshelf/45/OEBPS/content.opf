@@ -1,0 +1,73 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Mumcu, Uğur">Uğur Mumcu</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f9995275-b15d-4e19-9c3c-33ed715f8d43</dc:identifier>
+    <dc:date>1986-12-31T23:00:00+00:00</dc:date>
+    <dc:publisher>UM:AG Araştımacı Gazetecilik Vakfı</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p&gt;12 Eylul, bir metamorfozun adidir. Egitimden hukuka, herseyin tumuyle degistigi bu donemden sonra artik hangi tasi kaldirsaniz altinda 12 Eylul var. Bugun yasadiklarimiz, oncesiz sonrasiz, hep var olan seyler degil. 12 Eylul ile birlikte topluma zorla giydirilen bir deli gomlegi.Bu yapinin oturabilmesi icin hukuk da amansizca kullanildi. Ancak, hukuktan once adalet kavrami var. Adalet, bir ideal durumun, ozlemin adi. Hukuksa, adalete ulasmanin yollarindan sadece biri. Hukuku kullanarak, adaletsizlik de yaratabilirsiniz. Parlamentodan cikan metin, hukuktur ama mutlaka adalet degildir. Iste 1982 Anayasasi, iste 141-142 ve benzerleri...Bu kitabin adi, bu nedenle 12 Eylul Adaleti. Cunku okuyunca, hukuk diye degil, adalet diye sizlayacak vicdaniniz.&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="12 Eylül Adaleti" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{&quot;Uğur Mumcu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2015-09-04</dc:date>
+  <dc:title>12 Eylül Adaleti</dc:title>
+<dc:subject>Politika</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">b7b2635f-1682-48ea-894e-85e90ccb47c7</dc:identifier>
+<dc:identifier opf:scheme="AMAZON">9758084232</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">dzURAAAACAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789758084234</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:f9995275-b15d-4e19-9c3c-33ed715f8d43</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">13588910</dc:identifier>
+<meta name="calibre:user_metadata:#tagread" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#tagread&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;tagread&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {&quot;use_decorations&quot;: 2}, &quot;name&quot;: &quot;TagRead?&quot;}"/>
+        <meta name="calibre:user_metadata:#read" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#read&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;read&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {}, &quot;name&quot;: &quot;Read?&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="Text/Kapak.xhtml" id="Kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/IcKapak.xhtml" id="IcKapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Sunus.xhtml" id="Sunus.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Onsoz.xhtml" id="Onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/HukukMuKomutanMi.xhtml" id="HukukMuKomutanMi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/BirinciBolum.xhtml" id="BirinciBolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Aciklamalar.xhtml" id="Aciklamalar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/IkinciBolum.xhtml" id="IkinciBolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Belgeler.xhtml" id="Belgeler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/UcuncuBolum.xhtml" id="UcuncuBolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/AdDizini.xhtml" id="AdDizini.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ArkaKapak.xhtml" id="ArkaKapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Format.css" id="Format.css" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/arkaKapak.png" id="arkaKapak.png" media-type="image/png"/>
+    <item href="Images/belge1a.png" id="belge1a.png" media-type="image/png"/>
+    <item href="Images/belge1b.png" id="belge1b.png" media-type="image/png"/>
+    <item href="Images/belge3.png" id="belge3.png" media-type="image/png"/>
+    <item href="Images/Kapak.png" id="Kapak.png" media-type="image/png"/>
+    <item href="Images/umag_logo.png" id="umag_logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Kapak.xhtml"/>
+    <itemref idref="IcKapak.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Sunus.xhtml"/>
+    <itemref idref="Onsoz.xhtml"/>
+    <itemref idref="HukukMuKomutanMi.xhtml"/>
+    <itemref idref="BirinciBolum.xhtml"/>
+    <itemref idref="Aciklamalar.xhtml"/>
+    <itemref idref="IkinciBolum.xhtml"/>
+    <itemref idref="Belgeler.xhtml"/>
+    <itemref idref="UcuncuBolum.xhtml"/>
+    <itemref idref="AdDizini.xhtml"/>
+    <itemref idref="ArkaKapak.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/BirinciBolum.xhtml" title="Acknowledgements" type="acknowledgements"/>
+    <reference href="Text/BirinciBolum.xhtml" title="Text" type="text"/>
+    <reference href="Text/IcKapak.xhtml" title="Title Page" type="title-page"/>
+  </guide>
+</package>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Şamil Tayyar</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>4C04FAB1E5DB371B668FB78023EE17B4</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>package-file-hash</key>
+		<string>E732D5DAD0C0EA1F137121A54A4EE4ED</string>
+		<key>publisher-unique-id</key>
+		<string>816b133e-5809-4fb5-9868-e046f35aa77a</string>
+		<key>unique-id</key>
+		<integer>-7073546142234877859</integer>
+	</dict>
+	<key>composerName</key>
+	<string>fa0948d5-f701-4e7d-93b3-d3c781e80992</string>
+	<key>itemName</key>
+	<string>Operasyon Ergenekon</string>
+	<key>playlistName</key>
+	<string>Operasyon Ergenekon</string>
+	<key>releaseDate</key>
+	<string>2011-01-18T18:13:23.266463+00:00</string>
+	<key>sort-artist</key>
+	<string>Tayyar, Şamil</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+	<key>sort-composer</key>
+	<string></string>
+	<key>sort-composer-status</key>
+	<integer>128</integer>
+	<key>sort-name</key>
+	<string>Operasyon Ergenekon</string>
+	<key>sort-name-status</key>
+	<integer>1</integer>
+</dict>
+</plist>

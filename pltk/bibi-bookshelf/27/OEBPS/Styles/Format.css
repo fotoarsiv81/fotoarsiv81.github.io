@@ -1,0 +1,35 @@
+p {
+  text-indent: 1em;
+  text-align: justify;
+}
+h1 {
+  font-size: 300%;
+  text-align: center;
+  font-family: "New Century Schoolbook", Times, sans-serif;
+  font-weight: bold;
+}
+h2 {
+  font-size: 120%;
+  text-align: center;
+  font-family: "New Century Schoolbook", Times, sans-serif;
+  font-weight: bold;
+}
+span.buyuk {
+  font-size: 150%;
+}
+div.siir {
+  width: 70%;
+  margin: 0 auto;
+  font-weight: bold;
+}
+span.umag {
+  font-size: 120%;
+  font-family: "Verdana", Times, sans-serif;
+  font-weight: bold;
+}
+span.mumcu {
+  font-size: 250%;
+  text-align: center;
+  font-family: "New Century Schoolbook", Times, sans-serif;
+  font-weight: bold;
+}

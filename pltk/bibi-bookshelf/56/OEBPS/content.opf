@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:aa0aa438-09e1-4865-8185-265eb196b5d2</dc:identifier>
+    <dc:title>Türk Siyasi Tarihi</dc:title>
+    <dc:creator opf:file-as="Karpat, Kemal H." opf:role="aut">Kemal H. Karpat</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <meta content="Adobe InDesign" name="generator" xmlns="http://www.idpf.org/2007/opf" />
+    <meta name="cover" content="turksiyasitarihi-ic_fmt.jpeg" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="0.8.7" name="Sigil version" xmlns="http://www.idpf.org/2007/opf" />
+    <dc:date opf:event="modification">2015-12-27</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/template.css" id="css" media-type="text/css" />
+    <item href="Text/turksiyasitarihi-epub.html" id="turksiyasitarihi-epub" media-type="application/xhtml+xml" />
+    <item href="Text/turksiyasitarihi-epub-1.html" id="turksiyasitarihi-epub-1" media-type="application/xhtml+xml" />
+    <item href="Text/turksiyasitarihi-epub-2.html" id="turksiyasitarihi-epub-2" media-type="application/xhtml+xml" />
+    <item href="Text/turksiyasitarihi-epub-3.html" id="turksiyasitarihi-epub-3" media-type="application/xhtml+xml" />
+    <item href="Text/turksiyasitarihi-epub-4.html" id="turksiyasitarihi-epub-4" media-type="application/xhtml+xml" />
+    <item href="Text/turksiyasitarihi-epub-5.html" id="turksiyasitarihi-epub-5" media-type="application/xhtml+xml" />
+    <item href="Images/345_fmt.png" id="x345_fmt.png" media-type="image/png" />
+    <item href="Images/346_fmt.png" id="x346_fmt.png" media-type="image/png" />
+    <item href="Images/347_fmt.png" id="x347_fmt.png" media-type="image/png" />
+    <item href="Images/348_fmt.png" id="x348_fmt.png" media-type="image/png" />
+    <item href="Images/349_fmt.png" id="x349_fmt.png" media-type="image/png" />
+    <item href="Images/351_fmt.png" id="x351_fmt.png" media-type="image/png" />
+    <item href="Images/352_fmt.png" id="x352_fmt.png" media-type="image/png" />
+    <item href="Images/353_fmt.png" id="x353_fmt.png" media-type="image/png" />
+    <item href="Images/354_fmt.png" id="x354_fmt.png" media-type="image/png" />
+    <item href="Images/nokta_fmt.png" id="nokta_fmt.png" media-type="image/png" />
+    <item href="Images/nokta_fmt1.png" id="nokta_fmt1.png" media-type="image/png" />
+    <item href="Images/nokta_fmt2.png" id="nokta_fmt2.png" media-type="image/png" />
+    <item href="Images/nokta_fmt3.png" id="nokta_fmt3.png" media-type="image/png" />
+    <item href="Images/nokta_fmt4.png" id="nokta_fmt4.png" media-type="image/png" />
+    <item href="Images/timaslogo_fmt.jpeg" id="timaslogo_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/turksiyasitarihi-dis.jpg" id="turksiyasitarihi-dis.jpg" media-type="image/jpeg" />
+    <item href="Images/turksiyasitarihi-ic_fmt.jpeg" id="turksiyasitarihi-ic_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="turksiyasitarihi-epub" />
+    <itemref idref="turksiyasitarihi-epub-1" />
+    <itemref idref="turksiyasitarihi-epub-2" />
+    <itemref idref="turksiyasitarihi-epub-3" />
+    <itemref idref="turksiyasitarihi-epub-4" />
+    <itemref idref="turksiyasitarihi-epub-5" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover" xmlns="http://www.idpf.org/2007/opf" />
+  </guide>
+</package>

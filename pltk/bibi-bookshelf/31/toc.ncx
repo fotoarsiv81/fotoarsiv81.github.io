@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="f1eadd23-049e-49f0-9b9f-abe7fb6bd317" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="calibre (0.7.28)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Köstebek</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Ops/001.html"/>
+      <navPoint class="chapter" id="navpoint-2" playOrder="2">
+        <navLabel>
+          <text>Yıl 2002. Türkiye Cumhuriyeti, şeyhler, dervişler, müritler ve meczuplar memleketi olma yolunda, devrimlerden dönüş sürecinin sancılarını yaşıyor... Geçtiğimiz yüzyılın başında, İngiliz işbirlikçisi Derviş Vahdeti, Sait Molla, Dürrizade Abdullah, İskilipli Atıf gibi mürtecilerin tasfiyesi üzerine Cumhuriyet kurulmuştu. Bugün, küreselleştiği iddia olunan dünyada, gerçek anlamda küreselleşen Türkiye vatandaşı mürteciler, İngiltere’nin yanısıra, A.B.D., Almanya, Libya, Suudi Arabistan gibi ülkelerden yönetilmeye, yönlendirilmeye devam ediyorlar. Yalnız bir farkla ki, A.B.D.’den gelen kimi müritler, Türkiye’de milletvekili seçilip “türban krizi” yarattıktan sonra tekrar anavatanlarına geri dönerken, kimi dervişler de, milletvekili olmadıkları halde, Türk Hükûmeti’ne dışarıdan bakan olarak girebiliyor, yabancı taleplerinin takipçiliğini yapabiliyor. Ve bu araştırma konusu olan, yasadışı hocaefendi sanını (!) kullanmayı yeğleyen kimi şeyhler de, sanki gizli bir mübadele protokolü varmış gibi, kendi ülkesinden yeni vatan A.B.D.’ne rahatlıkla hicret edebiliyor...</text>
+        </navLabel>
+        <content src="Ops/002_split_000.html"/>
+        <navPoint class="chapter" id="navpoint-3" playOrder="3">
+          <navLabel>
+            <text>Keza, Dosya ekinde mevcut 8.kattaki dinleme odasında dinlendiği iddia edilen telefon numaraları incelendiğinde SİNCAN ve BATIKENT’te bulunan bir çok telefon numarasının listelere dahil edildiği görülmektedir. Ankara Emniyet Müdürlüğü’nün teknik olanakları çerçevesinde bu mümkün değildir.</text>
+          </navLabel>
+          <content src="Ops/004.html"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

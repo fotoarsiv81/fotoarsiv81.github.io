@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Türkiye'de Devlet Geleneği</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Heper, Metin">Metin Heper</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:8295e422-e45b-43b4-871e-ec0a3a091f9a</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Doğu Batı Yayınları</dc:publisher>
+    <dc:language>en-GB</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">d788042f-d768-44d4-b626-6269f72cc42a</dc:identifier>
+    <meta content="Adobe InDesign 9.0" name="generator"/>
+    <meta name="calibre:title_sort" content="Türkiye'de Devlet Geleneği"/>
+    <meta name="calibre:author_link_map" content="{&quot;Metin Heper&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="kapak_fmt_fmt.jpeg"/>
+  </metadata>
+  <manifest>
+    <item href="on_kapak.xhtml" id="on_kapak" media-type="application/xhtml+xml"/>
+    <item href="1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="1-1.xhtml" id="x1-1" media-type="application/xhtml+xml"/>
+    <item href="1-2.xhtml" id="x1-2" media-type="application/xhtml+xml"/>
+    <item href="1-3.xhtml" id="x1-3" media-type="application/xhtml+xml"/>
+    <item href="1-4.xhtml" id="x1-4" media-type="application/xhtml+xml"/>
+    <item href="1-5.xhtml" id="x1-5" media-type="application/xhtml+xml"/>
+    <item href="1-6.xhtml" id="x1-6" media-type="application/xhtml+xml"/>
+    <item href="1-7.xhtml" id="x1-7" media-type="application/xhtml+xml"/>
+    <item href="1-8.xhtml" id="x1-8" media-type="application/xhtml+xml"/>
+    <item href="1-9.xhtml" id="x1-9" media-type="application/xhtml+xml"/>
+    <item href="1-10.xhtml" id="x1-10" media-type="application/xhtml+xml"/>
+    <item href="1-11.xhtml" id="x1-11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/kapak_fmt_fmt.jpeg" id="kapak_fmt_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/logo_fmt_fmt.jpeg" id="logo_fmt_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="on_kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x1-1"/>
+    <itemref idref="x1-2"/>
+    <itemref idref="x1-3"/>
+    <itemref idref="x1-4"/>
+    <itemref idref="x1-5"/>
+    <itemref idref="x1-6"/>
+    <itemref idref="x1-7"/>
+    <itemref idref="x1-8"/>
+    <itemref idref="x1-9"/>
+    <itemref idref="x1-10"/>
+    <itemref idref="x1-11"/>
+  </spine>
+  <guide>
+    <reference href="image/kapak_fmt_fmt.jpeg" type="cover"/>
+  </guide>
+</package>

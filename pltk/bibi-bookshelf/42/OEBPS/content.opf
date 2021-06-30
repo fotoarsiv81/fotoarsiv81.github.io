@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Beraber Yürüdük Biz Bu Yıllarda</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Özdil, Yılmaz">Yılmaz Özdil</dc:creator>
+    <dc:identifier id="bookid">urn:uuid:DB4E62FE-5354-4DAE-B1DD-1B1B0AB3228C</dc:identifier>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (3.0.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">acceb259-9c26-4e40-acc1-b469b234e9fa</dc:identifier>
+    <meta content="Beraber Yürüdük Biz Bu Yıllarda" name="calibre:title_sort"/>
+    <meta content="{&quot;Yılmaz Özdil&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="2014-03-31T14:04:12.234000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic_kapak.xhtml" id="ic_kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-1.xhtml" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-1-1.xhtml" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-1-2.xhtml" id="x4-2" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-1-3.xhtml" id="x4-3" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-1-4.xhtml" id="x4-4" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-1-5.xhtml" id="x4-5" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-1-6.xhtml" id="x4-6" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-2.xhtml" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-2-1.xhtml" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-2-2.xhtml" id="x6-1" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-2-3.xhtml" id="x6-2" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-2-4.xhtml" id="x6-3" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-2-5.xhtml" id="x6-4" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-3.xhtml" id="x7" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-3-1.xhtml" id="x8" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-3-2.xhtml" id="x8-1" media-type="application/xhtml+xml"/>
+    <item href="Text/Chapter-3-3.xhtml" id="x8-2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/StyleSheet.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/dk_fmt.jpeg" id="dk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon3_fmt.jpeg" id="icon3_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ic_kapak.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+    <itemref idref="x4-3"/>
+    <itemref idref="x4-4"/>
+    <itemref idref="x4-5"/>
+    <itemref idref="x4-6"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x6-1"/>
+    <itemref idref="x6-2"/>
+    <itemref idref="x6-3"/>
+    <itemref idref="x6-4"/>
+    <itemref idref="x7"/>
+    <itemref idref="x8"/>
+    <itemref idref="x8-1"/>
+    <itemref idref="x8-2"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

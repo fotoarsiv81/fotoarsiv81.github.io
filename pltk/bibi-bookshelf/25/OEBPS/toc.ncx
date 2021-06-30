@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:e15de602-b86d-410d-ae8e-a9325d3d56da" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Fikrimizin Rehberi (Gazi Mustafa Kemal)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Erol Mütercimler</text>
+      </navLabel>
+      <content src="Text/Erol_Mutercimler.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/Onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="Text/Giris.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_1.xhtml"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>SELANİK VE MUSTAFA'NIN ÖĞRENİM YAŞAMI</text>
+        </navLabel>
+        <content src="Text/B1001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>MUSTAFA'NIN ÇOCUKLUĞU VE İLKGENÇLİĞİ</text>
+        </navLabel>
+        <content src="Text/B1002.xhtml"/>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>Aşk Evliliğinden Doğan Mustafa</text>
+          </navLabel>
+          <content src="Text/B1002.xhtml#sigil_toc_id_1"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>Mustafa adını kim koydu?</text>
+          </navLabel>
+          <content src="Text/B1002.xhtml#sigil_toc_id_2"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>İlk aşkın adı Emine</text>
+          </navLabel>
+          <content src="Text/B1002.xhtml#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>Mustafa Kemal Askerî Lisede</text>
+          </navLabel>
+          <content src="Text/B1002.xhtml#sigil_toc_id_4"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_2.xhtml"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>STRATEJİ VE TAKTİK ÖĞRENİCİSİ</text>
+        </navLabel>
+        <content src="Text/B2001.xhtml"/>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>Bir Yıldız Subay Doğuyor</text>
+          </navLabel>
+          <content src="Text/B2001.xhtml#sigil_toc_id_5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>OKUMA PARÇASI</text>
+        </navLabel>
+        <content src="Text/B2001.xhtml#sigil_toc_id_6"/>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>Mustafa Kemal'in İlk Gönül Ağrısı: Şevki Paşa'nın Kızı Emine</text>
+          </navLabel>
+          <content src="Text/B2001.xhtml#sigil_toc_id_7"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>Balkonda İnce Bir Akşam!</text>
+          </navLabel>
+          <content src="Text/B2001.xhtml#sigil_toc_id_8"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>BİR STRATEJİ VE TAKTİK USTASI YETİŞİYOR</text>
+        </navLabel>
+        <content src="Text/B2002.xhtml"/>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>İstanbul'da Bir Alman Birahanesi</text>
+          </navLabel>
+          <content src="Text/B2002.xhtml#sigil_toc_id_9"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>Mezuniyet ve Kurmay Yüzbaşı Olarak Ordu Saflarına Katılış</text>
+          </navLabel>
+          <content src="Text/B2002.xhtml#sigil_toc_id_10"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_3.xhtml"/>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>MUSTAFA KEMAL SÜRGÜNDE: STAJ YERİ SURİYE</text>
+        </navLabel>
+        <content src="Text/B3001.xhtml"/>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>Şam'da Kurulan Örgüt: "Vatan ve Hürriyet Cemiyeti"</text>
+          </navLabel>
+          <content src="Text/B3001.xhtml#sigil_toc_id_11"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>Osmanlı İttihat ve Terakki Cemiyeti</text>
+          </navLabel>
+          <content src="Text/B3001.xhtml#sigil_toc_id_12"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>Rumeli'de Yeniden Doğuş</text>
+          </navLabel>
+          <content src="Text/B3001.xhtml#sigil_toc_id_13"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_4.xhtml"/>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>MUSTAFA KEMAL MAKEDONYA'DA</text>
+        </navLabel>
+        <content src="Text/B4001.xhtml"/>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>3.Ordu'ya Atama - İttihat ve Terakki'yle Ayrılan Yollar</text>
+          </navLabel>
+          <content src="Text/B4001.xhtml#sigil_toc_id_14"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>İkinci Meşrutiyetin İlanı ve Mustafa Kemal'in Cemiyet'le Çatışması</text>
+          </navLabel>
+          <content src="Text/B4001.xhtml#sigil_toc_id_15"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>Mustafa Kemal Trablusgarp'ta... Bir Kez Daha Sürgün</text>
+          </navLabel>
+          <content src="Text/B4001.xhtml#sigil_toc_id_16"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>31 Mart Gerici Ayaklanması ve Hareket Ordusu</text>
+          </navLabel>
+          <content src="Text/B4001.xhtml#sigil_toc_id_17"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>BEŞİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_5.xhtml"/>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>MUSTAFA KEMAL'İN ÇIRAKLIK DÖNEMİ SAVAŞI: TRABLUSGARP CEPHESİ (1911-1912)</text>
+        </navLabel>
+        <content src="Text/B5001.xhtml"/>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>İttihat ve Terakki Cemiyeti, Subayları Siyasete İtiyor</text>
+          </navLabel>
+          <content src="Text/B5001.xhtml#sigil_toc_id_18"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>İttihat ve Terakki Kongresi ve Kopan İlişki</text>
+          </navLabel>
+          <content src="Text/B5001.xhtml#sigil_toc_id_19"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>Arnavutluk İsyanı ve Picardie Manevraları</text>
+          </navLabel>
+          <content src="Text/B5001.xhtml#sigil_toc_id_20"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>Picardie Manevralarında Bir Osmanlı Yüzbaşısı</text>
+          </navLabel>
+          <content src="Text/B5001.xhtml#sigil_toc_id_21"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>MUSTAFA KEMAL TRABLUSGARP SAVAŞI'NDA</text>
+        </navLabel>
+        <content src="Text/B5002.xhtml"/>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>Trablusgarp Yolunda</text>
+          </navLabel>
+          <content src="Text/B5002.xhtml#sigil_toc_id_22"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>DERNE BÖLGESİ'NDEKİ MUHAREBELER</text>
+        </navLabel>
+        <content src="Text/B5003.xhtml"/>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>Derne'ye İtalyan Kuvvetlerinin Çıkması</text>
+          </navLabel>
+          <content src="Text/B5003.xhtml#sigil_toc_id_23"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>Kurmay Binbaşı Mustafa Kemal Derne'de (22 Aralık 1911)</text>
+          </navLabel>
+          <content src="Text/B5003.xhtml#sigil_toc_id_24"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>Binbaşı Mustafa Kemal'in Örnek Komutanlığı</text>
+          </navLabel>
+          <content src="Text/B5003.xhtml#sigil_toc_id_25"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>DERNE BÖLGESİ'NDE 1912 YILINDAKİ MUHAREBELER</text>
+        </navLabel>
+        <content src="Text/B5004.xhtml"/>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>İtalyanların Kasr-ı Arun Saldırısı (17 Haziran 1912)</text>
+          </navLabel>
+          <content src="Text/B5004.xhtml#sigil_toc_id_26"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>ALTINCI BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_6.xhtml"/>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>ÇIRAKLIK DÖNEMİ DEVAM EDİYOR. BALKAN SAVAŞLARI (1912-1913)</text>
+        </navLabel>
+        <content src="Text/B6001.xhtml"/>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>Mustafa Kemal Sofya Askerî Ataşesi</text>
+          </navLabel>
+          <content src="Text/B6001.xhtml#sigil_toc_id_27"/>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>Balkan Savaşları'nın Sonucu</text>
+          </navLabel>
+          <content src="Text/B6001.xhtml#sigil_toc_id_28"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>SOFYA'DA FARKLI BİR YAŞAM</text>
+        </navLabel>
+        <content src="Text/B6002.xhtml"/>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>Umutsuz Bir Aşkın Öyküsü</text>
+          </navLabel>
+          <content src="Text/B6002.xhtml#sigil_toc_id_29"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>ZABİT ve KUMANDAN ile HASBIHAL (SUBAY VE KOMUTAN İLE SOHBET)</text>
+        </navLabel>
+        <content src="Text/B6003.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>YEDİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_7.xhtml"/>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>MUSTAFA KEMALİN KALFALIK DÖNEMİ: ÇANAKKALE SAVAŞI 1915*</text>
+        </navLabel>
+        <content src="Text/B7001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>OSMANLI DEVLETİ ALMANYA'NIN SAFINA İTİLİYOR</text>
+        </navLabel>
+        <content src="Text/B7002.xhtml"/>
+        <navPoint id="navPoint-55" playOrder="55">
+          <navLabel>
+            <text>Osmanlı Devleti'nin Savaşa Girmesi ve Çanakkale Cephesi'nin Açılmasına Karar Verilmesi</text>
+          </navLabel>
+          <content src="Text/B7002.xhtml#sigil_toc_id_30"/>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56">
+          <navLabel>
+            <text>26 Şubat'tan 18 Mart'a Kadar Deniz Muharebeleri</text>
+          </navLabel>
+          <content src="Text/B7002.xhtml#sigil_toc_id_31"/>
+        </navPoint>
+        <navPoint id="navPoint-57" playOrder="57">
+          <navLabel>
+            <text>Orduların Karşılıklı Görev ve Hedefleri</text>
+          </navLabel>
+          <content src="Text/B7002.xhtml#sigil_toc_id_32"/>
+        </navPoint>
+        <navPoint id="navPoint-58" playOrder="58">
+          <navLabel>
+            <text>Çıkarmanın başlaması: İlk dönem kıyı muharebeleri</text>
+          </navLabel>
+          <content src="Text/B7002.xhtml#sigil_toc_id_33"/>
+        </navPoint>
+        <navPoint id="navPoint-59" playOrder="59">
+          <navLabel>
+            <text>57. Alay efsanesi: "Ben size ölmeyi emrediyorum!..."</text>
+          </navLabel>
+          <content src="Text/B7002.xhtml#sigil_toc_id_34"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>MAYIS AYI MUHAREBELERİNDE MUSTAFA KEMAL VE 19 MAYIS TAARRUZU</text>
+        </navLabel>
+        <content src="Text/B7003.xhtml"/>
+        <navPoint id="navPoint-61" playOrder="61">
+          <navLabel>
+            <text>14 Mayıs... Bombasırtı Taarruzları</text>
+          </navLabel>
+          <content src="Text/B7003.xhtml#sigil_toc_id_35"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>TEMMUZ - AĞUSTOS MUHAREBELERİ</text>
+        </navLabel>
+        <content src="Text/B7004.xhtml"/>
+        <navPoint id="navPoint-63" playOrder="63">
+          <navLabel>
+            <text>8 Ağustos 1915 Conkbayırı Muharebeleri</text>
+          </navLabel>
+          <content src="Text/B7004.xhtml#sigil_toc_id_36"/>
+        </navPoint>
+        <navPoint id="navPoint-64" playOrder="64">
+          <navLabel>
+            <text>Anafartalar Muharebeleri</text>
+          </navLabel>
+          <content src="Text/B7004.xhtml#sigil_toc_id_37"/>
+        </navPoint>
+        <navPoint id="navPoint-65" playOrder="65">
+          <navLabel>
+            <text>9 Ağustos 1915... Birinci Anafartalar Muharebesi</text>
+          </navLabel>
+          <content src="Text/B7004.xhtml#sigil_toc_id_38"/>
+        </navPoint>
+        <navPoint id="navPoint-66" playOrder="66">
+          <navLabel>
+            <text>10 Ağustos 1915... Conkbayırı Muharebesi</text>
+          </navLabel>
+          <content src="Text/B7004.xhtml#sigil_toc_id_39"/>
+        </navPoint>
+        <navPoint id="navPoint-67" playOrder="67">
+          <navLabel>
+            <text>21 Ağustos 1915... İkinci Anafartalar Muharebesi</text>
+          </navLabel>
+          <content src="Text/B7004.xhtml#sigil_toc_id_40"/>
+        </navPoint>
+        <navPoint id="navPoint-68" playOrder="68">
+          <navLabel>
+            <text>Mustafa Kemal'in Resmine Uygulanan Sansür</text>
+          </navLabel>
+          <content src="Text/B7004.xhtml#sigil_toc_id_41"/>
+        </navPoint>
+        <navPoint id="navPoint-69" playOrder="69">
+          <navLabel>
+            <text>Çocuklarını savaşta kaybeden annelere mektup</text>
+          </navLabel>
+          <content src="Text/B7004.xhtml#sigil_toc_id_42"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>SEKİZİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_8.xhtml"/>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>İKİNCİ ORDU KUMANDANLIĞI VE YILDIRIM ORDULAR GRUBU</text>
+        </navLabel>
+        <content src="Text/B8001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>YEDİNCİ ORDU VE YILDIRIM ORDULAR GRUBU</text>
+        </navLabel>
+        <content src="Text/B8002.xhtml"/>
+        <navPoint id="navPoint-73" playOrder="73">
+          <navLabel>
+            <text>Alman generalden rüşvet</text>
+          </navLabel>
+          <content src="Text/B8002.xhtml#sigil_toc_id_43"/>
+        </navPoint>
+        <navPoint id="navPoint-74" playOrder="74">
+          <navLabel>
+            <text>Yeniden Nablus Karargâhında</text>
+          </navLabel>
+          <content src="Text/B8002.xhtml#sigil_toc_id_44"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>DOKUZUNCU BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_9.xhtml"/>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>MUSTAFA KEMAL AVRUPA'DA</text>
+        </navLabel>
+        <content src="Text/B9001.xhtml"/>
+        <navPoint id="navPoint-77" playOrder="77">
+          <navLabel>
+            <text>Mustafa Kemal İstanbul'da</text>
+          </navLabel>
+          <content src="Text/B9001.xhtml#sigil_toc_id_45"/>
+        </navPoint>
+        <navPoint id="navPoint-78" playOrder="78">
+          <navLabel>
+            <text>Yakup Cemil idam ediliyor</text>
+          </navLabel>
+          <content src="Text/B9001.xhtml#sigil_toc_id_46"/>
+        </navPoint>
+        <navPoint id="navPoint-79" playOrder="79">
+          <navLabel>
+            <text>Yeniden İstanbul'a Merhaba</text>
+          </navLabel>
+          <content src="Text/B9001.xhtml#sigil_toc_id_47"/>
+        </navPoint>
+        <navPoint id="navPoint-80" playOrder="80">
+          <navLabel>
+            <text>Mustafa Kemal Sofya'da</text>
+          </navLabel>
+          <content src="Text/B9001.xhtml#sigil_toc_id_48"/>
+        </navPoint>
+        <navPoint id="navPoint-81" playOrder="81">
+          <navLabel>
+            <text>Alman İmparatorunun Yemeğinde</text>
+          </navLabel>
+          <content src="Text/B9001.xhtml#sigil_toc_id_49"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>BATI CEPHESİNİ ZİYARET</text>
+        </navLabel>
+        <content src="Text/B9002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>AVUSTURYA'DA TEDAVİ</text>
+        </navLabel>
+        <content src="Text/B9003.xhtml"/>
+        <navPoint id="navPoint-84" playOrder="84">
+          <navLabel>
+            <text>Mustafa Kemal'in Karlsbad Günlüğü</text>
+          </navLabel>
+          <content src="Text/B9003.xhtml#sigil_toc_id_50"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-85" playOrder="85">
+      <navLabel>
+        <text>ONUNCU BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_10.xhtml"/>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>GELDİKLERİ GİBİ GİDERLER</text>
+        </navLabel>
+        <content src="Text/B100001.xhtml"/>
+        <navPoint id="navPoint-87" playOrder="87">
+          <navLabel>
+            <text>Siyasi Çalkantılar ve Şişli'deki Evde Siyasi Çalışmalar</text>
+          </navLabel>
+          <content src="Text/B100001.xhtml#sigil_toc_id_51"/>
+        </navPoint>
+        <navPoint id="navPoint-88" playOrder="88">
+          <navLabel>
+            <text>Minber gazetesi yayına başlıyor</text>
+          </navLabel>
+          <content src="Text/B100001.xhtml#sigil_toc_id_52"/>
+        </navPoint>
+        <navPoint id="navPoint-89" playOrder="89">
+          <navLabel>
+            <text>Şişli'deki ev</text>
+          </navLabel>
+          <content src="Text/B100001.xhtml#sigil_toc_id_53"/>
+        </navPoint>
+        <navPoint id="navPoint-90" playOrder="90">
+          <navLabel>
+            <text>Mustafa Kemal'in Anadolu'ya Geçme Tasarısı</text>
+          </navLabel>
+          <content src="Text/B100001.xhtml#sigil_toc_id_54"/>
+        </navPoint>
+        <navPoint id="navPoint-91" playOrder="91">
+          <navLabel>
+            <text>Mustafa Kemal'in Görevi</text>
+          </navLabel>
+          <content src="Text/B100001.xhtml#sigil_toc_id_55"/>
+        </navPoint>
+        <navPoint id="navPoint-92" playOrder="92">
+          <navLabel>
+            <text>9. Ordu Kıtaatı Müfettişliği'ne Ait Görevler</text>
+          </navLabel>
+          <content src="Text/B100001.xhtml#sigil_toc_id_56"/>
+        </navPoint>
+        <navPoint id="navPoint-93" playOrder="93">
+          <navLabel>
+            <text>Niçin Bu Göreve Mustafa Kemal Seçildi?</text>
+          </navLabel>
+          <content src="Text/B100001.xhtml#sigil_toc_id_57"/>
+        </navPoint>
+        <navPoint id="navPoint-94" playOrder="94">
+          <navLabel>
+            <text>Mustafa Kemal'in Sultan Vahideddin'le Son Görüşmesi</text>
+          </navLabel>
+          <content src="Text/B100001.xhtml#sigil_toc_id_58"/>
+        </navPoint>
+        <navPoint id="navPoint-95" playOrder="95">
+          <navLabel>
+            <text>Onu Asacaklardı</text>
+          </navLabel>
+          <content src="Text/B100001.xhtml#sigil_toc_id_59"/>
+        </navPoint>
+        <navPoint id="navPoint-96" playOrder="96">
+          <navLabel>
+            <text>İzmir İşgal Ediliyor</text>
+          </navLabel>
+          <content src="Text/B100001.xhtml#sigil_toc_id_60"/>
+        </navPoint>
+        <navPoint id="navPoint-97" playOrder="97">
+          <navLabel>
+            <text>Son Akşam</text>
+          </navLabel>
+          <content src="Text/B100001.xhtml#sigil_toc_id_61"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>ON BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_11.xhtml"/>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>KURTULUŞA DOĞRU</text>
+        </navLabel>
+        <content src="Text/B110001.xhtml"/>
+        <navPoint id="navPoint-100" playOrder="100">
+          <navLabel>
+            <text>Samsun'a Çıkanlar Erzurum'a Yürüyor</text>
+          </navLabel>
+          <content src="Text/B110001.xhtml#sigil_toc_id_62"/>
+        </navPoint>
+        <navPoint id="navPoint-101" playOrder="101">
+          <navLabel>
+            <text>Galata Rıhtımına Hareket</text>
+          </navLabel>
+          <content src="Text/B110001.xhtml#sigil_toc_id_63"/>
+        </navPoint>
+        <navPoint id="navPoint-102" playOrder="102">
+          <navLabel>
+            <text>Samsun... 16 Mayıs 1919 sabahı</text>
+          </navLabel>
+          <content src="Text/B110001.xhtml#sigil_toc_id_64"/>
+        </navPoint>
+        <navPoint id="navPoint-103" playOrder="103">
+          <navLabel>
+            <text>Şişli'deki evde sevinç</text>
+          </navLabel>
+          <content src="Text/B110001.xhtml#sigil_toc_id_65"/>
+        </navPoint>
+        <navPoint id="navPoint-104" playOrder="104">
+          <navLabel>
+            <text>İngilizlerin Bandırma'yı Batırmak İstemeleri</text>
+          </navLabel>
+          <content src="Text/B110001.xhtml#sigil_toc_id_66"/>
+        </navPoint>
+        <navPoint id="navPoint-105" playOrder="105">
+          <navLabel>
+            <text>Samsun'da Bir Ordu Müfettişi</text>
+          </navLabel>
+          <content src="Text/B110001.xhtml#sigil_toc_id_67"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>MUSTAFA KEMAL HAVZA'DA</text>
+        </navLabel>
+        <content src="Text/B110002.xhtml"/>
+        <navPoint id="navPoint-107" playOrder="107">
+          <navLabel>
+            <text>28 Mayıs 1919, Taş Mektep Toplantısı</text>
+          </navLabel>
+          <content src="Text/B110002.xhtml#sigil_toc_id_68"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>MUSTAFA KEMAL AMASYA'DA</text>
+        </navLabel>
+        <content src="Text/B110003.xhtml"/>
+        <navPoint id="navPoint-109" playOrder="109">
+          <navLabel>
+            <text>20 Haziran 1919, Mustafa Kemal'in ve beraberinde bulunanların Amasya'da geçirdikleri ikinci Cuma.</text>
+          </navLabel>
+          <content src="Text/B110003.xhtml#sigil_toc_id_69"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>KUMANDANLAR AMASYA'DA TOPLANIYOR</text>
+        </navLabel>
+        <content src="Text/B110004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>MUSTAFA KEMAL'İN BIÇAK SIRTINDA YOLCULUĞU</text>
+        </navLabel>
+        <content src="Text/B110005.xhtml"/>
+        <navPoint id="navPoint-112" playOrder="112">
+          <navLabel>
+            <text>Sivas'ta Pusu...</text>
+          </navLabel>
+          <content src="Text/B110005.xhtml#sigil_toc_id_70"/>
+        </navPoint>
+        <navPoint id="navPoint-113" playOrder="113">
+          <navLabel>
+            <text>27 Haziran... Sivas valisinin makam Odası</text>
+          </navLabel>
+          <content src="Text/B110005.xhtml#sigil_toc_id_71"/>
+        </navPoint>
+        <navPoint id="navPoint-114" playOrder="114">
+          <navLabel>
+            <text>27 Haziran sabahı Sivas'a yolculuk</text>
+          </navLabel>
+          <content src="Text/B110005.xhtml#sigil_toc_id_72"/>
+        </navPoint>
+        <navPoint id="navPoint-115" playOrder="115">
+          <navLabel>
+            <text>Sivas valisinin odası</text>
+          </navLabel>
+          <content src="Text/B110005.xhtml#sigil_toc_id_73"/>
+        </navPoint>
+        <navPoint id="navPoint-116" playOrder="116">
+          <navLabel>
+            <text>Sivas'tan hareket...</text>
+          </navLabel>
+          <content src="Text/B110005.xhtml#sigil_toc_id_74"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-117" playOrder="117">
+      <navLabel>
+        <text>ON İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_12.xhtml"/>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>EGEMENLİK KAYITSIZ ŞARTSIZ HALKIN OLACAKTIR</text>
+        </navLabel>
+        <content src="Text/B120001.xhtml"/>
+        <navPoint id="navPoint-119" playOrder="119">
+          <navLabel>
+            <text>Erzurum Kongresi Hazırlıkları</text>
+          </navLabel>
+          <content src="Text/B120001.xhtml#sigil_toc_id_75"/>
+        </navPoint>
+        <navPoint id="navPoint-120" playOrder="120">
+          <navLabel>
+            <text>Erzurum Kongresi'nin finansmanı nasıl sağlandı?</text>
+          </navLabel>
+          <content src="Text/B120001.xhtml#sigil_toc_id_76"/>
+        </navPoint>
+        <navPoint id="navPoint-121" playOrder="121">
+          <navLabel>
+            <text>Cumhuriyetin Temeli Atılıyor</text>
+          </navLabel>
+          <content src="Text/B120001.xhtml#sigil_toc_id_77"/>
+        </navPoint>
+        <navPoint id="navPoint-122" playOrder="122">
+          <navLabel>
+            <text>Sivas Kongresi'nde ABD Güdümü Tartışmaları</text>
+          </navLabel>
+          <content src="Text/B120001.xhtml#sigil_toc_id_78"/>
+        </navPoint>
+        <navPoint id="navPoint-123" playOrder="123">
+          <navLabel>
+            <text>Sivas Kongresi'nin mali kaynakları</text>
+          </navLabel>
+          <content src="Text/B120001.xhtml#sigil_toc_id_79"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-124" playOrder="124">
+      <navLabel>
+        <text>ON ÜÇÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_13.xhtml"/>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>ANKARA, ANKARA, GÜZEL ANKARA</text>
+        </navLabel>
+        <content src="Text/B130001.xhtml"/>
+        <navPoint id="navPoint-126" playOrder="126">
+          <navLabel>
+            <text>Misak-ı Millî</text>
+          </navLabel>
+          <content src="Text/B130001.xhtml#sigil_toc_id_80"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>BÜYÜK MİLLET MECLİSİ AÇILIYOR</text>
+        </navLabel>
+        <content src="Text/B130002.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-128" playOrder="128">
+      <navLabel>
+        <text>ON DÖRDÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_14.xhtml"/>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>MUSTAFA KEMALİN BAŞKOMUTANLIĞI: VAR OLMA YA DA YOK OLMA MUHAREBELERİ</text>
+        </navLabel>
+        <content src="Text/B140001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>MİLLETİN KÖTÜ TALİHİNİN DÖNDÜĞÜ MUHAREBELERİN ADI: İNÖNÜ</text>
+        </navLabel>
+        <content src="Text/B140002.xhtml"/>
+        <navPoint id="navPoint-131" playOrder="131">
+          <navLabel>
+            <text>Birinci İnönü Muharebesi</text>
+          </navLabel>
+          <content src="Text/B140002.xhtml#sigil_toc_id_81"/>
+        </navPoint>
+        <navPoint id="navPoint-132" playOrder="132">
+          <navLabel>
+            <text>İkinci İnönü Muharebesi (23 Mart - 1 Nisan 1921)</text>
+          </navLabel>
+          <content src="Text/B140002.xhtml#sigil_toc_id_82"/>
+        </navPoint>
+        <navPoint id="navPoint-133" playOrder="133">
+          <navLabel>
+            <text>Ağır Bir Yenilgi: Kütahya-Eskişehir Muharebeleri (8-25 Temmuz 1921)</text>
+          </navLabel>
+          <content src="Text/B140002.xhtml#sigil_toc_id_83"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>BİR USTALIK SAVAŞI: SAKARYA MEYDAN MUHAREBESİ [26 Temmuz- 10 Ekim 1921]</text>
+        </navLabel>
+        <content src="Text/B140003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>BAŞKUMANDAN MEYDAN MUHAREBESİ: ORDİNARYÜSLÜĞÜN TESCİLİ</text>
+        </navLabel>
+        <content src="Text/B140004.xhtml"/>
+        <navPoint id="navPoint-136" playOrder="136">
+          <navLabel>
+            <text>Başkomutan Meydan Muharebesi</text>
+          </navLabel>
+          <content src="Text/B140004.xhtml#sigil_toc_id_84"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-137" playOrder="137">
+      <navLabel>
+        <text>ON BEŞİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_15.xhtml"/>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>LOZAN HEZİMET Mİ BAŞARI MI? BİR DEVLETİN KURULUŞ SANCILARI</text>
+        </navLabel>
+        <content src="Text/B150001.xhtml"/>
+        <navPoint id="navPoint-139" playOrder="139">
+          <navLabel>
+            <text>Birinci Meclis’te Muhalefet</text>
+          </navLabel>
+          <content src="Text/B150001.xhtml#sigil_toc_id_85"/>
+        </navPoint>
+        <navPoint id="navPoint-140" playOrder="140">
+          <navLabel>
+            <text>Lozan Barış Görüşmeleri Köprüleri Yıkıyor</text>
+          </navLabel>
+          <content src="Text/B150001.xhtml#sigil_toc_id_86"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-141" playOrder="141">
+      <navLabel>
+        <text>ON ALTINCI BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_16.xhtml"/>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>ÖNCÜ DEVRİMLER</text>
+        </navLabel>
+        <content src="Text/B160001.xhtml"/>
+        <navPoint id="navPoint-143" playOrder="143">
+          <navLabel>
+            <text>Saltanat Kaldırılıyor</text>
+          </navLabel>
+          <content src="Text/B160001.xhtml#sigil_toc_id_87"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>EN BÜYÜK ESERİ TÜRKİYE CUMHURİYETİ</text>
+        </navLabel>
+        <content src="Text/B160002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>TÜRKİYE'NİN LAİKLEŞMESİ: HALİFELİĞİN KALDIRILMASI</text>
+        </navLabel>
+        <content src="Text/B160003.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-146" playOrder="146">
+      <navLabel>
+        <text>ON YEDİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_17.xhtml"/>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>KEMALİZM VE ATATÜRKÇÜLÜK</text>
+        </navLabel>
+        <content src="Text/B170001.xhtml"/>
+        <navPoint id="navPoint-148" playOrder="148">
+          <navLabel>
+            <text>Tarihsel Süreçte Kemalizm ve Kemalist Kavramının Ortaya Çıkışı</text>
+          </navLabel>
+          <content src="Text/B170001.xhtml#sigil_toc_id_88"/>
+        </navPoint>
+        <navPoint id="navPoint-149" playOrder="149">
+          <navLabel>
+            <text>Kemalist Olmak ve Kemalizm'in Dramı</text>
+          </navLabel>
+          <content src="Text/B170001.xhtml#sigil_toc_id_89"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-150" playOrder="150">
+      <navLabel>
+        <text>ON SEKİZİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_18.xhtml"/>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>HEDEF EKONOMİ ALANINDA ZAFER</text>
+        </navLabel>
+        <content src="Text/B180001.xhtml"/>
+        <navPoint id="navPoint-152" playOrder="152">
+          <navLabel>
+            <text>Halkçılığın tanımlanması</text>
+          </navLabel>
+          <content src="Text/B180001.xhtml#sigil_toc_id_90"/>
+        </navPoint>
+        <navPoint id="navPoint-153" playOrder="153">
+          <navLabel>
+            <text>Kapitülasyonlara hayır</text>
+          </navLabel>
+          <content src="Text/B180001.xhtml#sigil_toc_id_91"/>
+        </navPoint>
+        <navPoint id="navPoint-154" playOrder="154">
+          <navLabel>
+            <text>Millî ekonomi</text>
+          </navLabel>
+          <content src="Text/B180001.xhtml#sigil_toc_id_92"/>
+        </navPoint>
+        <navPoint id="navPoint-155" playOrder="155">
+          <navLabel>
+            <text>ABD'li Gazeteciyle Röportaj</text>
+          </navLabel>
+          <content src="Text/B180001.xhtml#sigil_toc_id_93"/>
+        </navPoint>
+        <navPoint id="navPoint-156" playOrder="156">
+          <navLabel>
+            <text>İş Bankasının Kuruluş Öyküsü</text>
+          </navLabel>
+          <content src="Text/B180001.xhtml#sigil_toc_id_94"/>
+        </navPoint>
+        <navPoint id="navPoint-157" playOrder="157">
+          <navLabel>
+            <text>Devletçilik... 1930 Sonrası</text>
+          </navLabel>
+          <content src="Text/B180001.xhtml#sigil_toc_id_95"/>
+        </navPoint>
+        <navPoint id="navPoint-158" playOrder="158">
+          <navLabel>
+            <text>Kadro dergisi çıkıyor...</text>
+          </navLabel>
+          <content src="Text/B180001.xhtml#sigil_toc_id_96"/>
+        </navPoint>
+        <navPoint id="navPoint-159" playOrder="159">
+          <navLabel>
+            <text>Kadro kapatılıyor...</text>
+          </navLabel>
+          <content src="Text/B180001.xhtml#sigil_toc_id_97"/>
+        </navPoint>
+        <navPoint id="navPoint-160" playOrder="160">
+          <navLabel>
+            <text>Devletçilik ve devlet müdahalesi tartışmasına devam...</text>
+          </navLabel>
+          <content src="Text/B180001.xhtml#sigil_toc_id_98"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-161" playOrder="161">
+      <navLabel>
+        <text>ON DOKUZUNCU BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_19.xhtml"/>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>ÜÇ KADIN ARASINDA SIKIŞIP KALMA</text>
+        </navLabel>
+        <content src="Text/B190001.xhtml"/>
+        <navPoint id="navPoint-163" playOrder="163">
+          <navLabel>
+            <text>Fikriye adında bir kadın</text>
+          </navLabel>
+          <content src="Text/B190001.xhtml#sigil_toc_id_99"/>
+        </navPoint>
+        <navPoint id="navPoint-164" playOrder="164">
+          <navLabel>
+            <text>Gâvur İzmir'de Latife Adında Bir Kadın</text>
+          </navLabel>
+          <content src="Text/B190001.xhtml#sigil_toc_id_100"/>
+        </navPoint>
+        <navPoint id="navPoint-165" playOrder="165">
+          <navLabel>
+            <text>Ecelin Davetiye Çıkardığı Kadın</text>
+          </navLabel>
+          <content src="Text/B190001.xhtml#sigil_toc_id_101"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>TOPAL OSMAN AĞA VE ALİ ŞÜKRÜ CİNAYETİ</text>
+        </navLabel>
+        <content src="Text/B190002.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-167" playOrder="167">
+      <navLabel>
+        <text>YİRMİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_20.xhtml"/>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>YÜZYILLARIN ÖNEMLİ DEVRİMCİSİ</text>
+        </navLabel>
+        <content src="Text/B200001.xhtml"/>
+        <navPoint id="navPoint-169" playOrder="169">
+          <navLabel>
+            <text>Başlık Değil Baş Meselesi</text>
+          </navLabel>
+          <content src="Text/B200001.xhtml#sigil_toc_id_102"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>KADIN HAKLARI VE SORUNLARI ÇÖZÜMÜNDE DEVRİM</text>
+        </navLabel>
+        <content src="Text/B200002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>BAŞÖĞRETMEN HALKINA REHBER OLUYOR: EĞİTİM ALANINDA DEVRİM</text>
+        </navLabel>
+        <content src="Text/B200003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>HARF DEVRİMİ</text>
+        </navLabel>
+        <content src="Text/B200004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-173" playOrder="173">
+        <navLabel>
+          <text>HUKUK ALANINDA YAPILAN DEVRİMLER</text>
+        </navLabel>
+        <content src="Text/B200005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>İHANETLER, DEVRİMLERE TEPKİLER</text>
+        </navLabel>
+        <content src="Text/B200006.xhtml"/>
+        <navPoint id="navPoint-175" playOrder="175">
+          <navLabel>
+            <text>İstiklâl Mahkemeleri</text>
+          </navLabel>
+          <content src="Text/B200006.xhtml#sigil_toc_id_103"/>
+        </navPoint>
+        <navPoint id="navPoint-176" playOrder="176">
+          <navLabel>
+            <text>Çerkes Ethem'den İzmir Suikastına...</text>
+          </navLabel>
+          <content src="Text/B200006.xhtml#sigil_toc_id_104"/>
+        </navPoint>
+        <navPoint id="navPoint-177" playOrder="177">
+          <navLabel>
+            <text>İzmir Suikastı</text>
+          </navLabel>
+          <content src="Text/B200006.xhtml#sigil_toc_id_105"/>
+        </navPoint>
+        <navPoint id="navPoint-178" playOrder="178">
+          <navLabel>
+            <text>Başarısız bir demokrasi denemesi daha: 'Serbest Cumhuriyet Fırkası'</text>
+          </navLabel>
+          <content src="Text/B200006.xhtml#sigil_toc_id_106"/>
+        </navPoint>
+        <navPoint id="navPoint-179" playOrder="179">
+          <navLabel>
+            <text>Kubilay Olayı</text>
+          </navLabel>
+          <content src="Text/B200006.xhtml#sigil_toc_id_107"/>
+        </navPoint>
+        <navPoint id="navPoint-180" playOrder="180">
+          <navLabel>
+            <text>Gazi Mustafa Kemal Atatürk dinsiz mi?</text>
+          </navLabel>
+          <content src="Text/B200006.xhtml#sigil_toc_id_108"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-181" playOrder="181">
+      <navLabel>
+        <text>YİRMİ BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Bolum_21.xhtml"/>
+      <navPoint id="navPoint-182" playOrder="182">
+        <navLabel>
+          <text>KOCA BİR TARİH GÖÇÜYOR</text>
+        </navLabel>
+        <content src="Text/B210001.xhtml"/>
+        <navPoint id="navPoint-183" playOrder="183">
+          <navLabel>
+            <text>O, Bir Ölümlüydü</text>
+          </navLabel>
+          <content src="Text/B210001.xhtml#sigil_toc_id_109"/>
+        </navPoint>
+        <navPoint id="navPoint-184" playOrder="184">
+          <navLabel>
+            <text>İğde Ağacı</text>
+          </navLabel>
+          <content src="Text/B210001.xhtml#sigil_toc_id_110"/>
+        </navPoint>
+        <navPoint id="navPoint-185" playOrder="185">
+          <navLabel>
+            <text>Yürüyen Köşk</text>
+          </navLabel>
+          <content src="Text/B210001.xhtml#sigil_toc_id_111"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>KAÇALIM BURALARDAN, AFET!</text>
+        </navLabel>
+        <content src="Text/B210002.xhtml"/>
+        <navPoint id="navPoint-187" playOrder="187">
+          <navLabel>
+            <text>Atatürk'ün Ankara'daki son günleri</text>
+          </navLabel>
+          <content src="Text/B210002.xhtml#sigil_toc_id_112"/>
+        </navPoint>
+        <navPoint id="navPoint-188" playOrder="188">
+          <navLabel>
+            <text>Mersin ve Adana'da Ölüme Yolculuk: Ömrünü kendisi kısalttı!</text>
+          </navLabel>
+          <content src="Text/B210002.xhtml#sigil_toc_id_113"/>
+        </navPoint>
+        <navPoint id="navPoint-189" playOrder="189">
+          <navLabel>
+            <text>Savarona: Bu tekne yoksa benim mezarım mı olacak?</text>
+          </navLabel>
+          <content src="Text/B210002.xhtml#sigil_toc_id_114"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-190" playOrder="190">
+      <navLabel>
+        <text>EK</text>
+      </navLabel>
+      <content src="Text/Ek.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-191" playOrder="191">
+      <navLabel>
+        <text>ATATÜRK'ÜN MALLARINI MİLLETE BAĞIŞLAMASI VE VASİYETİ</text>
+      </navLabel>
+      <content src="Text/Ek.xhtml#sigil_toc_id_115"/>
+      <navPoint id="navPoint-192" playOrder="192">
+        <navLabel>
+          <text>Atatürk'ün Vasiyeti</text>
+        </navLabel>
+        <content src="Text/Ek.xhtml#sigil_toc_id_116"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-193" playOrder="193">
+      <navLabel>
+        <text>YARARLANILAN KAYNAKLAR</text>
+      </navLabel>
+      <content src="Text/Kaynaklar.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

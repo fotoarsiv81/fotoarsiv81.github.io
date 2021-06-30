@@ -1,0 +1,389 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+  margin: 0;
+  padding: 0;
+  border-width: 0;
+}
+@page {
+  margin-right: 5pt;
+  margin-top: 5pt;
+  margin-left: 5pt;
+  margin-bottom: 5pt;
+  }
+p._0px10px {
+  color: #000;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.25;
+  margin-bottom: 10px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 10px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  widows: 1;
+}
+p._0px10px-copy {
+  color: #000;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.25;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 20px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 20px;
+  widows: 1;
+}
+p._0px {
+  color: #000;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.25;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 20px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 20px;
+  widows: 1;
+}
+p.Govde {
+  color: #000;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.25;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 2;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  widows: 2;
+}
+p.Paragraph-Style-1 {
+  color: #000;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 1.25;
+  margin-bottom: 30px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0;
+  widows: 1;
+}
+p.anabaslik {
+  color: #000;
+  font-size: 1.25em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 1.333;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 150px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0;
+  widows: 1;
+}
+p.arabaslik_orta {
+  color: #000;
+  font-size: 1.167em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 30px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 100px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0;
+  widows: 1;
+}
+p.kunye {
+  color: #000;
+  font-size: 0.667em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.25;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 2;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  widows: 2;
+}
+p.logo {
+  color: #000;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.129;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 50px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0;
+  widows: 1;
+}
+p.paragraf {
+  color: #000;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.25;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  widows: 1;
+}
+p.perde_kitapadi {
+  color: #000;
+  font-size: 1.833em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 30px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0;
+  widows: 1;
+}
+p.perde_yazaradi {
+  color: #000;
+  font-size: 1.5em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.222;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 30px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: center;
+  text-decoration: none;
+  text-indent: 0;
+  widows: 1;
+}
+p.yildiz {
+  color: #000;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.25;
+  margin-bottom: 5px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 5px;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 0;
+  widows: 1;
+}
+span.Hyperlink {
+  color: #000;
+  text-decoration: underline;
+}
+span.bold_9 {
+  font-size: 0.75em;
+  font-style: normal;
+  font-weight: bold;
+}
+span.hyperlink_kunye {
+  color: #00f;
+  font-size: 0.667em;
+  font-style: normal;
+  font-weight: bold;
+}
+span.metin-italik {
+  color: #000;
+  font-size: 1em;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  text-decoration: none;
+}
+p.ParaOverride-1 {
+  margin-bottom: 40px;
+  margin-top: 30px;
+}
+p.ParaOverride-2 {
+  margin-top: 20px;
+}
+p.ParaOverride-3 {
+  margin-top: 10px;
+}
+p.ParaOverride-4 {
+  text-align: center;
+}
+p.ParaOverride-5 {
+  margin-top: 100px;
+}
+p.ParaOverride-6 {
+  text-align: left;
+}
+p.ParaOverride-7 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+p.ParaOverride-8 {
+  margin-bottom: 7px;
+}
+p.ParaOverride-9 {
+  margin-bottom: 3px;
+}
+p.ParaOverride-10 {
+  margin-top: 100px;
+  text-align: center;
+}
+p.ParaOverride-11 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+p.ParaOverride-12 {
+  margin-bottom: 30px;
+}
+p.ParaOverride-13 {
+  margin-bottom: 0;
+}
+p.ParaOverride-14 {
+  margin-top: 30px;
+  text-align: center;
+}
+span.CharOverride-1 {
+  font-style: normal;
+  font-weight: bold;
+}
+span.CharOverride-5 {
+  font-size: 0.75em;
+  font-style: normal;
+  font-weight: bold;
+}
+span.CharOverride-7 {
+  color: #000;
+  font-size: 1em;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  text-decoration: none;
+}
+span.CharOverride-8 {
+  font-style: italic;
+  font-weight: normal;
+}
+span.CharOverride-9 {
+  font-style: italic;
+  font-weight: bold;
+}
+span.CharOverride-10 {
+  font-style: normal;
+  font-weight: normal;
+}
+span.CharOverride-11 {
+  font-size: 0.75em;
+}
+span.CharOverride-12 {
+  color: #000;
+  font-size: 0.875em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  text-decoration: none;
+}
+span._idGenCharOverride-1 {
+  font-size: 1.125em;
+}
+span._idGenCharOverride-2 {
+  font-size: 1em;
+}
+img._idGenPageitem-1 {
+  height: 50px;
+  width: 97px;
+}
+img._idGenPageitem-2 {
+  height: 38px;
+  width: 35px;
+}
+img._idGenPageitem-3 {
+  height: 678px;
+  width: 508px;
+}
+div._idGenPageitem-4 {
+  text-align: center;
+}

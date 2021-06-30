@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<ns0:package xmlns:ns0="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="1.0">
+  <ns0:metadata>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:role="aut" ns0:file-as="Mumcu, Uğur">Uğur Mumcu</dc:creator>
+<ns1:identifier xmlns:ns1="http://purl.org/dc/elements/1.1/" id="uuid_id" ns0:scheme="uuid">226aabdf-6961-4101-8f03-c87305a27547</ns1:identifier>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" ns0:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1977-04-24T21:00:00+00:00</dc:date>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Tekin Yayınevi</dc:publisher>
+    <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p&gt;Efendim, bir zamanlar ülkemizde oynanan oyuna, 'Sakıncalı Piyade' oyununa hoş geldiniz. Bu akşam, izniniz olursa Sakıncalı Piyade'yi ben oynayacağım. Bu ismi ben takmadım. Onlar taktılar. Bizlere, üniversite bitirmişlere yedek subay olma hakkını çok gören etkililer ve yetkililer... Yedek subay okulundan başarıyla er olarak çıktıktan sonra adımız, hakkımızdaki yazışmalarda 'Sakıncalı Piyade Eri' olarak geçiyordu. Ben de bu adı oradan aldım...
+&lt;/p&gt;</dc:description>
+    <ns0:meta content="1" name="calibre:series_index"/>
+    <ns0:meta content="2010-12-04T23:49:23.484000+00:00" name="calibre:timestamp"/>
+    <ns0:meta name="cover" content="cover"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+    <meta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" name="calibre:title_sort" content="Sakıncalı Piyade"/>
+    <meta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" name="calibre:rating" content="8.0"/>
+    <meta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" name="calibre:author_link_map" content="{&quot;Uğur Mumcu&quot;: &quot;&quot;}"/>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf">Sakıncalı Piyade</dc:title>
+<dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf">Politik</dc:subject>
+<meta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" name="calibre:user_categories" content="{}"/>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf">tr</dc:language>
+<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" ns0:scheme="calibre">e79b710c-098f-4141-ac57-2ea55880379b</dc:identifier>
+</ns0:metadata>
+  <ns0:manifest>
+    <ns0:item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <ns0:item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <ns0:item href="Text/001_split_000.html" id="x001_split_000.html" media-type="application/xhtml+xml"/>
+    <ns0:item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <ns0:item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <ns0:item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <ns0:item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <ns0:item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <ns0:item href="Fonts/ARIAL.TTF" id="idfont2" media-type="application/x-font-truetype"/>
+    <ns0:item href="Fonts/ARIALBD.TTF" id="idfont1" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="id4" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="id3" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="id2" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="id1" media-type="application/octet-stream"/>
+    <ns0:item href="Fonts/LiberationSerif-Bold.ttf" id="id" media-type="application/x-font-truetype"/>
+    <ns0:item href="Fonts/LiberationSerif-BoldItalic.ttf" id="id5" media-type="application/x-font-truetype"/>
+    <ns0:item href="Fonts/LiberationSerif-Italic.ttf" id="id6" media-type="application/x-font-truetype"/>
+    <ns0:item href="Fonts/LiberationSerif-Regular.ttf" id="id7" media-type="application/x-font-truetype"/>
+  </ns0:manifest>
+  <ns0:spine toc="ncx">
+    <ns0:itemref idref="titlepage"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="TOC.xhtml"/>
+    <itemref xmlns="http://www.idpf.org/2007/opf" idref="x001_split_000.html"/>
+    <ns0:itemref idref="Section0001.html"/>
+  </ns0:spine>
+  <ns0:guide>
+    <ns0:reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/TOC.xhtml" title="İçindekiler" type="toc"/>
+  </ns0:guide>
+</ns0:package>

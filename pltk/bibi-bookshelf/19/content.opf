@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="calibre:series_index" content="1"/>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Yalçın, Soner" opf:role="aut">Soner Yalçın</dc:creator>
+    <meta name="calibre:timestamp" content="2010-11-20T20:40:40.031000+00:00"/>
+    <dc:title>Efendi</dc:title>
+    <meta name="cover" content="cover1"/>
+    <dc:date>2010-11-20T08:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">2cc6c2da-5093-44ad-a2b2-b725942c5eb6</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Ops/001_split_000.html" id="id0012" media-type="application/xhtml+xml"/>
+    <item href="Ops/001_split_001.html" id="id0011" media-type="application/xhtml+xml"/>
+    <item href="Ops/002_split_000.html" id="id0022" media-type="application/xhtml+xml"/>
+    <item href="Ops/002_split_001.html" id="id0021" media-type="application/xhtml+xml"/>
+    <item href="Ops/003_split_000.html" id="id0032" media-type="application/xhtml+xml"/>
+    <item href="Ops/003_split_001.html" id="id0031" media-type="application/xhtml+xml"/>
+    <item href="Ops/004_split_000.html" id="id0042" media-type="application/xhtml+xml"/>
+    <item href="Ops/004_split_001.html" id="id0041" media-type="application/xhtml+xml"/>
+    <item href="Ops/005_split_000.html" id="id0052" media-type="application/xhtml+xml"/>
+    <item href="Ops/005_split_001.html" id="id0051" media-type="application/xhtml+xml"/>
+    <item href="Ops/006_split_000.html" id="id0062" media-type="application/xhtml+xml"/>
+    <item href="Ops/006_split_001.html" id="id0061" media-type="application/xhtml+xml"/>
+    <item href="Ops/007_split_000.html" id="id0072" media-type="application/xhtml+xml"/>
+    <item href="Ops/007_split_001.html" id="id0071" media-type="application/xhtml+xml"/>
+    <item href="Ops/008_split_000.html" id="id0082" media-type="application/xhtml+xml"/>
+    <item href="Ops/008_split_001.html" id="id0081" media-type="application/xhtml+xml"/>
+    <item href="Ops/009_split_000.html" id="id0092" media-type="application/xhtml+xml"/>
+    <item href="Ops/009_split_001.html" id="id0091" media-type="application/xhtml+xml"/>
+    <item href="Ops/010_split_000.html" id="id0102" media-type="application/xhtml+xml"/>
+    <item href="Ops/010_split_001.html" id="id0101" media-type="application/xhtml+xml"/>
+    <item href="Ops/011_split_000.html" id="id0112" media-type="application/xhtml+xml"/>
+    <item href="Ops/011_split_001.html" id="id0111" media-type="application/xhtml+xml"/>
+    <item href="Ops/012.html" id="id012" media-type="application/xhtml+xml"/>
+    <item href="Ops/fonts/ARIAL.TTF" id="idfont1" media-type="application/vnd-ms-opentype"/>
+    <item href="cover1.jpeg" id="cover1" media-type="image/jpeg"/>
+    <item href="stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0012"/>
+    <itemref idref="id0011"/>
+    <itemref idref="id0022"/>
+    <itemref idref="id0021"/>
+    <itemref idref="id0032"/>
+    <itemref idref="id0031"/>
+    <itemref idref="id0042"/>
+    <itemref idref="id0041"/>
+    <itemref idref="id0052"/>
+    <itemref idref="id0051"/>
+    <itemref idref="id0062"/>
+    <itemref idref="id0061"/>
+    <itemref idref="id0072"/>
+    <itemref idref="id0071"/>
+    <itemref idref="id0082"/>
+    <itemref idref="id0081"/>
+    <itemref idref="id0092"/>
+    <itemref idref="id0091"/>
+    <itemref idref="id0102"/>
+    <itemref idref="id0101"/>
+    <itemref idref="id0112"/>
+    <itemref idref="id0111"/>
+    <itemref idref="id012"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>
