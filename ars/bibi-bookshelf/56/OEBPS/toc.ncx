@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="7965b6fa-334f-4496-8b06-d90b25dbd1b2" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>İlerlemenin Kısa Tarihi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="5d435778-7668-463e-8dfa-527940b47747" playOrder="1">
+      <navLabel>
+        <text>1 Gauguin'in Soruları</text>
+      </navLabel>
+      <content src="Text/ilerleme_split_003.html"/>
+    </navPoint>
+    <navPoint id="1d14f8ae-8cfa-4451-bbe8-be92c9930236" playOrder="2">
+      <navLabel>
+        <text>2 Büyük Deney</text>
+      </navLabel>
+      <content src="Text/ilerleme_split_004.html"/>
+    </navPoint>
+    <navPoint id="dff98ed8-8019-4cfc-bca1-d710c47326a5" playOrder="3">
+      <navLabel>
+        <text>3 Budalaların Cenneti</text>
+      </navLabel>
+      <content src="Text/ilerleme_split_006.html"/>
+    </navPoint>
+    <navPoint id="343ae945-73e8-445c-989e-a3018c06ef84" playOrder="4">
+      <navLabel>
+        <text>4 Piramit Tasarıları</text>
+      </navLabel>
+      <content src="Text/ilerleme_split_007.html"/>
+    </navPoint>
+    <navPoint id="5e93eb27-155d-4003-9d1f-b569a50c3ad5" playOrder="5">
+      <navLabel>
+        <text>5 Aletlerin İsyanı</text>
+      </navLabel>
+      <content src="Text/ilerleme_split_009.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

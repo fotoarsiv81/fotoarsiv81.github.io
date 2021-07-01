@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="30aaadeb-c19b-475e-a2bf-b790dbcb3e31" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Özgürlük ve Kapitalizm</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="text1" playOrder="1">
+      <navLabel>
+        <text>2002 Baskısına Önsöz</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml"/>
+    </navPoint>
+    <navPoint id="text2" playOrder="2">
+      <navLabel>
+        <text>1982 Baskısına Önsöz</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml"/>
+    </navPoint>
+    <navPoint id="text3" playOrder="3">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml"/>
+    </navPoint>
+    <navPoint id="text4" playOrder="4">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml"/>
+    </navPoint>
+    <navPoint id="text5" playOrder="5">
+      <navLabel>
+        <text>Bölüm I: Ekonomik Özgürlükle Siyasi Özgürlük Arasındaki ilişki</text>
+      </navLabel>
+      <content src="Text/chapter7.xhtml"/>
+    </navPoint>
+    <navPoint id="text6" playOrder="6">
+      <navLabel>
+        <text>Bölüm 2: Özgür Bir Toplumda Devletin Rolü</text>
+      </navLabel>
+      <content src="Text/chapter8.xhtml"/>
+    </navPoint>
+    <navPoint id="text7" playOrder="7">
+      <navLabel>
+        <text>Bölüm 3: Paranın Kontrolü</text>
+      </navLabel>
+      <content src="Text/chapter9.xhtml"/>
+    </navPoint>
+    <navPoint id="text8" playOrder="8">
+      <navLabel>
+        <text>Bölüm 4: Malî ve Ticarî Düzenlemeler</text>
+      </navLabel>
+      <content src="Text/chapter10.xhtml"/>
+    </navPoint>
+    <navPoint id="text9" playOrder="9">
+      <navLabel>
+        <text>Bölüm 5: Malî Politika</text>
+      </navLabel>
+      <content src="Text/chapter11.xhtml"/>
+    </navPoint>
+    <navPoint id="text10" playOrder="10">
+      <navLabel>
+        <text> Bölüm 6: Eğitimde Devletin Rolü</text>
+      </navLabel>
+      <content src="Text/chapter12.xhtml"/>
+    </navPoint>
+    <navPoint id="text11" playOrder="11">
+      <navLabel>
+        <text>Bölüm 7: Kapitalizm ve Ayrımcılık</text>
+      </navLabel>
+      <content src="Text/chapter13.xhtml"/>
+    </navPoint>
+    <navPoint id="text12" playOrder="12">
+      <navLabel>
+        <text/>
+      </navLabel>
+      <content src="Text/chapter14.xhtml"/>
+    </navPoint>
+    <navPoint id="text13" playOrder="13">
+      <navLabel>
+        <text>Bölüm 8: İş ve İşgücü Çevrelerinin Sosyal Sorumluluğu ve Tekel</text>
+      </navLabel>
+      <content src="Text/chapter15.xhtml"/>
+    </navPoint>
+    <navPoint id="text14" playOrder="14">
+      <navLabel>
+        <text>Bölüm 9: Çalışma Ruhsatı Uygulamaları</text>
+      </navLabel>
+      <content src="Text/chapter16.xhtml"/>
+    </navPoint>
+    <navPoint id="text15" playOrder="15">
+      <navLabel>
+        <text>Bölüm 10: Gelir Dağılımı</text>
+      </navLabel>
+      <content src="Text/chapter17.xhtml"/>
+    </navPoint>
+    <navPoint id="text16" playOrder="16">
+      <navLabel>
+        <text>Bölüm 11: Sosyal Refah Önlemleri</text>
+      </navLabel>
+      <content src="Text/chapter18.xhtml"/>
+    </navPoint>
+    <navPoint id="text17" playOrder="17">
+      <navLabel>
+        <text>Bölüm 12: Yoksulluğun Hafifletilmesi</text>
+      </navLabel>
+      <content src="Text/chapter19.xhtml"/>
+    </navPoint>
+    <navPoint id="text18" playOrder="18">
+      <navLabel>
+        <text>Bölüm 13: Sonuç</text>
+      </navLabel>
+      <content src="Text/chapter20.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

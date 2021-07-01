@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Bourdieu, Pierre">Pierre Bourdieu</dc:creator>
+<dc:identifier id="uuid">{93EAFF2C-AAFC-43EC-9600-38499D9FE623}</dc:identifier>
+    <dc:date>1997-10-03T21:00:00+00:00</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Günümüz sosyolojisinin temel kuramcılarından Pierre Bourdieu'nün Televizyon Üzerine adlı kitabı Turhan Ilgaz'ın çevirisi ve sunuş yazısıyla.&lt;/p&gt;</dc:description>
+    <meta content="0.7.1" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Televizyon Üzerine"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Pierre Bourdieu&quot;: &quot;&quot;}"/>
+  <dc:title>Televizyon Üzerine</dc:title>
+<dc:subject>Sosyoloji</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Politik</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">72a2e74f-cdeb-484c-8305-85866e224819</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/pierre.xhtml" id="pierre.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sunus.xhtml" id="sunus.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/setvekulisleri.xhtml" id="setvekulisleri.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/gorunmeyen.xhtml" id="gorunmeyen.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ekler.xhtml" id="ekler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/gazetecininbaskigucu.xhtml" id="gazetecininbaskigucu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/olimpiyat.xhtml" id="olimpiyat.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonsoz.xhtml" id="sonsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id9" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/kapakk.jpg" id="kapakk.jpg" media-type="image/jpeg"/>
+    <item href="Images/yky.jpg" id="yky.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id9">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="pierre.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="sunus.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="setvekulisleri.xhtml"/>
+    <itemref idref="gorunmeyen.xhtml"/>
+    <itemref idref="ekler.xhtml"/>
+    <itemref idref="gazetecininbaskigucu.xhtml"/>
+    <itemref idref="olimpiyat.xhtml"/>
+    <itemref idref="sonsoz.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

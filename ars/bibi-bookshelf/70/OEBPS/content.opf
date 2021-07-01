@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Eagleton, Terry">Terry Eagleton</dc:creator>
+<dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:date>2011-06-10T21:00:00+00:00</dc:date>
+    <dc:identifier id="BookId">AWP-FD7CC46D-5F59-4BD7-988E-C2E8821F97B7</dc:identifier>
+    <dc:date opf:event="modification">2014-12-21</dc:date>
+    <dc:description>&lt;p&gt;On beş yıl önce İngiltere’nin kuzeyinde on yaşında iki çocuk, bir bebeği işkence edip öldürdü. Halk dehşetle ayağa kalktı. Oysa bu cinayeti niye özellikle korkutucu buldukları tam açık değildi. Neticede çocuklar, kimi zaman oldukça vahşice davranmaları doğal karşılanan sadece yarı ehlileşmiş yaratıklardır. Eğer Freud haklıysa, çocuklar büyüklerinden çok daha zayıf birer süper egoya ve ahlak duygusuna sahiptirler. Bu yüzden asıl şaşırtıcı olan böyle korkunç olayların daha sık yaşanmamasıdır. Belki de çocuklar sürekli birbirlerini öldürüyorlar da bunu bize çaktırmıyorlardır.
+Terry Eagleton, kötülüğü tartışıyor. Geçmişi hatırlatan, ayrıntılara işaret eden, güzel mukayeseler yapan, edebi sakinliğiyle ve o iştahlı üslubuyla kötülüğün tortusuna yoğunlaşıyor. Edebiyatı izleyerek din, siyaset ve gündelik yaşama eleştirel bir dille yaklaşıyor. Önyargıları, nefreti, içine şeytan giren kötüleri, insafsız katilleri, medyayı, sebepsiz cinayetleri, 11 Eylül’ü, körlüğü, ahlakı diline doluyor.
+
+Kötülük Üzerine Bir Deneme, kısa ve tok, ayak direyen bir vicdani çığlık...&lt;/p&gt;</dc:description>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Kötülük Üzerine Bir Deneme"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Terry Eagleton&quot;: &quot;&quot;}"/>
+  <dc:title>Kötülük Üzerine Bir Deneme</dc:title>
+<dc:subject>Din</dc:subject>
+<dc:subject>Freud</dc:subject>
+<dc:subject>Nefret suçları</dc:subject>
+<dc:subject>Teoloji</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">4b1ce690-b2a0-42f7-bcf8-1ad29bbd2dea</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750509513</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="id006" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/img1.jpg" id="img1" media-type="image/jpeg"/>
+    <item href="Images/img2.png" id="img2" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="975-263-416-8" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>BİRİNCİ BÖLÜM / İSLÂM’DA ŞEHİR VE MİMARÎ</text>
+			</navLabel>
+			<content src="Text/islamdasehirvemimari-epub-3.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>İKİNCİ BÖLÜM / ŞEHİRDEN KONUTA</text>
+			</navLabel>
+			<content src="Text/islamdasehirvemimari-epub-3.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>ÜÇÜNCÜ BÖLÜM / MİMARLIK MİRASI VE KORUMA</text>
+			</navLabel>
+			<content src="Text/islamdasehirvemimari-epub-3.html#toc_marker-3"/>
+		</navPoint>
+	</navMap>
+</ncx>

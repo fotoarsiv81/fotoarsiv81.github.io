@@ -1,0 +1,90 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Sibel Bozdoğan, Reşat Kasaba">Sibel Bozdoğan, Reşat Kasaba</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:44eb967c-383b-4d57-be9d-107d42471db7</dc:identifier>
+    <dc:date opf:event="modification">2014-05-03</dc:date>
+    <dc:description>&lt;p class="description"&gt;İkinci Dünya Savaşı'nı takip eden yıllarda Türkiye, evrensel bir modernleşme modelinin en başarılı örneklerinden biri olarak gösterilmişti. Türkiye'nin, Osmanlı dönemi reformlarından başlayıp Kemalist ulus-devletle en yetkin ifadesine ulaşan modernleşme ve Batılılaşma tarihi, modernleşme kuramcılarının tüm yazdıklarını doğrular görünüyordu. Editörlüğünü Sibel Bozdoğan ile Reşat Kasaba'nın yaptığı bu kitap, Türkiye'de ve dünyada modernleşme projesinin krizi ve geleceği üzerinde çalışan çeşitli disiplinlerden yazarlları bir araya topluyor. Bu yazarların her biri, kendi uzmanlık alanlarından Türkiye'ye bakarken güncel kavramsal araçları ve teorik çerçeveleri de kullanarak, Kemalizm ve modernleşme, modernleşmenin doğrultusu, İslamcı siyaset ve kimlik arayışı, kadın ve cinsiyet, mimarlık kültürü, kent planlaması ve müziğe kadar çeşitli konuları inceliyor, tartışıyorlar.&lt;/p&gt;</dc:description>
+    <dc:date>2005-02-28T22:00:00+00:00</dc:date>
+    <dc:publisher>Tarih Vakfı Yurt Yayınları</dc:publisher>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta content="Türkiye'de Modernleşme ve Ulusal Kimlik" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Sibel Bozdoğan, Reşat Kasaba&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:title>Türkiye'de Modernleşme ve Ulusal Kimlik</dc:title>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Siyasi ve Askeri Tarih</dc:subject>
+<dc:subject>Sosyal Tarih</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">d7882afe-f9e3-4ee4-90b2-885ee4cb6cfb</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753332545</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/01.htm" id="x01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/02.htm" id="x02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/03.htm" id="x03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/04.htm" id="x04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/05.htm" id="x05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/06.htm" id="x06.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/07.htm" id="x07.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/08.htm" id="x08.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/09.htm" id="x09.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/10.htm" id="x10.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/11.htm" id="x11.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/12.htm" id="x12.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/13.htm" id="x13.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/14.htm" id="x14.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Giris.htm" id="Giris.htm" media-type="application/xhtml+xml"/>
+    <item href="Styles/epub_css.css" id="epub_css.css" media-type="text/css"/>
+    <item href="Text/ithaf.htm" id="ithaf.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright.htm" id="copyright.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/katilimcilar.htm" id="katilimcilar.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/tesekkur.htm" id="tesekkur.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.htm" id="toc.htm" media-type="application/xhtml+xml"/>
+    <item href="Images/title.jpg" id="title.jpg" media-type="image/jpeg"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/06-01.jpg" id="x06-01.jpg" media-type="image/jpeg"/>
+    <item href="Images/06-02.jpg" id="x06-02.jpg" media-type="image/jpeg"/>
+    <item href="Images/06-03.jpg" id="x06-03.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="copyright.htm"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="katilimcilar.htm"/>
+    <itemref idref="tesekkur.htm"/>
+    <itemref idref="toc.htm"/>
+    <itemref idref="ithaf.htm"/>
+    <itemref idref="Giris.htm"/>
+    <itemref idref="x01.htm"/>
+    <itemref idref="x02.htm"/>
+    <itemref idref="x03.htm"/>
+    <itemref idref="x04.htm"/>
+    <itemref idref="x05.htm"/>
+    <itemref idref="x06.htm"/>
+    <itemref idref="x07.htm"/>
+    <itemref idref="x08.htm"/>
+    <itemref idref="x09.htm"/>
+    <itemref idref="x10.htm"/>
+    <itemref idref="x11.htm"/>
+    <itemref idref="x12.htm"/>
+    <itemref idref="x13.htm"/>
+    <itemref idref="x14.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/toc.htm" title="Table Of Contents" type="toc"/>
+    <reference href="Text/copyright.htm" title="Copyright Page" type="copyright-page"/>
+    <reference href="Text/title.xhtml" title="Title Page" type="start"/>
+    <reference href="Text/ithaf.htm" title="Dedication" type="dedication"/>
+    <reference href="Text/tesekkur.htm" title="Acknowledgements" type="acknowledgements"/>
+    <reference href="Text/Giris.htm" title="Preface" type="preface"/>
+  </guide>
+</package>

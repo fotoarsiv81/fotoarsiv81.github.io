@@ -1,0 +1,111 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.baslik {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.baslik1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center
+    }
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    page-break-before: always;
+    text-align: justify
+    }
+.calibre1 {
+    display: block;
+    page-break-after: always
+    }
+.calibre2 {
+    height: 90%;
+    width: auto
+    }
+.calibre3 {
+    font-size: smaller;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre4 {
+    height: 325;
+    width: 316
+    }
+.calibre5 {
+    height: 317;
+    width: 263
+    }
+.calibre6 {
+    height: 228;
+    width: 425
+    }
+.calibre7 {
+    height: 300;
+    width: 263
+    }
+.chapter {
+    display: block
+    }
+.idebold {
+    font-weight: bold
+    }
+.ideitalik {
+    font-style: italic
+    }
+.indentmetin {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.kunye {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: default
+    }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer
+    }

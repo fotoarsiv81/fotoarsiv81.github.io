@@ -1,0 +1,115 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Labirent</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Atasoy, Sevil">Sevil Atasoy</dc:creator>
+    <dc:identifier id="bookid">urn:uuid:f9193cba-ee33-bd6f-d4b8-d2aef042c8b5</dc:identifier>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (3.0.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-03-15</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">6a022e89-3802-4681-bcd8-01ba612fb545</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Labirent" name="calibre:title_sort"/>
+    <meta content="{&quot;Sevil Atasoy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="_labirent_on_D_fmt.jpeg"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/KUNYE.xhtml" id="kunye" media-type="application/xhtml+xml"/>
+    <item href="Text/GIRIS.xhtml" id="giris" media-type="application/xhtml+xml"/>
+    <item href="Text/ITHAF.xhtml" id="ithaf" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT.xhtml" id="labirent" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-1.xhtml" id="labirent-1" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-2.xhtml" id="labirent-2" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-3.xhtml" id="labirent-3" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-4.xhtml" id="labirent-4" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-5.xhtml" id="labirent-5" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-6.xhtml" id="labirent-6" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-7.xhtml" id="labirent-7" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-8.xhtml" id="labirent-8" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-9.xhtml" id="labirent-9" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-10.xhtml" id="labirent-10" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-11.xhtml" id="labirent-11" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-12.xhtml" id="labirent-12" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-13.xhtml" id="labirent-13" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-14.xhtml" id="labirent-14" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-15.xhtml" id="labirent-15" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-16.xhtml" id="labirent-16" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-17.xhtml" id="labirent-17" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-18.xhtml" id="labirent-18" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-19.xhtml" id="labirent-19" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-20.xhtml" id="labirent-20" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-21.xhtml" id="labirent-21" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-22.xhtml" id="labirent-22" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-23.xhtml" id="labirent-23" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-24.xhtml" id="labirent-24" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-25.xhtml" id="labirent-25" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-26.xhtml" id="labirent-26" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-27.xhtml" id="labirent-27" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-28.xhtml" id="labirent-28" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-29.xhtml" id="labirent-29" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-30.xhtml" id="labirent-30" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-31.xhtml" id="labirent-31" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-32.xhtml" id="labirent-32" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-33.xhtml" id="labirent-33" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-34.xhtml" id="labirent-34" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-35.xhtml" id="labirent-35" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-36.xhtml" id="labirent-36" media-type="application/xhtml+xml"/>
+    <item href="Text/LABIRENT-37.xhtml" id="labirent-37" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/_labirent_on_D_fmt.jpeg" id="_labirent_on_D_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/dk logo_fmt.jpeg" id="dk-logo-fmt-jpeg" media-type="image/jpeg"/>
+    <item href="Images/icon_fmt.jpeg" id="icon-fmt-jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye"/>
+    <itemref idref="giris"/>
+    <itemref idref="ithaf"/>
+    <itemref idref="labirent"/>
+    <itemref idref="labirent-1"/>
+    <itemref idref="labirent-2"/>
+    <itemref idref="labirent-3"/>
+    <itemref idref="labirent-4"/>
+    <itemref idref="labirent-5"/>
+    <itemref idref="labirent-6"/>
+    <itemref idref="labirent-7"/>
+    <itemref idref="labirent-8"/>
+    <itemref idref="labirent-9"/>
+    <itemref idref="labirent-10"/>
+    <itemref idref="labirent-11"/>
+    <itemref idref="labirent-12"/>
+    <itemref idref="labirent-13"/>
+    <itemref idref="labirent-14"/>
+    <itemref idref="labirent-15"/>
+    <itemref idref="labirent-16"/>
+    <itemref idref="labirent-17"/>
+    <itemref idref="labirent-18"/>
+    <itemref idref="labirent-19"/>
+    <itemref idref="labirent-20"/>
+    <itemref idref="labirent-21"/>
+    <itemref idref="labirent-22"/>
+    <itemref idref="labirent-23"/>
+    <itemref idref="labirent-24"/>
+    <itemref idref="labirent-25"/>
+    <itemref idref="labirent-26"/>
+    <itemref idref="labirent-27"/>
+    <itemref idref="labirent-28"/>
+    <itemref idref="labirent-29"/>
+    <itemref idref="labirent-30"/>
+    <itemref idref="labirent-31"/>
+    <itemref idref="labirent-32"/>
+    <itemref idref="labirent-33"/>
+    <itemref idref="labirent-34"/>
+    <itemref idref="labirent-35"/>
+    <itemref idref="labirent-36"/>
+    <itemref idref="labirent-37"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

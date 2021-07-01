@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>İnatçi Kurbağa</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Bir Tartma Problemi</text>
+			</navLabel>
+			<content src="Text/5-1.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>Aç Kitap Kurdu</text>
+			</navLabel>
+			<content src="Text/5-2.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>Maaşim Kaç Lira</text>
+			</navLabel>
+			<content src="Text/5-3.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>Sihirli Kare Oluşturun</text>
+			</navLabel>
+			<content src="Text/5-4.html#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>Büyük Babanin Yaşi</text>
+			</navLabel>
+			<content src="Text/5-5.html#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>Küpü Boyamak</text>
+			</navLabel>
+			<content src="Text/5-6.html#toc_marker-7"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>Olanaksiz Gözüken Geçme</text>
+			</navLabel>
+			<content src="Text/5-7.html#toc_marker-8"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>İrmağin Üzerine Köprü</text>
+			</navLabel>
+			<content src="Text/5-8.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>Nasil Yapilir?</text>
+			</navLabel>
+			<content src="Text/5-9.html#toc_marker-10"/>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>Kapinin Önünde</text>
+			</navLabel>
+			<content src="Text/5-10.html#toc_marker-11"/>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>Bahçivan Bunu Nasil Yapti?</text>
+			</navLabel>
+			<content src="Text/5-11.html#toc_marker-12"/>
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>Atlarin Dansi</text>
+			</navLabel>
+			<content src="Text/5-12.html#toc_marker-13"/>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>Kendi Zarinizi Yapin</text>
+			</navLabel>
+			<content src="Text/5-13.html#toc_marker-14"/>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>Taşlar Hizali Olmasin!</text>
+			</navLabel>
+			<content src="Text/5-14.html#toc_marker-15"/>
+		</navPoint>
+		<navPoint id="navpoint16" playOrder="16">
+			<navLabel>
+				<text>Satranç Tahtasini Boyamak</text>
+			</navLabel>
+			<content src="Text/5-15.html#toc_marker-16"/>
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>Küpleri Sayiniz</text>
+			</navLabel>
+			<content src="Text/5-16.html#toc_marker-17"/>
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>4 Litre Su Gerekiyor</text>
+			</navLabel>
+			<content src="Text/5-17.html#toc_marker-18"/>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>Fiçi Kaç Saniyede Boşalir?</text>
+			</navLabel>
+			<content src="Text/5-18.html#toc_marker-19"/>
+		</navPoint>
+		<navPoint id="navpoint20" playOrder="20">
+			<navLabel>
+				<text>İnekleri Paylaştirin</text>
+			</navLabel>
+			<content src="Text/5-19.html#toc_marker-20"/>
+		</navPoint>
+		<navPoint id="navpoint21" playOrder="21">
+			<navLabel>
+				<text>Polis Kimi Yakalayacak</text>
+			</navLabel>
+			<content src="Text/5-20.html#toc_marker-21"/>
+		</navPoint>
+		<navPoint id="navpoint22" playOrder="22">
+			<navLabel>
+				<text>Neden Kirmizi?</text>
+			</navLabel>
+			<content src="Text/5-21.html#toc_marker-22"/>
+		</navPoint>
+		<navPoint id="navpoint23" playOrder="23">
+			<navLabel>
+				<text>Albümler Ve Kitaplar</text>
+			</navLabel>
+			<content src="Text/5-22.html#toc_marker-23"/>
+		</navPoint>
+		<navPoint id="navpoint24" playOrder="24">
+			<navLabel>
+				<text>Geniş Aile</text>
+			</navLabel>
+			<content src="Text/5-23.html#toc_marker-24"/>
+		</navPoint>
+		<navPoint id="navpoint25" playOrder="25">
+			<navLabel>
+				<text>Demiryolu Köprüsü</text>
+			</navLabel>
+			<content src="Text/5-24.html#toc_marker-25"/>
+		</navPoint>
+		<navPoint id="navpoint26" playOrder="26">
+			<navLabel>
+				<text>Küpün İçindeki Açi</text>
+			</navLabel>
+			<content src="Text/5-25.html#toc_marker-26"/>
+		</navPoint>
+		<navPoint id="navpoint27" playOrder="27">
+			<navLabel>
+				<text>Alacali Ceketler</text>
+			</navLabel>
+			<content src="Text/5-26.html#toc_marker-27"/>
+		</navPoint>
+		<navPoint id="navpoint28" playOrder="28">
+			<navLabel>
+				<text>Üç Bere</text>
+			</navLabel>
+			<content src="Text/5-27.html#toc_marker-28"/>
+		</navPoint>
+		<navPoint id="navpoint29" playOrder="29">
+			<navLabel>
+				<text>Kim Müebbet Hapse Mahkûm Oldu?</text>
+			</navLabel>
+			<content src="Text/5-28.html#toc_marker-29"/>
+		</navPoint>
+		<navPoint id="navpoint30" playOrder="30">
+			<navLabel>
+				<text>Eczacinin Damacanalari</text>
+			</navLabel>
+			<content src="Text/5-29.html#toc_marker-30"/>
+		</navPoint>
+		<navPoint id="navpoint31" playOrder="31">
+			<navLabel>
+				<text>Midesever Cafer</text>
+			</navLabel>
+			<content src="Text/5-30.html#toc_marker-31"/>
+		</navPoint>
+		<navPoint id="navpoint32" playOrder="32">
+			<navLabel>
+				<text>Hakimin Adaleti</text>
+			</navLabel>
+			<content src="Text/5-31.html#toc_marker-32"/>
+		</navPoint>
+		<navPoint id="navpoint33" playOrder="33">
+			<navLabel>
+				<text>Babalar Ve Oğullari</text>
+			</navLabel>
+			<content src="Text/5-32.html#toc_marker-33"/>
+		</navPoint>
+		<navPoint id="navpoint34" playOrder="34">
+			<navLabel>
+				<text>Üç Filozof Problemi</text>
+			</navLabel>
+			<content src="Text/5-33.html#toc_marker-34"/>
+		</navPoint>
+		<navPoint id="navpoint35" playOrder="35">
+			<navLabel>
+				<text>Kanalizasyon Kapaklari</text>
+			</navLabel>
+			<content src="Text/5-34.html#toc_marker-35"/>
+		</navPoint>
+		<navPoint id="navpoint36" playOrder="36">
+			<navLabel>
+				<text>Gangster Akli</text>
+			</navLabel>
+			<content src="Text/5-35.html#toc_marker-36"/>
+		</navPoint>
+		<navPoint id="navpoint37" playOrder="37">
+			<navLabel>
+				<text>İrmak Kiyisindaki İki Kuş</text>
+			</navLabel>
+			<content src="Text/5-36.html#toc_marker-37"/>
+		</navPoint>
+		<navPoint id="navpoint38" playOrder="38">
+			<navLabel>
+				<text>Nadir Çiçekler</text>
+			</navLabel>
+			<content src="Text/5-37.html#toc_marker-38"/>
+		</navPoint>
+		<navPoint id="navpoint39" playOrder="39">
+			<navLabel>
+				<text>Antik Çömlek</text>
+			</navLabel>
+			<content src="Text/5-38.html#toc_marker-39"/>
+		</navPoint>
+		<navPoint id="navpoint40" playOrder="40">
+			<navLabel>
+				<text>Siniftaki Bilyeler</text>
+			</navLabel>
+			<content src="Text/5-39.html#toc_marker-40"/>
+		</navPoint>
+		<navPoint id="navpoint41" playOrder="41">
+			<navLabel>
+				<text>Hint Fakirinin İkilemi</text>
+			</navLabel>
+			<content src="Text/5-40.html#toc_marker-41"/>
+		</navPoint>
+		<navPoint id="navpoint42" playOrder="42">
+			<navLabel>
+				<text>Üçgen Oluşturma Bulmacasi</text>
+			</navLabel>
+			<content src="Text/5-41.html#toc_marker-42"/>
+		</navPoint>
+		<navPoint id="navpoint43" playOrder="43">
+			<navLabel>
+				<text>Hayatin En Güzel Dönemi</text>
+			</navLabel>
+			<content src="Text/5-42.html#toc_marker-43"/>
+		</navPoint>
+		<navPoint id="navpoint44" playOrder="44">
+			<navLabel>
+				<text>Krallara Layik Bir Bilmece</text>
+			</navLabel>
+			<content src="Text/5-43.html#toc_marker-44"/>
+		</navPoint>
+		<navPoint id="navpoint45" playOrder="45">
+			<navLabel>
+				<text>Yaşam İksiri</text>
+			</navLabel>
+			<content src="Text/5-44.html#toc_marker-45"/>
+		</navPoint>
+		<navPoint id="navpoint46" playOrder="46">
+			<navLabel>
+				<text>Kurt, Keçi Ve Lahana</text>
+			</navLabel>
+			<content src="Text/5-45.html#toc_marker-46"/>
+		</navPoint>
+		<navPoint id="navpoint47" playOrder="47">
+			<navLabel>
+				<text>Sahte Para Bulmacasi</text>
+			</navLabel>
+			<content src="Text/5-46.html#toc_marker-47"/>
+		</navPoint>
+		<navPoint id="navpoint48" playOrder="48">
+			<navLabel>
+				<text>Duvar Karşisinda Uç Adam</text>
+			</navLabel>
+			<content src="Text/5-47.html#toc_marker-48"/>
+		</navPoint>
+		<navPoint id="navpoint49" playOrder="49">
+			<navLabel>
+				<text>Üst Üste Gelen Kareler Problemi</text>
+			</navLabel>
+			<content src="Text/5-48.html#toc_marker-49"/>
+		</navPoint>
+		<navPoint id="navpoint50" playOrder="50">
+			<navLabel>
+				<text>Üç Çocuklu Barmen</text>
+			</navLabel>
+			<content src="Text/5-49.html#toc_marker-50"/>
+		</navPoint>
+		<navPoint id="navpoint51" playOrder="51">
+			<navLabel>
+				<text>Kim Eksik Yapiyor</text>
+			</navLabel>
+			<content src="Text/5-50.html#toc_marker-51"/>
+		</navPoint>
+		<navPoint id="navpoint52" playOrder="52">
+			<navLabel>
+				<text>Son Söz</text>
+			</navLabel>
+			<content src="Text/5-51.html#toc_marker-52"/>
+		</navPoint>
+		<navPoint id="navpoint53" playOrder="53">
+			<navLabel>
+				<text>Bugun Günlerden Nedir?</text>
+			</navLabel>
+			<content src="Text/5-52.html#toc_marker-53"/>
+		</navPoint>
+		<navPoint id="navpoint54" playOrder="54">
+			<navLabel>
+				<text>Kum Saatleri</text>
+			</navLabel>
+			<content src="Text/5-53.html#toc_marker-54"/>
+		</navPoint>
+		<navPoint id="navpoint55" playOrder="55">
+			<navLabel>
+				<text>Eşit Paylaşim</text>
+			</navLabel>
+			<content src="Text/5-54.html#toc_marker-55"/>
+		</navPoint>
+		<navPoint id="navpoint56" playOrder="56">
+			<navLabel>
+				<text>Vagonlarda Kaç Yolcu Var?</text>
+			</navLabel>
+			<content src="Text/5-55.html#toc_marker-56"/>
+		</navPoint>
+		<navPoint id="navpoint57" playOrder="57">
+			<navLabel>
+				<text>Kaç Kardeş</text>
+			</navLabel>
+			<content src="Text/5-56.html#toc_marker-57"/>
+		</navPoint>
+		<navPoint id="navpoint58" playOrder="58">
+			<navLabel>
+				<text>Nasil?</text>
+			</navLabel>
+			<content src="Text/5-57.html#toc_marker-58"/>
+		</navPoint>
+		<navPoint id="navpoint59" playOrder="59">
+			<navLabel>
+				<text>Portakallari Paylaştirin</text>
+			</navLabel>
+			<content src="Text/5-58.html#toc_marker-59"/>
+		</navPoint>
+		<navPoint id="navpoint60" playOrder="60">
+			<navLabel>
+				<text>Kaç Kişi</text>
+			</navLabel>
+			<content src="Text/5-59.html#toc_marker-60"/>
+		</navPoint>
+		<navPoint id="navpoint61" playOrder="61">
+			<navLabel>
+				<text>Bakiş Açinizini Değiştirin</text>
+			</navLabel>
+			<content src="Text/5-60.html#toc_marker-61"/>
+		</navPoint>
+		<navPoint id="navpoint62" playOrder="62">
+			<navLabel>
+				<text>Kaç Kare Var?</text>
+			</navLabel>
+			<content src="Text/5-61.html#toc_marker-62"/>
+		</navPoint>
+		<navPoint id="navpoint63" playOrder="63">
+			<navLabel>
+				<text>Kaç Tavşan Var?</text>
+			</navLabel>
+			<content src="Text/5-62.html#toc_marker-63"/>
+		</navPoint>
+		<navPoint id="navpoint64" playOrder="64">
+			<navLabel>
+				<text>Kim Kazanir?</text>
+			</navLabel>
+			<content src="Text/5-63.html#toc_marker-64"/>
+		</navPoint>
+		<navPoint id="navpoint65" playOrder="65">
+			<navLabel>
+				<text>Tahta Bloklar</text>
+			</navLabel>
+			<content src="Text/5-64.html#toc_marker-65"/>
+		</navPoint>
+		<navPoint id="navpoint66" playOrder="66">
+			<navLabel>
+				<text>Köprü</text>
+			</navLabel>
+			<content src="Text/5-65.html#toc_marker-66"/>
+		</navPoint>
+		<navPoint id="navpoint67" playOrder="67">
+			<navLabel>
+				<text>Yaşim Kaç?</text>
+			</navLabel>
+			<content src="Text/5-66.html#toc_marker-67"/>
+		</navPoint>
+		<navPoint id="navpoint68" playOrder="68">
+			<navLabel>
+				<text>Hangi Kapi?</text>
+			</navLabel>
+			<content src="Text/5-67.html#toc_marker-68"/>
+		</navPoint>
+		<navPoint id="navpoint69" playOrder="69">
+			<navLabel>
+				<text>Neden Acaba?</text>
+			</navLabel>
+			<content src="Text/5-68.html#toc_marker-69"/>
+		</navPoint>
+		<navPoint id="navpoint70" playOrder="70">
+			<navLabel>
+				<text>Önce Hangisini Yakarsiniz?</text>
+			</navLabel>
+			<content src="Text/5-69.html#toc_marker-70"/>
+		</navPoint>
+		<navPoint id="navpoint71" playOrder="71">
+			<navLabel>
+				<text>Koyunlari Paylaştirin</text>
+			</navLabel>
+			<content src="Text/5-70.html#toc_marker-71"/>
+		</navPoint>
+		<navPoint id="navpoint72" playOrder="72">
+			<navLabel>
+				<text>Nasil Başardi?</text>
+			</navLabel>
+			<content src="Text/5-71.html#toc_marker-72"/>
+		</navPoint>
+		<navPoint id="navpoint73" playOrder="73">
+			<navLabel>
+				<text>Kaç Saatte Biter?</text>
+			</navLabel>
+			<content src="Text/5-72.html#toc_marker-73"/>
+		</navPoint>
+		<navPoint id="navpoint74" playOrder="74">
+			<navLabel>
+				<text>Ben Hangi Sayiyim?</text>
+			</navLabel>
+			<content src="Text/5-73.html#toc_marker-74"/>
+		</navPoint>
+		<navPoint id="navpoint75" playOrder="75">
+			<navLabel>
+				<text>Kim?</text>
+			</navLabel>
+			<content src="Text/5-74.html#toc_marker-75"/>
+		</navPoint>
+		<navPoint id="navpoint76" playOrder="76">
+			<navLabel>
+				<text>Hirsiz Kim?</text>
+			</navLabel>
+			<content src="Text/5-75.html#toc_marker-76"/>
+		</navPoint>
+		<navPoint id="navpoint77" playOrder="77">
+			<navLabel>
+				<text>Altin Dolu Çanta</text>
+			</navLabel>
+			<content src="Text/5-76.html#toc_marker-77"/>
+		</navPoint>
+		<navPoint id="navpoint78" playOrder="78">
+			<navLabel>
+				<text>Suçlu Kim?</text>
+			</navLabel>
+			<content src="Text/5-77.html#toc_marker-78"/>
+		</navPoint>
+		<navPoint id="navpoint79" playOrder="79">
+			<navLabel>
+				<text>Kaç Tane?</text>
+			</navLabel>
+			<content src="Text/5-78.html#toc_marker-79"/>
+		</navPoint>
+		<navPoint id="navpoint80" playOrder="80">
+			<navLabel>
+				<text>Ayşe Kaç Yaşindadir?</text>
+			</navLabel>
+			<content src="Text/5-79.html#toc_marker-80"/>
+		</navPoint>
+		<navPoint id="navpoint81" playOrder="81">
+			<navLabel>
+				<text>Hangi Oda?</text>
+			</navLabel>
+			<content src="Text/5-80.html#toc_marker-81"/>
+		</navPoint>
+		<navPoint id="navpoint82" playOrder="82">
+			<navLabel>
+				<text>Kim Daha Yaşli?</text>
+			</navLabel>
+			<content src="Text/5-81.html#toc_marker-82"/>
+		</navPoint>
+		<navPoint id="navpoint83" playOrder="83">
+			<navLabel>
+				<text>Nasil Yapti?</text>
+			</navLabel>
+			<content src="Text/5-82.html#toc_marker-83"/>
+		</navPoint>
+		<navPoint id="navpoint84" playOrder="84">
+			<navLabel>
+				<text>Dikkat!</text>
+			</navLabel>
+			<content src="Text/5-83.html#toc_marker-84"/>
+		</navPoint>
+		<navPoint id="navpoint85" playOrder="85">
+			<navLabel>
+				<text>Neden?</text>
+			</navLabel>
+			<content src="Text/5-84.html#toc_marker-85"/>
+		</navPoint>
+		<navPoint id="navpoint86" playOrder="86">
+			<navLabel>
+				<text>Yalancilik Ve Doğruculuk Ülkesi</text>
+			</navLabel>
+			<content src="Text/5-85.html#toc_marker-86"/>
+		</navPoint>
+		<navPoint id="navpoint87" playOrder="87">
+			<navLabel>
+				<text>Sarmaşik</text>
+			</navLabel>
+			<content src="Text/5-86.html#toc_marker-87"/>
+		</navPoint>
+		<navPoint id="navpoint88" playOrder="88">
+			<navLabel>
+				<text>Bu Sayi Kaçtir?</text>
+			</navLabel>
+			<content src="Text/5-87.html#toc_marker-88"/>
+		</navPoint>
+		<navPoint id="navpoint89" playOrder="89">
+			<navLabel>
+				<text>Papağan</text>
+			</navLabel>
+			<content src="Text/5-88.html#toc_marker-89"/>
+		</navPoint>
+		<navPoint id="navpoint90" playOrder="90">
+			<navLabel>
+				<text>Ampulü Hangi Düğme Açiyor?</text>
+			</navLabel>
+			<content src="Text/5-89.html#toc_marker-90"/>
+		</navPoint>
+		<navPoint id="navpoint91" playOrder="91">
+			<navLabel>
+				<text>Patatesleri Paylaştirin</text>
+			</navLabel>
+			<content src="Text/5-90.html#toc_marker-91"/>
+		</navPoint>
+		<navPoint id="navpoint92" playOrder="92">
+			<navLabel>
+				<text>Kim Birinci Geldi?</text>
+			</navLabel>
+			<content src="Text/5-91.html#toc_marker-92"/>
+		</navPoint>
+		<navPoint id="navpoint93" playOrder="93">
+			<navLabel>
+				<text>Cezaevinden Kaçiş</text>
+			</navLabel>
+			<content src="Text/5-92.html#toc_marker-93"/>
+		</navPoint>
+		<navPoint id="navpoint94" playOrder="94">
+			<navLabel>
+				<text>Yelkovan Ve Akrep</text>
+			</navLabel>
+			<content src="Text/5-93.html#toc_marker-94"/>
+		</navPoint>
+		<navPoint id="navpoint95" playOrder="95">
+			<navLabel>
+				<text>Nasil?</text>
+			</navLabel>
+			<content src="Text/5-94.html#toc_marker-95"/>
+		</navPoint>
+		<navPoint id="navpoint96" playOrder="96">
+			<navLabel>
+				<text>Hangisi Hafif?</text>
+			</navLabel>
+			<content src="Text/5-95.html#toc_marker-96"/>
+		</navPoint>
+		<navPoint id="navpoint97" playOrder="97">
+			<navLabel>
+				<text>Yanliş Saatler</text>
+			</navLabel>
+			<content src="Text/5-96.html#toc_marker-97"/>
+		</navPoint>
+		<navPoint id="navpoint98" playOrder="98">
+			<navLabel>
+				<text>Elinizi Kaldirmadan Çizin</text>
+			</navLabel>
+			<content src="Text/5-97.html#toc_marker-98"/>
+		</navPoint>
+		<navPoint id="navpoint99" playOrder="99">
+			<navLabel>
+				<text>İkiz Değiller</text>
+			</navLabel>
+			<content src="Text/5-98.html#toc_marker-99"/>
+		</navPoint>
+		<navPoint id="navpoint100" playOrder="100">
+			<navLabel>
+				<text>Garip Bir Kule</text>
+			</navLabel>
+			<content src="Text/5-99.html#toc_marker-100"/>
+		</navPoint>
+		<navPoint id="navpoint101" playOrder="101">
+			<navLabel>
+				<text>Ayağa Kalkmak</text>
+			</navLabel>
+			<content src="Text/5-100.html#toc_marker-101"/>
+		</navPoint>
+		<navPoint id="navpoint102" playOrder="102">
+			<navLabel>
+				<text>Cenovali Berber</text>
+			</navLabel>
+			<content src="Text/5-101.html#toc_marker-102"/>
+		</navPoint>
+		<navPoint id="navpoint103" playOrder="103">
+			<navLabel>
+				<text>Mantik Bilmecesi</text>
+			</navLabel>
+			<content src="Text/5-102.html#toc_marker-103"/>
+		</navPoint>
+		<navPoint id="navpoint104" playOrder="104">
+			<navLabel>
+				<text>Mantik Bilmecesi-2</text>
+			</navLabel>
+			<content src="Text/5-103.html#toc_marker-104"/>
+		</navPoint>
+		<navPoint id="navpoint105" playOrder="105">
+			<navLabel>
+				<text>Mantik Bilemecesi-3</text>
+			</navLabel>
+			<content src="Text/5-104.html#toc_marker-105"/>
+		</navPoint>
+		<navPoint id="navpoint106" playOrder="106">
+			<navLabel>
+				<text>Mantik Bilmecesi-4</text>
+			</navLabel>
+			<content src="Text/5-105.html#toc_marker-106"/>
+		</navPoint>
+		<navPoint id="navpoint107" playOrder="107">
+			<navLabel>
+				<text>Mantik Bilmecesi-5</text>
+			</navLabel>
+			<content src="Text/5-106.html#toc_marker-107"/>
+		</navPoint>
+		<navPoint id="navpoint108" playOrder="108">
+			<navLabel>
+				<text>Mantik Bilmecesi-6</text>
+			</navLabel>
+			<content src="Text/5-107.html#toc_marker-108"/>
+		</navPoint>
+		<navPoint id="navpoint109" playOrder="109">
+			<navLabel>
+				<text>Puzzle-1</text>
+			</navLabel>
+			<content src="Text/5-108.html#toc_marker-109"/>
+		</navPoint>
+		<navPoint id="navpoint110" playOrder="110">
+			<navLabel>
+				<text>Puzzle-2</text>
+			</navLabel>
+			<content src="Text/5-109.html#toc_marker-110"/>
+		</navPoint>
+		<navPoint id="navpoint111" playOrder="111">
+			<navLabel>
+				<text>Puzzle-3</text>
+			</navLabel>
+			<content src="Text/5-110.html#toc_marker-111"/>
+		</navPoint>
+		<navPoint id="navpoint112" playOrder="112">
+			<navLabel>
+				<text>Puzzle-4</text>
+			</navLabel>
+			<content src="Text/5-111.html#toc_marker-112"/>
+		</navPoint>
+		<navPoint id="navpoint113" playOrder="113">
+			<navLabel>
+				<text>Puzzle-5</text>
+			</navLabel>
+			<content src="Text/5-112.html#toc_marker-113"/>
+		</navPoint>
+		<navPoint id="navpoint114" playOrder="114">
+			<navLabel>
+				<text>Puzzle-6</text>
+			</navLabel>
+			<content src="Text/5-113.html#toc_marker-114"/>
+		</navPoint>
+		<navPoint id="navpoint115" playOrder="115">
+			<navLabel>
+				<text>Puzzle-7</text>
+			</navLabel>
+			<content src="Text/5-114.html#toc_marker-115"/>
+		</navPoint>
+		<navPoint id="navpoint116" playOrder="116">
+			<navLabel>
+				<text>Puzzle-8</text>
+			</navLabel>
+			<content src="Text/5-115.html#toc_marker-116"/>
+		</navPoint>
+		<navPoint id="navpoint117" playOrder="117">
+			<navLabel>
+				<text>Puzzle-9</text>
+			</navLabel>
+			<content src="Text/5-116.html#toc_marker-117"/>
+		</navPoint>
+		<navPoint id="navpoint118" playOrder="118">
+			<navLabel>
+				<text>Puzzle-10</text>
+			</navLabel>
+			<content src="Text/5-117.html#toc_marker-118"/>
+		</navPoint>
+	</navMap>
+</ncx>

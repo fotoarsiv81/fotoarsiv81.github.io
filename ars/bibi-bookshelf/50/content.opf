@@ -1,0 +1,49 @@
+<ns0:package unique-identifier="uuid_id" version="2.0" xmlns:ns0="http://www.idpf.org/2007/opf">
+  <ns0:metadata>
+    <ns0:meta content="1" name="calibre:series_index" />
+    <ns1:language xmlns:ns1="http://purl.org/dc/elements/1.1/">en</ns1:language>
+    <ns1:creator ns0:file-as="Sinano&#287;lu, Oktay" ns0:role="aut" xmlns:ns1="http://purl.org/dc/elements/1.1/">Oktay Sinano&#287;lu</ns1:creator>
+    <ns0:meta content="2010-12-08T02:54:05.734000+00:00" name="calibre:timestamp" />
+    <ns1:title xmlns:ns1="http://purl.org/dc/elements/1.1/">Bye Bye T&#252;rk&#231;e</ns1:title>
+    <ns0:meta content="cover" name="cover" />
+    <ns1:date xmlns:ns1="http://purl.org/dc/elements/1.1/">2010-12-07T08:00:00+00:00</ns1:date>
+    <ns1:contributor ns0:role="bkp" xmlns:ns1="http://purl.org/dc/elements/1.1/">calibre (0.7.28) [http://calibre-ebook.com]</ns1:contributor>
+    <ns1:identifier id="uuid_id" ns0:scheme="uuid" xmlns:ns1="http://purl.org/dc/elements/1.1/">1e3e1deb-173e-48a9-925e-73fe34b3cf13</ns1:identifier>
+  </ns0:metadata>
+  <ns0:manifest>
+    <ns0:item href="Ops/001_split_000.html" id="id0012" media-type="application/xhtml+xml" />
+    <ns0:item href="Ops/001_split_001.html" id="id0011" media-type="application/xhtml+xml" />
+    <ns0:item href="Ops/002_split_000.html" id="id0022" media-type="application/xhtml+xml" />
+    <ns0:item href="Ops/002_split_001.html" id="id0021" media-type="application/xhtml+xml" />
+    <ns0:item href="Ops/003_split_000.html" id="id0032" media-type="application/xhtml+xml" />
+    <ns0:item href="Ops/003_split_001.html" id="id0031" media-type="application/xhtml+xml" />
+    <ns0:item href="Ops/004_split_000.html" id="id0042" media-type="application/xhtml+xml" />
+    <ns0:item href="Ops/004_split_001.html" id="id0041" media-type="application/xhtml+xml" />
+    <ns0:item href="Ops/005_split_000.html" id="id0052" media-type="application/xhtml+xml" />
+    <ns0:item href="Ops/005_split_001.html" id="id0051" media-type="application/xhtml+xml" />
+    <ns0:item href="Ops/006.html" id="id006" media-type="application/xhtml+xml" />
+    <ns0:item href="Ops/fonts/ARIAL.TTF" id="idfont2" media-type="application/vnd-ms-opentype" />
+    <ns0:item href="Ops/fonts/ARIALBD.TTF" id="idfont1" media-type="application/vnd-ms-opentype" />
+    <ns0:item href="cover.jpeg" id="cover" media-type="image/jpeg" />
+    <ns0:item href="stylesheet.css" id="css" media-type="text/css" />
+    <ns0:item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <ns0:item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+  <item href="LiberationSerif-Regular.ttf" id="id1" media-type="application/octet-stream" /><item href="LiberationSerif-Italic.ttf" id="id2" media-type="application/octet-stream" /><item href="LiberationSerif-BoldItalic.ttf" id="id3" media-type="application/octet-stream" /><item href="LiberationSerif-Bold.ttf" id="id4" media-type="application/octet-stream" /></ns0:manifest>
+  <ns0:spine toc="ncx">
+    <ns0:itemref idref="titlepage" />
+    <ns0:itemref idref="id0012" />
+    <ns0:itemref idref="id0011" />
+    <ns0:itemref idref="id0022" />
+    <ns0:itemref idref="id0021" />
+    <ns0:itemref idref="id0032" />
+    <ns0:itemref idref="id0031" />
+    <ns0:itemref idref="id0042" />
+    <ns0:itemref idref="id0041" />
+    <ns0:itemref idref="id0052" />
+    <ns0:itemref idref="id0051" />
+    <ns0:itemref idref="id006" />
+  </ns0:spine>
+  <ns0:guide>
+    <ns0:reference href="titlepage.xhtml" title="Cover" type="cover" />
+  </ns0:guide>
+</ns0:package>

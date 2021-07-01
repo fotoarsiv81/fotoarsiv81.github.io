@@ -1,0 +1,126 @@
+<package xmlns="http://www.idpf.org/2007/opf" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ calibre: https://calibre-ebook.com" unique-identifier="bookid" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id">İstanbul’un Yaşayan Efsanesi</dc:title>
+    <dc:creator id="id-1">Semavi Eyice</dc:creator>
+    <dc:identifier>calibre:663</dc:identifier>
+    <dc:identifier>uuid:210cf2fb-a78e-4218-b6b2-a2996ce1b2ea</dc:identifier>
+    <dc:identifier id="bookid">urn:uuid:5915662e-c3d8-4847-b1b5-e3da2ec5f96b</dc:identifier>
+    <dc:language>en-GB</dc:language>
+    <dc:contributor id="id-2">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">İstanbul’un Yaşayan Efsanesi</meta>
+    <meta content="Adobe InDesign 10.0" name="generator"/>
+    <meta name="cover" content="istanbulunyasayanefsanesi-kapak.jpg"/>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="dcterms:modified">2016-11-10T09:32:32Z</meta>
+    <meta property="role" refines="#id-2" scheme="marc:relators">bkp</meta>
+    <meta property="role" refines="#id-1" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#id-1">Eyice, Semavi</meta>
+    <meta property="calibre:author_link_map">{"Semavi Eyice": ""}</meta>
+  </metadata>
+  <manifest>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="istanbulunyasayanefsanesi-epub.xhtml" id="istanbulunyasayanefsanesi-epub" media-type="application/xhtml+xml"/>
+    <item href="istanbulunyasayanefsanesi-epub-1.xhtml" id="istanbulunyasayanefsanesi-epub-1" media-type="application/xhtml+xml"/>
+    <item href="istanbulunyasayanefsanesi-epub-2.xhtml" id="istanbulunyasayanefsanesi-epub-2" media-type="application/xhtml+xml"/>
+    <item href="istanbulunyasayanefsanesi-epub-3.xhtml" id="istanbulunyasayanefsanesi-epub-3" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="toc" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/12197.png" id="x12197.png" media-type="image/png"/>
+    <item href="image/9-3.jpg" id="x9-3.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum1-1.jpg" id="bolum1-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum1-2.jpg" id="bolum1-2.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum1-3.jpg" id="bolum1-3.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum1-4.jpg" id="bolum1-4.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum1-5.jpg" id="bolum1-5.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum1-6.jpg" id="bolum1-6.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum1-7.jpg" id="bolum1-7.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum1-8.jpg" id="bolum1-8.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum1-9.jpg" id="bolum1-9.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum10-1.jpg" id="bolum10-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum10-2.jpg" id="bolum10-2.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum10-3.jpg" id="bolum10-3.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum10-4.jpg" id="bolum10-4.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum10-5.jpg" id="bolum10-5.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum11-1.jpg" id="bolum11-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum12-1.jpg" id="bolum12-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum13-1.jpg" id="bolum13-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum13-2.jpg" id="bolum13-2.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum13-3.jpg" id="bolum13-3.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum13-4.jpg" id="bolum13-4.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum13-5.jpg" id="bolum13-5.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum13-6.jpg" id="bolum13-6.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum13-7.jpg" id="bolum13-7.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum13-8.jpg" id="bolum13-8.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum14-1.jpg" id="bolum14-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum14-2.jpg" id="bolum14-2.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum14-3.jpg" id="bolum14-3.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum15-1.jpg" id="bolum15-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum15-2.jpg" id="bolum15-2.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum15-3.jpg" id="bolum15-3.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum16-1.jpg" id="bolum16-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum16-10.jpg" id="bolum16-10.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum16-11.jpg" id="bolum16-11.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum16-2.jpg" id="bolum16-2.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum16-3.jpg" id="bolum16-3.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum16-4.jpg" id="bolum16-4.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum16-5.jpg" id="bolum16-5.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum16-6.jpg" id="bolum16-6.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum16-7.jpg" id="bolum16-7.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum16-8.jpg" id="bolum16-8.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum16-9.jpg" id="bolum16-9.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum17-1.jpg" id="bolum17-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum17-2.jpg" id="bolum17-2.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum19-1.jpg" id="bolum19-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum19-11.jpg" id="bolum19-11.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum19-2.jpg" id="bolum19-2.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum19-3.jpg" id="bolum19-3.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum19-4-kotu.jpg" id="bolum19-4-kotu.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum2-1.jpg" id="bolum2-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum2-2.jpg" id="bolum2-2.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum2-3.jpg" id="bolum2-3.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum20-1.jpg" id="bolum20-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum20-2.jpg" id="bolum20-2.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum3-1-kotu.jpg" id="bolum3-1-kotu.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum3-2-kotu.png" id="bolum3-2-kotu.png" media-type="image/png"/>
+    <item href="image/bolum3-3.jpg" id="bolum3-3.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum3-4.jpg" id="bolum3-4.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum3-5.jpg" id="bolum3-5.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum4-1.jpg" id="bolum4-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum4-2-kotu.jpg" id="bolum4-2-kotu.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum4-3.jpg" id="bolum4-3.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum4-4.jpg" id="bolum4-4.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum4-5.jpg" id="bolum4-5.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum5-1.jpg" id="bolum5-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum5-2-cokkotu.jpg" id="bolum5-2-cokkotu.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum6-1.jpg" id="bolum6-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum6-2.jpg" id="bolum6-2.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum6-3.jpg" id="bolum6-3.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum6-4.jpg" id="bolum6-4.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum6-5.jpg" id="bolum6-5.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum7-1.jpg" id="bolum7-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum7-2sanirim.jpg" id="bolum7-2sanirim.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum8-1.jpg" id="bolum8-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum8-10.jpg" id="bolum8-10.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum8-3.jpg" id="bolum8-3.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum8-4.jpg" id="bolum8-4.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum8-5.png" id="bolum8-5.png" media-type="image/png"/>
+    <item href="image/bolum8-6.png" id="bolum8-6.png" media-type="image/png"/>
+    <item href="image/bolum8-7.jpg" id="bolum8-7.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum8-8.jpg" id="bolum8-8.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum8-9.jpg" id="bolum8-9.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum9-1.jpg" id="bolum9-1.jpg" media-type="image/jpeg"/>
+    <item href="image/bolum9-2.jpg" id="bolum9-2.jpg" media-type="image/jpeg"/>
+    <item href="image/istanbulunyasayanefsanesi-kapak.jpg" id="istanbulunyasayanefsanesi-kapak.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="image/timaslogo.jpg" id="timaslogo.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverImage"/>
+    <itemref idref="istanbulunyasayanefsanesi-epub"/>
+    <itemref idref="istanbulunyasayanefsanesi-epub-1"/>
+    <itemref idref="istanbulunyasayanefsanesi-epub-2"/>
+    <itemref idref="istanbulunyasayanefsanesi-epub-3"/>
+  </spine>
+</package>

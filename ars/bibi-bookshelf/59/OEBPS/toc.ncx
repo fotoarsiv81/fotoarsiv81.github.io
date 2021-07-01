@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Vejetaryenliğin Yararları</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/icindekiler.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/giris.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Mide Fedaileri</text>
+      </navLabel>
+      <content src="Text/bolum1.xhtml#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İnsanın Doğal Besini</text>
+      </navLabel>
+      <content src="Text/bolum2.xhtml#sigil_toc_id_2" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Besinlerin Kimyasal Tahlili</text>
+      </navLabel>
+      <content src="Text/bolum3.xhtml#sigil_toc_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Vejetaryenliğin Tarihi</text>
+      </navLabel>
+      <content src="Text/bolum4.xhtml#sigil_toc_id_4" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Etin Zararları</text>
+      </navLabel>
+      <content src="Text/bolum5.xhtml#sigil_toc_id_5" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Yiyeceğin Pişirilmesi</text>
+      </navLabel>
+      <content src="Text/bolum6.xhtml#sigil_toc_id_6" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Ahlak ve Vejetaryenlik</text>
+      </navLabel>
+      <content src="Text/bolum7.xhtml#sigil_toc_id_7" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Vejetaryenliğin Üstünlüğü</text>
+      </navLabel>
+      <content src="Text/bolum8.xhtml#sigil_toc_id_8" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Deneyler</text>
+      </navLabel>
+      <content src="Text/bolum9.xhtml#sigil_toc_id_9" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Ekonomi ve Vejetaryenlik</text>
+      </navLabel>
+      <content src="Text/bolum10.xhtml#sigil_toc_id_10" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Eleştirilere Yanıtlar</text>
+      </navLabel>
+      <content src="Text/bolum11.xhtml#sigil_toc_id_11" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Sonsöz</text>
+      </navLabel>
+      <content src="Text/bolum12.xhtml#sigil_toc_id_12" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/notlar.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

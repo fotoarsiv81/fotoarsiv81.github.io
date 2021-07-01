@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:44eb967c-383b-4d57-be9d-107d42471db7" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Türkiye'de Modernleşme ve Ulusal Kimlik</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>KATKIDA BULUNANLAR</text>
+      </navLabel>
+      <content src="Text/katilimcilar.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>TEŞEKKÜR</text>
+      </navLabel>
+      <content src="Text/tesekkur.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>içindekiler</text>
+      </navLabel>
+      <content src="Text/toc.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="Text/Giris.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>ESKİ İLE YENİ ARASINDA KEMALİZM VE MODERNİZM</text>
+      </navLabel>
+      <content src="Text/01.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>1990'LARDA TÜRKİYE'DE MODERNLEŞMENİN DOĞRULTUSU</text>
+      </navLabel>
+      <content src="Text/02.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>TÜRKİYE'DE MODERNLEŞME POLİTİKALARI VE İSLAMCI SİYASET</text>
+      </navLabel>
+      <content src="Text/03.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>MODERN TÜRK SOSYAL BİLİMLERİ ÜZERİNE BAZI DÜŞÜNCELER</text>
+      </navLabel>
+      <content src="Text/04.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>MODERNLEŞME BAĞLAMINDA İSLAMİ KİMLİK ARAYIŞI</text>
+      </navLabel>
+      <content src="Text/05.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>TÜRKİYE'DE MODERNLEŞME PROJESİ VE KADINLAR *</text>
+      </navLabel>
+      <content src="Text/06.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>MODERNİN CİNSİYETİ: TÜRK MODERNLEŞMESİ ARAŞTIRMALARINDA EKSİK BOYUTLAR *</text>
+      </navLabel>
+      <content src="Text/07.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>TÜRK MİMARİ KÜLTÜRÜNDE MODERNİZM: GENEL BİR BAKIŞ</text>
+      </navLabel>
+      <content src="Text/08.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>BİR MODERNLEŞME PROJESİ OLARAK TÜRKİYE'DE KENT PLANLAMASI</text>
+      </navLabel>
+      <content src="Text/09.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>SESSİZ DİRENİŞLER YA DA KIRSAL TÜRKİYE İLE MİMARİ YÜZLEŞMELER</text>
+      </navLabel>
+      <content src="Text/10.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>ARABESK KÜLTÜR: BİR MODERNLEŞME VE POPÜLER KİMLİK ÖRNEĞİ</text>
+      </navLabel>
+      <content src="Text/11.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>KARŞILAŞTIRMALI PERSPEKTİFTEN TÜRK SEÇENEĞİ</text>
+      </navLabel>
+      <content src="Text/12.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>ORTADOĞU PERSPEKTİFİNDE MODERNLEŞTİRMECİ PROJELER</text>
+      </navLabel>
+      <content src="Text/13.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>OLGU VE KURGUNUN BULUŞMA ZEMİNİ</text>
+      </navLabel>
+      <content src="Text/14.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

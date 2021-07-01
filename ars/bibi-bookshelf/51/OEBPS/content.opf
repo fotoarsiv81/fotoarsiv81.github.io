@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Çatışmanın Anatomisi</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Bursalı, Orhan">Orhan Bursalı</dc:creator>
+    <dc:publisher>Kırmızı Kedi Yayınevi</dc:publisher>
+    <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier/>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-08-16</dc:date>
+    <dc:description>Cumhuriyet yazarı Orhan Bursalı, AKP iktidarı ile Gülen Cemaati arasındaki büyük kopuşu ilk dile getiren gazeteci. Yaşananlar, kısa sürede Bursalı'nın analizlerini doğruladı ve sonrası biliniyor… Türkiye, "Allah onların evlerine ateşler salsın, yuvalarını yıksın…" bedduaları ile "İnlerine gireceğiz inlerine…" tehditleri arasına sıkıştı. Çatışmanın Anatomisi, Mavi Marmara baskınından Şike Yasası'na, Oslo'daki MİT-PKK görüşmelerinden 17-25 Aralık operasyonlarına dek uzanan gelişmelerin arka planını yorumluyor. Orhan Bursalı, Recep Tayyip Erdoğan'ın "Ne istediler de vermedik?" itirafının ardındaki gerçekleri ve Cemaat'in iktidar hamlelerini gözler önüne seriyor. "Gülen Hareketi, son altı yedi yıllık 'iktidar pratikleri'nin kurbanı olmuştur. Toplumda ve devlet içinde düzeni, varlığı, siyaseti ağır darbeler almıştır ve almaktadır. Cemaat'in iktidara gelme stratejisi ve iktidar oyunu, görünür gelecekte çökmüştür." (Tanıtım Bülteninden)</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">cce84094-66d6-4334-9400-e57736f7f26c</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786059908085</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/6-1.html" id="x6-1" media-type="application/xhtml+xml"/>
+    <item href="Text/6-2.html" id="x6-2" media-type="application/xhtml+xml"/>
+    <item href="Text/6-3.html" id="x6-3" media-type="application/xhtml+xml"/>
+    <item href="Text/6-4.html" id="x6-4" media-type="application/xhtml+xml"/>
+    <item href="Text/6-5.html" id="x6-5" media-type="application/xhtml+xml"/>
+    <item href="Text/6-6.html" id="x6-6" media-type="application/xhtml+xml"/>
+    <item href="Text/6-7.html" id="x6-7" media-type="application/xhtml+xml"/>
+    <item href="Text/6-8.html" id="x6-8" media-type="application/xhtml+xml"/>
+    <item href="Text/6-9.html" id="x6-9" media-type="application/xhtml+xml"/>
+    <item href="Text/6-10.html" id="x6-10" media-type="application/xhtml+xml"/>
+    <item href="Text/6-11.html" id="x6-11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/kedi_fmt.jpeg" id="kedi_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/kedi_fmt1.jpeg" id="kedi_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="ubVa7J6Tz2TW7862aKDoS23" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x6-1"/>
+    <itemref idref="x6-2"/>
+    <itemref idref="x6-3"/>
+    <itemref idref="x6-4"/>
+    <itemref idref="x6-5"/>
+    <itemref idref="x6-6"/>
+    <itemref idref="x6-7"/>
+    <itemref idref="x6-8"/>
+    <itemref idref="x6-9"/>
+    <itemref idref="x6-10"/>
+    <itemref idref="x6-11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

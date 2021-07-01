@@ -1,0 +1,253 @@
+/* ==================== RH Styles ===================== */
+
+h1.otherbooks
+{
+text-align: center;
+font-size: medium;
+margin-bottom: 1em;
+margin-top: 4em;
+}
+
+div.copyright
+{
+font-size: small;
+text-align: center;
+margin-top: 4em;
+}
+
+div.dedication
+{
+font-size: big;
+margin-top: 8em;
+}
+
+h1.introduction
+{
+line-height: 1em;
+font-size: x-large;
+margin-bottom: 3em;
+margin-top: 2em;
+text-align: left;
+border-bottom: 1px solid;
+}
+
+h1.chapter
+{
+font-size: 1.3em;
+text-align: center;
+font-weight: bold;
+line-height: 1.3em;
+margin-top: 4em;
+margin-bottom: 1em;
+}
+
+/* ===================== Added Styles ===================== */
+
+
+p.right
+{
+text-align: right;
+}
+
+p.center
+{
+margin-top: 0em;
+text-align: center;
+margin-bottom: 1em;
+margin-left: 1px;
+}
+
+a.hlink
+{
+text-decoration: none;
+}
+
+p.figure
+{
+font-size: small;
+margin-top: 1em;
+text-align: center;
+margin-bottom: 2em;
+line-height: 1.5em !important;
+}
+
+p
+{
+margin-top: .3em;
+margin-bottom: .3em;
+}
+
+
+
+img
+{
+max-height: 100%;
+max-width: 100%;
+}
+
+img.inline
+{
+vertical-align: middle;
+}
+
+
+
+a.pubhlink
+{
+text-decoration: none;
+color: green;
+}
+
+p.extract
+{
+text-indent: 0;
+text-align: justify;
+margin-top: 1em;
+margin-bottom: 0;
+}
+
+p.cop
+{
+margin-bottom: 1em;
+}
+
+p.indent {
+margin-bottom: 0.0em;
+margin-top: 0.0em;
+text-align: justify;
+text-indent: 1.00em;
+}
+
+p.nonindent {
+margin-bottom: 0.0em;
+margin-top: 0.0em;
+text-align: justify;
+text-indent: 0;
+}
+
+body
+{
+font-size: medium;
+line-height: 1.2em;
+margin-top: 1em;
+margin-left: 1em;
+margin-right: 2em;
+}
+
+div.footnote
+{
+		font-size:	small;
+		border-style: solid;
+		border-width: 1px 0 0 0;
+		margin-top: 2em;
+}
+
+p.footnote
+{
+	text-align: justify;
+}
+
+h2.section
+{
+color: #007BC3;
+font-size: medium;
+margin-bottom: 0.1em;
+margin-top: 2.5em;
+}
+
+h2.section1
+{
+font-size: medium;
+margin-bottom: 1em;
+margin-top: 1.5em;
+}
+
+span.big
+{
+font-size: xx-large;
+}
+
+p.crt
+{
+margin-top: 1em;
+text-align: center;
+margin-bottom: 1em;
+text-indent: 0em;
+}
+
+sup
+{
+	vertical-align: 4px;
+}
+
+/* =============== New Style added =============== */
+
+/* == For TOC == */
+
+/* == For Block Quotes == */
+
+div.block
+{
+margin-left: 0em;
+margin-right: 0em;
+text-align:justify;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+div.block1
+{
+margin-left: 2em;
+margin-right: 0em;
+text-align:justify;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+p.bl_nonindent
+{
+text-indent: 0;
+font-size: small;
+margin-left:1.5em;
+margin-right:0em;
+text-align:justify;
+}
+
+p.bl_indent
+{
+font-size: small;
+text-indent:1em;
+margin-left:1.5em;
+margin-right:0em;
+text-align:justify;
+}
+
+/* For Hanging Paragraphs */
+
+/* For Dialogue Text */
+
+/* For bullet list */
+
+/* For Fractions */
+p.bl_right
+{
+font-size: small;
+text-align: right;
+margin-right:0em;
+}
+
+span.small2
+{
+font-size: small;
+}
+
+/* ============== Images ============== */
+
+div.inline {
+	page-break-inside: avoid;
+	float: center;
+	line-height: 0em !important;
+	text-align: center;
+	text-indent: 0;
+	clear: both;
+}

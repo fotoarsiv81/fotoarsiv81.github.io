@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:creator opf:role="aut" opf:file-as="Anday, Melih Cevdet">Melih Cevdet Anday</dc:creator>
+<dc:date>2013-10-26T21:00:00+00:00</dc:date>
+<dc:identifier id="BookId">AWP-DEBF7525-B4B9-4B8F-88A0-7416BC4D7926</dc:identifier>
+<meta name="cover" content="cover"/>
+<meta name="calibre:title_sort" content="Dilimiz Üstüne Konuşmalar"/>
+<dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:description>&lt;span style="text-align: left; text-indent: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255); "&gt;"Anadilimizi konuşmak başka bilmek başkadır. Dilimizin bilincine varmak her yurttaş için gerekli sayılmalı. Türkçe'nin, çok geniş bir bölgede konuşulan, yapısal karakteri çok güçlü bir dil olduğu düşünülünce, dilimizin bilincine varmaya çalışmak sıkıcı bir iş değil, tatlı bir uğraştır." Melih Cevdet Anday, dildeki ulusallaşma, birlik, özleşme çabasında gönüllü bir savaşçı durumunda.&lt;/span&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Melih Cevdet Anday&quot;: &quot;&quot;}"/>
+<dc:title>Dilimiz Üstüne Konuşmalar</dc:title>
+<dc:subject>Eleştiri</dc:subject>
+<dc:subject>Kuram</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">34575037-7817-4c3d-a107-f2a29a60c583</dc:identifier>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="style" href="style.css" media-type="text/css"/>
+<item id="coverstyle" href="cover.css" media-type="text/css"/>
+<item id="id001" href="001.html" media-type="application/xhtml+xml"/>
+<item id="id002" href="002.html" media-type="application/xhtml+xml"/>
+<item id="id003" href="003.html" media-type="application/xhtml+xml"/>
+<item id="id004" href="004.html" media-type="application/xhtml+xml"/>
+<item id="id005" href="005.html" media-type="application/xhtml+xml"/>
+<item id="id006" href="006.html" media-type="application/xhtml+xml"/>
+<item id="id007" href="007.html" media-type="application/xhtml+xml"/>
+<item id="id008" href="008.html" media-type="application/xhtml+xml"/>
+<item id="id009" href="009.html" media-type="application/xhtml+xml"/>
+<item id="id010" href="010.html" media-type="application/xhtml+xml"/>
+<item id="id011" href="011.html" media-type="application/xhtml+xml"/>
+<item id="id012" href="012.html" media-type="application/xhtml+xml"/>
+<item id="id013" href="013.html" media-type="application/xhtml+xml"/>
+<item id="id014" href="014.html" media-type="application/xhtml+xml"/>
+<item id="id015" href="015.html" media-type="application/xhtml+xml"/>
+<item id="id016" href="016.html" media-type="application/xhtml+xml"/>
+<item id="idnotes" href="notes.html" media-type="application/xhtml+xml"/>
+<item id="cover" href="images/cover.jpg" media-type="image/jpeg"/>
+<item id="img1" href="images/img1.png" media-type="image/png"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="id001" linear="no"/>
+<itemref idref="id002"/>
+<itemref idref="id003"/>
+<itemref idref="id004"/>
+<itemref idref="id005"/>
+<itemref idref="id006"/>
+<itemref idref="id007"/>
+<itemref idref="id008"/>
+<itemref idref="id009"/>
+<itemref idref="id010"/>
+<itemref idref="id011"/>
+<itemref idref="id012"/>
+<itemref idref="id013"/>
+<itemref idref="id014"/>
+<itemref idref="id015"/>
+<itemref idref="id016"/>
+<itemref idref="idnotes"/>
+</spine>
+<guide>
+<reference type="cover" title="Cover" href="001.html"/>
+</guide>
+</package>

@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Cansever, Turgut">Turgut Cansever</dc:creator>
+<meta content="Adobe InDesign" name="generator"/>
+    <dc:description>&lt;p&gt;Şehir ve mimari üzerine derinlikli düşünceleriyle tanınan Turgut Cansever'in İslam mimarisi ve şehirciliği konusundaki görüşleri, ilk defa derli toplu bir şekilde bu kitapla okuyucunun karşısına çıkıyor. 
+Osmanlı şehrini, İslam mimarisinin temel meselelerini, mimarlık mirasının korunma yollarını, İslam şehrinin belirleyici özelliklerini ve İslam mimarisi ve şehrinin gelecekte hangi esaslardan hareketle kurulabileceğini felsefi ve tasavvufi bir temelde, çağdaş ve geleneksel ustalardan yararlanarak tartışan Cansever, yalnızca şehir planlanarak tartışılan Cansever, yalnızca şehir planlamacıları ve mimarların değil, genel okuyucunun da ilgiyle takip ettiği bir düşünür.&lt;/p&gt;</dc:description>
+    <dc:publisher>Timaş Basım</dc:publisher>
+    <dc:date>2006-04-09T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">975-263-416-8</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-06-01</dc:date>
+    <meta name="cover" content="_kapak.png"/>
+  <dc:title>İslam'da Şehir ve Mimari</dc:title>
+<meta name="calibre:title_sort" content="İslam'da Şehir ve Mimari"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Araştırma</dc:subject>
+<dc:subject>Sosyoloji</dc:subject>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Turgut Cansever&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">aa6eeb00-aa0d-4b9b-b8f2-ef55903f8e56</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9799752634168</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="added1" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="added" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="added2" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="added3" media-type="application/x-font-ttf"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Text/islamdasehirvemimari-epub.html" id="islamdasehirvemimari-epub" media-type="application/xhtml+xml"/>
+    <item href="Text/islamdasehirvemimari-epub-1.html" id="islamdasehirvemimari-epub-1" media-type="application/xhtml+xml"/>
+    <item href="Text/islamdasehirvemimari-epub-2.html" id="islamdasehirvemimari-epub-2" media-type="application/xhtml+xml"/>
+    <item href="Text/islamdasehirvemimari-epub-3.html" id="islamdasehirvemimari-epub-3" media-type="application/xhtml+xml"/>
+    <item href="Images/islamdasehirvemima137_fmt.png" id="islamdasehirvemima137_fmt.png" media-type="image/png"/>
+    <item href="Images/_kapak.png" id="_kapak.png" media-type="image/png"/>
+    <item href="Images/nokta_fmt.png" id="nokta_fmt.png" media-type="image/png"/>
+    <item href="Images/nokta_fmt1.png" id="nokta_fmt1.png" media-type="image/png"/>
+    <item href="Images/nokta_fmt2.png" id="nokta_fmt2.png" media-type="image/png"/>
+    <item href="Images/timaslogo_fmt.jpeg" id="timaslogo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="islamdasehirvemimari-epub"/>
+    <itemref idref="islamdasehirvemimari-epub-1"/>
+    <itemref idref="islamdasehirvemimari-epub-2"/>
+    <itemref idref="islamdasehirvemimari-epub-3"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
