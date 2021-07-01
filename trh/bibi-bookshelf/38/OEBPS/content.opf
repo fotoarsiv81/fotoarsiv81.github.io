@@ -1,0 +1,370 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="1.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Çanakkale Savaşı</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Albayrak, Muzaffer">Muzaffer Albayrak</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9c39f2f7-28c6-4fd8-83f7-de3442bef5cc</dc:identifier>
+    <dc:publisher>Yeditepe Yayınevi</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.77.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">b31d812b-dbfe-4793-99ab-18259f9617ee</dc:identifier>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2011-09-27T14:36:00.456000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.9.1" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Çanakkale Savaşı"/>
+    <meta name="calibre:author_link_map" content="{&quot;Muzaffer Albayrak&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_000.html" id="html151" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_001.html" id="html150" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_002.html" id="html149" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_003.html" id="html148" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_004.html" id="html147" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_005.html" id="html146" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_006.html" id="html145" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_007.html" id="html144" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_008.html" id="html143" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_009.html" id="html142" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_010.html" id="html141" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_011.html" id="html140" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_012.html" id="html139" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_013.html" id="html138" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_014.html" id="html137" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_015.html" id="html136" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_016.html" id="html135" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_017.html" id="html134" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_018.html" id="html133" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_019.html" id="html132" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_020.html" id="html131" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_021.html" id="html130" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_022.html" id="html129" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_023.html" id="html128" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_024.html" id="html127" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_025.html" id="html126" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_026.html" id="html125" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_027.html" id="html124" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_028.html" id="html123" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_029.html" id="html122" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_030.html" id="html121" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_031.html" id="html120" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_032.html" id="html119" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_033.html" id="html118" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_034.html" id="html117" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_035.html" id="html116" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_036.html" id="html115" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_037.html" id="html114" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_038.html" id="html113" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_039.html" id="html112" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_040.html" id="html111" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_041.html" id="html110" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_042.html" id="html109" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_043.html" id="html108" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_044.html" id="html107" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_045.html" id="html106" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_046.html" id="html105" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_047.html" id="html104" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_048.html" id="html103" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_049.html" id="html102" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_050.html" id="html101" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_051.html" id="html100" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_052.html" id="html99" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_053.html" id="html98" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_054.html" id="html97" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_055.html" id="html96" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_056.html" id="html95" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_057.html" id="html94" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_058.html" id="html93" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_059.html" id="html92" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_060.html" id="html91" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_061.html" id="html90" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_062.html" id="html89" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_063.html" id="html88" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_064.html" id="html87" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_065.html" id="html86" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_066.html" id="html85" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_067.html" id="html84" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_068.html" id="html83" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_069.html" id="html82" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_070.html" id="html81" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_071.html" id="html80" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_072.html" id="html79" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_073.html" id="html78" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_074.html" id="html77" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_075.html" id="html76" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_076.html" id="html75" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_077.html" id="html74" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_078.html" id="html73" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_079.html" id="html72" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_080.html" id="html71" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_081.html" id="html70" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_082.html" id="html69" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_083.html" id="html68" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_084.html" id="html67" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_085.html" id="html66" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_086.html" id="html65" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_087.html" id="html64" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_088.html" id="html63" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_089.html" id="html62" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_090.html" id="html61" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_091.html" id="html60" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_092.html" id="html59" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_093.html" id="html58" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_094.html" id="html57" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_095.html" id="html56" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_096.html" id="html55" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_097.html" id="html54" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_098.html" id="html53" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_099.html" id="html52" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_100.html" id="html51" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_101.html" id="html50" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_102.html" id="html49" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_103.html" id="html48" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_104.html" id="html47" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_105.html" id="html46" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_106.html" id="html45" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_107.html" id="html44" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_108.html" id="html43" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_109.html" id="html42" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_110.html" id="html41" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_111.html" id="html40" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_112.html" id="html39" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_113.html" id="html38" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_114.html" id="html37" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_115.html" id="html36" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_116.html" id="html35" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_117.html" id="html34" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_118.html" id="html33" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_119.html" id="html32" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_120.html" id="html31" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_121.html" id="html30" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_122.html" id="html29" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_123.html" id="html28" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_124.html" id="html27" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_125.html" id="html26" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_126.html" id="html25" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_127.html" id="html24" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_128.html" id="html23" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_129.html" id="html22" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_130.html" id="html21" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_131.html" id="html20" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_132.html" id="html19" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_133.html" id="html18" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_134.html" id="html17" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_135.html" id="html16" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_136.html" id="html15" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_137.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_138.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_139.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_140.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_141.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_142.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_143.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_144.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_145.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_146.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_147.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_148.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_149.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/canakkale_split_150.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/anzakkolordusun.jpg" id="added33" media-type="image/jpeg"/>
+    <item href="Images/ariburnu1.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="Images/batikslep.jpg" id="added28" media-type="image/jpeg"/>
+    <item href="Images/binbasihalis.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="Images/burun2.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="Images/canakkale.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/dalgc.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="Images/deniz.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="Images/denizyosun.jpg" id="added20" media-type="image/jpeg"/>
+    <item href="Images/gemi121.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="Images/image322_opt.jpeg" id="added1" media-type="image/jpeg"/>
+    <item href="Images/image348_opt.jpeg" id="added4" media-type="image/jpeg"/>
+    <item href="Images/image358_opt.jpeg" id="added7" media-type="image/jpeg"/>
+    <item href="Images/image367_opt.jpeg" id="added8" media-type="image/jpeg"/>
+    <item href="Images/image424_opt.jpeg" id="added9" media-type="image/jpeg"/>
+    <item href="Images/image433_opt.jpeg" id="added10" media-type="image/jpeg"/>
+    <item href="Images/image493_opt.jpeg" id="added11" media-type="image/jpeg"/>
+    <item href="Images/image557_opt.jpeg" id="added14" media-type="image/jpeg"/>
+    <item href="Images/image574_opt.jpeg" id="added22" media-type="image/jpeg"/>
+    <item href="Images/image581_opt.jpeg" id="added23" media-type="image/jpeg"/>
+    <item href="Images/image589_opt.jpeg" id="added31" media-type="image/jpeg"/>
+    <item href="Images/image596_opt.jpeg" id="added32" media-type="image/jpeg"/>
+    <item href="Images/image648_opt.jpeg" id="added35" media-type="image/jpeg"/>
+    <item href="Images/image655_opt.jpeg" id="added36" media-type="image/jpeg"/>
+    <item href="Images/joule.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="Images/morque.jpg" id="added21" media-type="image/jpeg"/>
+    <item href="Images/murettebat.jpg" id="added26" media-type="image/jpeg"/>
+    <item href="Images/plann.jpg" id="added34" media-type="image/jpeg"/>
+    <item href="Images/sahildeq.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="Images/shipper.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="Images/silep1.jpg" id="added24" media-type="image/jpeg"/>
+    <item href="Images/silep3.jpg" id="added27" media-type="image/jpeg"/>
+    <item href="Images/siverek.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="Images/slep2.jpg" id="added25" media-type="image/jpeg"/>
+    <item href="Images/yarali.jpg" id="added29" media-type="image/jpeg"/>
+    <item href="Images/yarali2.jpg" id="added30" media-type="image/jpeg"/>
+    <item href="Images/yeditepe-logo.jpg" id="added" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html151"/>
+    <itemref idref="html150"/>
+    <itemref idref="html149"/>
+    <itemref idref="html148"/>
+    <itemref idref="html147"/>
+    <itemref idref="html146"/>
+    <itemref idref="html145"/>
+    <itemref idref="html144"/>
+    <itemref idref="html143"/>
+    <itemref idref="html142"/>
+    <itemref idref="html141"/>
+    <itemref idref="html140"/>
+    <itemref idref="html139"/>
+    <itemref idref="html138"/>
+    <itemref idref="html137"/>
+    <itemref idref="html136"/>
+    <itemref idref="html135"/>
+    <itemref idref="html134"/>
+    <itemref idref="html133"/>
+    <itemref idref="html132"/>
+    <itemref idref="html131"/>
+    <itemref idref="html130"/>
+    <itemref idref="html129"/>
+    <itemref idref="html128"/>
+    <itemref idref="html127"/>
+    <itemref idref="html126"/>
+    <itemref idref="html125"/>
+    <itemref idref="html124"/>
+    <itemref idref="html123"/>
+    <itemref idref="html122"/>
+    <itemref idref="html121"/>
+    <itemref idref="html120"/>
+    <itemref idref="html119"/>
+    <itemref idref="html118"/>
+    <itemref idref="html117"/>
+    <itemref idref="html116"/>
+    <itemref idref="html115"/>
+    <itemref idref="html114"/>
+    <itemref idref="html113"/>
+    <itemref idref="html112"/>
+    <itemref idref="html111"/>
+    <itemref idref="html110"/>
+    <itemref idref="html109"/>
+    <itemref idref="html108"/>
+    <itemref idref="html107"/>
+    <itemref idref="html106"/>
+    <itemref idref="html105"/>
+    <itemref idref="html104"/>
+    <itemref idref="html103"/>
+    <itemref idref="html102"/>
+    <itemref idref="html101"/>
+    <itemref idref="html100"/>
+    <itemref idref="html99"/>
+    <itemref idref="html98"/>
+    <itemref idref="html97"/>
+    <itemref idref="html96"/>
+    <itemref idref="html95"/>
+    <itemref idref="html94"/>
+    <itemref idref="html93"/>
+    <itemref idref="html92"/>
+    <itemref idref="html91"/>
+    <itemref idref="html90"/>
+    <itemref idref="html89"/>
+    <itemref idref="html88"/>
+    <itemref idref="html87"/>
+    <itemref idref="html86"/>
+    <itemref idref="html85"/>
+    <itemref idref="html84"/>
+    <itemref idref="html83"/>
+    <itemref idref="html82"/>
+    <itemref idref="html81"/>
+    <itemref idref="html80"/>
+    <itemref idref="html79"/>
+    <itemref idref="html78"/>
+    <itemref idref="html77"/>
+    <itemref idref="html76"/>
+    <itemref idref="html75"/>
+    <itemref idref="html74"/>
+    <itemref idref="html73"/>
+    <itemref idref="html72"/>
+    <itemref idref="html71"/>
+    <itemref idref="html70"/>
+    <itemref idref="html69"/>
+    <itemref idref="html68"/>
+    <itemref idref="html67"/>
+    <itemref idref="html66"/>
+    <itemref idref="html65"/>
+    <itemref idref="html64"/>
+    <itemref idref="html63"/>
+    <itemref idref="html62"/>
+    <itemref idref="html61"/>
+    <itemref idref="html60"/>
+    <itemref idref="html59"/>
+    <itemref idref="html58"/>
+    <itemref idref="html57"/>
+    <itemref idref="html56"/>
+    <itemref idref="html55"/>
+    <itemref idref="html54"/>
+    <itemref idref="html53"/>
+    <itemref idref="html52"/>
+    <itemref idref="html51"/>
+    <itemref idref="html50"/>
+    <itemref idref="html49"/>
+    <itemref idref="html48"/>
+    <itemref idref="html47"/>
+    <itemref idref="html46"/>
+    <itemref idref="html45"/>
+    <itemref idref="html44"/>
+    <itemref idref="html43"/>
+    <itemref idref="html42"/>
+    <itemref idref="html41"/>
+    <itemref idref="html40"/>
+    <itemref idref="html39"/>
+    <itemref idref="html38"/>
+    <itemref idref="html37"/>
+    <itemref idref="html36"/>
+    <itemref idref="html35"/>
+    <itemref idref="html34"/>
+    <itemref idref="html33"/>
+    <itemref idref="html32"/>
+    <itemref idref="html31"/>
+    <itemref idref="html30"/>
+    <itemref idref="html29"/>
+    <itemref idref="html28"/>
+    <itemref idref="html27"/>
+    <itemref idref="html26"/>
+    <itemref idref="html25"/>
+    <itemref idref="html24"/>
+    <itemref idref="html23"/>
+    <itemref idref="html22"/>
+    <itemref idref="html21"/>
+    <itemref idref="html20"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

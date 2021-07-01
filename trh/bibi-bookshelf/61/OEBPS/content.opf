@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Sapiens</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Harari, Yuval Noah">Yuval Noah Harari</dc:creator>
+    <dc:date>2015-03-17T22:00:00+00:00</dc:date>
+    <dc:publisher>Kolektif Kitap</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p style="margin: 6px 0px;"&gt;Orta (hatta yüksek) öğrenimde bize servis edilen tarih derslerinden örnek bir paragraf:&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;"1914’te Saraybosna'da bir Sırp milliyetçisinin Arşidük Ferdinand'ı öldürmesi I. Dünya Savaşı'nı başlatan kıvılcım oldu. Almanya, Avusturya-Macaristan'ın yandaşı olarak Rusya'ya savaş ilan etti; Fransa da 1892'de imzaladığı İkili İttifak Antlaşması çerçevesinde Rusya'yı destekledi. Bunun üzerine Almanya, Fransa'ya da savaş ilan etti. Alman birlikleri Fransa'ya saldırmak için Belçika'ya girdi. 1839'da herhangi bir saldırı karşısında Belçika'ya yardım etmeye söz vermiş olan İngiltere, 4 Ağustos 1914'te Almanya'ya savaş ilan etti. Böylece I. Dünya Savaşı Avrupa'da başlamış oldu."&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;Sanırsın centilmenler kulübü. 80 yıl önce biri öbürüne “söz verdiği” için bir savaşa giriyor. O dönemin koşulları bu savaşı zorunlu kıldığı için değil de, söz verildiği için, ya da krallar padişahlar öyle uygun gördüğü için. Aynı dönemde neredeyse aynı anda tüm dev imparatorluklar parçalanıyor (Osmanlı, İngiliz, Rus, Avusturya-Macaristan, vs) ve içlerindeki etnik topluluklar ulus-devletlere dönüşüyor. O dönemin koşulları bunu zorunlu kıldığı için değil de, ulus mücadelesi veren topluluklar “hain” oldukları için.&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;İşin aslı, her devlet, tarihi aşağı yukarı bu şekilde öğretir. Öyle öğretmeye de mecburdur. Tarihin, doğanın yasalarına mahkum olduğunu, her devletin ya da ideolojinin (krallar ya da padişahlar ne yaparsa yapsın) yokolmayı tadacağı gerçeğini öğretirsen, ilelebet payidar kal(ma)acak bir yapı için şehit olmaya koşacak gençleri nasıl bulabilirsin?&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;Akademik düzeyde güçlü ve güvenilir tarih kitapları her zaman var oldu. Son dönemlerde akademik donanımı olmayan bizim gibiler için de, tarihi, kralların birbirini gelişigüzel takibeden kararları olarak değil de, neden-sonuç ilişkisi içerisinde gösteren (dolayısıyla zevkli) tarih kitapları görmeye başladık. Sapiens de bunlardan biri. Çok rahat okunan, oldukça eğlenceli bir kitap. Sadece tarih değil, felsefe, siyaset, bilim, hatta gelecek-bilim var kurgusunda. Fazla uzatmadan, okuyunca, feysbukumuzun mucidi Zuckerberg’in neden “dünyadaki herkes okumalı” dediğini anlayacaksınız &lt;span class="_47e3" title="smile ifade simgesi" style="font-family: helvetica, arial, sans-serif; font-size: 14px; color: rgb(29, 33, 41); line-height: 19.32px; background-color: rgb(255, 255, 255);"&gt;&lt;i class="img sp_fM-mz8spZ1b sx_5371b4" aria-hidden="1" style='display: inline-block; height: 16px; width: 16px; vertical-align: -3px; background-image: url("/rsrc.php/v3/yl/r/NtxfCiWWu4q.png"); background-size: auto; background-position: 0px -340px; background-repeat: no-repeat;'&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:identifier id="uuid">{0000702B-0DB6-7749-8327-123CF2EF55F1}</dc:identifier>
+    <dc:date opf:event="modification">2017-03-30</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>calibre_sam</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">698d1dea-8ea1-4964-8dd5-ab1a82268222</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="baslik.xhtml" href="Text/baslik.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ithaf.xhtml" href="Text/ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tes.xhtml" href="Text/tes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="I.xhtml" href="Text/I.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02t.xhtml" href="Text/02t.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02d.xhtml" href="Text/02d.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="II.xhtml" href="Text/II.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08t.xhtml" href="Text/08t.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08d.xhtml" href="Text/08d.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08p1.xhtml" href="Text/08p1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08d2.xhtml" href="Text/08d2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08p2.xhtml" href="Text/08p2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08d3.xhtml" href="Text/08d3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="III.xhtml" href="Text/III.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09.xhtml" href="Text/09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10.xhtml" href="Text/10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11.xhtml" href="Text/11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11t.xhtml" href="Text/11t.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11d.xhtml" href="Text/11d.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12.xhtml" href="Text/12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12t.xhtml" href="Text/12t.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12d.xhtml" href="Text/12d.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13.xhtml" href="Text/13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="IV.xhtml" href="Text/IV.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14.xhtml" href="Text/14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x15.xhtml" href="Text/15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x16.xhtml" href="Text/16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x17.xhtml" href="Text/17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x18.xhtml" href="Text/18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x19.xhtml" href="Text/19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20.xhtml" href="Text/20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="son.xhtml" href="Text/son.xhtml" media-type="application/xhtml+xml"/>
+    <item id="gorsel.xhtml" href="Text/gorsel.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnot.xhtml" href="Text/dipnot.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id79" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id78" href="Styles/main.css" media-type="text/css"/>
+    <item id="x01.jpg" href="Images/01.jpg" media-type="image/jpeg"/>
+    <item id="x001.png" href="Images/001.png" media-type="image/png"/>
+    <item id="x02.jpg" href="Images/02.jpg" media-type="image/jpeg"/>
+    <item id="x002.png" href="Images/002.png" media-type="image/png"/>
+    <item id="x003.png" href="Images/003.png" media-type="image/png"/>
+    <item id="x04.jpg" href="Images/04.jpg" media-type="image/jpeg"/>
+    <item id="x004.png" href="Images/004.png" media-type="image/png"/>
+    <item id="x05.jpg" href="Images/05.jpg" media-type="image/jpeg"/>
+    <item id="x06.jpg" href="Images/06.jpg" media-type="image/jpeg"/>
+    <item id="x07.jpg" href="Images/07.jpg" media-type="image/jpeg"/>
+    <item id="x09.jpg" href="Images/09.jpg" media-type="image/jpeg"/>
+    <item id="x10.jpg" href="Images/10.jpg" media-type="image/jpeg"/>
+    <item id="x11.jpg" href="Images/11.jpg" media-type="image/jpeg"/>
+    <item id="x13.jpg" href="Images/13.jpg" media-type="image/jpeg"/>
+    <item id="x14.jpg" href="Images/14.jpg" media-type="image/jpeg"/>
+    <item id="x16.jpg" href="Images/16.jpg" media-type="image/jpeg"/>
+    <item id="x17.jpg" href="Images/17.jpg" media-type="image/jpeg"/>
+    <item id="x18.jpg" href="Images/18.jpg" media-type="image/jpeg"/>
+    <item id="x19.jpg" href="Images/19.jpg" media-type="image/jpeg"/>
+    <item id="x23.jpg" href="Images/23.jpg" media-type="image/jpeg"/>
+    <item id="x25.jpg" href="Images/25.jpg" media-type="image/jpeg"/>
+    <item id="x26.jpg" href="Images/26.jpg" media-type="image/jpeg"/>
+    <item id="x30.jpg" href="Images/30.jpg" media-type="image/jpeg"/>
+    <item id="x31.jpg" href="Images/31.jpg" media-type="image/jpeg"/>
+    <item id="x32.jpg" href="Images/32.jpg" media-type="image/jpeg"/>
+    <item id="x40.jpg" href="Images/40.jpg" media-type="image/jpeg"/>
+    <item id="x41.jpg" href="Images/41.jpg" media-type="image/jpeg"/>
+    <item id="x45.jpg" href="Images/45.jpg" media-type="image/jpeg"/>
+    <item id="x46.jpg" href="Images/46.jpg" media-type="image/jpeg"/>
+    <item id="x47.jpg" href="Images/47.jpg" media-type="image/jpeg"/>
+    <item id="x53.jpg" href="Images/53.jpg" media-type="image/jpeg"/>
+    <item id="x54.jpg" href="Images/54.jpg" media-type="image/jpeg"/>
+    <item id="x57.jpg" href="Images/57.jpg" media-type="image/jpeg"/>
+    <item id="x58.jpg" href="Images/58.jpg" media-type="image/jpeg"/>
+    <item id="x62.jpg" href="Images/62.jpg" media-type="image/jpeg"/>
+    <item id="x63.jpg" href="Images/63.jpg" media-type="image/jpeg"/>
+    <item id="x69.jpg" href="Images/69.jpg" media-type="image/jpeg"/>
+    <item id="x70.jpg" href="Images/70.jpg" media-type="image/jpeg"/>
+    <item id="kolektif.jpg" href="Images/kolektif.jpg" media-type="image/jpeg"/>
+    <item id="id1" href="Images/main-1.jpg" media-type="image/jpeg"/>
+    <item id="id19" href="Images/main-19.jpg" media-type="image/jpeg"/>
+    <item id="id22" href="Images/main-22.jpg" media-type="image/jpeg"/>
+    <item id="id26" href="Images/main-26.jpg" media-type="image/jpeg"/>
+    <item id="id29" href="Images/main-29.jpg" media-type="image/jpeg"/>
+    <item id="id30" href="Images/main-30.jpg" media-type="image/jpeg"/>
+    <item id="id31" href="Images/main-31.jpg" media-type="image/jpeg"/>
+    <item id="id37" href="Images/main-37.jpg" media-type="image/jpeg"/>
+    <item id="id40" href="Images/main-40.jpg" media-type="image/jpeg"/>
+    <item id="main-47.jpg" href="Images/main-47.jpg" media-type="image/jpeg"/>
+    <item id="main-48.jpg" href="Images/main-48.jpg" media-type="image/jpeg"/>
+    <item id="main-51.png" href="Images/main-51.png" media-type="image/png"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id79">
+    <itemref idref="titlepage"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="baslik.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="tes.xhtml"/>
+    <itemref idref="I.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x02t.xhtml"/>
+    <itemref idref="x02d.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="II.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x08t.xhtml"/>
+    <itemref idref="x08d.xhtml"/>
+    <itemref idref="x08p1.xhtml"/>
+    <itemref idref="x08d2.xhtml"/>
+    <itemref idref="x08p2.xhtml"/>
+    <itemref idref="x08d3.xhtml"/>
+    <itemref idref="III.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x11t.xhtml"/>
+    <itemref idref="x11d.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x12t.xhtml"/>
+    <itemref idref="x12d.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="IV.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="x17.xhtml"/>
+    <itemref idref="x18.xhtml"/>
+    <itemref idref="x19.xhtml"/>
+    <itemref idref="x20.xhtml"/>
+    <itemref idref="son.xhtml"/>
+    <itemref idref="gorsel.xhtml"/>
+    <itemref idref="dipnot.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

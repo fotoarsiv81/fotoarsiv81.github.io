@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="4cf03e52-23de-4865-84fc-e0ad6e629686" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kısa Türkiye Tarihi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="e4fcc843-a6f9-483a-92ef-342388abc7ab" playOrder="1">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="Text/tarih_split_002.html"/>
+      <navPoint id="c6efb469-ae6d-41c4-aa66-6cf3846314e0" playOrder="2">
+        <navLabel>
+          <text>I Osmanlı Devleti’ne Kadar Türkler</text>
+        </navLabel>
+        <content src="Text/tarih_split_002.html#calibre_toc_7"/>
+        <navPoint id="8add646b-93be-4eaa-b117-3d839cb59395" playOrder="3">
+          <navLabel>
+            <text>Türklerin Üç Yurdu</text>
+          </navLabel>
+          <content src="Text/tarih_split_002.html#calibre_toc_41"/>
+        </navPoint>
+        <navPoint id="c923e6fa-ae90-4d2b-ab55-9675dad01720" playOrder="4">
+          <navLabel>
+            <text>Tarih Çağları Üzerine bir Not</text>
+          </navLabel>
+          <content src="Text/tarih_split_002.html#calibre_toc_42"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="287172da-7569-4c2b-b92d-4fa39b5d0e6e" playOrder="5">
+        <navLabel>
+          <text>II Klasik Osmanlı Toplum Düzeni</text>
+        </navLabel>
+        <content src="Text/tarih_split_002.html#calibre_toc_8"/>
+      </navPoint>
+      <navPoint id="8c593dc8-26fe-4014-8eaa-4e52c6c47229" playOrder="6">
+        <navLabel>
+          <text>III Klasik Osmanlı Düzeninin Değişimi</text>
+        </navLabel>
+        <content src="Text/tarih_split_002.html#calibre_toc_9"/>
+      </navPoint>
+      <navPoint id="a5c000db-6a09-4544-b67a-ea0aedc776bd" playOrder="7">
+        <navLabel>
+          <text>IV Osmanlı-Türk Kültür Hayatının Bazı Sorunları</text>
+        </navLabel>
+        <content src="Text/tarih_split_002.html#calibre_toc_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="456fcdbc-d33e-4416-8402-8bf4e311d5d3" playOrder="8">
+      <navLabel>
+        <text>HASTA BİR İMPARATORLUK</text>
+      </navLabel>
+      <content src="Text/tarih_split_003.html"/>
+      <navPoint id="2d447537-4007-4378-9b14-a00e141acded" playOrder="9">
+        <navLabel>
+          <text>V Tanzimat’a Doğru</text>
+        </navLabel>
+        <content src="Text/tarih_split_003.html#calibre_toc_11"/>
+        <navPoint id="73ae66c3-f592-46d3-9cf9-98a234686e0b" playOrder="10">
+          <navLabel>
+            <text>Sened-i İttifak</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_43"/>
+        </navPoint>
+        <navPoint id="0bba601c-ea9e-49ea-8a88-ec869c33a9a4" playOrder="11">
+          <navLabel>
+            <text>Yunan İhtilali, Mısır Sorunu</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_44"/>
+        </navPoint>
+        <navPoint id="a25d3b65-6062-4954-af29-0277857fb2ff" playOrder="12">
+          <navLabel>
+            <text>1838 Antlaşması</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_45"/>
+        </navPoint>
+        <navPoint id="816febbf-2e4a-4f14-8f1a-f5b7e6b77557" playOrder="13">
+          <navLabel>
+            <text>Tanzimat Fermanı</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_46"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="262438ed-6047-457b-84ff-5a6fc19e79ad" playOrder="14">
+        <navLabel>
+          <text>VI Islahat Fermanı ve Yeni Osmanlılar</text>
+        </navLabel>
+        <content src="Text/tarih_split_003.html#calibre_toc_12"/>
+        <navPoint id="724bd95f-3f4e-4ce0-bd6c-77be8042c00f" playOrder="15">
+          <navLabel>
+            <text>Yeni Osmanlılar</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_47"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="0382e3be-2649-4561-a4df-852bdf087ef7" playOrder="16">
+        <navLabel>
+          <text>VII Birinci Meşrutiyet ve Büyük Bunalım</text>
+        </navLabel>
+        <content src="Text/tarih_split_003.html#calibre_toc_13"/>
+        <navPoint id="e24daba3-78e7-4024-a4ad-314584c33523" playOrder="17">
+          <navLabel>
+            <text>Tersane Konferansı</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_48"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="4d76baa0-d098-4db3-b1d5-6ccaa6962656" playOrder="18">
+        <navLabel>
+          <text>VIII Abdülhamit Dönemi</text>
+        </navLabel>
+        <content src="Text/tarih_split_003.html#calibre_toc_14"/>
+        <navPoint id="ec00587b-24e8-4715-80ba-4d9bea171bc8" playOrder="19">
+          <navLabel>
+            <text>İttihad-ı Osmani Cemiyeti</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_49"/>
+        </navPoint>
+        <navPoint id="6bfb1f51-0260-4201-9db1-d392a06f9877" playOrder="20">
+          <navLabel>
+            <text>Ermeni Hareketi</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_50"/>
+        </navPoint>
+        <navPoint id="81ad799f-8ef1-41cc-94a1-463b77829eac" playOrder="21">
+          <navLabel>
+            <text>Ahmet Rıza ve Pozitivizm</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_51"/>
+        </navPoint>
+        <navPoint id="13d02203-d036-4bee-8146-2382f7914116" playOrder="22">
+          <navLabel>
+            <text>Prens Sabahattin</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_52"/>
+        </navPoint>
+        <navPoint id="f012b729-0b78-4928-8bf2-ab1a16eef87f" playOrder="23">
+          <navLabel>
+            <text>Japon-Rus Savaşı</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_53"/>
+        </navPoint>
+        <navPoint id="8d15b24b-a354-41fc-8e9f-9c97c24143ab" playOrder="24">
+          <navLabel>
+            <text>Makedonya Sorunu</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_54"/>
+        </navPoint>
+        <navPoint id="732f464b-6bcd-4ff5-9cf9-8c7f192a2258" playOrder="25">
+          <navLabel>
+            <text>Hürriyetin İlanı</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_55"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="d49718d9-74fe-4c48-8358-6014621463fd" playOrder="26">
+        <navLabel>
+          <text>IX İttihat ve Terakki’nin Yapı Özellikleri, 31 Mart Olayı</text>
+        </navLabel>
+        <content src="Text/tarih_split_003.html#calibre_toc_15"/>
+        <navPoint id="73eb1bba-4f45-4efc-ad9d-6957988d0abf" playOrder="27">
+          <navLabel>
+            <text>31 Mart Ayaklanması</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_56"/>
+        </navPoint>
+        <navPoint id="a5f85200-7a07-43c0-aa42-d3cdaaf303da" playOrder="28">
+          <navLabel>
+            <text>İsyanın Bastırılması</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_57"/>
+        </navPoint>
+        <navPoint id="77e71bfd-dae4-46b2-a383-5f19786c53c5" playOrder="29">
+          <navLabel>
+            <text>İT’nin Bazı Özellikleri</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_58"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="f81bce4e-2fe9-4de0-9ef3-1cc00dbb0636" playOrder="30">
+        <navLabel>
+          <text>X İttihat ve Terakki’nin Denetleme İktidarı</text>
+        </navLabel>
+        <content src="Text/tarih_split_003.html#calibre_toc_16"/>
+        <navPoint id="41d33945-8236-4218-942a-a826fbf8af4b" playOrder="31">
+          <navLabel>
+            <text>Trablusgarp Savaşı</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_59"/>
+        </navPoint>
+        <navPoint id="718dbe78-fd5b-4361-bd20-f01262031cf2" playOrder="32">
+          <navLabel>
+            <text>Sopalı Seçimler</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_60"/>
+        </navPoint>
+        <navPoint id="74d0e0e1-9254-40f9-ae41-0accd09c315a" playOrder="33">
+          <navLabel>
+            <text>I. Balkan Savaşı</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_61"/>
+        </navPoint>
+        <navPoint id="986f1e5c-2f5b-4143-b8ee-a479c11bed3b" playOrder="34">
+          <navLabel>
+            <text>Babıâli Baskını</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_62"/>
+        </navPoint>
+        <navPoint id="280ed223-76a4-48dc-addc-a4298c9dba98" playOrder="35">
+          <navLabel>
+            <text>Denetleme İktidarı Döneminin Bilançosu</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_63"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="86f2da6e-d668-4000-94ac-37e2f206ad84" playOrder="36">
+        <navLabel>
+          <text>XI İkinci Meşrutiyet Döneminde Başlıca Düşünce Akımları</text>
+        </navLabel>
+        <content src="Text/tarih_split_003.html#calibre_toc_17"/>
+        <navPoint id="2d099842-ec53-43c8-854e-6019a5a94b7a" playOrder="37">
+          <navLabel>
+            <text>İslamcılık</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_64"/>
+        </navPoint>
+        <navPoint id="9c213f0e-9470-4738-b65d-db80f221eee9" playOrder="38">
+          <navLabel>
+            <text>Garpçılık</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_65"/>
+        </navPoint>
+        <navPoint id="c02d6c1f-9b93-41a5-a3f0-af87489ede94" playOrder="39">
+          <navLabel>
+            <text>Türkçülük</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_66"/>
+        </navPoint>
+        <navPoint id="824f5faf-0b2e-4bb4-830b-b46658777d2d" playOrder="40">
+          <navLabel>
+            <text>Sosyalizm</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_67"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="77be9804-2156-43bb-b23f-461da652e95a" playOrder="41">
+        <navLabel>
+          <text>XII İttihat ve Terakki’nin Tam İktidarı ve Birinci Dünya Savaşı’na Giriş</text>
+        </navLabel>
+        <content src="Text/tarih_split_003.html#calibre_toc_18"/>
+        <navPoint id="7ee8c32d-db77-479e-a64b-3552af9362c8" playOrder="42">
+          <navLabel>
+            <text>II. Balkan Savaşı</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_68"/>
+        </navPoint>
+        <navPoint id="3bfe63ef-0674-45cf-99f5-eaf21f60412d" playOrder="43">
+          <navLabel>
+            <text>Osmanlı Ülkesinin Paylaşılması</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_69"/>
+        </navPoint>
+        <navPoint id="9a75d695-ef15-4869-bfa2-d1d72dbac63b" playOrder="44">
+          <navLabel>
+            <text>I. Dünya Savaşı</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_70"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="0d651445-5042-4f39-9775-ea3cdeb0d88a" playOrder="45">
+        <navLabel>
+          <text>XIII Tam Bağımsızlık Mücadelesi</text>
+        </navLabel>
+        <content src="Text/tarih_split_003.html#calibre_toc_19"/>
+        <navPoint id="dd79702d-dca5-4586-a95e-e9d4d18f5fc1" playOrder="46">
+          <navLabel>
+            <text>Kapitalistleşmenin Geliştirilmesi</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_71"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="08bf5e4b-0ef4-4cd3-ae0e-a2d691dee900" playOrder="47">
+        <navLabel>
+          <text>XIV Birinci Dünya Savaşı’nda Yaşananlar</text>
+        </navLabel>
+        <content src="Text/tarih_split_003.html#calibre_toc_20"/>
+        <navPoint id="6cc6a57a-acc5-4b5d-bae7-c0d741091865" playOrder="48">
+          <navLabel>
+            <text>Savaşın Ana Olayları</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_72"/>
+        </navPoint>
+        <navPoint id="a18f54ae-06b9-490d-a384-5af81a51fcff" playOrder="49">
+          <navLabel>
+            <text>Ermeni Tehciri</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_73"/>
+        </navPoint>
+        <navPoint id="9b954afe-2a48-4a78-8821-a4756d5ae5ca" playOrder="50">
+          <navLabel>
+            <text>Savaş Sırasında Toplumsal Değişmeler</text>
+          </navLabel>
+          <content src="Text/tarih_split_003.html#calibre_toc_74"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="33e842db-a568-4bdd-a8f9-e7c6d1324837" playOrder="51">
+      <navLabel>
+        <text>ATATÜRK DÖNEMİ</text>
+      </navLabel>
+      <content src="Text/tarih_split_004.html"/>
+      <navPoint id="1d1aa61b-0ab6-4bf1-b229-0f865b7b4afb" playOrder="52">
+        <navLabel>
+          <text>XV Savaşın Sonu ve Mütareke</text>
+        </navLabel>
+        <content src="Text/tarih_split_004.html#calibre_toc_21"/>
+        <navPoint id="36c32abe-bdcc-4de0-9875-024dffe49e7e" playOrder="53">
+          <navLabel>
+            <text>Cephede Yenilgi</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_75"/>
+        </navPoint>
+        <navPoint id="ccf1c759-773d-4bff-a149-a80671de6c6f" playOrder="54">
+          <navLabel>
+            <text>İzzet Paşa Hükümeti</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_76"/>
+        </navPoint>
+        <navPoint id="ff77267a-d749-499a-8774-eee6dea5ad2f" playOrder="55">
+          <navLabel>
+            <text>Sarayın Hesapları</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_77"/>
+        </navPoint>
+        <navPoint id="1fced53d-982b-4730-827d-dfb3119d3b66" playOrder="56">
+          <navLabel>
+            <text>Mondros Mütarekesi (Bırakışması)</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_78"/>
+        </navPoint>
+        <navPoint id="7139d7d4-5c14-4512-a36b-bb58b15cc392" playOrder="57">
+          <navLabel>
+            <text>Mustafa Kemal İstanbul’da</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_79"/>
+        </navPoint>
+        <navPoint id="16baaca5-89b3-4c38-b764-3ea09f280172" playOrder="58">
+          <navLabel>
+            <text>İzmir’in İşgali</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_80"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="7427c6cd-1a42-49aa-b3cb-3cd4b548eadb" playOrder="59">
+        <navLabel>
+          <text>XVI Samsun’a Çıkıştan Damat Ferit Hükümetinin Düşmesine</text>
+        </navLabel>
+        <content src="Text/tarih_split_004.html#calibre_toc_22"/>
+        <navPoint id="9afa6257-6a07-4c92-99f1-feb3fbd72bf3" playOrder="60">
+          <navLabel>
+            <text>Amasya Tamimi</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_81"/>
+        </navPoint>
+        <navPoint id="9f1b722c-5f77-4500-8111-97391bdd1685" playOrder="61">
+          <navLabel>
+            <text>Damat Ferit Barış Konferansı’nda</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_82"/>
+        </navPoint>
+        <navPoint id="5d02b8e8-8886-4f9f-a32c-0ab2777749fd" playOrder="62">
+          <navLabel>
+            <text>Erzurum Kongresi</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_83"/>
+        </navPoint>
+        <navPoint id="7da8b4a6-7e01-4a4e-b2bf-87aaf5ea9d98" playOrder="63">
+          <navLabel>
+            <text>Sivas Kongresi</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_84"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="61713c80-5c8a-4b0b-b63f-f31d1a6cb84a" playOrder="64">
+        <navLabel>
+          <text>XVII Üçüncü Meşrutiyet</text>
+        </navLabel>
+        <content src="Text/tarih_split_004.html#calibre_toc_23"/>
+        <navPoint id="38958f65-f6a7-4ef2-8220-8314dd491cee" playOrder="65">
+          <navLabel>
+            <text>Misak-ı Milli</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_85"/>
+        </navPoint>
+        <navPoint id="52e9c96c-e926-476c-a3de-c9b7d8f7aa07" playOrder="66">
+          <navLabel>
+            <text>İstanbul İşgalinin Şiddetlendirilmesi</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_86"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="dd40c47e-9cb1-494e-832f-218337eb59f1" playOrder="67">
+        <navLabel>
+          <text>XVIII TBMM’nin Kurulması, İç Savaş ve Sevr Antlaşması</text>
+        </navLabel>
+        <content src="Text/tarih_split_004.html#calibre_toc_24"/>
+        <navPoint id="83842b5b-1bbe-4734-b801-dae025300ef8" playOrder="68">
+          <navLabel>
+            <text>İç Savaş</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_87"/>
+        </navPoint>
+        <navPoint id="2573452d-1041-48e1-bcac-3e7f769ec382" playOrder="69">
+          <navLabel>
+            <text>Sevr Antlaşması</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_88"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="e37ea5e0-6733-4734-8056-1602d95b3575" playOrder="70">
+        <navLabel>
+          <text>XIX Düzenli Ordunun Zafer Yolu</text>
+        </navLabel>
+        <content src="Text/tarih_split_004.html#calibre_toc_25"/>
+        <navPoint id="23975714-3b4d-4e93-8d7a-4d791a923996" playOrder="71">
+          <navLabel>
+            <text>Yunanistan’da Olup Bitenler</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_89"/>
+        </navPoint>
+        <navPoint id="1a9cd180-db86-4d05-bcf2-95c626680c93" playOrder="72">
+          <navLabel>
+            <text>I. İnönü Zaferi ve Sonuçları</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_90"/>
+        </navPoint>
+        <navPoint id="8fa2d496-01c7-4038-805f-6ed4c6b8f6b3" playOrder="73">
+          <navLabel>
+            <text>Sakarya Meydan Muharebesi ve Sonuçları</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_91"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="e32957bc-41ba-4cd2-b493-814a0733975c" playOrder="74">
+        <navLabel>
+          <text>XX Büyük Zafer ve Saltanatın Kaldırılması</text>
+        </navLabel>
+        <content src="Text/tarih_split_004.html#calibre_toc_26"/>
+        <navPoint id="088c36c9-39ac-4bf6-a1cb-7abe5472d5c3" playOrder="75">
+          <navLabel>
+            <text>Barış Girişimleri</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_92"/>
+        </navPoint>
+        <navPoint id="0bc115c5-c3fb-4104-a7ed-6697ae74a046" playOrder="76">
+          <navLabel>
+            <text>Büyük Taarruz ve Zafer</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_93"/>
+        </navPoint>
+        <navPoint id="d244af36-7694-49ab-805c-09c9496f8f85" playOrder="77">
+          <navLabel>
+            <text>Mudanya Mütarekesi</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_94"/>
+        </navPoint>
+        <navPoint id="d9271ec7-96ce-4d6b-b976-254f5a4fc143" playOrder="78">
+          <navLabel>
+            <text>Saltanatın Kaldırılması</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_95"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="7a706082-d595-4855-a70d-bad4a4ea94f3" playOrder="79">
+        <navLabel>
+          <text>XXI Lozan Antlaşması ve Cumhuriyet’in İlanı</text>
+        </navLabel>
+        <content src="Text/tarih_split_004.html#calibre_toc_27"/>
+        <navPoint id="99a8d710-9435-4183-9e18-87580969b7db" playOrder="80">
+          <navLabel>
+            <text>Lozan Konferansı</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_96"/>
+        </navPoint>
+        <navPoint id="4f34101e-5a53-4719-9449-c9d346ffc2e9" playOrder="81">
+          <navLabel>
+            <text>İzmir İktisat Kongresi</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_97"/>
+        </navPoint>
+        <navPoint id="a9659884-d727-4019-b69a-7682224ab7f9" playOrder="82">
+          <navLabel>
+            <text>Lozan Barış Antlaşması</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_98"/>
+        </navPoint>
+        <navPoint id="9ecd62a9-e0d9-45b9-86eb-b892d07b483b" playOrder="83">
+          <navLabel>
+            <text>Cumhuriyetin Kurulması</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_99"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="2e556b45-8820-4cab-b169-b5964f6c418d" playOrder="84">
+        <navLabel>
+          <text>XXII Hilafetin Kaldırılması ve Laiklik</text>
+        </navLabel>
+        <content src="Text/tarih_split_004.html#calibre_toc_28"/>
+        <navPoint id="5d3b0492-2097-431d-88ec-5895cacfab64" playOrder="85">
+          <navLabel>
+            <text>Hilafetin Kaldırılması</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_100"/>
+        </navPoint>
+        <navPoint id="36c02788-e3b5-4956-af34-eb5aa85a6bbb" playOrder="86">
+          <navLabel>
+            <text>Laikleşme Süreci</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_101"/>
+        </navPoint>
+        <navPoint id="7e921ad0-2fb7-4afc-ba63-dac8195521f3" playOrder="87">
+          <navLabel>
+            <text>Laiklik Nedir?</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_102"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="6d1f9513-a9ae-4429-9a4e-c7c469daaad3" playOrder="88">
+        <navLabel>
+          <text>XXIII Devrim Yolu ve Karşı-Devrim Girişimleri</text>
+        </navLabel>
+        <content src="Text/tarih_split_004.html#calibre_toc_29"/>
+        <navPoint id="dcac95a7-198d-4598-b897-25079bcf7837" playOrder="89">
+          <navLabel>
+            <text>1924 Anayasası</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_103"/>
+        </navPoint>
+        <navPoint id="02ceee76-3e6d-4ffb-af7e-41090acb881c" playOrder="90">
+          <navLabel>
+            <text>Terakkiperver Cumhuriyet Fırkası</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_104"/>
+        </navPoint>
+        <navPoint id="73f5253e-9eb7-44f1-98d9-b2113d996f85" playOrder="91">
+          <navLabel>
+            <text>Şeyh Sait Ayaklanması</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_105"/>
+        </navPoint>
+        <navPoint id="4b8d585e-b1c0-4fc2-a9dd-18d2ecbfcf5e" playOrder="92">
+          <navLabel>
+            <text>Şapka Devrimi</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_106"/>
+        </navPoint>
+        <navPoint id="2be76ffa-c7e3-4aa1-9faa-a4d0dee60b8a" playOrder="93">
+          <navLabel>
+            <text>Atatürk’e Suikast Girişimleri</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_107"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="114cc3e2-fb8c-471c-bee8-f88a20024435" playOrder="94">
+        <navLabel>
+          <text>XXIV Kültür Devrimi Ön Düzleme Geçiyor</text>
+        </navLabel>
+        <content src="Text/tarih_split_004.html#calibre_toc_30"/>
+        <navPoint id="65b327c4-bc50-488c-ad02-f53d1db8a951" playOrder="95">
+          <navLabel>
+            <text>Yazı Devrimi</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_108"/>
+        </navPoint>
+        <navPoint id="f28b495b-df52-4f22-9e5b-9df4a0d68345" playOrder="96">
+          <navLabel>
+            <text>Çok-Partili Siyaset Denemesi</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_109"/>
+        </navPoint>
+        <navPoint id="74d03187-0640-4a9c-aadc-86154148d9cf" playOrder="97">
+          <navLabel>
+            <text>Halkevleri ve Halkodaları</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_110"/>
+        </navPoint>
+        <navPoint id="c6fd13fb-6139-414b-9a28-4eb4a3066dd3" playOrder="98">
+          <navLabel>
+            <text>Tarih Çalışmaları</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_111"/>
+        </navPoint>
+        <navPoint id="e35f6d27-7193-4605-b67f-52c948ba3c61" playOrder="99">
+          <navLabel>
+            <text>Dil Devrimi</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_112"/>
+        </navPoint>
+        <navPoint id="3647ed58-996c-41e3-bb37-7abc9b48340d" playOrder="100">
+          <navLabel>
+            <text>Üniversite</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_113"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="02c6a4e7-ccca-4d22-be7f-d67c2f12362e" playOrder="101">
+        <navLabel>
+          <text>XXV Siyaset ve İktisatta Gelişmeler</text>
+        </navLabel>
+        <content src="Text/tarih_split_004.html#calibre_toc_31"/>
+        <navPoint id="39e65ed0-d328-4bfd-bc13-b2875d148fd5" playOrder="102">
+          <navLabel>
+            <text>Dergiler ve İdeoloji</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_114"/>
+        </navPoint>
+        <navPoint id="eaac7978-f04f-4ead-ac70-7008cf432414" playOrder="103">
+          <navLabel>
+            <text>Dış Siyaset</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_115"/>
+        </navPoint>
+        <navPoint id="2515ea49-2e1a-4745-9ceb-c2c9b9a60b47" playOrder="104">
+          <navLabel>
+            <text>İktisat Siyaseti</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_116"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="4d50fb66-40cf-4116-86c2-84283e0ce0db" playOrder="105">
+        <navLabel>
+          <text>XXVI Atatürk’ü ve Devrimini Değerlendirmek</text>
+        </navLabel>
+        <content src="Text/tarih_split_004.html#calibre_toc_32"/>
+        <navPoint id="66c52a68-06d7-4096-8371-3478fe63d5c2" playOrder="106">
+          <navLabel>
+            <text>Felsefi Bakımdan Atatürk Devrimi</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_117"/>
+        </navPoint>
+        <navPoint id="690ce259-4563-41f8-a568-30c694091c20" playOrder="107">
+          <navLabel>
+            <text>Kalkınma Modeli Olarak Atatürkçülük</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_118"/>
+        </navPoint>
+        <navPoint id="a39836b3-53f3-4573-9db2-34b7e188f38b" playOrder="108">
+          <navLabel>
+            <text>İdeolojik Bakımdan Atatürkçülük (6 Ok)</text>
+          </navLabel>
+          <content src="Text/tarih_split_004.html#calibre_toc_119"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="56df1bbd-38bd-4548-b490-24cc24ba7134" playOrder="109">
+      <navLabel>
+        <text>İNÖNÜ VE ÇOK-PARTİLİ DÖNEM</text>
+      </navLabel>
+      <content src="Text/tarih_split_005.html"/>
+      <navPoint id="47cfc1fd-f67f-426d-8325-55a0bef2ac20" playOrder="110">
+        <navLabel>
+          <text>XXVII İkinci Dünya Savaşı Öncesi ve Savaş Yılları</text>
+        </navLabel>
+        <content src="Text/tarih_split_005.html#calibre_toc_33"/>
+        <navPoint id="1e2f569e-876a-4926-8898-9d14647dea16" playOrder="111">
+          <navLabel>
+            <text>İnönü’nün Cumhurbaşkanlığı</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_120"/>
+        </navPoint>
+        <navPoint id="360132bf-53ed-4d2c-86e6-fdc1f94ab7bf" playOrder="112">
+          <navLabel>
+            <text>II. Dünya Savaşı</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_121"/>
+        </navPoint>
+        <navPoint id="e6a0b3c6-c202-438b-97ff-12a03dba60d5" playOrder="113">
+          <navLabel>
+            <text>İktisat Siyaseti</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_122"/>
+        </navPoint>
+        <navPoint id="e9c79705-5331-4d16-a9b4-6974fdfe1390" playOrder="114">
+          <navLabel>
+            <text>Köy Enstitüleri</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_123"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="6479330d-13d5-4bdf-8035-95d8824cf780" playOrder="115">
+        <navLabel>
+          <text>XXVIII İnönü Çok-Partili Dizgeyi Kuruyor</text>
+        </navLabel>
+        <content src="Text/tarih_split_005.html#calibre_toc_34"/>
+        <navPoint id="7b7a9725-d3bc-4f43-a5cf-3a8d90fdfdb1" playOrder="116">
+          <navLabel>
+            <text>Uluslararası Ortam</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_124"/>
+        </navPoint>
+        <navPoint id="2c32af12-26dc-4659-8c67-87c0cb2e98e3" playOrder="117">
+          <navLabel>
+            <text>Çok-Partili Dizgeye Geçiş</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_125"/>
+        </navPoint>
+        <navPoint id="03af77eb-258a-49b7-ac17-8a9f6d486aec" playOrder="118">
+          <navLabel>
+            <text>Demokrat Parti’nin Kuruluşu</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_126"/>
+        </navPoint>
+        <navPoint id="fdd471b7-4d04-4bb8-8260-2f2e51d5cc9b" playOrder="119">
+          <navLabel>
+            <text>1946 Seçimlerinden Sonra</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_127"/>
+        </navPoint>
+        <navPoint id="699e780f-94b3-4fa5-856a-964e9d1010d6" playOrder="120">
+          <navLabel>
+            <text>Günaltay Hükümeti</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_128"/>
+        </navPoint>
+        <navPoint id="d687f33d-be8c-401f-a8b7-0d94d8b8e23d" playOrder="121">
+          <navLabel>
+            <text>İnönü Dönemi Değerlendirmesi</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_129"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="9663cd84-1db6-49b6-b525-9dfe4488094f" playOrder="122">
+        <navLabel>
+          <text>XXIX Demokrat Parti Dönemi</text>
+        </navLabel>
+        <content src="Text/tarih_split_005.html#calibre_toc_35"/>
+        <navPoint id="31fd559d-36c9-4ca5-93db-674f77ba0ed1" playOrder="123">
+          <navLabel>
+            <text>DP Hükümetinin İlk Başarıları ve Baskı Önlemleri</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_130"/>
+        </navPoint>
+        <navPoint id="89057859-75d6-4c1d-accd-19cb6c5aadf1" playOrder="124">
+          <navLabel>
+            <text>Kıbrıs Sorunu</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_131"/>
+        </navPoint>
+        <navPoint id="1e282f7c-559a-4c60-8053-a75f67db26bd" playOrder="125">
+          <navLabel>
+            <text>1957 Seçimleri ve DP’nin Demokrasiden Sapması</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_132"/>
+        </navPoint>
+        <navPoint id="21ca9927-59c5-4be6-b60c-0a5af88b7bd3" playOrder="126">
+          <navLabel>
+            <text>27 Mayıs Darbesine Doğru</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_133"/>
+        </navPoint>
+        <navPoint id="78d92eb8-6ee4-48c8-8f42-c7fded31fd1e" playOrder="127">
+          <navLabel>
+            <text>Milli Birlik Komitesi ve Bazı Değerlendirmeler</text>
+          </navLabel>
+          <content src="Text/tarih_split_005.html#calibre_toc_134"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="0ec9e6f2-e57f-4181-ac2c-5d98b9b11213" playOrder="128">
+      <navLabel>
+        <text>1960 SONRASI</text>
+      </navLabel>
+      <content src="Text/tarih_split_006.html"/>
+      <navPoint id="56ae016a-c354-4e54-a03a-1c06c9a044e2" playOrder="129">
+        <navLabel>
+          <text>XXX 27 Mayıs 1960 ve Sonrası</text>
+        </navLabel>
+        <content src="Text/tarih_split_006.html#calibre_toc_36"/>
+      </navPoint>
+      <navPoint id="68403132-cbe2-4896-81a3-08d9c553b900" playOrder="130">
+        <navLabel>
+          <text>XXXI 80’li Yıllar</text>
+        </navLabel>
+        <content src="Text/tarih_split_006.html#calibre_toc_37"/>
+        <navPoint id="e9fa4a60-2b99-49a6-8ea5-6ed81f7a5219" playOrder="131">
+          <navLabel>
+            <text>12 Eylül Darbesi</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_135"/>
+        </navPoint>
+        <navPoint id="1ce6d112-1829-4fd3-8c48-8d54663e3954" playOrder="132">
+          <navLabel>
+            <text>Parti Yaşamına İzin</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_136"/>
+        </navPoint>
+        <navPoint id="d8115a19-5eb3-4e80-a8ad-597bce156359" playOrder="133">
+          <navLabel>
+            <text>1980’lerin Ekonomisi</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_137"/>
+        </navPoint>
+        <navPoint id="f9ef7fc2-77f2-46a7-8095-511343c21203" playOrder="134">
+          <navLabel>
+            <text>Dış Siyaset</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_138"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="c7b287bd-724d-4293-a620-9f4aef132f18" playOrder="135">
+        <navLabel>
+          <text>XXXII 90’lı Yıllar</text>
+        </navLabel>
+        <content src="Text/tarih_split_006.html#calibre_toc_38"/>
+        <navPoint id="eba13163-c281-42dd-9dca-e9d834116cb6" playOrder="136">
+          <navLabel>
+            <text>Körfez Savaşı</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_139"/>
+        </navPoint>
+        <navPoint id="718ba46d-e251-44ae-bd69-17698d3610f9" playOrder="137">
+          <navLabel>
+            <text>20 Ekim 1991 Seçimleri</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_140"/>
+        </navPoint>
+        <navPoint id="a6d6e7e8-7d6b-4057-9fb8-8b21ebf82cb5" playOrder="138">
+          <navLabel>
+            <text>Demirel’in Cumhurbaşkanlığı, Çiller’in Başbakanlığı</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_141"/>
+        </navPoint>
+        <navPoint id="f545d588-76cb-4d8a-a29e-310f3064c280" playOrder="139">
+          <navLabel>
+            <text>Erbakan-Çiller Hükümeti</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_142"/>
+        </navPoint>
+        <navPoint id="be4af1a9-d6c0-4605-8104-c0766941eeb6" playOrder="140">
+          <navLabel>
+            <text>Ordu Müdahale Ediyor</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_143"/>
+        </navPoint>
+        <navPoint id="e618c06f-f307-4915-8141-799e22ba1fb9" playOrder="141">
+          <navLabel>
+            <text>Yılmaz Hükümetinin Sonu-Ecevit Hükümeti</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_144"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="abeb1202-2315-4367-9ce9-d3a5bce85093" playOrder="142">
+        <navLabel>
+          <text>XXXIII 2000’li Yıllar</text>
+        </navLabel>
+        <content src="Text/tarih_split_006.html#calibre_toc_39"/>
+        <navPoint id="b505ffc8-a852-43da-bdc6-24d1121f50d8" playOrder="143">
+          <navLabel>
+            <text>Yeni bir Cumhurbaşkanı ve İktisadi Yıkım</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_145"/>
+        </navPoint>
+        <navPoint id="27d2a89a-443b-4046-9b26-c46d078494f8" playOrder="144">
+          <navLabel>
+            <text>Ecevit Hükümetinin Sonu</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_146"/>
+        </navPoint>
+        <navPoint id="37c4fb81-7b3d-41bd-aeeb-2f5b41807095" playOrder="145">
+          <navLabel>
+            <text>Ilımlı Siyasetin Sonu mu?</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_147"/>
+        </navPoint>
+        <navPoint id="c2133d49-4823-48b2-985f-05043921805d" playOrder="146">
+          <navLabel>
+            <text>Atatürkçülüğün İdeolojiye Dönüşmesi</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_148"/>
+        </navPoint>
+        <navPoint id="b9a09bdf-eaba-47c9-ab8d-44f93295bc69" playOrder="147">
+          <navLabel>
+            <text>Türkiye ve AB</text>
+          </navLabel>
+          <content src="Text/tarih_split_006.html#calibre_toc_149"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="b8fc578e-4475-451c-97f2-44b56a02fe4e" playOrder="148">
+        <navLabel>
+          <text>XXXIV Sonsöz</text>
+        </navLabel>
+        <content src="Text/tarih_split_006.html#calibre_toc_40"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="86c91ba6-4e1b-4b8e-98d6-064411cc61da" playOrder="149">
+      <navLabel>
+        <text>Yararlı Olabilecek Bazı Kaynaklar</text>
+      </navLabel>
+      <content src="Text/tarih_split_007.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

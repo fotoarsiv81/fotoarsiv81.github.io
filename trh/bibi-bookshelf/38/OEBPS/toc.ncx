@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="UND" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="9c39f2f7-28c6-4fd8-83f7-de3442bef5cc" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Çanakkale Savaşı - Yakın Tarih İncelemeleri 1</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="6eed85f4-9945-4051-833f-7e4e933418a7" playOrder="1">
+      <navLabel>
+        <text>Editörden</text>
+      </navLabel>
+      <content src="Text/canakkale_split_002.html"/>
+    </navPoint>
+    <navPoint id="d98e4e5b-a76a-4c1d-8ba9-e94533d7dea0" playOrder="2">
+      <navLabel>
+        <text>Büyük Savaşta Çanakkale Seferi</text>
+      </navLabel>
+      <content src="Text/canakkale_split_003.html"/>
+    </navPoint>
+    <navPoint id="ca457da1-5f26-4fa2-8186-66d9ce953b54" playOrder="3">
+      <navLabel>
+        <text>Çanakkale Muharebelerinde Mütavazı Bir Asker:</text>
+      </navLabel>
+      <content src="Text/canakkale_split_004.html"/>
+    </navPoint>
+    <navPoint id="2491c40e-8545-443c-a15a-e4e358c0b7cd" playOrder="4">
+      <navLabel>
+        <text>27. Alay Komutanı Yarbay Şefik Bey’in Arıburnu Muharebeleri Raporu</text>
+      </navLabel>
+      <content src="Text/canakkale_split_005.html"/>
+    </navPoint>
+    <navPoint id="4d06c662-97f4-44f1-8e36-e54c7e1b2894" playOrder="5">
+      <navLabel>
+        <text>Zığındere’yi Anlamak</text>
+      </navLabel>
+      <content src="Text/canakkale_split_007.html"/>
+    </navPoint>
+    <navPoint id="bbbadf4c-3f81-4e3c-8d52-955c2549db66" playOrder="6">
+      <navLabel>
+        <text>Çanakkale Geçildi mi?</text>
+      </navLabel>
+      <content src="Text/canakkale_split_008.html"/>
+    </navPoint>
+    <navPoint id="5409429a-7758-41c2-82bf-088f30646a2f" playOrder="7">
+      <navLabel>
+        <text>Arıburnu’nun Şanlı Müdafaası ve 27. Alay 2. Tabur 4. Bölüğünün Hazin Hikâyesi</text>
+      </navLabel>
+      <content src="Text/canakkale_split_012.html"/>
+    </navPoint>
+    <navPoint id="95c57b80-6058-4a4f-bb8f-6aa705bfec84" playOrder="8">
+      <navLabel>
+        <text>4 Mart 1915 Seddülbahir Çıkarması ve Bigalı Mehmed Çavuş</text>
+      </navLabel>
+      <content src="Text/canakkale_split_017.html"/>
+    </navPoint>
+    <navPoint id="cc010ab1-a469-4b96-b909-e3fde618febf" playOrder="9">
+      <navLabel>
+        <text>1915 Çanakkale Cephesinde Anadolu Yakası Muharebeleri</text>
+      </navLabel>
+      <content src="Text/canakkale_split_018.html"/>
+    </navPoint>
+    <navPoint id="610b3841-168f-4bff-892c-a8c8d52d40df" playOrder="10">
+      <navLabel>
+        <text>25 Nisan Çıkarmaları Üzerine Genel Bir Değerlendirme</text>
+      </navLabel>
+      <content src="Text/canakkale_split_030.html"/>
+    </navPoint>
+    <navPoint id="71145409-a083-4507-b817-81b1a69a7977" playOrder="11">
+      <navLabel>
+        <text>Bir Bulut Hikâyesi</text>
+      </navLabel>
+      <content src="Text/canakkale_split_031.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

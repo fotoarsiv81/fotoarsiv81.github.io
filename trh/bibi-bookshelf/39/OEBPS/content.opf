@@ -1,0 +1,86 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Faulkner, Neil">Neil Faulkner</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:b7e5889b-fca3-4e6a-a312-a7024f3d5016</dc:identifier>
+    <dc:date>2014-06-19T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Dünya Tarihi</dc:title>
+<meta name="calibre:title_sort" content="Dünya Tarihi"/>
+<dc:publisher>Yordam Kitap</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Felsefe</dc:subject>
+<dc:description>&lt;p&gt;İnsangillerin bilinen ilk üyesi "Lucy"den günümüzün Büyük Resesyon'una kadar insanlık tarihinin analiz edildiği bu yetkin eserde, geçmiş Marksist tarihçi kuşaklarının içgörüleri ile tarihsel süreç hakkındaki radikal yeni fikirler bir araya getiriliyor.
+
+Tarihi alışılagelen bakışın dışına çıkarak okuyan Neil Faulkner, geçmişte yaşananların önceden belirlenmiş şeyler olmadığını ortaya koyuyor. İnsanın önüne hep çok sayıda seçenek çıkmıştı. Öyle ki kurtuluş ve barbarlık gibi farklı sonuçların gelişmesi çoğu zaman mümkündü. Geleneksel tarihçiliğin yukarıdan aşağı yaklaşımını reddeden Faulkner, büyük olayların yönünü belirleyen ana etmenin sıradan insanların kitlesel eylemi olduğunu ileri sürüyor.
+
+Ekonomik yıkıma, savaşa, iklim felaketine ve derin sınıfsal bölünmelere sahne olan 21. yüzyılın başında insan türü, belki de uzun tarihinin en büyük kriziyle karşı karşıya bulunuyor. Marksist Dünya Tarihi'nden çıkarılacak en önemli ders şudur: Geçmişimizi yaratan biz olduğumuza göre daha iyi bir gelecek yaratmak da yine bizim ellerimizde. Yazar tarafından Türkçe basım için yazılan Gezi isyanı üzerine önsözle...&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Neil Faulkner&quot;: &quot;&quot;}"/>
+<dc:language>en</dc:language>
+<dc:identifier opf:scheme="calibre">d523dd59-83c5-4a6c-970a-421d88d45a59</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786054836666</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/african_erectus.jpg" id="african_erectus.jpg" media-type="image/jpeg"/>
+    <item href="Images/5.jpg" id="x5.jpg" media-type="image/jpeg"/>
+    <item href="Images/mousterian_toolkit.jpg" id="mousterian_toolkit.jpg" media-type="image/jpeg"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/neolitik_yerlesim.JPG" id="neolitik_yerlesim.JPG" media-type="image/jpeg"/>
+    <item href="Images/neolitik.jpg" id="neolitik.jpg" media-type="image/jpeg"/>
+    <item href="Images/paleolithic.jpg" id="paleolithic.jpg" media-type="image/jpeg"/>
+    <item href="Images/bronze_age_metalworkers.jpg" id="bronze_age_metalworkers.jpg" media-type="image/jpeg"/>
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sumer.jpg" id="sumer.jpg" media-type="image/jpeg"/>
+    <item href="Text/07.xhtml" id="x07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/AncientEgyptDailyLifeDomesticPic_large.jpg" id="AncientEgyptDailyLifeDomesticPic_large.jpg" media-type="image/jpeg"/>
+    <item href="Text/08.xhtml" id="x08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/hierogliphic.jpg" id="hierogliphic.jpg" media-type="image/jpeg"/>
+    <item href="Text/09.xhtml" id="x09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/crafts in ancient egypt.jpg" id="crafts_in_ancient_egypt.jpg" media-type="image/jpeg"/>
+    <item href="Text/10.xhtml" id="x10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/Iron age.jpg" id="Iron_age.jpg" media-type="image/jpeg"/>
+    <item href="Text/11.xhtml" id="x11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/Persian_warriors_from_Berlin_Museum.jpg" id="Persian_warriors_from_Berlin_Museum.jpg" media-type="image/jpeg"/>
+    <item href="Text/12.xhtml" id="x12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/Chandragupta.jpg" id="Chandragupta.jpg" media-type="image/jpeg"/>
+    <item href="Text/13.xhtml" id="x13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/chin_warrior_lg.jpg" id="chin_warrior_lg.jpg" media-type="image/jpeg"/>
+    <item href="Text/14.xhtml" id="x14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/ancient-greece.jpg" id="ancient-greece.jpg" media-type="image/jpeg"/>
+    <item href="Text/15.xhtml" id="x15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/iskender.jpg" id="iskender.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style.css" id="Style.css" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>BİRKAÇ SÖZ</text>
+			</navLabel>
+			<content src="Text/3.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>GİRİŞ</text>
+			</navLabel>
+			<content src="Text/4.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>I
+HAZARLARIN ORTAYA ÇIKIŞI</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>II.
+HAZARLARIN UYGUR KÖKENLERİ ÜZERİNE BİR TEORİ</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>III.
+HAZAR DEVLETİ’NİN BİRLEŞMESİ VE 
+İLK ARAP-HAZAR SAVAŞI (642-652)</text>
+			</navLabel>
+			<content src="Text/7.html#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>IV.
+İKİNCİ ARAP-HAZAR SAVAŞI (727-737)</text>
+			</navLabel>
+			<content src="Text/8.html#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>V.
+ARAP KAYNAKLARINA GÖRE 
+HAZARLARIN MUSEVİLİĞE GEÇİŞLERİ</text>
+			</navLabel>
+			<content src="Text/9.html#toc_marker-7"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>VI. 
+İBRANİ KAYNAKLARINA GÖRE 
+HAZARLARIN MUSEVİLİĞE GEÇİŞİ</text>
+			</navLabel>
+			<content src="Text/10.html#toc_marker-8"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>VII. 
+HAZAR TARİHİNİN İKİ YÜZYILI</text>
+			</navLabel>
+			<content src="Text/11.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>VIII. 
+HAZARLARIN ÇÖKÜŞ NEDENLERİ</text>
+			</navLabel>
+			<content src="Text/12.html#toc_marker-10"/>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>IX. 
+HAZAR DEVLETİ’NİN SONU</text>
+			</navLabel>
+			<content src="Text/13.html#toc_marker-11"/>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>KAYNAKÇA</text>
+			</navLabel>
+			<content src="Text/14.html#toc_marker-12"/>
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>DİZİN</text>
+			</navLabel>
+			<content src="Text/15.html#toc_marker-13"/>
+		</navPoint>
+	</navMap>
+</ncx>

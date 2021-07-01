@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="bdbd1dc0-ae17-4277-bec5-a19ec2a8e604" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Abdülhamid'in Cinci Hocası</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/abdulhamid_split_003.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I[*1]</text>
+      </navLabel>
+      <content src="Text/abdulhamid_split_004.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/abdulhamid_split_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/abdulhamid_split_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/abdulhamid_split_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="Text/abdulhamid_split_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="Text/abdulhamid_split_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="Text/abdulhamid_split_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>VIII</text>
+      </navLabel>
+      <content src="Text/abdulhamid_split_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>IX</text>
+      </navLabel>
+      <content src="Text/abdulhamid_split_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>X</text>
+      </navLabel>
+      <content src="Text/abdulhamid_split_013.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

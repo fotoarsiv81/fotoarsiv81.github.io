@@ -1,0 +1,51 @@
+@page{margin:.5em}
+tbody,thead,tfoot,tr,td,th{border-style:inherit;border-width:inherit;border-color:inherit}
+.leftFloat{float:left}
+.rightFloat{float:right}
+ul.List-1,ol.List-1{margin-left:20px}
+span.char-style-override-1{font-size:1.22em;font-style:normal;font-weight:400}
+span.char-style-override-2{font-size:1.67em;font-style:normal;font-weight:700}
+span.char-style-override-3{font-size:1.33em;font-style:normal;font-weight:400}
+span.char-style-override-4{font-size:.75em;font-style:normal;font-weight:400}
+span.char-style-override-5{font-size:.75em;font-style:normal;font-weight:700}
+span.char-style-override-6{color:#00f;font-size:.75em;font-style:normal;font-weight:400}
+span.char-style-override-7{vertical-align:super}
+span.char-style-override-8{font-style:italic;font-weight:400}
+span.char-style-override-9{font-size:1.11em}
+span.char-style-override-10{font-size:1.11em;font-style:italic;font-weight:400}
+p.Basic-Paragraph{font-weight:400;font-style:normal;font-size:.75em;text-decoration:none;font-variant:normal;text-align:justify;color:#000;text-indent:21px;margin:0 0 10px}
+p.paragraf,li.paragraf{font-weight:400;font-style:normal;font-size:.92em;text-decoration:none;font-variant:normal;text-align:justify;color:#000;text-indent:20px;margin:0}
+p.anabaslik{font-weight:700;font-style:normal;font-size:1.17em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:5px 0 30px}
+p.resim{font-weight:400;font-style:italic;font-size:.75em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:30px 0}
+p.arayazi{font-weight:400;font-style:italic;font-size:.83em;text-decoration:none;font-variant:normal;text-align:justify;color:#000;text-indent:0;margin:0 0 0 20px}
+p.Normal{font-weight:400;font-style:normal;font-size:1em;text-decoration:none;font-variant:normal;text-align:left;color:#000;text-indent:0;margin:0}
+p.r{font-weight:400;font-style:italic;font-size:.75em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:0;margin:0 0 10px}
+p.G-vde{font-weight:400;font-style:normal;font-size:.83em;text-decoration:none;font-variant:normal;text-align:center;color:#000;text-indent:21px;margin:200px 0 10px}
+p.bos{font-weight:400;font-style:normal;font-size:.83em;text-decoration:none;font-variant:normal;text-align:justify;color:#000;text-indent:0;margin:20px 0}
+p.No-Paragraph-Style{font-weight:400;font-style:normal;font-size:1em;text-decoration:none;font-variant:normal;text-align:left;color:#000;text-indent:0;margin:0}
+p.Basic-Paragraph-1{font-weight:400;font-style:normal;font-size:.75em;text-decoration:none;font-variant:normal;text-align:justify;color:#000;text-indent:21px;margin:0 0 10px}
+p.Basic-Paragraph-2{font-weight:400;font-style:normal;font-size:.75em;text-decoration:none;font-variant:normal;text-align:justify;color:#000;text-indent:21px;margin:0 0 10px}
+p.para-style-override-1{text-align:center;margin-top:0;margin-bottom:0}
+p.para-style-override-2{margin-top:150px;text-align:center}
+p.para-style-override-3{margin-top:30px;text-align:center}
+p.para-style-override-4{margin-top:100px;text-align:center}
+p.para-style-override-5{margin-top:300px;text-align:center}
+p.para-style-override-6{text-align:center}
+p.para-style-override-7{text-indent:21px}
+p.para-style-override-8{margin-left:22px}
+p.para-style-override-9{margin-left:62px;margin-right:61px}
+p.para-style-override-10{text-indent:22px}
+p.para-style-override-11{margin-right:1px}
+p.para-style-override-12{margin-left:70px;margin-right:84px}
+p.para-style-override-13{margin-left:70px;margin-right:79px}
+p.para-style-override-14{margin-left:67px;margin-right:78px}
+p.para-style-override-15{margin-left:22px;margin-right:114px}
+p.para-style-override-16{margin-right:1px;text-indent:21px}
+p.para-style-override-17{text-indent:20px}
+p.para-style-override-18{margin-top:2px;text-indent:21px}
+p.para-style-override-19{margin-top:0;text-indent:22px}
+p.para-style-override-20{margin-left:22px;margin-top:5px}
+p.para-style-override-21{margin-left:21px;text-align:left;text-indent:0}
+p.para-style-override-22{margin-left:21px;margin-top:6px;text-align:left;text-indent:0}
+p.para-style-override-23{margin-right:1px;text-indent:22px}
+p.para-style-override-24{margin-left:22px;text-align:left;text-indent:0}

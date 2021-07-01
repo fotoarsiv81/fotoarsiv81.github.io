@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{69FEF49B-E989-49F5-8E30-EC86DBC64D59}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Jared Diamond - Tüfek, Mikrop ve Çelik</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Öndeyiş: Yali'nin Sorusu</text>
+      </navLabel>
+      <content src="Text/main.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Farklı Bölgelerde Farklı Gelişen Tarih</text>
+        </navLabel>
+        <content src="Text/main.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Birinci Kısım: Cennetten Cajamarca'ya</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>I.Bölüm: Başlangıç Çizgisine Kadar</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>II.Bölüm: Doğal Bir Tarih Deneyi</text>
+        </navLabel>
+        <content src="Text/main-2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>III.Bölüm: Cajamarca Çatışması</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>İkinci Kısım: Yiyecek Üretiminin Başlaması ve Yayılışı</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>IV.Bölüm: Çiftçinin Gücü</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>V. Bölüm: Tarihte Kimler Varlıklıydı Kimler Değildi?</text>
+        </navLabel>
+        <content src="Text/Section0001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>VI.Bölüm: Çiftçilik Yapmalı mı Yapmamalı mı?</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>VII.Bölüm: Badem Nasıl Yetiştirilir?</text>
+        </navLabel>
+        <content src="Text/main-4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>VIII.Bölüm: Elmalar mı Yerliler mi?</text>
+        </navLabel>
+        <content src="Text/main-5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>IX.Bölüm: Zebralar, Mutsuz Evlilikler ve Anna Karenina İlkesi</text>
+        </navLabel>
+        <content src="Text/main-6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>X.Bölüm: Uçsuz Bucaksız Gökler ve Savrulan Baltalar</text>
+        </navLabel>
+        <content src="Text/main-7.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Üçüncü Kısım: Yiyecek Üretiminden Tüfeklere,Mikroplara ve Çeliğe</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>XI.Bölüm: Öldürücü Bir Armağan: Hayvan Varlığı</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>XII.Bölüm: Kopyalar ve Ödünç Harfler</text>
+        </navLabel>
+        <content src="Text/main-8.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>XIII.Bölüm: İhtiyacın Anası</text>
+        </navLabel>
+        <content src="Text/main-9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>XIV.Bölüm: Eşitlikçilikten Hırsızkrasiye *</text>
+        </navLabel>
+        <content src="Text/main-10.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Dördüncü Kısım: Beş Bölümde Devriâlem</text>
+      </navLabel>
+      <content src="Text/main-11.xhtml"/>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>XV. Bölüm: Yali’nin Halkı</text>
+        </navLabel>
+        <content src="Text/main-11.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>XVI. Bölüm: Çin Nasıl Çinli Oldu?</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>XVII.Bölüm: Sürat Teknesiyle Polinezya'ya</text>
+        </navLabel>
+        <content src="Text/main-12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>XVIII. Bölüm: Çatışan Yarıküreler</text>
+        </navLabel>
+        <content src="Text/main-13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>XIX. Bölüm: Afrika Nasıl Kara Afrika Oldu?</text>
+        </navLabel>
+        <content src="Text/main-14.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Sondeyiş: İnsanlık Tarihinin Bir Bilim Olarak Geleceği</text>
+      </navLabel>
+      <content src="Text/main-15.xhtml"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Japonlar Kimdir?</text>
+        </navLabel>
+        <content src="Text/main-16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Sonsöz 2003: Bugün, Tüfek, Mikrop ve Çelik</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Ek Okumalar</text>
+      </navLabel>
+      <content src="Text/main-17.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

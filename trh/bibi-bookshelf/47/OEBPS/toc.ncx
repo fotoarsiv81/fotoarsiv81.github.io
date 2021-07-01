@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="AWP-828466AA-FEBF-4636-9A87-578E2B0E440B" />
+    <meta name="dtb:depth" content="3" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Ruhani Araştırmalar ve Antik Felsefe</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Ruhani Alıştırmalar ve Antik Felsefe</text>
+      </navLabel>
+      <content src="Text/001.html" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="Text/004.html" />
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>1993 BASKISINA ÖNSÖZ</text>
+        </navLabel>
+        <content src="Text/005.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>RUHANİ ALIŞTIRMALAR</text>
+      </navLabel>
+      <content src="Text/006.html" />
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Ruhani Alıştırmalar</text>
+        </navLabel>
+        <content src="Text/007.html" />
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>I. Yaşamayı Öğrenmek</text>
+          </navLabel>
+          <content src="Text/009.html" />
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>II. Diyalog Kurmayı Öğrenmek</text>
+          </navLabel>
+          <content src="Text/011.html" />
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>III. Ölmeyi Öğrenmek</text>
+          </navLabel>
+          <content src="Text/013.html" />
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>IV Okumayı Öğrenmek</text>
+          </navLabel>
+          <content src="Text/013.html#ncx106" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Antik Ruhani Alıştırmalar ve “Hıristiyan Felsefe”</text>
+        </navLabel>
+        <content src="Text/014.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>SOKRATES</text>
+      </navLabel>
+      <content src="Text/015.html" />
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Sokrates Figürü</text>
+        </navLabel>
+        <content src="Text/016.html" />
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>I. Silenos</text>
+          </navLabel>
+          <content src="Text/016.html#ncx153" />
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>II. Eros</text>
+          </navLabel>
+          <content src="Text/016.html#ncx174" />
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>III. Dionysos</text>
+          </navLabel>
+          <content src="Text/017.html" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>MARCUS AURELIUS</text>
+      </navLabel>
+      <content src="Text/018.html" />
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Ruhani Alıştırma Olarak Fizik ya da Marcus Aurelius’ta Kötümserlik ve İyimserlik</text>
+        </navLabel>
+        <content src="Text/019.html" />
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Marcus Aurelius’un Düşünceller’i İçin Bir Anahtar: Epiktetos’a Göre Üç Felsefi Topoi</text>
+        </navLabel>
+        <content src="Text/021.html" />
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>I. Marcus Aurelius’ta Üçlü Şema</text>
+          </navLabel>
+          <content src="Text/021.html#ncx262" />
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>II. Epiktetos’a Göre Felsefi Üç Topoi</text>
+          </navLabel>
+          <content src="Text/021.html#ncx291" />
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>III. Üç Topoi, Marc Aurelıus’un Düşünceleri İçin Anahtar</text>
+          </navLabel>
+          <content src="Text/021.html#ncx311" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Michelet ve Marcus Aurelius</text>
+        </navLabel>
+        <content src="Text/023.html" />
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>I. (1820-1824) - Marcus Aurel,us’a Göre Ruhani Alıştırmalar</text>
+          </navLabel>
+          <content src="Text/023.html#ncx354" />
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>II. Marcus Aurelius’un Bir Metni ve “İki Önemli Bakış Açısı”</text>
+          </navLabel>
+          <content src="Text/023.html#ncx380" />
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>III. (1825) - Tinin Kahramanlığı</text>
+          </navLabel>
+          <content src="Text/023.html#ncx387" />
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>IV. İnsan Vatanından Dünya Vatanına</text>
+          </navLabel>
+          <content src="Text/023.html#ncx399" />
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>V. Tarih ile Uyuşmak</text>
+          </navLabel>
+          <content src="Text/023.html#ncx409" />
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>VI. Marcus Aurelius’a Göre Dua ya da Dünya ile Uyuşum</text>
+          </navLabel>
+          <content src="Text/023.html#ncx426" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>GERİ-DÖNÜŞ</text>
+      </navLabel>
+      <content src="Text/024.html" />
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>I. Geri-Dönüşün Tarihsel Biçimleri</text>
+        </navLabel>
+        <content src="Text/026.html" />
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>II. Fenomenin Farklı Açıları</text>
+        </navLabel>
+        <content src="Text/026.html#ncx477" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>OLUMSUZ TEOLOJİ</text>
+      </navLabel>
+      <content src="Text/028.html" />
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>I. Soyutlama Yöntemi ve Zihinsel Sezgi</text>
+        </navLabel>
+        <content src="Text/030.html" />
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>II. Düşünme İmkânsızlığından Konuşma İmkânsızlığına</text>
+        </navLabel>
+        <content src="Text/030.html#ncx524" />
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>III. Apophatizm ve Hıristiyanlık</text>
+        </navLabel>
+        <content src="Text/030.html#ncx531" />
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>IV. Apophatizm, Dil ve Mistik</text>
+        </navLabel>
+        <content src="Text/030.html#ncx535" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>ANTİK FELSEFE DERSİ</text>
+      </navLabel>
+      <content src="Text/031.html" />
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Helenistik ve Romen Düşünce Tarihi</text>
+        </navLabel>
+        <content src="Text/032.html" />
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Yaşam Tarzı Olarak Felsefe</text>
+        </navLabel>
+        <content src="Text/035.html" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Michel Foucault ile Yarım Kalmış Bir Diyalog Ortaklıklar ve Ayrılıklar</text>
+        </navLabel>
+        <content src="Text/037.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>ÎKÎNCÎ BASKIYA SONSÖZ (1987)</text>
+      </navLabel>
+      <content src="Text/038.html" />
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>BEN VE DÜNYA</text>
+      </navLabel>
+      <content src="Text/039.html" />
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>“Kendilik Kültürü” Nosyonu Üzerine Düşünmeler</text>
+        </navLabel>
+        <content src="Text/040.html" />
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>“Günümüzde Felsefe Profesörleri Var, Ama Filozoflar Yok...”</text>
+        </navLabel>
+        <content src="Text/042.html" />
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Bilge ve Dünya</text>
+        </navLabel>
+        <content src="Text/044.html" />
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>I. Sorunun Ortaya Atılışı</text>
+          </navLabel>
+          <content src="Text/044.html#ncx716" />
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>II. Bilim Dünyası ve Gündelik ve Alışılagelmiş Algı Dünyası</text>
+          </navLabel>
+          <content src="Text/044.html#ncx723" />
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>III. Estetik Algı</text>
+          </navLabel>
+          <content src="Text/044.html#ncx730" />
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>IV. Spectator Nouus</text>
+          </navLabel>
+          <content src="Text/044.html#ncx740" />
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>V. An</text>
+          </navLabel>
+          <content src="Text/044.html#ncx749" />
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+          <navLabel>
+            <text>VI. Bilge ve Dünya</text>
+          </navLabel>
+          <content src="Text/044.html#ncx756" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Felsefe Bir Lüks müdür?</text>
+        </navLabel>
+        <content src="Text/046.html" />
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Kitaplarım ve Araştırmalarım</text>
+        </navLabel>
+        <content src="Text/048.html" />
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Etik Nedir? Pierre Hadot ile Söyleşi</text>
+        </navLabel>
+        <content src="Text/050.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Kaynakça</text>
+      </navLabel>
+      <content src="Text/051.html" />
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Pierre Hadot Kaynakçası</text>
+        </navLabel>
+        <content src="Text/051.html#ncx848" />
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Makale Derlemeleri</text>
+        </navLabel>
+        <content src="Text/051.html#ncx855" />
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Yorum Katığı Çeviriler</text>
+        </navLabel>
+        <content src="Text/051.html#ncx858" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

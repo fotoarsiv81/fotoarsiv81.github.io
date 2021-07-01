@@ -1,0 +1,59 @@
+<package xmlns="http://www.idpf.org/2007/opf" prefix="calibre: https://calibre-ebook.com ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" unique-identifier="bookid" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id">İmparatorluğun En Uzun Yüzyılı</dc:title>
+    <dc:creator id="id-1">İlber Ortaylı</dc:creator>
+    <dc:identifier>calibre:655</dc:identifier>
+    <dc:identifier>uuid:c0f8ed19-f953-4092-9926-444561fd2660</dc:identifier>
+    <dc:identifier id="bookid">urn:uuid:e9bd9d41-14e0-472d-8a3c-92542f9c66e8</dc:identifier>
+    <dc:language>en-GB</dc:language>
+    <dc:contributor id="id-2">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">İmparatorluğun En Uzun Yüzyılı</meta>
+    <meta content="Adobe InDesign 10.0" name="generator"/>
+    <meta name="cover" content="imparatorlugunenuzunyuzyili-kapak.jpg"/>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="dcterms:modified">2016-11-10T07:37:28Z</meta>
+    <meta property="role" refines="#id-2" scheme="marc:relators">bkp</meta>
+    <meta property="role" refines="#id-1" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#id-1">Ortaylı, İlber</meta>
+    <meta property="calibre:author_link_map">{"İlber Ortaylı": ""}</meta>
+  </metadata>
+  <manifest>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="imparatorlugunenuzunyuzyili-epub.xhtml" id="imparatorlugunenuzunyuzyili-epub" media-type="application/xhtml+xml"/>
+    <item href="imparatorlugunenuzunyuzyili-epub-1.xhtml" id="imparatorlugunenuzunyuzyili-epub-1" media-type="application/xhtml+xml"/>
+    <item href="imparatorlugunenuzunyuzyili-epub-2.xhtml" id="imparatorlugunenuzunyuzyili-epub-2" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="toc" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/12.jpg" id="x12.jpg" media-type="image/jpeg"/>
+    <item href="image/120.jpg" id="x120.jpg" media-type="image/jpeg"/>
+    <item href="image/1201.jpg" id="x1201.jpg" media-type="image/jpeg"/>
+    <item href="image/122.jpg" id="x122.jpg" media-type="image/jpeg"/>
+    <item href="image/14.jpg" id="x14.jpg" media-type="image/jpeg"/>
+    <item href="image/141.jpg" id="x141.jpg" media-type="image/jpeg"/>
+    <item href="image/166-2.jpg" id="x166-2.jpg" media-type="image/jpeg"/>
+    <item href="image/166.jpg" id="x166.jpg" media-type="image/jpeg"/>
+    <item href="image/168.jpg" id="x168.jpg" media-type="image/jpeg"/>
+    <item href="image/1681.jpg" id="x1681.jpg" media-type="image/jpeg"/>
+    <item href="image/196-2.png" id="x196-2.png" media-type="image/png"/>
+    <item href="image/196.jpg" id="x196.jpg" media-type="image/jpeg"/>
+    <item href="image/198.jpg" id="x198.jpg" media-type="image/jpeg"/>
+    <item href="image/1981.jpg" id="x1981.jpg" media-type="image/jpeg"/>
+    <item href="image/224.jpg" id="x224.jpg" media-type="image/jpeg"/>
+    <item href="image/2241.jpg" id="x2241.jpg" media-type="image/jpeg"/>
+    <item href="image/58.jpg" id="x58.jpg" media-type="image/jpeg"/>
+    <item href="image/86.jpg" id="x86.jpg" media-type="image/jpeg"/>
+    <item href="image/88.jpg" id="x88.jpg" media-type="image/jpeg"/>
+    <item href="image/881.jpg" id="x881.jpg" media-type="image/jpeg"/>
+    <item href="image/imparatorlugunenuzunyuzyili-kapak.jpg" id="imparatorlugunenuzunyuzyili-kapak.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="image/timaslogo.jpg" id="timaslogo.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverImage"/>
+    <itemref idref="imparatorlugunenuzunyuzyili-epub"/>
+    <itemref idref="imparatorlugunenuzunyuzyili-epub-1"/>
+    <itemref idref="imparatorlugunenuzunyuzyili-epub-2"/>
+  </spine>
+</package>

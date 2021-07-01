@@ -1,0 +1,1061 @@
+@font-face {
+	font-family : "Minion Pro";
+	font-style : normal;
+	font-weight : bold;
+	src : url("../Fonts/MinionPro-Bold.otf");
+}
+@font-face {
+	font-family : "Minion Pro";
+	font-style : italic ;
+	font-weight : bold;
+	src : url("../Fonts/MinionPro-BoldIt.otf");
+}
+@font-face {
+	font-family : "Minion Pro";
+	font-style : italic ;
+	font-weight : normal;
+	src : url("../Fonts/MinionPro-It.otf");
+}
+@font-face {
+	font-family : "Minion Pro";
+	font-style : normal;
+	font-weight : normal;
+	src : url("../Fonts/MinionPro-Regular.otf");
+}
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.Font-Style35 {
+	font-family : "Minion Pro", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	color : #000000;
+}
+span.Font-Style36 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.92em;
+	color : #000000;
+}
+span.Font-Style37 {
+	font-family : "Minion Pro", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	color : #000000;
+}
+span.Font-Style38 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.25em;
+	color : #000000;
+}
+span.Font-Style39 {
+	font-family : "Minion Pro", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.67em;
+	color : #000000;
+}
+span.Font-Style42 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.42em;
+	font-variant : small-caps;
+	color : #000000;
+}
+span.Font-Style43 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.92em;
+	font-variant : small-caps;
+	color : #000000;
+}
+span.Font-Style44 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	font-variant : small-caps;
+	color : #000000;
+}
+span.Font-Style45 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	color : #000000;
+}
+span.Font-Style46 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.67em;
+	color : #000000;
+}
+span.Font-Style47 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	color : #000000;
+}
+span.Font-Style48 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.75em;
+	color : #000000;
+}
+span.Font-Style49 {
+	font-family : "Minion Pro", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.83em;
+	color : #000000;
+}
+span.Font-Style50 {
+	font-family : "Minion Pro", serif;
+	font-weight : bold;
+	font-style : italic;
+	font-size : 0.83em;
+	color : #000000;
+}
+span.Font-Style52 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.08em;
+	font-variant : small-caps;
+	color : #000000;
+}
+span.Font-Style53 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	color : #000000;
+}
+span.Font-Style39-1 {
+	font-family : "Minion Pro", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.67em;
+	color : #000000;
+}
+span.Font-Style40 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	color : #000000;
+}
+span.Font-Style41 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.67em;
+	color : #000000;
+}
+span.Hyperlink {
+	text-decoration : underline;
+	color : #000080;
+}
+span.char-style-override-1 {
+	font-size : 1.67em;
+}
+span.char-style-override-2 {
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-3 {
+	font-style : normal;
+	font-weight : bold;
+	vertical-align : super;
+}
+span.char-style-override-4 {
+	vertical-align : super;
+}
+span.char-style-override-5 {
+	font-size : 0.75em;
+	vertical-align : super;
+}
+span.char-style-override-6 {
+	font-style : normal;
+	font-variant : normal;
+	font-weight : bold;
+}
+span.char-style-override-7 {
+	font-size : 0.75em;
+	font-style : italic;
+	font-weight : normal;
+	vertical-align : super;
+}
+span.char-style-override-8 {
+	font-size : 0.83em;
+}
+p.Basic-Paragraph {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Normal {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.No-Paragraph-Style {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Basic-Paragraph-1 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.B-l-m-Ba-l--- {
+	font-family : "Minion Pro", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 140px 10px 40px 10px;
+}
+p.Konu-Ba-l--- {
+	font-family : "Minion Pro", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 67px 10px 40px 10px;
+}
+p.Normal-1 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Style4 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.09;
+	text-align : left;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px;
+}
+p.Style10 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Style11 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Style13 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.08;
+	text-align : justify;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px;
+}
+p.Style14 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.14;
+	text-align : right;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Style15 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.12;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Style16 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.13;
+	text-align : justify;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px;
+}
+p.Style17 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.01;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Style18 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Style19 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.01;
+	text-align : left;
+	color : #000000;
+	text-indent : 13px;
+	margin : 0px;
+}
+p.Style20 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.12;
+	text-align : justify;
+	color : #000000;
+	text-indent : 17px;
+	margin : 0px;
+}
+p.Style24 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 67px 0px 40px 0px;
+}
+p.Style25 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.08;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 0px 0px 0px 14px;
+}
+p.Style26 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Style27 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.08;
+	text-align : left;
+	color : #000000;
+	text-indent : -14px;
+	margin : 0px 0px 0px 14px;
+}
+p.Style28 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.01;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Style29 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.13;
+	text-align : justify;
+	color : #000000;
+	text-indent : 15px;
+	margin : 0px;
+}
+p.Style31 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.12;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Style33 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.12;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Basic-Paragraph-2 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.para-style-override-1 {
+	text-align : center;
+	margin-top : 0em;
+	margin-bottom : 0em;
+}
+p.para-style-override-2 {
+	text-align : center;
+}
+p.para-style-override-3 {
+	text-align : center;
+	margin-top : 10px;
+	margin-bottom : 10px;
+}
+p.para-style-override-4 {
+	margin-left : 173px;
+}
+p.para-style-override-5 {
+	margin-left : 173px;
+	margin-top : 2px;
+}
+p.para-style-override-6 {
+	margin-top : 4px;
+}
+p.para-style-override-7 {
+	margin-right : 0px;
+}
+p.para-style-override-8 {
+	text-indent : 15px;
+}
+p.para-style-override-9 {
+	text-indent : 19px;
+}
+p.para-style-override-10 {
+	margin-left : 29px;
+	margin-right : 96px;
+	margin-top : 6px;
+	text-align : left;
+}
+p.para-style-override-11 {
+	margin-top : 6px;
+}
+p.para-style-override-12 {
+	text-indent : 14px;
+}
+p.para-style-override-13 {
+	margin-right : 0px;
+	text-indent : 15px;
+}
+p.para-style-override-14 {
+	margin-left : 29px;
+	margin-right : 96px;
+	margin-top : 6px;
+}
+p.para-style-override-15 {
+	margin-left : 28px;
+	margin-right : 77px;
+	margin-top : 6px;
+	text-align : left;
+}
+p.para-style-override-16 {
+	margin-right : 0px;
+	margin-top : 6px;
+}
+p.para-style-override-17 {
+	margin-left : 29px;
+	margin-top : 6px;
+}
+p.para-style-override-18 {
+	margin-top : 9px;
+}
+p.para-style-override-19 {
+	margin-right : 1px;
+	text-indent : 15px;
+}
+p.para-style-override-20 {
+	margin-left : 29px;
+	margin-right : 58px;
+	margin-top : 6px;
+	text-align : left;
+}
+p.para-style-override-21 {
+	text-indent : 13px;
+}
+p.para-style-override-22 {
+	margin-left : 28px;
+	margin-top : 8px;
+	text-align : left;
+}
+p.para-style-override-23 {
+	margin-left : 28px;
+	text-align : left;
+}
+p.para-style-override-24 {
+	margin-left : 28px;
+	margin-top : 4px;
+	text-align : left;
+}
+p.para-style-override-25 {
+	margin-top : 8px;
+}
+p.para-style-override-26 {
+	margin-right : 0px;
+	text-indent : 14px;
+}
+p.para-style-override-27 {
+	margin-left : 29px;
+	margin-right : 77px;
+	margin-top : 6px;
+}
+p.para-style-override-28 {
+	margin-left : 28px;
+	margin-right : 115px;
+	margin-top : 6px;
+	text-align : left;
+}
+p.para-style-override-29 {
+	margin-left : 30px;
+	margin-top : 2px;
+	text-align : left;
+}
+p.para-style-override-30 {
+	margin-right : 1px;
+	margin-top : 6px;
+}
+p.para-style-override-31 {
+	margin-left : 29px;
+	margin-top : 6px;
+	text-align : left;
+}
+p.para-style-override-32 {
+	margin-left : 29px;
+	margin-right : 77px;
+	margin-top : 6px;
+	text-align : left;
+}
+p.para-style-override-33 {
+	margin-left : 29px;
+	margin-right : 65px;
+}
+p.para-style-override-34 {
+	margin-left : 29px;
+	margin-right : 65px;
+	margin-top : 1px;
+}
+p.para-style-override-35 {
+	margin-left : 28px;
+	margin-right : 68px;
+}
+p.para-style-override-36 {
+	margin-left : 28px;
+	margin-right : 68px;
+	margin-top : 1px;
+}
+p.para-style-override-37 {
+	margin-left : 29px;
+	margin-right : 72px;
+}
+p.para-style-override-38 {
+	margin-left : 29px;
+	margin-right : 72px;
+	margin-top : 1px;
+}
+p.para-style-override-39 {
+	text-align : left;
+}
+p.para-style-override-40 {
+	margin-top : 10px;
+	text-align : left;
+}
+p.para-style-override-41 {
+	margin-left : 28px;
+	margin-right : 74px;
+	margin-top : 6px;
+}
+p.para-style-override-42 {
+	margin-left : 29px;
+	margin-right : 58px;
+	margin-top : 6px;
+}
+p.para-style-override-43 {
+	margin-top : 8px;
+	text-align : left;
+}
+p.para-style-override-44 {
+	margin-left : 29px;
+	margin-right : 115px;
+	margin-top : 7px;
+}
+p.para-style-override-45 {
+	margin-left : 28px;
+	margin-top : 7px;
+}
+p.para-style-override-46 {
+	margin-left : 28px;
+	margin-right : 58px;
+	margin-top : 6px;
+	text-align : left;
+}
+p.para-style-override-47 {
+	margin-left : 27px;
+	margin-right : 58px;
+	margin-top : 6px;
+	text-align : left;
+}
+p.para-style-override-48 {
+	margin-left : 29px;
+	margin-right : 58px;
+	margin-top : 7px;
+	text-align : left;
+}
+p.para-style-override-49 {
+	margin-left : 28px;
+	margin-right : 49px;
+	margin-top : 6px;
+}
+p.para-style-override-50 {
+	margin-bottom : 13px;
+	text-indent : 14px;
+}
+p.para-style-override-51 {
+	margin-left : 29px;
+	margin-right : 73px;
+	margin-top : 5px;
+}
+p.para-style-override-52 {
+	margin-left : 28px;
+	margin-right : 96px;
+	margin-top : 6px;
+}
+p.para-style-override-53 {
+	margin-left : 28px;
+	margin-right : 103px;
+	margin-top : 6px;
+}
+p.para-style-override-54 {
+	margin-left : 29px;
+	margin-right : 134px;
+	margin-top : 7px;
+}
+p.para-style-override-55 {
+	margin-right : 0px;
+	text-indent : 16px;
+}
+p.para-style-override-56 {
+	margin-top : 5px;
+}
+p.para-style-override-57 {
+	margin-left : 28px;
+	margin-right : 58px;
+	margin-top : 7px;
+}
+p.para-style-override-58 {
+	margin-left : 28px;
+	margin-right : 115px;
+	margin-top : 6px;
+}
+p.para-style-override-59 {
+	margin-left : 29px;
+	margin-top : 8px;
+}
+p.para-style-override-60 {
+	margin-left : 29px;
+	margin-right : 58px;
+}
+p.para-style-override-61 {
+	margin-left : 29px;
+	margin-right : 58px;
+	margin-top : 2px;
+}
+p.para-style-override-62 {
+	text-indent : 16px;
+}
+p.para-style-override-63 {
+	margin-left : 28px;
+	margin-right : 77px;
+}
+p.para-style-override-64 {
+	margin-left : 28px;
+	margin-top : 6px;
+}
+p.para-style-override-65 {
+	margin-left : 28px;
+	margin-top : 6px;
+	text-align : left;
+}
+p.para-style-override-66 {
+	margin-left : 29px;
+	margin-right : 49px;
+}
+p.para-style-override-67 {
+	margin-left : 29px;
+	margin-right : 49px;
+	margin-top : 1px;
+}
+p.para-style-override-68 {
+	margin-left : 28px;
+}
+p.para-style-override-69 {
+	margin-left : 28px;
+	margin-top : 1px;
+}
+p.para-style-override-70 {
+	margin-left : 28px;
+	margin-right : 58px;
+}
+p.para-style-override-71 {
+	margin-left : 30px;
+	margin-right : 70px;
+	margin-top : 7px;
+}
+p.para-style-override-72 {
+	margin-left : 29px;
+	margin-right : 58px;
+	margin-top : 1px;
+}
+p.para-style-override-73 {
+	margin-left : 29px;
+	margin-right : 81px;
+}
+p.para-style-override-74 {
+	margin-left : 29px;
+	margin-right : 81px;
+	margin-top : 1px;
+}
+p.para-style-override-75 {
+	margin-right : 0px;
+	margin-top : 8px;
+}
+p.para-style-override-76 {
+	margin-left : 28px;
+	margin-right : 115px;
+}
+p.para-style-override-77 {
+	margin-left : 29px;
+	margin-right : 129px;
+}
+p.para-style-override-78 {
+	margin-left : 29px;
+	margin-right : 129px;
+	margin-top : 1px;
+}
+p.para-style-override-79 {
+	margin-left : 29px;
+	margin-right : 139px;
+}
+p.para-style-override-80 {
+	margin-left : 29px;
+	margin-right : 139px;
+	margin-top : 1px;
+}
+p.para-style-override-81 {
+	margin-left : 28px;
+	margin-right : 134px;
+	text-align : left;
+}
+p.para-style-override-82 {
+	margin-left : 28px;
+	margin-right : 134px;
+	margin-top : 1px;
+	text-align : left;
+}
+p.para-style-override-83 {
+	margin-left : 28px;
+	margin-right : 115px;
+	margin-top : 1px;
+}
+p.para-style-override-84 {
+	margin-left : 28px;
+	margin-right : 58px;
+	margin-top : 6px;
+}
+p.para-style-override-85 {
+	margin-left : 30px;
+	margin-right : 58px;
+	margin-top : 6px;
+	text-align : left;
+}
+p.para-style-override-86 {
+	margin-left : 30px;
+	margin-right : 73px;
+}
+p.para-style-override-87 {
+	margin-left : 30px;
+	margin-right : 73px;
+	margin-top : 1px;
+}
+p.para-style-override-88 {
+	margin-right : 1px;
+}
+p.para-style-override-89 {
+	margin-top : 2px;
+	text-align : left;
+}
+p.para-style-override-90 {
+	margin-left : 28px;
+	margin-top : 7px;
+	text-align : left;
+}
+p.para-style-override-91 {
+	margin-left : 10px;
+	text-align : justify;
+}
+p.para-style-override-92 {
+	margin-right : 1px;
+	margin-top : 8px;
+}
+p.para-style-override-93 {
+	margin-right : 1px;
+	text-indent : 16px;
+}
+p.para-style-override-94 {
+	margin-bottom : 13px;
+}
+p.para-style-override-95 {
+	margin-top : 2px;
+}
+p.para-style-override-96 {
+	margin-left : 15px;
+	text-indent : 0px;
+}
+p.para-style-override-97 {
+	margin-left : 16px;
+	text-indent : 0px;
+}
+p.para-style-override-98 {
+	margin-left : 16px;
+	margin-top : 3px;
+	text-indent : 0px;
+}
+p.para-style-override-99 {
+	margin-top : 3px;
+}
+p.para-style-override-100 {
+	margin-right : 35px;
+	text-indent : 15px;
+}
+p.para-style-override-101 {
+	margin-left : 14px;
+}
+p.para-style-override-102 {
+	margin-left : 14px;
+	margin-top : 3px;
+	text-indent : 0px;
+}
+p.para-style-override-103 {
+	margin-top : 3px;
+	text-align : left;
+}
+p.para-style-override-104 {
+	margin-left : 16px;
+	margin-top : 1px;
+	text-indent : 0px;
+}
+p.para-style-override-105 {
+	margin-left : 0px;
+	text-indent : 0px;
+}
+p.para-style-override-106 {
+	margin-left : 14px;
+	text-indent : -14px;
+}
+p.para-style-override-107 {
+	margin-left : 15px;
+}
+p.para-style-override-108 {
+	margin-left : 0px;
+	text-align : justify;
+	text-indent : 0px;
+}
+p.para-style-override-109 {
+	margin-right : 173px;
+	text-indent : 14px;
+}
+p.para-style-override-110 {
+	margin-top : 1px;
+}
+p.para-style-override-111 {
+	margin-left : 14px;
+	text-indent : 0px;
+}
+p.para-style-override-112 {
+	margin-right : 52px;
+	text-indent : 14px;
+}
+p.para-style-override-113 {
+	margin-right : 17px;
+}
+p.para-style-override-114 {
+	margin-right : 104px;
+	text-indent : 14px;
+}
+p.para-style-override-115 {
+	margin-left : 15px;
+	text-align : justify;
+	text-indent : -15px;
+}
+div.Basic-Text-Frame {
+}

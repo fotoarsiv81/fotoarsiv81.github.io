@@ -1,0 +1,626 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.al-nt-isim {
+    color: #000;
+    display: block;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 1.13em;
+    margin-right: 1.13em;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 1.42em
+    }
+.alinti {
+    color: #000;
+    display: block;
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 2.83em;
+    margin-right: 2.83em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.alinti-ilk-paragraf {
+    color: #000;
+    display: block;
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 2.83em;
+    margin-right: 2.83em;;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.alinti-ilk-paragraf-x {
+    color: #000;
+    display: block;
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 2.7em;
+    margin-right: 2.7em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.alinti-son-paragraf {
+    color: #000;
+    display: block;
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 2em;
+    margin-left: 2.83em;
+    margin-right: 2.83em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.alinti-son-paragraf-x {
+    color: #000;
+    display: block;
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 6em;
+    margin-left: 2.83em;
+    margin-right: 2.83em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.baslik {
+    color: #000;
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.5em;
+    margin-left: 0.24em;
+    margin-right: 0.24em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.bold {
+    color: #000;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.bold-ortali {
+    color: #000;
+    display: block;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.bolum-ismi {
+    color: #000;
+    font-size: 1.08em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.bolum-ismi-tek-satir {
+    color: #000;
+    display: block;
+    font-size: 1.08em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 7.69em;
+    margin-left: 0.22em;
+    margin-right: 0.22em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.bolum-ismi-xl {
+    color: #000;
+    display: block;
+    font-size: 1.08em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 4.36em;
+    margin-left: 0.22em;
+    margin-right: 0.22em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.bolum-ismi1 {
+    color: #000;
+    display: block;
+    font-size: 1.08em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 4.36em;
+    margin-left: 0.22em;
+    margin-right: 0.22em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre3 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre4 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.cell-style {
+    display: table-cell;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: inherit
+    }
+.dar-paragraf-duz {
+    color: #000;
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.dar-paragraf-italik {
+    color: #000;
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    text-decoration: none
+    }
+.dipnot-bold {
+    color: #000;
+    font-size: 0.67em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.dipnot-italik {
+    color: #000;
+    font-size: 0.67em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.dipnot-no {
+    color: #000;
+    font-size: 0.67em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.dipnotlar {
+    color: #000;
+    display: block;
+    font-size: 0.71em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.dipnotlar-son {
+    color: #000;
+    display: block;
+    font-size: 0.71em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 82.35em;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.dk-logo {
+    color: #000;
+    display: block;
+    font-size: 1.5em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.16em;
+    margin-right: 0.16em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0.79em
+    }
+.duyuru-baslik {
+    color: #000;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.duz {
+    color: #000;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    text-decoration: none
+    }
+.duz-devam {
+    color: #000;
+    display: block;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.54em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.duz-ilk-paragraf {
+    color: #000;
+    display: block;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.57em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.duz-son-paragraf {
+    color: #000;
+    display: block;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 10.8em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.duz-son-paragraf-1b {
+    color: #000;
+    display: block;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 2.7em;
+    margin-left: 0.27em;
+    margin-right: 0.27em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.duz1 {
+    color: #000;
+    display: block;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.54em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.footnote-anchor {
+    color: blue;
+    cursor: pointer;
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.footnote-link {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline
+    }
+.generated-style {
+    display: block
+    }
+.generated-style1 {
+    height: auto;
+    width: auto
+    }
+.ikon {
+    color: #000;
+    display: block;
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 1.7em;
+    margin-right: 1.7em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.italik {
+    color: #000;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.italik1 {
+    color: #000;
+    display: block;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0.54em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 1.35em
+    }
+.k-nye-bold {
+    color: #000;
+    font-size: 0.79em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.k-nye-regular {
+    color: #000;
+    font-size: 0.79em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.kitap-ismi {
+    color: #000;
+    display: block;
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.28em;
+    margin-right: 0.28em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.kitap-ismi-2-son {
+    color: #000;
+    display: block;
+    font-size: 1.17em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.43em;
+    margin-bottom: 4.05em;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.kitap-ismi-ilk {
+    color: #000;
+    display: block;
+    font-size: 1.17em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.43em;
+    margin-bottom: 0;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.kitap-ismi1 {
+    color: #000;
+    font-size: 0.92em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.kitap-ismi2 {
+    color: #000;
+    display: block;
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.28em;
+    margin-right: 0.28em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.kitap-ismi3 {
+    color: #000;
+    font-size: 1.42em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.29em;
+    text-decoration: none
+    }
+.kunye-yeni-madde {
+    color: #000;
+    display: block;
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.28em;
+    margin-right: 0.28em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.kunye-yeni-madde-devam {
+    color: #000;
+    display: block;
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0.28em;
+    margin-right: 0.28em;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.serifsiz {
+    color: #000;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.serifsiz-bold-arabaslik {
+    color: #000;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.sgc {
+    height: 100%;
+    width: 100%
+    }
+.table-style {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: -0.33em;
+    text-indent: 0
+    }
+.yazar-ismi {
+    color: #000;
+    font-size: 1.17em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.yazar-ismi1 {
+    color: #000;
+    display: block;
+    font-size: 1.17em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 6.07em;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 1.01em
+    }
+.yazar-ismi2 {
+    color: #000;
+    font-size: 1.17em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-decoration: none
+    }

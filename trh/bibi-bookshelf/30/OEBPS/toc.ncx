@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{A81797A6-329A-4D63-96CC-87EE8B9CF3D2}" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Türkiye'nin Yakın Tarihi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İlber Ortaylı</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>I. ANAYASA TARİHİMİZ</text>
+      </navLabel>
+      <content src="Text/anayasatarihimiz.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>İKİ ASIRLIK ANAYASA TECRÜBEMİZ</text>
+        </navLabel>
+        <content src="Text/A-001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>1876-1908: ANAYASA TARİHİMİZİN İKİ DÖNÜM NOKTASI</text>
+        </navLabel>
+        <content src="Text/A-002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>23 NİSAN 1920: YENİ MECLİS, ESKİ ANAYASA</text>
+        </navLabel>
+        <content src="Text/A-003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>1922-1924 LAİKLİĞE GİDEN ANAYASAL SÜREÇ</text>
+        </navLabel>
+        <content src="Text/A-004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>1924’TEN 1961’E ANAYASA SERÜVENİMİZ</text>
+        </navLabel>
+        <content src="Text/A-005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>1961 VE 1982 ANAYASALARI</text>
+        </navLabel>
+        <content src="Text/A-006.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>II. YAKIN TARİHİMİZ ÜZERİNE NOTLAR</text>
+      </navLabel>
+      <content src="Text/yakintarihimiz.xhtml"/>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>1915: ÇANAKKALE SAVAŞI VE SONRASI</text>
+        </navLabel>
+        <content src="Text/Y-001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>1914-1918: BİRİNCİ DÜNYA SAVAŞI</text>
+        </navLabel>
+        <content src="Text/Y-002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>1919: İZMİR’İN İŞGALİ</text>
+        </navLabel>
+        <content src="Text/Y-003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>23 NİSAN 1920: YENİ MECLİS, YENİ RUH</text>
+        </navLabel>
+        <content src="Text/Y-004.xhtml"/>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>Neden Ankara seçildi?</text>
+          </navLabel>
+          <content src="Text/Y-004.xhtml#sigil_toc_id_1"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>Komutanların değil, bürokrasinin kararı</text>
+          </navLabel>
+          <content src="Text/Y-004.xhtml#sigil_toc_id_2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>30 AĞUSTOS 1922: DOĞU ANADOLU’NUN KADERİNİ BELİRLEYEN SAVAŞ</text>
+        </navLabel>
+        <content src="Text/Y-005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>İSTANBUL’UN KURTULUŞ GÜNLERİ</text>
+        </navLabel>
+        <content src="Text/Y-006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>3 MART 1924 HİLAFET NE OLDU?</text>
+        </navLabel>
+        <content src="Text/Y-007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>HARF DEVRİMİ</text>
+        </navLabel>
+        <content src="Text/Y-008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>BEŞ BİN YILDIR DEĞİŞEN ALFABE</text>
+        </navLabel>
+        <content src="Text/Y-009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>ERMENİ OLAYLARI VE ARŞİVİMİZ</text>
+        </navLabel>
+        <content src="Text/Y-010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>1939-1945 İKİNCİ DÜNYA SAVAŞI’NDA TÜRKİYE</text>
+        </navLabel>
+        <content src="Text/Y-011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>1950 TÜRKİYE’DE DEMOKRASİNİN BAŞLANGICI</text>
+        </navLabel>
+        <content src="Text/Y-012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>14 MAYIS 1950 DEMOKRASİNİN İLK GÜNÜ</text>
+        </navLabel>
+        <content src="Text/Y-013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>1950’LER DEĞİŞEN TÜRKİYE</text>
+        </navLabel>
+        <content src="Text/Y-014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>6-7 EYLÜL 1955 SANCILI GÜNLER</text>
+        </navLabel>
+        <content src="Text/Y-015.xhtml"/>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>Cüz Sancısı</text>
+          </navLabel>
+          <content src="Text/Y-015.xhtml#sigil_toc_id_3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>27 MAYIS 1960 DARBENİN 50. YILI</text>
+        </navLabel>
+        <content src="Text/Y-016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>ESKİ VE YENİ DEMOKRAT PARTİ</text>
+        </navLabel>
+        <content src="Text/Y-017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>YAKIN TARİHİMİZDE SEÇİMLER</text>
+        </navLabel>
+        <content src="Text/Y-018.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>1960, 1971, 1960 ASKERİ DARBELER</text>
+        </navLabel>
+        <content src="Text/Y-019.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>12 EYLÜL’E NASIL GELDİK?</text>
+        </navLabel>
+        <content src="Text/Y-020.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>12 EYLÜL NELER GETİRDİ?</text>
+        </navLabel>
+        <content src="Text/Y-021.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>III. TÜRKİYE’NİN DIŞ POLİTİKASI</text>
+      </navLabel>
+      <content src="Text/dispolitika.xhtml"/>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>AVRUPA YOLUNDA TÜRKİYE</text>
+        </navLabel>
+        <content src="Text/D-001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>TÜRKİYE VE RUSYA</text>
+        </navLabel>
+        <content src="Text/D-002.xhtml"/>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>Rusya ve Osmanlı</text>
+          </navLabel>
+          <content src="Text/D-002.xhtml#sigil_toc_id_4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>RUSYA’DA TÜRKLER</text>
+        </navLabel>
+        <content src="Text/D-003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>TÜRKİYE VE İTALYA</text>
+        </navLabel>
+        <content src="Text/D-004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>TÜRKİYE VE ALMANYA</text>
+        </navLabel>
+        <content src="Text/D-005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>TÜRKİYE VE AVRUPA</text>
+        </navLabel>
+        <content src="Text/D-006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>TÜRKİYE VE SURİYE</text>
+        </navLabel>
+        <content src="Text/D-007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>TÜRKİYE VE IRAK’IN GELECEĞİ</text>
+        </navLabel>
+        <content src="Text/D-008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>NEO-OSMANLILAR</text>
+        </navLabel>
+        <content src="Text/D-009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>ÖKÜMENLİK TARTIŞMASI</text>
+        </navLabel>
+        <content src="Text/D-010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>TÜRKİYE VE VATİKAN</text>
+        </navLabel>
+        <content src="Text/D-011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>GEÇMİŞTEN GÜNÜMÜZE HARİCİYE</text>
+        </navLabel>
+        <content src="Text/D-012.xhtml"/>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>Diplomasi ve Dışişleri Bakanlığı tarihi üzerine kitaplar</text>
+          </navLabel>
+          <content src="Text/D-012.xhtml#sigil_toc_id_5"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>IV .TARİHTEN MİRASLAR</text>
+      </navLabel>
+      <content src="Text/tarihtenmiraslar.xhtml"/>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>TÜRKİYE ARKEOLOJİSİ</text>
+        </navLabel>
+        <content src="Text/T-001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>ANADOLU’DA ESKİ ESER GEZMEK</text>
+        </navLabel>
+        <content src="Text/T-002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>TÜRKİYE’DE ÇEVRE TAHRİBATI</text>
+        </navLabel>
+        <content src="Text/T-003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>KONSTANTİN SURLARI</text>
+        </navLabel>
+        <content src="Text/T-004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>MÜZEYE ÇEVRİLEN CAMİLER</text>
+        </navLabel>
+        <content src="Text/T-005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>SARAYLARIMIZ</text>
+        </navLabel>
+        <content src="Text/T-006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>SOKAK İSİMLERİ</text>
+        </navLabel>
+        <content src="Text/T-007.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>V. EĞİTİM SİSTEMİMİZ</text>
+      </navLabel>
+      <content src="Text/egitimsistemimiz.xhtml"/>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>DEĞERLENDİREMEDİĞİMİZ MİRAS</text>
+        </navLabel>
+        <content src="Text/E-001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>EĞİTİM SİSTEMİMİZ VE SINAVLAR</text>
+        </navLabel>
+        <content src="Text/E-002.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

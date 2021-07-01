@@ -1,0 +1,146 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Türkiye'nin Yakın Tarihi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ortaylı, İlber">İlber Ortaylı</dc:creator>
+    <dc:publisher>Timaş Yayınları</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{A81797A6-329A-4D63-96CC-87EE8B9CF3D2}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (3.5.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">6a17bc0f-37c7-456d-81a0-51b98eb6fa17</dc:identifier>
+    <meta name="Sigil version" content="0.9.7"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Türkiye'nin Yakın Tarihi"/>
+    <meta name="calibre:author_link_map" content="{&quot;İlber Ortaylı&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="anayasatarihimiz.xhtml" href="Text/anayasatarihimiz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-001.xhtml" href="Text/A-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-002.xhtml" href="Text/A-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-003.xhtml" href="Text/A-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-004.xhtml" href="Text/A-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-005.xhtml" href="Text/A-005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-006.xhtml" href="Text/A-006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yakintarihimiz.xhtml" href="Text/yakintarihimiz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-001.xhtml" href="Text/Y-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-002.xhtml" href="Text/Y-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-003.xhtml" href="Text/Y-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-004.xhtml" href="Text/Y-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-005.xhtml" href="Text/Y-005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-006.xhtml" href="Text/Y-006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-007.xhtml" href="Text/Y-007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-008.xhtml" href="Text/Y-008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-009.xhtml" href="Text/Y-009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-010.xhtml" href="Text/Y-010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-011.xhtml" href="Text/Y-011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-012.xhtml" href="Text/Y-012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-013.xhtml" href="Text/Y-013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-014.xhtml" href="Text/Y-014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-015.xhtml" href="Text/Y-015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-016.xhtml" href="Text/Y-016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-017.xhtml" href="Text/Y-017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-018.xhtml" href="Text/Y-018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-019.xhtml" href="Text/Y-019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-020.xhtml" href="Text/Y-020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Y-021.xhtml" href="Text/Y-021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dispolitika.xhtml" href="Text/dispolitika.xhtml" media-type="application/xhtml+xml"/>
+    <item id="D-001.xhtml" href="Text/D-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="D-002.xhtml" href="Text/D-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="D-003.xhtml" href="Text/D-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="D-004.xhtml" href="Text/D-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="D-005.xhtml" href="Text/D-005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="D-006.xhtml" href="Text/D-006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="D-007.xhtml" href="Text/D-007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="D-008.xhtml" href="Text/D-008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="D-009.xhtml" href="Text/D-009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="D-010.xhtml" href="Text/D-010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="D-011.xhtml" href="Text/D-011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="D-012.xhtml" href="Text/D-012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tarihtenmiraslar.xhtml" href="Text/tarihtenmiraslar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="T-001.xhtml" href="Text/T-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="T-002.xhtml" href="Text/T-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="T-003.xhtml" href="Text/T-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="T-004.xhtml" href="Text/T-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="T-005.xhtml" href="Text/T-005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="T-006.xhtml" href="Text/T-006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="T-007.xhtml" href="Text/T-007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="egitimsistemimiz.xhtml" href="Text/egitimsistemimiz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="E-001.xhtml" href="Text/E-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="E-002.xhtml" href="Text/E-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnotlar.xhtml" href="Text/dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id51" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="SM.css" href="Styles/SM.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo.png" href="Images/logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id51">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="anayasatarihimiz.xhtml"/>
+    <itemref idref="A-001.xhtml"/>
+    <itemref idref="A-002.xhtml"/>
+    <itemref idref="A-003.xhtml"/>
+    <itemref idref="A-004.xhtml"/>
+    <itemref idref="A-005.xhtml"/>
+    <itemref idref="A-006.xhtml"/>
+    <itemref idref="yakintarihimiz.xhtml"/>
+    <itemref idref="Y-001.xhtml"/>
+    <itemref idref="Y-002.xhtml"/>
+    <itemref idref="Y-003.xhtml"/>
+    <itemref idref="Y-004.xhtml"/>
+    <itemref idref="Y-005.xhtml"/>
+    <itemref idref="Y-006.xhtml"/>
+    <itemref idref="Y-007.xhtml"/>
+    <itemref idref="Y-008.xhtml"/>
+    <itemref idref="Y-009.xhtml"/>
+    <itemref idref="Y-010.xhtml"/>
+    <itemref idref="Y-011.xhtml"/>
+    <itemref idref="Y-012.xhtml"/>
+    <itemref idref="Y-013.xhtml"/>
+    <itemref idref="Y-014.xhtml"/>
+    <itemref idref="Y-015.xhtml"/>
+    <itemref idref="Y-016.xhtml"/>
+    <itemref idref="Y-017.xhtml"/>
+    <itemref idref="Y-018.xhtml"/>
+    <itemref idref="Y-019.xhtml"/>
+    <itemref idref="Y-020.xhtml"/>
+    <itemref idref="Y-021.xhtml"/>
+    <itemref idref="dispolitika.xhtml"/>
+    <itemref idref="D-001.xhtml"/>
+    <itemref idref="D-002.xhtml"/>
+    <itemref idref="D-003.xhtml"/>
+    <itemref idref="D-004.xhtml"/>
+    <itemref idref="D-005.xhtml"/>
+    <itemref idref="D-006.xhtml"/>
+    <itemref idref="D-007.xhtml"/>
+    <itemref idref="D-008.xhtml"/>
+    <itemref idref="D-009.xhtml"/>
+    <itemref idref="D-010.xhtml"/>
+    <itemref idref="D-011.xhtml"/>
+    <itemref idref="D-012.xhtml"/>
+    <itemref idref="tarihtenmiraslar.xhtml"/>
+    <itemref idref="T-001.xhtml"/>
+    <itemref idref="T-002.xhtml"/>
+    <itemref idref="T-003.xhtml"/>
+    <itemref idref="T-004.xhtml"/>
+    <itemref idref="T-005.xhtml"/>
+    <itemref idref="T-006.xhtml"/>
+    <itemref idref="T-007.xhtml"/>
+    <itemref idref="egitimsistemimiz.xhtml"/>
+    <itemref idref="E-001.xhtml"/>
+    <itemref idref="E-002.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

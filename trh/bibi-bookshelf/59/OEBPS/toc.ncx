@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="a161f4f4-cefa-4d63-8d86-5ce79ef47c97" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Mezhep ve Devlet</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Bektaşilik ve Osmanlı şemsiyesi</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_000.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>Türkmenlik’ten “devlet”e</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_001.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Osmanlı’da isyanlar ve mezhep</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_002.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Şah İsmail ve Yavuz Selim</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_003.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>Dönüm noktası: Çaldıran</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_004.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>Osmanlı’da ve İran’da “devlet”</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_005.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>“Halk İslamı”ndan “fıkıh İslamı”na</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_006.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>Mezhepler ve medreseler</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_007.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>Din, hukuk ve devlet</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_008.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>Devlet ve ulema</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_009.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>Bürokrasi, ulema ve modernleşme</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_010.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>Osmanlı modernleşmesi ve İran devrimi</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_011.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>Göçebelikten bürokratik modernizme</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_012.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>Tarihten geleceğe</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_013.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>Kısaltmalar</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_014.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+                <text>Kaynakça</text>
+            </navLabel>
+            <content src="Text/MEHZEP_VE_DEVLET_split_015.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>

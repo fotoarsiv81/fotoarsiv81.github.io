@@ -1,0 +1,84 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+@font-face {font-style: italic;font-family: 'Liberation', serif, sans-serif;font-weight: normal;src: url(LiberationSerif-Italic.ttf);}@font-face {font-style: normal;font-family: 'Liberation', serif, sans-serif;font-weight: normal;src: url(LiberationSerif-Regular.ttf);}@font-face {font-style: italic;font-family: 'Liberation', serif, sans-serif;font-weight: bold;src: url(LiberationSerif-BoldItalic.ttf);}@font-face {font-style: normal;font-family: 'Liberation', serif, sans-serif;font-weight: bold;src: url(LiberationSerif-Bold.ttf);}.calibre {
+    display: block;
+    font-size: 0.83333em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    page-break-before: always
+    }
+.calibre1 {
+    font-weight: bolder
+    }
+.calibre2 {
+    display: block;
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    margin-bottom: 5pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5pt;
+    text-indent: 0
+    }
+.calibre3 {
+    height: 100%;
+    max-width: 100%;
+    width: auto
+    }
+.p {
+    display: block;
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.p1 {
+    display: block;
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    margin-bottom: 5pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5pt;
+    text-align: center;
+    text-indent: 0
+    }
+.p2 {
+    display: block;
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.t {
+    font-size: 0.83333em
+    }
+.t1 {
+    color: black;
+    font-family: "Arial Black", sans-serif;
+    font-size: 2em
+    }
+.t2 {
+    font-family: "Times New Roman", serif;
+    font-size: 1.29167em
+    }
+.t3 {
+    font-family: "Times New Roman", serif;
+    font-size: 1em
+    }
+.t4 {
+    font-size: 2em
+    }
+.t5 {
+    font-size: 1em
+    }

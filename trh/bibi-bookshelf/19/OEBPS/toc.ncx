@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>PATRİMONYAL DEVLET VE SANAT </text>
+			</navLabel>
+			<content src="Text/4.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>II. OSMANLI SARAY KÜLTÜRÜNÜN GELİŞMESİ VE OSMANLI DİVAN ŞU’ARÂSI</text>
+			</navLabel>
+			<content src="Text/4.html#toc_marker-2"/>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>Kasîde Sunma ve İşret Meclisleri</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-2-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>III. PATRON VE KLASİK ŞİİRDE SANAT ANLAYIŞI</text>
+			</navLabel>
+			<content src="Text/4.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>IV. ŞU’ARÂ TEZKİRELERİNDE ŞÂİR VE PATRON</text>
+			</navLabel>
+			<content src="Text/4.html#toc_marker-4"/>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>Sehî</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-4-1"/>
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>Latîfî</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-4-2"/>
+			</navPoint>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>Âşık Çelebi</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-4-3"/>
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>Kınalı-zâde Hasan Çelebi</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-4-4"/>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>Mesleklerine Göre Şâirler</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-4-5"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>V. FUZÛLÎ VE PATRONAJ</text>
+			</navLabel>
+			<content src="Text/4.html#toc_marker-5"/>
+			<navPoint id="navpoint12" playOrder="12">
+				<navLabel>
+					<text>Fuzûlî ve Sultan Süleyman</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-5-1"/>
+			</navPoint>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>Fuzûlî ve Şehzâde Bayezid</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-5-2"/>
+			</navPoint>
+			<navPoint id="navpoint14" playOrder="14">
+				<navLabel>
+					<text>Fuzûlî ve Musul Sancak Beyi Ahmed</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-5-3"/>
+			</navPoint>
+			<navPoint id="navpoint15" playOrder="15">
+				<navLabel>
+					<text>Fuzûlî Hakkında Tezkireciler</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-5-4"/>
+			</navPoint>
+			<navPoint id="navpoint16" playOrder="16">
+				<navLabel>
+					<text>Fuzûlî ve Münşîlik</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-5-5"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>VI. İN’ÂM DEFTERLERİNDE H. 909-917 YILLARINDA BAĞIŞ ALAN ŞÂİRLERİN MENŞEİ VE MESLEĞİ</text>
+			</navLabel>
+			<content src="Text/4.html#toc_marker-6"/>
+			<navPoint id="navpoint18" playOrder="18">
+				<navLabel>
+					<text>Hangi Vesilelerle Kimlere İn’âm ve Sadaka Verilirdi</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-6-1"/>
+			</navPoint>
+			<navPoint id="navpoint19" playOrder="19">
+				<navLabel>
+					<text>‘Idâne: Bayramlık.</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-6-2"/>
+			</navPoint>
+			<navPoint id="navpoint20" playOrder="20">
+				<navLabel>
+					<text>14 Şevvâl’de İlâve Olunanlar (Tetimme):</text>
+				</navLabel>
+				<content src="Text/4.html#toc_marker-6-3"/>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

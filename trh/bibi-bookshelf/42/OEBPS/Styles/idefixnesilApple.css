@@ -1,0 +1,367 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+  margin: 0;
+  padding: 0;
+  border-width: 0;
+}
+td, th {
+  border-style: inherit;
+  border-width: inherit;
+  border-color: inherit;
+}
+tbody {
+  border-style: inherit;
+  border-width: inherit;
+  border-color: inherit;
+}
+tr {
+  border-style: inherit;
+  border-width: inherit;
+  border-color: inherit;
+}
+thead {
+  border-style: inherit;
+  border-width: inherit;
+  border-color: inherit;
+}
+tfoot {
+  border-style: inherit;
+  border-width: inherit;
+  border-color: inherit;
+}
+table {
+  border-collapse: collapse;
+}
+li {
+  display: block;
+}
+body {
+  -epub-hyphens: auto;
+  -webkit-hyphens: auto;
+}
+@page {
+  margin: 0.5px 0.5px 0.5px 0.5px;
+  }
+.leftFloat {
+  float: left;
+}
+.rightFloat {
+  float: right;
+}
+.kitapickapak {
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+  margin: 0.25em 0;
+}
+.kitapickapak2 {
+  text-align: center;
+  font-size: 1.75em;
+  margin: 0.25em 0;
+}
+.normal {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0.7em 0;
+  font-size: 1em;
+}
+.normal2 {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0.7em 0;
+  font-size: 1em;
+  font-weight: bold;
+}
+.normal3 {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0.7em 0;
+  font-size: 1em;
+  font-style: italic;
+}
+.normal4 {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0.7em 0;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+.normalnesililk {
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0;
+  font-size: 1em;
+}
+.normalnesil {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0 0;
+  font-size: 1em;
+}
+.normalnesilsplit {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0 0;
+  font-size: 1em;
+}
+.normalnesil5mmbefore {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin-top: 1em;
+  font-size: 1em;
+}
+.normalnesilson {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0 0 1em 0;
+  font-size: 1em;
+}
+.normalnesil2 {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0 0;
+  font-size: 1em;
+  font-weight: bold;
+}
+.normalnesil3 {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0 0;
+  font-size: 1em;
+  font-style: italic;
+}
+.normalnesil4 {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0 0;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+.indentmetinilk {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0.25em 0;
+  margin-left: 3em;
+  margin-top: 1em;
+  font-size: 1em;
+}
+.indentmetinilk2 {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0.25em 0;
+  margin-left: 3em;
+  margin-top: 1em;
+  font-size: 1em;
+}
+.indentmetinson {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0.25em 0;
+  margin-left: 3em;
+  margin-bottom: 1em;
+  font-size: 1em;
+}
+.indentmetin {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0.25em 0;
+  margin-left: 3em;
+  font-size: 1em;
+}
+.indentmetintek {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0.25em 0;
+  margin-left: 3em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-size: 1em;
+}
+.indentmetinitalik {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0.25em 0;
+  margin-left: 3em;
+  font-style: italic;
+  font-size: 1em;
+}
+.indentmetinbold {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0.25em 0;
+  margin-left: 3em;
+  margin-top: 1em;
+  font-weight: bold;
+  font-size: 1em;
+}
+.baslik {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+.Arapca {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.h1baslik {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.3em;
+  margin-bottom: 1em;
+}
+.h2baslik {
+  text-align: justify;
+  font-weight: bold;
+  font-size: 1.2em;
+  margin: 0.85em 0 0.5em 0;
+}
+.h2baslikbol {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
+  margin: 0.85em 0 0.5em 0;
+}
+.solbaslik {
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0.85em 0 0.5em 0;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+.sagbaslik {
+  text-align: right;
+  text-indent: 0.75em;
+  margin: 0.25em 0;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+.bolum {
+  font-size: 2em;
+  text-align: center;
+  font-weight: normal;
+}
+.kapakmetin {
+  text-align: center;
+  font-size: 0.75em;
+  margin: 0 0;
+}
+.kunye {
+  text-align: left;
+  font-size: 0.75em;
+  margin: 0 0;
+  margin-left: 3em;
+}
+.kunyenesil {
+  text-align: center;
+  font-size: 0.75em;
+  margin: 0 0;
+}
+.idebold {
+  font-weight: bold;
+}
+.ideitalik {
+  font-style: italic;
+}
+.idebolditalik {
+  font-style: italic;
+  font-weight: bold;
+}
+.ortaitalik {
+  text-align: center;
+  margin-bottom: 1em;
+  font-style: italic;
+}
+.ortayazi {
+  text-align: center;
+  font-style: normal;
+  margin: 20px;
+}
+.sagic {
+  float: right;
+  text-align: justify;
+  font-style: normal;
+  margin: 0 0 30px 30px;
+  width: 40%;
+  clear: both;
+}
+.sagitalik {
+  text-align: right;
+  font-style: italic;
+}
+.sagbold {
+  text-align: right;
+  font-weight: bold;
+}
+.sagnormal {
+  text-align: right;
+  margin-bottom: 1em;
+  font-style: normal;
+}
+.sagbolditalik {
+  text-align: right;
+  font-style: italic;
+  font-weight: bold;
+}
+.rightimage {
+  float: right;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.leftimage {
+  float: left;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  margin-top: 15px;
+}
+.resimalti {
+  text-align: center;
+  font-style: italic;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 0.8em;
+}
+.clrb {
+  clear: both;
+}
+.resim {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.generictable {
+  width: 100%;
+  border: 0;
+  border-collapse: collapse;
+}
+.generictable td, th {
+  border: 1px solid #fff;
+  background-color: #eee;
+  margin: 0;
+  padding: 0.2em 0.3em;
+  font-family: Arial, sans-serif;
+  font-size: 0.8em;
+  text-align: left;
+}
+.tablo25 {
+  width: 25%;
+  display: inline-block;
+}
+.tablo50 {
+  width: 50%;
+  display: inline-block;
+}
+.tablo75 {
+  width: 75%;
+  display: inline-block;
+}
+.tablo100 {
+  width: 100%;
+  display: inline-block;
+}
+.ustyazi {
+  vertical-align: super;
+}

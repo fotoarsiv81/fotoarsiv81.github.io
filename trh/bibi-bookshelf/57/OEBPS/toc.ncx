@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:f43ece75-8ec6-466e-be13-b5fa478ac93e" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Osmanlı Kültürü ve Gündelik Yaşam</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>içindekiler</text>
+      </navLabel>
+      <content src="Text/TOC.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/Onsoz.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM GİRİŞ</text>
+      </navLabel>
+      <content src="Text/01.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM BİR DÜNYA İMPARATORLUĞUNUN DOĞUŞU</text>
+      </navLabel>
+      <content src="Text/02.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>I KÜLTÜR: OLUŞUMU VE YAYILIŞI</text>
+      </navLabel>
+      <content src="Text/Part1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM YENİÇAĞIN BAŞINDA OSMANLI İMPARATORLUĞU’NUN EKONOMİK VE SOSYAL YAPISI</text>
+      </navLabel>
+      <content src="Text/03.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM DÜNYA VE ZAMAN KAVRAMI</text>
+      </navLabel>
+      <content src="Text/04.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>BEŞİNCİ BÖLÜM SINIRLAR VE SINIRLARI AŞANLAR</text>
+      </navLabel>
+      <content src="Text/05.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>ALTINCI BÖLÜM KADIN KÜLTÜRÜ</text>
+      </navLabel>
+      <content src="Text/06.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>II SANATLAR</text>
+      </navLabel>
+      <content src="Text/Part2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>YEDİNCİ BÖLÜM MİMARLAR, VAKIFLAR VE YAPILARDA GÜZELLİK</text>
+      </navLabel>
+      <content src="Text/07.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>SEKİZİNCİ BÖLÜM KENTTE YAŞAMAK: KENT BİLİNCİ VE EV KÜLTÜRÜ</text>
+      </navLabel>
+      <content src="Text/08.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>DOKUZUNCU BÖLÜM DİNİ TÖRENLER, ŞENLİKLER VE BEZEME SANATI</text>
+      </navLabel>
+      <content src="Text/09.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>ONUNCU BÖLÜM OKUYAN, YAZAN VE ANLATAN</text>
+      </navLabel>
+      <content src="Text/10.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>ON BİRİNCİ BÖLÜM YEME-İÇME VE DOST SOHBETLERİ</text>
+      </navLabel>
+      <content src="Text/11.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>III DEĞİŞEN KÜLTÜR</text>
+      </navLabel>
+      <content src="Text/Part3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>ON İKİNCİ BÖLÜM KRİZLER VE YENİ BAŞLANGIÇLAR (1770-1839)</text>
+      </navLabel>
+      <content src="Text/12.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>ON ÜÇÜNCÜ BÖLÜM ALAFRANGA, TOPLUM ELEŞTİRİSİ VE DOMATESLER OSMANLI ÜST TABAKA KÜLTÜRÜNDE DEĞİŞİM (1840-1914)</text>
+      </navLabel>
+      <content src="Text/13.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>ON DÖRDÜNCÜ BÖLÜM SONUÇ</text>
+      </navLabel>
+      <content src="Text/sonuc.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>RESİMLER</text>
+      </navLabel>
+      <content src="Text/Resimler.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>KAYNAKÇA</text>
+      </navLabel>
+      <content src="Text/kaynaklar.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

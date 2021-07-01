@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kısa Türkiye Tarihi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Akşin, Sina">Sina Akşin</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:a6cd4355-b536-4ab5-ae40-386b839e56bf</dc:identifier>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>2006-12-31T22:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;Türkiye Cumhuriyeti’nin tarihi, gelgitlerle ilerleyen çağdaşlaşma serüveninin parçası olmuştur. Yakın tarihimiz ve İttihat ve Terakki üzerine değerli çalışmalarıyla tanıdığımız Prof. Dr. Sina Akşin, Kısa Türkiye Tarihi’nde, 19. yüzyıl başındaki ilk reform çabalarından 2000’li yıllar Türkiye’sine kadar uzanan bu çalkantılı süreci son derece kolay okunan ve akılda kalan bir özet halinde okuyucuya sunuyor. Tarihini okuyarak bugününü anlamak isteyenler için bir başucu kitab&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-02-18</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">091c37d7-7716-44cb-bd3a-8d51f862a1d5</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/tarih_split_000.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/tarih_split_001.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/tarih_split_002.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/tarih_split_003.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/tarih_split_004.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/tarih_split_005.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/tarih_split_006.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/tarih_split_007.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/tarih_split_008.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/tarih_split_009.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/tarih_split_010.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/tarih_split_011.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/tarih_split_012.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/iskultur.jpg" id="added" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Fonts/arial.ttf" id="cid5" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbd.ttf" id="cid6" media-type="application/x-font-ttf"/>
+    <item href="Fonts/arialbi.ttf" id="cid8" media-type="application/x-font-ttf"/>
+    <item href="Fonts/ariali.ttf" id="cid7" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="cid2" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="cid4" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="cid3" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="cid1" media-type="application/x-font-ttf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,86 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Aron, Paul">Paul Aron</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">16290578-e3b8-4b5e-988f-3f8f07ff66c3</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2002-08-12T21:00:00+00:00</dc:date>
+    <meta content="Tarihin Büyük Sırları" name="calibre:title_sort"/>
+    <meta content="2012-08-11T22:02:50+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Tarihin Büyük Sırları</dc:title>
+<dc:publisher>Aykırı Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Genel Kültür</dc:subject>
+<dc:subject>Araştırma</dc:subject>
+<dc:description>&lt;p&gt;Yüzlerce yıldır tartışılan ama hala tam olarak çözülemeyen bazı esrarengiz olaylar tarihin ilginç bir alanını oluşturur. Bu kitapta bu büyük sırlardan bir demet ele alınıyor:
+
+Neandertaller atamız mıydı? En yakın akrabalarımız oldukları sanılıyordu ama...
+Stonehenge'i kim dikti? Bu anıtları dikme şerefi çeşitli uygarlıklara layık görülmüştü ama...
+Firavunlar pirametleri neden inşa ettirdiler? Anıt-mezar olduklarına inanılıyordu ama...
+Troya Savaşı gerçek miydi? Bir Alman milyoneri Çanakkeli'de kazılara başladı ama...
+İsa çarmıhta mı öldü? İsa'nın mezarı boştu ama...
+Nazca çizgileri neydi? Peru çölünde UFO'lar için yapılan işaretler olduğu bile iddia edildi ama...
+Maya uygarlığı neden çöktü? Kolomb'dan çok önce çökmüştü ama...
+Paskalya Adaları'ndaki heykelleri kim yaptı? Amerikalı Yerliler dendi ama...
+Jeanne D'Ark'ın 'işareti' neydi? Fransa'nın kaderi bir köylü kızına bırakıldı ama...
+Matbaayı kim icat etti? Herkes Johann Gutenberg diye bilir ama...
+Kolomb'un amacı Amerika'yı keşfetmek miydi? Hindistan'a gitmek istediğine inanılıyordu ama...
+Shakespeare'in oyunlarını kim yazdı? Oyunlardaki bilgiler küçük bir kasabadan çıkmayan birisini aşıyor ama...
+Mozart zehirlendi mi? Müzik dehası birden bire ölüverdi ama...
+Freud kendi teorisini neden terk etti? Freud'un bir sahtekar olduğu iddia edildi ama...
+Titanik kurtarılabilir miyidi? Sadece birkaç mil uzakta bir gemi vardı ama...
+Hitler yeğenini öldürdü mü? Hitler'in dairesinde tabancayla öldürülmüş olarak bulundu ama...&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Paul Aron&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">8d6a802d-5292-4b71-b866-a755cdaa98f7</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789758337392</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section9.xhtml" id="Section9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section16.xhtml" id="Section16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/Cover.xhtml" id="Cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section1.xhtml" id="Section1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section2.xhtml" id="Section2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section3.xhtml" id="Section3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section4.xhtml" id="Section4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section5.xhtml" id="Section5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section6.xhtml" id="Section6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section7.xhtml" id="Section7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section8.xhtml" id="Section8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section12.xhtml" id="Section12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section13.xhtml" id="Section13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section15.xhtml" id="Section15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section14.xhtml" id="Section14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section10.xhtml" id="Section10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section11.xhtml" id="Section11.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Cover.xhtml"/>
+    <itemref idref="Section1.xhtml"/>
+    <itemref idref="Section2.xhtml"/>
+    <itemref idref="Section3.xhtml"/>
+    <itemref idref="Section4.xhtml"/>
+    <itemref idref="Section5.xhtml"/>
+    <itemref idref="Section6.xhtml"/>
+    <itemref idref="Section7.xhtml"/>
+    <itemref idref="Section8.xhtml"/>
+    <itemref idref="Section9.xhtml"/>
+    <itemref idref="Section10.xhtml"/>
+    <itemref idref="Section11.xhtml"/>
+    <itemref idref="Section12.xhtml"/>
+    <itemref idref="Section13.xhtml"/>
+    <itemref idref="Section14.xhtml"/>
+    <itemref idref="Section15.xhtml"/>
+    <itemref idref="Section16.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

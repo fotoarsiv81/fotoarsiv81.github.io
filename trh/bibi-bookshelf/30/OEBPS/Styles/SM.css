@@ -1,0 +1,48 @@
+body {margin-left:.3em;margin-right:0.3em;}
+
+h1 {font-size:1.64em;text-indent:0em;text-align:center;font-weight:normal;margin-top:2em;}
+
+h2 {text-align:center;font-size:1.2em;text-indent:0em;margin-top:6em;margin-bottom:2em;}
+
+h3 {text-align:center;font-size:1em;text-indent:0em;margin-top:2em;}
+
+p {text-align:justify;margin: 0 0 0 0;font-size:.9em;text-indent:1em;}
+
+.p1 {text-indent:0em;}
+.p1o {text-indent:0em;text-align:center;}
+
+.ithaf {text-align:right;font-size:.8em;margin-top:6em;text-indent:0em;margin-bottom:4em;}
+.yazar {margin-left:1em;text-indent:0em;margin-right:1em;}
+.yazar p {text-indent:0em;font-size:.75em;}
+.kunye {text-align:center;text-indent:-1em;margin-top:0em;margin-left:2em;margin-bottom:0em;font-size: 0.7em;}
+
+.baslangic {text-indent:0em;text-align:center;font-size:1.1em;margin-top:3em;}
+
+.logo {margin-top:5em;text-indent:0em;text-align:center;}
+
+.logo1 {text-indent:0em;text-align:center;}
+
+.lettrine {float: left; margin: 0 0.5em -0.1em 0.25em;}
+
+.kisim {margin-top:4em;}
+
+.onsoz {text-align:center;text-indent:0em;font-size:1.1em;font-style:italic;}
+
+.m05	{margin-top:.5em;}
+.m1		{margin-top:1em;}
+.m105	{margin-top:1.5em;}
+.m2		{margin-top:2em;}
+.m3		{margin-top:3em;}
+.m4 	{margin-top:4em;}
+.m6 	{margin-top:6em;}
+.m8 	{margin-top:8em;}
+
+.dipnot {text-align:left;text-indent:0em;margin-top:.3em;margin-bottom:.2em;margin-left:2.5em;font-size:.8em;}
+
+.dipnot1 {text-align:left;text-indent:0em;margin-top:1em;margin-bottom:1em;page-break-before:always;margin-left:.5em;}
+
+a.dipnot2 {font-family: sans-serif;text-decoration: none;color: #DC143C;font-size:.75em;line-height: .9em;vertical-align: super;padding-left: 0.05em;}
+
+.baslik {font-size:1.4em;margin-top:2em;margin-bottom:0.5em;text-align:center;text-indent:0em;}
+
+.baslik2 {font-size:1.9em;margin-top:0em;margin-bottom:0.6em;text-align:center;text-indent:0em;}

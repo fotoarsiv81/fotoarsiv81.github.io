@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>ÖNSÖZ </text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Birinci Bölüm </text>
+			</navLabel>
+			<content src="Text/5-1.html#toc_marker-2"/>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>((1))</text>
+				</navLabel>
+				<content src="Text/5-2.html#toc_marker-2-1"/>
+			</navPoint>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>((2))</text>
+				</navLabel>
+				<content src="Text/5-3.html#toc_marker-2-2"/>
+			</navPoint>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>((3))</text>
+				</navLabel>
+				<content src="Text/5-4.html#toc_marker-2-3"/>
+			</navPoint>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>((4)) </text>
+				</navLabel>
+				<content src="Text/5-5.html#toc_marker-2-4"/>
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>((5)) </text>
+				</navLabel>
+				<content src="Text/5-6.html#toc_marker-2-5"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>İkinci Bölüm </text>
+			</navLabel>
+			<content src="Text/5-7.html#toc_marker-3"/>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>((6)) </text>
+				</navLabel>
+				<content src="Text/5-8.html#toc_marker-3-1"/>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>((7))</text>
+				</navLabel>
+				<content src="Text/5-9.html#toc_marker-3-2"/>
+			</navPoint>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>((8))</text>
+				</navLabel>
+				<content src="Text/5-10.html#toc_marker-3-3"/>
+			</navPoint>
+			<navPoint id="navpoint12" playOrder="12">
+				<navLabel>
+					<text>((9)) </text>
+				</navLabel>
+				<content src="Text/5-11.html#toc_marker-3-4"/>
+			</navPoint>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>((10))</text>
+				</navLabel>
+				<content src="Text/5-12.html#toc_marker-3-5"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>Üçüncü Bölüm </text>
+			</navLabel>
+			<content src="Text/5-13.html#toc_marker-4"/>
+			<navPoint id="navpoint15" playOrder="15">
+				<navLabel>
+					<text>((11)) </text>
+				</navLabel>
+				<content src="Text/5-14.html#toc_marker-4-1"/>
+			</navPoint>
+			<navPoint id="navpoint16" playOrder="16">
+				<navLabel>
+					<text>((12)) </text>
+				</navLabel>
+				<content src="Text/5-15.html#toc_marker-4-2"/>
+			</navPoint>
+			<navPoint id="navpoint17" playOrder="17">
+				<navLabel>
+					<text>((13)) </text>
+				</navLabel>
+				<content src="Text/5-16.html#toc_marker-4-3"/>
+			</navPoint>
+			<navPoint id="navpoint18" playOrder="18">
+				<navLabel>
+					<text>((14)) </text>
+				</navLabel>
+				<content src="Text/5-17.html#toc_marker-4-4"/>
+			</navPoint>
+			<navPoint id="navpoint19" playOrder="19">
+				<navLabel>
+					<text>((15))</text>
+				</navLabel>
+				<content src="Text/5-18.html#toc_marker-4-5"/>
+			</navPoint>
+			<navPoint id="navpoint20" playOrder="20">
+				<navLabel>
+					<text>((16))</text>
+				</navLabel>
+				<content src="Text/5-19.html#toc_marker-4-6"/>
+			</navPoint>
+			<navPoint id="navpoint21" playOrder="21">
+				<navLabel>
+					<text>((17))</text>
+				</navLabel>
+				<content src="Text/5-20.html#toc_marker-4-7"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint22" playOrder="22">
+			<navLabel>
+				<text>Dördüncü Bölüm </text>
+			</navLabel>
+			<content src="Text/5-21.html#toc_marker-5"/>
+			<navPoint id="navpoint23" playOrder="23">
+				<navLabel>
+					<text>((18))</text>
+				</navLabel>
+				<content src="Text/5-22.html#toc_marker-5-1"/>
+			</navPoint>
+			<navPoint id="navpoint24" playOrder="24">
+				<navLabel>
+					<text>((19)) </text>
+				</navLabel>
+				<content src="Text/5-23.html#toc_marker-5-2"/>
+			</navPoint>
+			<navPoint id="navpoint25" playOrder="25">
+				<navLabel>
+					<text>((20))</text>
+				</navLabel>
+				<content src="Text/5-24.html#toc_marker-5-3"/>
+			</navPoint>
+			<navPoint id="navpoint26" playOrder="26">
+				<navLabel>
+					<text>((21)) </text>
+				</navLabel>
+				<content src="Text/5-25.html#toc_marker-5-4"/>
+			</navPoint>
+			<navPoint id="navpoint27" playOrder="27">
+				<navLabel>
+					<text>((22))</text>
+				</navLabel>
+				<content src="Text/5-26.html#toc_marker-5-5"/>
+			</navPoint>
+			<navPoint id="navpoint28" playOrder="28">
+				<navLabel>
+					<text>((23))</text>
+				</navLabel>
+				<content src="Text/5-27.html#toc_marker-5-6"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint29" playOrder="29">
+			<navLabel>
+				<text>Beşinci Bölüm </text>
+			</navLabel>
+			<content src="Text/5-28.html#toc_marker-6"/>
+			<navPoint id="navpoint30" playOrder="30">
+				<navLabel>
+					<text>((24))</text>
+				</navLabel>
+				<content src="Text/5-29.html#toc_marker-6-1"/>
+			</navPoint>
+			<navPoint id="navpoint31" playOrder="31">
+				<navLabel>
+					<text>((25))</text>
+				</navLabel>
+				<content src="Text/5-30.html#toc_marker-6-2"/>
+			</navPoint>
+			<navPoint id="navpoint32" playOrder="32">
+				<navLabel>
+					<text>((26))</text>
+				</navLabel>
+				<content src="Text/5-31.html#toc_marker-6-3"/>
+			</navPoint>
+			<navPoint id="navpoint33" playOrder="33">
+				<navLabel>
+					<text>((27))</text>
+				</navLabel>
+				<content src="Text/5-32.html#toc_marker-6-4"/>
+			</navPoint>
+			<navPoint id="navpoint34" playOrder="34">
+				<navLabel>
+					<text>((28)) </text>
+				</navLabel>
+				<content src="Text/5-33.html#toc_marker-6-5"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint35" playOrder="35">
+			<navLabel>
+				<text>Altıncı Bölüm </text>
+			</navLabel>
+			<content src="Text/5-34.html#toc_marker-7"/>
+			<navPoint id="navpoint36" playOrder="36">
+				<navLabel>
+					<text>((29))</text>
+				</navLabel>
+				<content src="Text/5-35.html#toc_marker-7-1"/>
+			</navPoint>
+			<navPoint id="navpoint37" playOrder="37">
+				<navLabel>
+					<text>((30))</text>
+				</navLabel>
+				<content src="Text/5-36.html#toc_marker-7-2"/>
+			</navPoint>
+			<navPoint id="navpoint38" playOrder="38">
+				<navLabel>
+					<text>((31)) </text>
+				</navLabel>
+				<content src="Text/5-37.html#toc_marker-7-3"/>
+			</navPoint>
+			<navPoint id="navpoint39" playOrder="39">
+				<navLabel>
+					<text>((32))</text>
+				</navLabel>
+				<content src="Text/5-38.html#toc_marker-7-4"/>
+			</navPoint>
+			<navPoint id="navpoint40" playOrder="40">
+				<navLabel>
+					<text>((33)) </text>
+				</navLabel>
+				<content src="Text/5-39.html#toc_marker-7-5"/>
+			</navPoint>
+			<navPoint id="navpoint41" playOrder="41">
+				<navLabel>
+					<text>((34)) </text>
+				</navLabel>
+				<content src="Text/5-40.html#toc_marker-7-6"/>
+			</navPoint>
+			<navPoint id="navpoint42" playOrder="42">
+				<navLabel>
+					<text>((35))</text>
+				</navLabel>
+				<content src="Text/5-41.html#toc_marker-7-7"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint43" playOrder="43">
+			<navLabel>
+				<text>Yedinci Bölüm </text>
+			</navLabel>
+			<content src="Text/5-42.html#toc_marker-8"/>
+			<navPoint id="navpoint44" playOrder="44">
+				<navLabel>
+					<text>((36))</text>
+				</navLabel>
+				<content src="Text/5-43.html#toc_marker-8-1"/>
+			</navPoint>
+			<navPoint id="navpoint45" playOrder="45">
+				<navLabel>
+					<text>((37)) </text>
+				</navLabel>
+				<content src="Text/5-44.html#toc_marker-8-2"/>
+			</navPoint>
+			<navPoint id="navpoint46" playOrder="46">
+				<navLabel>
+					<text>((38))</text>
+				</navLabel>
+				<content src="Text/5-45.html#toc_marker-8-3"/>
+			</navPoint>
+			<navPoint id="navpoint47" playOrder="47">
+				<navLabel>
+					<text>((39))</text>
+				</navLabel>
+				<content src="Text/5-46.html#toc_marker-8-4"/>
+			</navPoint>
+			<navPoint id="navpoint48" playOrder="48">
+				<navLabel>
+					<text>((40))</text>
+				</navLabel>
+				<content src="Text/5-47.html#toc_marker-8-5"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint49" playOrder="49">
+			<navLabel>
+				<text>SON SÖZ </text>
+			</navLabel>
+			<content src="Text/5-48.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint50" playOrder="50">
+			<navLabel>
+				<text>KAYNAKÇA </text>
+			</navLabel>
+			<content src="Text/5-49.html#toc_marker-10"/>
+		</navPoint>
+		<navPoint id="navpoint51" playOrder="51">
+			<navLabel>
+				<text>Dizin</text>
+			</navLabel>
+			<content src="Text/5-50.html#toc_marker-11"/>
+		</navPoint>
+	</navMap>
+</ncx>

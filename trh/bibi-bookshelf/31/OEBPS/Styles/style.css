@@ -1,0 +1,43 @@
+
+@page{margin-left:0.5cm;margin-right:0.5cm;margin-top:0.5cm;margin-bottom:0.5cm}
+body{margin:0}
+p{text-indent:1.8em;margin-left:0;line-height:120%;margin-right:0;text-align:justify;margin-top:.55em;margin-bottom:.55em;font-family:"Trebuchet MS",sans-serif;font-size:100%}
+.p0{text-indent:1.8em;text-align:center;margin-top:0;margin-bottom:0}
+.p2{text-indent:1.8em;text-align:center;margin-top:11em}
+.p3{text-indent:1.8em;text-align:center;margin-top:1.1em}
+.p4{text-indent:1.8em;text-align:center;margin-top:1.6em}
+.p5{text-indent:1.8em;text-align:center;margin-top:2.7em}
+.p6{text-indent:1.8em;margin-left:1.3em;margin-top:1.6em}
+.p7{text-indent:1.8em;margin-left:1.3em}
+.p8{text-indent:1.8em;margin-top:1.6em}
+.p9{text-indent:0;margin-left:3.9em}
+.p10{text-indent:0;margin-left:5.2em}
+.p11{text-indent:0;margin-left:3.9em;margin-top:1.1em}
+.p12{text-indent:1.8em;text-align:right}
+.p13{text-indent:1.8em;margin-top:1.6em;margin-bottom:1.6em}
+.p14{text-indent:1.8em;text-align:center}
+.p15{text-indent:1.8em;text-align:center;margin-top:1.6em;margin-bottom:1.6em}
+.p16{text-indent:1.8em;margin-left:7.7em}
+.p17{text-indent:-1.6em;margin-left:1.6em}
+.p18{text-indent:-1.6em;margin-left:1.6em}
+h1{text-indent:1.4em;margin-left:0;line-height:115%;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.86em;margin-bottom:2.1em;font-family:"Trebuchet MS",sans-serif;font-size:127%;font-weight:bold}
+h2{text-indent:1.5em;margin-left:0;line-height:115%;margin-right:0;text-align:center;page-break-after:avoid;margin-top:.77em;margin-bottom:1.8em;font-family:"Trebuchet MS",sans-serif;font-size:118%;font-weight:bold}
+h3{text-indent:1.8em;margin-left:0;line-height:115%;margin-right:0;text-align:justify;page-break-after:avoid;margin-top:2.2em;margin-bottom:1.1em;font-family:"Trebuchet MS",sans-serif;font-size:100%;font-weight:bold}
+.t2{font-size:1.3em;line-height:120%}
+.t3{font-size:1.8em;line-height:120%;font-weight:bold}
+.t4{font-weight:bold}
+.t5{font-size:.70em;line-height:120%}
+.t6{font-size:.82em;line-height:120%;font-weight:bold;font-style:italic}
+.t7{font-size:2em;line-height:120%;font-weight:bold}
+.t9{font-size:4.4em;line-height:120%;font-weight:bold}
+.t10{font-size:1.2em;line-height:120%;font-weight:bold;color:blue;text-decoration:underline}
+.t11{font-size:1.2em;line-height:120%;font-weight:bold}
+.t12{font-size:1.1em;line-height:120%;color:blue;text-decoration:underline}
+.t13{font-size:1.1em;line-height:120%}
+.t14{color:blue;text-decoration:underline}
+.t15{font-style:italic}
+.t16{font-size:1.1em;line-height:120%;font-weight:bold;font-style:italic}
+.t17{font-weight:bold;font-style:italic}
+.t18{font-size:.65em;line-height:120%;font-style:italic;vertical-align:super}
+.t19{font-size:.65em;line-height:120%;vertical-align:super}
+.t20{font-family:Trebuchet MS,sans-serif}

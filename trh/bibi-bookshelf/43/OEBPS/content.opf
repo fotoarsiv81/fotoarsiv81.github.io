@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Roma İmparatorluğu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Roux, Patrick Le">Patrick Le Roux</dc:creator>
+    <dc:identifier id="BookId">urn:uuid:2a62797e-89da-4825-b32e-c8d2bb69e38f</dc:identifier>
+    <dc:date opf:event="creation">2016-07-16T22:32:15Z</dc:date>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2016-07-17</dc:date>
+    <dc:publisher>Dost Kitabevi</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">dc214b07-7b54-4404-af82-9b23cc9d7a8a</dc:identifier>
+    <meta content="0.9.5" name="Sigil version"/>
+    <meta content="Roma İmparatorluğu" name="calibre:title_sort"/>
+    <meta content="{&quot;Patrick Le Roux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/Kapak.xhtml" id="Kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Ic_Kapak.xhtml" id="Ic_Kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Harita.xhtml" id="Harita.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Giris.xhtml" id="Giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1-001.xhtml" id="Bolum1-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1-002.xhtml" id="Bolum1-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum1-003.xhtml" id="Bolum1-003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2-004.xhtml" id="Bolum2-004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2-005.xhtml" id="Bolum2-005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2-006.xhtml" id="Bolum2-006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum2-007.xhtml" id="Bolum2-007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum3-008.xhtml" id="Bolum3-008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum3-009.xhtml" id="Bolum3-009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum3-010.xhtml" id="Bolum3-010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum3-011.xhtml" id="Bolum3-011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum4-012.xhtml" id="Bolum4-012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum4-013.xhtml" id="Bolum4-013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum4-014.xhtml" id="Bolum4-014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum4-015.xhtml" id="Bolum4-015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Sonuc.xhtml" id="Sonuc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/mandos.css" id="mandos.css" media-type="text/css"/>
+    <item href="Images/logo.jpg" id="logo.jpg" media-type="image/jpeg"/>
+    <item href="Images/Patrick_Le_Roux_-_Roma_Imparatorlugu__OCR_.jpg" id="u5kHWmbtUVBhdOkv8DKgq46" media-type="image/jpeg"/>
+    <item href="Images/Patrick_Le_Roux_-_Roma_Imparatorlugu_1.jpg" id="uM5UIMUHXhJHYIrpSs3nv43" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Kapak.xhtml"/>
+    <itemref idref="Ic_Kapak.xhtml"/>
+    <itemref idref="Kunye.xhtml"/>
+    <itemref idref="Harita.xhtml"/>
+    <itemref idref="Giris.xhtml"/>
+    <itemref idref="Bolum1-001.xhtml"/>
+    <itemref idref="Bolum1-002.xhtml"/>
+    <itemref idref="Bolum1-003.xhtml"/>
+    <itemref idref="Bolum2-004.xhtml"/>
+    <itemref idref="Bolum2-005.xhtml"/>
+    <itemref idref="Bolum2-006.xhtml"/>
+    <itemref idref="Bolum2-007.xhtml"/>
+    <itemref idref="Bolum3-008.xhtml"/>
+    <itemref idref="Bolum3-009.xhtml"/>
+    <itemref idref="Bolum3-010.xhtml"/>
+    <itemref idref="Bolum3-011.xhtml"/>
+    <itemref idref="Bolum4-012.xhtml"/>
+    <itemref idref="Bolum4-013.xhtml"/>
+    <itemref idref="Bolum4-014.xhtml"/>
+    <itemref idref="Bolum4-015.xhtml"/>
+    <itemref idref="Sonuc.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Kapak.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text></text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/3.html#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="Text/4.html#toc_marker-2"/>
+      <navPoint id="navpoint3" playOrder="3">
+        <navLabel>
+          <text>Üç büyük felaket</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navpoint4" playOrder="4">
+        <navLabel>
+          <text>Kırım Tatarları</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navpoint5" playOrder="5">
+        <navLabel>
+          <text>Kafkasya’da Ruslaştırma</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>Tuna vilayeti: 1877-1878</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-2-4"/>
+      </navPoint>
+      <navPoint id="navpoint7" playOrder="7">
+        <navLabel>
+          <text>Katliam ve tehcir</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-2-5"/>
+      </navPoint>
+      <navPoint id="navpoint8" playOrder="8">
+        <navLabel>
+          <text>Yeni haritalar çiziliyor</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-2-6"/>
+      </navPoint>
+      <navPoint id="navpoint9" playOrder="9">
+        <navLabel>
+          <text>Osmanlı coğrafyasından bugünkü Türkiye’ye ve Türkiye’den dışarıya zorunlu göçler</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-2-7"/>
+      </navPoint>
+      <navPoint id="navpoint10" playOrder="10">
+        <navLabel>
+          <text>Balkan milliyetçiliği ve Berlin Antlaşması</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-2-8"/>
+      </navPoint>
+      <navPoint id="navpoint11" playOrder="11">
+        <navLabel>
+          <text>Balkan milliyetçiliği, Balkan komitacılığı</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-2-9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="Text/5.html#toc_marker-3"/>
+      <navPoint id="navpoint13" playOrder="13">
+        <navLabel>
+          <text>Osmanlı içinden çöküyordu</text>
+        </navLabel>
+        <content src="Text/5.html#toc_marker-3-1"/>
+      </navPoint>
+      <navPoint id="navpoint14" playOrder="14">
+        <navLabel>
+          <text>Arnavutlarda milliyetçilik</text>
+        </navLabel>
+        <content src="Text/5.html#toc_marker-3-2"/>
+      </navPoint>
+      <navPoint id="navpoint15" playOrder="15">
+        <navLabel>
+          <text>Balkan devletleri savaşa hazır!</text>
+        </navLabel>
+        <content src="Text/5.html#toc_marker-3-3"/>
+      </navPoint>
+      <navPoint id="navpoint16" playOrder="16">
+        <navLabel>
+          <text>Savaş başlıyor</text>
+        </navLabel>
+        <content src="Text/5.html#toc_marker-3-4"/>
+      </navPoint>
+      <navPoint id="navpoint17" playOrder="17">
+        <navLabel>
+          <text>Kumanova bozgunu</text>
+        </navLabel>
+        <content src="Text/5.html#toc_marker-3-5"/>
+      </navPoint>
+      <navPoint id="navpoint18" playOrder="18">
+        <navLabel>
+          <text>Toplar trende unutulmuştu!</text>
+        </navLabel>
+        <content src="Text/5.html#toc_marker-3-6"/>
+      </navPoint>
+      <navPoint id="navpoint19" playOrder="19">
+        <navLabel>
+          <text>Direnmeden teslim oldular</text>
+        </navLabel>
+        <content src="Text/5.html#toc_marker-3-7"/>
+      </navPoint>
+      <navPoint id="navpoint20" playOrder="20">
+        <navLabel>
+          <text>Sultan Murad’ın şehri Üsküp</text>
+        </navLabel>
+        <content src="Text/5.html#toc_marker-3-8"/>
+      </navPoint>
+      <navPoint id="navpoint21" playOrder="21">
+        <navLabel>
+          <text>Ömer Seyfettin’in kaleminden</text>
+        </navLabel>
+        <content src="Text/5.html#toc_marker-3-9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint22" playOrder="22">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="Text/6.html#toc_marker-4"/>
+      <navPoint id="navpoint23" playOrder="23">
+        <navLabel>
+          <text>Osmanlı vilayeti Selanik</text>
+        </navLabel>
+        <content src="Text/6.html#toc_marker-4-1"/>
+      </navPoint>
+      <navPoint id="navpoint24" playOrder="24">
+        <navLabel>
+          <text>Osmanlı döneminde Selanik</text>
+        </navLabel>
+        <content src="Text/6.html#toc_marker-4-2"/>
+      </navPoint>
+      <navPoint id="navpoint25" playOrder="25">
+        <navLabel>
+          <text>Abdülhamid İstanbul’a getiriliyor</text>
+        </navLabel>
+        <content src="Text/6.html#toc_marker-4-3"/>
+      </navPoint>
+      <navPoint id="navpoint26" playOrder="26">
+        <navLabel>
+          <text>Selanik teslim ediliyor</text>
+        </navLabel>
+        <content src="Text/6.html#toc_marker-4-4"/>
+      </navPoint>
+      <navPoint id="navpoint27" playOrder="27">
+        <navLabel>
+          <text>Selanik’in teslim şartlarını gösteren antlaşmanın Türkçe ve Fransızca belgeleri</text>
+        </navLabel>
+        <content src="Text/6.html#toc_marker-4-5"/>
+      </navPoint>
+      <navPoint id="navpoint28" playOrder="28">
+        <navLabel>
+          <text>Yunan ordusu Selanik’e giriyor</text>
+        </navLabel>
+        <content src="Text/6.html#toc_marker-4-6"/>
+      </navPoint>
+      <navPoint id="navpoint29" playOrder="29">
+        <navLabel>
+          <text>“Selanik’i ucuza sattılar!”</text>
+        </navLabel>
+        <content src="Text/6.html#toc_marker-4-7"/>
+      </navPoint>
+      <navPoint id="navpoint30" playOrder="30">
+        <navLabel>
+          <text>Krala suikast, Türklere şiddet</text>
+        </navLabel>
+        <content src="Text/6.html#toc_marker-4-8"/>
+      </navPoint>
+      <navPoint id="navpoint31" playOrder="31">
+        <navLabel>
+          <text>Selanik’te etnik temizlik</text>
+        </navLabel>
+        <content src="Text/6.html#toc_marker-4-9"/>
+      </navPoint>
+      <navPoint id="navpoint32" playOrder="32">
+        <navLabel>
+          <text>Selanik ekonomisi Yunan’a geçti</text>
+        </navLabel>
+        <content src="Text/6.html#toc_marker-4-10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint33" playOrder="33">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="Text/7.html#toc_marker-5"/>
+      <navPoint id="navpoint34" playOrder="34">
+        <navLabel>
+          <text>Yanya savaşında Arnavut milliyetçileri</text>
+        </navLabel>
+        <content src="Text/7.html#toc_marker-5-1"/>
+      </navPoint>
+      <navPoint id="navpoint35" playOrder="35">
+        <navLabel>
+          <text>Ömer Seyfettin anlatıyor</text>
+        </navLabel>
+        <content src="Text/7.html#toc_marker-5-2"/>
+      </navPoint>
+      <navPoint id="navpoint36" playOrder="36">
+        <navLabel>
+          <text>Yunan ordusu Yanya’ya girdi</text>
+        </navLabel>
+        <content src="Text/7.html#toc_marker-5-3"/>
+      </navPoint>
+      <navPoint id="navpoint37" playOrder="37">
+        <navLabel>
+          <text>“Biz Arnavutlar”</text>
+        </navLabel>
+        <content src="Text/7.html#toc_marker-5-4"/>
+      </navPoint>
+      <navPoint id="navpoint38" playOrder="38">
+        <navLabel>
+          <text>Sultan Reşad Kosova’da</text>
+        </navLabel>
+        <content src="Text/7.html#toc_marker-5-5"/>
+      </navPoint>
+      <navPoint id="navpoint39" playOrder="39">
+        <navLabel>
+          <text>Arnavutlar iki grup</text>
+        </navLabel>
+        <content src="Text/7.html#toc_marker-5-6"/>
+      </navPoint>
+      <navPoint id="navpoint40" playOrder="40">
+        <navLabel>
+          <text>Ermeni Teğmen Ohannes Efendi</text>
+        </navLabel>
+        <content src="Text/7.html#toc_marker-5-7"/>
+      </navPoint>
+      <navPoint id="navpoint41" playOrder="41">
+        <navLabel>
+          <text>Arnavutların başına gelenler</text>
+        </navLabel>
+        <content src="Text/7.html#toc_marker-5-8"/>
+      </navPoint>
+      <navPoint id="navpoint42" playOrder="42">
+        <navLabel>
+          <text>Osmanlı’nın felaketine seviniyor!</text>
+        </navLabel>
+        <content src="Text/7.html#toc_marker-5-9"/>
+      </navPoint>
+      <navPoint id="navpoint43" playOrder="43">
+        <navLabel>
+          <text>Son kale İşkodra</text>
+        </navLabel>
+        <content src="Text/7.html#toc_marker-5-10"/>
+      </navPoint>
+      <navPoint id="navpoint44" playOrder="44">
+        <navLabel>
+          <text>Hasan Rıza Paşa</text>
+        </navLabel>
+        <content src="Text/7.html#toc_marker-5-11"/>
+      </navPoint>
+      <navPoint id="navpoint45" playOrder="45">
+        <navLabel>
+          <text>Hain kurşunu</text>
+        </navLabel>
+        <content src="Text/7.html#toc_marker-5-12"/>
+      </navPoint>
+      <navPoint id="navpoint46" playOrder="46">
+        <navLabel>
+          <text>Esat Toptani’nin akıbeti</text>
+        </navLabel>
+        <content src="Text/7.html#toc_marker-5-13"/>
+      </navPoint>
+      <navPoint id="navpoint47" playOrder="47">
+        <navLabel>
+          <text>Deniz savaşı ve Hamidiye</text>
+        </navLabel>
+        <content src="Text/7.html#toc_marker-5-14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint48" playOrder="48">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="Text/8.html#toc_marker-6"/>
+      <navPoint id="navpoint49" playOrder="49">
+        <navLabel>
+          <text>Zafer hayalleriyle coşanlar</text>
+        </navLabel>
+        <content src="Text/8.html#toc_marker-6-1"/>
+      </navPoint>
+      <navPoint id="navpoint50" playOrder="50">
+        <navLabel>
+          <text>Ordunun hal-i perişanı</text>
+        </navLabel>
+        <content src="Text/8.html#toc_marker-6-2"/>
+      </navPoint>
+      <navPoint id="navpoint51" playOrder="51">
+        <navLabel>
+          <text>Antranik çetesi</text>
+        </navLabel>
+        <content src="Text/8.html#toc_marker-6-3"/>
+      </navPoint>
+      <navPoint id="navpoint52" playOrder="52">
+        <navLabel>
+          <text>“Kan ve din kardeşliği için savaş”</text>
+        </navLabel>
+        <content src="Text/8.html#toc_marker-6-4"/>
+      </navPoint>
+      <navPoint id="navpoint53" playOrder="53">
+        <navLabel>
+          <text>Osmanlı ordusunda bozgun</text>
+        </navLabel>
+        <content src="Text/8.html#toc_marker-6-5"/>
+      </navPoint>
+      <navPoint id="navpoint54" playOrder="54">
+        <navLabel>
+          <text>Gabriel Noradungyan Efendi</text>
+        </navLabel>
+        <content src="Text/8.html#toc_marker-6-6"/>
+      </navPoint>
+      <navPoint id="navpoint55" playOrder="55">
+        <navLabel>
+          <text>Etnik temizlik, homojenleştirme ve tehcir</text>
+        </navLabel>
+        <content src="Text/8.html#toc_marker-6-7"/>
+      </navPoint>
+      <navPoint id="navpoint56" playOrder="56">
+        <navLabel>
+          <text>Ordunun bırakıp kaçtığı mühimmat</text>
+        </navLabel>
+        <content src="Text/8.html#toc_marker-6-8"/>
+      </navPoint>
+      <navPoint id="navpoint57" playOrder="57">
+        <navLabel>
+          <text>Lüleburgaz bozgunu</text>
+        </navLabel>
+        <content src="Text/8.html#toc_marker-6-9"/>
+      </navPoint>
+      <navPoint id="navpoint58" playOrder="58">
+        <navLabel>
+          <text>Açlık felaketi</text>
+        </navLabel>
+        <content src="Text/8.html#toc_marker-6-10"/>
+      </navPoint>
+      <navPoint id="navpoint59" playOrder="59">
+        <navLabel>
+          <text>Bir felaket daha: Kolera</text>
+        </navLabel>
+        <content src="Text/8.html#toc_marker-6-11"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint60" playOrder="60">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="Text/9.html#toc_marker-7"/>
+      <navPoint id="navpoint61" playOrder="61">
+        <navLabel>
+          <text>Edirne ve Şükrü Paşa</text>
+        </navLabel>
+        <content src="Text/9.html#toc_marker-7-1"/>
+      </navPoint>
+      <navPoint id="navpoint62" playOrder="62">
+        <navLabel>
+          <text>Nazım Paşa ve Mihail Savof</text>
+        </navLabel>
+        <content src="Text/9.html#toc_marker-7-2"/>
+      </navPoint>
+      <navPoint id="navpoint63" playOrder="63">
+        <navLabel>
+          <text>Edirne’yi savunmak</text>
+        </navLabel>
+        <content src="Text/9.html#toc_marker-7-3"/>
+      </navPoint>
+      <navPoint id="navpoint64" playOrder="64">
+        <navLabel>
+          <text>Bulgarlara trenler dolusu erzak</text>
+        </navLabel>
+        <content src="Text/9.html#toc_marker-7-4"/>
+      </navPoint>
+      <navPoint id="navpoint65" playOrder="65">
+        <navLabel>
+          <text>İhanet mi, cehalet mi, güçsüzlük mü?</text>
+        </navLabel>
+        <content src="Text/9.html#toc_marker-7-5"/>
+      </navPoint>
+      <navPoint id="navpoint66" playOrder="66">
+        <navLabel>
+          <text>“Hükümet Edirne’yi gözden çıkardı”</text>
+        </navLabel>
+        <content src="Text/9.html#toc_marker-7-6"/>
+      </navPoint>
+      <navPoint id="navpoint67" playOrder="67">
+        <navLabel>
+          <text>İngiltere: “Edirne’yi bırakın!”</text>
+        </navLabel>
+        <content src="Text/9.html#toc_marker-7-7"/>
+      </navPoint>
+      <navPoint id="navpoint68" playOrder="68">
+        <navLabel>
+          <text>Darbe toplantıları</text>
+        </navLabel>
+        <content src="Text/9.html#toc_marker-7-8"/>
+      </navPoint>
+      <navPoint id="navpoint69" playOrder="69">
+        <navLabel>
+          <text>Babıâli Baskını</text>
+        </navLabel>
+        <content src="Text/9.html#toc_marker-7-9"/>
+      </navPoint>
+      <navPoint id="navpoint70" playOrder="70">
+        <navLabel>
+          <text>İttihatçılar da Edirne’yi kurtaramıyor</text>
+        </navLabel>
+        <content src="Text/9.html#toc_marker-7-10"/>
+      </navPoint>
+      <navPoint id="navpoint71" playOrder="71">
+        <navLabel>
+          <text>Edirne düşüyor!</text>
+        </navLabel>
+        <content src="Text/9.html#toc_marker-7-11"/>
+      </navPoint>
+      <navPoint id="navpoint72" playOrder="72">
+        <navLabel>
+          <text>Sarayiçi faciası</text>
+        </navLabel>
+        <content src="Text/9.html#toc_marker-7-12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint73" playOrder="73">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="Text/10.html#toc_marker-8"/>
+      <navPoint id="navpoint74" playOrder="74">
+        <navLabel>
+          <text>Mahmut Şevket Paşa sadrazam</text>
+        </navLabel>
+        <content src="Text/10.html#toc_marker-8-1"/>
+      </navPoint>
+      <navPoint id="navpoint75" playOrder="75">
+        <navLabel>
+          <text>Mahmut Şevket Paşa’ya suikast</text>
+        </navLabel>
+        <content src="Text/10.html#toc_marker-8-2"/>
+      </navPoint>
+      <navPoint id="navpoint76" playOrder="76">
+        <navLabel>
+          <text>İkinci Balkan Savaşı</text>
+        </navLabel>
+        <content src="Text/10.html#toc_marker-8-3"/>
+      </navPoint>
+      <navPoint id="navpoint77" playOrder="77">
+        <navLabel>
+          <text>Toprak kavgası</text>
+        </navLabel>
+        <content src="Text/10.html#toc_marker-8-4"/>
+      </navPoint>
+      <navPoint id="navpoint78" playOrder="78">
+        <navLabel>
+          <text>Çatışan milliyetçilikler</text>
+        </navLabel>
+        <content src="Text/10.html#toc_marker-8-5"/>
+      </navPoint>
+      <navPoint id="navpoint79" playOrder="79">
+        <navLabel>
+          <text>Etnik temizlik</text>
+        </navLabel>
+        <content src="Text/10.html#toc_marker-8-6"/>
+      </navPoint>
+      <navPoint id="navpoint80" playOrder="80">
+        <navLabel>
+          <text>Edirne’nin kurtuluşu</text>
+        </navLabel>
+        <content src="Text/10.html#toc_marker-8-7"/>
+      </navPoint>
+      <navPoint id="navpoint81" playOrder="81">
+        <navLabel>
+          <text>Barış ve nüfus mübadelesi</text>
+        </navLabel>
+        <content src="Text/10.html#toc_marker-8-8"/>
+      </navPoint>
+      <navPoint id="navpoint82" playOrder="82">
+        <navLabel>
+          <text>Homojen millet politikası</text>
+        </navLabel>
+        <content src="Text/10.html#toc_marker-8-9"/>
+      </navPoint>
+      <navPoint id="navpoint83" playOrder="83">
+        <navLabel>
+          <text>Balkan Savaşı’nın bilançosu</text>
+        </navLabel>
+        <content src="Text/10.html#toc_marker-8-10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint84" playOrder="84">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="Text/11.html#toc_marker-9"/>
+      <navPoint id="navpoint85" playOrder="85">
+        <navLabel>
+          <text>Kilise ve okullar</text>
+        </navLabel>
+        <content src="Text/11.html#toc_marker-9-1"/>
+      </navPoint>
+      <navPoint id="navpoint86" playOrder="86">
+        <navLabel>
+          <text>Müslüman-Türk toplumu ve okulları</text>
+        </navLabel>
+        <content src="Text/11.html#toc_marker-9-2"/>
+      </navPoint>
+      <navPoint id="navpoint87" playOrder="87">
+        <navLabel>
+          <text>Ordu ve politika</text>
+        </navLabel>
+        <content src="Text/11.html#toc_marker-9-3"/>
+      </navPoint>
+      <navPoint id="navpoint88" playOrder="88">
+        <navLabel>
+          <text>Ordu içinden çürüyor</text>
+        </navLabel>
+        <content src="Text/11.html#toc_marker-9-4"/>
+      </navPoint>
+      <navPoint id="navpoint89" playOrder="89">
+        <navLabel>
+          <text>Çözülmeyi kumandanlar anlatıyor</text>
+        </navLabel>
+        <content src="Text/11.html#toc_marker-9-5"/>
+      </navPoint>
+      <navPoint id="navpoint90" playOrder="90">
+        <navLabel>
+          <text>Hükümet krizleri ve cuntalar</text>
+        </navLabel>
+        <content src="Text/11.html#toc_marker-9-6"/>
+      </navPoint>
+      <navPoint id="navpoint91" playOrder="91">
+        <navLabel>
+          <text>“Siyasetle uğraşmayacağım vallahi”</text>
+        </navLabel>
+        <content src="Text/11.html#toc_marker-9-7"/>
+      </navPoint>
+      <navPoint id="navpoint92" playOrder="92">
+        <navLabel>
+          <text>Osmanlı devlet adamları neden başarısız?</text>
+        </navLabel>
+        <content src="Text/11.html#toc_marker-9-8"/>
+      </navPoint>
+      <navPoint id="navpoint93" playOrder="93">
+        <navLabel>
+          <text>Demokratik ülkeler demokrasiye karşı!</text>
+        </navLabel>
+        <content src="Text/11.html#toc_marker-9-9"/>
+      </navPoint>
+      <navPoint id="navpoint94" playOrder="94">
+        <navLabel>
+          <text>Osmanlı’da ayrılıkçı milliyetçi akımlar</text>
+        </navLabel>
+        <content src="Text/11.html#toc_marker-9-10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint95" playOrder="95">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="Text/12.html#toc_marker-10"/>
+      <navPoint id="navpoint96" playOrder="96">
+        <navLabel>
+          <text>Milliyetçilikler ve Osmanlı ordusu</text>
+        </navLabel>
+        <content src="Text/12.html#toc_marker-10-1"/>
+      </navPoint>
+      <navPoint id="navpoint97" playOrder="97">
+        <navLabel>
+          <text>İdealsizlik bunalımı</text>
+        </navLabel>
+        <content src="Text/12.html#toc_marker-10-2"/>
+      </navPoint>
+      <navPoint id="navpoint98" playOrder="98">
+        <navLabel>
+          <text>Ben bir Türk’üm / Dinim cinsim uludur</text>
+        </navLabel>
+        <content src="Text/12.html#toc_marker-10-3"/>
+      </navPoint>
+      <navPoint id="navpoint99" playOrder="99">
+        <navLabel>
+          <text>“Duygusal kopuş”</text>
+        </navLabel>
+        <content src="Text/12.html#toc_marker-10-4"/>
+      </navPoint>
+      <navPoint id="navpoint100" playOrder="100">
+        <navLabel>
+          <text>Yeni Osmanlı kadını</text>
+        </navLabel>
+        <content src="Text/12.html#toc_marker-10-5"/>
+      </navPoint>
+      <navPoint id="navpoint101" playOrder="101">
+        <navLabel>
+          <text>İdealsizlikten idealizme</text>
+        </navLabel>
+        <content src="Text/12.html#toc_marker-10-6"/>
+      </navPoint>
+      <navPoint id="navpoint102" playOrder="102">
+        <navLabel>
+          <text>Donanma Cemiyeti ve Türk milliyetçiliği</text>
+        </navLabel>
+        <content src="Text/12.html#toc_marker-10-7"/>
+      </navPoint>
+      <navPoint id="navpoint103" playOrder="103">
+        <navLabel>
+          <text>Megali İdea faktörü</text>
+        </navLabel>
+        <content src="Text/12.html#toc_marker-10-8"/>
+      </navPoint>
+      <navPoint id="navpoint104" playOrder="104">
+        <navLabel>
+          <text>Megali İdea: Bizans coğrafyası</text>
+        </navLabel>
+        <content src="Text/12.html#toc_marker-10-9"/>
+      </navPoint>
+      <navPoint id="navpoint105" playOrder="105">
+        <navLabel>
+          <text>Osmanlılık ve Ermeni milliyetçiliği</text>
+        </navLabel>
+        <content src="Text/12.html#toc_marker-10-10"/>
+      </navPoint>
+      <navPoint id="navpoint106" playOrder="106">
+        <navLabel>
+          <text>“Tehciri komşularımızdan öğrendik”</text>
+        </navLabel>
+        <content src="Text/12.html#toc_marker-10-11"/>
+      </navPoint>
+      <navPoint id="navpoint107" playOrder="107">
+        <navLabel>
+          <text>Gidecek başka yerimiz yok!</text>
+        </navLabel>
+        <content src="Text/12.html#toc_marker-10-12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint108" playOrder="108">
+      <navLabel>
+        <text>EKLER</text>
+      </navLabel>
+      <content src="Text/13.html#toc_marker-11"/>
+    </navPoint>
+    <navPoint id="navpoint109" playOrder="109">
+      <navLabel>
+        <text>Şükrü Hanioğlu ile mülakat</text>
+      </navLabel>
+      <content src="Text/14.html#toc_marker-12"/>
+    </navPoint>
+    <navPoint id="navpoint110" playOrder="110">
+      <navLabel>
+        <text>Zafer Toprak ile mülakat</text>
+      </navLabel>
+      <content src="Text/15.html#toc_marker-13"/>
+    </navPoint>
+    <navPoint id="navpoint111" playOrder="111">
+      <navLabel>
+        <text>Richard Hall ile mülakat</text>
+      </navLabel>
+      <content src="Text/16.html#toc_marker-14"/>
+    </navPoint>
+    <navPoint id="navpoint112" playOrder="112">
+      <navLabel>
+        <text>Vasilis Nikoltsos ile mülakat</text>
+      </navLabel>
+      <content src="Text/17.html#toc_marker-15"/>
+    </navPoint>
+    <navPoint id="navpoint113" playOrder="113">
+      <navLabel>
+        <text>Savaş barbarlığı</text>
+      </navLabel>
+      <content src="Text/18.html#toc_marker-16"/>
+    </navPoint>
+    <navPoint id="navpoint114" playOrder="114">
+      <navLabel>
+        <text>Kaynakça</text>
+      </navLabel>
+      <content src="Text/19.html#toc_marker-17"/>
+    </navPoint>
+  </navMap>
+</ncx>

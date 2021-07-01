@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Kutadgu Bilgi</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Hacip, Yusuf Has">Yusuf Has Hacip</dc:creator>
+    <dc:publisher>Antik Kitap</dc:publisher>
+    <dc:date>2008-11-25T23:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:ba5eaadf-b557-47da-ba4d-adef29c7c313</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">b166ad90-c6e2-45f9-a6d8-206a47e972fc</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="kutadgubilig-epub.html" id="kutadgubilig-epub" media-type="application/xhtml+xml"/>
+    <item href="kutadgubilig-epub-1.html" id="kutadgubilig-epub-1" media-type="application/xhtml+xml"/>
+    <item href="kutadgubilig-epub-2.html" id="kutadgubilig-epub-2" media-type="application/xhtml+xml"/>
+    <item href="kutadgubilig-epub-3.html" id="kutadgubilig-epub-3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/antiksark_fmt.jpeg" id="antiksark_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/hat_fmt.jpeg" id="hat_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/kutadgubilig-dis.jpg" id="kutadgubilig-dis.jpg" media-type="image/jpeg"/>
+    <item href="images/nokta_fmt.png" id="nokta_fmt.png" media-type="image/png"/>
+    <item href="images/nokta_fmt1.png" id="nokta_fmt1.png" media-type="image/png"/>
+    <item href="images/nokta_fmt2.png" id="nokta_fmt2.png" media-type="image/png"/>
+    <item href="LiberationSerif-Bold.ttf" id="added" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-BoldItalic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Italic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Regular.ttf" id="added1" media-type="application/x-font-truetype"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kutadgubilig-epub"/>
+    <itemref idref="kutadgubilig-epub-1"/>
+    <itemref idref="kutadgubilig-epub-2"/>
+    <itemref idref="kutadgubilig-epub-3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

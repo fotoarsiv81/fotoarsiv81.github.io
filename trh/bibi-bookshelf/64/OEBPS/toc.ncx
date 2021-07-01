@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="c9336793-2efc-482d-93a3-56f684af9abe" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.30.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Üç Tarz-ı Siyâset</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u720b6f1e-98b5-462c-af32-856bfa20a92b" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/ONSOZ_split_000.htm"/>
+      <navPoint id="ua4604c53-df17-42fe-be6a-33e29590f686" playOrder="2">
+        <navLabel>
+          <text>Üç Tarz-ı Siyâset’in Tepkileri</text>
+        </navLabel>
+        <content src="Text/ONSOZ_split_001.htm"/>
+      </navPoint>
+      <navPoint id="ubd3388db-e413-4afe-8b98-86c83b2cee30" playOrder="3">
+        <navLabel>
+          <text>Üç Tarz-ı Siyâset Üzerine Düşünceler</text>
+        </navLabel>
+        <content src="Text/ONSOZ_split_002.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="u51daebc6-c1be-429b-8809-ada67f4683ab" playOrder="4">
+      <navLabel>
+        <text>ÜÇ TARZ-I SİYÂSET</text>
+      </navLabel>
+      <content src="Text/ONSOZ_split_003.htm"/>
+    </navPoint>
+    <navPoint id="u35d4bd3d-b738-4802-a401-7a8e3bba3272" playOrder="5">
+      <navLabel>
+        <text>CEVABIMIZ: ALİ KEMAL</text>
+      </navLabel>
+      <content src="Text/ONSOZ_split_004.htm"/>
+    </navPoint>
+    <navPoint id="uf3d4a160-4fc7-489f-bd84-6c4bdd36cde9" playOrder="6">
+      <navLabel>
+        <text>BİR MEKTUP: AHMET FERİT (Tek)</text>
+      </navLabel>
+      <content src="Text/ONSOZ_split_005.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

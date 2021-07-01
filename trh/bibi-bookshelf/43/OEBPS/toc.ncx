@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:2a62797e-89da-4825-b32e-c8d2bb69e38f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Patrick Le Roux - Roma İmparatorluğu</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="Text/Giris.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum1-001.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>İMPARATORLUK YA DA ROMA’NIN GÜCÜ</text>
+        </navLabel>
+        <content src="Text/Bolum1-001.xhtml#TOC_2_1"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>I. Dünyada Roma egemenliği</text>
+        </navLabel>
+        <content src="Text/Bolum1-002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>II. İşlevi olan monarşi</text>
+        </navLabel>
+        <content src="Text/Bolum1-003.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>II. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum2-004.xhtml"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>YAŞANAN DÜNYANIN YÖNETİMİ</text>
+        </navLabel>
+        <content src="Text/Bolum2-004.xhtml#TOC_3_1"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>I. İmparator</text>
+        </navLabel>
+        <content src="Text/Bolum2-005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>II. Başkent: Roma</text>
+        </navLabel>
+        <content src="Text/Bolum2-006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>III. Eyaletlerin yönetimi</text>
+        </navLabel>
+        <content src="Text/Bolum2-007.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>III. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum3-008.xhtml"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>SEKSEN MİLYON İNSAN</text>
+        </navLabel>
+        <content src="Text/Bolum3-008.xhtml#TOC_4_1"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>I. Halklar ve toplumlar</text>
+        </navLabel>
+        <content src="Text/Bolum3-009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>II. Bir dünya imparatorluğu</text>
+        </navLabel>
+        <content src="Text/Bolum3-010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>III. Binlerce site</text>
+        </navLabel>
+        <content src="Text/Bolum3-011.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>IV. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum4-012.xhtml"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>TARTIŞILAN İMPARATORLUK</text>
+        </navLabel>
+        <content src="Text/Bolum4-012.xhtml#TOC_5_1"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>I. Romalılaştırma sorunu</text>
+        </navLabel>
+        <content src="Text/Bolum4-013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>II. Başkaldırılar sorunu</text>
+        </navLabel>
+        <content src="Text/Bolum4-014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>III. Externi (dışarıdakiler) sorunu</text>
+        </navLabel>
+        <content src="Text/Bolum4-015.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>SONUÇ</text>
+      </navLabel>
+      <content src="Text/Sonuc.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
