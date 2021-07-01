@@ -1,0 +1,29 @@
+@margin-left:1em;namespace h "http://www.w3.org/1999/xhtml";
+@page {padding: 0pt; margin:0pt}
+            body { 
+  text-indent: 35px;
+  text-align: justify;
+/*font-family:"Arial", Times, serif;
+font-style:Normal;
+background-image: url(../Images/cover.jpg);
+background-repeat: no-repeat;
+background-position: 0px 5px;*/
+  
+  }
+h1 {font-size:25 em; text-align:center;}
+h2 {font-size:22 em;}
+p {font-size:18 em;}
+
+img {
+    
+   text-align: center;
+
+   
+}
+yatik {
+    font-style:italic;
+    font-size: 15px;
+	text-indent: 35px;
+}                     
+.background-image { z-index: -1; }
+.overlay-text { position: absolute; top: 0px; left: 10px; }

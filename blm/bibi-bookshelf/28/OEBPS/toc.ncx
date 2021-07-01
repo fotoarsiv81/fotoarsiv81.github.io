@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{73DC29D4-22DC-4839-90B5-F5D33E25D056}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Şaşırtan Varsayım - Francis Crick</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>1 I. Bölüm Giriş</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>II. Bölüm</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>III. Bölüm Görme</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>IV. Bölüm Görme Ruhbilimi</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>V. Bölüm</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>VI. Bölüm</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>VII. Bölüm</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#sigil_toc_id_7"/>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>İnsan Beyninin Ana Hatları</text>
+        </navLabel>
+        <content src="Text/main-2.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>VIII. Bölüm Nöron</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>IX. Bölüm Deney Türleri</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#sigil_toc_id_10"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>X. Bölüm</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#sigil_toc_id_11"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Primatlarda Görme Sistem İlk Katlar</text>
+        </navLabel>
+        <content src="Text/main-2.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>XI. Bölüm</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#sigil_toc_id_13"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Primat Beyninin Görme Kabuğu</text>
+        </navLabel>
+        <content src="Text/main-2.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>XII. Bölüm Beyinde Hasar</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#sigil_toc_id_15"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>XIII. Bölüm Sinirsel Ağlar</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#sigil_toc_id_16"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>XIV. Bölüm Görsel Farkındalık</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml#sigil_toc_id_17"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>XV. Bölüm Bazı Deneyler</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml#sigil_toc_id_18"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>XVI. Bölüm</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml#sigil_toc_id_19"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>XVII. BÖLÜM Titreşimler ve İşlem Birimleri</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml#sigil_toc_id_20"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>BİLİNÇ</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml#sigil_toc_id_21"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>ŞİMDİ</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml#sigil_toc_id_22"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>XVIII. Bölüm</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml#sigil_toc_id_23"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Dr. Crick’ten Pazar Vaazı</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Özgür İrade Üzerine Bir Ek Söz</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Terimler Sözlüğü</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Ek Okumalar</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

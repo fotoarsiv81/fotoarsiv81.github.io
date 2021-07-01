@@ -1,0 +1,114 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Crick, Francis">Francis Crick</dc:creator>
+<dc:identifier id="uuid">{73DC29D4-22DC-4839-90B5-F5D33E25D056}</dc:identifier>
+    <dc:publisher>Tübitak Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;"Francis Crick en canalıcı sorulara şaşırtıcı yanıt verme yeteneğini gösteriyor. Hücredeki onca molekülün içinde, hangileri tüm yaşamın kaynağı olabilir? Bu soruya verdiği yanıt biyolojide devrim yarattı. Peki beyindeki o kadar hücrenin içinde ruhumuzun kaynağı hangileri acaba? Onun bu arayışı, birinci sınıf bir polisiye roman, DNA'yı arayışı kadar soluk kesici. Şaşırtan Varsayım, her sayfasında olağanüstü yazarının düşünce duruluğunu ve espri gücünü yansıtan olağanüstü bir kitap."
+-Terence J. Sejnowski-&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2014-04-23T21:00:00+00:00</dc:date>
+    <meta name="cover" content="sasirtan_varsayim.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Şaşırtan Varsayım" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Francis Crick&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  <dc:title>Şaşırtan Varsayım</dc:title>
+<dc:subject>Popüler Bilim</dc:subject>
+<dc:subject>Biyoloji</dc:subject>
+<dc:language>udm</dc:language>
+<dc:identifier opf:scheme="calibre">eadc69d3-f76a-4cc6-9cfb-83e1a686ae8c</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754030693</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id7" media-type="text/css"/>
+    <item href="toc.ncx" id="id8" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/sasirtan_varsayim.jpg" id="sasirtan_varsayim.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sekil20.jpg" id="sekil20.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil21.jpg" id="sekil21.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil22.jpg" id="sekil22.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil23.jpg" id="sekil23.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil24.jpg" id="sekil24.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil25.jpg" id="sekil25.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil1.jpg" id="sekil1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.jpg" id="sekil2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.jpg" id="sekil3.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.jpg" id="sekil4.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.jpg" id="sekil5.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil6.jpg" id="sekil6.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.jpg" id="sekil7.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil8.jpg" id="sekil8.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil9.jpg" id="sekil9.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil10.jpg" id="sekil10.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil11.jpg" id="sekil11.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil12.jpg" id="sekil12.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil13.jpg" id="sekil13.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil14.jpg" id="sekil14.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil16.jpg" id="sekil16.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil17.jpg" id="sekil17.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil18.jpg" id="sekil18.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil19.jpg" id="sekil19.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil26.jpg" id="sekil26.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil27.jpg" id="sekil27.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil28.jpg" id="sekil28.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil29.jpg" id="sekil29.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil30.jpg" id="sekil30.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil31.jpg" id="sekil31.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil32.jpg" id="sekil32.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil33.jpg" id="sekil33.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil34.jpg" id="sekil34.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil35.jpg" id="sekil35.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil36.jpg" id="sekil36.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil37.jpg" id="sekil37.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil38.jpg" id="sekil38.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil39.jpg" id="sekil39.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil40.jpg" id="sekil40.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil41.jpg" id="sekil41.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil42.jpg" id="sekil42.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil43.jpg" id="sekil43.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil44.jpg" id="sekil44.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil45.jpg" id="sekil45.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil46.jpg" id="sekil46.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil47.jpg" id="sekil47.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil48.jpg" id="sekil48.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil49.jpg" id="sekil49.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil50.jpg" id="sekil50.jpg" media-type="image/jpeg"/>
+    <item href="Images/51.jpg" id="x51.jpg" media-type="image/jpeg"/>
+    <item href="Images/52.jpg" id="x52.jpg" media-type="image/jpeg"/>
+    <item href="Images/53.jpg" id="x53.jpg" media-type="image/jpeg"/>
+    <item href="Images/54.jpg" id="x54.jpg" media-type="image/jpeg"/>
+    <item href="Images/55.jpg" id="x55.jpg" media-type="image/jpeg"/>
+    <item href="Images/56.jpg" id="x56.jpg" media-type="image/jpeg"/>
+    <item href="Images/57.jpg" id="x57.jpg" media-type="image/jpeg"/>
+    <item href="Images/58.jpg" id="x58.jpg" media-type="image/jpeg"/>
+    <item href="Images/59.jpg" id="x59.jpg" media-type="image/jpeg"/>
+    <item href="Images/Untitled.jpg" id="Untitled.jpg" media-type="image/jpeg"/>
+    <item href="Images/Untitle4d.jpg" id="Untitle4d.jpg" media-type="image/jpeg"/>
+    <item href="Images/Untitledmm.jpg" id="Untitledmm.jpg" media-type="image/jpeg"/>
+    <item href="Images/60.jpg" id="x60.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,79 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Laws, Ronny">Ronny Laws</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">8577cd02-8dba-4bab-a792-ffe61c504c49</dc:identifier>
+    <dc:date>1984-11-22T22:00:00+00:00</dc:date>
+    <meta name="cover" content="evrenin-ucu.jpg"/>
+    <meta content="0.7.3" name="Sigil version"/>
+    <dc:date opf:event="modification">2013-11-23</dc:date>
+  <meta name="calibre:title_sort" content="Evrenin Ucu"/>
+<dc:publisher>Başkan Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:description>&lt;span style="color: rgb(51, 51, 51); font-family: Arial, Verdana, Geneva, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(234, 234, 234); display: inline !important; float: none;"&gt;…Dev lazere çarpılmak üzereyken Maogan tarafından modülden çıkarılan mahkum susuyordu. Rolling atıldı:-”Bütün evreni yönetecek çapta, gezegen büyüklüğünde bir yapay beyin bu.” dedi. Ve biz bu beyini yaralamış bulunuyoruz. Gezegene gelince, kısırdı; onu da tohumladık. Böylece yol açtığımız felaketleri düşünmeye cesaret edemiyorum. Soluğu kesilmek üzere olan Maogan: -”E... &lt;br&gt;&lt;br&gt;&lt;/span&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ronny Laws&quot;: &quot;&quot;}"/>
+<dc:title>Evrenin Ucu</dc:title>
+<dc:subject>Edebiyat</dc:subject>
+<dc:subject>Bilimkurgu</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">628b0d91-801a-402d-bcad-2e9765dd065a</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/chapter.xhtml" id="text1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="text3" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="text4" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="text5" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="text6" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="text7" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="text8" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="text9" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="text10" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter10.xhtml" id="text11" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter11.xhtml" id="text12" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter13.xhtml" id="text14" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter15.xhtml" id="text16" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter16.xhtml" id="text17" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter17.xhtml" id="text18" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter18.xhtml" id="text19" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter19.xhtml" id="text20" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter20.xhtml" id="text21" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter21.xhtml" id="text22" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter22.xhtml" id="text23" media-type="application/xhtml+xml"/>
+    <item href="Styles/styles1.css" id="resource1" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/evrenin-ucu.jpg" id="evrenin-ucu.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="text1"/>
+    <itemref idref="text2"/>
+    <itemref idref="text3"/>
+    <itemref idref="text4"/>
+    <itemref idref="text5"/>
+    <itemref idref="text6"/>
+    <itemref idref="text7"/>
+    <itemref idref="text8"/>
+    <itemref idref="text9"/>
+    <itemref idref="text10"/>
+    <itemref idref="text11"/>
+    <itemref idref="text12"/>
+    <itemref idref="text14"/>
+    <itemref idref="text16"/>
+    <itemref idref="text17"/>
+    <itemref idref="text18"/>
+    <itemref idref="text19"/>
+    <itemref idref="text20"/>
+    <itemref idref="text21"/>
+    <itemref idref="text22"/>
+    <itemref idref="text23"/>
+  </spine>
+  <guide>
+    <reference href="Text/chapter.xhtml" title="Title page" type="title-page"/>
+    <reference href="Text/chapter13.xhtml" title="Text" type="text"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

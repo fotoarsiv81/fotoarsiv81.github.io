@@ -1,0 +1,114 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Hawking, Stephen William">Stephen William Hawking</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:57f3ec6b-196b-42ab-b345-3a42e2e431e2</dc:identifier>
+    <dc:date>1988-12-23T22:00:00+00:00</dc:date>
+    <dc:publisher>Milliyet Yayınları</dc:publisher>
+    <dc:type>Fizik</dc:type>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpeg"/>
+  <dc:title>Zamanın Kısa Tarihi</dc:title>
+<meta name="calibre:title_sort" content="Zamanın Kısa Tarihi"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Popüler Bilim</dc:subject>
+<dc:subject>Fizik</dc:subject>
+<dc:description>&lt;p&gt;Zamanın Kısa Tarihi 1988 yılındaki ilk basımından bu yana geçen yıllar içerisinde bilimsel yazın alanında bir başyapıt konumu kazandı. Kırk dile çevrildi ve dokuz milyonun üzerinde baskı yaparak dev bir uluslararası ün kazandı. 
+
+Kitap o dönemde evrenin doğası hakkında öğrendiğimiz en son bilgiler göz önüne alınarak yazılmıştı, öte yandan o günden bu güne hem atom-altı dünyanın hem de büyük ölçekte evrenin gözlem teknolojilerinde olağanüstü ilerlemeler yaşandı. Bu yeni gözlemler Profesör Hawking'in kitabın ilk baskısında yaptığı kuramsal öngörülerin çoğunu doğrulayan nitelikteydi. Bu gözlemlere, evrenin başlangıcından 300.000 yıl sonrasını araştıran ve Hawking'in varlığını ileri sürdüğü uzayzaman dokusundaki kırışıklıkları tespit eden Kozmik Ardalan Kâşifi COBE uydusunun son bulguları da dahildir. 
+
+Kaleme aldığı özgün metne kendisinin son araştırmasından ve en son gözlemlerden edindiğimiz yeni bilgileri katma arzusuyla Hawking, kitabının elinizdeki son baskısı için yeni bir önsöz yazmakla kalmadı, aynı zamanda solucan delikleri ve zaman yolculuğuyla ilgili çok etkileyici yepyeni bir bölüm kaleme alarak kitabını güncelledi. 
+
+"Canlı ve kışkırtıcı.. Hawking doğal bir öğretmen yeteneğine sahip: kolay anlaşılır yazıyor, mizah katıyor ve günlük yaşamdan örnekler veriyor."
+-The New York Times-
+
+"Tekerlekli sandalyede oturmasına karşın Hawking'in zihni uzayın sonsuzluğunda her yere ulaşıyor ve evrenin gizemlerini açıklıyor."
+-Time-
+
+"Usta işi."
+-The Wall Street Journal-
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Stephen William Hawking&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">23f7da69-ce4e-455a-8502-8386e485961f</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/_kapak.jpeg" id="_kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sekil1.1.jpg" id="sekil1.1.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sekil2.1.jpg" id="sekil2.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.2.jpg" id="sekil2.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.3.jpg" id="sekil2.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.4.jpg" id="sekil2.4.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.5.jpg" id="sekil2.5.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.6.jpg" id="sekil2.6.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.7.jpg" id="sekil2.7.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.8.jpg" id="sekil2.8.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.9.jpg" id="sekil2.9.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sekil3.1.jpg" id="sekil3.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.2.jpg" id="sekil3.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.3.jpg" id="sekil3.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.4.jpg" id="sekil3.4.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sekil4.1.jpg" id="sekil4.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.2.jpg" id="sekil4.2.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sekil5.1.jpg" id="sekil5.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.2.jpg" id="sekil5.2.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sekil6.1.jpg" id="sekil6.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil6.2.jpg" id="sekil6.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil6.3.jpg" id="sekil6.3.jpg" media-type="image/jpeg"/>
+    <item href="Styles/Style.css" id="Style.css" media-type="text/css"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sekil7.1.jpg" id="sekil7.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.2.jpg" id="sekil7.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.3.jpg" id="sekil7.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.4.jpg" id="sekil7.4.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.5.jpg" id="sekil7.5.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sekil8.1.jpg" id="sekil8.1.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sekil10.1.jpg" id="sekil10.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil10.3.jpg" id="sekil10.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil10.4.jpg" id="sekil10.4.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil10.5.jpg" id="sekil10.5.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil10.7.jpg" id="sekil10.7.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil10.8.jpg" id="sekil10.8.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+  </spine>
+  <guide/>
+</package>

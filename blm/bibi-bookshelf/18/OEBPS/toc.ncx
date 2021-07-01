@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:368b5180-bfac-4dc1-9192-9fd5127d4f2b" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>CENNETTEN AKAN IRMAK</text>
+      </navLabel>
+      <content src="Text/baslik.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>RICHARD DAWKINS</text>
+        </navLabel>
+        <content src="Text/baslik.html#sigil_toc_id_1"/>
+        <navPoint id="navPoint-3" playOrder="3">
+          <navLabel>
+            <text>ÖNSÖZ</text>
+          </navLabel>
+          <content src="Text/onsoz.html"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>1. BÖLÜM SAYISAL IRMAK</text>
+          </navLabel>
+          <content src="Text/01.html"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>2. BÖLÜM TÜM AFRİKA VE TORUNLARI</text>
+          </navLabel>
+          <content src="Text/02.html"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>3. BÖLÜM SAMAN ALTINDAN SU YÜRÜTMEK</text>
+          </navLabel>
+          <content src="Text/03.html"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>4. BOLÜM TANRI'NIN YARARLILIK İŞLEVİ</text>
+          </navLabel>
+          <content src="Text/04.html"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>5. BÖLÜM KOPYALANMA BOMBASI</text>
+          </navLabel>
+          <content src="Text/05.html"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>BİBLİYOGRAFYA</text>
+          </navLabel>
+          <content src="Text/bibliyografya.html"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>Dipnotlar</text>
+          </navLabel>
+          <content src="Text/dipnot.html"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

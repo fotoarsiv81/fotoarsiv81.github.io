@@ -1,0 +1,153 @@
+@font-face {
+  font-family: "Liberation Serif";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/LiberationSerif.ttf);
+  }
+@font-face {
+  font-family: "Liberation Serif";
+  font-style: normal;
+  font-weight: bold;
+  src: url(../Fonts/LiberationSerif-Bold.ttf);
+  }
+@page {
+  margin: 0.5em;
+  }
+tbody, thead, tfoot, tr, td, th {
+  border-style: inherit;
+  border-width: inherit;
+  border-color: inherit;
+}
+span.dipnot {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.75em;
+  font-variant: normal;
+  color: #f0f;
+}
+span.char-style-override-1 {
+  font-size: 2.5em;
+}
+span.char-style-override-2 {
+  font-size: 1.5em;
+}
+span.char-style-override-3 {
+  font-size: 1.88em;
+}
+span.char-style-override-4 {
+  font-size: 1.38em;
+}
+span.char-style-override-5 {
+  color: #00f;
+}
+p.kunye {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.67em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.38;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 3px 30px 0 30px;
+}
+p.kunye-1 {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.67em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.38;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 3px 30px 0 30px;
+}
+p.paragraf {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.25;
+  text-align: justify;
+  color: #000;
+  text-indent: 20px;
+  margin: 0 30px;
+}
+p.anabaslik {
+  font-family: "Liberation Serif", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1.25em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.33;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 100px 50px 40px 50px;
+}
+p.arabaslik-orta {
+  font-family: "Liberation Serif", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1.08em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.08;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 60px 30px 20px 30px;
+}
+p.resim {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 0.75em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.56;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 20px 30px;
+}
+p.dipnot {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.75em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.44;
+  text-align: justify;
+  color: #000;
+  text-indent: 0;
+  margin: 3px 30px 0 30px;
+}
+p.para-style-override-1 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+p.para-style-override-2 {
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+p.para-style-override-3 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+p.para-style-override-4 {
+  margin-bottom: 100px;
+}
+p.para-style-override-5 {
+  margin-top: 20px;
+}

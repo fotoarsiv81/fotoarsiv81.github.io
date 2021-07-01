@@ -1,0 +1,101 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Zamanın Daha Kısa Tarihi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Stephen Hawking, Leonard Mlodinow">Stephen Hawking, Leonard Mlodinow</dc:creator>
+    <dc:identifier id="uuid">{C4E72F1A-A36A-4711-A5C4-26BA04B3E043}</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (3.0.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">ffedf7c7-6380-4c24-b536-5516269a6c36</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Zamanın Daha Kısa Tarihi" name="calibre:title_sort"/>
+    <meta content="{&quot;Stephen Hawking, Leonard Mlodinow&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section1.xhtml" id="Section1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section2.xhtml" id="Section2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section3.xhtml" id="Section3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section4.xhtml" id="Section4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section5.xhtml" id="Section5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section6.xhtml" id="Section6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section7.xhtml" id="Section7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section8.xhtml" id="Section8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section9.xhtml" id="Section9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section10.xhtml" id="Section10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section11.xhtml" id="Section11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section12.xhtml" id="Section12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section13.xhtml" id="Section13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section14.xhtml" id="Section14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section15.xhtml" id="Section15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section16.xhtml" id="Section16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section17.xhtml" id="Section17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section18.xhtml" id="Section18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id31" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id30" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-10_1.jpg" id="index-10_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-11_1.jpg" id="index-11_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-12_1.jpg" id="index-12_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-14_1.jpg" id="index-14_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-14_2.jpg" id="index-14_2.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-15_1.jpg" id="index-15_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-16_1.jpg" id="index-16_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-18_1.jpg" id="index-18_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-19_1.jpg" id="index-19_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-19_2.jpg" id="index-19_2.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-20_1.jpg" id="index-20_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-23_1.jpg" id="index-23_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-24_1.jpg" id="index-24_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-24_2.jpg" id="index-24_2.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-25_1.jpg" id="index-25_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-26_1.jpg" id="index-26_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-27_1.jpg" id="index-27_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-30_1.jpg" id="index-30_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-32_1.jpg" id="index-32_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-33_1.jpg" id="index-33_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-36_1.jpg" id="index-36_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-37_1.jpg" id="index-37_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-38_1.jpg" id="index-38_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-39_1.jpg" id="index-39_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-39_2.jpg" id="index-39_2.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-40_1.jpg" id="index-40_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-40_2.jpg" id="index-40_2.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-42_1.jpg" id="index-42_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-44_1.jpg" id="index-44_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-45_1.jpg" id="index-45_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-47_1.jpg" id="index-47_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-49_1.jpg" id="index-49_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-50_1.jpg" id="index-50_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-52_1.jpg" id="index-52_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-56_1.jpg" id="index-56_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-7_1.jpg" id="index-7_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/index-7_2.jpg" id="index-7_2.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id31">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section1.xhtml"/>
+    <itemref idref="Section2.xhtml"/>
+    <itemref idref="Section3.xhtml"/>
+    <itemref idref="Section4.xhtml"/>
+    <itemref idref="Section5.xhtml"/>
+    <itemref idref="Section6.xhtml"/>
+    <itemref idref="Section7.xhtml"/>
+    <itemref idref="Section8.xhtml"/>
+    <itemref idref="Section9.xhtml"/>
+    <itemref idref="Section10.xhtml"/>
+    <itemref idref="Section11.xhtml"/>
+    <itemref idref="Section12.xhtml"/>
+    <itemref idref="Section13.xhtml"/>
+    <itemref idref="Section14.xhtml"/>
+    <itemref idref="Section15.xhtml"/>
+    <itemref idref="Section16.xhtml"/>
+    <itemref idref="Section17.xhtml"/>
+    <itemref idref="Section18.xhtml"/>
+  </spine>
+  <guide/>
+</package>

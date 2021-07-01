@@ -1,0 +1,277 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Hawking, Stephen William">Stephen William Hawking</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:91a2dced-128c-487b-93b7-8ad3888870dc</dc:identifier>
+    <dc:publisher>Alfa Yayınları</dc:publisher>
+    <dc:date>2002-04-01T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+  <dc:title>Ceviz Kabuğundaki Evren</dc:title>
+<meta name="calibre:title_sort" content="Ceviz Kabuğundaki Evren"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Fizik</dc:subject>
+<dc:subject>Popüler Bilim</dc:subject>
+<dc:description>&lt;p&gt;Zamanın Kısa Tarihi Hakkında Söylenenler
+
+"Canlı ve kışkırtıcı... Hawking'in bir öğretmene özgü doğal yetenekler olan kaliteli bir espri anlayışı ve karmaşık önermeleri günlük yaşamdan çekip aldığı analojilerle resmetme becerisine sahip olduğu açık." 
+The New York Times
+
+"Bu kitap, bir çocuğun merakıyla bir dahinin zekasının uyumlu bir birlikteliği. Hawking'in evreninde dolaşırken zekasına hayran kalıyorsunuz." 
+The Sunday Times(Londra)
+
+"Etkileyici ve kolay anlaşılır... Sıradan bir okurun dahi bilimin derinliklerini kaynağından öğrenmesine olanak sağlıyor. Pırıl pırıl parlayan bir kitap." 
+The New Yorker
+
+"Stephen hawking duru anlatımın ustası olduğunu kanıtlıyor. Yaşayan başka birinin, böylesine ürkütücü görünen matematiksel konuları bu denli açık ve kolay anlaşılır biçimde dile getirebileceğine inanmak güç."
+Chicago Tribune&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Stephen William Hawking&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">f2769f58-8b02-4372-bd02-5ccc94d21b47</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9799752971058</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style.css" id="Style.css" media-type="text/css"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/resim01.jpg" id="resim01.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/resim02.jpg" id="resim02.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim03.jpg" id="resim03.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim04.jpg" id="resim04.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim05.jpg" id="resim05.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim06.jpg" id="resim06.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim07.jpg" id="resim07.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim08.jpg" id="resim08.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim09.jpg" id="resim09.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim10.jpg" id="resim10.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil1.7.jpg" id="sekil1.7.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil1.7_2.jpg" id="sekil1.7_2.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim11.jpg" id="resim11.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim12.jpg" id="resim12.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil1.8.jpg" id="sekil1.8.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil1.9.jpg" id="sekil1.9.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil1.10-11.jpg" id="sekil1.10-11.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil1.12.jpg" id="sekil1.12.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim13.jpg" id="resim13.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil1.13.jpg" id="sekil1.13.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil1.14.jpg" id="sekil1.14.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim14.jpg" id="resim14.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim15.jpg" id="resim15.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim16.jpg" id="resim16.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim17.jpg" id="resim17.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/resim18.jpg" id="resim18.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.1.jpg" id="sekil2.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.2.jpg" id="sekil2.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim19.png" id="resim19.png" media-type="image/png"/>
+    <item href="Images/sekil2.3.jpg" id="sekil2.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.3.1.jpg" id="sekil2.3.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.4.jpg" id="sekil2.4.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim20.jpg" id="resim20.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.5.jpg" id="sekil2.5.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.6.0.jpg" id="sekil2.6.0.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.6.jpg" id="sekil2.6.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.7.jpg" id="sekil2.7.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.8.jpg" id="sekil2.8.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.8.2.jpg" id="sekil2.8.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.8.3.jpg" id="sekil2.8.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.9.jpg" id="sekil2.9.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.10.jpg" id="sekil2.10.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.11.jpg" id="sekil2.11.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.12.jpg" id="sekil2.12.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.12.2.jpg" id="sekil2.12.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.13.jpg" id="sekil2.13.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim21.jpg" id="resim21.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.14.jpg" id="sekil2.14.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.15.jpg" id="sekil2.15.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim22.jpg" id="resim22.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.16.jpg" id="sekil2.16.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.17.jpg" id="sekil2.17.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.18.jpg" id="sekil2.18.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.19.jpg" id="sekil2.19.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.20-21.jpg" id="sekil2.20-21.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim23.jpg" id="resim23.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim24.jpg" id="resim24.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.22.1.jpg" id="sekil2.22.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil2.22.2.jpg" id="sekil2.22.2.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/resim3.1.png" id="resim3.1.png" media-type="image/png"/>
+    <item href="Images/resim3.2.jpg" id="resim3.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.3.jpg" id="resim3.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.1.jpg" id="sekil3.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.2.jpg" id="sekil3.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.3.jpg" id="sekil3.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.4.jpg" id="sekil3.4.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.5.jpg" id="sekil3.5.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.5.1.jpg" id="sekil3.5.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.6.0.jpg" id="sekil3.6.0.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.6.jpg" id="sekil3.6.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.6.1.jpg" id="sekil3.6.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.4.jpg" id="resim3.4.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.5.jpg" id="resim3.5.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.7.jpg" id="sekil3.7.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.8.jpg" id="sekil3.8.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.6.jpg" id="resim3.6.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.7.jpg" id="resim3.7.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.8.jpg" id="resim3.8.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.9.jpg" id="sekil3.9.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.10.1.jpg" id="resim3.10.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.10.2.jpg" id="resim3.10.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.10.3.jpg" id="resim3.10.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.11.jpg" id="resim3.11.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.10.jpg" id="sekil3.10.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.12.jpg" id="resim3.12.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.13.jpg" id="resim3.13.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.14.jpg" id="resim3.14.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.12.jpg" id="sekil3.12.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.13.jpg" id="sekil3.13.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.14.jpg" id="sekil3.14.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.15.jpg" id="sekil3.15.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.16.jpg" id="sekil3.16.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.17.jpg" id="sekil3.17.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.15.jpg" id="resim3.15.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.18.jpg" id="sekil3.18.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.19.jpg" id="sekil3.19.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil3.20.jpg" id="sekil3.20.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim3.16.jpg" id="resim3.16.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/resim4.1.jpg" id="resim4.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim4.2.jpg" id="resim4.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.1.jpg" id="sekil4.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim4.2.1.jpg" id="resim4.2.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.2.jpg" id="sekil4.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.3.jpg" id="sekil4.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim4.3.jpg" id="resim4.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.4.jpg" id="sekil4.4.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim4.10.jpg" id="resim4.10.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim4.8.jpg" id="resim4.8.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim4.9.jpg" id="resim4.9.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.23.jpg" id="sekil4.23.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.22.jpg" id="sekil4.22.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.21.jpg" id="sekil4.21.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.20.jpg" id="sekil4.20.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.19.jpg" id="sekil4.19.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim4.7.jpg" id="resim4.7.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.18.jpg" id="sekil4.18.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.16.jpg" id="sekil4.16.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.17.jpg" id="sekil4.17.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim4.6.jpg" id="resim4.6.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim4.5.jpg" id="resim4.5.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.14.jpg" id="sekil4.14.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.15.jpg" id="sekil4.15.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.13.jpg" id="sekil4.13.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.12.jpg" id="sekil4.12.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.11.jpg" id="sekil4.11.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.10.jpg" id="sekil4.10.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim4.4.jpg" id="resim4.4.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.8.jpg" id="sekil4.8.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.9.jpg" id="sekil4.9.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.7.jpg" id="sekil4.7.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.6.jpg" id="sekil4.6.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil4.5.jpg" id="sekil4.5.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/resim5.9.jpg" id="resim5.9.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim5.8.jpg" id="resim5.8.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.18.jpg" id="sekil5.18.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.17.jpg" id="sekil5.17.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.16.jpg" id="sekil5.16.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.15.jpg" id="sekil5.15.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.14.jpg" id="sekil5.14.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.13.jpg" id="sekil5.13.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.12.jpg" id="sekil5.12.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim5.7.jpg" id="resim5.7.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.11.jpg" id="sekil5.11.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.10.jpg" id="sekil5.10.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.9.jpg" id="sekil5.9.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim5.6.jpg" id="resim5.6.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.8.jpg" id="sekil5.8.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.7.jpg" id="sekil5.7.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.6.jpg" id="sekil5.6.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.5.jpg" id="sekil5.5.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.4.jpg" id="sekil5.4.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.3.jpg" id="sekil5.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.2.jpg" id="sekil5.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim5.5.jpg" id="resim5.5.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim5.4.jpg" id="resim5.4.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil5.1.jpg" id="sekil5.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim5.3.jpg" id="resim5.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim5.2.jpg" id="resim5.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim5.1.jpg" id="resim5.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim5.0.jpg" id="resim5.0.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim6.10.jpg" id="resim6.10.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim6.9.jpg" id="resim6.9.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil6.7.2.jpg" id="sekil6.7.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil6.7.jpg" id="sekil6.7.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim6.8.jpg" id="resim6.8.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil6.6.jpg" id="sekil6.6.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim6.7.jpg" id="resim6.7.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim6.6.jpg" id="resim6.6.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil6.5.jpg" id="sekil6.5.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil6.4.1.jpg" id="sekil6.4.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil6.4.jpg" id="sekil6.4.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim6.5.jpg" id="resim6.5.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim6.4.jpg" id="resim6.4.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil6.3.jpg" id="sekil6.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim6.3.jpg" id="resim6.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim6.2.jpg" id="resim6.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil6.2.jpg" id="sekil6.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil6.1.jpg" id="sekil6.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim6.1.jpg" id="resim6.1.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/resim6.11.jpg" id="resim6.11.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sekil7.20.jpg" id="sekil7.20.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.19.jpg" id="sekil7.19.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim7.6.jpg" id="resim7.6.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim7.5.jpg" id="resim7.5.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.18.jpg" id="sekil7.18.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim7.4.jpg" id="resim7.4.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.17.jpg" id="sekil7.17.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.16.jpg" id="sekil7.16.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.15.jpg" id="sekil7.15.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.14.jpg" id="sekil7.14.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.13.jpg" id="sekil7.13.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim7.3.jpg" id="resim7.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.12.jpg" id="sekil7.12.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.11.jpg" id="sekil7.11.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.10.jpg" id="sekil7.10.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.9.jpg" id="sekil7.9.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.8.jpg" id="sekil7.8.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.7.jpg" id="sekil7.7.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.6.jpg" id="sekil7.6.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.5.jpg" id="sekil7.5.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.4.jpg" id="sekil7.4.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.3.jpg" id="sekil7.3.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.2.jpg" id="sekil7.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim7.2.jpg" id="resim7.2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.1.jpg" id="sekil7.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/resim7.1.jpg" id="resim7.1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.ek1.jpg" id="sekil7.ek1.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.ek2.jpg" id="sekil7.ek2.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil7.ek3.jpg" id="sekil7.ek3.jpg" media-type="image/jpeg"/>
+    <item href="Images/sekil8son.jpg" id="sekil8son.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

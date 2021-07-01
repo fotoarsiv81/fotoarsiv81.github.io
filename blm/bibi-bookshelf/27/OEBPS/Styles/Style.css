@@ -1,0 +1,14 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+@page {padding: 0pt; margin:0pt}
+            body { 
+  text-indent: 30px;
+  text-align: justify;
+/*font-family:"Arial", Times, serif;
+font-style:Normal;
+background-image: url(../Images/cover.jpg);
+background-repeat: no-repeat;
+background-position: 0px 5px;*/
+  }
+h1 {font-size:25px;}
+h2 {font-size:22px;}
+p {font-size:18px;}

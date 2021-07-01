@@ -1,0 +1,73 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Cennetten Akan Irmak</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Dawkins, Richard">Richard Dawkins</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:368b5180-bfac-4dc1-9192-9fd5127d4f2b</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Varlık Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.81.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">cd9f7146-5a7e-462b-8710-2e13fbae5964</dc:identifier>
+    <meta content="0.8.4" name="Sigil version"/>
+    <meta name="cover" content="Image_001.jpg"/>
+    <meta name="calibre:title_sort" content="Cennetten Akan Irmak"/>
+    <meta name="calibre:author_link_map" content="{&quot;Richard Dawkins&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/baslik.html" id="baslik.html" media-type="application/xhtml+xml"/>
+    <item href="Text/r1.html" id="r1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.html" id="ithaf.html" media-type="application/xhtml+xml"/>
+    <item href="Text/quote.html" id="quote.html" media-type="application/xhtml+xml"/>
+    <item href="Text/icindekiler.html" id="icindekiler.html" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.html" id="onsoz.html" media-type="application/xhtml+xml"/>
+    <item href="Text/r2.html" id="r2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/01.html" id="x01.html" media-type="application/xhtml+xml"/>
+    <item href="Text/r3.html" id="r3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/02.html" id="x02.html" media-type="application/xhtml+xml"/>
+    <item href="Text/r4.html" id="r4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/03.html" id="x03.html" media-type="application/xhtml+xml"/>
+    <item href="Text/r5.html" id="r5.html" media-type="application/xhtml+xml"/>
+    <item href="Text/04.html" id="x04.html" media-type="application/xhtml+xml"/>
+    <item href="Text/r6.html" id="r6.html" media-type="application/xhtml+xml"/>
+    <item href="Text/05.html" id="x05.html" media-type="application/xhtml+xml"/>
+    <item href="Text/bibliyografya.html" id="bibliyografya.html" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.html" id="dipnot.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/001.jpg" id="x001.gif" media-type="image/jpeg"/>
+    <item href="Images/004.jpg" id="x004.gif" media-type="image/jpeg"/>
+    <item href="Images/005.jpg" id="x005.gif" media-type="image/jpeg"/>
+    <item href="Images/006.jpg" id="x006.gif" media-type="image/jpeg"/>
+    <item href="Images/007.jpg" id="x007.gif" media-type="image/jpeg"/>
+    <item href="Images/008.jpg" id="x008.gif" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="Image_001.jpg" media-type="image/jpeg"/>
+    <item href="Images/Image_002.jpg" id="Image_002.gif" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="baslik.html"/>
+    <itemref idref="r1.html"/>
+    <itemref idref="ithaf.html"/>
+    <itemref idref="quote.html"/>
+    <itemref idref="icindekiler.html"/>
+    <itemref idref="onsoz.html"/>
+    <itemref idref="r2.html"/>
+    <itemref idref="x01.html"/>
+    <itemref idref="r3.html"/>
+    <itemref idref="x02.html"/>
+    <itemref idref="r4.html"/>
+    <itemref idref="x03.html"/>
+    <itemref idref="r5.html"/>
+    <itemref idref="x04.html"/>
+    <itemref idref="r6.html"/>
+    <itemref idref="x05.html"/>
+    <itemref idref="bibliyografya.html"/>
+    <itemref idref="dipnot.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

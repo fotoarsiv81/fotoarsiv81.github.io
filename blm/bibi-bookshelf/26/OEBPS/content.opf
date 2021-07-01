@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Hawking, Stephen William">Stephen William Hawking</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">f7240303-292f-4524-b99c-39d75fdc0cc8</dc:identifier>
+    <dc:publisher>Sarmal</dc:publisher>
+    <dc:description>&lt;p&gt;Kara Delikler ve Bebek Evrenler Stephen Hawking'in Zamanın Kısa Tarihi'nden sonra hazırladığı ikinci popüler yapıtı. Ekim 1993'te Amerika'da yayımlanan yapıt yazarın ilk yapıtı kadar ilgi gördü.
+
+Stephen Hawking "Ben evrenin bilinmez ve anlaşılmaz bir şey, insanın sezgileri olabileceği fakat hiçbir zaman tam olarak analiz edemeyeceği veya kavrayamayacağı bir şey olduğu görüşüne katılmıyorum. Bu görüşün hemen hemen dört yüz yıl önce Galile tarafından başlatılan ve Newton tarafından devam ettirilen bilimsel devrime karşı haksızlık ettiğini düşünüyorum. Onlar evrenin en azından bazı alanlarının, gelişigüzel şekilde davranmadıklarını kesin matematiksel yasalar tarafından yönetildiklerini gösterdiler. O zamandan beri geçen yıllar içinde Galile ve Newton'un çalışmalarını evrenin hemen hemen her alanına uzatmış bulunuyoruz" diyor.
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <dc:date>2010-12-26T22:00:00+00:00</dc:date>
+    <meta content="Kara Delikler ve Bebek Evrenler" name="calibre:title_sort"/>
+    <meta content="2013-12-26T18:29:25.005000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Kara Delikler ve Bebek Evrenler</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Fizik</dc:subject>
+<dc:subject>Popüler Bilim</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Stephen William Hawking&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e8861daf-6c86-4ca8-98d4-5dcf80c9ac51</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">QjeSAAAACAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789757380115</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/index_split_000.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

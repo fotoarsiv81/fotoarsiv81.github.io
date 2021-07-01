@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{49392B3A-BB73-4CB9-B935-3D1D475E21F4}" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>R1</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/cover.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/f1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/f2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Cornell Üniversitesi Rektörü Dale R. Corson’un 1964 Messenger Konuşmacısını Takdimi</text>
+      </navLabel>
+      <content src="Text/f2.xhtml#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Fizik Yasalarına Bir Örnek: Yerçekimi Yasası</text>
+      </navLabel>
+      <content src="Text/f2.xhtml#sigil_toc_id_2" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Matematik ve Fizik Arasındaki Bağıntı</text>
+      </navLabel>
+      <content src="Text/f2.xhtml#sigil_toc_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Büyük Korunum İlkeleri</text>
+      </navLabel>
+      <content src="Text/f2.xhtml#sigil_toc_id_4" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Fizik Yasalarında Simetri</text>
+      </navLabel>
+      <content src="Text/f3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Geçmiş ile Geleceği Ayırt Etme</text>
+      </navLabel>
+      <content src="Text/f3.xhtml#sigil_toc_id_5" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Olasılık ve Belirsizlik Kuantum Mekaniği Açısından Doğa</text>
+      </navLabel>
+      <content src="Text/f3.xhtml#sigil_toc_id_6" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Yeni Yasalar Arayışı</text>
+      </navLabel>
+      <content src="Text/f3.xhtml#sigil_toc_id_7" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/r4.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

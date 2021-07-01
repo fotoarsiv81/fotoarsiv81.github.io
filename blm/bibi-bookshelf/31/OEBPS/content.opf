@@ -1,0 +1,141 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Shasha, Dennis">Dennis Shasha</dc:creator>
+<dc:identifier id="uuid">{18D56A44-FEAC-44A8-8B4A-0BF4E6440C9B}</dc:identifier>
+    <dc:date>1997-07-20T21:00:00+00:00</dc:date>
+    <dc:publisher>Tübitak Yayınları</dc:publisher>
+    <dc:description>&lt;p class="description"&gt;Elinizdeki kitabın kahramanı matematik dedektifi Dr. Ecco'unun bilmece çözmek gibi sıradışı bir uğraşı var. Genellikle sezgilerinden ve tümevarım yönteminden yararlanın Dr. Ecco. devlet adamları çift yanlı ajanlar eksantrik milyarderler ve define avcıları tarafından çözülmeleri için kendisine getirilen bilmecelerin kolaylıkla üstesinden geliyor. Bilgisayar ve matematik alanlarında rastanan bilmecelere yer verilen 'Dr. Ecco'unun Şaşırtıcı Serüvenleri' okura problemleri uğraşmanın çekiciliğini hatırlatıyor.....&lt;/p&gt;</dc:description>
+    <dc:date opf:event="modification">2015-02-22</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta content="Dr. Ecco'nun Şaşırtıcı Serüvenleri" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Dennis Shasha&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  <dc:title>Dr. Ecco'nun Şaşırtıcı Serüvenleri</dc:title>
+<dc:subject>Matematik</dc:subject>
+<dc:subject>Popüler Bilim</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">13f5457b-c627-4697-877b-6f65e79f26b6</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754030426</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">16158673</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_01.xhtml" id="eco_01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_02.xhtml" id="eco_02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_03.xhtml" id="eco_03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_04.xhtml" id="eco_04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_05.xhtml" id="eco_05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_06.xhtml" id="eco_06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_07.xhtml" id="eco_07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_08.xhtml" id="eco_08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_09.xhtml" id="eco_09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_10.xhtml" id="eco_10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_11.xhtml" id="eco_11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_12.xhtml" id="eco_12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_13.xhtml" id="eco_13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_14.xhtml" id="eco_14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_15.xhtml" id="eco_15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_16.xhtml" id="eco_16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_17.xhtml" id="eco_17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_18.xhtml" id="eco_18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_19.xhtml" id="eco_19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_20.xhtml" id="eco_20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_21.xhtml" id="eco_21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_22.xhtml" id="eco_22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_23.xhtml" id="eco_23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_24.xhtml" id="eco_24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_25.xhtml" id="eco_25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_26.xhtml" id="eco_26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eco_27.xhtml" id="eco_27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id149" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id148" media-type="text/css"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/el.jpg" id="el.jpg" media-type="image/jpeg"/>
+    <item href="Images/main-1.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="Images/main-101.jpg" id="id101" media-type="image/jpeg"/>
+    <item href="Images/main-105.jpg" id="id105" media-type="image/jpeg"/>
+    <item href="Images/main-110.jpg" id="id110" media-type="image/jpeg"/>
+    <item href="Images/main-111.jpg" id="id111" media-type="image/jpeg"/>
+    <item href="Images/main-112.jpg" id="id112" media-type="image/jpeg"/>
+    <item href="Images/main-113.jpg" id="id113" media-type="image/jpeg"/>
+    <item href="Images/main-114.jpg" id="id114" media-type="image/jpeg"/>
+    <item href="Images/main-115.jpg" id="id115" media-type="image/jpeg"/>
+    <item href="Images/main-116.jpg" id="id116" media-type="image/jpeg"/>
+    <item href="Images/main-117.jpg" id="id117" media-type="image/jpeg"/>
+    <item href="Images/main-118.jpg" id="id118" media-type="image/jpeg"/>
+    <item href="Images/main-119.jpg" id="id119" media-type="image/jpeg"/>
+    <item href="Images/main-120.jpg" id="id120" media-type="image/jpeg"/>
+    <item href="Images/main-121.jpg" id="id121" media-type="image/jpeg"/>
+    <item href="Images/main-122.jpg" id="id122" media-type="image/jpeg"/>
+    <item href="Images/main-123.jpg" id="id123" media-type="image/jpeg"/>
+    <item href="Images/main-124.jpg" id="id124" media-type="image/jpeg"/>
+    <item href="Images/main-125.jpg" id="id125" media-type="image/jpeg"/>
+    <item href="Images/main-126.jpg" id="id126" media-type="image/jpeg"/>
+    <item href="Images/main-127.jpg" id="id127" media-type="image/jpeg"/>
+    <item href="Images/main-128.jpg" id="id128" media-type="image/jpeg"/>
+    <item href="Images/main-129.jpg" id="id129" media-type="image/jpeg"/>
+    <item href="Images/main-130.jpg" id="id130" media-type="image/jpeg"/>
+    <item href="Images/main-131.jpg" id="id131" media-type="image/jpeg"/>
+    <item href="Images/main-132.jpg" id="id132" media-type="image/jpeg"/>
+    <item href="Images/main-133.jpg" id="id133" media-type="image/jpeg"/>
+    <item href="Images/main-134.jpg" id="id134" media-type="image/jpeg"/>
+    <item href="Images/main-135.jpg" id="id135" media-type="image/jpeg"/>
+    <item href="Images/main-136.jpg" id="id136" media-type="image/jpeg"/>
+    <item href="Images/main-14.jpg" id="id14" media-type="image/jpeg"/>
+    <item href="Images/main-2.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="Images/main-20.jpg" id="id20" media-type="image/jpeg"/>
+    <item href="Images/main-21.jpg" id="id21" media-type="image/jpeg"/>
+    <item href="Images/main-29.jpg" id="id29" media-type="image/jpeg"/>
+    <item href="Images/main-30.jpg" id="id30" media-type="image/jpeg"/>
+    <item href="Images/main-36.jpg" id="id36" media-type="image/jpeg"/>
+    <item href="Images/main-39.jpg" id="id39" media-type="image/jpeg"/>
+    <item href="Images/main-40.jpg" id="id40" media-type="image/jpeg"/>
+    <item href="Images/main-48.jpg" id="id48" media-type="image/jpeg"/>
+    <item href="Images/main-56.jpg" id="id56" media-type="image/jpeg"/>
+    <item href="Images/main-59.jpg" id="id59" media-type="image/jpeg"/>
+    <item href="Images/main-63.jpg" id="id63" media-type="image/jpeg"/>
+    <item href="Images/main-7.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="Images/main-71.jpg" id="id71" media-type="image/jpeg"/>
+    <item href="Images/main-72.jpg" id="id72" media-type="image/jpeg"/>
+    <item href="Images/main-76.jpg" id="id76" media-type="image/jpeg"/>
+    <item href="Images/main-85.jpg" id="id85" media-type="image/jpeg"/>
+    <item href="Images/main-95.jpg" id="id95" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id149">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="eco_01.xhtml"/>
+    <itemref idref="eco_02.xhtml"/>
+    <itemref idref="eco_03.xhtml"/>
+    <itemref idref="eco_04.xhtml"/>
+    <itemref idref="eco_05.xhtml"/>
+    <itemref idref="eco_06.xhtml"/>
+    <itemref idref="eco_07.xhtml"/>
+    <itemref idref="eco_08.xhtml"/>
+    <itemref idref="eco_09.xhtml"/>
+    <itemref idref="eco_10.xhtml"/>
+    <itemref idref="eco_11.xhtml"/>
+    <itemref idref="eco_12.xhtml"/>
+    <itemref idref="eco_13.xhtml"/>
+    <itemref idref="eco_14.xhtml"/>
+    <itemref idref="eco_15.xhtml"/>
+    <itemref idref="eco_16.xhtml"/>
+    <itemref idref="eco_17.xhtml"/>
+    <itemref idref="eco_18.xhtml"/>
+    <itemref idref="eco_19.xhtml"/>
+    <itemref idref="eco_20.xhtml"/>
+    <itemref idref="eco_21.xhtml"/>
+    <itemref idref="eco_22.xhtml"/>
+    <itemref idref="eco_23.xhtml"/>
+    <itemref idref="eco_24.xhtml"/>
+    <itemref idref="eco_25.xhtml"/>
+    <itemref idref="eco_26.xhtml"/>
+    <itemref idref="eco_27.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

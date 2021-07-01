@@ -1,0 +1,94 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Feynman, Richard">Richard Feynman</dc:creator>
+<dc:identifier id="uuid">{49392B3A-BB73-4CB9-B935-3D1D475E21F4}</dc:identifier>
+    <dc:date>2000-05-07T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+  <dc:title>Fizik Yasaları Üzerine</dc:title>
+<meta name="calibre:title_sort" content="Fizik Yasaları Üzerine"/>
+<dc:publisher>Tübitak Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Popüler Bilim</dc:subject>
+<dc:subject>Fizik</dc:subject>
+<dc:description>&lt;p&gt;1964 A. Einstein Ödülü ve 1965 Nobel Fizik Ödülü sahibi Profesör R. Feynman sadece fizik yasalarının bu günkü kavranışına yaptığı katkılarla değil, fiziği fizikçi olmayanlar için de çekici kılma yeteneğiyle tanınır.Elinizdeki kitap, Feynman'ın davetli olarak geldiği Amerika Birleşik Devletleri'nin Cornell Üniversitesi'nde verdiği bir dizi konferansı kapsamaktadır.Feyman fiziğin geniş evrenini, bir Marslı'yla yapılan hayali telefon konuşması benzeri örnekler çeşitliliği içerisinde bizlere tanıtmaktadır.
+&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Richard Feynman&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">a1ddb5d0-7edd-49ac-8229-b277af01acfb</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9754030189</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Images/main-3.png" id="id3" media-type="image/png"/>
+    <item href="Images/main-4.png" id="id4" media-type="image/png"/>
+    <item href="Images/main-5.png" id="id5" media-type="image/png"/>
+    <item href="Images/main-6.png" id="id6" media-type="image/png"/>
+    <item href="Images/main-7.png" id="id7" media-type="image/png"/>
+    <item href="Images/main-9.png" id="id9" media-type="image/png"/>
+    <item href="Images/main-10.png" id="id10" media-type="image/png"/>
+    <item href="Images/main-11.png" id="id11" media-type="image/png"/>
+    <item href="Images/main-12.png" id="id12" media-type="image/png"/>
+    <item href="Images/main-13.png" id="id13" media-type="image/png"/>
+    <item href="Images/main-14.png" id="id14" media-type="image/png"/>
+    <item href="Images/main-15.png" id="id15" media-type="image/png"/>
+    <item href="Images/main-16.png" id="id16" media-type="image/png"/>
+    <item href="Images/main-17.png" id="id17" media-type="image/png"/>
+    <item href="Images/main-18.png" id="id18" media-type="image/png"/>
+    <item href="Images/main-19.png" id="id19" media-type="image/png"/>
+    <item href="Images/main-20.png" id="id20" media-type="image/png"/>
+    <item href="Images/main-21.png" id="id21" media-type="image/png"/>
+    <item href="Images/main-22.png" id="id22" media-type="image/png"/>
+    <item href="Images/main-23.png" id="id23" media-type="image/png"/>
+    <item href="Styles/main.css" id="id24" media-type="text/css"/>
+    <item href="toc.ncx" id="id25" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/r2main-1.png" id="r2main-1.png" media-type="image/png"/>
+    <item href="Images/r2main-2.png" id="r2main-2.png" media-type="image/png"/>
+    <item href="Images/r2main-3.png" id="r2main-3.png" media-type="image/png"/>
+    <item href="Images/r2main-4.png" id="r2main-4.png" media-type="image/png"/>
+    <item href="Images/r2main-5.png" id="r2main-5.png" media-type="image/png"/>
+    <item href="Images/r2main-6.png" id="r2main-6.png" media-type="image/png"/>
+    <item href="Images/r2main-7.png" id="r2main-7.png" media-type="image/png"/>
+    <item href="Images/r2main-8.png" id="r2main-8.png" media-type="image/png"/>
+    <item href="Images/r2main-9.png" id="r2main-9.png" media-type="image/png"/>
+    <item href="Images/r2main-10.png" id="r2main-10.png" media-type="image/png"/>
+    <item href="Images/r2main-11.png" id="r2main-11.png" media-type="image/png"/>
+    <item href="Images/r2main-12.png" id="r2main-12.png" media-type="image/png"/>
+    <item href="Images/r2main-13.png" id="r2main-13.png" media-type="image/png"/>
+    <item href="Images/r2main-14.png" id="r2main-14.png" media-type="image/png"/>
+    <item href="Images/r2main-15.png" id="r2main-15.png" media-type="image/png"/>
+    <item href="Images/r2main-16.png" id="r2main-16.png" media-type="image/png"/>
+    <item href="Images/r2main-17.png" id="r2main-17.png" media-type="image/png"/>
+    <item href="Images/r3main-1.jpg" id="r3main-1.jpg" media-type="image/jpeg"/>
+    <item href="Images/r3main-2.jpg" id="r3main-2.jpg" media-type="image/jpeg"/>
+    <item href="Images/r3main-3.jpg" id="r3main-3.jpg" media-type="image/jpeg"/>
+    <item href="Images/r3main-4.jpg" id="r3main-4.jpg" media-type="image/jpeg"/>
+    <item href="Images/r3main-5.jpg" id="r3main-5.jpg" media-type="image/jpeg"/>
+    <item href="Images/r4main-1.jpg" id="r4main-1.jpg" media-type="image/jpeg"/>
+    <item href="Images/r4main-2.jpg" id="r4main-2.jpg" media-type="image/jpeg"/>
+    <item href="Images/r4main-3.jpg" id="r4main-3.jpg" media-type="image/jpeg"/>
+    <item href="Images/r4main-4.jpg" id="r4main-4.jpg" media-type="image/jpeg"/>
+    <item href="Images/r4main-5.jpg" id="r4main-5.jpg" media-type="image/jpeg"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/f1.xhtml" id="f1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/r4.xhtml" id="r4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/f3.xhtml" id="f3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/f2.xhtml" id="f2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/main-8.jpg" id="main-8.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id25">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="f1.xhtml"/>
+    <itemref idref="f2.xhtml"/>
+    <itemref idref="f3.xhtml"/>
+    <itemref idref="r4.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

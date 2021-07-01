@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="{C4E72F1A-A36A-4711-A5C4-26BA04B3E043}" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Zamanın Daha Kısa Tarihi</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Teşekkür</text>
+            </navLabel>
+            <content src="Text/Section1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>Önsöz</text>
+            </navLabel>
+            <content src="Text/Section2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Evreni düşünmek</text>
+            </navLabel>
+            <content src="Text/Section3.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Geliştirilmiş evren tanımımız</text>
+            </navLabel>
+            <content src="Text/Section4.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>Bilimsel bir kuramın doğası</text>
+            </navLabel>
+            <content src="Text/Section5.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>Newton'un evreni</text>
+            </navLabel>
+            <content src="Text/Section6.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>Görelilik</text>
+            </navLabel>
+            <content src="Text/Section7.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>Eğrilmiş uzay</text>
+            </navLabel>
+            <content src="Text/Section8.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>Genişleyen evren</text>
+            </navLabel>
+            <content src="Text/Section9.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>Büyük patlama, kara delikler ve evrenin evrimi</text>
+            </navLabel>
+            <content src="Text/Section10.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>Kuvantum kütleçekimi</text>
+            </navLabel>
+            <content src="Text/Section11.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>Solucan delikleri ve zaman yolculuğu</text>
+            </navLabel>
+            <content src="Text/Section12.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>Doğa güçleri ve fiziğin birleştirilmesi</text>
+            </navLabel>
+            <content src="Text/Section13.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>Sonuç</text>
+            </navLabel>
+            <content src="Text/Section14.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>Albert Einstein</text>
+            </navLabel>
+            <content src="Text/Section15.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+                <text>Galileo Galilei</text>
+            </navLabel>
+            <content src="Text/Section16.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+                <text>Isaac Newton</text>
+            </navLabel>
+            <content src="Text/Section17.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+                <text>Sözlük</text>
+            </navLabel>
+            <content src="Text/Section18.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>
