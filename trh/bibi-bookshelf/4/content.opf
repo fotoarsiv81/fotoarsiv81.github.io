@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Armağan, Mustafa">Mustafa Armağan</dc:creator>
+<dc:language>tr</dc:language>
+    <meta name="calibre:timestamp" content="2011-02-23T18:09:03.841386+00:00"/>
+    <dc:title>Abdülhamid'in Kurtlarla Dansı</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2011-02-23T18:09:03+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.37) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8ed54ac1-6841-4cff-9e1f-6a90a36be0fa</dc:identifier>
+  <opf:meta name="calibre:title_sort" content="Abdülhamid'in Kurtlarla Dansı"/>
+<opf:meta name="calibre:user_categories" content="{}"/>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index_split_000.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

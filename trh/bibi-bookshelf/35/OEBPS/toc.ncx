@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="bookid" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Endülüs Tarihi</text>
+  </docTitle>
+  <docAuthor>
+    <text>Ziya Paşa</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/CoverImage.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/EndulusTarihi-1.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Endülüs Tarihi</text>
+      </navLabel>
+      <content src="Text/EndulusTarihi-2.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Ziya Paşa</text>
+      </navLabel>
+      <content src="Text/EndulusTarihi-3.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Yayınevinin Önsözü</text>
+      </navLabel>
+      <content src="Text/EndulusTarihi-4.xhtml#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>Haritalar</text>
+      </navLabel>
+      <content src="Text/EndulusTarihi-5.xhtml#toc_marker-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/EndulusTarihi-10.xhtml#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>BİRİNCİ CİLT</text>
+      </navLabel>
+      <content src="Text/EndulusTarihi-11.xhtml#toc_marker-8"/>
+      <navPoint id="navpoint9" playOrder="9">
+        <navLabel>
+          <text>İspanya'da Kurulan Benî Ümeyye (Emevi) Hükümeti</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-13.xhtml#toc_marker-9"/>
+      </navPoint>
+      <navPoint id="navpoint10" playOrder="10">
+        <navLabel>
+          <text>Melik I. Abdurrahman Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-14.xhtml#toc_marker-10"/>
+      </navPoint>
+      <navPoint id="navpoint11" playOrder="11">
+        <navLabel>
+          <text>Hişâm Bin Abdurrahman’ın Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-15.xhtml#toc_marker-11"/>
+      </navPoint>
+      <navPoint id="navpoint12" playOrder="12">
+        <navLabel>
+          <text>Melik Hakem’in Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-16.xhtml#toc_marker-12"/>
+      </navPoint>
+      <navPoint id="navpoint13" playOrder="13">
+        <navLabel>
+          <text>İkinci Abdurrahman Bin Hakem Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-17.xhtml#toc_marker-13"/>
+      </navPoint>
+      <navPoint id="navpoint14" playOrder="14">
+        <navLabel>
+          <text>Beşinci Endülüs Meliki Muhammed Bin Abdurrahman’ın Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-18.xhtml#toc_marker-14"/>
+      </navPoint>
+      <navPoint id="navpoint15" playOrder="15">
+        <navLabel>
+          <text>Altıncı Endülüs Meliki Münzir Bin Muhammed’in Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-19.xhtml#toc_marker-15"/>
+      </navPoint>
+      <navPoint id="navpoint16" playOrder="16">
+        <navLabel>
+          <text>Melik Abdullah Bin Muhammed’in Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-20.xhtml#toc_marker-16"/>
+      </navPoint>
+      <navPoint id="navpoint17" playOrder="17">
+        <navLabel>
+          <text>Melik III. Abdurrahman Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-21.xhtml#toc_marker-17"/>
+      </navPoint>
+      <navPoint id="navpoint18" playOrder="18">
+        <navLabel>
+          <text>Melik II. Hakem İbni Abdurrahman-ı Sâlis Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-22.xhtml#toc_marker-18"/>
+      </navPoint>
+      <navPoint id="navpoint19" playOrder="19">
+        <navLabel>
+          <text>II. Hişam İbni Hakem Mustansır’ın Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-23.xhtml#toc_marker-19"/>
+      </navPoint>
+      <navPoint id="navpoint20" playOrder="20">
+        <navLabel>
+          <text>Mütegallib Muhammed Bin Abdülcabbar Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-24.xhtml#toc_marker-20"/>
+      </navPoint>
+      <navPoint id="navpoint21" playOrder="21">
+        <navLabel>
+          <text>Süleyman Mütegallib’in Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-25.xhtml#toc_marker-21"/>
+      </navPoint>
+      <navPoint id="navpoint22" playOrder="22">
+        <navLabel>
+          <text>Melik Hişam Bin Hakem’in İkinci Defa Cülûsu</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-26.xhtml#toc_marker-22"/>
+      </navPoint>
+      <navPoint id="navpoint23" playOrder="23">
+        <navLabel>
+          <text>Süleyman Mütegallib’in İkinci Defa Tahta Çıkması</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-27.xhtml#toc_marker-23"/>
+      </navPoint>
+      <navPoint id="navpoint24" playOrder="24">
+        <navLabel>
+          <text>Ali Bin Hammûd’un Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-28.xhtml#toc_marker-24"/>
+      </navPoint>
+      <navPoint id="navpoint25" playOrder="25">
+        <navLabel>
+          <text>Melik IV. Abdurrahman ile Kâsım Bin Hammûd’un Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-29.xhtml#toc_marker-25"/>
+      </navPoint>
+      <navPoint id="navpoint26" playOrder="26">
+        <navLabel>
+          <text>Melik V. Abdurrahman El-Müztezhir Billâh Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-30.xhtml#toc_marker-26"/>
+      </navPoint>
+      <navPoint id="navpoint27" playOrder="27">
+        <navLabel>
+          <text>Muhammed Bin Abdurrahman Müstekfi Billah Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-31.xhtml#toc_marker-27"/>
+      </navPoint>
+      <navPoint id="navpoint28" playOrder="28">
+        <navLabel>
+          <text>Yahya Bin Ali Bin Hammûd’un Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-32.xhtml#toc_marker-28"/>
+      </navPoint>
+      <navPoint id="navpoint29" playOrder="29">
+        <navLabel>
+          <text>Melik Hişam Bin Muhammed Bin Abdülcabbar Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-33.xhtml#toc_marker-29"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint30" playOrder="30">
+      <navLabel>
+        <text>İKİNCİ CİLT</text>
+      </navLabel>
+      <content src="Text/EndulusTarihi-34.xhtml#toc_marker-30"/>
+      <navPoint id="navpoint31" playOrder="31">
+        <navLabel>
+          <text>Tavâif-i Mülûk ve Murabıtîn Devleti Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-35.xhtml#toc_marker-31"/>
+      </navPoint>
+      <navPoint id="navpoint32" playOrder="32">
+        <navLabel>
+          <text>Melik Cevher Bin Muhammed’in Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-36.xhtml#toc_marker-32"/>
+      </navPoint>
+      <navPoint id="navpoint33" playOrder="33">
+        <navLabel>
+          <text>Melik Muhammed Bin Cevher’in Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-37.xhtml#toc_marker-33"/>
+      </navPoint>
+      <navPoint id="navpoint34" playOrder="34">
+        <navLabel>
+          <text>Murâbıtların Ortaya Çıkışı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-38.xhtml#toc_marker-34"/>
+      </navPoint>
+      <navPoint id="navpoint35" playOrder="35">
+        <navLabel>
+          <text>Murâbıtlar’ın İspanya’ya Gelişi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-39.xhtml#toc_marker-35"/>
+      </navPoint>
+      <navPoint id="navpoint36" playOrder="36">
+        <navLabel>
+          <text>Muvahhidler Devletinin Ortaya Çıkışı Muhammed Bin Tûmart El-Müştehir Bil-Mehdi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-40.xhtml#toc_marker-36"/>
+      </navPoint>
+      <navPoint id="navpoint37" playOrder="37">
+        <navLabel>
+          <text>Muhammed Bin Tûmart Mehdi’nin Vefatı ve Bölünmeler</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-41.xhtml#toc_marker-37"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint38" playOrder="38">
+      <navLabel>
+        <text>ÜÇÜNCÜ CİLT</text>
+      </navLabel>
+      <content src="Text/EndulusTarihi-42.xhtml#toc_marker-38"/>
+      <navPoint id="navpoint39" playOrder="39">
+        <navLabel>
+          <text>Muvahhidler ve Benî Ahmer Zamanlarıyla Müdeccerler’e Yapılan Muameleler ve Bununla Alâkalı Olaylar</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-43.xhtml#toc_marker-39"/>
+      </navPoint>
+      <navPoint id="navpoint40" playOrder="40">
+        <navLabel>
+          <text>Abdülmü’min’in Vefatı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-44.xhtml#toc_marker-40"/>
+      </navPoint>
+      <navPoint id="navpoint41" playOrder="41">
+        <navLabel>
+          <text>Şentemrin Olayı ve Sultan Ebu Yakub Şah’ın Vefatı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-45.xhtml#toc_marker-41"/>
+      </navPoint>
+      <navPoint id="navpoint42" playOrder="42">
+        <navLabel>
+          <text>Sultan Yakub’un Tahta Çıkışı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-46.xhtml#toc_marker-42"/>
+      </navPoint>
+      <navPoint id="navpoint43" playOrder="43">
+        <navLabel>
+          <text>Meşhur Araka Muharebesi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-47.xhtml#toc_marker-43"/>
+      </navPoint>
+      <navPoint id="navpoint44" playOrder="44">
+        <navLabel>
+          <text>Sultan Yakub’un Vefatı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-48.xhtml#toc_marker-44"/>
+      </navPoint>
+      <navPoint id="navpoint45" playOrder="45">
+        <navLabel>
+          <text>Muhammed En-Nâsır’ın Vefatı ve Ubbeze’nin İstilası</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-49.xhtml#toc_marker-45"/>
+      </navPoint>
+      <navPoint id="navpoint46" playOrder="46">
+        <navLabel>
+          <text>Geride Kalan Muvahhidler’in Durumları</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-50.xhtml#toc_marker-46"/>
+      </navPoint>
+      <navPoint id="navpoint47" playOrder="47">
+        <navLabel>
+          <text>Yusuf El-Mustansır’ın Vefatı ve Melik Abdullah El-Mansur’un Kötü Tedbirleri</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-51.xhtml#toc_marker-47"/>
+      </navPoint>
+      <navPoint id="navpoint48" playOrder="48">
+        <navLabel>
+          <text>Kral Ferdinando’nun Durumu</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-52.xhtml#toc_marker-48"/>
+      </navPoint>
+      <navPoint id="navpoint49" playOrder="49">
+        <navLabel>
+          <text>Ebu El-Âlâ İdris’in Tahta Çıkışı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-53.xhtml#toc_marker-49"/>
+      </navPoint>
+      <navPoint id="navpoint50" playOrder="50">
+        <navLabel>
+          <text>Ortaya Çıkan Sorunlar ve Melik Me’mun’un Teşebbüsleri</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-54.xhtml#toc_marker-50"/>
+      </navPoint>
+      <navPoint id="navpoint51" playOrder="51">
+        <navLabel>
+          <text>Melik Me’mun’un İspanya’ya Geçişi ve Yenilgiye Uğramasıyla Muvahhidler Devletinin Çöküşü</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-55.xhtml#toc_marker-51"/>
+      </navPoint>
+      <navPoint id="navpoint52" playOrder="52">
+        <navLabel>
+          <text>Kral Cekom’un Balyar Adalarını İstilası</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-56.xhtml#toc_marker-52"/>
+      </navPoint>
+      <navPoint id="navpoint53" playOrder="53">
+        <navLabel>
+          <text>İspanya’daki Karışıklıklar ve Benî Ahmer Devletinin Ortaya Çıkışı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-57.xhtml#toc_marker-53"/>
+      </navPoint>
+      <navPoint id="navpoint54" playOrder="54">
+        <navLabel>
+          <text>Ferdinand ve Cekom’un Saldırıları ve Don Alvar’ın Kötülükleri</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-58.xhtml#toc_marker-54"/>
+      </navPoint>
+      <navPoint id="navpoint55" playOrder="55">
+        <navLabel>
+          <text>İbni Hûd’un Sonraki Durumu</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-59.xhtml#toc_marker-55"/>
+      </navPoint>
+      <navPoint id="navpoint56" playOrder="56">
+        <navLabel>
+          <text>Kurtuba’nın İstila Edilişi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-60.xhtml#toc_marker-56"/>
+      </navPoint>
+      <navPoint id="navpoint57" playOrder="57">
+        <navLabel>
+          <text>Kral Ferdinando’nun Yaptığı Kötülükler</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-61.xhtml#toc_marker-57"/>
+      </navPoint>
+      <navPoint id="navpoint58" playOrder="58">
+        <navLabel>
+          <text>Ebu Abdullah Muhammed Bin Yusuf Bin El-Ahmer’in Tahta Çıkışı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-62.xhtml#toc_marker-58"/>
+      </navPoint>
+      <navPoint id="navpoint59" playOrder="59">
+        <navLabel>
+          <text>Belensiye’nin İstila Edilişi ve Kral Cekom’un Gaddar Hareketleri</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-63.xhtml#toc_marker-59"/>
+      </navPoint>
+      <navPoint id="navpoint60" playOrder="60">
+        <navLabel>
+          <text>Kral Ferdinando’nun Mursiye’ye Taarruzu</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-64.xhtml#toc_marker-60"/>
+      </navPoint>
+      <navPoint id="navpoint61" playOrder="61">
+        <navLabel>
+          <text>Aragon Kralı Cekom’un, Denye ve Şâtıbe’yi İstilası</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-65.xhtml#toc_marker-61"/>
+      </navPoint>
+      <navPoint id="navpoint62" playOrder="62">
+        <navLabel>
+          <text>Kaştale Kralı Ferdinando’nun Arcune ve Cehn’i İstila Edişi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-66.xhtml#toc_marker-62"/>
+      </navPoint>
+      <navPoint id="navpoint63" playOrder="63">
+        <navLabel>
+          <text>Kral Ferdinando’nun İşbiliye’yi İstilâsı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-67.xhtml#toc_marker-63"/>
+      </navPoint>
+      <navPoint id="navpoint64" playOrder="64">
+        <navLabel>
+          <text>Kral Ferdinando’nun Vefatı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-68.xhtml#toc_marker-64"/>
+      </navPoint>
+      <navPoint id="navpoint65" playOrder="65">
+        <navLabel>
+          <text>Kaştale Hükümetinin Durumu</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-69.xhtml#toc_marker-65"/>
+      </navPoint>
+      <navPoint id="navpoint66" playOrder="66">
+        <navLabel>
+          <text>Gırnata’nın İmarı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-70.xhtml#toc_marker-66"/>
+      </navPoint>
+      <navPoint id="navpoint67" playOrder="67">
+        <navLabel>
+          <text>Elhamra Sarayının Yapılışı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-71.xhtml#toc_marker-67"/>
+      </navPoint>
+      <navPoint id="navpoint68" playOrder="68">
+        <navLabel>
+          <text>Belensiye Müdeccerlerinin Hareketi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-72.xhtml#toc_marker-68"/>
+      </navPoint>
+      <navPoint id="navpoint69" playOrder="69">
+        <navLabel>
+          <text>Şakaylule Oğullarının Çıkardıkları Karışıklıklar</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-73.xhtml#toc_marker-69"/>
+      </navPoint>
+      <navPoint id="navpoint70" playOrder="70">
+        <navLabel>
+          <text>Mursiye’nin İstilâsı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-74.xhtml#toc_marker-70"/>
+      </navPoint>
+      <navPoint id="navpoint71" playOrder="71">
+        <navLabel>
+          <text>Belensiye Müdeccerleri’nin İkinci Hareketi ve Kral Cekom’un Vefatı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-75.xhtml#toc_marker-71"/>
+      </navPoint>
+      <navPoint id="navpoint72" playOrder="72">
+        <navLabel>
+          <text>Muhammed Bin El-Ahmer’in Vefatı ve Sultan Yakub’un Endülüs’e Gelişi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-76.xhtml#toc_marker-72"/>
+      </navPoint>
+      <navPoint id="navpoint73" playOrder="73">
+        <navLabel>
+          <text>Don Nuno Olayı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-77.xhtml#toc_marker-73"/>
+      </navPoint>
+      <navPoint id="navpoint74" playOrder="74">
+        <navLabel>
+          <text>Kral Alfons’un Tahttan İndirilmesi ve Sultan Yakub’un Yardımıyla İkinci Defa Tahta Çıkışı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-78.xhtml#toc_marker-74"/>
+      </navPoint>
+      <navPoint id="navpoint75" playOrder="75">
+        <navLabel>
+          <text>Melik II. Muhammed ve Sultan Yakub’un Görüşmesi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-79.xhtml#toc_marker-75"/>
+      </navPoint>
+      <navPoint id="navpoint76" playOrder="76">
+        <navLabel>
+          <text>Benî Ahmer Devletinin İstikrarı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-80.xhtml#toc_marker-76"/>
+      </navPoint>
+      <navPoint id="navpoint77" playOrder="77">
+        <navLabel>
+          <text>II. Muhammed’in Vefatı ve Cebel-i Tarık’ın Tutulması</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-81.xhtml#toc_marker-77"/>
+      </navPoint>
+      <navPoint id="navpoint78" playOrder="78">
+        <navLabel>
+          <text>Tampleye Olayı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-82.xhtml#toc_marker-78"/>
+      </navPoint>
+      <navPoint id="navpoint79" playOrder="79">
+        <navLabel>
+          <text>Müslüman Halkın Durumu</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-83.xhtml#toc_marker-79"/>
+      </navPoint>
+      <navPoint id="navpoint80" playOrder="80">
+        <navLabel>
+          <text>Kaştale Kralı Ferdinando’nun Ölümü</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-84.xhtml#toc_marker-80"/>
+      </navPoint>
+      <navPoint id="navpoint81" playOrder="81">
+        <navLabel>
+          <text>Gırnata Hükümetinde Başgösteren Karışıklıklar</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-85.xhtml#toc_marker-81"/>
+      </navPoint>
+      <navPoint id="navpoint82" playOrder="82">
+        <navLabel>
+          <text>Martus ve Beyza’nın Geri Alınması ve Ebu’l Velid’in Katledilmesi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-86.xhtml#toc_marker-82"/>
+      </navPoint>
+      <navPoint id="navpoint83" playOrder="83">
+        <navLabel>
+          <text>Cebel-i Tarık’ın Geri Alınması ve IV. Muhammed’in Katledilmesi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-87.xhtml#toc_marker-83"/>
+      </navPoint>
+      <navPoint id="navpoint84" playOrder="84">
+        <navLabel>
+          <text>Melik Yusuf Ebu’l Haccac’ın Durumu</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-88.xhtml#toc_marker-84"/>
+      </navPoint>
+      <navPoint id="navpoint85" playOrder="85">
+        <navLabel>
+          <text>Abdülmâlik’in Endülüs’e Geçişi ve Hezimete Uğraması</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-89.xhtml#toc_marker-85"/>
+      </navPoint>
+      <navPoint id="navpoint86" playOrder="86">
+        <navLabel>
+          <text>Tarif Olayının Tafsilatı ve Müslümanların Yenilgiye Uğraması</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-90.xhtml#toc_marker-86"/>
+      </navPoint>
+      <navPoint id="navpoint87" playOrder="87">
+        <navLabel>
+          <text>Ceziretül Hadrâ’nın İstilâ Edilmesi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-91.xhtml#toc_marker-87"/>
+      </navPoint>
+      <navPoint id="navpoint88" playOrder="88">
+        <navLabel>
+          <text>Cebel-i Tarık Olayı ve Kral Alfons’un Ölümü</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-92.xhtml#toc_marker-88"/>
+      </navPoint>
+      <navPoint id="navpoint89" playOrder="89">
+        <navLabel>
+          <text>Yusuf Ebu’l Haccac’ın Katledilmesi ve V. Muhammed’in Tahttan İndirilmesi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-93.xhtml#toc_marker-89"/>
+      </navPoint>
+      <navPoint id="navpoint90" playOrder="90">
+        <navLabel>
+          <text>İsmail’in Katledilmesi ve Ebu Said’in Akıbeti</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-94.xhtml#toc_marker-90"/>
+      </navPoint>
+      <navPoint id="navpoint91" playOrder="91">
+        <navLabel>
+          <text>Müdeccerler’in Durumları</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-95.xhtml#toc_marker-91"/>
+      </navPoint>
+      <navPoint id="navpoint92" playOrder="92">
+        <navLabel>
+          <text>Kaştale Yönetimindeki Müdeccerler’in Durumu</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-96.xhtml#toc_marker-92"/>
+      </navPoint>
+      <navPoint id="navpoint93" playOrder="93">
+        <navLabel>
+          <text>Aragon ve Belensiye Müdeccerlerinin Durumu</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-97.xhtml#toc_marker-93"/>
+      </navPoint>
+      <navPoint id="navpoint94" playOrder="94">
+        <navLabel>
+          <text>Gırnata’nın Kemal-i Mâmuriyeti</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-98.xhtml#toc_marker-94"/>
+      </navPoint>
+      <navPoint id="navpoint95" playOrder="95">
+        <navLabel>
+          <text>Yönetim</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-99.xhtml#toc_marker-95"/>
+      </navPoint>
+      <navPoint id="navpoint96" playOrder="96">
+        <navLabel>
+          <text>Ebu Abullah Yusuf’un ve VI. Muhammed’in Zamanları</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-100.xhtml#toc_marker-96"/>
+      </navPoint>
+      <navPoint id="navpoint97" playOrder="97">
+        <navLabel>
+          <text>III. Yusuf’un Zamanı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-101.xhtml#toc_marker-97"/>
+      </navPoint>
+      <navPoint id="navpoint98" playOrder="98">
+        <navLabel>
+          <text>Muhammed El-Yesâri’nin Yeniden Tahttan İndirilmesi ve Üçüncü Defa Çıkışı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-102.xhtml#toc_marker-98"/>
+      </navPoint>
+      <navPoint id="navpoint99" playOrder="99">
+        <navLabel>
+          <text>Muhammed El-Yesâri’nin 3. Defa Tahttan İndirilişi ve Muhammed Bin Osman El-Ahnef’in Tahta Çıkışı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-103.xhtml#toc_marker-99"/>
+      </navPoint>
+      <navPoint id="navpoint100" playOrder="100">
+        <navLabel>
+          <text>Muhammed Bin İsmail’in Tahta Çıkışı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-104.xhtml#toc_marker-100"/>
+      </navPoint>
+      <navPoint id="navpoint101" playOrder="101">
+        <navLabel>
+          <text>Mela Ali Ebu’l Hasan’ın Tahta Çıkışı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-105.xhtml#toc_marker-101"/>
+      </navPoint>
+      <navPoint id="navpoint102" playOrder="102">
+        <navLabel>
+          <text>Gırnata’nın Ahvâli</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-106.xhtml#toc_marker-102"/>
+      </navPoint>
+      <navPoint id="navpoint103" playOrder="103">
+        <navLabel>
+          <text>Ebul Hasen’in Kötü Tedbirleri ve Elhama’ nın İstilâsı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-107.xhtml#toc_marker-103"/>
+      </navPoint>
+      <navPoint id="navpoint104" playOrder="104">
+        <navLabel>
+          <text>İç Savaşlar ve Luşe’nin Kurtuluşu</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-108.xhtml#toc_marker-104"/>
+      </navPoint>
+      <navPoint id="navpoint105" playOrder="105">
+        <navLabel>
+          <text>Ebu Abdullah Ez-Zağal’in Hareketleri ve Ebu Abdulah Es-Sağir’in Eline Geçmesi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-109.xhtml#toc_marker-105"/>
+      </navPoint>
+      <navPoint id="navpoint106" playOrder="106">
+        <navLabel>
+          <text>Gırnata’da Başgösteren Karışıklıklar</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-110.xhtml#toc_marker-106"/>
+      </navPoint>
+      <navPoint id="navpoint107" playOrder="107">
+        <navLabel>
+          <text>Ferdinado ve İzabel’in Teşebbüsleri Alva, Uzine, Benmakeş ve Setenil’in İstilâsı</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-111.xhtml#toc_marker-107"/>
+      </navPoint>
+      <navPoint id="navpoint108" playOrder="108">
+        <navLabel>
+          <text>Benmakeş, Goyen, Kartema, Rondas ve Diğer Yerlerin İstilâ Edilişi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-112.xhtml#toc_marker-108"/>
+      </navPoint>
+      <navPoint id="navpoint109" playOrder="109">
+        <navLabel>
+          <text>Luce, Vales Kuşatmaları ve Ebu Abdullah Ez-Zağal ile Rıdvan’ın Yardımları</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-113.xhtml#toc_marker-109"/>
+      </navPoint>
+      <navPoint id="navpoint110" playOrder="110">
+        <navLabel>
+          <text>Abdullah Es-Sağir’in Hıyaneti ve Malaka’nın İstilâ Edilişi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-114.xhtml#toc_marker-110"/>
+      </navPoint>
+      <navPoint id="navpoint111" playOrder="111">
+        <navLabel>
+          <text>Ez-Zağal’in Gayretleri ve Beyza Şehrinin İstilâ Edilişi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-115.xhtml#toc_marker-111"/>
+      </navPoint>
+      <navPoint id="navpoint112" playOrder="112">
+        <navLabel>
+          <text>Gırnata’nın Durumu ve Ebu Abdullah Es-Sağir</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-116.xhtml#toc_marker-112"/>
+      </navPoint>
+      <navPoint id="navpoint113" playOrder="113">
+        <navLabel>
+          <text>Ebu Abdullah Ez-Zağal’in Özrü ve Akıbeti</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-117.xhtml#toc_marker-113"/>
+      </navPoint>
+      <navPoint id="navpoint114" playOrder="114">
+        <navLabel>
+          <text>Gırnata Liderlerinin Müşaveresi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-118.xhtml#toc_marker-114"/>
+      </navPoint>
+      <navPoint id="navpoint115" playOrder="115">
+        <navLabel>
+          <text>Gırnatalılar’ın Osmanlı Devleti’nden Yardım İstemeleri</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-119.xhtml#toc_marker-115"/>
+      </navPoint>
+      <navPoint id="navpoint116" playOrder="116">
+        <navLabel>
+          <text>Kuşatmanın Süresi ve Sentafe’nin Kurulması</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-120.xhtml#toc_marker-116"/>
+      </navPoint>
+      <navPoint id="navpoint117" playOrder="117">
+        <navLabel>
+          <text>İkinci Müşavere ve Musa’nın Hamiyeti</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-121.xhtml#toc_marker-117"/>
+      </navPoint>
+      <navPoint id="navpoint118" playOrder="118">
+        <navLabel>
+          <text>Gırnata’nın Teslimine ve Halkına Verilecek İmtiyazlara Dair Mukavelename</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-122.xhtml#toc_marker-118"/>
+      </navPoint>
+      <navPoint id="navpoint119" playOrder="119">
+        <navLabel>
+          <text>Gırnata Meliki Mela Abdullah Es-Sağir ile Yakınları İçin Kral Ferdinand ve Kraliçe İzabel Tarafından Verilen İmtiyazname</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-123.xhtml#toc_marker-119"/>
+      </navPoint>
+      <navPoint id="navpoint120" playOrder="120">
+        <navLabel>
+          <text>Musa Bin Ebu’l Gazan’ın Gayreti</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-124.xhtml#toc_marker-120"/>
+      </navPoint>
+      <navPoint id="navpoint121" playOrder="121">
+        <navLabel>
+          <text>Gırnata’da Başgösteren Karışıklık ve Kral Ferdinan’ın Mektubu</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-125.xhtml#toc_marker-121"/>
+      </navPoint>
+      <navPoint id="navpoint122" playOrder="122">
+        <navLabel>
+          <text>Gırnata’nın İstilâsı ve İslam Devletinin Yıkılması</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-126.xhtml#toc_marker-122"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint123" playOrder="123">
+      <navLabel>
+        <text>DÖRDÜNCÜ CİLT</text>
+      </navLabel>
+      <content src="Text/EndulusTarihi-127.xhtml#toc_marker-123"/>
+      <navPoint id="navpoint124" playOrder="124">
+        <navLabel>
+          <text>Endülüs’ün Bazı Meşhur Fazilet Sahipleri</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-129.xhtml#toc_marker-124"/>
+      </navPoint>
+      <navPoint id="navpoint125" playOrder="125">
+        <navLabel>
+          <text>Endülüs’ün Memleketleri</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-130.xhtml#toc_marker-125"/>
+      </navPoint>
+      <navPoint id="navpoint126" playOrder="126">
+        <navLabel>
+          <text>Müslüman Endülüs Halkının Bazı Milli Âdetleri</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-131.xhtml#toc_marker-126"/>
+      </navPoint>
+      <navPoint id="navpoint127" playOrder="127">
+        <navLabel>
+          <text>İslam Yönetimi Altında Bulunan Hıristiyanların Durumları</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-132.xhtml#toc_marker-127"/>
+      </navPoint>
+      <navPoint id="navpoint128" playOrder="128">
+        <navLabel>
+          <text>İsrailoğulları’nın Durumu</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-133.xhtml#toc_marker-128"/>
+      </navPoint>
+      <navPoint id="navpoint129" playOrder="129">
+        <navLabel>
+          <text>Nüfus</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-134.xhtml#toc_marker-129"/>
+      </navPoint>
+      <navPoint id="navpoint130" playOrder="130">
+        <navLabel>
+          <text>Vergi Sistemi</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-135.xhtml#toc_marker-130"/>
+      </navPoint>
+      <navPoint id="navpoint131" playOrder="131">
+        <navLabel>
+          <text>Askeriyenin Durumu</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-136.xhtml#toc_marker-131"/>
+      </navPoint>
+      <navPoint id="navpoint132" playOrder="132">
+        <navLabel>
+          <text>Denizlerdeki Durum</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-137.xhtml#toc_marker-132"/>
+      </navPoint>
+      <navPoint id="navpoint133" playOrder="133">
+        <navLabel>
+          <text>Arapların, Okyanusu Teftişe Gitmeleri</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-138.xhtml#toc_marker-133"/>
+      </navPoint>
+      <navPoint id="navpoint134" playOrder="134">
+        <navLabel>
+          <text>Büyük Atlantis Ülkesinin Batışı ve Kayboluşuna Dair Makale</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-139.xhtml#toc_marker-134"/>
+      </navPoint>
+      <navPoint id="navpoint135" playOrder="135">
+        <navLabel>
+          <text>İlim</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-140.xhtml#toc_marker-135"/>
+      </navPoint>
+      <navPoint id="navpoint136" playOrder="136">
+        <navLabel>
+          <text>Buluşlar</text>
+        </navLabel>
+        <content src="Text/EndulusTarihi-141.xhtml#toc_marker-136"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint137" playOrder="137">
+      <navLabel>
+        <text>Kronolojik Bilgiler</text>
+      </navLabel>
+      <content src="Text/EndulusTarihi-143.xhtml#toc_marker-137"/>
+    </navPoint>
+  </navMap>
+</ncx>

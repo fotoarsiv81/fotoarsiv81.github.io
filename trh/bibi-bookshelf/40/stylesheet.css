@@ -1,0 +1,194 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.baslik {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    page-break-before: always
+    }
+.calibre1 {
+    display: block;
+    page-break-after: always
+    }
+.calibre10 {
+    height: 304;
+    width: 448
+    }
+.calibre11 {
+    height: 280;
+    width: 451
+    }
+.calibre12 {
+    height: 320;
+    width: 432
+    }
+.calibre13 {
+    height: 326;
+    width: 448
+    }
+.calibre14 {
+    height: 291;
+    width: 448
+    }
+.calibre15 {
+    height: 300;
+    width: 448
+    }
+.calibre2 {
+    height: auto;
+    width: auto
+    }
+.calibre3 {
+    font-size: smaller;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre4 {
+    height: 448;
+    width: 273
+    }
+.calibre5 {
+    height: 273;
+    width: 448
+    }
+.calibre6 {
+    height: 299;
+    width: 448
+    }
+.calibre7 {
+    height: 448;
+    width: 298
+    }
+.calibre8 {
+    height: 297;
+    width: 448
+    }
+.calibre9 {
+    height: 336;
+    width: 411
+    }
+.chapter {
+    display: block
+    }
+.h1baslik {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.h1baslik1 {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.ideitalik {
+    font-style: italic
+    }
+.kitapickapak {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kitapickapak1 {
+    display: block;
+    font-size: 1.75em;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kunye {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.normal1 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.solbaslik {
+    display: block;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: default
+    }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer
+    }

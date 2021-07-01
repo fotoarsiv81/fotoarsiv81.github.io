@@ -1,0 +1,324 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="bookid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Endülüs Tarihi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Paşa, Ziya">Ziya Paşa</dc:creator>
+    <dc:publisher>Selis Kitaplar</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:rights>Copyright © 2012 Selis Kitaplar</dc:rights>
+    <dc:date opf:event="modification">2017-02-13</dc:date>
+    <dc:identifier id="bookid">urn:uuid:a2789976-db4f-4572-afe8-d810c4e62181</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">54a7a1c0-aaba-41e8-9293-aae4b25f88bb</dc:identifier>
+    <meta name="Sigil version" content="0.9.7"/>
+    <meta name="cover" content="endulustarihi.jpg"/>
+    <meta name="calibre:title_sort" content="Endülüs Tarihi"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ziya Paşa&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi" href="Text/EndulusTarihi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-1" href="Text/EndulusTarihi-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-2" href="Text/EndulusTarihi-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-3" href="Text/EndulusTarihi-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-4" href="Text/EndulusTarihi-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-5" href="Text/EndulusTarihi-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-6" href="Text/EndulusTarihi-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-7" href="Text/EndulusTarihi-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-8" href="Text/EndulusTarihi-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-9" href="Text/EndulusTarihi-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-10" href="Text/EndulusTarihi-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-11" href="Text/EndulusTarihi-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-12" href="Text/EndulusTarihi-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-13" href="Text/EndulusTarihi-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-14" href="Text/EndulusTarihi-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-15" href="Text/EndulusTarihi-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-16" href="Text/EndulusTarihi-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-17" href="Text/EndulusTarihi-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-18" href="Text/EndulusTarihi-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-19" href="Text/EndulusTarihi-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-20" href="Text/EndulusTarihi-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-21" href="Text/EndulusTarihi-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-22" href="Text/EndulusTarihi-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-23" href="Text/EndulusTarihi-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-24" href="Text/EndulusTarihi-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-25" href="Text/EndulusTarihi-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-26" href="Text/EndulusTarihi-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-27" href="Text/EndulusTarihi-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-28" href="Text/EndulusTarihi-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-29" href="Text/EndulusTarihi-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-30" href="Text/EndulusTarihi-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-31" href="Text/EndulusTarihi-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-32" href="Text/EndulusTarihi-32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-33" href="Text/EndulusTarihi-33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-34" href="Text/EndulusTarihi-34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-35" href="Text/EndulusTarihi-35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-36" href="Text/EndulusTarihi-36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-37" href="Text/EndulusTarihi-37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-38" href="Text/EndulusTarihi-38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-39" href="Text/EndulusTarihi-39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-40" href="Text/EndulusTarihi-40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-41" href="Text/EndulusTarihi-41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-42" href="Text/EndulusTarihi-42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-43" href="Text/EndulusTarihi-43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-44" href="Text/EndulusTarihi-44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-45" href="Text/EndulusTarihi-45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-46" href="Text/EndulusTarihi-46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-47" href="Text/EndulusTarihi-47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-48" href="Text/EndulusTarihi-48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-49" href="Text/EndulusTarihi-49.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-50" href="Text/EndulusTarihi-50.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-51" href="Text/EndulusTarihi-51.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-52" href="Text/EndulusTarihi-52.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-53" href="Text/EndulusTarihi-53.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-54" href="Text/EndulusTarihi-54.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-55" href="Text/EndulusTarihi-55.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-56" href="Text/EndulusTarihi-56.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-57" href="Text/EndulusTarihi-57.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-58" href="Text/EndulusTarihi-58.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-59" href="Text/EndulusTarihi-59.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-60" href="Text/EndulusTarihi-60.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-61" href="Text/EndulusTarihi-61.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-62" href="Text/EndulusTarihi-62.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-63" href="Text/EndulusTarihi-63.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-64" href="Text/EndulusTarihi-64.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-65" href="Text/EndulusTarihi-65.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-66" href="Text/EndulusTarihi-66.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-67" href="Text/EndulusTarihi-67.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-68" href="Text/EndulusTarihi-68.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-69" href="Text/EndulusTarihi-69.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-70" href="Text/EndulusTarihi-70.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-71" href="Text/EndulusTarihi-71.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-72" href="Text/EndulusTarihi-72.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-73" href="Text/EndulusTarihi-73.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-74" href="Text/EndulusTarihi-74.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-75" href="Text/EndulusTarihi-75.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-76" href="Text/EndulusTarihi-76.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-77" href="Text/EndulusTarihi-77.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-78" href="Text/EndulusTarihi-78.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-79" href="Text/EndulusTarihi-79.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-80" href="Text/EndulusTarihi-80.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-81" href="Text/EndulusTarihi-81.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-82" href="Text/EndulusTarihi-82.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-83" href="Text/EndulusTarihi-83.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-84" href="Text/EndulusTarihi-84.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-85" href="Text/EndulusTarihi-85.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-86" href="Text/EndulusTarihi-86.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-87" href="Text/EndulusTarihi-87.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-88" href="Text/EndulusTarihi-88.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-89" href="Text/EndulusTarihi-89.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-90" href="Text/EndulusTarihi-90.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-91" href="Text/EndulusTarihi-91.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-92" href="Text/EndulusTarihi-92.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-93" href="Text/EndulusTarihi-93.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-94" href="Text/EndulusTarihi-94.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-95" href="Text/EndulusTarihi-95.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-96" href="Text/EndulusTarihi-96.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-97" href="Text/EndulusTarihi-97.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-98" href="Text/EndulusTarihi-98.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-99" href="Text/EndulusTarihi-99.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-100" href="Text/EndulusTarihi-100.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-101" href="Text/EndulusTarihi-101.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-102" href="Text/EndulusTarihi-102.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-103" href="Text/EndulusTarihi-103.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-104" href="Text/EndulusTarihi-104.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-105" href="Text/EndulusTarihi-105.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-106" href="Text/EndulusTarihi-106.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-107" href="Text/EndulusTarihi-107.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-108" href="Text/EndulusTarihi-108.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-109" href="Text/EndulusTarihi-109.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-110" href="Text/EndulusTarihi-110.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-111" href="Text/EndulusTarihi-111.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-112" href="Text/EndulusTarihi-112.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-113" href="Text/EndulusTarihi-113.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-114" href="Text/EndulusTarihi-114.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-115" href="Text/EndulusTarihi-115.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-116" href="Text/EndulusTarihi-116.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-117" href="Text/EndulusTarihi-117.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-118" href="Text/EndulusTarihi-118.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-119" href="Text/EndulusTarihi-119.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-120" href="Text/EndulusTarihi-120.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-121" href="Text/EndulusTarihi-121.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-122" href="Text/EndulusTarihi-122.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-123" href="Text/EndulusTarihi-123.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-124" href="Text/EndulusTarihi-124.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-125" href="Text/EndulusTarihi-125.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-126" href="Text/EndulusTarihi-126.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-127" href="Text/EndulusTarihi-127.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-128" href="Text/EndulusTarihi-128.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-129" href="Text/EndulusTarihi-129.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-130" href="Text/EndulusTarihi-130.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-131" href="Text/EndulusTarihi-131.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-132" href="Text/EndulusTarihi-132.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-133" href="Text/EndulusTarihi-133.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-134" href="Text/EndulusTarihi-134.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-135" href="Text/EndulusTarihi-135.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-136" href="Text/EndulusTarihi-136.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-137" href="Text/EndulusTarihi-137.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-138" href="Text/EndulusTarihi-138.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-139" href="Text/EndulusTarihi-139.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-140" href="Text/EndulusTarihi-140.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-141" href="Text/EndulusTarihi-141.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-142" href="Text/EndulusTarihi-142.xhtml" media-type="application/xhtml+xml"/>
+    <item id="EndulusTarihi-143" href="Text/EndulusTarihi-143.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="stylemag.css" href="Styles/stylemag.css" media-type="text/css"/>
+    <item id="endulusharita1_fmt.jpeg" href="Images/endulusharita1_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="endulusharita2_fmt.jpeg" href="Images/endulusharita2_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="endulusharita3_fmt.jpeg" href="Images/endulusharita3_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="endulusharita4_fmt.jpeg" href="Images/endulusharita4_fmt.jpeg" media-type="image/jpeg"/>
+    <item id="endulustarihi.jpg" href="Images/endulustarihi.jpg" media-type="image/jpeg"/>
+    <item id="selis.jpg" href="Images/selis.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="EndulusTarihi"/>
+    <itemref idref="EndulusTarihi-1"/>
+    <itemref idref="EndulusTarihi-2"/>
+    <itemref idref="EndulusTarihi-3"/>
+    <itemref idref="EndulusTarihi-4"/>
+    <itemref idref="EndulusTarihi-5"/>
+    <itemref idref="EndulusTarihi-6"/>
+    <itemref idref="EndulusTarihi-7"/>
+    <itemref idref="EndulusTarihi-8"/>
+    <itemref idref="EndulusTarihi-9"/>
+    <itemref idref="EndulusTarihi-10"/>
+    <itemref idref="EndulusTarihi-11"/>
+    <itemref idref="EndulusTarihi-12"/>
+    <itemref idref="EndulusTarihi-13"/>
+    <itemref idref="EndulusTarihi-14"/>
+    <itemref idref="EndulusTarihi-15"/>
+    <itemref idref="EndulusTarihi-16"/>
+    <itemref idref="EndulusTarihi-17"/>
+    <itemref idref="EndulusTarihi-18"/>
+    <itemref idref="EndulusTarihi-19"/>
+    <itemref idref="EndulusTarihi-20"/>
+    <itemref idref="EndulusTarihi-21"/>
+    <itemref idref="EndulusTarihi-22"/>
+    <itemref idref="EndulusTarihi-23"/>
+    <itemref idref="EndulusTarihi-24"/>
+    <itemref idref="EndulusTarihi-25"/>
+    <itemref idref="EndulusTarihi-26"/>
+    <itemref idref="EndulusTarihi-27"/>
+    <itemref idref="EndulusTarihi-28"/>
+    <itemref idref="EndulusTarihi-29"/>
+    <itemref idref="EndulusTarihi-30"/>
+    <itemref idref="EndulusTarihi-31"/>
+    <itemref idref="EndulusTarihi-32"/>
+    <itemref idref="EndulusTarihi-33"/>
+    <itemref idref="EndulusTarihi-34"/>
+    <itemref idref="EndulusTarihi-35"/>
+    <itemref idref="EndulusTarihi-36"/>
+    <itemref idref="EndulusTarihi-37"/>
+    <itemref idref="EndulusTarihi-38"/>
+    <itemref idref="EndulusTarihi-39"/>
+    <itemref idref="EndulusTarihi-40"/>
+    <itemref idref="EndulusTarihi-41"/>
+    <itemref idref="EndulusTarihi-42"/>
+    <itemref idref="EndulusTarihi-43"/>
+    <itemref idref="EndulusTarihi-44"/>
+    <itemref idref="EndulusTarihi-45"/>
+    <itemref idref="EndulusTarihi-46"/>
+    <itemref idref="EndulusTarihi-47"/>
+    <itemref idref="EndulusTarihi-48"/>
+    <itemref idref="EndulusTarihi-49"/>
+    <itemref idref="EndulusTarihi-50"/>
+    <itemref idref="EndulusTarihi-51"/>
+    <itemref idref="EndulusTarihi-52"/>
+    <itemref idref="EndulusTarihi-53"/>
+    <itemref idref="EndulusTarihi-54"/>
+    <itemref idref="EndulusTarihi-55"/>
+    <itemref idref="EndulusTarihi-56"/>
+    <itemref idref="EndulusTarihi-57"/>
+    <itemref idref="EndulusTarihi-58"/>
+    <itemref idref="EndulusTarihi-59"/>
+    <itemref idref="EndulusTarihi-60"/>
+    <itemref idref="EndulusTarihi-61"/>
+    <itemref idref="EndulusTarihi-62"/>
+    <itemref idref="EndulusTarihi-63"/>
+    <itemref idref="EndulusTarihi-64"/>
+    <itemref idref="EndulusTarihi-65"/>
+    <itemref idref="EndulusTarihi-66"/>
+    <itemref idref="EndulusTarihi-67"/>
+    <itemref idref="EndulusTarihi-68"/>
+    <itemref idref="EndulusTarihi-69"/>
+    <itemref idref="EndulusTarihi-70"/>
+    <itemref idref="EndulusTarihi-71"/>
+    <itemref idref="EndulusTarihi-72"/>
+    <itemref idref="EndulusTarihi-73"/>
+    <itemref idref="EndulusTarihi-74"/>
+    <itemref idref="EndulusTarihi-75"/>
+    <itemref idref="EndulusTarihi-76"/>
+    <itemref idref="EndulusTarihi-77"/>
+    <itemref idref="EndulusTarihi-78"/>
+    <itemref idref="EndulusTarihi-79"/>
+    <itemref idref="EndulusTarihi-80"/>
+    <itemref idref="EndulusTarihi-81"/>
+    <itemref idref="EndulusTarihi-82"/>
+    <itemref idref="EndulusTarihi-83"/>
+    <itemref idref="EndulusTarihi-84"/>
+    <itemref idref="EndulusTarihi-85"/>
+    <itemref idref="EndulusTarihi-86"/>
+    <itemref idref="EndulusTarihi-87"/>
+    <itemref idref="EndulusTarihi-88"/>
+    <itemref idref="EndulusTarihi-89"/>
+    <itemref idref="EndulusTarihi-90"/>
+    <itemref idref="EndulusTarihi-91"/>
+    <itemref idref="EndulusTarihi-92"/>
+    <itemref idref="EndulusTarihi-93"/>
+    <itemref idref="EndulusTarihi-94"/>
+    <itemref idref="EndulusTarihi-95"/>
+    <itemref idref="EndulusTarihi-96"/>
+    <itemref idref="EndulusTarihi-97"/>
+    <itemref idref="EndulusTarihi-98"/>
+    <itemref idref="EndulusTarihi-99"/>
+    <itemref idref="EndulusTarihi-100"/>
+    <itemref idref="EndulusTarihi-101"/>
+    <itemref idref="EndulusTarihi-102"/>
+    <itemref idref="EndulusTarihi-103"/>
+    <itemref idref="EndulusTarihi-104"/>
+    <itemref idref="EndulusTarihi-105"/>
+    <itemref idref="EndulusTarihi-106"/>
+    <itemref idref="EndulusTarihi-107"/>
+    <itemref idref="EndulusTarihi-108"/>
+    <itemref idref="EndulusTarihi-109"/>
+    <itemref idref="EndulusTarihi-110"/>
+    <itemref idref="EndulusTarihi-111"/>
+    <itemref idref="EndulusTarihi-112"/>
+    <itemref idref="EndulusTarihi-113"/>
+    <itemref idref="EndulusTarihi-114"/>
+    <itemref idref="EndulusTarihi-115"/>
+    <itemref idref="EndulusTarihi-116"/>
+    <itemref idref="EndulusTarihi-117"/>
+    <itemref idref="EndulusTarihi-118"/>
+    <itemref idref="EndulusTarihi-119"/>
+    <itemref idref="EndulusTarihi-120"/>
+    <itemref idref="EndulusTarihi-121"/>
+    <itemref idref="EndulusTarihi-122"/>
+    <itemref idref="EndulusTarihi-123"/>
+    <itemref idref="EndulusTarihi-124"/>
+    <itemref idref="EndulusTarihi-125"/>
+    <itemref idref="EndulusTarihi-126"/>
+    <itemref idref="EndulusTarihi-127"/>
+    <itemref idref="EndulusTarihi-128"/>
+    <itemref idref="EndulusTarihi-129"/>
+    <itemref idref="EndulusTarihi-130"/>
+    <itemref idref="EndulusTarihi-131"/>
+    <itemref idref="EndulusTarihi-132"/>
+    <itemref idref="EndulusTarihi-133"/>
+    <itemref idref="EndulusTarihi-134"/>
+    <itemref idref="EndulusTarihi-135"/>
+    <itemref idref="EndulusTarihi-136"/>
+    <itemref idref="EndulusTarihi-137"/>
+    <itemref idref="EndulusTarihi-138"/>
+    <itemref idref="EndulusTarihi-139"/>
+    <itemref idref="EndulusTarihi-140"/>
+    <itemref idref="EndulusTarihi-141"/>
+    <itemref idref="EndulusTarihi-142"/>
+    <itemref idref="EndulusTarihi-143"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>
