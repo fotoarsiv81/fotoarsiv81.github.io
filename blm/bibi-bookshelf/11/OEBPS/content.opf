@@ -1,0 +1,105 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Mikrobun Keşfi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Waller, John">John Waller</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">79c4f9e7-87e3-4160-b8c7-b3b4aea98956</dc:identifier>
+    <dc:publisher>Tübitak Yayınları</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.77.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">a2e77203-a3a5-4eab-af9b-a113068f465b</dc:identifier>
+    <meta content="0101-01-01T00:00:00+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="Mikrobun Keşfi" name="calibre:title_sort"/>
+    <meta content="0.9.3" name="Sigil version"/>
+    <meta name="calibre:author_link_map" content="{&quot;John Waller&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.html" id="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000_0001.html" id="index_split_000_0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000_0002.html" id="index_split_000_0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000_0003.html" id="index_split_000_0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000_0004.html" id="index_split_000_0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000_0005.html" id="index_split_000_0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000_0006.html" id="index_split_000_0006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000_0007.html" id="index_split_000_0007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000_0008.html" id="index_split_000_0008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000_0009.html" id="index_split_000_0009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000_0010.html" id="index_split_000_0010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000_0011.html" id="index_split_000_0011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000_0012.html" id="index_split_000_0012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0001.html" id="index_split_001_0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0002.html" id="index_split_001_0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0003.html" id="index_split_001_0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0004.html" id="index_split_001_0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0005.html" id="index_split_001_0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0006.html" id="index_split_001_0006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0007.html" id="index_split_001_0007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0008.html" id="index_split_001_0008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0009.html" id="index_split_001_0009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0010.html" id="index_split_001_0010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0011.html" id="index_split_001_0011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0011_0001.html" id="index_split_001_0011_0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0012.html" id="index_split_001_0012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0013.html" id="index_split_001_0013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001_0014.html" id="index_split_001_0014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_007.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/image1.jpeg" id="id3" media-type="image/jpeg"/>
+    <item href="Images/image2.jpeg" id="id4" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="index_split_000.html"/>
+    <itemref idref="index_split_000_0001.html"/>
+    <itemref idref="index_split_000_0002.html"/>
+    <itemref idref="index_split_000_0003.html"/>
+    <itemref idref="index_split_000_0004.html"/>
+    <itemref idref="index_split_000_0005.html"/>
+    <itemref idref="index_split_000_0006.html"/>
+    <itemref idref="index_split_000_0007.html"/>
+    <itemref idref="index_split_000_0008.html"/>
+    <itemref idref="index_split_000_0009.html"/>
+    <itemref idref="index_split_000_0010.html"/>
+    <itemref idref="index_split_000_0011.html"/>
+    <itemref idref="index_split_000_0012.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="id27"/>
+    <itemref idref="index_split_001_0001.html"/>
+    <itemref idref="index_split_001_0002.html"/>
+    <itemref idref="index_split_001_0003.html"/>
+    <itemref idref="index_split_001_0004.html"/>
+    <itemref idref="index_split_001_0005.html"/>
+    <itemref idref="index_split_001_0006.html"/>
+    <itemref idref="index_split_001_0007.html"/>
+    <itemref idref="index_split_001_0008.html"/>
+    <itemref idref="index_split_001_0009.html"/>
+    <itemref idref="index_split_001_0010.html"/>
+    <itemref idref="index_split_001_0011.html"/>
+    <itemref idref="index_split_001_0011_0001.html"/>
+    <itemref idref="index_split_001_0012.html"/>
+    <itemref idref="index_split_001_0013.html"/>
+    <itemref idref="index_split_001_0014.html"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

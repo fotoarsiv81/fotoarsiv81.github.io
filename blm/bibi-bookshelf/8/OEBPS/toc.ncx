@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{A7154141-449F-4148-9DF5-F84353DD109D}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Carl Sagan - Milyarlarca Ve Milyarlarca</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>1 Ölçmenin Gücü ve Güzelliği</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>1 Milyarlarca ve Milyarlarca</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>2 Pers Satranç Tahtası</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>3 Pazartesi Gecesi Avcıları</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>4 Tanrının Bakışı ve Damlayan Musluk</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>5 Dört Kozmik Soru</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>6 Ne Kadar Çok Güneş, Ne Kadar Çok Dünya</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>2 Muhafazakarlar Neyi Muhafaza Ediyorlar?</text>
+      </navLabel>
+      <content src="Text/Section0012.xhtml"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>7 Postayla Gelen Dünya</text>
+        </navLabel>
+        <content src="Text/Section0013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>8 Çevre ve Sağduyu</text>
+        </navLabel>
+        <content src="Text/Section0014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>9 Kroisos ve Kassandra</text>
+        </navLabel>
+        <content src="Text/Section0015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>10 Gökyüzünün Kayıp Parçası</text>
+        </navLabel>
+        <content src="Text/Section0016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>11 Tuzak: Küresel Isınma</text>
+        </navLabel>
+        <content src="Text/Section0017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>12 Tuzaktan Kurtulmak</text>
+        </navLabel>
+        <content src="Text/Section0018.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>13 Din ve Bilim: Bir İttifak</text>
+        </navLabel>
+        <content src="Text/Section0019.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>3 Aklın ve Yüreğin Çarpışması</text>
+      </navLabel>
+      <content src="Text/Section0020.xhtml"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>14 Ortak Düşman</text>
+        </navLabel>
+        <content src="Text/Section0021.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>15 Kürtaj: Hem "Yaşamdan Yana" Hem de "Seçme Hakkından Yana" Olmak Mümkün mü?</text>
+        </navLabel>
+        <content src="Text/Section0022.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>16 Oyunun Kuralları</text>
+        </navLabel>
+        <content src="Text/Section0023.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>17 Gettysburg ve Bugün</text>
+        </navLabel>
+        <content src="Text/Section0024.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>18 Yirminci Yüzyıl</text>
+        </navLabel>
+        <content src="Text/Section0025.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>19 Gölgelerin Vadisinde</text>
+        </navLabel>
+        <content src="Text/Section0026.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Sonsöz</text>
+      </navLabel>
+      <content src="Text/Section0027.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/Section0028.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Yazar hakkında</text>
+      </navLabel>
+      <content src="Text/Section0029.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

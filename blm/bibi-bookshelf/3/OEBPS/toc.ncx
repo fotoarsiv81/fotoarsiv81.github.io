@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+<head>
+<meta content="awp2012-01-29T14:43:58Z" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Kendini bilen evren</text>
+</docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel>
+<text>Title page</text>
+</navLabel>
+<content src="Text/001.html"/>
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel>
+<text>içindekiler</text>
+</navLabel>
+<content src="Text/003.html"/>
+</navPoint>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel>
+<text>TESEKKÜR</text>
+</navLabel>
+<content src="Text/004.html"/>
+</navPoint>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel>
+<text>ONSOZ</text>
+</navLabel>
+<content src="Text/005.html"/>
+</navPoint>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel>
+<text>1. Bölüm -BİLİM ve RUHSALLIGIN BÜTÜNLEŞMESİ</text>
+</navLabel>
+<content src="Text/007.html"/>
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel>
+<text>UÇURUM ve KÖPRÜ</text>
+</navLabel>
+<content src="Text/008.html"/>
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel>
+<text>ESKİ FİZİK ve FELSEFİ MİRASI</text>
+</navLabel>
+<content src="Text/010.html"/>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel>
+<text>KLASİK FİZİK VE MATERYALİST REALİZM</text>
+</navLabel>
+<content src="Text/010.html#ncx326"/>
+</navPoint>
+<navPoint id="navpoint-9" playOrder="9">
+<navLabel>
+<text>Şuurlu bir bilgisayar yapabilir miyiz?</text>
+</navLabel>
+<content src="Text/010.html#ncx349"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-10" playOrder="10">
+<navLabel>
+<text>KUANTUM FİZİĞİ ve MATERYALİST REALİZMİN ÖLÜMÜ</text>
+</navLabel>
+<content src="Text/011.html"/>
+<navPoint id="navpoint-11" playOrder="11">
+<navLabel>
+<text>Planck ilk kuantum sıçramasını yapıyor</text>
+</navLabel>
+<content src="Text/011.html#ncx393"/>
+</navPoint>
+<navPoint id="navpoint-12" playOrder="12">
+<navLabel>
+<text>Einstein’ın fotonları ve Bohr’un atomu</text>
+</navLabel>
+<content src="Text/011.html#ncx403"/>
+</navPoint>
+<navPoint id="navpoint-13" playOrder="13">
+<navLabel>
+<text>Dalga-parçacık düalitesi</text>
+</navLabel>
+<content src="Text/011.html#ncx419"/>
+</navPoint>
+<navPoint id="navpoint-14" playOrder="14">
+<navLabel>
+<text>Madde dalgaları</text>
+</navLabel>
+<content src="Text/011.html#ncx426"/>
+</navPoint>
+<navPoint id="navpoint-15" playOrder="15">
+<navLabel>
+<text>Olasılık dalgaları</text>
+</navLabel>
+<content src="Text/011.html#ncx454"/>
+</navPoint>
+<navPoint id="navpoint-16" playOrder="16">
+<navLabel>
+<text>HEISENBERG BELiRSiZLiK iLKESi</text>
+</navLabel>
+<content src="Text/011.html#ncx463"/>
+</navPoint>
+<navPoint id="navpoint-17" playOrder="17">
+<navLabel>
+<text>BELiRSiZLiK FANTEZiLERi</text>
+</navLabel>
+<content src="Text/011.html#ncx473"/>
+</navPoint>
+<navPoint id="navpoint-18" playOrder="18">
+<navLabel>
+<text>DALGA-PARÇACIK İKİLİĞİ VE KUANTUM ÖLÇÜMÜ</text>
+</navLabel>
+<content src="Text/011.html#ncx478"/>
+</navPoint>
+<navPoint id="navpoint-19" playOrder="19">
+<navLabel>
+<text>tamamlayıcılık ilkesi</text>
+</navLabel>
+<content src="Text/011.html#ncx511"/>
+</navPoint>
+<navPoint id="navpoint-20" playOrder="20">
+<navLabel>
+<text>karşılıklılık ilkesi</text>
+</navLabel>
+<content src="Text/011.html#ncx514"/>
+</navPoint>
+<navPoint id="navpoint-21" playOrder="21">
+<navLabel>
+<text>Kopenhag yorumu</text>
+</navLabel>
+<content src="Text/011.html#ncx523"/>
+</navPoint>
+<navPoint id="navpoint-22" playOrder="22">
+<navLabel>
+<text>Materyalist realizmi yarıp geçmek</text>
+</navLabel>
+<content src="Text/011.html#ncx525"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-23" playOrder="23">
+<navLabel>
+<text>MONiSTiK iDEALiZMiN FELSEFESi</text>
+</navLabel>
+<content src="Text/012.html"/>
+<navPoint id="navpoint-24" playOrder="24">
+<navLabel>
+<text>MiSTiSiZM</text>
+</navLabel>
+<content src="Text/012.html#ncx559"/>
+</navPoint>
+<navPoint id="navpoint-25" playOrder="25">
+<navLabel>
+<text>DiN</text>
+</navLabel>
+<content src="Text/012.html#ncx584"/>
+</navPoint>
+<navPoint id="navpoint-26" playOrder="26">
+<navLabel>
+<text>Kuantum nesneleri için idealist metafizik</text>
+</navLabel>
+<content src="Text/012.html#ncx603"/>
+</navPoint>
+<navPoint id="navpoint-27" playOrder="27">
+<navLabel>
+<text>bilim aşkınlığı keşfediyor</text>
+</navLabel>
+<content src="Text/012.html#ncx619"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-28" playOrder="28">
+<navLabel>
+<text>2. Bölüm -iDEALiZM ve KUANTUM PARADOKSLARININ ÇÖZÜMÜ</text>
+</navLabel>
+<content src="Text/014.html"/>
+<navPoint id="navpoint-29" playOrder="29">
+<navLabel>
+<text>AYNI ANDA IKI YERDE BİRDEN OLAN NESNELER ve SEBEPLERİNDEN ÖNCE GELEN SONUÇLAR</text>
+</navLabel>
+<content src="Text/014.html#ncx640"/>
+</navPoint>
+<navPoint id="navpoint-30" playOrder="30">
+<navLabel>
+<text>ÇiFT YARIK DENEYi</text>
+</navLabel>
+<content src="Text/014.html#ncx647"/>
+</navPoint>
+<navPoint id="navpoint-31" playOrder="31">
+<navLabel>
+<text>GECİKMİŞ SEÇİM DENEYİ</text>
+</navLabel>
+<content src="Text/014.html#ncx700"/>
+</navPoint>
+<navPoint id="navpoint-32" playOrder="32">
+<navLabel>
+<text>SCHRÖDINGER'iN DOKUZ CANLI KEDiSi</text>
+</navLabel>
+<content src="Text/014.html#ncx740"/>
+</navPoint>
+<navPoint id="navpoint-33" playOrder="33">
+<navLabel>
+<text>İDEALİST ÇÖZÜM</text>
+</navLabel>
+<content src="Text/014.html#ncx769"/>
+</navPoint>
+<navPoint id="navpoint-34" playOrder="34">
+<navLabel>
+<text>İDEALİST ÇÖZÜM HAKKINDAKİ SORULAR</text>
+</navLabel>
+<content src="Text/014.html#ncx772"/>
+</navPoint>
+<navPoint id="navpoint-35" playOrder="35">
+<navLabel>
+<text>WlGNER'lN ARKADAŞI PARADOKSU</text>
+</navLabel>
+<content src="Text/014.html#ncx786"/>
+</navPoint>
+<navPoint id="navpoint-36" playOrder="36">
+<navLabel>
+<text>SEYREDİLEN TENCERE DE KAYNAR*</text>
+</navLabel>
+<content src="Text/014.html#ncx798"/>
+</navPoint>
+<navPoint id="navpoint-37" playOrder="37">
+<navLabel>
+<text>BİR ÖLÇÜM NE ZAMAN TAMAMLANIR?</text>
+</navLabel>
+<content src="Text/014.html#ncx808"/>
+</navPoint>
+<navPoint id="navpoint-38" playOrder="38">
+<navLabel>
+<text>KEDİ KUANTUM NESNESİ MİDİR, KLASİK NESNE MİDİR?</text>
+</navLabel>
+<content src="Text/014.html#ncx833"/>
+</navPoint>
+<navPoint id="navpoint-39" playOrder="39">
+<navLabel>
+<text>Ramachandran paradoksu</text>
+</navLabel>
+<content src="Text/014.html#ncx868"/>
+</navPoint>
+<navPoint id="navpoint-40" playOrder="40">
+<navLabel>
+<text>BİR ÖLÇÜM NE ZAMAN TAMAMLANIR? (NAKARAT)</text>
+</navLabel>
+<content src="Text/014.html#ncx881"/>
+</navPoint>
+<navPoint id="navpoint-41" playOrder="41">
+<navLabel>
+<text>Tersİnmezlİk ve zaman oku</text>
+</navLabel>
+<content src="Text/014.html#ncx917"/>
+</navPoint>
+<navPoint id="navpoint-42" playOrder="42">
+<navLabel>
+<text>Dokuz can</text>
+</navLabel>
+<content src="Text/014.html#ncx939"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-43" playOrder="43">
+<navLabel>
+<text>SEÇiYORUM, ÖYLEYSE VARIM</text>
+</navLabel>
+<content src="Text/015.html"/>
+<navPoint id="navpoint-44" playOrder="44">
+<navLabel>
+<text>ŞUURDIŞI ALGILAMA DENEYLERİ</text>
+</navLabel>
+<content src="Text/015.html#ncx985"/>
+</navPoint>
+<navPoint id="navpoint-45" playOrder="45">
+<navLabel>
+<text>EINSTEIN - PODOLSKY - ROSEN PARADOKSU</text>
+</navLabel>
+<content src="Text/015.html#ncx1017"/>
+</navPoint>
+<navPoint id="navpoint-46" playOrder="46">
+<navLabel>
+<text>Yerel olmayışı kanıtlamak: Aspect deneyi</text>
+</navLabel>
+<content src="Text/015.html#ncx1042"/>
+</navPoint>
+<navPoint id="navpoint-47" playOrder="47">
+<navLabel>
+<text>Çanlar materyalist realizm için çalıyor</text>
+</navLabel>
+<content src="Text/015.html#ncx1077"/>
+</navPoint>
+<navPoint id="navpoint-48" playOrder="48">
+<navLabel>
+<text>Fizik, psikolojiye giden bir yol haline geliyor</text>
+</navLabel>
+<content src="Text/015.html#ncx1135"/>
+</navPoint>
+<navPoint id="navpoint-49" playOrder="49">
+<navLabel>
+<text>Yerel olmayan bir kuantum olayı olan uzaktan görme</text>
+</navLabel>
+<content src="Text/015.html#ncx1149"/>
+</navPoint>
+<navPoint id="navpoint-50" playOrder="50">
+<navLabel>
+<text>Beden dışı deneyimler</text>
+</navLabel>
+<content src="Text/015.html#ncx1165"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-51" playOrder="51">
+<navLabel>
+<text>REALiZMiN ve iDEALiZMiN UZLAŞMASI</text>
+</navLabel>
+<content src="Text/016.html"/>
+<navPoint id="navpoint-52" playOrder="52">
+<navLabel>
+<text>Birçok-dünya teorisini idealizm ile uzlaştırabilir miyiz?</text>
+</navLabel>
+<content src="Text/016.html#ncx1199"/>
+</navPoint>
+<navPoint id="navpoint-53" playOrder="53">
+<navLabel>
+<text>idealist kozmos, realizm manzarasını nasıl yaratabilir?</text>
+</navLabel>
+<content src="Text/016.html#ncx1223"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-54" playOrder="54">
+<navLabel>
+<text>3. Bölüm -KENDiNE GÖNDERME: BiR, NASIL ÇOK OLUR</text>
+</navLabel>
+<content src="Text/018.html"/>
+</navPoint>
+<navPoint id="navpoint-55" playOrder="55">
+<navLabel>
+<text>ZiHiN - BEDEN SORUNUNU ARASTIRMAK</text>
+</navLabel>
+<content src="Text/019.html"/>
+<navPoint id="navpoint-56" playOrder="56">
+<navLabel>
+<text>Düalizmden Uzak Durun</text>
+</navLabel>
+<content src="Text/019.html#ncx1266"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-57" playOrder="57">
+<navLabel>
+<text>KUANTUM ZiHiN"i ARAYIS</text>
+</navLabel>
+<content src="Text/020.html"/>
+<navPoint id="navpoint-58" playOrder="58">
+<navLabel>
+<text>İDEALİZM VE KUANTUM "BEYİN-ZİHİN"!</text>
+</navLabel>
+<content src="Text/020.html#ncx1376"/>
+</navPoint>
+<navPoint id="navpoint-59" playOrder="59">
+<navLabel>
+<text>Yeniden tommy marcel'in verileri</text>
+</navLabel>
+<content src="Text/020.html#ncx1392"/>
+</navPoint>
+<navPoint id="navpoint-60" playOrder="60">
+<navLabel>
+<text>Kuantum fonksiyonelciliği</text>
+</navLabel>
+<content src="Text/020.html#ncx1409"/>
+</navPoint>
+<navPoint id="navpoint-61" playOrder="61">
+<navLabel>
+<text>Hem kuantum sistem hem de ölçüm aygıtı Olan beyin-zihin</text>
+</navLabel>
+<content src="Text/020.html#ncx1420"/>
+</navPoint>
+<navPoint id="navpoint-62" playOrder="62">
+<navLabel>
+<text>Beyin-zihinde kuantum ölçüm: Klasik ve kuantum ortaklığı</text>
+</navLabel>
+<content src="Text/020.html#ncx1449"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-63" playOrder="63">
+<navLabel>
+<text>PARADOKSLAR ve DOLANIK HiYERARSiLER</text>
+</navLabel>
+<content src="Text/021.html"/>
+<navPoint id="navpoint-64" playOrder="64">
+<navLabel>
+<text>yeniden schrödınger'in kedisi</text>
+</navLabel>
+<content src="Text/021.html#ncx1563"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-65" playOrder="65">
+<navLabel>
+<text>ŞUURUN "BENLiGi</text>
+</navLabel>
+<content src="Text/022.html"/>
+<navPoint id="navpoint-66" playOrder="66">
+<navLabel>
+<text>Egonun ortaya çıkışı</text>
+</navLabel>
+<content src="Text/022.html#ncx1584"/>
+</navPoint>
+<navPoint id="navpoint-67" playOrder="67">
+<navLabel>
+<text>Klasik benlik ve kuantum benlik</text>
+</navLabel>
+<content src="Text/022.html#ncx1605"/>
+</navPoint>
+<navPoint id="navpoint-68" playOrder="68">
+<navLabel>
+<text>Klasik mekanikçinin aşkı: bir mesel</text>
+</navLabel>
+<content src="Text/022.html#ncx1626"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-69" playOrder="69">
+<navLabel>
+<text>PSiKOLOJiLERi BÜTÜNLESTiRMEK</text>
+</navLabel>
+<content src="Text/023.html"/>
+<navPoint id="navpoint-70" playOrder="70">
+<navLabel>
+<text>"Ben"in deneyimleriyle ilişkili özellikler</text>
+</navLabel>
+<content src="Text/023.html#ncx1656"/>
+</navPoint>
+<navPoint id="navpoint-71" playOrder="71">
+<navLabel>
+<text>Kasıtlılık, Kendinin Farkında Olmak ve Tefekkür</text>
+</navLabel>
+<content src="Text/023.html#ncx1670"/>
+</navPoint>
+<navPoint id="navpoint-72" playOrder="72">
+<navLabel>
+<text>Ego-Deneyimi</text>
+</navLabel>
+<content src="Text/023.html#ncx1676"/>
+</navPoint>
+<navPoint id="navpoint-73" playOrder="73">
+<navLabel>
+<text>Dikkat ve Şuurla Yönetilen Eylemler</text>
+</navLabel>
+<content src="Text/023.html#ncx1684"/>
+</navPoint>
+<navPoint id="navpoint-74" playOrder="74">
+<navLabel>
+<text>Kişilik Ötesi Benlik Deneyimleri</text>
+</navLabel>
+<content src="Text/023.html#ncx1691"/>
+</navPoint>
+<navPoint id="navpoint-75" playOrder="75">
+<navLabel>
+<text>Benliğin Saklı Deneyimi</text>
+</navLabel>
+<content src="Text/023.html#ncx1696"/>
+</navPoint>
+<navPoint id="navpoint-76" playOrder="76">
+<navLabel>
+<text>Seçme ve Hür İrade</text>
+</navLabel>
+<content src="Text/023.html#ncx1704"/>
+</navPoint>
+<navPoint id="navpoint-77" playOrder="77">
+<navLabel>
+<text>Şuıırdışına İlişkin Deneyimler</text>
+</navLabel>
+<content src="Text/023.html#ncx1715"/>
+</navPoint>
+<navPoint id="navpoint-78" playOrder="78">
+<navLabel>
+<text>Benlik şuurunun tayfı</text>
+</navLabel>
+<content src="Text/023.html#ncx1726"/>
+</navPoint>
+<navPoint id="navpoint-79" playOrder="79">
+<navLabel>
+<text>Ego Düzeyi</text>
+</navLabel>
+<content src="Text/023.html#ncx1730"/>
+</navPoint>
+<navPoint id="navpoint-80" playOrder="80">
+<navLabel>
+<text>Buddhi Düzeyi</text>
+</navLabel>
+<content src="Text/023.html#ncx1735"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-81" playOrder="81">
+<navLabel>
+<text>4. Bölüm -KiSiNiN YENiDEN BÜYÜLENiSi</text>
+</navLabel>
+<content src="Text/025.html"/>
+</navPoint>
+<navPoint id="navpoint-82" playOrder="82">
+<navLabel>
+<text>SAVAS ve BARIS</text>
+</navLabel>
+<content src="Text/026.html"/>
+<navPoint id="navpoint-83" playOrder="83">
+<navLabel>
+<text>Çoklukta birlik</text>
+</navLabel>
+<content src="Text/026.html#ncx1793"/>
+</navPoint>
+<navPoint id="navpoint-84" playOrder="84">
+<navLabel>
+<text>Basit hiyerarşiden dolanık hiyerarşiye doğru</text>
+</navLabel>
+<content src="Text/026.html#ncx1802"/>
+</navPoint>
+<navPoint id="navpoint-85" playOrder="85">
+<navLabel>
+<text>Nereden başlamalıyım?</text>
+</navLabel>
+<content src="Text/026.html#ncx1813"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-86" playOrder="86">
+<navLabel>
+<text>DISSAL ve iÇSEL YARATICILIK</text>
+</navLabel>
+<content src="Text/027.html"/>
+<navPoint id="navpoint-87" playOrder="87">
+<navLabel>
+<text>yaratıcı karşılaşma</text>
+</navLabel>
+<content src="Text/027.html#ncx1835"/>
+</navPoint>
+<navPoint id="navpoint-88" playOrder="88">
+<navLabel>
+<text>Yaratıcı a-ha! deneyimi</text>
+</navLabel>
+<content src="Text/027.html#ncx1865"/>
+</navPoint>
+<navPoint id="navpoint-89" playOrder="89">
+<navLabel>
+<text>Dış ve İç yaratıcılık</text>
+</navLabel>
+<content src="Text/027.html#ncx1870"/>
+</navPoint>
+<navPoint id="navpoint-90" playOrder="90">
+<navLabel>
+<text>iç yaratıcılık</text>
+</navLabel>
+<content src="Text/027.html#ncx1874"/>
+</navPoint>
+<navPoint id="navpoint-91" playOrder="91">
+<navLabel>
+<text>Yetişkin gelişiminin aşamaları</text>
+</navLabel>
+<content src="Text/027.html#ncx1915"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-92" playOrder="92">
+<navLabel>
+<text>BUDDHi'NiN UYANISI</text>
+</navLabel>
+<content src="Text/028.html"/>
+<navPoint id="navpoint-93" playOrder="93">
+<navLabel>
+<text>Jnana: Gerçekliğe uyanmak</text>
+</navLabel>
+<content src="Text/028.html#ncx1978"/>
+</navPoint>
+<navPoint id="navpoint-94" playOrder="94">
+<navLabel>
+<text>Meditasyon</text>
+</navLabel>
+<content src="Text/028.html#ncx1986"/>
+</navPoint>
+<navPoint id="navpoint-95" playOrder="95">
+<navLabel>
+<text>Meditasyon araştırması</text>
+</navLabel>
+<content src="Text/028.html#ncx1991"/>
+</navPoint>
+<navPoint id="navpoint-96" playOrder="96">
+<navLabel>
+<text>Meditasyonda özgürlük: Karma yoga</text>
+</navLabel>
+<content src="Text/028.html#ncx2014"/>
+</navPoint>
+<navPoint id="navpoint-97" playOrder="97">
+<navLabel>
+<text>A-ha! deneyimi ve içsel yaratıcılık</text>
+</navLabel>
+<content src="Text/028.html#ncx2034"/>
+</navPoint>
+<navPoint id="navpoint-98" playOrder="98">
+<navLabel>
+<text>sevginin uyanışı: bhakti yoga</text>
+</navLabel>
+<content src="Text/028.html#ncx2053"/>
+</navPoint>
+<navPoint id="navpoint-99" playOrder="99">
+<navLabel>
+<text>erkek-kadın ilişkisi</text>
+</navLabel>
+<content src="Text/028.html#ncx2071"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-100" playOrder="100">
+<navLabel>
+<text>iDEALiST BiR AHLAK TEORiSi</text>
+</navLabel>
+<content src="Text/029.html"/>
+<navPoint id="navpoint-101" playOrder="101">
+<navLabel>
+<text>Kantçı kategorik zorunluluk</text>
+</navLabel>
+<content src="Text/029.html#ncx2102"/>
+</navPoint>
+<navPoint id="navpoint-102" playOrder="102">
+<navLabel>
+<text>Materyalist realizmin tutumu: faydacılık</text>
+</navLabel>
+<content src="Text/029.html#ncx2111"/>
+</navPoint>
+<navPoint id="navpoint-103" playOrder="103">
+<navLabel>
+<text>idealist ahlak</text>
+</navLabel>
+<content src="Text/029.html#ncx2121"/>
+</navPoint>
+<navPoint id="navpoint-104" playOrder="104">
+<navLabel>
+<text>Niçin ahlak kurallarına uyuyorum?</text>
+</navLabel>
+<content src="Text/029.html#ncx2134"/>
+</navPoint>
+<navPoint id="navpoint-105" playOrder="105">
+<navLabel>
+<text>iDEALiST AHLAK UYGULAMASININ ÜÇ SAFHASI</text>
+</navLabel>
+<content src="Text/029.html#ncx2166"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-106" playOrder="106">
+<navLabel>
+<text>RUHSAL NESE</text>
+</navLabel>
+<content src="Text/030.html"/>
+<navPoint id="navpoint-107" playOrder="107">
+<navLabel>
+<text>KAHRAMANIN YOLCULUĞU</text>
+</navLabel>
+<content src="Text/030.html#ncx2201"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-108" playOrder="108">
+<navLabel>
+<text>SÖZLÜK</text>
+</navLabel>
+<content src="Text/032.html"/>
+</navPoint>
+<navPoint id="navpoint-109" playOrder="109">
+<navLabel>
+<text>NOTLAR</text>
+</navLabel>
+<content src="Text/033.html"/>
+</navPoint>
+<navPoint id="navpoint-110" playOrder="110">
+<navLabel>
+<text>KAYNAKÇA</text>
+</navLabel>
+<content src="Text/034.html"/>
+</navPoint>
+<navPoint id="navpoint-111" playOrder="111">
+<navLabel>
+<text>iNDEKS</text>
+</navLabel>
+<content src="Text/035.html"/>
+</navPoint>
+</navMap>
+</ncx>

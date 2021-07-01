@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Mayr, Ernst">Ernst Mayr</dc:creator>
+<dc:description>&lt;p&gt;Biyolojinin son yüzyılda gösterdiği büyük ilerlemenin bir görgü tanığı ve bu alandaki en önemli kavramlardan bazılarının mucidi olan Ernst Mayr bilimle ilgili, biyolojiyi merkeze koyan, biyolojiyle ilgili olarak da bütüncü, evrimci düşünceye önceliği gen kaşandıran bir uzgörü sunuyor Evrimsel biyolojide "modern sentezin" öncülerinden biri olan yazan aynı zamanda modem biyoloji felsefesini kuran kişi ve "20, yüsyılın Darwin'r olarak anılıyor.
+
+Mayr ilk altı bölümde, biyoloji felsefesi ve tarihi üzerine daha öncelki kitaplarında da yer verdiği "Yaşamın ayırt edici özellikleri nelerdir?",'Bilim nedir?", "Biyoloji bağımsız bir bilim midir'", "Bilim (ve özellikle biyoloji) doğal dünyayı nasıl açıklar?","Bilim ilerler mi?"Yaşam bilimleri nasıl bir yapıya sahiptir?" sorulannı ele alarak, bilimi ^'e biyolojinin bilim içindeki yerini tartışıyor Sonraki dört bölümde tanhsel bağlam içerisinde biyolojinin dört alt disipliniyle (biyolojik çeşitlilik, gelinim biyolojisi, evrim ve ekoloji ilgili örnek çalışmaları ele alıyor Kitap, insan evrimi ve etigi üzerine iki bölümlük bir tartışmayla son buluyor.
+
+Ernst Mayr'ın son kitabı olan Biyoloji Budur yaşam bilimleri üzerine bir inceleme olmanın yanı sıra bilime adanmış olağanüstü bir yaşamın zengin birikimim içeriyor&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{364AF8F8-6A95-46FE-8094-2B3555647849}</dc:identifier>
+    <meta name="cover" content="id1"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2008-04-27T21:00:00+00:00</dc:date>
+  <dc:title>Biyoloji Budur</dc:title>
+<meta name="calibre:title_sort" content="Biyoloji Budur"/>
+<dc:publisher>Tübitak Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Popüler Bilim</dc:subject>
+<dc:subject>Biyoloji</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ernst Mayr&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">0942cd39-2cb5-4248-a54e-9a82e9e6c601</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754034806</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Images/main-1.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="Images/main-2.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="Images/main-3.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="Images/main-4.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="Images/main-5.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="Images/main-6.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="Images/main-7.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="Images/main-8.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="Images/main-9.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="Images/main-10.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="Images/main-11.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="Images/main-12.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="Images/main-13.jpg" id="id13" media-type="image/jpeg"/>
+    <item href="Images/main-14.jpg" id="id14" media-type="image/jpeg"/>
+    <item href="Images/main-15.jpg" id="id15" media-type="image/jpeg"/>
+    <item href="Images/main-16.jpg" id="id16" media-type="image/jpeg"/>
+    <item href="Text/main-1.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/main-8.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/main-9.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id26" media-type="text/css"/>
+    <item href="toc.ncx" id="id27" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id27">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

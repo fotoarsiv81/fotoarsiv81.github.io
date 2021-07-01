@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="urn:uuid:e2009a9d-f836-49fc-86ef-b40d92640561" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Kuantum Mekaniği ve Yeni Metotlar</text>
+	</docTitle>
+	<docAuthor>
+		<text>Necati Demiroğlu</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>KUANTUM MEKANİĞİ VE YENİ METOTLAR</text>
+			</navLabel>
+			<content src="Text/necati_demiro%C4%9Flu_epub.xhtml#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Necati Demiroğlu</text>
+			</navLabel>
+			<content src="Text/necati_demiro%C4%9Flu_epub-2.xhtml#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>TEŞEKKÜR</text>
+			</navLabel>
+			<content src="Text/necati_demiro%C4%9Flu_epub-3.xhtml#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>Kuantum Mekaniği ve Yeni Metotlar </text>
+			</navLabel>
+			<content src="Text/necati_demiro%C4%9Flu_epub-4.xhtml#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>Sanal Kütle, Sanal Momentum ve Sanal Enerji</text>
+			</navLabel>
+			<content src="Text/necati_demiro%C4%9Flu_epub-5.xhtml#toc_marker-5"/>
+		</navPoint>
+	</navMap>
+</ncx>

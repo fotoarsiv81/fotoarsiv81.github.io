@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:file-as="Demiroğlu, Necati" ns0:role="aut">Necati Demiroğlu</dc:creator>
+    <meta content="Adobe InDesign" name="generator" />
+    <meta name="cover" content="kapak_baski_on.jpg" />
+    <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;"19. yüzyılda fizik alanında yapılan çalışmalar neticesinde birçok gelişmeler yaşanmıştır. Bu gelişmeler ışığında atom altı parçacıklar keşfedilmiş ve bu parçacıkların davranışları merak edilmiştir. Modern teknikler sayesinde yapılan kuramsal çalışmalar, deneysel olarak ispat edilmeye çalışılmıştır. 21. yüzyılda Cern'de yapılan deneylerle daha önce teorisi kurulan Higgs parçacığı bulunmuştur. Ayrıca burada yapılan çalışmalarla ışık hızının aşılabileceği ortaya çıkmış, daha önce takyonlar adı verilen bu parçacıkların kütlesinin ise sanal olabileceği ortaya konulmuştur. Bu kitabımızda bu tür parçacıkların kütleleri, enerjileri ve momentumları teorik olarak hesaplanmıştır. &lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Çalışmalarıyla TÜBİTAK'ın da beğenisini kazanan yazarımızın bu kitabının, konuyla ilgilenen tüm kesimlere son derece faydalı olacağı kanaatindeyiz."&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent; "&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Karina Kitap</dc:publisher>
+    <dc:date>2013-05-16T21:00:00+00:00</dc:date>
+    <dc:source />
+    <dc:relation />
+    <dc:coverage />
+    <dc:rights />
+    <dc:identifier id="bookid">urn:uuid:e2009a9d-f836-49fc-86ef-b40d92640561</dc:identifier>
+    <dc:title>Kuantum Mekaniği ve Yeni Metodlar</dc:title>
+    <meta content="Kuantum Mekaniği ve Yeni Metodlar" name="calibre:title_sort" />
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>Bilim</dc:subject>
+    <dc:subject>Kuantum</dc:subject>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.30.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Necati Demiroğlu&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">7d8fb73a-84ec-4ec9-abdd-05993ccd4344</dc:identifier>
+    <dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9786056355592</dc:identifier>
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-04-01</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml" />
+    <item href="Text/necati_demiro%C4%9Flu_epub.xhtml" id="necati_demiro-lu_epub" media-type="application/xhtml+xml" />
+    <item href="Text/necati_demiro%C4%9Flu_epub-1.xhtml" id="necati_demiro-lu_epub-1" media-type="application/xhtml+xml" />
+    <item href="Text/necati_demiro%C4%9Flu_epub-2.xhtml" id="necati_demiro-lu_epub-2" media-type="application/xhtml+xml" />
+    <item href="Text/necati_demiro%C4%9Flu_epub-3.xhtml" id="necati_demiro-lu_epub-3" media-type="application/xhtml+xml" />
+    <item href="Text/necati_demiro%C4%9Flu_epub-4.xhtml" id="necati_demiro-lu_epub-4" media-type="application/xhtml+xml" />
+    <item href="Text/necati_demiro%C4%9Flu_epub-5.xhtml" id="necati_demiro-lu_epub-5" media-type="application/xhtml+xml" />
+    <item href="Text/necati_demiro%C4%9Flu_epub-6.xhtml" id="necati_demiro-lu_epub-6" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/necati_demiro%C4%9Flu_epub.css" id="necati_demiro-lu_epub.css" media-type="text/css" />
+    <item href="Images/100_fmt.jpeg" id="x100_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/101_fmt.jpeg" id="x101_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/102_fmt.jpeg" id="x102_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/103_fmt.jpeg" id="x103_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/104_fmt.jpeg" id="x104_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/105_fmt.jpeg" id="x105_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/106_fmt.jpeg" id="x106_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/107_fmt.jpeg" id="x107_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/108_fmt.jpeg" id="x108_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/109_fmt.jpeg" id="x109_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/10_fmt.jpeg" id="x10_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/110_fmt.jpeg" id="x110_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/111_fmt.jpeg" id="x111_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/112_fmt.jpeg" id="x112_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/113_fmt.jpeg" id="x113_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/114_fmt.jpeg" id="x114_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/115_fmt.jpeg" id="x115_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/116_fmt.jpeg" id="x116_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/117_fmt.jpeg" id="x117_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/118_fmt.jpeg" id="x118_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/11_fmt.jpeg" id="x11_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/120_fmt.jpeg" id="x120_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/121_fmt.jpeg" id="x121_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/122_fmt.jpeg" id="x122_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/123_fmt.jpeg" id="x123_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/124_fmt.jpeg" id="x124_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/125_fmt.jpeg" id="x125_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/126_fmt.jpeg" id="x126_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/127_fmt.jpeg" id="x127_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/128_fmt.jpeg" id="x128_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/129_fmt.jpeg" id="x129_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/12_fmt.jpeg" id="x12_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/130_fmt.jpeg" id="x130_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/131_fmt.jpeg" id="x131_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/132_fmt.jpeg" id="x132_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/133_fmt.jpeg" id="x133_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/134_fmt.jpeg" id="x134_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/135_fmt.jpeg" id="x135_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/136_fmt.jpeg" id="x136_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/137_fmt.jpeg" id="x137_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/138_fmt.jpeg" id="x138_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/139_fmt.jpeg" id="x139_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/13_fmt.jpeg" id="x13_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/140_fmt.jpeg" id="x140_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/141_fmt.jpeg" id="x141_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/142_fmt.jpeg" id="x142_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/143_fmt.jpeg" id="x143_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/144_fmt.jpeg" id="x144_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/145_fmt.jpeg" id="x145_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/146_fmt.jpeg" id="x146_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/147_fmt.jpeg" id="x147_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/148_fmt.jpeg" id="x148_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/149_fmt.jpeg" id="x149_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/14_fmt.jpeg" id="x14_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/150_fmt.jpeg" id="x150_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/151_fmt.jpeg" id="x151_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/152_fmt.jpeg" id="x152_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/153_fmt.jpeg" id="x153_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/154_fmt.jpeg" id="x154_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/155_fmt.jpeg" id="x155_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/156_fmt.jpeg" id="x156_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/157_fmt.jpeg" id="x157_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/158_fmt.jpeg" id="x158_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/159_fmt.jpeg" id="x159_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/15_fmt.jpeg" id="x15_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/160_fmt.jpeg" id="x160_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/161_fmt.jpeg" id="x161_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/162_fmt.jpeg" id="x162_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/163_fmt.jpeg" id="x163_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/164_fmt.jpeg" id="x164_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/165_fmt.jpeg" id="x165_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/166_fmt.jpeg" id="x166_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/167_fmt.jpeg" id="x167_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/168_fmt.jpeg" id="x168_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/169_fmt.jpeg" id="x169_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/16_fmt.jpeg" id="x16_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/170_fmt.jpeg" id="x170_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/171_fmt.jpeg" id="x171_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/172_fmt.jpeg" id="x172_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/173_fmt.jpeg" id="x173_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/174_fmt.jpeg" id="x174_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/175_fmt.jpeg" id="x175_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/176_fmt.jpeg" id="x176_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/177_fmt.jpeg" id="x177_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/178_fmt.jpeg" id="x178_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/17_fmt.jpeg" id="x17_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/18_fmt.jpeg" id="x18_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/19_fmt.jpeg" id="x19_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/1_fmt.png" id="x1_fmt.png" media-type="image/png" />
+    <item href="Images/20_fmt.jpeg" id="x20_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/21_fmt.jpeg" id="x21_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/22_fmt.jpeg" id="x22_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/23_fmt.jpeg" id="x23_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/24_fmt.jpeg" id="x24_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/25_fmt.jpeg" id="x25_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/26_fmt.jpeg" id="x26_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/27_fmt.jpeg" id="x27_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/28_fmt.jpeg" id="x28_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/29_fmt.jpeg" id="x29_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/2_fmt1.jpeg" id="x2_fmt1.jpeg" media-type="image/jpeg" />
+    <item href="Images/30_fmt.jpeg" id="x30_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/31_fmt.jpeg" id="x31_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/32_fmt.jpeg" id="x32_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/33_fmt.jpeg" id="x33_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/34334.png" id="x34334.png" media-type="image/png" />
+    <item href="Images/34_fmt.jpeg" id="x34_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/35_fmt.jpeg" id="x35_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/36_fmt.jpeg" id="x36_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/37_fmt.jpeg" id="x37_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/38_fmt.jpeg" id="x38_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/39_fmt.jpeg" id="x39_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/3_fmt1.jpeg" id="x3_fmt1.jpeg" media-type="image/jpeg" />
+    <item href="Images/40_fmt.jpeg" id="x40_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/41_fmt.jpeg" id="x41_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/42_fmt.jpeg" id="x42_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/43_fmt.jpeg" id="x43_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/44_fmt.jpeg" id="x44_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/45_fmt.jpeg" id="x45_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/46_fmt.jpeg" id="x46_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/47_fmt.jpeg" id="x47_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/48_fmt.jpeg" id="x48_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/49_fmt.jpeg" id="x49_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/4_fmt.jpeg" id="x4_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/4_fmt1.jpeg" id="x4_fmt1.jpeg" media-type="image/jpeg" />
+    <item href="Images/50_fmt.jpeg" id="x50_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/51_fmt.jpeg" id="x51_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/52_fmt.jpeg" id="x52_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/53_fmt.jpeg" id="x53_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/54_fmt.jpeg" id="x54_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/55_fmt.jpeg" id="x55_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/56_fmt.jpeg" id="x56_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/57_fmt.jpeg" id="x57_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/58_fmt.jpeg" id="x58_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/59_fmt.jpeg" id="x59_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/5_fmt.jpeg" id="x5_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/5_fmt1.jpeg" id="x5_fmt1.jpeg" media-type="image/jpeg" />
+    <item href="Images/60_fmt.jpeg" id="x60_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/61_fmt.jpeg" id="x61_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/62_fmt.jpeg" id="x62_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/63_fmt.jpeg" id="x63_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/64_fmt.jpeg" id="x64_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/65_fmt.jpeg" id="x65_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/67_fmt.jpeg" id="x67_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/68_fmt.jpeg" id="x68_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/69_fmt.jpeg" id="x69_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/6_fmt.jpeg" id="x6_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/70_fmt.jpeg" id="x70_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/71_fmt.jpeg" id="x71_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/72_fmt.jpeg" id="x72_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/73_fmt.jpeg" id="x73_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/74_fmt.jpeg" id="x74_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/75_fmt.jpeg" id="x75_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/76_fmt.jpeg" id="x76_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/77_fmt.jpeg" id="x77_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/78_fmt.jpeg" id="x78_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/79_fmt.jpeg" id="x79_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/7_fmt.jpeg" id="x7_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/80_fmt.jpeg" id="x80_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/81_fmt.jpeg" id="x81_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/83_fmt.jpeg" id="x83_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/84_fmt.jpeg" id="x84_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/85_fmt.jpeg" id="x85_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/86_fmt.jpeg" id="x86_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/87_fmt.jpeg" id="x87_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/88_fmt.jpeg" id="x88_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/89_fmt.jpeg" id="x89_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/8_fmt.jpeg" id="x8_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/91_fmt.jpeg" id="x91_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/92_fmt.jpeg" id="x92_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/93_fmt.jpeg" id="x93_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/94_fmt.jpeg" id="x94_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/95_fmt.jpeg" id="x95_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/96_fmt.jpeg" id="x96_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/97_fmt.jpeg" id="x97_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/98_fmt.jpeg" id="x98_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/99_fmt.jpeg" id="x99_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/9_fmt.jpeg" id="x9_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/foto%C4%9Fraf_fmt.png" id="foto-raf_fmt.png" media-type="image/png" />
+    <item href="Images/kapak_baski_on.jpg" id="kapak_baski_on.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverImage" />
+    <itemref idref="necati_demiro-lu_epub" />
+    <itemref idref="necati_demiro-lu_epub-1" />
+    <itemref idref="necati_demiro-lu_epub-2" />
+    <itemref idref="necati_demiro-lu_epub-3" />
+    <itemref idref="necati_demiro-lu_epub-4" />
+    <itemref idref="necati_demiro-lu_epub-5" />
+    <itemref idref="necati_demiro-lu_epub-6" />
+  </spine>
+</package>

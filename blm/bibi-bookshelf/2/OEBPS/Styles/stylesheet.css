@@ -1,0 +1,419 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.baslik {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    page-break-before: always
+    }
+.calibre1 {
+    display: block;
+    page-break-after: always
+    }
+.calibre10 {
+    height: 102;
+    width: 326
+    }
+.calibre11 {
+    height: 108;
+    width: 379
+    }
+.calibre12 {
+    height: 88;
+    width: 292
+    }
+.calibre13 {
+    height: 40;
+    width: 173
+    }
+.calibre14 {
+    height: 96;
+    width: 284
+    }
+.calibre15 {
+    height: 113;
+    width: 267
+    }
+.calibre16 {
+    height: 194;
+    width: 201
+    }
+.calibre17 {
+    height: 108;
+    width: 125
+    }
+.calibre18 {
+    height: 181;
+    width: 277
+    }
+.calibre19 {
+    height: auto;
+    width: auto
+    }
+.calibre2 {
+    height: 183;
+    width: 210
+    }
+.calibre20 {
+    height: 82;
+    width: 215
+    }
+.calibre21 {
+    height: 176;
+    width: 159
+    }
+.calibre22 {
+    height: 144;
+    width: 399
+    }
+.calibre23 {
+    height: 173;
+    width: 218
+    }
+.calibre24 {
+    height: 280;
+    width: 326
+    }
+.calibre25 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre26 {
+    display: table-cell;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: inherit
+    }
+.calibre27 {
+    height: 85;
+    width: 267
+    }
+.calibre28 {
+    height: 101;
+    width: 233
+    }
+.calibre29 {
+    height: 72;
+    width: 239
+    }
+.calibre3 {
+    height: 64;
+    width: 138
+    }
+.calibre30 {
+    height: 93;
+    width: 221
+    }
+.calibre31 {
+    height: 128;
+    width: 159
+    }
+.calibre32 {
+    height: 123;
+    width: 120
+    }
+.calibre33 {
+    height: 132;
+    width: 83
+    }
+.calibre34 {
+    height: 176;
+    width: 126
+    }
+.calibre35 {
+    height: 194;
+    width: 237
+    }
+.calibre36 {
+    height: 67;
+    width: 377
+    }
+.calibre37 {
+    height: 122;
+    width: 159
+    }
+.calibre38 {
+    height: 145;
+    width: 269
+    }
+.calibre39 {
+    height: 24;
+    width: 135
+    }
+.calibre4 {
+    height: 128;
+    width: 151
+    }
+.calibre40 {
+    height: 240;
+    width: 298
+    }
+.calibre41 {
+    height: 241;
+    width: 296
+    }
+.calibre42 {
+    height: 250;
+    width: 141
+    }
+.calibre43 {
+    height: 187;
+    width: 107
+    }
+.calibre44 {
+    height: 175;
+    width: 173
+    }
+.calibre45 {
+    height: 191;
+    width: 187
+    }
+.calibre46 {
+    height: 235;
+    width: 202
+    }
+.calibre47 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre48 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre49 {
+    background-color: #eee;
+    border: 1px solid #fff;
+    display: table-cell;
+    font-family: Arial, sans-serif;
+    font-size: 0.8em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0.2em;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    padding-top: 0.2em;
+    text-align: left;
+    vertical-align: inherit
+    }
+.calibre5 {
+    height: 142;
+    width: 246
+    }
+.calibre6 {
+    height: 149;
+    width: 133
+    }
+.calibre7 {
+    height: 48;
+    width: 174
+    }
+.calibre8 {
+    height: 62;
+    width: 188
+    }
+.calibre9 {
+    height: 84;
+    width: 330
+    }
+.chapter {
+    display: block
+    }
+.generictable {
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 100%
+    }
+.h1baslik {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.h2baslik {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-before: always;
+    text-align: center
+    }
+.h2baslik1 {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.ideitalik {
+    font-style: italic
+    }
+.kapakmetin {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.kitapickapak {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kitapickapak1 {
+    display: block;
+    font-size: 1.5em;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kunye {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.normal1 {
+    font-size: 1em;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.ortaitalik {
+    display: block;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.ortayazi1 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    font-style: normal;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resimalti {
+    display: block;
+    font-size: 0.8em;
+    font-style: italic;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5px;
+    text-align: center
+    }
+.sagitalik {
+    display: block;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+.sagnormal {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+.sekil {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: default
+    }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer
+    }

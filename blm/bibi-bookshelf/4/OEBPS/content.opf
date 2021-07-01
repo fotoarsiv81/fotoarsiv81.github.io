@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Revis, Beth">Beth Revis</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">c6d94b16-3375-4b1d-8599-5a48a9877c07</dc:identifier>
+    <dc:date>2014-06-16T21:00:00+00:00</dc:date>
+    <meta content="Evrenin Ötesi" name="calibre:title_sort"/>
+    <meta content="2013-02-13T20:34:31+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:publisher>Olimpos Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Amy'nin genetik uzmanı annesi ve savaş analizi uzmanı babası yeni bir gezegende insanlığın ilk tohumlarını atmak ve yaşam şartlarını uygun hale getirebilmek üzere Finansal Kaynak Borsası tarafından işe alınır. Yeni gezegene varmak 300 yıl süreceği ve Amy sadece on yedi yaşında olduğu için özel bir izin ile o da bu yolculukta ailesine katılır. &lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Kendilerinin de aralarında bulunduğu 100 kişilik bilim insanı ve savaş uzmanı dondurularak geminin kargo bölümüne 300 yıl sonra yeni gezegene iniş yapıldığında uyandırılmak üzere yerleştirilir. Ama yüzlerce yıl sürecek olan bu yolculuk için evet demeden önce Amy'nin 50 yıl erken uyandırılacağından haberi yoktu... Üstelik kendi kurallarıyla yaşayan cesur yeni bir dünyaya gözlerini açmayı hiç ummamıştı.&lt;/span&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Beth Revis&quot;: &quot;&quot;}"/>
+<dc:title>Evrenin Ötesi</dc:title>
+<dc:subject>Bilim-Kurgu</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">5eeeeb77-847c-499c-80c2-d66be3facd80</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786055433307</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Text/main-1.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
