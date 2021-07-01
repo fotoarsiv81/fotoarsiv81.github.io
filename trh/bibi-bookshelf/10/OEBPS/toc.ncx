@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="287c5b96-285b-4e35-a858-6c19e0007955" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Coğrafi Keşifler Tarihi</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Çevirenin Önsözü</text>
+            </navLabel>
+            <content src="Text/Section0001.xhtml#sigil_toc_id_1"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>Giriş</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Avrupa ve Daha Geniş Dünya</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Baharat ve Altın</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_4"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>İtalya</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>Portekiz ve İspanya</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_6"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>Teknoloji ve Araştırma</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_7"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>Afrika</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#sigil_toc_id_8"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>Asya</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#sigil_toc_id_9"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>Amerika</text>
+            </navLabel>
+            <content src="Text/Section0007.xhtml#sigil_toc_id_10"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>Sonuç</text>
+            </navLabel>
+            <content src="Text/Section0007.xhtml#sigil_toc_id_11"/>
+        </navPoint>
+    </navMap>
+</ncx>

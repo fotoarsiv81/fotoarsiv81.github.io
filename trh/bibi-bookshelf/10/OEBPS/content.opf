@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Arnold, David">David Arnold</dc:creator>
+<meta content="Coğrafi Keşifler Tarihi" name="calibre:title_sort"/>
+    <meta content="2012-09-09T09:19:47+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2012-09-09T09:19:47+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">287c5b96-285b-4e35-a858-6c19e0007955</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-06-17</dc:date>
+  <dc:publisher>Yöneliş Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:description>&lt;div&gt;&lt;div class="tanitim" style="margin-top: 15px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-bottom: 20px; text-align: start; text-indent: 0px; background-color: transparent; background-position: 50% 100%; "&gt;&lt;div id="tnmt" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "&gt;Modernliğin inşasına kaynaklık eden Batılı gelişme seyri, esas atılım altıncı yüzyılda gerçekleştirmiştir. 1453 sonrasında toplumlararası dengelerde yaşanan çalkantılar Batı'yı farklı arayışlara itmiş ve Akdeniz merkezli bir dünya tasavvuru, yerin okyanuslarla çevrili bir dünya algısına bırakmıştır. Buna bağlı olarak uluslararası güçler dengesinde öne çıkan Batı yayılmacılığı. beraberinde Batı'nın siyasi, ekonomik, teknolojik bilimsel vb. alanlarda öne çıkmasına yol açmıştır. Batı'nın toplumlararası ilişkilerde etkinlik kazanmaya başlaması ile birlikte, evrensellik ve yerellik denklemleri kurulmaya ve Batılı olanla evrensel olan özdeşleştirilmeye başlanmıştır Küreselleşen bir dünya sanısının tüm cilvesi ve aldatmacasıyla karşımızda durduğu şu tarihsel anda, Batı'nın evrensel olana, küresel bir bağlama dair iddia sahibi olmasının, yeryüzünün bütün kılcallarına yayılma çabası içerisine girmesinin tarihsel karşılıkları üzerinde düşünmek temel bir problem alanı olarak belirmektedir. Bu bağlamda, David Arnold'un özlü tarihsel anlatısına muhatap olmak ve 'coğrafi keşifler çağı' olarak nitelediği dönemi derinlemesine ele almak cezbedici bir eylem halini almaktadır.&lt;/div&gt;&lt;/div&gt;&lt;div class="sergi4" style="margin-top: 20px; margin-right: 0px; margin-bottom: 20px; margin-left: 0px; border-bottom-width: 3px; border-bottom-style: double; border-bottom-color: rgb(221, 221, 221); padding-top: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent; "&gt;&lt;br class="Apple-interchange-newline"&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;David Arnold&quot;: &quot;&quot;}"/>
+<dc:title>Coğrafi Keşifler Tarihi</dc:title>
+<dc:subject>Siyasi Tarih</dc:subject>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Coğrafya</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">1d9fbedd-68f4-4ad4-bd9c-a26f95362f74</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789756910207</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/image2.jpg" id="id1001" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/content_1.xhtml" id="content_1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="content_1.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

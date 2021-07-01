@@ -1,0 +1,15 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+  }
+@font-face {
+  src: url(../Fonts/Georgia.ttf);
+  panose-1: 2 4 5 2 5 4 5 2 3 3;
+  font-family: "Georgia";
+  }
+@font-face {
+  src: url(../Fonts/Georgia-Bold.ttf);
+  panose-1: 2 4 8 2 5 4 5 2 2 3;
+  font-family: "Georgia";
+  font-weight: bold;
+  }
