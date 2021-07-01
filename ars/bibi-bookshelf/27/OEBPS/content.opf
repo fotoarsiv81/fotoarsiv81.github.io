@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Finansçı Olmayanlar İçin Finans</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Özerol, Hakan">Hakan Özerol</dc:creator>
+    <dc:publisher>Elma Yayınevi</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:A4EC650F-C11B-47D5-A7C4-F01E6B2107B5</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">69417b46-7543-45c3-94d9-89123cffa06d</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="images/758.jpg" id="x758.jpg" media-type="image/jpeg"/>
+    <item href="images/BÖLÜM 3 Şekil 1_fmt.png" id="BO-cc-88LU-cc-88M-203-20S-cc-a7ekil-201_fmt.png" media-type="image/png"/>
+    <item href="images/elma_fmt.jpeg" id="elma_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/finansciolmayan_fmt.png" id="finansciolmayan_fmt.png" media-type="image/png"/>
+    <item href="images/kunyefinans_fmt.jpeg" id="kunyefinans_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/PIC07376_fmt.jpeg" id="PIC07376_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/PIC24626_fmt.jpeg" id="PIC24626_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sekil1_fmt.jpeg" id="sekil1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/sekil2_fmt.jpeg" id="sekil2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tab2_fmt.jpeg" id="tab2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tab3_fmt.jpeg" id="tab3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tab4_fmt.jpeg" id="tab4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tab5_fmt.jpeg" id="tab5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tab6_fmt.jpeg" id="tab6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tab7_fmt.jpeg" id="tab7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tab8_fmt.jpeg" id="tab8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tab9_fmt.jpeg" id="tab9_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tab10_fmt.jpeg" id="tab10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tab11_fmt.jpeg" id="tab11_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tab12_fmt.jpeg" id="tab12_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tab13_fmt.jpeg" id="tab13_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tab14_fmt.jpeg" id="tab14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tabb_fmt.jpeg" id="tabb_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/tabbbb_fmt.jpeg" id="tabbbb_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uZDBvhYikVmL7J6CO3thHK2" media-type="image/jpeg"/>
+    <item href="fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-BoldIt.otf" id="MinionPro-BoldIt.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/x-font-otf"/>
+    <item href="fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/x-font-otf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

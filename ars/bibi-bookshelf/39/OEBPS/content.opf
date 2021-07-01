@@ -1,0 +1,130 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Eğilmez, Mahfi">Mahfi Eğilmez</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:692e9e95-db83-4790-981d-c6ff222c0d10</dc:identifier>
+    <meta content="0.9.2" name="Sigil version"/>
+    <dc:date opf:event="modification">2016-03-28</dc:date>
+    <dc:description>&lt;div&gt;&lt;p class="description"&gt;Makroekonomi okuyanlar, genellikle tek tek parçaların nasıl çalıştığını bildikleri halde o parçaların oluşturduğu bütün sistemin nasıl çalıştığını ya da tam tersine sistemin bütününün nasıl çalıştığını anladıkları halde tek tek parçaların o sisteme nasıl katkıda bulunduğunu görememekten şikâyet ederler.&lt;/p&gt;&lt;p&gt;Bu kitap önce sistemin tek tek parçalarının, sonra da bütününün çalışmasını göstermeyi amaçlıyor. Tıpkı bir otomobilin parçalarının tek tek sökülüp yeniden takılmasında olduğu gibi, bu kitapta yazar, makroekonominin bütün parçalarını tek tek çıkarıp nasıl çalıştığını, sonra da hepsini yeniden bir araya getirip sistemin nasıl işlediğini göstermeyi, böylece makroekonomi okuyanların parçalar arasında kaybolma şikâyetini gidermeyi amaçlıyor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2015-04-30T21:00:00+00:00</dc:date>
+    <dc:publisher>Remzi Kitabevi</dc:publisher>
+    <dc:type>Ekonomi</dc:type>
+    <meta name="cover" content="kapak.jpg"/>
+  <dc:title>Makroekonomi (Türkiyeden Örneklerle)</dc:title>
+<meta name="calibre:title_sort" content="Makroekonomi (Türkiyeden Örneklerle)"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Ekonomi</dc:subject>
+<dc:contributor opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:author_link_map" content="{&quot;Mahfi Eğilmez&quot;: &quot;&quot;}"/>
+<dc:language>tr-TR</dc:language>
+<dc:identifier opf:scheme="calibre">2961a4c6-92f2-4d83-a901-63b0704f12bc</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:692e9e95-db83-4790-981d-c6ff222c0d10</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789751413666</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/styles.css" id="styles.css" media-type="text/css"/>
+    <item href="Images/x01.jpg" id="x01.jpg" media-type="image/jpeg"/>
+    <item href="Images/x02.jpg" id="x02.jpg" media-type="image/jpeg"/>
+    <item href="Images/x03.jpg" id="x03.jpg" media-type="image/jpeg"/>
+    <item href="Images/x04.jpg" id="x04.jpg" media-type="image/jpeg"/>
+    <item href="Images/s01.jpg" id="s01.jpg" media-type="image/jpeg"/>
+    <item href="Images/x05.jpg" id="x05.jpg" media-type="image/jpeg"/>
+    <item href="Images/s02.jpg" id="s02.jpg" media-type="image/jpeg"/>
+    <item href="Images/s03.jpg" id="s03.jpg" media-type="image/jpeg"/>
+    <item href="Images/s04.jpg" id="s04.jpg" media-type="image/jpeg"/>
+    <item href="Images/s05.jpg" id="s05.jpg" media-type="image/jpeg"/>
+    <item href="Images/s06.jpg" id="s06.jpg" media-type="image/jpeg"/>
+    <item href="Images/s07.jpg" id="s07.jpg" media-type="image/jpeg"/>
+    <item href="Images/s08.jpg" id="s08.jpg" media-type="image/jpeg"/>
+    <item href="Images/s09.jpg" id="s09.jpg" media-type="image/jpeg"/>
+    <item href="Images/s10.jpg" id="s10.jpg" media-type="image/jpeg"/>
+    <item href="Images/s12.jpg" id="s12.jpg" media-type="image/jpeg"/>
+    <item href="Images/s11.jpg" id="s11.jpg" media-type="image/jpeg"/>
+    <item href="Images/s13.jpg" id="s13.jpg" media-type="image/jpeg"/>
+    <item href="Images/s14.jpg" id="s14.jpg" media-type="image/jpeg"/>
+    <item href="Images/s15.jpg" id="s15.jpg" media-type="image/jpeg"/>
+    <item href="Images/s16.jpg" id="s16.jpg" media-type="image/jpeg"/>
+    <item href="Images/s17.jpg" id="s17.jpg" media-type="image/jpeg"/>
+    <item href="Images/s18.jpg" id="s18.jpg" media-type="image/jpeg"/>
+    <item href="Images/s19.jpg" id="s19.jpg" media-type="image/jpeg"/>
+    <item href="Images/s20.jpg" id="s20.jpg" media-type="image/jpeg"/>
+    <item href="Images/s21.jpg" id="s21.jpg" media-type="image/jpeg"/>
+    <item href="Images/s22.jpg" id="s22.jpg" media-type="image/jpeg"/>
+    <item href="Images/s23.jpg" id="s23.jpg" media-type="image/jpeg"/>
+    <item href="Images/s24.jpg" id="s24.jpg" media-type="image/jpeg"/>
+    <item href="Images/s25.jpg" id="s25.jpg" media-type="image/jpeg"/>
+    <item href="Images/s26.jpg" id="s26.jpg" media-type="image/jpeg"/>
+    <item href="Images/s27.jpg" id="s27.jpg" media-type="image/jpeg"/>
+    <item href="Images/s28.jpg" id="s28.jpg" media-type="image/jpeg"/>
+    <item href="Images/s29.jpg" id="s29.jpg" media-type="image/jpeg"/>
+    <item href="Images/s30.jpg" id="s30.jpg" media-type="image/jpeg"/>
+    <item href="Images/s31.jpg" id="s31.jpg" media-type="image/jpeg"/>
+    <item href="Images/s32.jpg" id="s32.jpg" media-type="image/jpeg"/>
+    <item href="Images/s33.jpg" id="s33.jpg" media-type="image/jpeg"/>
+    <item href="Images/s34.jpg" id="s34.jpg" media-type="image/jpeg"/>
+    <item href="Images/s35.jpg" id="s35.jpg" media-type="image/jpeg"/>
+    <item href="Images/x06.jpg" id="x06.jpg" media-type="image/jpeg"/>
+    <item href="Images/s36.jpg" id="s36.jpg" media-type="image/jpeg"/>
+    <item href="Images/s37.jpg" id="s37.jpg" media-type="image/jpeg"/>
+    <item href="Images/s38.jpg" id="s38.jpg" media-type="image/jpeg"/>
+    <item href="Images/s39.jpg" id="s39.jpg" media-type="image/jpeg"/>
+    <item href="Images/s40.jpg" id="s40.jpg" media-type="image/jpeg"/>
+    <item href="Images/s41.jpg" id="s41.jpg" media-type="image/jpeg"/>
+    <item href="Images/s42.jpg" id="s42.jpg" media-type="image/jpeg"/>
+    <item href="Images/s43.jpg" id="s43.jpg" media-type="image/jpeg"/>
+    <item href="Images/s44.jpg" id="s44.jpg" media-type="image/jpeg"/>
+    <item href="Images/s45.jpg" id="s45.jpg" media-type="image/jpeg"/>
+    <item href="Images/s46.jpg" id="s46.jpg" media-type="image/jpeg"/>
+    <item href="Images/s47.jpg" id="s47.jpg" media-type="image/jpeg"/>
+    <item href="Images/s48.jpg" id="s48.jpg" media-type="image/jpeg"/>
+    <item href="Images/s49.jpg" id="s49.jpg" media-type="image/jpeg"/>
+    <item href="Images/s50.jpg" id="s50.jpg" media-type="image/jpeg"/>
+    <item href="Images/s51.jpg" id="s51.jpg" media-type="image/jpeg"/>
+    <item href="Images/s52.jpg" id="s52.jpg" media-type="image/jpeg"/>
+    <item href="Images/s53.jpg" id="s53.jpg" media-type="image/jpeg"/>
+    <item href="Images/s54.jpg" id="s54.jpg" media-type="image/jpeg"/>
+    <item href="Images/s55.jpg" id="s55.jpg" media-type="image/jpeg"/>
+    <item href="Images/s56.jpg" id="s56.jpg" media-type="image/jpeg"/>
+    <item href="Images/s57.jpg" id="s57.jpg" media-type="image/jpeg"/>
+    <item href="Images/s58.jpg" id="s58.jpg" media-type="image/jpeg"/>
+    <item href="Images/s59.jpg" id="s59.jpg" media-type="image/jpeg"/>
+    <item href="Images/s60.jpg" id="s60.jpg" media-type="image/jpeg"/>
+    <item href="Images/s61.jpg" id="s61.jpg" media-type="image/jpeg"/>
+    <item href="Images/s62.jpg" id="s62.jpg" media-type="image/jpeg"/>
+    <item href="Images/s63.jpg" id="s63.jpg" media-type="image/jpeg"/>
+    <item href="Images/s64.jpg" id="s64.jpg" media-type="image/jpeg"/>
+    <item href="Images/s65.jpg" id="s65.jpg" media-type="image/jpeg"/>
+    <item href="Images/s66.jpg" id="s66.jpg" media-type="image/jpeg"/>
+    <item href="Images/s67.jpg" id="s67.jpg" media-type="image/jpeg"/>
+    <item href="Images/s68.jpg" id="s68.jpg" media-type="image/jpeg"/>
+    <item href="Images/s69.jpg" id="s69.jpg" media-type="image/jpeg"/>
+    <item href="Images/ss1.jpg" id="ss1.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

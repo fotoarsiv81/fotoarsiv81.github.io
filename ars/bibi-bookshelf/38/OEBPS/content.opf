@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Eğilmez, A. Mahfi">A. Mahfi Eğilmez</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">e8b420f6-28de-4a2e-ac23-369b1997dc10</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Remzi Kitabevi</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;i&gt;Küresel krizi anlamak için bu kitabı okuyun!&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Dr. Mahfi Eğilmez, yaşadığımız küresel krizi tüm yansımalarıyla gündeme taşıyor. Krizin Türkiye’yi nasıl etkileyeceğini ve bir daha küresel kriz yaşanmaması için neler yapılması gerektiğini, ayrıca böyle bir krizde kişilerin ve işletmelerin alması gereken önlemlerin neler olduğunu açıklıyor.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;“Bugünkü sistem üretimi değil spekülasyonu teşvik ediyor. Piyasa daima haklıdır görüşü artık tarihe karıştı. Yeni ve ahlâki bir yapı için dünya liderleri acilen toplanmalı.”&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;i&gt;&lt;b&gt;Nicolas Sarkozy&lt;/b&gt; (Fransa Cumhurbaşkanı)&lt;/i&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt; “lMF ve Dünya Bankası yeniden yapılandırılmalı. Dünya finansal sistemi değişmeli.&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;i&gt;&lt;b&gt;Gordon Brown&lt;/b&gt; (ingiltere Başbakanı)&lt;/i&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;“Şu an yaşadığımız kriz, bizi felaketlere sürükleyen ekonomik modelin ve serbest piyasa ekonomisinin her zaman en doğrusu olduğu yönündeki görüşün de sonudur.”&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;i&gt;&lt;b&gt;Joseph Stiglitz&lt;/b&gt; (Nobel ödüllü Amerikalı iktisatçı)&lt;/i&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;“Karl Marx haklıymış. Kapitalist sistem insanlığı bu hale getirdi.”&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;i&gt;Anglikan Kilisesi&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2013-09-12T21:00:00+00:00</dc:date>
+    <meta content="Küresel Finans Krizi" name="calibre:title_sort"/>
+    <meta content="{&quot;A. Mahfi Eğilmez&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2016-03-26</dc:date>
+  <dc:title>Küresel Finans Krizi</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Ekonomi</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">645b6c9f-5730-43d7-9686-7d68cc42c96f</dc:identifier>
+<dc:identifier opf:scheme="AMAZON">9751413206</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">CvzaPgAACAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789751413208</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/start.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/styles.css" id="id1" media-type="text/css"/>
+    <item href="Images/s01.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="Images/s02.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="Images/s03.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="Images/s04.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="Images/s05.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="Images/s06.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="Images/s07.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="Images/s08.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="Images/s09.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="Images/s10.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="Images/s11.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="Images/s12.jpg" id="id13" media-type="image/jpeg"/>
+    <item href="Images/kapak.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="start"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

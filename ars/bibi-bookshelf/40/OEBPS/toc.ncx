@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{22D95236-A981-44E7-A0E8-B0BFA33B26F2}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Mahfi Eğilmez- Örneklerle Kolay Ekonomi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Mahfi Eğilmez</text>
+      </navLabel>
+      <content src="Text/main.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>ÖRNEKLERLE KOLAY EKONOMİ</text>
+        </navLabel>
+        <content src="Text/main.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>EKONOMİ NEDİR, NE İŞE YARAR?</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>En Basit Anlatımıyla Ekonomi</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Ekonomi Bilmek İşe Yarar mı?</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Piyasa ya da Pazar</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Herkes Biraz İktisatçıdır</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Ekonomik Birimler</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Ekonomi Dediğin Bir Çelişkiler Yumağıdır</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>TÜKETİM, ÜRETİM, TASARRUF, YATIRIM</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>İnsanın Asıl İşi Tüketmektir</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Üretim</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Tüketim mi Üretim mi?</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Kapasite Kullanımı</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Tasarruf ve Yatırım</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>GELİR VE GSYH</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Kişisel Gelir ve AiÎe Geliri</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Ülkenin Geliri: GSYH</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Elmayla Armudu Toplamak</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>GSYH’nın Hesaplanma Biçimleri</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Ver On Bin Dolarımı Ben Gideyim</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Türkiye’de Gelir Dağılımı</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>EKONOMİ NASIL BÜYÜR?</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Ekonomik Büyüme</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Türk Büyüme Modeli: Ne Kadar Cari Açık O Kadar Büyüme</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Yumuşak ya da Sert İniş</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Türkiye Ekonomisinde Büyüme I</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Türkiye Ekonomisinde Büyüme II</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Reyting</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>İŞSİZLİK</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml"/>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>İşsizlik Nasıl Hesaplanır?</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>İşsizlik Oranı</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>KAMU KESİMİ MÂLİYESİ</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml"/>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Maliye ya da Finans</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Bütçe</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Kamu Bütçesi</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Hazine Nakit Dengesi</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Türk Vergi Sistemi</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#sigil_toc_id_31"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Kamu Borcu</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Türkiye’de Kamu Borcu</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#sigil_toc_id_33"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Dibs Nedir?</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#sigil_toc_id_34"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Maliye Politikası</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#sigil_toc_id_35"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Maliye Politikasına Destek Politika Araçları</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#sigil_toc_id_36"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>PARA VE FAİZ</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml"/>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Para Nedir?</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml#sigil_toc_id_37"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Parasız Ekonomi Olur mu?</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml#sigil_toc_id_38"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Parayla Mutluluk Olur mu?</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Kâğıt Paranın Karşılığı Var mı?</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml#sigil_toc_id_40"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Para Politikası</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Rezerv Para</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Sıcak Para Kaç Derecedir?</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml#sigil_toc_id_43"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Faiz</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml#sigil_toc_id_44"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Merkez Bankası’nın Faizi</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml#sigil_toc_id_45"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>ENFLASYON</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml"/>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Enflasyon</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_46"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Manşet Enflasyon ve Çekirdek Enflasyon</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_47"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Enflasyon ve Diğerleri</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_48"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Yapısal Reformlar</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_49"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>DIŞ DENGE</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml"/>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Cari Acık</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml#sigil_toc_id_50"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Cari Açığın Doğum Yeri</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml#sigil_toc_id_51"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Türkiye’nin Cari Açığı</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml#sigil_toc_id_52"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Ödemeler Dengesi Finansmanı</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml#sigil_toc_id_53"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Net Hata ve Noksan</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml#sigil_toc_id_54"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Sermaye Hareketleri</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml#sigil_toc_id_55"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>DÖVİZ VE DÖVİZ KURU</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml"/>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Döviz, Kambiyo, Kur, Parité</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml#sigil_toc_id_56"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Paranın Dış Değeri</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml#sigil_toc_id_57"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Dolar Yükselirse Kriz Olur mu?</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml#sigil_toc_id_58"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Kur Sepeti</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml#sigil_toc_id_59"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>REK Nedir?</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml#sigil_toc_id_60"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>YÖNETİM</text>
+      </navLabel>
+      <content src="Text/Section0012.xhtml"/>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Portföy Yönetimi</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml#sigil_toc_id_61"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Sepet Sepet Yumurta</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml#sigil_toc_id_62"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Lale Çılgınlığı</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml#sigil_toc_id_63"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Devlet Yönetimi</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml#sigil_toc_id_64"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Şirket Yönetimi</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml#sigil_toc_id_65"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>Devlet ve Şirket</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml#sigil_toc_id_66"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>KÜRESEL SİSTEM</text>
+      </navLabel>
+      <content src="Text/Section0013.xhtml"/>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Küresel Sistem</text>
+        </navLabel>
+        <content src="Text/Section0013.xhtml#sigil_toc_id_67"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>Kapitalizmin Üç Büyük Krizi</text>
+        </navLabel>
+        <content src="Text/Section0013.xhtml#sigil_toc_id_68"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Nabukadnezar’ın Rüyası</text>
+        </navLabel>
+        <content src="Text/Section0013.xhtml#sigil_toc_id_69"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>Resesyon Gibi Bir Dizi Karışık Terim</text>
+        </navLabel>
+        <content src="Text/Section0013.xhtml#sigil_toc_id_70"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Ekonomi Ligi</text>
+        </navLabel>
+        <content src="Text/Section0013.xhtml#sigil_toc_id_71"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-86" playOrder="86">
+      <navLabel>
+        <text>ŞEHİR EFSANELERİ</text>
+      </navLabel>
+      <content src="Text/Section0014.xhtml"/>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>Yastık Altı Efsanesi</text>
+        </navLabel>
+        <content src="Text/Section0014.xhtml#sigil_toc_id_72"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>Dışardaki Dövizler Efsanesi</text>
+        </navLabel>
+        <content src="Text/Section0014.xhtml#sigil_toc_id_73"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>Kayıt Dışı Ekonomi Efsanesi</text>
+        </navLabel>
+        <content src="Text/Section0014.xhtml#sigil_toc_id_74"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>Bize Bir Şey Olmaz Safsatası</text>
+        </navLabel>
+        <content src="Text/Section0014.xhtml#sigil_toc_id_75"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>Osmanlı Borçları Abartılıyor Safsatası</text>
+        </navLabel>
+        <content src="Text/Section0014.xhtml#sigil_toc_id_76"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-92" playOrder="92">
+      <navLabel>
+        <text>Sözlükçe</text>
+      </navLabel>
+      <content src="Text/Section0015.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

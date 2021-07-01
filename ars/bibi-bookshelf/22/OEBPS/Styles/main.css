@@ -1,0 +1,254 @@
+/*****FONT*****/
+@font-face {
+  font-family: "Caecilia LT Std Roman";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/CaeciliaLTStd-Italic.otf);
+  }
+@font-face {
+  font-family: "Caecilia LT Std Roman";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/CaeciliaLTStd-Roman.otf);
+  }
+@font-face {
+  font-family: "Gill Sans Std";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/GillSansStd.ttf);
+  }
+@font-face {
+  font-family: "TradeGothic LT CondEighteen";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/TradeGothicTR.otf);
+  }
+.author {
+  margin-top: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.author h1 {
+  font-family: "Gill Sans Std";
+  font-size: 0.85em;
+  margin-bottom: 1.5em;
+  text-align: left;
+}
+h1 {
+  font: normal normal 1.25em/1.2em "TradeGothic LT CondEighteen";
+  margin-bottom: 6em;
+  text-align: center;
+}
+.num {
+  font: normal normal 1.5em/1.2em "TradeGothic LT CondEighteen";
+  text-align: center;
+  margin-bottom: 0;
+}
+hr {
+  margin: -0.5em auto;
+  border: none;
+  text-align: center;
+}
+hr:after {
+  content: url(../Images/line.jpg);
+}
+h2 {
+  font: normal normal 0.85em/1.2em "TradeGothic LT CondEighteen";
+  text-align: center;
+  margin-top: 2em;
+}
+/*P*/
+p {
+  font: normal 0.75em/1.3em "Caecilia LT Std Roman";
+  margin: 0;
+  text-indent: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+p.nonindent {
+  text-indent: 0;
+}
+.right {
+  text-align: right;
+}
+.extract {
+  margin-top: 1em;
+  text-indent: 0;
+}
+blockquote {
+  font-size: 90%;
+  margin-right: 0;
+}
+div.block {
+  margin-left: 0;
+  margin-right: 0;
+  text-align: justify;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.epigraf {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 6em;
+}
+.epigraf p {
+  font-size: 0.66em;
+}
+.poem {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 3.5em;
+  text-align: justify;
+}
+.poem p {
+  text-indent: -2em;
+}
+p.hanging {
+  text-indent: -2em;
+  text-align: justify;
+}
+.hanging {
+  margin-left: 1.5em;
+  margin-top: 0.4em;
+}
+div.copyright > p.crt:last-child {
+  margin-bottom: 0;
+}
+p.crt {
+  font: normal normal 0.751em "Gill Sans Std";
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-indent: 0;
+}
+/*titlepage*/
+.title {
+  margin-left: 2em;
+  margin-top: 2em;
+}
+.space {
+  letter-spacing: 0.1em;
+}
+.ithaf, .part {
+  margin-top: 8em;
+}
+.aut {
+  font: normal normal 1.69em "TradeGothic LT CondEighteen";
+}
+.work {
+  font: normal normal 2.6em "TradeGothic LT CondEighteen";
+}
+.work1 {
+  font: normal normal 1.1em/1.2em "TradeGothic LT CondEighteen";
+  margin-top: 1em;
+}
+.trans {
+  font-family: "Gill Sans Std";
+  font-size: 0.83em;
+  margin-top: 4em;
+}
+.logo {
+  margin: 7em auto 0 auto;
+}
+/******FOOTNOTE******/
+.footnotes > p.footnote:last-child {
+  margin-bottom: 0;
+}
+.footnotes {
+  margin-top: 4em;
+  margin-left: 1em;
+  text-align: justify;
+}
+.footnote {
+  font-family: "Caecilia LT Std Roman";
+  font-size: 0.66em;
+  margin-bottom: 0.3em;
+  text-indent: 0;
+}
+.backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  /*ipad için*/-webkit-text-fill-color: #000;
+  color: #000;
+  font-size: 1.1em;
+}
+.noteref {
+  font-family: sans-serif;
+  text-decoration: none;
+  /*ipad için*/-webkit-text-fill-color: #26474B;
+  color: #26474B;
+  font-size: 0.75em;
+  line-height: 1em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}
+/*IMAGES*/
+.ekdg-logo {text-align: center; margin: 5em 0 1em;}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+.picture {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  margin-left: 1.5em;
+  max-width: 700px;
+  page-break-inside: avoid;
+}
+.caption {
+  font: normal normal 0.75em "Gill Sans Std";
+  text-align: justify;
+  margin-top: 10px;
+  text-indent: 0;
+}
+/* ---- Tables ---- */
+table {
+  margin-bottom: 1em;
+  border-collapse: collapse;
+  font-family: "Gill Sans Std";
+  font-weight: normal;
+  width: 100%;
+}
+.tablo td {
+  font-size: 0.8em;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid black;
+  vertical-align: top;
+}
+.td_epigraf {
+  font-size: 0.8em;
+  width: 60%;
+  text-align: justify;
+}
+.td_epigraf1 {
+  font-size: 0.8em;
+  width: 60%;
+  text-align: justify;
+  padding-top: 10px;
+}
+.td_right {
+  font-size: 0.8em;
+  padding-top: 4px;
+  text-align: right;
+}
+/*LİSTE*/
+ol li, ul li {
+  font: normal normal 0.75em/1.3em "Caecilia LT Std Roman";
+  text-align: justify;
+  text-indent: 0;
+  margin: 0;
+  padding: 1px;
+}
+
+/*OTHER*/
+sub { vertical-align: middle; font-size: 0.66em;}
+a {
+  text-decoration: none;
+}
+em {
+  color: #C41A16;
+}

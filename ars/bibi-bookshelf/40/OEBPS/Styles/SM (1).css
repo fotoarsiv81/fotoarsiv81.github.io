@@ -1,0 +1,41 @@
+h1 {margin-top:2em;margin-bottom:5em;font-size:1.8em;text-align:center;text-indent:0em;font-weight:bold;}
+
+h2 {margin-top:5em;margin-bottom:2em;font-size:1.4em;text-align:center;text-indent:0em;font-weight:bold;}
+
+h3 {margin-top:1em;margin-bottom:2em;font-size:1.1em;text-align:center;text-indent:0em;font-weight:bold;}
+
+p {font-size:.9em;text-indent:1em;text-align:justify;margin-top:0.1em;margin-bottom:0.1em;}
+
+.girintisiz {text-indent:0em;}
+
+.girintisiz_o {text-indent:0em;text-align:center;}
+
+.ml2ti0 {font-size:.8;margin-left:2em;text-indent:0em;margin-top:0em;margin-bottom:0em;}
+
+.ml2ti1 {font-size:.8;margin-left:2em;text-indent:1em;margin-top:0em;margin-bottom:0em;}
+
+.ml3ti0 {font-size:.8;margin-left:3em;text-indent:0em;margin-top:0em;margin-bottom:0em;}
+
+.ml3ti1 {font-size:.8;margin-left:3em;text-indent:1em;margin-top:0em;margin-bottom:0em;}
+
+.kunye {text-align:left;text-indent:0em;margin-top:0em;margin-left:1em;margin-bottom:0em;font-size: 0.7em;}
+
+.baslik1 {font-size:1.4em;margin-top:2em;margin-bottom:0.5em;text-align:center;text-indent:0em;}
+
+.baslik2 {font-size:1.9em;margin-top:0em;margin-bottom:0.6em;text-align:center;text-indent:0em;}
+
+.baslik3 {font-size:.8em;margin-top:4em;margin-bottom:2em;text-align:center;text-indent:0em;}
+
+.baslik4 {font-size:.8em;margin-top:.2em;margin-bottom:.2em;text-align:center;text-indent:0em;}
+
+.baslik5 {font-size:.95em;margin-top:0em;margin-bottom:7em;text-align:center;text-indent:0em;}
+
+.yazar {margin-top:0em;margin-left:1em;margin-bottom:0em;font-size:0.75em;text-align:justify;text-indent:0em;}
+
+.dipnot {text-align:left;text-indent:2em;margin-top:1em;margin-bottom:1em;margin-left:2em;}
+
+.dipnot1 {text-align:left;text-indent:2em;margin-top:1em;margin-bottom:1em;page-break-before: always;margin-left:2em;}
+
+.logo {text-indent:0em;text-align:center;}
+
+div.mektup {margin-top:1em;margin-bottom:0em;margin-left:1em;font-size:.8em;text-indent:1em;margin-right:1em;text-align:justify;}

@@ -1,0 +1,68 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Scognamillo, Giovanni">Giovanni Scognamillo</dc:creator>
+<dc:description>&lt;p&gt;İstanbul kendi başına bir gizemdir, bir gizem tarihi ve bir gizemler merkezidir her çeşitinden. Ve İstanbul yüzyıllardan beri süregelen bir arayışın buluşma noktasıdır, ölümsüzlerin, gizli ve bilinmeyen üstünlerin, bilgelerin, gizemcilerin ve de şarlatanların uğrağıdır.
+
+Dünyanın tüm büyük ve eski kentleri, Roma, Paris, Londra, Prag vb her zaman bir merkez görev işlevini gördüler. İstanbul da böyledir bir tarih, kültür, sanat ve düşünce merkezi olarak. Ancak İstanbul'un bir farkı ve bir özelliği vardır, her zaman olmuştur. İstanbul bir kültür, medeniyet, ve bunlardan oluşan bir inanışlar potasıdır. Doğu ve Batının değişmeyen bir buluşma, kaynaşma noktası, bir odak noktası ve ola ki manyetik bir alan.&lt;/p&gt;</dc:description>
+    <dc:publisher>Bilge Karınca Yayınları</dc:publisher>
+    <dc:date>2006-12-10T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:2F591DCA-68E0-477F-BCBA-A00FEB037CEF</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-08-01</dc:date>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpeg"/>
+    <meta name="calibre:title_sort" content="İstanbul Gizemleri"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Giovanni Scognamillo&quot;: &quot;&quot;}"/>
+  <dc:title>İstanbul Gizemleri</dc:title>
+<dc:subject>Makale</dc:subject>
+<dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>en</dc:language>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">23831151-154a-4c04-88a8-affb4f732dba</dc:identifier>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9799758715755</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/4-1.html" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="Text/4-2.html" id="x4-2" media-type="application/xhtml+xml"/>
+    <item href="Text/4-3.html" id="x4-3" media-type="application/xhtml+xml"/>
+    <item href="Text/4-4.html" id="x4-4" media-type="application/xhtml+xml"/>
+    <item href="Text/4-5.html" id="x4-5" media-type="application/xhtml+xml"/>
+    <item href="Text/4-6.html" id="x4-6" media-type="application/xhtml+xml"/>
+    <item href="Text/4-7.html" id="x4-7" media-type="application/xhtml+xml"/>
+    <item href="Text/4-8.html" id="x4-8" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/_kapak.jpeg" id="_kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Times-Roman.ttf" id="Times-Roman.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+    <itemref idref="x4-3"/>
+    <itemref idref="x4-4"/>
+    <itemref idref="x4-5"/>
+    <itemref idref="x4-6"/>
+    <itemref idref="x4-7"/>
+    <itemref idref="x4-8"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

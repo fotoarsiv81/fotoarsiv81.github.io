@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{A2981D37-C1AE-47EA-95FB-47376BFB275B}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kapitalizmin Kısa Tarihi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ÖN NOT: KAPİTALİSTİK</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>TEORİ</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml#sigil_toc_id_1"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>1 KAPİTALİZM NEDİR?</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>2 KÂRIN İZİNDE</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>TARİH</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml#sigil_toc_id_2"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>1 BİR ÖNCEKİ TOPLUM: FEODALİZM</text>
+        </navLabel>
+        <content src="Text/main-2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>2 FEODALİZMDEN KAPİTALİZME GEÇİŞ UNSURLARI</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>3 SANAYİ ÖNCESİ KAPİTALİZM</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>4 SANAYİ DEVRİMİ</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>5 ÖRGÜTLENMİŞ KAPİTALİZM VE EMPERYALİZM</text>
+        </navLabel>
+        <content src="Text/Section0013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>6 1914-1945: SAVAŞ VE KRİZLER</text>
+        </navLabel>
+        <content src="Text/Section0014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>7 1945-1973: SOSYAL DEVLET VE SİSTEM ÇATIŞMALARI</text>
+        </navLabel>
+        <content src="Text/Section0015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>8 NEOLİBERAL KAPİTALİZM</text>
+        </navLabel>
+        <content src="Text/Section0016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>9 POLİZENTRİK KAPİTALİZM VE SORUNLU ABD HEGEMONYASI</text>
+        </navLabel>
+        <content src="Text/Section0017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>10 KAPİTALİZMİN SONU MU?</text>
+        </navLabel>
+        <content src="Text/Section0018.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>NOTLAR</text>
+      </navLabel>
+      <content src="Text/Notlar.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

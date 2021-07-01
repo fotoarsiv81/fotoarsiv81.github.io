@@ -1,0 +1,46 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Eğilmez, Mahfi">Mahfi Eğilmez</dc:creator>
+<dc:date>2016-04-15T21:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;Dr. Mahfi Eğilmez, çoğumuz için bir "bilmece" olan Hazine'nin yapısını, işleyişini ve tarihsel evrimini bu kitapta akıcı bir üslupla özetliyor. Kamu maliyesi ve kamu ekonomisi açısından yeni bilgiler ve analizlere yer veren, eleştiri ve değerlendirmeleri kapsayan bu çalışma, ilgililer için vazgeçilmez bir referans kitabı olmasının yanı sıra kamuoyunun merak ettiği kurum-siyaset ilişkisini de gözler önüne seriyor.&lt;/p&gt;</dc:description>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Hazine"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Mahfi Eğilmez&quot;: &quot;&quot;}"/>
+  <dc:title>Hazine</dc:title>
+<dc:subject>Ekonomi</dc:subject>
+<dc:contributor opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">17bba2fc-f37a-4d37-9bec-c6ae27365b92</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Images/s01.jpg" id="s01.jpg" media-type="image/jpeg"/>
+    <item href="Images/s02.jpg" id="s02.jpg" media-type="image/jpeg"/>
+    <item href="Images/s03.jpg" id="s03.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:81c6ee65-14e0-49e0-89ef-9fbd637c4d56" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Hazine</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>KAVRAM VE KURUM OLARAK HAZİNE</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#11"/>
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>Hazine Kavramı</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#111"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>Hazine Kurumu</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#112"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>GÖREVLER VE ÖRGÜT</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#12"/>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>Hazinenin Görevleri</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#121"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>Hazine Örgütü</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#122"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>HAZİNE’NİN İLİŞKİLERİ</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Türk Hazinesi</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>KISA TARİHÇE</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#21"/>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>Fatih Sultan Mehmed’in Hazinesi</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#211"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>Osmanlı Hazinesi’nde Bozulma</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#212"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>Cumhuriyet Hazinesi</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#213"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>GÜNÜMÜZDE TÜRK HAZİNE ÖRGÜTÜ</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#22"/>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>Merkez Örgütü</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#221"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>Merkez Dışındaki Örgüt</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#222"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>DEĞERLENDİRMELER</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#23"/>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>Türk Hazinesi’nin Tarihsel Evrimi</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#231"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>Hazine-Merkez Bankası İlişkileri</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#232"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Hazine Yönetimi ve Türkiye</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>KAMU PARA AKIMININ YÖNETİMİ</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#31"/>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>Kamu Para Akımının Yönetimi ve Para Politikasıyla İlişkisi</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#311"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>Türkiye’de Para Akımı Yönetimi</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#312"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>Türkiye’de Para Politikası</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#313"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>Değerlendirme</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#314"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>BORÇ YÖNETİMİ</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#32"/>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>Kamu Kesimi Borçlanma Gereksinimi</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#321"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>Hazine’nin İç Borçlanması</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#322"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>Kamu Kesiminin Dış Borçlanması</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#323"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>Borç Stoku, Borç Yükü, Borç Servisi</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#324"/>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>Türkiye’de Borç Yönetimi</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#325"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>Değerlendirme</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#326"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>KAMU PAYLARININ YÖNETİMİ</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#33"/>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>Kamu Payı Kavramı</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#331"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>Kamu İktisadi Teşebbüslerinin Kuruluş Nedenleri</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#332"/>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>Türkiye’de Kamu İktisadi Teşebbüslerinin Yönetimi</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#333"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>Diğer Kamu Paylarının Yönetimi</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#334"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>Değerlendirme</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#335"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>BÜTÇE FİNANSMANI</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#34"/>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>Maliye Politikasının Özü</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#341"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>Türkiye’de Bütçe Finansmanı</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#342"/>
+        </navPoint>
+        <navPoint id="navPoint-43" playOrder="43">
+          <navLabel>
+            <text>Değerlendirme</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#343"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>MALİ PİYASA-HAZİNE İLİŞKİLERİ</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#35"/>
+        <navPoint id="navPoint-45" playOrder="45">
+          <navLabel>
+            <text>Mali Piyasa ve Mali Kurumlar</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#351"/>
+        </navPoint>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>Borç Verilebilir Fonlar Piyasasında Denge</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#352"/>
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>Değerlendirme</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#353"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>IMF VE DÜNYA BANKASI’YLA İLİŞKİLER</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#36"/>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>Uluslararası Ekonomik ve Mali Kuruluşlar</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#361"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>Türkiye’nin IMF ve Dünya Bankası’yla İlişkileri</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#362"/>
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+          <navLabel>
+            <text>Değerlendirme</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#363"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>SİGORTACILIK VE ÖZEL EMEKLİLİK</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#37"/>
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>Değerlendirme</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#371"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>DEVLET DESTEKLERİ</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#38"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Siyasetin Etkisi</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml"/>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>SİYASET VE EKONOMİ</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml#41"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>SİYASET, BÜROKRASİ VE PİYASA</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml#42"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>İlgili Web Siteleri</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Kaynakça</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml#6"/>
+    </navPoint>
+  </navMap>
+</ncx>

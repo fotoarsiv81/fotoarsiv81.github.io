@@ -1,0 +1,60 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Perkins, John">John Perkins</dc:creator>
+<dc:publisher>April Yayıncılık</dc:publisher>
+    <meta content="4.0" name="calibre:series_index"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <dc:description>&lt;div&gt;&lt;p metrikaid_0.4117923312603327="57"&gt;&lt;em metrikaid_0.4117923312603327="58"&gt;Üzerine düşeni yapmalısın!&lt;/em&gt;&lt;/p&gt; &lt;p metrikaid_0.4117923312603327="56"&gt;Sistem kontrolden çıktı.&lt;/p&gt; &lt;p metrikaid_0.4117923312603327="55"&gt;Yeryüzünün insan ve doğal kaynaklarını milletlerin seçtiği hükümetler yönetmiyor.&lt;/p&gt; &lt;p metrikaid_0.4117923312603327="46"&gt;CEO’lar yönetiyor.&lt;/p&gt; &lt;p metrikaid_0.4117923312603327="54"&gt;O hükümetleri, medyayı, akademileri, sivil toplum örgütlerini yönettikleri gibi.&lt;/p&gt; &lt;p metrikaid_0.4117923312603327="53"&gt;Açlığın, cehaletin, savaşların, adaletsizliğin tam ortasında hepimiz düzenin birer parçasıyız.&lt;/p&gt; &lt;p metrikaid_0.4117923312603327="52"&gt;Kabul etmediğimiz gerçek ise şu: Sürekli eleştirdiğimiz sistemin ‘tüketici’ olarak vazgeçilmeziyiz.&lt;/p&gt; &lt;p metrikaid_0.4117923312603327="51"&gt;Büyük komplo teorilerini bir kenara bırakıp sisteme ağırlığımızı koymamızın zamanı geldi.&lt;/p&gt; &lt;p metrikaid_0.4117923312603327="50"&gt;Forbes 500 listesini insana, doğaya, hayata karşı adil şirketlerle, organizasyonlarla, örgütlerle dolduralım.&lt;/p&gt; &lt;p metrikaid_0.4117923312603327="47"&gt;Bir Ekonomik Tetikçinin İtirafları ile tüm dünyayı büyük uykudan uyandıran John Perkins, önceki kitaplarında ve Zeitgeist’te anlattıklarını son yılların gerçekleriyle birleştiriyor. Büyük Resim’i önümüze koyuyor. Gerçekçi, hayata geçirilmiş ve geçirilebilir çözümler öneriyor.&lt;/p&gt; &lt;p metrikaid_0.4117923312603327="48"&gt;&lt;em metrikaid_0.4117923312603327="49"&gt;Kafesin anahtarı kafes’in içinde.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <meta content="Bir Ekonomik Tetikçinin İtirafları" name="calibre:series"/>
+    <meta content="Kafes" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2015-12-07T22:00:00+00:00</dc:date>
+    <meta content="2015-09-29T11:44:45.796000+00:00" name="calibre:timestamp"/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">6ea6b60b-9d98-49bf-ad9e-5bafc4e19d59</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2015-12-07</dc:date>
+  <dc:title>Kafes</dc:title>
+<dc:subject>Araştırma</dc:subject>
+<dc:subject>Ekonomi</dc:subject>
+<dc:subject>Dış Poliitika</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;John Perkins&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">02c1fb46-9ce5-4a97-89bd-d6801021bc2e</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789756006702</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/main-1.png" id="id1" media-type="image/png"/>
+    <item href="Text/main-1.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Text/main-2.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Images/main-3.png" id="id3" media-type="image/png"/>
+    <item href="Text/main-3.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Images/main-5.png" id="id5" media-type="image/png"/>
+    <item href="Text/main-5.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Images/main-6.png" id="id6" media-type="image/png"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

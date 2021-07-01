@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="D99C4522-3102-4E5D-8C6C-77BB6BC27081" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bonobo ve Ateist</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İthaf</text>
+      </navLabel>
+      <content src="Text/ithaf.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>1 Dünyevi Zevkler</text>
+      </navLabel>
+      <content src="Text/01.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Dalai Lama’nın Kaplumbağası</text>
+        </navLabel>
+        <content src="Text/01.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Anneyi Selamlamak</text>
+        </navLabel>
+        <content src="Text/01.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Ateist Açmazı</text>
+        </navLabel>
+        <content src="Text/01.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>2 İyiliğin Açıklaması</text>
+      </navLabel>
+      <content src="Text/02.xhtml"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Genetik Açıdan</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Buldoğun Çıkmaz Sokağı</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Bir Tuvalet Kurbağası Olarak Hayatım</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Bir Dolu Hata</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>İyiliğin Hazzı</text>
+        </navLabel>
+        <content src="Text/02.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>3 Soyağacındaki Bonobolar</text>
+      </navLabel>
+      <content src="Text/03.xhtml"/>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Uzun Vedalaşma</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Bonobolar, Sol ve Sağ</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Şehvet Cenneti</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Kızların Kardeşliği Güçlüdür</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Empatik Bir Beyin</text>
+        </navLabel>
+        <content src="Text/03.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>4 Tanrı Öldü mü Yoksa Komaya mı Girdi?</text>
+      </navLabel>
+      <content src="Text/04.xhtml"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Dinimi Kaybediyorum</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Seri Dogmatizm</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Guguklu Saatin İçindeki Kuş Pisliği</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Darwinciler Bir Darwin Ödülü Hak Ediyor</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Bir Şeycilik</text>
+        </navLabel>
+        <content src="Text/04.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>5 İyi Maymun Meseli</text>
+      </navLabel>
+      <content src="Text/05.xhtml"/>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Başkasının iyiliği</text>
+        </navLabel>
+        <content src="Text/05.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Georgia’nın Minnettarlığı</text>
+        </navLabel>
+        <content src="Text/05.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Beden Bedene Empati</text>
+        </navLabel>
+        <content src="Text/05.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Bir Fare Tarafından Kurtarılmak</text>
+        </navLabel>
+        <content src="Text/05.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Ötekinin Bakış Açısı</text>
+        </navLabel>
+        <content src="Text/05.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>6 On Emir Fazla</text>
+      </navLabel>
+      <content src="Text/06.xhtml"/>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Kaypak Serseri</text>
+        </navLabel>
+        <content src="Text/06.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Bire Bir Ahlak</text>
+        </navLabel>
+        <content src="Text/06.xhtml#sigil_toc_id_31"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>“Böyledir” “Böyle Olmalı”yla Buluştuğunda</text>
+        </navLabel>
+        <content src="Text/06.xhtml#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Dünyadaki Cehennem</text>
+        </navLabel>
+        <content src="Text/06.xhtml#sigil_toc_id_33"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Topluluk Yararı</text>
+        </navLabel>
+        <content src="Text/06.xhtml#sigil_toc_id_34"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Sudaki Prozac</text>
+        </navLabel>
+        <content src="Text/06.xhtml#sigil_toc_id_35"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Hizaya Gelmek</text>
+        </navLabel>
+        <content src="Text/06.xhtml#sigil_toc_id_36"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>7 Tanrı Boşluğu</text>
+      </navLabel>
+      <content src="Text/07.xhtml"/>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Hayat Memat</text>
+        </navLabel>
+        <content src="Text/07.xhtml#sigil_toc_id_38"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Yağmurda Dans</text>
+        </navLabel>
+        <content src="Text/07.xhtml#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Yarını Düşünmemek</text>
+        </navLabel>
+        <content src="Text/07.xhtml#sigil_toc_id_40"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Freud’un Tırsaklığı</text>
+        </navLabel>
+        <content src="Text/07.xhtml#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Dikkatli Bir Göz</text>
+        </navLabel>
+        <content src="Text/07.xhtml#sigil_toc_id_42"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>8 Aşağıdan Yukarı Ahlak</text>
+      </navLabel>
+      <content src="Text/08.xhtml"/>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Mütevazı Başlangıç</text>
+        </navLabel>
+        <content src="Text/08.xhtml#sigil_toc_id_44"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Bonobo ve Ateist</text>
+        </navLabel>
+        <content src="Text/08.xhtml#sigil_toc_id_45"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Teşekkür</text>
+      </navLabel>
+      <content src="Text/tesekkur.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Kaynakça</text>
+      </navLabel>
+      <content src="Text/kaynaklar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/notlar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Resimler</text>
+      </navLabel>
+      <content src="Text/r2.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

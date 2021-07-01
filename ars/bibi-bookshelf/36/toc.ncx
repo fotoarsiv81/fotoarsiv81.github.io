@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="ef0036d1-1dc3-48d8-9fd6-337e1162a7ed" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>İnternet Bağımlılığı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="7b50ef08-05f0-4513-850f-06b265c495dd" playOrder="1">
+      <navLabel>
+        <text>I WWW BİR YAŞAM</text>
+      </navLabel>
+      <content src="internet_split_002.html"/>
+      <navPoint id="b9f6b208-f6d1-437a-87a8-545011d3334f" playOrder="2">
+        <navLabel>
+          <text>Sanalizm</text>
+        </navLabel>
+        <content src="internet_split_003.html"/>
+      </navPoint>
+      <navPoint id="bb7a4553-0000-452a-b026-6c4f09d62476" playOrder="3">
+        <navLabel>
+          <text>İnternetin Büyüsü!</text>
+        </navLabel>
+        <content src="internet_split_004.html"/>
+      </navPoint>
+      <navPoint id="5c0af149-f7d3-4156-93d3-ffa568663cef" playOrder="4">
+        <navLabel>
+          <text>Sanal Yaşamın Farklı Biçimleri</text>
+        </navLabel>
+        <content src="internet_split_005.html"/>
+      </navPoint>
+      <navPoint id="037e8fac-71e9-4d6b-af68-c80baa590cab" playOrder="5">
+        <navLabel>
+          <text>Oyunlar</text>
+        </navLabel>
+        <content src="internet_split_006.html"/>
+      </navPoint>
+      <navPoint id="1e564a08-064f-4bb5-acb4-7d123df8fc60" playOrder="6">
+        <navLabel>
+          <text>İnternet Kafeler</text>
+        </navLabel>
+        <content src="internet_split_007.html"/>
+      </navPoint>
+      <navPoint id="7daf18e7-d857-487d-bb5a-068b617ed3b6" playOrder="7">
+        <navLabel>
+          <text>Sanal İlişki</text>
+        </navLabel>
+        <content src="internet_split_008.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="208b4f80-9ad1-475a-aecb-7c23045157aa" playOrder="8">
+      <navLabel>
+        <text>II İNTERNET VE BİLGİSAYAR BAĞIMLILIĞI</text>
+      </navLabel>
+      <content src="internet_split_009.html"/>
+      <navPoint id="7d0218e3-2469-424a-8ca0-c9a3cc778c2e" playOrder="9">
+        <navLabel>
+          <text>İnternetin Yarattığı Sorunlar</text>
+        </navLabel>
+        <content src="internet_split_010.html"/>
+      </navPoint>
+      <navPoint id="d59d0ea0-3e06-448b-b6ae-d4d202f3b763" playOrder="10">
+        <navLabel>
+          <text>İnternet ve Bilgisayar Bağımlılığı</text>
+        </navLabel>
+        <content src="internet_split_011.html"/>
+      </navPoint>
+      <navPoint id="82a9423a-001a-4e2f-8714-94c93300d7f0" playOrder="11">
+        <navLabel>
+          <text>Bağımlılık Nasıl Gelişiyor?</text>
+        </navLabel>
+        <content src="internet_split_012.html"/>
+      </navPoint>
+      <navPoint id="ccb32c62-a051-45c3-8cbe-4b04065ea70f" playOrder="12">
+        <navLabel>
+          <text>Bağımlılığın Tedavisi</text>
+        </navLabel>
+        <content src="internet_split_013.html"/>
+      </navPoint>
+      <navPoint id="2ba684af-a180-4120-81e3-643a6d8015e7" playOrder="13">
+        <navLabel>
+          <text>Bağımlılar İçin "Özgürlük" Reçetesi</text>
+        </navLabel>
+        <content src="internet_split_014.html"/>
+      </navPoint>
+      <navPoint id="8278ac27-c524-4d45-940b-7a301eb644a9" playOrder="14">
+        <navLabel>
+          <text>Eşler İçin Bağımlıyla Yaşama Kılavuzu</text>
+        </navLabel>
+        <content src="internet_split_019.html"/>
+      </navPoint>
+      <navPoint id="f8d350f4-82fc-4033-a424-4d3de35dfc94" playOrder="15">
+        <navLabel>
+          <text>Ebeveynler İçin Yol Haritası</text>
+        </navLabel>
+        <content src="internet_split_020.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="779acd9f-76bd-47f3-81e8-b8c16c915c3d" playOrder="16">
+      <navLabel>
+        <text>Kapatmadan Önce...</text>
+      </navLabel>
+      <content src="internet_split_021.html"/>
+    </navPoint>
+    <navPoint id="f9827d82-279b-4572-889a-6d65421f690f" playOrder="17">
+      <navLabel>
+        <text>Kaynakça</text>
+      </navLabel>
+      <content src="internet_split_022.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

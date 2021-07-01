@@ -1,0 +1,134 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Waal, Frans de">Frans de Waal</dc:creator>
+<dc:identifier id="BookID" opf:scheme="UUID">D99C4522-3102-4E5D-8C6C-77BB6BC27081</dc:identifier>
+    <dc:description>&lt;i&gt;İçimizdeki Maymun&lt;/i&gt;'da insan doğası hakkındaki önyargıları altüst eden de Waal, bu kez de gözlemlerini evrimci biyoloji ve ahlak felsefesi bağlamına taşıyarak eşsiz bir argüman inşa ediyor. İnsan ahlakı denilen şeyin gökten zembille inmediğini, "içten geldiğini" savunuyor: "Ahlaki davranış ne dinle başlamıştır, ne de dinle biter; evrimin ürünüdür." Hayvanlarla aramızdaki bağlar üzerinde duran de Waal, ahlakımızı aşağıdan yukarı doğru açıklamaya çalışıyor. Dinin ahlak üzerindeki rolünün sonradan gelen bir rol olduğunu, işbirliği ve empati gibi doğal içgüdülerimize ek olarak ortaya çıktığını öne sürüyor. Ve bu bağlamda, günümüzde dinin toplumun işleyişi açısından nasıl bir rol oynadığını sorguluyor.</dc:description>
+    <dc:source>The Bonobo and the Atheist</dc:source>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:date>2016-05-11T21:00:00+00:00</dc:date>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta content="Bonobo ve Ateist" name="calibre:title_sort"/>
+    <meta content="{&quot;Frans de Waal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover.jpg"/>
+  <dc:title>Bonobo ve Ateist</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Popüler Bilim</dc:subject>
+<dc:subject>Logolu</dc:subject>
+<dc:subject>Bilim</dc:subject>
+<dc:contributor opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">60e1c12a-e903-47ce-8c68-d1f9398e751f</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753421065</dc:identifier>
+<dc:identifier opf:scheme="UUID">D99C4522-3102-4E5D-8C6C-77BB6BC27081</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.xhtml" id="ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="x07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/08.xhtml" id="x08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/tesekkur.xhtml" id="tesekkur.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kaynaklar.xhtml" id="kaynaklar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notlar.xhtml" id="notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/r1.xhtml" id="r1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/r2.xhtml" id="r2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/r3.xhtml" id="r3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/r4.xhtml" id="r4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/r5.xhtml" id="r5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/r6.xhtml" id="r6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/r7.xhtml" id="r7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/r8.xhtml" id="r8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/r9.xhtml" id="r9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Images/00004.jpeg" id="x00004.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00005.jpeg" id="x00005.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00006.jpeg" id="x00006.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00007.jpeg" id="x00007.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00008.jpeg" id="x00008.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00009.jpeg" id="x00009.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00010.jpeg" id="x00010.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00011.jpeg" id="x00011.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00012.jpeg" id="x00012.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00013.jpeg" id="x00013.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00014.jpeg" id="x00014.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00015.jpeg" id="x00015.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00016.jpeg" id="x00016.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00017.jpeg" id="x00017.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00018.jpeg" id="x00018.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00019.jpeg" id="x00019.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00020.jpeg" id="x00020.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00021.jpeg" id="x00021.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00022.jpeg" id="x00022.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00023.jpeg" id="x00023.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00024.jpeg" id="x00024.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00025.jpeg" id="x00025.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00026.jpeg" id="x00026.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00027.jpeg" id="x00027.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00028.jpeg" id="x00028.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00029.jpeg" id="x00029.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00030.jpeg" id="x00030.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00031.jpeg" id="x00031.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00032.jpeg" id="x00032.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00033.jpeg" id="x00033.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00034.jpeg" id="x00034.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00035.jpeg" id="x00035.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00036.jpeg" id="x00036.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00037.jpeg" id="x00037.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00038.jpeg" id="x00038.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00039.jpeg" id="x00039.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00040.jpeg" id="x00040.jpeg" media-type="image/jpeg"/>
+    <item href="Images/00041.jpeg" id="x00041.jpeg" media-type="image/jpeg"/>
+    <item href="Images/bahce.jpg" id="bahce.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/line.jpg" id="line.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.png" id="logo.png" media-type="image/png"/>
+    <item href="Images/logometis.jpg" id="logometis.jpg" media-type="image/jpeg"/>
+    <item href="Fonts/TradeGothicTR.otf" id="TradeGothicTR.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/GillSansStd.ttf" id="GillSansStd.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/CaeciliaLTStd-Italic.otf" id="CaeciliaLTStd-Italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/CaeciliaLTStd-Roman.otf" id="CaeciliaLTStd-Roman.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/ekdg-logo.xhtml" id="ekdg-logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/ekdg-logo.png" id="ekdg-logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ekdg-logo.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="tesekkur.xhtml"/>
+    <itemref idref="kaynaklar.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+    <itemref idref="r1.xhtml"/>
+    <itemref idref="r2.xhtml"/>
+    <itemref idref="r3.xhtml"/>
+    <itemref idref="r4.xhtml"/>
+    <itemref idref="r5.xhtml"/>
+    <itemref idref="r6.xhtml"/>
+    <itemref idref="r7.xhtml"/>
+    <itemref idref="r8.xhtml"/>
+    <itemref idref="r9.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

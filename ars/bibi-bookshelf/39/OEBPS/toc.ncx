@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:692e9e95-db83-4790-981d-c6ff222c0d10" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Makroekonomi (Türkiyeden Örneklerle)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM Ekonomiye Giriş</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>1. EKONOMİNİN KONUSU VE TARİHÇESİ</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#1"/>
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>1.1. Ekonomi Biliminin Konusu</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#11"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>1.2. Ekonomi Biliminin Özellikleri</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#12"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>1.3. Ekonominin Gelişim Süreci</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#13"/>
+          <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+              <text>1.3.1. Piyasa Öncesinde Ekonomi</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_1"/>
+          </navPoint>
+          <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+              <text>1.3.3. Piyasa Ekonomisi</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>1.4. Türkiye Ekonomisinin Kısa Geçmişi</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#14"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>MERKANTİLİST EKONOMİK YAKLAŞIM</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#mey"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>2. EKONOMİNİN ÇERÇEVESİ</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#2"/>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>2.1. Bazı Önemli Konular</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#21"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>2.2 Temel Kavramlar</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#22"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>2.3. Ekonomide Kesimler</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#23"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>2.4. Ekonominin Politikayla İlişkisi ve Ekonomi Politikası</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#24"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>FİZYOKRATLARIN EKONOMİYE YAKLAŞIMI</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#fey"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>3. GEOMETRİK GÖSTERİM VE FONKSİYONEL İLİŞKİLER</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#3"/>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>3.1. Koordinat Sistemi ve Ekonomide Kullanılışı</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#31"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>3.2. Zaman Serisi ve Ekonomide Kullanılışı</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#32"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>3.3. Fonksiyonel İlişkiler</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#33"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>KLASİK EKONOMİ TEORİSİ</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#ket"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>4. MAKRO ANALİZİN MİKRO TEMELLERİ</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#4"/>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>4.1. Ekonomide Karar Alıcılar</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#41"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>4.2. Piyasa</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#42"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>4.3. Arz (S)</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#43"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>4.4. Talep (D)</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#44"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>4.5. Piyasa Dengesi (S = D)</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#45"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>4.6. Piyasa Ekonomisi ve Katılıklar</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#46"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>NEOKLASİK EKONOMİ TEORİSİ</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#net"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM Makroekonomik Denge</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>1. DÖRT DENKLEM</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#1"/>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>1.1. Y = GSYH</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#11"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>1.2. GSYH’nin Hesaplanma Şekilleri</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#12"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>1.3. Ekonominin Parasal ve Reel Dengesi</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#13"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>2. ÜRETİM YA DA Y = Ap + Ip + Sp + O</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#2"/>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>2.1. Toplam Üretim Fonksiyonu</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#21"/>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>2.2. Üretim İmkânları Eğrisi</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>2.3. Üretim Kesimleri ve Payları</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#23"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>2.4. Ap = Tarımsal Üretim</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#24"/>
+          <navPoint id="navPoint-40" playOrder="40">
+            <navLabel>
+              <text>2.4.1. Tarım Kesimi</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_4"/>
+          </navPoint>
+          <navPoint id="navPoint-41" playOrder="41">
+            <navLabel>
+              <text>2.4.2. Tarım Kesimi Üretim Değeri</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_5"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>2.5. Ip = Sanayi Üretimi</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#25"/>
+          <navPoint id="navPoint-43" playOrder="43">
+            <navLabel>
+              <text>2.5.1. Sanayi Kesimi</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_6"/>
+          </navPoint>
+          <navPoint id="navPoint-44" playOrder="44">
+            <navLabel>
+              <text>2.5.2. Sanayi Kesimi Üretim Değeri</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_7"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+          <navLabel>
+            <text>2.6. Sp = Hizmet Üretimi</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#26"/>
+          <navPoint id="navPoint-46" playOrder="46">
+            <navLabel>
+              <text>2.6.1. Hizmet Kesimi</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_8"/>
+          </navPoint>
+          <navPoint id="navPoint-47" playOrder="47">
+            <navLabel>
+              <text>2.6.2. Hizmet Kesimi Üretim Değeri</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_9"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>2.7. Dolaylı Ölçülen Mali Aracılık Hizmetleri, Vergi ve Sübvansiyonlar</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#27"/>
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>2.8. Toplam Üretim Fonksiyonu</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#28"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>2.9. Üretim Kesimlerine İlişkin Parçaların Bir Araya Getirilmesi</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#29"/>
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+          <navLabel>
+            <text>SOSYALİST EKONOMİ TEORİSİ</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#set"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>3. HARCAMALAR YA DA Y = C + I + G + (X - M)</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#3"/>
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>3.1. C = Tüketim</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#31"/>
+          <navPoint id="navPoint-54" playOrder="54">
+            <navLabel>
+              <text>3.1.1. Tüketim ve Tüketici</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_10"/>
+          </navPoint>
+          <navPoint id="navPoint-55" playOrder="55">
+            <navLabel>
+              <text>3.1.2. Tüketim Eğilimi</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_11"/>
+          </navPoint>
+          <navPoint id="navPoint-56" playOrder="56">
+            <navLabel>
+              <text>3.1.3. Tüketim Fonksiyonu</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_12"/>
+          </navPoint>
+          <navPoint id="navPoint-57" playOrder="57">
+            <navLabel>
+              <text>3.1.4. Tüketim Harcamalarıyla İlgili Hipotezler</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_13"/>
+          </navPoint>
+          <navPoint id="navPoint-58" playOrder="58">
+            <navLabel>
+              <text>3.1.5. Türkiye’de Tüketim Harcamaları</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_14"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-59" playOrder="59">
+          <navLabel>
+            <text>3.2. S = Tasarruf</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#32"/>
+          <navPoint id="navPoint-60" playOrder="60">
+            <navLabel>
+              <text>3.2.1. Tasarrufan Dayanağı</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_15"/>
+          </navPoint>
+          <navPoint id="navPoint-61" playOrder="61">
+            <navLabel>
+              <text>3.2.2. Tasarruf Eğilimi</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_16"/>
+          </navPoint>
+          <navPoint id="navPoint-62" playOrder="62">
+            <navLabel>
+              <text>3.2.3. Tasarruf Fonksiyonu</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_17"/>
+          </navPoint>
+          <navPoint id="navPoint-63" playOrder="63">
+            <navLabel>
+              <text>3.2.4. Tasarrufla İlgili Çeşitli Konular</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_18"/>
+          </navPoint>
+          <navPoint id="navPoint-64" playOrder="64">
+            <navLabel>
+              <text>3.2.5. Türkiye’de Tasarruflar</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_19"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-65" playOrder="65">
+          <navLabel>
+            <text>3.3. I=Yatırım</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#33"/>
+          <navPoint id="navPoint-66" playOrder="66">
+            <navLabel>
+              <text>3.3.1. Yatırım Kararı</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_20"/>
+          </navPoint>
+          <navPoint id="navPoint-67" playOrder="67">
+            <navLabel>
+              <text>3.3.2. Sermayenin Marjinal Etkinliği</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_21"/>
+          </navPoint>
+          <navPoint id="navPoint-68" playOrder="68">
+            <navLabel>
+              <text>3.3.3. Yatırım Çeşitleri</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_22"/>
+          </navPoint>
+          <navPoint id="navPoint-69" playOrder="69">
+            <navLabel>
+              <text>3.3.4. Yatırım Çarpanı</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_23"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-70" playOrder="70">
+          <navLabel>
+            <text>3.3.5. Türkiye’de Yatırımlar</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#sigil_toc_id_24"/>
+        </navPoint>
+        <navPoint id="navPoint-71" playOrder="71">
+          <navLabel>
+            <text>3.4. Kamu Kesimi Dengesi</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#34"/>
+          <navPoint id="navPoint-72" playOrder="72">
+            <navLabel>
+              <text>3.4.1. Kamu Giderleri (G)</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_25"/>
+          </navPoint>
+          <navPoint id="navPoint-73" playOrder="73">
+            <navLabel>
+              <text>3.4.2. Kamu Gelirleri (T)</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_26"/>
+          </navPoint>
+          <navPoint id="navPoint-74" playOrder="74">
+            <navLabel>
+              <text>3.4.3. Bütçe (T - G)</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_27"/>
+          </navPoint>
+          <navPoint id="navPoint-75" playOrder="75">
+            <navLabel>
+              <text>3.4.4. Borçlanarak Finansman</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_28"/>
+          </navPoint>
+          <navPoint id="navPoint-76" playOrder="76">
+            <navLabel>
+              <text>3.4.5. Para Basarak Finansman</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_29"/>
+          </navPoint>
+          <navPoint id="navPoint-77" playOrder="77">
+            <navLabel>
+              <text>3.4.6. Kamu Giderleri Çarpanı ve Vergi Çarpanı</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_30"/>
+          </navPoint>
+          <navPoint id="navPoint-78" playOrder="78">
+            <navLabel>
+              <text>3.4.7. Türkiye’de Kamu Kesimi Finansal Dengesi</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_31"/>
+          </navPoint>
+          <navPoint id="navPoint-79" playOrder="79">
+            <navLabel>
+              <text>3.4.8. Türkiye’de Kamu Kesimi İç ve Dış Borçlanması</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_32"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-80" playOrder="80">
+          <navLabel>
+            <text>3.5. X - M = Dış Ekonomik Denge</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#35"/>
+          <navPoint id="navPoint-81" playOrder="81">
+            <navLabel>
+              <text>3.5.1. Dış Ekonomik İlişkiler</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_33"/>
+          </navPoint>
+          <navPoint id="navPoint-82" playOrder="82">
+            <navLabel>
+              <text>3.5.2. Ödemeler Dengesi</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_34"/>
+          </navPoint>
+          <navPoint id="navPoint-83" playOrder="83">
+            <navLabel>
+              <text>3.5.3. Ödemeler Dengesinin Alt Dengeleri</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_35"/>
+          </navPoint>
+          <navPoint id="navPoint-84" playOrder="84">
+            <navLabel>
+              <text>3.5.4. Döviz Kurunun Oluşumu</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_36"/>
+          </navPoint>
+          <navPoint id="navPoint-85" playOrder="85">
+            <navLabel>
+              <text>3.5.5. Faizin Dış Borçlanmaya Etkisi</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_37"/>
+          </navPoint>
+          <navPoint id="navPoint-86" playOrder="86">
+            <navLabel>
+              <text>3.5.6. Dış Ticaret Hadleri</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_38"/>
+          </navPoint>
+          <navPoint id="navPoint-87" playOrder="87">
+            <navLabel>
+              <text>3.5.7. Dış Ticaret Çarpanı</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_39"/>
+          </navPoint>
+          <navPoint id="navPoint-88" playOrder="88">
+            <navLabel>
+              <text>3.5.8. Paranın Dış Değer Kaybı ya da Kazancı</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_40"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-89" playOrder="89">
+          <navLabel>
+            <text>3.6. Harcama Parçalarının Bir Araya Getirilmesi</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#36"/>
+          <navPoint id="navPoint-90" playOrder="90">
+            <navLabel>
+              <text>3.6.1. Aritmetik Gösterim</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_41"/>
+          </navPoint>
+          <navPoint id="navPoint-91" playOrder="91">
+            <navLabel>
+              <text>3.6.2. Geometrik Gösterim</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_42"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-92" playOrder="92">
+          <navLabel>
+            <text>KARMA EKONOMİ TEORİSİ</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#ket"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>4. ÜRETİM İLE HARCAMALARIN YA DA ARZ İLE TALEBİN BİR ARAYA GETİRİLMESİ</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#4"/>
+        <navPoint id="navPoint-94" playOrder="94">
+          <navLabel>
+            <text>4.1. Toplam Arz ve Toplam Talep Aritmetiği</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#41"/>
+        </navPoint>
+        <navPoint id="navPoint-95" playOrder="95">
+          <navLabel>
+            <text>4.2. Toplam Arz Toplam Talep Geometrisi</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#42"/>
+        </navPoint>
+        <navPoint id="navPoint-96" playOrder="96">
+          <navLabel>
+            <text>4.3. Makroekonomik Dengenin Bir Başka Görünümü (IS, LM Eğrileri Analizi)</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#43"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>5. FAKTÖR GELİRLERİ YA DA Y = w + r + i + p + o</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#5"/>
+        <navPoint id="navPoint-98" playOrder="98">
+          <navLabel>
+            <text>5.1. Üretim Faktörleri ve Gelirleri</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#51"/>
+        </navPoint>
+        <navPoint id="navPoint-99" playOrder="99">
+          <navLabel>
+            <text>5.2. w = Ücret ve Emek</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#52"/>
+          <navPoint id="navPoint-100" playOrder="100">
+            <navLabel>
+              <text>5.2.1. Ücret</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_43"/>
+          </navPoint>
+          <navPoint id="navPoint-101" playOrder="101">
+            <navLabel>
+              <text>5.2.2. İşsizlik</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_44"/>
+          </navPoint>
+          <navPoint id="navPoint-102" playOrder="102">
+            <navLabel>
+              <text>5.2.3. İşgücü Verimliliği</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_45"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-103" playOrder="103">
+          <navLabel>
+            <text>5.3. r = Rant ve Doğal Kaynaklar</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#53"/>
+        </navPoint>
+        <navPoint id="navPoint-104" playOrder="104">
+          <navLabel>
+            <text>5.4. i = Faiz ve Sermaye</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#54"/>
+        </navPoint>
+        <navPoint id="navPoint-105" playOrder="105">
+          <navLabel>
+            <text>5.5. p = Kâr ve Girişimcilik</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#55"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>6. PARASAL DENGE YA DA MV = PQ</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#6"/>
+        <navPoint id="navPoint-107" playOrder="107">
+          <navLabel>
+            <text>6.1. M = Para ve Para Arzı</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#61"/>
+          <navPoint id="navPoint-108" playOrder="108">
+            <navLabel>
+              <text>6.1.1. Para</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_46"/>
+          </navPoint>
+          <navPoint id="navPoint-109" playOrder="109">
+            <navLabel>
+              <text>6.1.2. Para Arzı</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_47"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-110" playOrder="110">
+          <navLabel>
+            <text>6.2. V = Para Talebi ve Paranın Dolanım Hızı</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#62"/>
+          <navPoint id="navPoint-111" playOrder="111">
+            <navLabel>
+              <text>6.2.1. Para Talebi</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_48"/>
+          </navPoint>
+          <navPoint id="navPoint-112" playOrder="112">
+            <navLabel>
+              <text>6.2.2. Paranın Dolanım Hızı</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_49"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-113" playOrder="113">
+          <navLabel>
+            <text>6.3. P = Fiyatlar</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#63"/>
+          <navPoint id="navPoint-114" playOrder="114">
+            <navLabel>
+              <text>6.3.1. Fiyatın Anlamı</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_50"/>
+          </navPoint>
+          <navPoint id="navPoint-115" playOrder="115">
+            <navLabel>
+              <text>6.3.2. Enflasyon</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_51"/>
+          </navPoint>
+          <navPoint id="navPoint-116" playOrder="116">
+            <navLabel>
+              <text>6.3.3. Enflasyon ve İşsizlik</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_52"/>
+          </navPoint>
+          <navPoint id="navPoint-117" playOrder="117">
+            <navLabel>
+              <text>6.3.4. Deflasyon</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_53"/>
+          </navPoint>
+          <navPoint id="navPoint-118" playOrder="118">
+            <navLabel>
+              <text>6.3.5. Stagflasyon ve Slumpflasyon</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_54"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-119" playOrder="119">
+          <navLabel>
+            <text>6.4. Q = Üretim</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#64"/>
+        </navPoint>
+        <navPoint id="navPoint-120" playOrder="120">
+          <navLabel>
+            <text>6.5. Parasal Dengenin Özü</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#65"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>7. DÖRT DENKLEM BİRLİKTE</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#7"/>
+        <navPoint id="navPoint-122" playOrder="122">
+          <navLabel>
+            <text>PARASALCI EKONOMİ YAKLAŞIMI</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#pey"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>8. BEŞİNCİ DENKLEM: (S - I) + (T - G) = (X - M)</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#8"/>
+        <navPoint id="navPoint-124" playOrder="124">
+          <navLabel>
+            <text>8.1. Beşinci Denklemin Önemi</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#81"/>
+        </navPoint>
+        <navPoint id="navPoint-125" playOrder="125">
+          <navLabel>
+            <text>8.2. Türkiye’de Makroekonomik Denge</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#82"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>9. MAKROEKONOMİK DENGEDE BOZULMA: IS-LM ANALİZİ</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#9"/>
+        <navPoint id="navPoint-127" playOrder="127">
+          <navLabel>
+            <text>9.1. Ekonominin Genel Dengesinde Bozulma</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#91"/>
+        </navPoint>
+        <navPoint id="navPoint-128" playOrder="128">
+          <navLabel>
+            <text>9.2. IS, LM Dengesi ve Dönemler</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#92"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-129" playOrder="129">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM Ekonomik Büyüme, Beklentiler ve Gelir Dağılımı</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>1. EKONOMİK BÜYÜME</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#1"/>
+        <navPoint id="navPoint-131" playOrder="131">
+          <navLabel>
+            <text>1.1. Ekonomik Büyümenin Anlamı</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#11"/>
+        </navPoint>
+        <navPoint id="navPoint-132" playOrder="132">
+          <navLabel>
+            <text>1.2. Büyümeyle İlgili Bazı Konular</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#12"/>
+        </navPoint>
+        <navPoint id="navPoint-133" playOrder="133">
+          <navLabel>
+            <text>1.3. Büyüme Teorisi</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#13"/>
+          <navPoint id="navPoint-134" playOrder="134">
+            <navLabel>
+              <text>1.3.1. Cobb-Douglas Üretim Fonksiyonu</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_55"/>
+          </navPoint>
+          <navPoint id="navPoint-135" playOrder="135">
+            <navLabel>
+              <text>1.3.2. Harrod-Domar Büyüme Modeli</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_56"/>
+          </navPoint>
+          <navPoint id="navPoint-136" playOrder="136">
+            <navLabel>
+              <text>1.3.3. Solow Modeli</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_57"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>2. EKONOMİDE BEKLENTİLERİN ÖNEMİ</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#2"/>
+        <navPoint id="navPoint-138" playOrder="138">
+          <navLabel>
+            <text>2.1. Beklentilerle İlgili Yaklaşımlar</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#21"/>
+        </navPoint>
+        <navPoint id="navPoint-139" playOrder="139">
+          <navLabel>
+            <text>2.2. Beklentilerin Biçimlenmesi</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#22"/>
+          <navPoint id="navPoint-140" playOrder="140">
+            <navLabel>
+              <text>2.2.1. Durağan Beklentiler</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_58"/>
+          </navPoint>
+          <navPoint id="navPoint-141" playOrder="141">
+            <navLabel>
+              <text>2.2.2. Uyarlanmış Beklentiler</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_59"/>
+          </navPoint>
+          <navPoint id="navPoint-142" playOrder="142">
+            <navLabel>
+              <text>2.2.3. Rasyonel Beklentiler</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_60"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-143" playOrder="143">
+          <navLabel>
+            <text>2.3. Beklentilerin İzlenmesi</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#23"/>
+        </navPoint>
+        <navPoint id="navPoint-144" playOrder="144">
+          <navLabel>
+            <text>2.4. Beklentilerin Etkilenmesi</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#24"/>
+        </navPoint>
+        <navPoint id="navPoint-145" playOrder="145">
+          <navLabel>
+            <text>YENİ KLASİK EKONOMİ</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#yke"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>3. GELİR DAĞILIMI</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#3"/>
+        <navPoint id="navPoint-147" playOrder="147">
+          <navLabel>
+            <text>3.1. Gelir Dağılımının Anlamı</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#31"/>
+        </navPoint>
+        <navPoint id="navPoint-148" playOrder="148">
+          <navLabel>
+            <text>3.2. Gelir Dağılımı Eşitsizliğinin Ölçülmesi</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#32"/>
+        </navPoint>
+        <navPoint id="navPoint-149" playOrder="149">
+          <navLabel>
+            <text>3.3. Türkiye’de Gelir Dağılımı</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#33"/>
+        </navPoint>
+        <navPoint id="navPoint-150" playOrder="150">
+          <navLabel>
+            <text>3.4. Yoksulluk</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#34"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-151" playOrder="151">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM Ekonomi Politikası ve Uygulama</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml"/>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>1. EKONOMİ POLİTİKASI VE KONJONKTÜR DALGALARI</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml#1"/>
+        <navPoint id="navPoint-153" playOrder="153">
+          <navLabel>
+            <text>1.1. Konjonktür Dalgaları</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#11"/>
+        </navPoint>
+        <navPoint id="navPoint-154" playOrder="154">
+          <navLabel>
+            <text>1.2. Ekonomi Politikasıyla Konjonktür Dalgalarının İlgisi</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#12"/>
+        </navPoint>
+        <navPoint id="navPoint-155" playOrder="155">
+          <navLabel>
+            <text>1.3. Konjonktür Dalgasının Dibi</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#13"/>
+        </navPoint>
+        <navPoint id="navPoint-156" playOrder="156">
+          <navLabel>
+            <text>1.4. Bazı Temel Sorunlar</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#14"/>
+        </navPoint>
+        <navPoint id="navPoint-157" playOrder="157">
+          <navLabel>
+            <text>1.5. Ekonomi Okullarının Ekonomi Politikası Görüşleri</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#15"/>
+        </navPoint>
+        <navPoint id="navPoint-158" playOrder="158">
+          <navLabel>
+            <text>1.6. Ekonomi Politikasının Hazırlanması</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#16"/>
+          <navPoint id="navPoint-159" playOrder="159">
+            <navLabel>
+              <text>1.6.1. Genel Açıklamalar</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#sigil_toc_id_61"/>
+          </navPoint>
+          <navPoint id="navPoint-160" playOrder="160">
+            <navLabel>
+              <text>1.6.2. Para Politikası</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#sigil_toc_id_62"/>
+          </navPoint>
+          <navPoint id="navPoint-161" playOrder="161">
+            <navLabel>
+              <text>1.6.3. Maliye Politikası</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#sigil_toc_id_63"/>
+          </navPoint>
+          <navPoint id="navPoint-162" playOrder="162">
+            <navLabel>
+              <text>1.6.4. Dış Ticaret Politikası</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#sigil_toc_id_64"/>
+          </navPoint>
+          <navPoint id="navPoint-163" playOrder="163">
+            <navLabel>
+              <text>1.6.5. Heterodoks Ekonomi Politikası</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#sigil_toc_id_65"/>
+          </navPoint>
+          <navPoint id="navPoint-164" playOrder="164">
+            <navLabel>
+              <text>1.6.6. Arz Yönlü Ekonomi Politikası</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#sigil_toc_id_66"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-165" playOrder="165">
+          <navLabel>
+            <text>1.7. İstikrar Politikası</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#17"/>
+        </navPoint>
+        <navPoint id="navPoint-166" playOrder="166">
+          <navLabel>
+            <text>1.8. Kur Rejiminin Ekonomi Politikasına Etkisi</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#18"/>
+        </navPoint>
+        <navPoint id="navPoint-167" playOrder="167">
+          <navLabel>
+            <text>1.9. Bütün Politikaların Bir Arada Uygulanması</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#19"/>
+        </navPoint>
+        <navPoint id="navPoint-168" playOrder="168">
+          <navLabel>
+            <text>KEYNES Mİ, FRIEDMAN MI?</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#kf"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-169" playOrder="169">
+      <navLabel>
+        <text>BEŞİNCİ BÖLÜM Uygulamada Makroekonomi</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml"/>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>1. GÜNCEL KONULAR</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#1"/>
+        <navPoint id="navPoint-171" playOrder="171">
+          <navLabel>
+            <text>1.1. Dünya Ekonomisinin Görünümü</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#11"/>
+        </navPoint>
+        <navPoint id="navPoint-172" playOrder="172">
+          <navLabel>
+            <text>1.2. Ülkelerin Ekonomik Açıdan Sınıflandırılması</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#12"/>
+        </navPoint>
+        <navPoint id="navPoint-173" playOrder="173">
+          <navLabel>
+            <text>1.3. IMF ve Dünya Ekonomisi</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#13"/>
+        </navPoint>
+        <navPoint id="navPoint-174" playOrder="174">
+          <navLabel>
+            <text>1.4. Uluslararası Ekonomik İşbirliği</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#14"/>
+        </navPoint>
+        <navPoint id="navPoint-175" playOrder="175">
+          <navLabel>
+            <text>1.5. Ülkelerin Kredi Değerliliği (Reyting)</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#15"/>
+        </navPoint>
+        <navPoint id="navPoint-176" playOrder="176">
+          <navLabel>
+            <text>1.6. Sermaye Hareketleri ve Sıcak Para</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#16"/>
+        </navPoint>
+        <navPoint id="navPoint-177" playOrder="177">
+          <navLabel>
+            <text>1.7. Üçüz Açık</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#17"/>
+        </navPoint>
+        <navPoint id="navPoint-178" playOrder="178">
+          <navLabel>
+            <text>1.8. Enflasyon Hedeflemesi</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#18"/>
+        </navPoint>
+        <navPoint id="navPoint-179" playOrder="179">
+          <navLabel>
+            <text>1.9. Faiz Dışı Fazla</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#19"/>
+        </navPoint>
+        <navPoint id="navPoint-180" playOrder="180">
+          <navLabel>
+            <text>1.10. Borç Yükü</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#1a"/>
+        </navPoint>
+        <navPoint id="navPoint-181" playOrder="181">
+          <navLabel>
+            <text>1.11. Kamu Kesimi İç Borç Yükünün Sürdürülebilirliği</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#1b"/>
+        </navPoint>
+        <navPoint id="navPoint-182" playOrder="182">
+          <navLabel>
+            <text>1.12. BRIC Ekonomileri ve Decoupling Hipotezi</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#1c"/>
+        </navPoint>
+        <navPoint id="navPoint-183" playOrder="183">
+          <navLabel>
+            <text>1.13. Döviz Rezervi</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#1d"/>
+        </navPoint>
+        <navPoint id="navPoint-184" playOrder="184">
+          <navLabel>
+            <text>1.14. Özelleştirme</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#1e"/>
+        </navPoint>
+        <navPoint id="navPoint-185" playOrder="185">
+          <navLabel>
+            <text>1.15. Kayıt Dışı Ekonomi</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#1f"/>
+        </navPoint>
+        <navPoint id="navPoint-186" playOrder="186">
+          <navLabel>
+            <text>1.16. Petrol, Altın, Metal Fiyatları ve Dolar Arasındaki İlişki</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#1g"/>
+        </navPoint>
+        <navPoint id="navPoint-187" playOrder="187">
+          <navLabel>
+            <text>1.17. Regülasyon ve Deregülasyon</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#1h"/>
+        </navPoint>
+        <navPoint id="navPoint-188" playOrder="188">
+          <navLabel>
+            <text>1.18. Para İkamesi ve Ters Para İkamesi</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#1i"/>
+        </navPoint>
+        <navPoint id="navPoint-189" playOrder="189">
+          <navLabel>
+            <text>1.19. Türkiye Ekonomisinin Görünümü</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#1j"/>
+        </navPoint>
+        <navPoint id="navPoint-190" playOrder="190">
+          <navLabel>
+            <text>1.20. 2008 Küresel Krizi</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#1k"/>
+        </navPoint>
+        <navPoint id="navPoint-191" playOrder="191">
+          <navLabel>
+            <text>YENİ EKONOMİ</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#ye"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-192" playOrder="192">
+        <navLabel>
+          <text>2. NOBEL EKONOMİ ÖDÜLÜ</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#2"/>
+        <navPoint id="navPoint-193" playOrder="193">
+          <navLabel>
+            <text>2.1. Ekonomi Ödülünün Dayanağı</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#21"/>
+        </navPoint>
+        <navPoint id="navPoint-194" playOrder="194">
+          <navLabel>
+            <text>2.2. Ekonomi Ödülünü Alan İktisatçılar ve Çalışmaları</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#22"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-195" playOrder="195">
+      <navLabel>
+        <text>Kaynaklar</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-196" playOrder="196">
+      <navLabel>
+        <text>Ekonomi Sözlüğü</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
