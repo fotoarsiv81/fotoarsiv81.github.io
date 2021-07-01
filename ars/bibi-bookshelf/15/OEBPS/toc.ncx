@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Entelektüelin Kutsal Kitabı</text>
+	</docTitle>
+	<docAuthor>
+		<text>David S. Kidder</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Sigmund Freud </text>
+			</navLabel>
+			<content src="Text/9.xhtml#_idParaDest-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Pyotr İlyiç Çaykovski </text>
+			</navLabel>
+			<content src="Text/9-1.xhtml#_idParaDest-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>Lumière Kardeşler</text>
+			</navLabel>
+			<content src="Text/9-2.xhtml#_idParaDest-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>Komünizm </text>
+			</navLabel>
+			<content src="Text/9-3.xhtml#_idParaDest-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>James Naismith </text>
+			</navLabel>
+			<content src="Text/9-4.xhtml#_idParaDest-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>Coney Adası</text>
+			</navLabel>
+			<content src="Text/9-5.xhtml#_idParaDest-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>Albert Einstein </text>
+			</navLabel>
+			<content src="Text/9-6.xhtml#_idParaDest-7"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>Anna Karenina</text>
+			</navLabel>
+			<content src="Text/9-7.xhtml#_idParaDest-8"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>Scott Joplin</text>
+			</navLabel>
+			<content src="Text/9-8.xhtml#_idParaDest-9"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>D. W. Griffith ve The Birth of a Nation (1915)</text>
+			</navLabel>
+			<content src="Text/9-9.xhtml#_idParaDest-10"/>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>Luddistler </text>
+			</navLabel>
+			<content src="Text/9-10.xhtml#_idParaDest-11"/>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>Cy Young </text>
+			</navLabel>
+			<content src="Text/9-11.xhtml#_idParaDest-12"/>
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>Mahjong</text>
+			</navLabel>
+			<content src="Text/9-12.xhtml#_idParaDest-13"/>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>Pablo Picasso</text>
+			</navLabel>
+			<content src="Text/9-13.xhtml#_idParaDest-14"/>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>William Butler Yeats</text>
+			</navLabel>
+			<content src="Text/9-14.xhtml#_idParaDest-15"/>
+		</navPoint>
+		<navPoint id="navpoint16" playOrder="16">
+			<navLabel>
+				<text>Arnold Schönberg </text>
+			</navLabel>
+			<content src="Text/9-15.xhtml#_idParaDest-16"/>
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>Charlie Chaplin</text>
+			</navLabel>
+			<content src="Text/9-16.xhtml#_idParaDest-17"/>
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>Siyonizm</text>
+			</navLabel>
+			<content src="Text/9-17.xhtml#_idParaDest-18"/>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>Jim Thorpe </text>
+			</navLabel>
+			<content src="Text/9-18.xhtml#_idParaDest-19"/>
+		</navPoint>
+		<navPoint id="navpoint20" playOrder="20">
+			<navLabel>
+				<text>Little Rascals</text>
+			</navLabel>
+			<content src="Text/9-19.xhtml#_idParaDest-20"/>
+		</navPoint>
+		<navPoint id="navpoint21" playOrder="21">
+			<navLabel>
+				<text>Mohandas Gandi</text>
+			</navLabel>
+			<content src="Text/9-20.xhtml#_idParaDest-21"/>
+		</navPoint>
+		<navPoint id="navpoint22" playOrder="22">
+			<navLabel>
+				<text>E. M. Forster </text>
+			</navLabel>
+			<content src="Text/9-21.xhtml#_idParaDest-22"/>
+		</navPoint>
+		<navPoint id="navpoint23" playOrder="23">
+			<navLabel>
+				<text>The Rite of Spring</text>
+			</navLabel>
+			<content src="Text/9-22.xhtml#_idParaDest-23"/>
+		</navPoint>
+		<navPoint id="navpoint24" playOrder="24">
+			<navLabel>
+				<text>Douglas Fairbanks ve Mary Pickford </text>
+			</navLabel>
+			<content src="Text/9-23.xhtml#_idParaDest-24"/>
+		</navPoint>
+		<navPoint id="navpoint25" playOrder="25">
+			<navLabel>
+				<text>Anarşizm</text>
+			</navLabel>
+			<content src="Text/9-24.xhtml#_idParaDest-25"/>
+		</navPoint>
+		<navPoint id="navpoint26" playOrder="26">
+			<navLabel>
+				<text>Ty Cobb</text>
+			</navLabel>
+			<content src="Text/9-25.xhtml#_idParaDest-26"/>
+		</navPoint>
+		<navPoint id="navpoint27" playOrder="27">
+			<navLabel>
+				<text>Bayrak Direği Oturuşu </text>
+			</navLabel>
+			<content src="Text/9-26.xhtml#_idParaDest-27"/>
+		</navPoint>
+		<navPoint id="navpoint28" playOrder="28">
+			<navLabel>
+				<text>Howard Hughes </text>
+			</navLabel>
+			<content src="Text/9-27.xhtml#_idParaDest-28"/>
+		</navPoint>
+		<navPoint id="navpoint29" playOrder="29">
+			<navLabel>
+				<text>D. H. Lawrence</text>
+			</navLabel>
+			<content src="Text/9-28.xhtml#_idParaDest-29"/>
+		</navPoint>
+		<navPoint id="navpoint30" playOrder="30">
+			<navLabel>
+				<text>Irving Berlin</text>
+			</navLabel>
+			<content src="Text/9-29.xhtml#_idParaDest-30"/>
+		</navPoint>
+		<navPoint id="navpoint31" playOrder="31">
+			<navLabel>
+				<text>The Jazz Singer (1927)</text>
+			</navLabel>
+			<content src="Text/9-30.xhtml#_idParaDest-31"/>
+		</navPoint>
+		<navPoint id="navpoint32" playOrder="32">
+			<navLabel>
+				<text>Henry Ford ve T Modeli </text>
+			</navLabel>
+			<content src="Text/9-31.xhtml#_idParaDest-32"/>
+		</navPoint>
+		<navPoint id="navpoint33" playOrder="33">
+			<navLabel>
+				<text>Babe Ruth</text>
+			</navLabel>
+			<content src="Text/9-32.xhtml#_idParaDest-33"/>
+		</navPoint>
+		<navPoint id="navpoint34" playOrder="34">
+			<navLabel>
+				<text>Dans Maratonları</text>
+			</navLabel>
+			<content src="Text/9-33.xhtml#_idParaDest-34"/>
+		</navPoint>
+		<navPoint id="navpoint35" playOrder="35">
+			<navLabel>
+				<text>Salvador Dali </text>
+			</navLabel>
+			<content src="Text/9-34.xhtml#_idParaDest-35"/>
+		</navPoint>
+		<navPoint id="navpoint36" playOrder="36">
+			<navLabel>
+				<text>Carl Sandburg </text>
+			</navLabel>
+			<content src="Text/9-35.xhtml#_idParaDest-36"/>
+		</navPoint>
+		<navPoint id="navpoint37" playOrder="37">
+			<navLabel>
+				<text>Bessie Smith</text>
+			</navLabel>
+			<content src="Text/9-36.xhtml#_idParaDest-37"/>
+		</navPoint>
+		<navPoint id="navpoint38" playOrder="38">
+			<navLabel>
+				<text>Greta Garbo</text>
+			</navLabel>
+			<content src="Text/9-37.xhtml#_idParaDest-38"/>
+		</navPoint>
+		<navPoint id="navpoint39" playOrder="39">
+			<navLabel>
+				<text>Köktencilik </text>
+			</navLabel>
+			<content src="Text/9-38.xhtml#_idParaDest-39"/>
+		</navPoint>
+		<navPoint id="navpoint40" playOrder="40">
+			<navLabel>
+				<text>Lou Gehrig</text>
+			</navLabel>
+			<content src="Text/9-39.xhtml#_idParaDest-40"/>
+		</navPoint>
+		<navPoint id="navpoint41" playOrder="41">
+			<navLabel>
+				<text>Al Jolson</text>
+			</navLabel>
+			<content src="Text/9-40.xhtml#_idParaDest-41"/>
+		</navPoint>
+		<navPoint id="navpoint42" playOrder="42">
+			<navLabel>
+				<text>J. Edgar Hoover</text>
+			</navLabel>
+			<content src="Text/9-41.xhtml#_idParaDest-42"/>
+		</navPoint>
+		<navPoint id="navpoint43" playOrder="43">
+			<navLabel>
+				<text>Robert Frost</text>
+			</navLabel>
+			<content src="Text/9-42.xhtml#_idParaDest-43"/>
+		</navPoint>
+		<navPoint id="navpoint44" playOrder="44">
+			<navLabel>
+				<text>Aaron Copland</text>
+			</navLabel>
+			<content src="Text/9-43.xhtml#_idParaDest-44"/>
+		</navPoint>
+		<navPoint id="navpoint45" playOrder="45">
+			<navLabel>
+				<text>Marx Kardeşler</text>
+			</navLabel>
+			<content src="Text/9-44.xhtml#_idParaDest-45"/>
+		</navPoint>
+		<navPoint id="navpoint46" playOrder="46">
+			<navLabel>
+				<text>Cephanelik Sergisi</text>
+			</navLabel>
+			<content src="Text/9-45.xhtml#_idParaDest-46"/>
+		</navPoint>
+		<navPoint id="navpoint47" playOrder="47">
+			<navLabel>
+				<text>Babe Didrikson</text>
+			</navLabel>
+			<content src="Text/9-46.xhtml#_idParaDest-47"/>
+		</navPoint>
+		<navPoint id="navpoint48" playOrder="48">
+			<navLabel>
+				<text>Mickey Mouse</text>
+			</navLabel>
+			<content src="Text/9-47.xhtml#_idParaDest-48"/>
+		</navPoint>
+		<navPoint id="navpoint49" playOrder="49">
+			<navLabel>
+				<text>Winston Churchill</text>
+			</navLabel>
+			<content src="Text/9-48.xhtml#_idParaDest-49"/>
+		</navPoint>
+		<navPoint id="navpoint50" playOrder="50">
+			<navLabel>
+				<text>Modernizm</text>
+			</navLabel>
+			<content src="Text/9-49.xhtml#_idParaDest-50"/>
+		</navPoint>
+		<navPoint id="navpoint51" playOrder="51">
+			<navLabel>
+				<text>Carter Ailesi</text>
+			</navLabel>
+			<content src="Text/9-50.xhtml#_idParaDest-51"/>
+		</navPoint>
+		<navPoint id="navpoint52" playOrder="52">
+			<navLabel>
+				<text>Frank Capra</text>
+			</navLabel>
+			<content src="Text/9-51.xhtml#_idParaDest-52"/>
+		</navPoint>
+		<navPoint id="navpoint53" playOrder="53">
+			<navLabel>
+				<text>İçki Yasağı</text>
+			</navLabel>
+			<content src="Text/9-52.xhtml#_idParaDest-53"/>
+		</navPoint>
+		<navPoint id="navpoint54" playOrder="54">
+			<navLabel>
+				<text>Jesse Owens </text>
+			</navLabel>
+			<content src="Text/9-53.xhtml#_idParaDest-54"/>
+		</navPoint>
+		<navPoint id="navpoint55" playOrder="55">
+			<navLabel>
+				<text>Betty Boop </text>
+			</navLabel>
+			<content src="Text/9-54.xhtml#_idParaDest-55"/>
+		</navPoint>
+		<navPoint id="navpoint56" playOrder="56">
+			<navLabel>
+				<text>Charles de Gaulle</text>
+			</navLabel>
+			<content src="Text/9-55.xhtml#_idParaDest-56"/>
+		</navPoint>
+		<navPoint id="navpoint57" playOrder="57">
+			<navLabel>
+				<text>James Joyce</text>
+			</navLabel>
+			<content src="Text/9-56.xhtml#_idParaDest-57"/>
+		</navPoint>
+		<navPoint id="navpoint58" playOrder="58">
+			<navLabel>
+				<text>Fats Waller</text>
+			</navLabel>
+			<content src="Text/9-57.xhtml#_idParaDest-58"/>
+		</navPoint>
+		<navPoint id="navpoint59" playOrder="59">
+			<navLabel>
+				<text>James Cagney</text>
+			</navLabel>
+			<content src="Text/9-58.xhtml#_idParaDest-59"/>
+		</navPoint>
+		<navPoint id="navpoint60" playOrder="60">
+			<navLabel>
+				<text>Flapperlar</text>
+			</navLabel>
+			<content src="Text/9-59.xhtml#_idParaDest-60"/>
+		</navPoint>
+		<navPoint id="navpoint61" playOrder="61">
+			<navLabel>
+				<text>Joe Louis</text>
+			</navLabel>
+			<content src="Text/9-60.xhtml#_idParaDest-61"/>
+		</navPoint>
+		<navPoint id="navpoint62" playOrder="62">
+			<navLabel>
+				<text>Looney Tunes</text>
+			</navLabel>
+			<content src="Text/9-61.xhtml#_idParaDest-62"/>
+		</navPoint>
+		<navPoint id="navpoint63" playOrder="63">
+			<navLabel>
+				<text>Anne Frank</text>
+			</navLabel>
+			<content src="Text/9-62.xhtml#_idParaDest-63"/>
+		</navPoint>
+		<navPoint id="navpoint64" playOrder="64">
+			<navLabel>
+				<text>T. S. Eliot</text>
+			</navLabel>
+			<content src="Text/9-63.xhtml#_idParaDest-64"/>
+		</navPoint>
+		<navPoint id="navpoint65" playOrder="65">
+			<navLabel>
+				<text>Billie Holiday</text>
+			</navLabel>
+			<content src="Text/9-64.xhtml#_idParaDest-65"/>
+		</navPoint>
+		<navPoint id="navpoint66" playOrder="66">
+			<navLabel>
+				<text>Fred Astaire ve Ginger Rogers</text>
+			</navLabel>
+			<content src="Text/9-65.xhtml#_idParaDest-66"/>
+		</navPoint>
+		<navPoint id="navpoint67" playOrder="67">
+			<navLabel>
+				<text>Emperyalizm</text>
+			</navLabel>
+			<content src="Text/9-66.xhtml#_idParaDest-67"/>
+		</navPoint>
+		<navPoint id="navpoint68" playOrder="68">
+			<navLabel>
+				<text>Joe DiMaggio</text>
+			</navLabel>
+			<content src="Text/9-67.xhtml#_idParaDest-68"/>
+		</navPoint>
+		<navPoint id="navpoint69" playOrder="69">
+			<navLabel>
+				<text>Üç Ahbap Çavuş</text>
+			</navLabel>
+			<content src="Text/9-68.xhtml#_idParaDest-69"/>
+		</navPoint>
+		<navPoint id="navpoint70" playOrder="70">
+			<navLabel>
+				<text>Robert Oppenheimer </text>
+			</navLabel>
+			<content src="Text/9-69.xhtml#_idParaDest-70"/>
+		</navPoint>
+		<navPoint id="navpoint71" playOrder="71">
+			<navLabel>
+				<text>Gertrude Stein</text>
+			</navLabel>
+			<content src="Text/9-70.xhtml#_idParaDest-71"/>
+		</navPoint>
+		<navPoint id="navpoint72" playOrder="72">
+			<navLabel>
+				<text>Porgy ve Bess</text>
+			</navLabel>
+			<content src="Text/9-71.xhtml#_idParaDest-72"/>
+		</navPoint>
+		<navPoint id="navpoint73" playOrder="73">
+			<navLabel>
+				<text>Clark Gable</text>
+			</navLabel>
+			<content src="Text/9-72.xhtml#_idParaDest-73"/>
+		</navPoint>
+		<navPoint id="navpoint74" playOrder="74">
+			<navLabel>
+				<text>Faşizm</text>
+			</navLabel>
+			<content src="Text/9-73.xhtml#_idParaDest-74"/>
+		</navPoint>
+		<navPoint id="navpoint75" playOrder="75">
+			<navLabel>
+				<text>Ted Williams</text>
+			</navLabel>
+			<content src="Text/9-74.xhtml#_idParaDest-75"/>
+		</navPoint>
+		<navPoint id="navpoint76" playOrder="76">
+			<navLabel>
+				<text>Monopoly </text>
+			</navLabel>
+			<content src="Text/9-75.xhtml#_idParaDest-76"/>
+		</navPoint>
+		<navPoint id="navpoint77" playOrder="77">
+			<navLabel>
+				<text>Clement Attlee</text>
+			</navLabel>
+			<content src="Text/9-76.xhtml#_idParaDest-77"/>
+		</navPoint>
+		<navPoint id="navpoint78" playOrder="78">
+			<navLabel>
+				<text>E. E. Cummings</text>
+			</navLabel>
+			<content src="Text/9-77.xhtml#_idParaDest-78"/>
+		</navPoint>
+		<navPoint id="navpoint79" playOrder="79">
+			<navLabel>
+				<text>Cole Porter</text>
+			</navLabel>
+			<content src="Text/9-78.xhtml#_idParaDest-79"/>
+		</navPoint>
+		<navPoint id="navpoint80" playOrder="80">
+			<navLabel>
+				<text>Bette Davis</text>
+			</navLabel>
+			<content src="Text/9-79.xhtml#_idParaDest-80"/>
+		</navPoint>
+		<navPoint id="navpoint81" playOrder="81">
+			<navLabel>
+				<text>Akademik Yeterlilik Testi</text>
+			</navLabel>
+			<content src="Text/9-80.xhtml#_idParaDest-81"/>
+		</navPoint>
+		<navPoint id="navpoint82" playOrder="82">
+			<navLabel>
+				<text>Jackie Robinson</text>
+			</navLabel>
+			<content src="Text/9-81.xhtml#_idParaDest-82"/>
+		</navPoint>
+		<navPoint id="navpoint83" playOrder="83">
+			<navLabel>
+				<text>Süpermen</text>
+			</navLabel>
+			<content src="Text/9-82.xhtml#_idParaDest-83"/>
+		</navPoint>
+		<navPoint id="navpoint84" playOrder="84">
+			<navLabel>
+				<text>Jackson Pollock</text>
+			</navLabel>
+			<content src="Text/9-83.xhtml#_idParaDest-84"/>
+		</navPoint>
+		<navPoint id="navpoint85" playOrder="85">
+			<navLabel>
+				<text>Mrs. Dalloway</text>
+			</navLabel>
+			<content src="Text/9-84.xhtml#_idParaDest-85"/>
+		</navPoint>
+		<navPoint id="navpoint86" playOrder="86">
+			<navLabel>
+				<text>Duke Ellington </text>
+			</navLabel>
+			<content src="Text/9-85.xhtml#_idParaDest-86"/>
+		</navPoint>
+		<navPoint id="navpoint87" playOrder="87">
+			<navLabel>
+				<text>Katharine Hepburn</text>
+			</navLabel>
+			<content src="Text/9-86.xhtml#_idParaDest-87"/>
+		</navPoint>
+		<navPoint id="navpoint88" playOrder="88">
+			<navLabel>
+				<text>Nativizm</text>
+			</navLabel>
+			<content src="Text/9-87.xhtml#_idParaDest-88"/>
+		</navPoint>
+		<navPoint id="navpoint89" playOrder="89">
+			<navLabel>
+				<text>Rocky Marciano</text>
+			</navLabel>
+			<content src="Text/9-88.xhtml#_idParaDest-89"/>
+		</navPoint>
+		<navPoint id="navpoint90" playOrder="90">
+			<navLabel>
+				<text>Lassie</text>
+			</navLabel>
+			<content src="Text/9-89.xhtml#_idParaDest-90"/>
+		</navPoint>
+		<navPoint id="navpoint91" playOrder="91">
+			<navLabel>
+				<text>Mao Zedong</text>
+			</navLabel>
+			<content src="Text/9-90.xhtml#_idParaDest-91"/>
+		</navPoint>
+		<navPoint id="navpoint92" playOrder="92">
+			<navLabel>
+				<text>F. Scott Fitzgerald</text>
+			</navLabel>
+			<content src="Text/9-91.xhtml#_idParaDest-92"/>
+		</navPoint>
+		<navPoint id="navpoint93" playOrder="93">
+			<navLabel>
+				<text>Robert Johnson </text>
+			</navLabel>
+			<content src="Text/9-92.xhtml#_idParaDest-93"/>
+		</navPoint>
+		<navPoint id="navpoint94" playOrder="94">
+			<navLabel>
+				<text>John Ford</text>
+			</navLabel>
+			<content src="Text/9-93.xhtml#_idParaDest-94"/>
+		</navPoint>
+		<navPoint id="navpoint95" playOrder="95">
+			<navLabel>
+				<text>Sürrealizm</text>
+			</navLabel>
+			<content src="Text/9-94.xhtml#_idParaDest-95"/>
+		</navPoint>
+		<navPoint id="navpoint96" playOrder="96">
+			<navLabel>
+				<text>Her Yerden Duyulan Patlama</text>
+			</navLabel>
+			<content src="Text/9-95.xhtml#_idParaDest-96"/>
+		</navPoint>
+		<navPoint id="navpoint97" playOrder="97">
+			<navLabel>
+				<text>Dünyalar Savaşı</text>
+			</navLabel>
+			<content src="Text/9-96.xhtml#_idParaDest-97"/>
+		</navPoint>
+		<navPoint id="navpoint98" playOrder="98">
+			<navLabel>
+				<text>Milton Berle</text>
+			</navLabel>
+			<content src="Text/9-97.xhtml#_idParaDest-98"/>
+		</navPoint>
+		<navPoint id="navpoint99" playOrder="99">
+			<navLabel>
+				<text>William Faulkner</text>
+			</navLabel>
+			<content src="Text/9-98.xhtml#_idParaDest-99"/>
+		</navPoint>
+		<navPoint id="navpoint100" playOrder="100">
+			<navLabel>
+				<text>Glenn Miller</text>
+			</navLabel>
+			<content src="Text/9-99.xhtml#_idParaDest-100"/>
+		</navPoint>
+		<navPoint id="navpoint101" playOrder="101">
+			<navLabel>
+				<text>Oz Büyücüsü (1939)</text>
+			</navLabel>
+			<content src="Text/9-100.xhtml#_idParaDest-101"/>
+		</navPoint>
+		<navPoint id="navpoint102" playOrder="102">
+			<navLabel>
+				<text>Plastik</text>
+			</navLabel>
+			<content src="Text/9-101.xhtml#_idParaDest-102"/>
+		</navPoint>
+		<navPoint id="navpoint103" playOrder="103">
+			<navLabel>
+				<text>Gordie Howe</text>
+			</navLabel>
+			<content src="Text/9-102.xhtml#_idParaDest-103"/>
+		</navPoint>
+		<navPoint id="navpoint104" playOrder="104">
+			<navLabel>
+				<text>Slinky</text>
+			</navLabel>
+			<content src="Text/9-103.xhtml#_idParaDest-104"/>
+		</navPoint>
+		<navPoint id="navpoint105" playOrder="105">
+			<navLabel>
+				<text>Dwight D. Eisenhower</text>
+			</navLabel>
+			<content src="Text/9-104.xhtml#_idParaDest-105"/>
+		</navPoint>
+		<navPoint id="navpoint106" playOrder="106">
+			<navLabel>
+				<text>Cesur Yeni Dünya</text>
+			</navLabel>
+			<content src="Text/9-105.xhtml#_idParaDest-106"/>
+		</navPoint>
+		<navPoint id="navpoint107" playOrder="107">
+			<navLabel>
+				<text>Woody Guthrie</text>
+			</navLabel>
+			<content src="Text/9-106.xhtml#_idParaDest-107"/>
+		</navPoint>
+		<navPoint id="navpoint108" playOrder="108">
+			<navLabel>
+				<text>Gone with the Wind (1939)</text>
+			</navLabel>
+			<content src="Text/9-107.xhtml#_idParaDest-108"/>
+		</navPoint>
+		<navPoint id="navpoint109" playOrder="109">
+			<navLabel>
+				<text>Penisilin</text>
+			</navLabel>
+			<content src="Text/9-108.xhtml#_idParaDest-109"/>
+		</navPoint>
+		<navPoint id="navpoint110" playOrder="110">
+			<navLabel>
+				<text>Red Auerbach</text>
+			</navLabel>
+			<content src="Text/9-109.xhtml#_idParaDest-110"/>
+		</navPoint>
+		<navPoint id="navpoint111" playOrder="111">
+			<navLabel>
+				<text>Howdy Doody Şov</text>
+			</navLabel>
+			<content src="Text/9-110.xhtml#_idParaDest-111"/>
+		</navPoint>
+		<navPoint id="navpoint112" playOrder="112">
+			<navLabel>
+				<text>Nikita Kruşçev</text>
+			</navLabel>
+			<content src="Text/9-111.xhtml#_idParaDest-112"/>
+		</navPoint>
+		<navPoint id="navpoint113" playOrder="113">
+			<navLabel>
+				<text>Ernest Hemingway</text>
+			</navLabel>
+			<content src="Text/9-112.xhtml#_idParaDest-113"/>
+		</navPoint>
+		<navPoint id="navpoint114" playOrder="114">
+			<navLabel>
+				<text>Muddy Waters</text>
+			</navLabel>
+			<content src="Text/9-113.xhtml#_idParaDest-114"/>
+		</navPoint>
+		<navPoint id="navpoint115" playOrder="115">
+			<navLabel>
+				<text>James Stewart </text>
+			</navLabel>
+			<content src="Text/9-114.xhtml#_idParaDest-115"/>
+		</navPoint>
+		<navPoint id="navpoint116" playOrder="116">
+			<navLabel>
+				<text>Önce Amerika Komitesi</text>
+			</navLabel>
+			<content src="Text/9-115.xhtml#_idParaDest-116"/>
+		</navPoint>
+		<navPoint id="navpoint117" playOrder="117">
+			<navLabel>
+				<text>Willie Mays</text>
+			</navLabel>
+			<content src="Text/9-116.xhtml#_idParaDest-117"/>
+		</navPoint>
+		<navPoint id="navpoint118" playOrder="118">
+			<navLabel>
+				<text>Lucille Ball</text>
+			</navLabel>
+			<content src="Text/9-117.xhtml#_idParaDest-118"/>
+		</navPoint>
+		<navPoint id="navpoint119" playOrder="119">
+			<navLabel>
+				<text>Fidel Castro</text>
+			</navLabel>
+			<content src="Text/9-118.xhtml#_idParaDest-119"/>
+		</navPoint>
+		<navPoint id="navpoint120" playOrder="120">
+			<navLabel>
+				<text>Bertolt Brecht</text>
+			</navLabel>
+			<content src="Text/9-119.xhtml#_idParaDest-120"/>
+		</navPoint>
+		<navPoint id="navpoint121" playOrder="121">
+			<navLabel>
+				<text>Oklahoma!</text>
+			</navLabel>
+			<content src="Text/9-120.xhtml#_idParaDest-121"/>
+		</navPoint>
+		<navPoint id="navpoint122" playOrder="122">
+			<navLabel>
+				<text>Henry Fonda</text>
+			</navLabel>
+			<content src="Text/9-121.xhtml#_idParaDest-122"/>
+		</navPoint>
+		<navPoint id="navpoint123" playOrder="123">
+			<navLabel>
+				<text>Bretton Woods</text>
+			</navLabel>
+			<content src="Text/9-122.xhtml#_idParaDest-123"/>
+		</navPoint>
+		<navPoint id="navpoint124" playOrder="124">
+			<navLabel>
+				<text>Roger Bannister</text>
+			</navLabel>
+			<content src="Text/9-123.xhtml#_idParaDest-124"/>
+		</navPoint>
+		<navPoint id="navpoint125" playOrder="125">
+			<navLabel>
+				<text>Beyzbol Kartları </text>
+			</navLabel>
+			<content src="Text/9-124.xhtml#_idParaDest-125"/>
+		</navPoint>
+		<navPoint id="navpoint126" playOrder="126">
+			<navLabel>
+				<text>John F. Kennedy </text>
+			</navLabel>
+			<content src="Text/9-125.xhtml#_idParaDest-126"/>
+		</navPoint>
+		<navPoint id="navpoint127" playOrder="127">
+			<navLabel>
+				<text>Gazap Üzümleri</text>
+			</navLabel>
+			<content src="Text/9-126.xhtml#_idParaDest-127"/>
+		</navPoint>
+		<navPoint id="navpoint128" playOrder="128">
+			<navLabel>
+				<text>Count Basie </text>
+			</navLabel>
+			<content src="Text/9-127.xhtml#_idParaDest-128"/>
+		</navPoint>
+		<navPoint id="navpoint129" playOrder="129">
+			<navLabel>
+				<text>Alfred Hitchcock</text>
+			</navLabel>
+			<content src="Text/9-128.xhtml#_idParaDest-129"/>
+		</navPoint>
+		<navPoint id="navpoint130" playOrder="130">
+			<navLabel>
+				<text>Nükleer Bomba</text>
+			</navLabel>
+			<content src="Text/9-129.xhtml#_idParaDest-130"/>
+		</navPoint>
+		<navPoint id="navpoint131" playOrder="131">
+			<navLabel>
+				<text>“Oynanmış En Mükemmel Maç”</text>
+			</navLabel>
+			<content src="Text/9-130.xhtml#_idParaDest-131"/>
+		</navPoint>
+		<navPoint id="navpoint132" playOrder="132">
+			<navLabel>
+				<text>Leave it to Beaver</text>
+			</navLabel>
+			<content src="Text/9-131.xhtml#_idParaDest-132"/>
+		</navPoint>
+		<navPoint id="navpoint133" playOrder="133">
+			<navLabel>
+				<text>Papa 23. John </text>
+			</navLabel>
+			<content src="Text/9-132.xhtml#_idParaDest-133"/>
+		</navPoint>
+		<navPoint id="navpoint134" playOrder="134">
+			<navLabel>
+				<text>Yabancı </text>
+			</navLabel>
+			<content src="Text/9-133.xhtml#_idParaDest-134"/>
+		</navPoint>
+		<navPoint id="navpoint135" playOrder="135">
+			<navLabel>
+				<text>Louis Armstrong</text>
+			</navLabel>
+			<content src="Text/9-134.xhtml#_idParaDest-135"/>
+		</navPoint>
+		<navPoint id="navpoint136" playOrder="136">
+			<navLabel>
+				<text>Orson Welles </text>
+			</navLabel>
+			<content src="Text/9-135.xhtml#_idParaDest-136"/>
+		</navPoint>
+		<navPoint id="navpoint137" playOrder="137">
+			<navLabel>
+				<text>Banliyöleşme</text>
+			</navLabel>
+			<content src="Text/9-136.xhtml#_idParaDest-137"/>
+		</navPoint>
+		<navPoint id="navpoint138" playOrder="138">
+			<navLabel>
+				<text>John Wooden</text>
+			</navLabel>
+			<content src="Text/9-137.xhtml#_idParaDest-138"/>
+		</navPoint>
+		<navPoint id="navpoint139" playOrder="139">
+			<navLabel>
+				<text>American Bandstand</text>
+			</navLabel>
+			<content src="Text/9-138.xhtml#_idParaDest-139"/>
+		</navPoint>
+		<navPoint id="navpoint140" playOrder="140">
+			<navLabel>
+				<text>Lenny Bruce</text>
+			</navLabel>
+			<content src="Text/9-139.xhtml#_idParaDest-140"/>
+		</navPoint>
+		<navPoint id="navpoint141" playOrder="141">
+			<navLabel>
+				<text>Kralın Bütün Adamları</text>
+			</navLabel>
+			<content src="Text/9-140.xhtml#_idParaDest-141"/>
+		</navPoint>
+		<navPoint id="navpoint142" playOrder="142">
+			<navLabel>
+				<text>Dizzy Gillespie</text>
+			</navLabel>
+			<content src="Text/9-141.xhtml#_idParaDest-142"/>
+		</navPoint>
+		<navPoint id="navpoint143" playOrder="143">
+			<navLabel>
+				<text>Citizen Kane (1941)</text>
+			</navLabel>
+			<content src="Text/9-142.xhtml#_idParaDest-143"/>
+		</navPoint>
+		<navPoint id="navpoint144" playOrder="144">
+			<navLabel>
+				<text>Çevreleme Politikası</text>
+			</navLabel>
+			<content src="Text/9-144.xhtml#_idParaDest-144"/>
+		</navPoint>
+		<navPoint id="navpoint145" playOrder="145">
+			<navLabel>
+				<text>Arnold Palmer</text>
+			</navLabel>
+			<content src="Text/9-146.xhtml#_idParaDest-145"/>
+		</navPoint>
+		<navPoint id="navpoint146" playOrder="146">
+			<navLabel>
+				<text>Hulahop</text>
+			</navLabel>
+			<content src="Text/9-147.xhtml#_idParaDest-146"/>
+		</navPoint>
+		<navPoint id="navpoint147" playOrder="147">
+			<navLabel>
+				<text>Julia Child </text>
+			</navLabel>
+			<content src="Text/9-148.xhtml#_idParaDest-147"/>
+		</navPoint>
+		<navPoint id="navpoint148" playOrder="148">
+			<navLabel>
+				<text>1984</text>
+			</navLabel>
+			<content src="Text/9-149.xhtml#_idParaDest-148"/>
+		</navPoint>
+		<navPoint id="navpoint149" playOrder="149">
+			<navLabel>
+				<text>Hank Williams</text>
+			</navLabel>
+			<content src="Text/9-150.xhtml#_idParaDest-149"/>
+		</navPoint>
+		<navPoint id="navpoint150" playOrder="150">
+			<navLabel>
+				<text>Humphrey Bogart </text>
+			</navLabel>
+			<content src="Text/9-151.xhtml#_idParaDest-150"/>
+		</navPoint>
+		<navPoint id="navpoint151" playOrder="151">
+			<navLabel>
+				<text>Televizyon</text>
+			</navLabel>
+			<content src="Text/9-152.xhtml#_idParaDest-151"/>
+		</navPoint>
+		<navPoint id="navpoint152" playOrder="152">
+			<navLabel>
+				<text>Johnny Unitas </text>
+			</navLabel>
+			<content src="Text/9-153.xhtml#_idParaDest-152"/>
+		</navPoint>
+		<navPoint id="navpoint153" playOrder="153">
+			<navLabel>
+				<text>Barbie </text>
+			</navLabel>
+			<content src="Text/9-154.xhtml#_idParaDest-153"/>
+		</navPoint>
+		<navPoint id="navpoint154" playOrder="154">
+			<navLabel>
+				<text>Barry Goldwater </text>
+			</navLabel>
+			<content src="Text/9-155.xhtml#_idParaDest-154"/>
+		</navPoint>
+		<navPoint id="navpoint155" playOrder="155">
+			<navLabel>
+				<text>Pablo Neruda</text>
+			</navLabel>
+			<content src="Text/9-156.xhtml#_idParaDest-155"/>
+		</navPoint>
+		<navPoint id="navpoint156" playOrder="156">
+			<navLabel>
+				<text>Frank Sinatra </text>
+			</navLabel>
+			<content src="Text/9-157.xhtml#_idParaDest-156"/>
+		</navPoint>
+		<navPoint id="navpoint157" playOrder="157">
+			<navLabel>
+				<text>Ingrid Bergman</text>
+			</navLabel>
+			<content src="Text/9-158.xhtml#_idParaDest-157"/>
+		</navPoint>
+		<navPoint id="navpoint158" playOrder="158">
+			<navLabel>
+				<text>Organ Nakli</text>
+			</navLabel>
+			<content src="Text/9-159.xhtml#_idParaDest-158"/>
+		</navPoint>
+		<navPoint id="navpoint159" playOrder="159">
+			<navLabel>
+				<text>Bill Russell </text>
+			</navLabel>
+			<content src="Text/9-160.xhtml#_idParaDest-159"/>
+		</navPoint>
+		<navPoint id="navpoint160" playOrder="160">
+			<navLabel>
+				<text>Marilyn Monroe</text>
+			</navLabel>
+			<content src="Text/9-161.xhtml#_idParaDest-160"/>
+		</navPoint>
+		<navPoint id="navpoint161" playOrder="161">
+			<navLabel>
+				<text>Walter Cronkite </text>
+			</navLabel>
+			<content src="Text/9-162.xhtml#_idParaDest-161"/>
+		</navPoint>
+		<navPoint id="navpoint162" playOrder="162">
+			<navLabel>
+				<text>Gönülçelen (1951)</text>
+			</navLabel>
+			<content src="Text/9-163.xhtml#_idParaDest-162"/>
+		</navPoint>
+		<navPoint id="navpoint163" playOrder="163">
+			<navLabel>
+				<text>Ella Fitzgerald</text>
+			</navLabel>
+			<content src="Text/9-164.xhtml#_idParaDest-163"/>
+		</navPoint>
+		<navPoint id="navpoint164" playOrder="164">
+			<navLabel>
+				<text>Casablanca </text>
+			</navLabel>
+			<content src="Text/9-165.xhtml#_idParaDest-164"/>
+		</navPoint>
+		<navPoint id="navpoint165" playOrder="165">
+			<navLabel>
+				<text>Jet Yolculuğu</text>
+			</navLabel>
+			<content src="Text/9-166.xhtml#_idParaDest-165"/>
+		</navPoint>
+		<navPoint id="navpoint166" playOrder="166">
+			<navLabel>
+				<text> Hank Aaron</text>
+			</navLabel>
+			<content src="Text/9-167.xhtml#_idParaDest-166"/>
+		</navPoint>
+		<navPoint id="navpoint167" playOrder="167">
+			<navLabel>
+				<text>Kısa Mesafe Araba Yarışı </text>
+			</navLabel>
+			<content src="Text/9-168.xhtml#_idParaDest-167"/>
+		</navPoint>
+		<navPoint id="navpoint168" playOrder="168">
+			<navLabel>
+				<text>Billy Graham </text>
+			</navLabel>
+			<content src="Text/9-169.xhtml#_idParaDest-168"/>
+		</navPoint>
+		<navPoint id="navpoint169" playOrder="169">
+			<navLabel>
+				<text>Godot’yu Beklerken</text>
+			</navLabel>
+			<content src="Text/9-170.xhtml#_idParaDest-169"/>
+		</navPoint>
+		<navPoint id="navpoint170" playOrder="170">
+			<navLabel>
+				<text>Chuck Berry </text>
+			</navLabel>
+			<content src="Text/9-171.xhtml#_idParaDest-170"/>
+		</navPoint>
+		<navPoint id="navpoint171" playOrder="171">
+			<navLabel>
+				<text>Cary Grant</text>
+			</navLabel>
+			<content src="Text/9-172.xhtml#_idParaDest-171"/>
+		</navPoint>
+		<navPoint id="navpoint172" playOrder="172">
+			<navLabel>
+				<text>McCarthycilik</text>
+			</navLabel>
+			<content src="Text/9-173.xhtml#_idParaDest-172"/>
+		</navPoint>
+		<navPoint id="navpoint173" playOrder="173">
+			<navLabel>
+				<text>Jim Brown</text>
+			</navLabel>
+			<content src="Text/9-174.xhtml#_idParaDest-173"/>
+		</navPoint>
+		<navPoint id="navpoint174" playOrder="174">
+			<navLabel>
+				<text>Gidget</text>
+			</navLabel>
+			<content src="Text/9-175.xhtml#_idParaDest-174"/>
+		</navPoint>
+		<navPoint id="navpoint175" playOrder="175">
+			<navLabel>
+				<text>Robert F. Kennedy</text>
+			</navLabel>
+			<content src="Text/9-176.xhtml#_idParaDest-175"/>
+		</navPoint>
+		<navPoint id="navpoint176" playOrder="176">
+			<navLabel>
+				<text>Truman Capote </text>
+			</navLabel>
+			<content src="Text/9-177.xhtml#_idParaDest-176"/>
+		</navPoint>
+		<navPoint id="navpoint177" playOrder="177">
+			<navLabel>
+				<text>Johnny Cash </text>
+			</navLabel>
+			<content src="Text/9-178.xhtml#_idParaDest-177"/>
+		</navPoint>
+		<navPoint id="navpoint178" playOrder="178">
+			<navLabel>
+				<text>John Huston </text>
+			</navLabel>
+			<content src="Text/9-179.xhtml#_idParaDest-178"/>
+		</navPoint>
+		<navPoint id="navpoint179" playOrder="179">
+			<navLabel>
+				<text>Üçüncü Dünya </text>
+			</navLabel>
+			<content src="Text/9-180.xhtml#_idParaDest-179"/>
+		</navPoint>
+		<navPoint id="navpoint180" playOrder="180">
+			<navLabel>
+				<text>Wilt Chamberlain </text>
+			</navLabel>
+			<content src="Text/9-181.xhtml#_idParaDest-180"/>
+		</navPoint>
+		<navPoint id="navpoint181" playOrder="181">
+			<navLabel>
+				<text>Paparazzi </text>
+			</navLabel>
+			<content src="Text/9-182.xhtml#_idParaDest-181"/>
+		</navPoint>
+		<navPoint id="navpoint182" playOrder="182">
+			<navLabel>
+				<text>Yaser Arafat</text>
+			</navLabel>
+			<content src="Text/9-183.xhtml#_idParaDest-182"/>
+		</navPoint>
+		<navPoint id="navpoint183" playOrder="183">
+			<navLabel>
+				<text>Lolita</text>
+			</navLabel>
+			<content src="Text/9-184.xhtml#_idParaDest-183"/>
+		</navPoint>
+		<navPoint id="navpoint184" playOrder="184">
+			<navLabel>
+				<text>Leonard Bernstein’ın Genç İnsanlar Konserleri </text>
+			</navLabel>
+			<content src="Text/9-185.xhtml#_idParaDest-184"/>
+		</navPoint>
+		<navPoint id="navpoint185" playOrder="185">
+			<navLabel>
+				<text>John Wayne </text>
+			</navLabel>
+			<content src="Text/9-186.xhtml#_idParaDest-185"/>
+		</navPoint>
+		<navPoint id="navpoint186" playOrder="186">
+			<navLabel>
+				<text>Apartheid</text>
+			</navLabel>
+			<content src="Text/9-187.xhtml#_idParaDest-186"/>
+		</navPoint>
+		<navPoint id="navpoint187" playOrder="187">
+			<navLabel>
+				<text>Rod Laver </text>
+			</navLabel>
+			<content src="Text/9-188.xhtml#_idParaDest-187"/>
+		</navPoint>
+		<navPoint id="navpoint188" playOrder="188">
+			<navLabel>
+				<text>Ken Kesey </text>
+			</navLabel>
+			<content src="Text/9-189.xhtml#_idParaDest-188"/>
+		</navPoint>
+		<navPoint id="navpoint189" playOrder="189">
+			<navLabel>
+				<text>Neil Armstrong </text>
+			</navLabel>
+			<content src="Text/9-190.xhtml#_idParaDest-189"/>
+		</navPoint>
+		<navPoint id="navpoint190" playOrder="190">
+			<navLabel>
+				<text>Günden Geceye</text>
+			</navLabel>
+			<content src="Text/9-191.xhtml#_idParaDest-190"/>
+		</navPoint>
+		<navPoint id="navpoint191" playOrder="191">
+			<navLabel>
+				<text>Ray Charles </text>
+			</navLabel>
+			<content src="Text/9-192.xhtml#_idParaDest-191"/>
+		</navPoint>
+		<navPoint id="navpoint192" playOrder="192">
+			<navLabel>
+				<text>Billy Wilder </text>
+			</navLabel>
+			<content src="Text/9-193.xhtml#_idParaDest-192"/>
+		</navPoint>
+		<navPoint id="navpoint193" playOrder="193">
+			<navLabel>
+				<text>DNA</text>
+			</navLabel>
+			<content src="Text/9-194.xhtml#_idParaDest-193"/>
+		</navPoint>
+		<navPoint id="navpoint194" playOrder="194">
+			<navLabel>
+				<text>Vince Lombardi</text>
+			</navLabel>
+			<content src="Text/9-195.xhtml#_idParaDest-194"/>
+		</navPoint>
+		<navPoint id="navpoint195" playOrder="195">
+			<navLabel>
+				<text>James Bond</text>
+			</navLabel>
+			<content src="Text/9-196.xhtml#_idParaDest-195"/>
+		</navPoint>
+		<navPoint id="navpoint196" playOrder="196">
+			<navLabel>
+				<text>Abbie Hoffman</text>
+			</navLabel>
+			<content src="Text/9-197.xhtml#_idParaDest-196"/>
+		</navPoint>
+		<navPoint id="navpoint197" playOrder="197">
+			<navLabel>
+				<text>Yolda</text>
+			</navLabel>
+			<content src="Text/9-198.xhtml#_idParaDest-197"/>
+		</navPoint>
+		<navPoint id="navpoint198" playOrder="198">
+			<navLabel>
+				<text>Phil Spector </text>
+			</navLabel>
+			<content src="Text/9-199.xhtml#_idParaDest-198"/>
+		</navPoint>
+		<navPoint id="navpoint199" playOrder="199">
+			<navLabel>
+				<text>Marlon Brando </text>
+			</navLabel>
+			<content src="Text/9-200.xhtml#_idParaDest-199"/>
+		</navPoint>
+		<navPoint id="navpoint200" playOrder="200">
+			<navLabel>
+				<text>John Birch Topluluğu </text>
+			</navLabel>
+			<content src="Text/9-201.xhtml#_idParaDest-200"/>
+		</navPoint>
+		<navPoint id="navpoint201" playOrder="201">
+			<navLabel>
+				<text>Sandy Koufax</text>
+			</navLabel>
+			<content src="Text/9-202.xhtml#_idParaDest-201"/>
+		</navPoint>
+		<navPoint id="navpoint202" playOrder="202">
+			<navLabel>
+				<text>Ed Sullivan </text>
+			</navLabel>
+			<content src="Text/9-203.xhtml#_idParaDest-202"/>
+		</navPoint>
+		<navPoint id="navpoint203" playOrder="203">
+			<navLabel>
+				<text>Charles Manson</text>
+			</navLabel>
+			<content src="Text/9-204.xhtml#_idParaDest-203"/>
+		</navPoint>
+		<navPoint id="navpoint204" playOrder="204">
+			<navLabel>
+				<text>Ayn Rand</text>
+			</navLabel>
+			<content src="Text/9-205.xhtml#_idParaDest-204"/>
+		</navPoint>
+		<navPoint id="navpoint205" playOrder="205">
+			<navLabel>
+				<text>Beatlemania </text>
+			</navLabel>
+			<content src="Text/9-206.xhtml#_idParaDest-205"/>
+		</navPoint>
+		<navPoint id="navpoint206" playOrder="206">
+			<navLabel>
+				<text>Sidney Poitier</text>
+			</navLabel>
+			<content src="Text/9-207.xhtml#_idParaDest-206"/>
+		</navPoint>
+		<navPoint id="navpoint207" playOrder="207">
+			<navLabel>
+				<text>Pasif Direniş</text>
+			</navLabel>
+			<content src="Text/9-208.xhtml#_idParaDest-207"/>
+		</navPoint>
+		<navPoint id="navpoint208" playOrder="208">
+			<navLabel>
+				<text>Pelé </text>
+			</navLabel>
+			<content src="Text/9-209.xhtml#_idParaDest-208"/>
+		</navPoint>
+		<navPoint id="navpoint209" playOrder="209">
+			<navLabel>
+				<text>Mini Etek</text>
+			</navLabel>
+			<content src="Text/9-210.xhtml#_idParaDest-209"/>
+		</navPoint>
+		<navPoint id="navpoint210" playOrder="210">
+			<navLabel>
+				<text>Howard Cosell</text>
+			</navLabel>
+			<content src="Text/9-211.xhtml#_idParaDest-210"/>
+		</navPoint>
+		<navPoint id="navpoint211" playOrder="211">
+			<navLabel>
+				<text>J. R. R. Tolkien</text>
+			</navLabel>
+			<content src="Text/9-212.xhtml#_idParaDest-211"/>
+		</navPoint>
+		<navPoint id="navpoint212" playOrder="212">
+			<navLabel>
+				<text>Rolling Stones </text>
+			</navLabel>
+			<content src="Text/9-213.xhtml#_idParaDest-212"/>
+		</navPoint>
+		<navPoint id="navpoint213" playOrder="213">
+			<navLabel>
+				<text>Paul Newman </text>
+			</navLabel>
+			<content src="Text/9-214.xhtml#_idParaDest-213"/>
+		</navPoint>
+		<navPoint id="navpoint214" playOrder="214">
+			<navLabel>
+				<text>Doğum Kontrol Hapı </text>
+			</navLabel>
+			<content src="Text/9-215.xhtml#_idParaDest-214"/>
+		</navPoint>
+		<navPoint id="navpoint215" playOrder="215">
+			<navLabel>
+				<text>Muhammed Ali</text>
+			</navLabel>
+			<content src="Text/9-216.xhtml#_idParaDest-215"/>
+		</navPoint>
+		<navPoint id="navpoint216" playOrder="216">
+			<navLabel>
+				<text>Johnny Carson</text>
+			</navLabel>
+			<content src="Text/9-217.xhtml#_idParaDest-216"/>
+		</navPoint>
+		<navPoint id="navpoint217" playOrder="217">
+			<navLabel>
+				<text>Bob Woodward ve Carl Bernstein</text>
+			</navLabel>
+			<content src="Text/9-218.xhtml#_idParaDest-217"/>
+		</navPoint>
+		<navPoint id="navpoint218" playOrder="218">
+			<navLabel>
+				<text>Gece</text>
+			</navLabel>
+			<content src="Text/9-219.xhtml#_idParaDest-218"/>
+		</navPoint>
+		<navPoint id="navpoint219" playOrder="219">
+			<navLabel>
+				<text>Motown Records</text>
+			</navLabel>
+			<content src="Text/9-220.xhtml#_idParaDest-219"/>
+		</navPoint>
+		<navPoint id="navpoint220" playOrder="220">
+			<navLabel>
+				<text>Audrey Hepburn</text>
+			</navLabel>
+			<content src="Text/9-221.xhtml#_idParaDest-220"/>
+		</navPoint>
+		<navPoint id="navpoint221" playOrder="221">
+			<navLabel>
+				<text>Sessiz Bahar ve Çevre Hareketi</text>
+			</navLabel>
+			<content src="Text/9-222.xhtml#_idParaDest-221"/>
+		</navPoint>
+		<navPoint id="navpoint222" playOrder="222">
+			<navLabel>
+				<text>1966 NCAA Erkekler Basketbol Şampiyonası</text>
+			</navLabel>
+			<content src="Text/9-223.xhtml#_idParaDest-222"/>
+		</navPoint>
+		<navPoint id="navpoint223" playOrder="223">
+			<navLabel>
+				<text>The Monkees</text>
+			</navLabel>
+			<content src="Text/9-224.xhtml#_idParaDest-223"/>
+		</navPoint>
+		<navPoint id="navpoint224" playOrder="224">
+			<navLabel>
+				<text>Deng Xiaoping</text>
+			</navLabel>
+			<content src="Text/9-225.xhtml#_idParaDest-224"/>
+		</navPoint>
+		<navPoint id="navpoint225" playOrder="225">
+			<navLabel>
+				<text>Catch-22</text>
+			</navLabel>
+			<content src="Text/9-226.xhtml#_idParaDest-225"/>
+		</navPoint>
+		<navPoint id="navpoint226" playOrder="226">
+			<navLabel>
+				<text>James Brown</text>
+			</navLabel>
+			<content src="Text/9-227.xhtml#_idParaDest-226"/>
+		</navPoint>
+		<navPoint id="navpoint227" playOrder="227">
+			<navLabel>
+				<text>James Dean</text>
+			</navLabel>
+			<content src="Text/9-228.xhtml#_idParaDest-227"/>
+		</navPoint>
+		<navPoint id="navpoint228" playOrder="228">
+			<navLabel>
+				<text>İkinci Dalga Feminizm</text>
+			</navLabel>
+			<content src="Text/9-229.xhtml#_idParaDest-228"/>
+		</navPoint>
+		<navPoint id="navpoint229" playOrder="229">
+			<navLabel>
+				<text>Super Bowl 3</text>
+			</navLabel>
+			<content src="Text/9-230.xhtml#_idParaDest-229"/>
+		</navPoint>
+		<navPoint id="navpoint230" playOrder="230">
+			<navLabel>
+				<text>Woodstock</text>
+			</navLabel>
+			<content src="Text/9-231.xhtml#_idParaDest-230"/>
+		</navPoint>
+		<navPoint id="navpoint231" playOrder="231">
+			<navLabel>
+				<text>Margaret Thatcher</text>
+			</navLabel>
+			<content src="Text/9-232.xhtml#_idParaDest-231"/>
+		</navPoint>
+		<navPoint id="navpoint232" playOrder="232">
+			<navLabel>
+				<text>Sylvia Plath</text>
+			</navLabel>
+			<content src="Text/9-233.xhtml#_idParaDest-232"/>
+		</navPoint>
+		<navPoint id="navpoint233" playOrder="233">
+			<navLabel>
+				<text>Bob Dylan’ın Elektro Gitara Geçişi</text>
+			</navLabel>
+			<content src="Text/9-234.xhtml#_idParaDest-233"/>
+		</navPoint>
+		<navPoint id="navpoint234" playOrder="234">
+			<navLabel>
+				<text>Stanley Kubrick</text>
+			</navLabel>
+			<content src="Text/9-235.xhtml#_idParaDest-234"/>
+		</navPoint>
+		<navPoint id="navpoint235" playOrder="235">
+			<navLabel>
+				<text>Tütün ve Kanser</text>
+			</navLabel>
+			<content src="Text/9-236.xhtml#_idParaDest-235"/>
+		</navPoint>
+		<navPoint id="navpoint236" playOrder="236">
+			<navLabel>
+				<text>Jack Nicklaus</text>
+			</navLabel>
+			<content src="Text/9-237.xhtml#_idParaDest-236"/>
+		</navPoint>
+		<navPoint id="navpoint237" playOrder="237">
+			<navLabel>
+				<text>Susam Sokağı</text>
+			</navLabel>
+			<content src="Text/9-238.xhtml#_idParaDest-237"/>
+		</navPoint>
+		<navPoint id="navpoint238" playOrder="238">
+			<navLabel>
+				<text>Papa 2. John Paul </text>
+			</navLabel>
+			<content src="Text/9-239.xhtml#_idParaDest-238"/>
+		</navPoint>
+		<navPoint id="navpoint239" playOrder="239">
+			<navLabel>
+				<text>Otomatik Portakal</text>
+			</navLabel>
+			<content src="Text/9-240.xhtml#_idParaDest-239"/>
+		</navPoint>
+		<navPoint id="navpoint240" playOrder="240">
+			<navLabel>
+				<text>Aretha Franklin</text>
+			</navLabel>
+			<content src="Text/9-241.xhtml#_idParaDest-240"/>
+		</navPoint>
+		<navPoint id="navpoint241" playOrder="241">
+			<navLabel>
+				<text>Elizabeth Taylor</text>
+			</navLabel>
+			<content src="Text/9-242.xhtml#_idParaDest-241"/>
+		</navPoint>
+		<navPoint id="navpoint242" playOrder="242">
+			<navLabel>
+				<text>Uzay Yarışı</text>
+			</navLabel>
+			<content src="Text/9-243.xhtml#_idParaDest-242"/>
+		</navPoint>
+		<navPoint id="navpoint243" playOrder="243">
+			<navLabel>
+				<text>Joe Namath</text>
+			</navLabel>
+			<content src="Text/9-244.xhtml#_idParaDest-243"/>
+		</navPoint>
+		<navPoint id="navpoint244" playOrder="244">
+			<navLabel>
+				<text>Mary Tyler Moore</text>
+			</navLabel>
+			<content src="Text/9-245.xhtml#_idParaDest-244"/>
+		</navPoint>
+		<navPoint id="navpoint245" playOrder="245">
+			<navLabel>
+				<text>Ayetullah Humeyni</text>
+			</navLabel>
+			<content src="Text/9-246.xhtml#_idParaDest-245"/>
+		</navPoint>
+		<navPoint id="navpoint246" playOrder="246">
+			<navLabel>
+				<text>Kim Korkar Virginia Woolf’tan?</text>
+			</navLabel>
+			<content src="Text/9-247.xhtml#_idParaDest-246"/>
+		</navPoint>
+		<navPoint id="navpoint247" playOrder="247">
+			<navLabel>
+				<text>Jimi Hendrix</text>
+			</navLabel>
+			<content src="Text/9-248.xhtml#_idParaDest-247"/>
+		</navPoint>
+		<navPoint id="navpoint248" playOrder="248">
+			<navLabel>
+				<text>Bonnie and Clyde (1967)</text>
+			</navLabel>
+			<content src="Text/9-249.xhtml#_idParaDest-248"/>
+		</navPoint>
+		<navPoint id="navpoint249" playOrder="249">
+			<navLabel>
+				<text>Pozitif Ayrımcılık</text>
+			</navLabel>
+			<content src="Text/9-250.xhtml#_idParaDest-249"/>
+		</navPoint>
+		<navPoint id="navpoint250" playOrder="250">
+			<navLabel>
+				<text>Mark Spitz</text>
+			</navLabel>
+			<content src="Text/9-251.xhtml#_idParaDest-250"/>
+		</navPoint>
+		<navPoint id="navpoint251" playOrder="251">
+			<navLabel>
+				<text>Doonesbury</text>
+			</navLabel>
+			<content src="Text/9-252.xhtml#_idParaDest-251"/>
+		</navPoint>
+		<navPoint id="navpoint252" playOrder="252">
+			<navLabel>
+				<text>Ronald Reagan</text>
+			</navLabel>
+			<content src="Text/9-253.xhtml#_idParaDest-252"/>
+		</navPoint>
+		<navPoint id="navpoint253" playOrder="253">
+			<navLabel>
+				<text>Kurt Vonnegut</text>
+			</navLabel>
+			<content src="Text/9-254.xhtml#_idParaDest-253"/>
+		</navPoint>
+		<navPoint id="navpoint254" playOrder="254">
+			<navLabel>
+				<text>Velvet Underground</text>
+			</navLabel>
+			<content src="Text/9-255.xhtml#_idParaDest-254"/>
+		</navPoint>
+		<navPoint id="navpoint255" playOrder="255">
+			<navLabel>
+				<text>The Graduate (1967)</text>
+			</navLabel>
+			<content src="Text/9-256.xhtml#_idParaDest-255"/>
+		</navPoint>
+		<navPoint id="navpoint256" playOrder="256">
+			<navLabel>
+				<text>Siyah Güç</text>
+			</navLabel>
+			<content src="Text/9-257.xhtml#_idParaDest-256"/>
+		</navPoint>
+		<navPoint id="navpoint257" playOrder="257">
+			<navLabel>
+				<text>Secretariat</text>
+			</navLabel>
+			<content src="Text/9-258.xhtml#_idParaDest-257"/>
+		</navPoint>
+		<navPoint id="navpoint258" playOrder="258">
+			<navLabel>
+				<text>Archie Bunker</text>
+			</navLabel>
+			<content src="Text/9-259.xhtml#_idParaDest-258"/>
+		</navPoint>
+		<navPoint id="navpoint259" playOrder="259">
+			<navLabel>
+				<text>Sandra Day O’Connor</text>
+			</navLabel>
+			<content src="Text/9-260.xhtml#_idParaDest-259"/>
+		</navPoint>
+		<navPoint id="navpoint260" playOrder="260">
+			<navLabel>
+				<text>John Updike</text>
+			</navLabel>
+			<content src="Text/9-261.xhtml#_idParaDest-260"/>
+		</navPoint>
+		<navPoint id="navpoint261" playOrder="261">
+			<navLabel>
+				<text>Elvis Presley’nin Geri Dönüş Şovu (1968)</text>
+			</navLabel>
+			<content src="Text/9-262.xhtml#_idParaDest-261"/>
+		</navPoint>
+		<navPoint id="navpoint262" playOrder="262">
+			<navLabel>
+				<text>Robert Altman</text>
+			</navLabel>
+			<content src="Text/9-263.xhtml#_idParaDest-262"/>
+		</navPoint>
+		<navPoint id="navpoint263" playOrder="263">
+			<navLabel>
+				<text>68 Kuşağı</text>
+			</navLabel>
+			<content src="Text/9-264.xhtml#_idParaDest-263"/>
+		</navPoint>
+		<navPoint id="navpoint264" playOrder="264">
+			<navLabel>
+				<text>Cinsiyetler Savaşı</text>
+			</navLabel>
+			<content src="Text/9-265.xhtml#_idParaDest-264"/>
+		</navPoint>
+		<navPoint id="navpoint265" playOrder="265">
+			<navLabel>
+				<text>Pong</text>
+			</navLabel>
+			<content src="Text/9-266.xhtml#_idParaDest-265"/>
+		</navPoint>
+		<navPoint id="navpoint266" playOrder="266">
+			<navLabel>
+				<text>Tom Wolfe</text>
+			</navLabel>
+			<content src="Text/9-267.xhtml#_idParaDest-266"/>
+		</navPoint>
+		<navPoint id="navpoint267" playOrder="267">
+			<navLabel>
+				<text>Maya Angelou</text>
+			</navLabel>
+			<content src="Text/9-268.xhtml#_idParaDest-267"/>
+		</navPoint>
+		<navPoint id="navpoint268" playOrder="268">
+			<navLabel>
+				<text>Miles Davis ve Caz Füzyon</text>
+			</navLabel>
+			<content src="Text/9-269.xhtml#_idParaDest-268"/>
+		</navPoint>
+		<navPoint id="navpoint269" playOrder="269">
+			<navLabel>
+				<text>2001: A Space Odyssey (1968)</text>
+			</navLabel>
+			<content src="Text/9-270.xhtml#_idParaDest-269"/>
+		</navPoint>
+		<navPoint id="navpoint270" playOrder="270">
+			<navLabel>
+				<text>Karma Eğitim</text>
+			</navLabel>
+			<content src="Text/9-271.xhtml#_idParaDest-270"/>
+		</navPoint>
+		<navPoint id="navpoint271" playOrder="271">
+			<navLabel>
+				<text>The Thrilla in Manila</text>
+			</navLabel>
+			<content src="Text/9-272.xhtml#_idParaDest-271"/>
+		</navPoint>
+		<navPoint id="navpoint272" playOrder="272">
+			<navLabel>
+				<text>Özgür Olmak... Sen ve Ben</text>
+			</navLabel>
+			<content src="Text/9-273.xhtml#_idParaDest-272"/>
+		</navPoint>
+		<navPoint id="navpoint273" playOrder="273">
+			<navLabel>
+				<text>Bruce Springsteen</text>
+			</navLabel>
+			<content src="Text/9-274.xhtml#_idParaDest-273"/>
+		</navPoint>
+		<navPoint id="navpoint274" playOrder="274">
+			<navLabel>
+				<text>Philip Roth</text>
+			</navLabel>
+			<content src="Text/9-275.xhtml#_idParaDest-274"/>
+		</navPoint>
+		<navPoint id="navpoint275" playOrder="275">
+			<navLabel>
+				<text>Led Zeppelin</text>
+			</navLabel>
+			<content src="Text/9-276.xhtml#_idParaDest-275"/>
+		</navPoint>
+		<navPoint id="navpoint276" playOrder="276">
+			<navLabel>
+				<text>Clint Eastwood</text>
+			</navLabel>
+			<content src="Text/9-277.xhtml#_idParaDest-276"/>
+		</navPoint>
+		<navPoint id="navpoint277" playOrder="277">
+			<navLabel>
+				<text>Öğrenci Taşıma</text>
+			</navLabel>
+			<content src="Text/9-278.xhtml#_idParaDest-277"/>
+		</navPoint>
+		<navPoint id="navpoint278" playOrder="278">
+			<navLabel>
+				<text>Dale Earnhardt</text>
+			</navLabel>
+			<content src="Text/9-279.xhtml#_idParaDest-278"/>
+		</navPoint>
+		<navPoint id="navpoint279" playOrder="279">
+			<navLabel>
+				<text>Richard Pyror</text>
+			</navLabel>
+			<content src="Text/9-280.xhtml#_idParaDest-279"/>
+		</navPoint>
+		<navPoint id="navpoint280" playOrder="280">
+			<navLabel>
+				<text>Mihail Gorbaçov</text>
+			</navLabel>
+			<content src="Text/9-281.xhtml#_idParaDest-280"/>
+		</navPoint>
+		<navPoint id="navpoint281" playOrder="281">
+			<navLabel>
+				<text>Yüzyıllık Yalnızlık</text>
+			</navLabel>
+			<content src="Text/9-282.xhtml#_idParaDest-281"/>
+		</navPoint>
+		<navPoint id="navpoint282" playOrder="282">
+			<navLabel>
+				<text>Black Sabbath</text>
+			</navLabel>
+			<content src="Text/9-283.xhtml#_idParaDest-282"/>
+		</navPoint>
+		<navPoint id="navpoint283" playOrder="283">
+			<navLabel>
+				<text>Woody Allen</text>
+			</navLabel>
+			<content src="Text/9-284.xhtml#_idParaDest-283"/>
+		</navPoint>
+		<navPoint id="navpoint284" playOrder="284">
+			<navLabel>
+				<text>Yumuşama Politikası (Deténte)</text>
+			</navLabel>
+			<content src="Text/9-285.xhtml#_idParaDest-284"/>
+		</navPoint>
+		<navPoint id="navpoint285" playOrder="285">
+			<navLabel>
+				<text>Martina Navratilova</text>
+			</navLabel>
+			<content src="Text/9-286.xhtml#_idParaDest-285"/>
+		</navPoint>
+		<navPoint id="navpoint286" playOrder="286">
+			<navLabel>
+				<text>Saturday Night Live</text>
+			</navLabel>
+			<content src="Text/9-287.xhtml#_idParaDest-286"/>
+		</navPoint>
+		<navPoint id="navpoint287" playOrder="287">
+			<navLabel>
+				<text>Public Enemy</text>
+			</navLabel>
+			<content src="Text/9-288.xhtml#_idParaDest-287"/>
+		</navPoint>
+		<navPoint id="navpoint288" playOrder="288">
+			<navLabel>
+				<text>Postmodernizm</text>
+			</navLabel>
+			<content src="Text/9-289.xhtml#_idParaDest-288"/>
+		</navPoint>
+		<navPoint id="navpoint289" playOrder="289">
+			<navLabel>
+				<text>Stevie Wonder</text>
+			</navLabel>
+			<content src="Text/9-290.xhtml#_idParaDest-289"/>
+		</navPoint>
+		<navPoint id="navpoint290" playOrder="290">
+			<navLabel>
+				<text>Robert Redford</text>
+			</navLabel>
+			<content src="Text/9-291.xhtml#_idParaDest-290"/>
+		</navPoint>
+		<navPoint id="navpoint291" playOrder="291">
+			<navLabel>
+				<text>Emperyal Başkanlık</text>
+			</navLabel>
+			<content src="Text/9-292.xhtml#_idParaDest-291"/>
+		</navPoint>
+		<navPoint id="navpoint292" playOrder="292">
+			<navLabel>
+				<text>Buzdaki Mucize</text>
+			</navLabel>
+			<content src="Text/9-293.xhtml#_idParaDest-292"/>
+		</navPoint>
+		<navPoint id="navpoint293" playOrder="293">
+			<navLabel>
+				<text>J.R.’ı Kim Vurdu?</text>
+			</navLabel>
+			<content src="Text/9-294.xhtml#_idParaDest-293"/>
+		</navPoint>
+		<navPoint id="navpoint294" playOrder="294">
+			<navLabel>
+				<text>Stephen Hawking</text>
+			</navLabel>
+			<content src="Text/9-295.xhtml#_idParaDest-294"/>
+		</navPoint>
+		<navPoint id="navpoint295" playOrder="295">
+			<navLabel>
+				<text>Yerçekiminin Gökkuşağı</text>
+			</navLabel>
+			<content src="Text/9-296.xhtml#_idParaDest-295"/>
+		</navPoint>
+		<navPoint id="navpoint296" playOrder="296">
+			<navLabel>
+				<text>Brian Eno</text>
+			</navLabel>
+			<content src="Text/9-297.xhtml#_idParaDest-296"/>
+		</navPoint>
+		<navPoint id="navpoint297" playOrder="297">
+			<navLabel>
+				<text>Jack Nicholson</text>
+			</navLabel>
+			<content src="Text/9-298.xhtml#_idParaDest-297"/>
+		</navPoint>
+		<navPoint id="navpoint298" playOrder="298">
+			<navLabel>
+				<text>Yeni Muhafazakarlık</text>
+			</navLabel>
+			<content src="Text/9-299.xhtml#_idParaDest-298"/>
+		</navPoint>
+		<navPoint id="navpoint299" playOrder="299">
+			<navLabel>
+				<text>Joe Montana</text>
+			</navLabel>
+			<content src="Text/9-300.xhtml#_idParaDest-299"/>
+		</navPoint>
+		<navPoint id="navpoint300" playOrder="300">
+			<navLabel>
+				<text>Lahana Bebek</text>
+			</navLabel>
+			<content src="Text/9-301.xhtml#_idParaDest-300"/>
+		</navPoint>
+		<navPoint id="navpoint301" playOrder="301">
+			<navLabel>
+				<text>Donald Trump</text>
+			</navLabel>
+			<content src="Text/9-302.xhtml#_idParaDest-301"/>
+		</navPoint>
+		<navPoint id="navpoint302" playOrder="302">
+			<navLabel>
+				<text>Postkolonyalizm</text>
+			</navLabel>
+			<content src="Text/9-303.xhtml#_idParaDest-302"/>
+		</navPoint>
+		<navPoint id="navpoint303" playOrder="303">
+			<navLabel>
+				<text>Bob Marley</text>
+			</navLabel>
+			<content src="Text/9-304.xhtml#_idParaDest-303"/>
+		</navPoint>
+		<navPoint id="navpoint304" playOrder="304">
+			<navLabel>
+				<text>Francis Ford Coppola</text>
+			</navLabel>
+			<content src="Text/9-305.xhtml#_idParaDest-304"/>
+		</navPoint>
+		<navPoint id="navpoint305" playOrder="305">
+			<navLabel>
+				<text>Gey Hakları</text>
+			</navLabel>
+			<content src="Text/9-306.xhtml#_idParaDest-305"/>
+		</navPoint>
+		<navPoint id="navpoint306" playOrder="306">
+			<navLabel>
+				<text>Larry Bird</text>
+			</navLabel>
+			<content src="Text/9-307.xhtml#_idParaDest-306"/>
+		</navPoint>
+		<navPoint id="navpoint307" playOrder="307">
+			<navLabel>
+				<text>Bill Cosby</text>
+			</navLabel>
+			<content src="Text/9-308.xhtml#_idParaDest-307"/>
+		</navPoint>
+		<navPoint id="navpoint308" playOrder="308">
+			<navLabel>
+				<text>Bono</text>
+			</navLabel>
+			<content src="Text/9-309.xhtml#_idParaDest-308"/>
+		</navPoint>
+		<navPoint id="navpoint309" playOrder="309">
+			<navLabel>
+				<text>Toni Morrison</text>
+			</navLabel>
+			<content src="Text/9-310.xhtml#_idParaDest-309"/>
+		</navPoint>
+		<navPoint id="navpoint310" playOrder="310">
+			<navLabel>
+				<text>Patti Smith</text>
+			</navLabel>
+			<content src="Text/9-311.xhtml#_idParaDest-310"/>
+		</navPoint>
+		<navPoint id="navpoint311" playOrder="311">
+			<navLabel>
+				<text>The Godfather (1972)</text>
+			</navLabel>
+			<content src="Text/9-312.xhtml#_idParaDest-311"/>
+		</navPoint>
+		<navPoint id="navpoint312" playOrder="312">
+			<navLabel>
+				<text>CNN ve 24 Saatlik Haber Döngüsü</text>
+			</navLabel>
+			<content src="Text/9-313.xhtml#_idParaDest-312"/>
+		</navPoint>
+		<navPoint id="navpoint313" playOrder="313">
+			<navLabel>
+				<text>Magic Johnson</text>
+			</navLabel>
+			<content src="Text/9-314.xhtml#_idParaDest-313"/>
+		</navPoint>
+		<navPoint id="navpoint314" playOrder="314">
+			<navLabel>
+				<text>Hulk Hogan</text>
+			</navLabel>
+			<content src="Text/9-315.xhtml#_idParaDest-314"/>
+		</navPoint>
+		<navPoint id="navpoint315" playOrder="315">
+			<navLabel>
+				<text>Bill Clinton</text>
+			</navLabel>
+			<content src="Text/9-316.xhtml#_idParaDest-315"/>
+		</navPoint>
+		<navPoint id="navpoint316" playOrder="316">
+			<navLabel>
+				<text>Renklerden Mor</text>
+			</navLabel>
+			<content src="Text/9-317.xhtml#_idParaDest-316"/>
+		</navPoint>
+		<navPoint id="navpoint317" playOrder="317">
+			<navLabel>
+				<text>The Clash</text>
+			</navLabel>
+			<content src="Text/9-318.xhtml#_idParaDest-317"/>
+		</navPoint>
+		<navPoint id="navpoint318" playOrder="318">
+			<navLabel>
+				<text>Martin Scorsese</text>
+			</navLabel>
+			<content src="Text/9-319.xhtml#_idParaDest-318"/>
+		</navPoint>
+		<navPoint id="navpoint319" playOrder="319">
+			<navLabel>
+				<text>Yuppie’ler</text>
+			</navLabel>
+			<content src="Text/9-320.xhtml#_idParaDest-319"/>
+		</navPoint>
+		<navPoint id="navpoint320" playOrder="320">
+			<navLabel>
+				<text>Wayne Gretzky</text>
+			</navLabel>
+			<content src="Text/9-321.xhtml#_idParaDest-320"/>
+		</navPoint>
+		<navPoint id="navpoint321" playOrder="321">
+			<navLabel>
+				<text>New Kids on the Block</text>
+			</navLabel>
+			<content src="Text/9-322.xhtml#_idParaDest-321"/>
+		</navPoint>
+		<navPoint id="navpoint322" playOrder="322">
+			<navLabel>
+				<text>Rush Limbaugh</text>
+			</navLabel>
+			<content src="Text/9-323.xhtml#_idParaDest-322"/>
+		</navPoint>
+		<navPoint id="navpoint323" playOrder="323">
+			<navLabel>
+				<text>Varolmanın Dayanılmaz Hafifliği</text>
+			</navLabel>
+			<content src="Text/9-324.xhtml#_idParaDest-323"/>
+		</navPoint>
+		<navPoint id="navpoint324" playOrder="324">
+			<navLabel>
+				<text>Philip Glass</text>
+			</navLabel>
+			<content src="Text/9-325.xhtml#_idParaDest-324"/>
+		</navPoint>
+		<navPoint id="navpoint325" playOrder="325">
+			<navLabel>
+				<text>Robert De Niro</text>
+			</navLabel>
+			<content src="Text/9-326.xhtml#_idParaDest-325"/>
+		</navPoint>
+		<navPoint id="navpoint326" playOrder="326">
+			<navLabel>
+				<text>Glasnost</text>
+			</navLabel>
+			<content src="Text/9-327.xhtml#_idParaDest-326"/>
+		</navPoint>
+		<navPoint id="navpoint327" playOrder="327">
+			<navLabel>
+				<text>Carl Lewis</text>
+			</navLabel>
+			<content src="Text/9-328.xhtml#_idParaDest-327"/>
+		</navPoint>
+		<navPoint id="navpoint328" playOrder="328">
+			<navLabel>
+				<text>Resimli Romanlar</text>
+			</navLabel>
+			<content src="Text/9-329.xhtml#_idParaDest-328"/>
+		</navPoint>
+		<navPoint id="navpoint329" playOrder="329">
+			<navLabel>
+				<text>Galler Prensesi Diana</text>
+			</navLabel>
+			<content src="Text/9-330.xhtml#_idParaDest-329"/>
+		</navPoint>
+		<navPoint id="navpoint330" playOrder="330">
+			<navLabel>
+				<text>Şeytan Ayetleri</text>
+			</navLabel>
+			<content src="Text/9-331.xhtml#_idParaDest-330"/>
+		</navPoint>
+		<navPoint id="navpoint331" playOrder="331">
+			<navLabel>
+				<text>DJ Kool Herc</text>
+			</navLabel>
+			<content src="Text/9-332.xhtml#_idParaDest-331"/>
+		</navPoint>
+		<navPoint id="navpoint332" playOrder="332">
+			<navLabel>
+				<text>Steven Spielberg</text>
+			</navLabel>
+			<content src="Text/9-333.xhtml#_idParaDest-332"/>
+		</navPoint>
+		<navPoint id="navpoint333" playOrder="333">
+			<navLabel>
+				<text>Politik Doğruculuk</text>
+			</navLabel>
+			<content src="Text/9-334.xhtml#_idParaDest-333"/>
+		</navPoint>
+		<navPoint id="navpoint334" playOrder="334">
+			<navLabel>
+				<text>Jackie Joyner-Kersee</text>
+			</navLabel>
+			<content src="Text/9-335.xhtml#_idParaDest-334"/>
+		</navPoint>
+		<navPoint id="navpoint335" playOrder="335">
+			<navLabel>
+				<text>Jerry Seinfeld</text>
+			</navLabel>
+			<content src="Text/9-336.xhtml#_idParaDest-335"/>
+		</navPoint>
+		<navPoint id="navpoint336" playOrder="336">
+			<navLabel>
+				<text>Timothy McVeigh</text>
+			</navLabel>
+			<content src="Text/9-337.xhtml#_idParaDest-336"/>
+		</navPoint>
+		<navPoint id="navpoint337" playOrder="337">
+			<navLabel>
+				<text>Amy Tan</text>
+			</navLabel>
+			<content src="Text/9-338.xhtml#_idParaDest-337"/>
+		</navPoint>
+		<navPoint id="navpoint338" playOrder="338">
+			<navLabel>
+				<text>Thriller</text>
+			</navLabel>
+			<content src="Text/9-339.xhtml#_idParaDest-338"/>
+		</navPoint>
+		<navPoint id="navpoint339" playOrder="339">
+			<navLabel>
+				<text>Star Wars (1977)</text>
+			</navLabel>
+			<content src="Text/9-340.xhtml#_idParaDest-339"/>
+		</navPoint>
+		<navPoint id="navpoint340" playOrder="340">
+			<navLabel>
+				<text>İnternet </text>
+			</navLabel>
+			<content src="Text/9-341.xhtml#_idParaDest-340"/>
+		</navPoint>
+		<navPoint id="navpoint341" playOrder="341">
+			<navLabel>
+				<text>Michael Jordan</text>
+			</navLabel>
+			<content src="Text/9-342.xhtml#_idParaDest-341"/>
+		</navPoint>
+		<navPoint id="navpoint342" playOrder="342">
+			<navLabel>
+				<text>O. J. Simpson</text>
+			</navLabel>
+			<content src="Text/9-343.xhtml#_idParaDest-342"/>
+		</navPoint>
+		<navPoint id="navpoint343" playOrder="343">
+			<navLabel>
+				<text>Garry Kasparov</text>
+			</navLabel>
+			<content src="Text/9-344.xhtml#_idParaDest-343"/>
+		</navPoint>
+		<navPoint id="navpoint344" playOrder="344">
+			<navLabel>
+				<text>Üstkurmaca (Metafiction)</text>
+			</navLabel>
+			<content src="Text/9-345.xhtml#_idParaDest-344"/>
+		</navPoint>
+		<navPoint id="navpoint345" playOrder="345">
+			<navLabel>
+				<text>Madonna</text>
+			</navLabel>
+			<content src="Text/9-346.xhtml#_idParaDest-345"/>
+		</navPoint>
+		<navPoint id="navpoint346" playOrder="346">
+			<navLabel>
+				<text>Meryl Streep</text>
+			</navLabel>
+			<content src="Text/9-347.xhtml#_idParaDest-346"/>
+		</navPoint>
+		<navPoint id="navpoint347" playOrder="347">
+			<navLabel>
+				<text>Klonlama</text>
+			</navLabel>
+			<content src="Text/9-348.xhtml#_idParaDest-347"/>
+		</navPoint>
+		<navPoint id="navpoint348" playOrder="348">
+			<navLabel>
+				<text>Lance Armstrong </text>
+			</navLabel>
+			<content src="Text/9-349.xhtml#_idParaDest-348"/>
+		</navPoint>
+		<navPoint id="navpoint349" playOrder="349">
+			<navLabel>
+				<text>Friends</text>
+			</navLabel>
+			<content src="Text/9-350.xhtml#_idParaDest-349"/>
+		</navPoint>
+		<navPoint id="navpoint350" playOrder="350">
+			<navLabel>
+				<text>Oprah Winfrey</text>
+			</navLabel>
+			<content src="Text/9-351.xhtml#_idParaDest-350"/>
+		</navPoint>
+		<navPoint id="navpoint351" playOrder="351">
+			<navLabel>
+				<text>Don DeLillo</text>
+			</navLabel>
+			<content src="Text/9-352.xhtml#_idParaDest-351"/>
+		</navPoint>
+		<navPoint id="navpoint352" playOrder="352">
+			<navLabel>
+				<text>Nirvana</text>
+			</navLabel>
+			<content src="Text/9-353.xhtml#_idParaDest-352"/>
+		</navPoint>
+		<navPoint id="navpoint353" playOrder="353">
+			<navLabel>
+				<text>Spike Lee</text>
+			</navLabel>
+			<content src="Text/9-354.xhtml#_idParaDest-353"/>
+		</navPoint>
+		<navPoint id="navpoint354" playOrder="354">
+			<navLabel>
+				<text>Küreselleşme Karşıtlığı</text>
+			</navLabel>
+			<content src="Text/9-355.xhtml#_idParaDest-354"/>
+		</navPoint>
+		<navPoint id="navpoint355" playOrder="355">
+			<navLabel>
+				<text>Mia Hamm</text>
+			</navLabel>
+			<content src="Text/9-356.xhtml#_idParaDest-355"/>
+		</navPoint>
+		<navPoint id="navpoint356" playOrder="356">
+			<navLabel>
+				<text>Martha Stewart</text>
+			</navLabel>
+			<content src="Text/9-357.xhtml#_idParaDest-356"/>
+		</navPoint>
+		<navPoint id="navpoint357" playOrder="357">
+			<navLabel>
+				<text>Rupert Murdoch </text>
+			</navLabel>
+			<content src="Text/9-358.xhtml#_idParaDest-357"/>
+		</navPoint>
+		<navPoint id="navpoint358" playOrder="358">
+			<navLabel>
+				<text>Kazuo Ishiguro</text>
+			</navLabel>
+			<content src="Text/9-359.xhtml#_idParaDest-358"/>
+		</navPoint>
+		<navPoint id="navpoint359" playOrder="359">
+			<navLabel>
+				<text>2Pac ve Biggie</text>
+			</navLabel>
+			<content src="Text/9-360.xhtml#_idParaDest-359"/>
+		</navPoint>
+		<navPoint id="navpoint360" playOrder="360">
+			<navLabel>
+				<text>Titanic (1997)</text>
+			</navLabel>
+			<content src="Text/9-361.xhtml#_idParaDest-360"/>
+		</navPoint>
+		<navPoint id="navpoint361" playOrder="361">
+			<navLabel>
+				<text>Avrupa Birliği</text>
+			</navLabel>
+			<content src="Text/9-362.xhtml#_idParaDest-361"/>
+		</navPoint>
+		<navPoint id="navpoint362" playOrder="362">
+			<navLabel>
+				<text>Tiger Woods</text>
+			</navLabel>
+			<content src="Text/9-363.xhtml#_idParaDest-362"/>
+		</navPoint>
+		<navPoint id="navpoint363" playOrder="363">
+			<navLabel>
+				<text>The Sopranos</text>
+			</navLabel>
+			<content src="Text/9-364.xhtml#_idParaDest-363"/>
+		</navPoint>
+		<navPoint id="navpoint364" playOrder="364">
+			<navLabel>
+				<text>J. K. Rowling</text>
+			</navLabel>
+			<content src="Text/9-365.xhtml#_idParaDest-364"/>
+		</navPoint>
+	</navMap>
+</ncx>

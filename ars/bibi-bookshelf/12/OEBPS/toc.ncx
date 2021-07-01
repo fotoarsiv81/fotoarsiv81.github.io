@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="{240624A1-F386-45C1-AA76-C26186A703E8}"/>
+        <meta name="dtb:depth" content="2"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>Piramitler Gerçeği</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>1. Gizemli Hatlar</text>
+            </navLabel>
+            <content src="Text/Section1.xhtml"/>
+            <navPoint id="navPoint-2" playOrder="2">
+                <navLabel>
+                    <text>Bölgesel Bağlantılar ve Hatlar</text>
+                </navLabel>
+                <content src="Text/Section1.xhtml#sigil_toc_id_2"/>
+            </navPoint>
+            <navPoint id="navPoint-3" playOrder="3">
+                <navLabel>
+                    <text>Modern Hat Araştırmaları</text>
+                </navLabel>
+                <content src="Text/Section1.xhtml#sigil_toc_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-4" playOrder="4">
+                <navLabel>
+                    <text>Bredon Tepeleri Hatları</text>
+                </navLabel>
+                <content src="Text/Section1.xhtml#sigil_toc_id_4"/>
+            </navPoint>
+            <navPoint id="navPoint-5" playOrder="5">
+                <navLabel>
+                    <text>Avebury</text>
+                </navLabel>
+                <content src="Text/Section1.xhtml#sigil_toc_id_5"/>
+            </navPoint>
+            <navPoint id="navPoint-6" playOrder="6">
+                <navLabel>
+                    <text>Kiliseler ve Avebury</text>
+                </navLabel>
+                <content src="Text/Section1.xhtml#sigil_toc_id_6"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>2. Bir Dairenin Parçaları</text>
+            </navLabel>
+            <content src="Text/Section2.xhtml"/>
+            <navPoint id="navPoint-8" playOrder="8">
+                <navLabel>
+                    <text>Izgara Sistemi</text>
+                </navLabel>
+                <content src="Text/Section2.xhtml#sigil_toc_id_8"/>
+            </navPoint>
+            <navPoint id="navPoint-9" playOrder="9">
+                <navLabel>
+                    <text>Zemin Katlar</text>
+                </navLabel>
+                <content src="Text/Section2.xhtml#sigil_toc_id_9"/>
+            </navPoint>
+            <navPoint id="navPoint-10" playOrder="10">
+                <navLabel>
+                    <text>Taş Dairesi Mühendisleri</text>
+                </navLabel>
+                <content src="Text/Section2.xhtml#sigil_toc_id_10"/>
+            </navPoint>
+            <navPoint id="navPoint-11" playOrder="11">
+                <navLabel>
+                    <text>Megalitik Metre</text>
+                </navLabel>
+                <content src="Text/Section2.xhtml#sigil_toc_id_11"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>3. Geçmişin Damgası</text>
+            </navLabel>
+            <content src="Text/Section3.xhtml"/>
+            <navPoint id="navPoint-13" playOrder="13">
+                <navLabel>
+                    <text>Neolitik İngiltere</text>
+                </navLabel>
+                <content src="Text/Section3.xhtml#sigil_toc_id_13"/>
+            </navPoint>
+            <navPoint id="navPoint-14" playOrder="14">
+                <navLabel>
+                    <text>Tuatha de Danann</text>
+                </navLabel>
+                <content src="Text/Section3.xhtml#sigil_toc_id_14"/>
+            </navPoint>
+            <navPoint id="navPoint-15" playOrder="15">
+                <navLabel>
+                    <text>Astronom Rahipler</text>
+                </navLabel>
+                <content src="Text/Section3.xhtml#sigil_toc_id_15"/>
+            </navPoint>
+            <navPoint id="navPoint-16" playOrder="16">
+                <navLabel>
+                    <text>Aubrey Çukurları, Stonehenge</text>
+                </navLabel>
+                <content src="Text/Section3.xhtml#sigil_toc_id_16"/>
+            </navPoint>
+            <navPoint id="navPoint-17" playOrder="17">
+                <navLabel>
+                    <text>Avrupa Megalitleri</text>
+                </navLabel>
+                <content src="Text/Section3.xhtml#sigil_toc_id_17"/>
+            </navPoint>
+            <navPoint id="navPoint-18" playOrder="18">
+                <navLabel>
+                    <text>Yerdeki Daireler: Gökyüzündeki Daireler</text>
+                </navLabel>
+                <content src="Text/Section3.xhtml#sigil_toc_id_18"/>
+            </navPoint>
+            <navPoint id="navPoint-19" playOrder="19">
+                <navLabel>
+                    <text>Mısır Hanedanlığı</text>
+                </navLabel>
+                <content src="Text/Section3.xhtml#sigil_toc_id_19"/>
+            </navPoint>
+            <navPoint id="navPoint-20" playOrder="20">
+                <navLabel>
+                    <text>Maya Takvimi</text>
+                </navLabel>
+                <content src="Text/Section3.xhtml#sigil_toc_id_20"/>
+            </navPoint>
+            <navPoint id="navPoint-21" playOrder="21">
+                <navLabel>
+                    <text>M.Ö.3100 - Çok Önemli Bir Gün</text>
+                </navLabel>
+                <content src="Text/Section3.xhtml#sigil_toc_id_21"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+                <text>4. Gizemli Derinlikler</text>
+            </navLabel>
+            <content src="Text/Section4.xhtml"/>
+            <navPoint id="navPoint-23" playOrder="23">
+                <navLabel>
+                    <text>666 Sayısı</text>
+                </navLabel>
+                <content src="Text/Section4.xhtml#sigil_toc_id_23"/>
+            </navPoint>
+            <navPoint id="navPoint-24" playOrder="24">
+                <navLabel>
+                    <text>Sihirli Kareler</text>
+                </navLabel>
+                <content src="Text/Section4.xhtml#sigil_toc_id_24"/>
+            </navPoint>
+            <navPoint id="navPoint-25" playOrder="25">
+                <navLabel>
+                    <text>İkinci Bir Daire?</text>
+                </navLabel>
+                <content src="Text/Section4.xhtml#sigil_toc_id_25"/>
+            </navPoint>
+            <navPoint id="navPoint-26" playOrder="26">
+                <navLabel>
+                    <text>Uzun Bir Doğru - St.Michael Hattı</text>
+                </navLabel>
+                <content src="Text/Section4.xhtml#sigil_toc_id_26"/>
+            </navPoint>
+            <navPoint id="navPoint-27" playOrder="27">
+                <navLabel>
+                    <text>Büyük Piramit</text>
+                </navLabel>
+                <content src="Text/Section4.xhtml#sigil_toc_id_27"/>
+            </navPoint>
+            <navPoint id="navPoint-28" playOrder="28">
+                <navLabel>
+                    <text>Tapınak Şövalyeleri</text>
+                </navLabel>
+                <content src="Text/Section4.xhtml#sigil_toc_id_28"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+                <text>5. Mısır Piramitleri</text>
+            </navLabel>
+            <content src="Text/Section5.xhtml"/>
+            <navPoint id="navPoint-30" playOrder="30">
+                <navLabel>
+                    <text>Keops Piramidi - Büyük Piramit</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_30"/>
+            </navPoint>
+            <navPoint id="navPoint-31" playOrder="31">
+                <navLabel>
+                    <text>Giza Grubu</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_31"/>
+            </navPoint>
+            <navPoint id="navPoint-32" playOrder="32">
+                <navLabel>
+                    <text>Stellar Hattı</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_32"/>
+            </navPoint>
+            <navPoint id="navPoint-33" playOrder="33">
+                <navLabel>
+                    <text>Tanrılar ve Tanrıçalar</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_33"/>
+            </navPoint>
+            <navPoint id="navPoint-34" playOrder="34">
+                <navLabel>
+                    <text>İsis ve Osiris Miti</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_34"/>
+            </navPoint>
+            <navPoint id="navPoint-35" playOrder="35">
+                <navLabel>
+                    <text>Piramit Üçlemesi</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_35"/>
+            </navPoint>
+            <navPoint id="navPoint-36" playOrder="36">
+                <navLabel>
+                    <text>Piramitlerin Boyutları ve Yapıları</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_36"/>
+            </navPoint>
+            <navPoint id="navPoint-37" playOrder="37">
+                <navLabel>
+                    <text>Büyük Piramit'in Ölçüleri</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_37"/>
+            </navPoint>
+            <navPoint id="navPoint-38" playOrder="38">
+                <navLabel>
+                    <text>Phi ve Pi</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_38"/>
+            </navPoint>
+            <navPoint id="navPoint-39" playOrder="39">
+                <navLabel>
+                    <text>İç Odalar</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_39"/>
+            </navPoint>
+            <navPoint id="navPoint-40" playOrder="40">
+                <navLabel>
+                    <text>Kefren Piramidi'nin Ölçüleri</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_40"/>
+            </navPoint>
+            <navPoint id="navPoint-41" playOrder="41">
+                <navLabel>
+                    <text>Menkar Piramidi'nin Ölçüleri</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_41"/>
+            </navPoint>
+            <navPoint id="navPoint-42" playOrder="42">
+                <navLabel>
+                    <text>Sayı Sembolizmi</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_42"/>
+            </navPoint>
+            <navPoint id="navPoint-43" playOrder="43">
+                <navLabel>
+                    <text>Matematik ve Firavunlar</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_43"/>
+            </navPoint>
+            <navPoint id="navPoint-44" playOrder="44">
+                <navLabel>
+                    <text>Sayılarla Oyunlar</text>
+                </navLabel>
+                <content src="Text/Section5.xhtml#sigil_toc_id_44"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+            <navLabel>
+                <text>6. Kutsal Geometri ve Giza Piramitleri</text>
+            </navLabel>
+            <content src="Text/Section6.xhtml"/>
+            <navPoint id="navPoint-46" playOrder="46">
+                <navLabel>
+                    <text>Kutsal Geometri</text>
+                </navLabel>
+                <content src="Text/Section6.xhtml#sigil_toc_id_46"/>
+            </navPoint>
+            <navPoint id="navPoint-47" playOrder="47">
+                <navLabel>
+                    <text>Daire, Üçgen ve Kare</text>
+                </navLabel>
+                <content src="Text/Section6.xhtml#sigil_toc_id_47"/>
+            </navPoint>
+            <navPoint id="navPoint-48" playOrder="48">
+                <navLabel>
+                    <text>Pergel ve Izgara</text>
+                </navLabel>
+                <content src="Text/Section6.xhtml#sigil_toc_id_48"/>
+            </navPoint>
+            <navPoint id="navPoint-49" playOrder="49">
+                <navLabel>
+                    <text>Giza Bölgesi</text>
+                </navLabel>
+                <content src="Text/Section6.xhtml#sigil_toc_id_49"/>
+            </navPoint>
+            <navPoint id="navPoint-50" playOrder="50">
+                <navLabel>
+                    <text>Giza Ziyareti</text>
+                </navLabel>
+                <content src="Text/Section6.xhtml#sigil_toc_id_50"/>
+            </navPoint>
+            <navPoint id="navPoint-51" playOrder="51">
+                <navLabel>
+                    <text>Marlborough Downs Izgarası</text>
+                </navLabel>
+                <content src="Text/Section6.xhtml#sigil_toc_id_51"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-52" playOrder="52">
+            <navLabel>
+                <text>7. Antik Bağlantı</text>
+            </navLabel>
+            <content src="Text/Section7.xhtml"/>
+            <navPoint id="navPoint-53" playOrder="53">
+                <navLabel>
+                    <text>İklim Değişiklikleri</text>
+                </navLabel>
+                <content src="Text/Section7.xhtml#sigil_toc_id_53"/>
+            </navPoint>
+            <navPoint id="navPoint-54" playOrder="54">
+                <navLabel>
+                    <text>Marlborough Daireleri'ndeki Çelişki</text>
+                </navLabel>
+                <content src="Text/Section7.xhtml#sigil_toc_id_54"/>
+            </navPoint>
+            <navPoint id="navPoint-55" playOrder="55">
+                <navLabel>
+                    <text>Atlantik Dünya</text>
+                </navLabel>
+                <content src="Text/Section7.xhtml#sigil_toc_id_55"/>
+            </navPoint>
+            <navPoint id="navPoint-56" playOrder="56">
+                <navLabel>
+                    <text>Maltese Tapınakları</text>
+                </navLabel>
+                <content src="Text/Section7.xhtml#sigil_toc_id_56"/>
+            </navPoint>
+            <navPoint id="navPoint-57" playOrder="57">
+                <navLabel>
+                    <text>Fransız Deniz Seviyeleri</text>
+                </navLabel>
+                <content src="Text/Section7.xhtml#sigil_toc_id_57"/>
+            </navPoint>
+            <navPoint id="navPoint-58" playOrder="58">
+                <navLabel>
+                    <text>Atlantis Felaketi</text>
+                </navLabel>
+                <content src="Text/Section7.xhtml#sigil_toc_id_58"/>
+            </navPoint>
+            <navPoint id="navPoint-59" playOrder="59">
+                <navLabel>
+                    <text>Tektonik Tabakalar</text>
+                </navLabel>
+                <content src="Text/Section7.xhtml#sigil_toc_id_59"/>
+            </navPoint>
+            <navPoint id="navPoint-60" playOrder="60">
+                <navLabel>
+                    <text>Atlantis Enlemi</text>
+                </navLabel>
+                <content src="Text/Section7.xhtml#sigil_toc_id_60"/>
+            </navPoint>
+            <navPoint id="navPoint-61" playOrder="61">
+                <navLabel>
+                    <text>Atlantis Kıtası</text>
+                </navLabel>
+                <content src="Text/Section7.xhtml#sigil_toc_id_61"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-62" playOrder="62">
+            <navLabel>
+                <text>8. Çubuk ve Kübit</text>
+            </navLabel>
+            <content src="Text/Section8.xhtml"/>
+            <navPoint id="navPoint-63" playOrder="63">
+                <navLabel>
+                    <text>Birleşmiş Ölçüler</text>
+                </navLabel>
+                <content src="Text/Section8.xhtml#sigil_toc_id_63"/>
+            </navPoint>
+            <navPoint id="navPoint-64" playOrder="64">
+                <navLabel>
+                    <text>Dünya Ölçüleri</text>
+                </navLabel>
+                <content src="Text/Section8.xhtml#sigil_toc_id_64"/>
+            </navPoint>
+            <navPoint id="navPoint-65" playOrder="65">
+                <navLabel>
+                    <text>Megalitik Metre</text>
+                </navLabel>
+                <content src="Text/Section8.xhtml#sigil_toc_id_65"/>
+            </navPoint>
+            <navPoint id="navPoint-66" playOrder="66">
+                <navLabel>
+                    <text>Yarıçap</text>
+                </navLabel>
+                <content src="Text/Section8.xhtml#sigil_toc_id_66"/>
+            </navPoint>
+            <navPoint id="navPoint-67" playOrder="67">
+                <navLabel>
+                    <text>Fransız Metresi</text>
+                </navLabel>
+                <content src="Text/Section8.xhtml#sigil_toc_id_67"/>
+            </navPoint>
+            <navPoint id="navPoint-68" playOrder="68">
+                <navLabel>
+                    <text>Ölçü Kanunu</text>
+                </navLabel>
+                <content src="Text/Section8.xhtml#sigil_toc_id_68"/>
+            </navPoint>
+            <navPoint id="navPoint-69" playOrder="69">
+                <navLabel>
+                    <text>İmparatorluk Ölçüleri ve Çevre Uzunluğu</text>
+                </navLabel>
+                <content src="Text/Section8.xhtml#sigil_toc_id_69"/>
+            </navPoint>
+            <navPoint id="navPoint-70" playOrder="70">
+                <navLabel>
+                    <text>Furlong</text>
+                </navLabel>
+                <content src="Text/Section8.xhtml#sigil_toc_id_70"/>
+            </navPoint>
+            <navPoint id="navPoint-71" playOrder="71">
+                <navLabel>
+                    <text>Rod</text>
+                </navLabel>
+                <content src="Text/Section8.xhtml#sigil_toc_id_71"/>
+            </navPoint>
+            <navPoint id="navPoint-72" playOrder="72">
+                <navLabel>
+                    <text>Megalitik Metre ve Kısa Furlong</text>
+                </navLabel>
+                <content src="Text/Section8.xhtml#sigil_toc_id_72"/>
+            </navPoint>
+            <navPoint id="navPoint-73" playOrder="73">
+                <navLabel>
+                    <text>Kısa Furlong ve Ekvator Çevresi</text>
+                </navLabel>
+                <content src="Text/Section8.xhtml#sigil_toc_id_73"/>
+            </navPoint>
+            <navPoint id="navPoint-74" playOrder="74">
+                <navLabel>
+                    <text>Enlem ve Boylam</text>
+                </navLabel>
+                <content src="Text/Section8.xhtml#sigil_toc_id_74"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-75" playOrder="75">
+            <navLabel>
+                <text>9. Antik Gözlemciler</text>
+            </navLabel>
+            <content src="Text/Section9.xhtml"/>
+            <navPoint id="navPoint-76" playOrder="76">
+                <navLabel>
+                    <text>Yeryüzünü Gözlemlemek</text>
+                </navLabel>
+                <content src="Text/Section9.xhtml#sigil_toc_id_76"/>
+            </navPoint>
+            <navPoint id="navPoint-77" playOrder="77">
+                <navLabel>
+                    <text>Bredon Hili ve Çevresi</text>
+                </navLabel>
+                <content src="Text/Section9.xhtml#sigil_toc_id_77"/>
+            </navPoint>
+            <navPoint id="navPoint-78" playOrder="78">
+                <navLabel>
+                    <text>Şekil Ortaya Çıkıyor</text>
+                </navLabel>
+                <content src="Text/Section9.xhtml#sigil_toc_id_78"/>
+            </navPoint>
+            <navPoint id="navPoint-79" playOrder="79">
+                <navLabel>
+                    <text>Nihayet Çözüm</text>
+                </navLabel>
+                <content src="Text/Section9.xhtml#sigil_toc_id_79"/>
+            </navPoint>
+            <navPoint id="navPoint-80" playOrder="80">
+                <navLabel>
+                    <text>Bredon HilI'deki Şekil</text>
+                </navLabel>
+                <content src="Text/Section9.xhtml#sigil_toc_id_80"/>
+            </navPoint>
+            <navPoint id="navPoint-81" playOrder="81">
+                <navLabel>
+                    <text>Bredon Bill Yapılarının Geometrisi</text>
+                </navLabel>
+                <content src="Text/Section9.xhtml#sigil_toc_id_81"/>
+            </navPoint>
+            <navPoint id="navPoint-82" playOrder="82">
+                <navLabel>
+                    <text>Antik Gözlemcilerin Anahtarları</text>
+                </navLabel>
+                <content src="Text/Section9.xhtml#sigil_toc_id_82"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-83" playOrder="83">
+            <navLabel>
+                <text>10. Fısıldayan Taşlar</text>
+            </navLabel>
+            <content src="Text/Section10.xhtml"/>
+            <navPoint id="navPoint-84" playOrder="84">
+                <navLabel>
+                    <text>Bodmin Moor</text>
+                </navLabel>
+                <content src="Text/Section10.xhtml#sigil_toc_id_84"/>
+            </navPoint>
+            <navPoint id="navPoint-85" playOrder="85">
+                <navLabel>
+                    <text>Bodmin Moor Şekilleri</text>
+                </navLabel>
+                <content src="Text/Section10.xhtml#sigil_toc_id_85"/>
+            </navPoint>
+            <navPoint id="navPoint-86" playOrder="86">
+                <navLabel>
+                    <text>Daire Analizleri</text>
+                </navLabel>
+                <content src="Text/Section10.xhtml#sigil_toc_id_86"/>
+            </navPoint>
+            <navPoint id="navPoint-87" playOrder="87">
+                <navLabel>
+                    <text>Açıları Belirlemek</text>
+                </navLabel>
+                <content src="Text/Section10.xhtml#sigil_toc_id_87"/>
+            </navPoint>
+            <navPoint id="navPoint-88" playOrder="88">
+                <navLabel>
+                    <text>Dakikalar ve Saniyeler</text>
+                </navLabel>
+                <content src="Text/Section10.xhtml#sigil_toc_id_88"/>
+            </navPoint>
+            <navPoint id="navPoint-89" playOrder="89">
+                <navLabel>
+                    <text>Taş Daireleri ve Hatlar</text>
+                </navLabel>
+                <content src="Text/Section10.xhtml#sigil_toc_id_89"/>
+            </navPoint>
+            <navPoint id="navPoint-90" playOrder="90">
+                <navLabel>
+                    <text>Kozmolojik Perspektif ve Psişik Bakış</text>
+                </navLabel>
+                <content src="Text/Section10.xhtml#sigil_toc_id_90"/>
+            </navPoint>
+            <navPoint id="navPoint-91" playOrder="91">
+                <navLabel>
+                    <text>Taş Daireleri Analizleri</text>
+                </navLabel>
+                <content src="Text/Section10.xhtml#sigil_toc_id_91"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-92" playOrder="92">
+            <navLabel>
+                <text>11. Yeryüzünü İncelemek</text>
+            </navLabel>
+            <content src="Text/Section11.xhtml"/>
+            <navPoint id="navPoint-93" playOrder="93">
+                <navLabel>
+                    <text>Yapı Üçgenleri</text>
+                </navLabel>
+                <content src="Text/Section11.xhtml#sigil_toc_id_93"/>
+            </navPoint>
+            <navPoint id="navPoint-94" playOrder="94">
+                <navLabel>
+                    <text>Açıları Oluşturmak</text>
+                </navLabel>
+                <content src="Text/Section11.xhtml#sigil_toc_id_94"/>
+            </navPoint>
+            <navPoint id="navPoint-95" playOrder="95">
+                <navLabel>
+                    <text>Hatları Oluşturmak</text>
+                </navLabel>
+                <content src="Text/Section11.xhtml#sigil_toc_id_95"/>
+            </navPoint>
+            <navPoint id="navPoint-96" playOrder="96">
+                <navLabel>
+                    <text>Sabitlenmiş Nesne Transitleri</text>
+                </navLabel>
+                <content src="Text/Section11.xhtml#sigil_toc_id_96"/>
+            </navPoint>
+            <navPoint id="navPoint-97" playOrder="97">
+                <navLabel>
+                    <text>Işık Transitleri</text>
+                </navLabel>
+                <content src="Text/Section11.xhtml#sigil_toc_id_97"/>
+            </navPoint>
+            <navPoint id="navPoint-98" playOrder="98">
+                <navLabel>
+                    <text>Astro-hatlar</text>
+                </navLabel>
+                <content src="Text/Section11.xhtml#sigil_toc_id_98"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-99" playOrder="99">
+            <navLabel>
+                <text>12. Sır Çözülüyor</text>
+            </navLabel>
+            <content src="Text/Section12.xhtml"/>
+            <navPoint id="navPoint-100" playOrder="100">
+                <navLabel>
+                    <text>Bir Yeryüzü Dairesi Oluşturmak</text>
+                </navLabel>
+                <content src="Text/Section12.xhtml#sigil_toc_id_100"/>
+            </navPoint>
+            <navPoint id="navPoint-101" playOrder="101">
+                <navLabel>
+                    <text>Silbury Hill'deki Gizem Çözülüyor</text>
+                </navLabel>
+                <content src="Text/Section12.xhtml#sigil_toc_id_101"/>
+            </navPoint>
+            <navPoint id="navPoint-102" playOrder="102">
+                <navLabel>
+                    <text>Ölçülmüş Mil</text>
+                </navLabel>
+                <content src="Text/Section12.xhtml#sigil_toc_id_102"/>
+            </navPoint>
+            <navPoint id="navPoint-103" playOrder="103">
+                <navLabel>
+                    <text>Bishops Cannings</text>
+                </navLabel>
+                <content src="Text/Section12.xhtml#sigil_toc_id_103"/>
+            </navPoint>
+            <navPoint id="navPoint-104" playOrder="104">
+                <navLabel>
+                    <text>Bir Bilmece Çözüldü</text>
+                </navLabel>
+                <content src="Text/Section12.xhtml#sigil_toc_id_104"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-105" playOrder="105">
+            <navLabel>
+                <text>13. Dünya'yı Ölçmek</text>
+            </navLabel>
+            <content src="Text/Section13.xhtml"/>
+            <navPoint id="navPoint-106" playOrder="106">
+                <navLabel>
+                    <text>Sanctuary'nin Gizemi</text>
+                </navLabel>
+                <content src="Text/Section13.xhtml#sigil_toc_id_106"/>
+            </navPoint>
+            <navPoint id="navPoint-107" playOrder="107">
+                <navLabel>
+                    <text>Neolitik Bir Abaküs mü?</text>
+                </navLabel>
+                <content src="Text/Section13.xhtml#sigil_toc_id_107"/>
+            </navPoint>
+            <navPoint id="navPoint-108" playOrder="108">
+                <navLabel>
+                    <text>Dünya’nın Ölçüsü</text>
+                </navLabel>
+                <content src="Text/Section13.xhtml#sigil_toc_id_108"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-109" playOrder="109">
+            <navLabel>
+                <text>14. Ejderha Yolu</text>
+            </navLabel>
+            <content src="Text/Section14.xhtml"/>
+            <navPoint id="navPoint-110" playOrder="110">
+                <navLabel>
+                    <text>Uzun Hatlar</text>
+                </navLabel>
+                <content src="Text/Section14.xhtml#sigil_toc_id_110"/>
+            </navPoint>
+            <navPoint id="navPoint-111" playOrder="111">
+                <navLabel>
+                    <text>Stonehenge-Old Sarum Hattı</text>
+                </navLabel>
+                <content src="Text/Section14.xhtml#sigil_toc_id_111"/>
+            </navPoint>
+            <navPoint id="navPoint-112" playOrder="112">
+                <navLabel>
+                    <text>Michael Hattı</text>
+                </navLabel>
+                <content src="Text/Section14.xhtml#sigil_toc_id_112"/>
+            </navPoint>
+            <navPoint id="navPoint-113" playOrder="113">
+                <navLabel>
+                    <text>Canterbury Hattı</text>
+                </navLabel>
+                <content src="Text/Section14.xhtml#sigil_toc_id_113"/>
+            </navPoint>
+            <navPoint id="navPoint-114" playOrder="114">
+                <navLabel>
+                    <text>Geniş Ölçekli Geometrik Şekiller</text>
+                </navLabel>
+                <content src="Text/Section14.xhtml#sigil_toc_id_114"/>
+            </navPoint>
+            <navPoint id="navPoint-115" playOrder="115">
+                <navLabel>
+                    <text>Yeryüzeyindeki Şekiller</text>
+                </navLabel>
+                <content src="Text/Section14.xhtml#sigil_toc_id_115"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-116" playOrder="116">
+            <navLabel>
+                <text>15. Excalibur</text>
+            </navLabel>
+            <content src="Text/Section15.xhtml"/>
+            <navPoint id="navPoint-117" playOrder="117">
+                <navLabel>
+                    <text>Hatların Nedeni</text>
+                </navLabel>
+                <content src="Text/Section15.xhtml#sigil_toc_id_117"/>
+            </navPoint>
+            <navPoint id="navPoint-118" playOrder="118">
+                <navLabel>
+                    <text>Enerji Hatları</text>
+                </navLabel>
+                <content src="Text/Section15.xhtml#sigil_toc_id_118"/>
+            </navPoint>
+            <navPoint id="navPoint-119" playOrder="119">
+                <navLabel>
+                    <text>Kişisel Aktarımlar</text>
+                </navLabel>
+                <content src="Text/Section15.xhtml#sigil_toc_id_119"/>
+            </navPoint>
+            <navPoint id="navPoint-120" playOrder="120">
+                <navLabel>
+                    <text>Kozmik Bağlantılar</text>
+                </navLabel>
+                <content src="Text/Section15.xhtml#sigil_toc_id_120"/>
+            </navPoint>
+            <navPoint id="navPoint-121" playOrder="121">
+                <navLabel>
+                    <text>Arthur'un Excalibur'u</text>
+                </navLabel>
+                <content src="Text/Section15.xhtml#sigil_toc_id_121"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-122" playOrder="122">
+            <navLabel>
+                <text>Ekler 1: Sayı Sembolizmi</text>
+            </navLabel>
+            <content src="Text/Section16.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-123" playOrder="123">
+            <navLabel>
+                <text>Ekler 2: Açı Düzenleyici ve Derece Ölçüleri</text>
+            </navLabel>
+            <content src="Text/Section17.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-124" playOrder="124">
+            <navLabel>
+                <text>Ekler 3: Antik Ölçü Birimlerinin Kuralları</text>
+            </navLabel>
+            <content src="Text/Section18.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>

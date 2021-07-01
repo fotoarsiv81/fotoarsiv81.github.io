@@ -1,0 +1,139 @@
+/*****FONT*****/
+@font-face {
+  font-family: "Berling LT Std Roman";
+  font-style: italic;
+  font-weight: normal;
+  src: url(../Fonts/BerlingLTStd-Italic.ttf);
+  }
+@font-face {
+  font-family: "Berling LT Std Roman";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/BerlingLTStd-Roman.ttf);
+  }
+@font-face {
+  font-family: "Interstate";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/Interstate-RegularCondensed.ttf);
+  }
+/*yazar*/
+/*titlepage*/
+.yazar {
+  font: normal normal 0.93em "Berling LT Std Roman";
+  text-align: justify;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.nonindent {
+  font: normal normal 0.875em "Berling LT Std Roman";
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: justify;
+  text-indent: 0;
+}
+.extract {
+  font: normal normal 0.875em "Berling LT Std Roman";
+  text-indent: 0;
+  text-align: justify;
+  margin-top: 1em;
+  margin-bottom: 0;
+}
+.title {
+  margin-left: 4em;
+}
+.aut {
+  font: normal normal 1.5em "Interstate";
+  line-height: 1.3em;
+  margin-top: 2em;
+  margin-bottom: 3em;
+}
+.aut span, .nonindent span {
+  font-family: "Interstate";
+  display: block;
+  font-size: 1.5em;
+}
+.trans {
+  font: normal normal 0.85em "Interstate";
+  margin-top: 1em;
+}
+.logo {
+  margin: 8em auto 0 auto;
+}
+/*----Künye----*/
+div.copyright {
+  font: normal normal 0.7em "Berling LT Std Roman";
+  margin-top: 0;
+}
+div.copyright > p.crt:last-child {
+  margin-bottom: 0;
+}
+p.crt {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  text-indent: 0;
+}
+h1 {
+  font: normal normal 1.4em "Interstate";
+  text-align: center;
+  margin-top: 2em;
+}
+h3 {
+  font: normal normal 0.95em "Interstate";
+  margin-top: 2em;
+}
+p {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+.chapter p {
+  font: normal normal 0.875em "Berling LT Std Roman";
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.chapter p.extract {
+  font: normal normal 0.875em "Berling LT Std Roman";
+  margin-bottom: 0;
+  margin-top: 1.5em;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.chapter p:first-child {
+  text-indent: 0;
+}
+.right {
+  font: normal normal 0.875em "Berling LT Std Roman";
+  margin-bottom: 0;
+  margin-top: 1em;
+  text-align: right;
+}
+/*figures*/
+.top10 {
+  margin-top: 10em;
+}
+.hangindent3 {
+  display: block;
+  font-family: "Berling LT Std Roman";
+  font-size: 0.85em;
+  margin-left: 2em;
+  text-align: justify;
+  text-indent: -1.5em;
+}
+.backref {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+  font-size: 1.1em;
+}
+.noteref {
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: 0.75em;
+  line-height: 1em;
+  vertical-align: super;
+  padding-left: 0.1em;
+}

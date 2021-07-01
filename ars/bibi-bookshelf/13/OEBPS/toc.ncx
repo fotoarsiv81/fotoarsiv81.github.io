@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text></text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="Text/5.html#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-1.html#toc_marker-2"/>
+      <navPoint id="navpoint3" playOrder="3">
+        <navLabel>
+          <text>ŞEYTAN SOYU</text>
+        </navLabel>
+        <content src="Text/5-1.html#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navpoint4" playOrder="4">
+        <navLabel>
+          <text>DÜŞKÜN MELEKLER</text>
+        </navLabel>
+        <content src="Text/5-1.html#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navpoint5" playOrder="5">
+        <navLabel>
+          <text>MEDLER</text>
+        </navLabel>
+        <content src="Text/5-1.html#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>İSKİTLER</text>
+        </navLabel>
+        <content src="Text/5-1.html#toc_marker-2-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-2.html#toc_marker-3"/>
+      <navPoint id="navpoint8" playOrder="8">
+        <navLabel>
+          <text>SİYONİZM</text>
+        </navLabel>
+        <content src="Text/5-2.html#toc_marker-3-1"/>
+      </navPoint>
+      <navPoint id="navpoint9" playOrder="9">
+        <navLabel>
+          <text>KALDELİ MAGİLER</text>
+        </navLabel>
+        <content src="Text/5-2.html#toc_marker-3-2"/>
+      </navPoint>
+      <navPoint id="navpoint10" playOrder="10">
+        <navLabel>
+          <text>ESKİ YUNAN</text>
+        </navLabel>
+        <content src="Text/5-2.html#toc_marker-3-3"/>
+      </navPoint>
+      <navPoint id="navpoint11" playOrder="11">
+        <navLabel>
+          <text>EFLATUN</text>
+        </navLabel>
+        <content src="Text/5-2.html#toc_marker-3-4"/>
+      </navPoint>
+      <navPoint id="navpoint12" playOrder="12">
+        <navLabel>
+          <text>BÜYÜK İSKENDER</text>
+        </navLabel>
+        <content src="Text/5-2.html#toc_marker-3-5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-3.html#toc_marker-4"/>
+      <navPoint id="navpoint14" playOrder="14">
+        <navLabel>
+          <text>KAPADOKYA</text>
+        </navLabel>
+        <content src="Text/5-3.html#toc_marker-4-1"/>
+      </navPoint>
+      <navPoint id="navpoint15" playOrder="15">
+        <navLabel>
+          <text>MİTRA SOYU</text>
+        </navLabel>
+        <content src="Text/5-3.html#toc_marker-4-2"/>
+      </navPoint>
+      <navPoint id="navpoint16" playOrder="16">
+        <navLabel>
+          <text>YANUDİ İSYANI</text>
+        </navLabel>
+        <content src="Text/5-3.html#toc_marker-4-3"/>
+      </navPoint>
+      <navPoint id="navpoint17" playOrder="17">
+        <navLabel>
+          <text>MİTRA GİZEMLERİ</text>
+        </navLabel>
+        <content src="Text/5-3.html#toc_marker-4-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint18" playOrder="18">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-4.html#toc_marker-5"/>
+      <navPoint id="navpoint19" playOrder="19">
+        <navLabel>
+          <text>BÜYÜK HEROD</text>
+        </navLabel>
+        <content src="Text/5-4.html#toc_marker-5-1"/>
+      </navPoint>
+      <navPoint id="navpoint20" playOrder="20">
+        <navLabel>
+          <text>İRFANİYECİ/GNOSTİK PAULUS</text>
+        </navLabel>
+        <content src="Text/5-4.html#toc_marker-5-2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint21" playOrder="21">
+      <navLabel>
+        <text>BEŞİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-5.html#toc_marker-6"/>
+      <navPoint id="navpoint22" playOrder="22">
+        <navLabel>
+          <text>BRİTANYA</text>
+        </navLabel>
+        <content src="Text/5-5.html#toc_marker-6-1"/>
+      </navPoint>
+      <navPoint id="navpoint23" playOrder="23">
+        <navLabel>
+          <text>KONSTANTİN</text>
+        </navLabel>
+        <content src="Text/5-5.html#toc_marker-6-2"/>
+      </navPoint>
+      <navPoint id="navpoint24" playOrder="24">
+        <navLabel>
+          <text>SAKSONLAR</text>
+        </navLabel>
+        <content src="Text/5-5.html#toc_marker-6-3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint25" playOrder="25">
+      <navLabel>
+        <text>ALTINCI BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-6.html#toc_marker-7"/>
+      <navPoint id="navpoint26" playOrder="26">
+        <navLabel>
+          <text>ERMENİSTAN</text>
+        </navLabel>
+        <content src="Text/5-6.html#toc_marker-7-1"/>
+      </navPoint>
+      <navPoint id="navpoint27" playOrder="27">
+        <navLabel>
+          <text>MANİHEİZM</text>
+        </navLabel>
+        <content src="Text/5-6.html#toc_marker-7-2"/>
+      </navPoint>
+      <navPoint id="navpoint28" playOrder="28">
+        <navLabel>
+          <text>PAFLİKYANLAR</text>
+        </navLabel>
+        <content src="Text/5-6.html#toc_marker-7-3"/>
+      </navPoint>
+      <navPoint id="navpoint29" playOrder="29">
+        <navLabel>
+          <text>HAZARLAR</text>
+        </navLabel>
+        <content src="Text/5-6.html#toc_marker-7-4"/>
+      </navPoint>
+      <navPoint id="navpoint30" playOrder="30">
+        <navLabel>
+          <text>MACARLAR</text>
+        </navLabel>
+        <content src="Text/5-6.html#toc_marker-7-5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint31" playOrder="31">
+      <navLabel>
+        <text>YEDİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-7.html#toc_marker-8"/>
+      <navPoint id="navpoint32" playOrder="32">
+        <navLabel>
+          <text>FRENKLER</text>
+        </navLabel>
+        <content src="Text/5-7.html#toc_marker-8-1"/>
+      </navPoint>
+      <navPoint id="navpoint33" playOrder="33">
+        <navLabel>
+          <text>ŞARLMAN</text>
+        </navLabel>
+        <content src="Text/5-7.html#toc_marker-8-2"/>
+      </navPoint>
+      <navPoint id="navpoint34" playOrder="34">
+        <navLabel>
+          <text>GELONLU GİYOM</text>
+        </navLabel>
+        <content src="Text/5-7.html#toc_marker-8-3"/>
+      </navPoint>
+      <navPoint id="navpoint35" playOrder="35">
+        <navLabel>
+          <text>GİLHEMİDLER</text>
+        </navLabel>
+        <content src="Text/5-7.html#toc_marker-8-4"/>
+      </navPoint>
+      <navPoint id="navpoint36" playOrder="36">
+        <navLabel>
+          <text>BOGOMİLLER</text>
+        </navLabel>
+        <content src="Text/5-7.html#toc_marker-8-5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint37" playOrder="37">
+      <navLabel>
+        <text>SEKİZİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-8.html#toc_marker-9"/>
+      <navPoint id="navpoint38" playOrder="38">
+        <navLabel>
+          <text>SABİLER</text>
+        </navLabel>
+        <content src="Text/5-8.html#toc_marker-9-1"/>
+      </navPoint>
+      <navPoint id="navpoint39" playOrder="39">
+        <navLabel>
+          <text>İSMAİLLER</text>
+        </navLabel>
+        <content src="Text/5-8.html#toc_marker-9-2"/>
+      </navPoint>
+      <navPoint id="navpoint40" playOrder="40">
+        <navLabel>
+          <text>HAŞHAŞİLER</text>
+        </navLabel>
+        <content src="Text/5-8.html#toc_marker-9-3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint41" playOrder="41">
+      <navLabel>
+        <text>DOKUZUNCU BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-9.html#toc_marker-10"/>
+      <navPoint id="navpoint42" playOrder="42">
+        <navLabel>
+          <text>NORMAN İSTİLASI</text>
+        </navLabel>
+        <content src="Text/5-9.html#toc_marker-10-1"/>
+      </navPoint>
+      <navPoint id="navpoint43" playOrder="43">
+        <navLabel>
+          <text>CAMELOT</text>
+        </navLabel>
+        <content src="Text/5-9.html#toc_marker-10-2"/>
+      </navPoint>
+      <navPoint id="navpoint44" playOrder="44">
+        <navLabel>
+          <text>KATHARLAR</text>
+        </navLabel>
+        <content src="Text/5-9.html#toc_marker-10-3"/>
+      </navPoint>
+      <navPoint id="navpoint45" playOrder="45">
+        <navLabel>
+          <text>TAPINAK ŞÖVALYELERİ</text>
+        </navLabel>
+        <content src="Text/5-9.html#toc_marker-10-4"/>
+      </navPoint>
+      <navPoint id="navpoint46" playOrder="46">
+        <navLabel>
+          <text>BAPHOMET</text>
+        </navLabel>
+        <content src="Text/5-9.html#toc_marker-10-5"/>
+      </navPoint>
+      <navPoint id="navpoint47" playOrder="47">
+        <navLabel>
+          <text>SİNCLAİRLER</text>
+        </navLabel>
+        <content src="Text/5-9.html#toc_marker-10-6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint48" playOrder="48">
+      <navLabel>
+        <text>ONUNCU BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-10.html#toc_marker-11"/>
+      <navPoint id="navpoint49" playOrder="49">
+        <navLabel>
+          <text>KURUKAFA VE ÇİFT KEMİK</text>
+        </navLabel>
+        <content src="Text/5-10.html#toc_marker-11-1"/>
+      </navPoint>
+      <navPoint id="navpoint50" playOrder="50">
+        <navLabel>
+          <text>LUSİGNAN HANEDANI</text>
+        </navLabel>
+        <content src="Text/5-10.html#toc_marker-11-2"/>
+      </navPoint>
+      <navPoint id="navpoint51" playOrder="51">
+        <navLabel>
+          <text>HOSPİTALLER ŞÖVALYELERİ</text>
+        </navLabel>
+        <content src="Text/5-10.html#toc_marker-11-3"/>
+      </navPoint>
+      <navPoint id="navpoint52" playOrder="52">
+        <navLabel>
+          <text>DİZBAĞI TARİKATI</text>
+        </navLabel>
+        <content src="Text/5-10.html#toc_marker-11-4"/>
+      </navPoint>
+      <navPoint id="navpoint53" playOrder="53">
+        <navLabel>
+          <text>GÜLLER SAVAŞI</text>
+        </navLabel>
+        <content src="Text/5-10.html#toc_marker-11-5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint54" playOrder="54">
+      <navLabel>
+        <text>ON BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-11.html#toc_marker-12"/>
+      <navPoint id="navpoint55" playOrder="55">
+        <navLabel>
+          <text>GUELPH HANEDANI</text>
+        </navLabel>
+        <content src="Text/5-11.html#toc_marker-12-1"/>
+      </navPoint>
+      <navPoint id="navpoint56" playOrder="56">
+        <navLabel>
+          <text>HABSBURGLAR</text>
+        </navLabel>
+        <content src="Text/5-11.html#toc_marker-12-2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint57" playOrder="57">
+      <navLabel>
+        <text>ON İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-12.html#toc_marker-13"/>
+      <navPoint id="navpoint58" playOrder="58">
+        <navLabel>
+          <text>STUART HANEDANI</text>
+        </navLabel>
+        <content src="Text/5-12.html#toc_marker-13-1"/>
+      </navPoint>
+      <navPoint id="navpoint59" playOrder="59">
+        <navLabel>
+          <text>BOHEMYA</text>
+        </navLabel>
+        <content src="Text/5-12.html#toc_marker-13-2"/>
+      </navPoint>
+      <navPoint id="navpoint60" playOrder="60">
+        <navLabel>
+          <text>LURİANCI KABALA</text>
+        </navLabel>
+        <content src="Text/5-12.html#toc_marker-13-3"/>
+      </navPoint>
+      <navPoint id="navpoint61" playOrder="61">
+        <navLabel>
+          <text>GÜL HAÇLILAR</text>
+        </navLabel>
+        <content src="Text/5-12.html#toc_marker-13-4"/>
+      </navPoint>
+      <navPoint id="navpoint62" playOrder="62">
+        <navLabel>
+          <text>ÖZGÜR MASONLAR</text>
+        </navLabel>
+        <content src="Text/5-12.html#toc_marker-13-5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint63" playOrder="63">
+      <navLabel>
+        <text>ON ÜÇÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-13.html#toc_marker-14"/>
+      <navPoint id="navpoint64" playOrder="64">
+        <navLabel>
+          <text>SABETAYCILIK</text>
+        </navLabel>
+        <content src="Text/5-13.html#toc_marker-14-1"/>
+      </navPoint>
+      <navPoint id="navpoint65" playOrder="65">
+        <navLabel>
+          <text>İLLÜMİNATİ</text>
+        </navLabel>
+        <content src="Text/5-13.html#toc_marker-14-2"/>
+      </navPoint>
+      <navPoint id="navpoint66" playOrder="66">
+        <navLabel>
+          <text>ASYA KARDEŞLİĞİ</text>
+        </navLabel>
+        <content src="Text/5-13.html#toc_marker-14-3"/>
+      </navPoint>
+      <navPoint id="navpoint67" playOrder="67">
+        <navLabel>
+          <text>FRANSIZ DEVRİMİ</text>
+        </navLabel>
+        <content src="Text/5-13.html#toc_marker-14-4"/>
+      </navPoint>
+      <navPoint id="navpoint68" playOrder="68">
+        <navLabel>
+          <text>AMERİKAN DEVRİMİ</text>
+        </navLabel>
+        <content src="Text/5-13.html#toc_marker-14-5"/>
+      </navPoint>
+      <navPoint id="navpoint69" playOrder="69">
+        <navLabel>
+          <text>1848: DEVRİMLER YILI</text>
+        </navLabel>
+        <content src="Text/5-13.html#toc_marker-14-6"/>
+      </navPoint>
+      <navPoint id="navpoint70" playOrder="70">
+        <navLabel>
+          <text>PALLADİAN USULÜ</text>
+        </navLabel>
+        <content src="Text/5-13.html#toc_marker-14-7"/>
+      </navPoint>
+      <navPoint id="navpoint71" playOrder="71">
+        <navLabel>
+          <text>NİHİLİZM</text>
+        </navLabel>
+        <content src="Text/5-13.html#toc_marker-14-8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint72" playOrder="72">
+      <navLabel>
+        <text>ON DÖRDÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-14.html#toc_marker-15"/>
+      <navPoint id="navpoint73" playOrder="73">
+        <navLabel>
+          <text>MUAHMMED ABDÜL VAHHAB</text>
+        </navLabel>
+        <content src="Text/5-14.html#toc_marker-15-1"/>
+      </navPoint>
+      <navPoint id="navpoint74" playOrder="74">
+        <navLabel>
+          <text>İBNİ TEYMİYE</text>
+        </navLabel>
+        <content src="Text/5-14.html#toc_marker-15-2"/>
+      </navPoint>
+      <navPoint id="navpoint75" playOrder="75">
+        <navLabel>
+          <text>SUUD AİLESİ</text>
+        </navLabel>
+        <content src="Text/5-14.html#toc_marker-15-3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint76" playOrder="76">
+      <navLabel>
+        <text>ON BEŞİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-15.html#toc_marker-16"/>
+      <navPoint id="navpoint77" playOrder="77">
+        <navLabel>
+          <text>TAÇ</text>
+        </navLabel>
+        <content src="Text/5-15.html#toc_marker-16-1"/>
+      </navPoint>
+      <navPoint id="navpoint78" playOrder="78">
+        <navLabel>
+          <text>BOTHSCHİLD HANEDANI</text>
+        </navLabel>
+        <content src="Text/5-15.html#toc_marker-16-2"/>
+      </navPoint>
+      <navPoint id="navpoint79" playOrder="79">
+        <navLabel>
+          <text>YUVARLAK MASA</text>
+        </navLabel>
+        <content src="Text/5-15.html#toc_marker-16-3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint80" playOrder="80">
+      <navLabel>
+        <text>ON ALTINCI BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-16.html#toc_marker-17"/>
+      <navPoint id="navpoint81" playOrder="81">
+        <navLabel>
+          <text>CEMALETTİN AFGANİ</text>
+        </navLabel>
+        <content src="Text/5-16.html#toc_marker-17-1"/>
+      </navPoint>
+      <navPoint id="navpoint82" playOrder="82">
+        <navLabel>
+          <text>HERMETİK LUKSOR KARDEŞLİĞİ</text>
+        </navLabel>
+        <content src="Text/5-16.html#toc_marker-17-2"/>
+      </navPoint>
+      <navPoint id="navpoint83" playOrder="83">
+        <navLabel>
+          <text>SELEFİLER</text>
+        </navLabel>
+        <content src="Text/5-16.html#toc_marker-17-3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint84" playOrder="84">
+      <navLabel>
+        <text>ON YEDİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-17.html#toc_marker-18"/>
+      <navPoint id="navpoint85" playOrder="85">
+        <navLabel>
+          <text>PETROL</text>
+        </navLabel>
+        <content src="Text/5-17.html#toc_marker-18-1"/>
+      </navPoint>
+      <navPoint id="navpoint86" playOrder="86">
+        <navLabel>
+          <text>FEDERAL REZERV</text>
+        </navLabel>
+        <content src="Text/5-17.html#toc_marker-18-2"/>
+      </navPoint>
+      <navPoint id="navpoint87" playOrder="87">
+        <navLabel>
+          <text>MİLLETLER CEMİYETİ</text>
+        </navLabel>
+        <content src="Text/5-17.html#toc_marker-18-3"/>
+      </navPoint>
+      <navPoint id="navpoint88" playOrder="88">
+        <navLabel>
+          <text>OSMANLI İMPARATORLUĞU’NUN ÇÖKÜŞÜ</text>
+        </navLabel>
+        <content src="Text/5-17.html#toc_marker-18-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint89" playOrder="89">
+      <navLabel>
+        <text>ON SEKİZİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-18.html#toc_marker-19"/>
+      <navPoint id="navpoint90" playOrder="90">
+        <navLabel>
+          <text>NAZİLER</text>
+        </navLabel>
+        <content src="Text/5-18.html#toc_marker-19-1"/>
+      </navPoint>
+      <navPoint id="navpoint91" playOrder="91">
+        <navLabel>
+          <text>MÜSLÜMAN KARDEŞLER</text>
+        </navLabel>
+        <content src="Text/5-18.html#toc_marker-19-2"/>
+      </navPoint>
+      <navPoint id="navpoint92" playOrder="92">
+        <navLabel>
+          <text>İSLAMİ FAŞİSTLER</text>
+        </navLabel>
+        <content src="Text/5-18.html#toc_marker-19-3"/>
+      </navPoint>
+      <navPoint id="navpoint93" playOrder="93">
+        <navLabel>
+          <text>ODESSA AĞI</text>
+        </navLabel>
+        <content src="Text/5-18.html#toc_marker-19-4"/>
+      </navPoint>
+      <navPoint id="navpoint94" playOrder="94">
+        <navLabel>
+          <text>MÜSLÜMAN DÜNYA BİRLİĞİ</text>
+        </navLabel>
+        <content src="Text/5-18.html#toc_marker-19-5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint95" playOrder="95">
+      <navLabel>
+        <text>ON DOKUZUNCU BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-19.html#toc_marker-20"/>
+      <navPoint id="navpoint96" playOrder="96">
+        <navLabel>
+          <text>NÜFUS KONTROLÜ</text>
+        </navLabel>
+        <content src="Text/5-19.html#toc_marker-20-1"/>
+      </navPoint>
+      <navPoint id="navpoint97" playOrder="97">
+        <navLabel>
+          <text>PETROL KRİZİ</text>
+        </navLabel>
+        <content src="Text/5-19.html#toc_marker-20-2"/>
+      </navPoint>
+      <navPoint id="navpoint98" playOrder="98">
+        <navLabel>
+          <text>ÜÇÜNCÜ DÜNYANIN YOKSULLUĞU</text>
+        </navLabel>
+        <content src="Text/5-19.html#toc_marker-20-3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint99" playOrder="99">
+      <navLabel>
+        <text>YİRMİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-20.html#toc_marker-21"/>
+      <navPoint id="navpoint100" playOrder="100">
+        <navLabel>
+          <text>SEKS, UYUŞTURUCU VE ROCK AND ROLL</text>
+        </navLabel>
+        <content src="Text/5-20.html#toc_marker-21-1"/>
+      </navPoint>
+      <navPoint id="navpoint101" playOrder="101">
+        <navLabel>
+          <text>FRANKFURT EKOLÜ</text>
+        </navLabel>
+        <content src="Text/5-20.html#toc_marker-21-2"/>
+      </navPoint>
+      <navPoint id="navpoint102" playOrder="102">
+        <navLabel>
+          <text>CIA VE ALAYCI KUŞ HAREKATI</text>
+        </navLabel>
+        <content src="Text/5-20.html#toc_marker-21-3"/>
+      </navPoint>
+      <navPoint id="navpoint103" playOrder="103">
+        <navLabel>
+          <text>MK-ULTRA</text>
+        </navLabel>
+        <content src="Text/5-20.html#toc_marker-21-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint104" playOrder="104">
+      <navLabel>
+        <text>YİRMİ BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-21.html#toc_marker-22"/>
+      <navPoint id="navpoint105" playOrder="105">
+        <navLabel>
+          <text>ASPEN ENSTİTÜSÜ VE ROMA KULÜBÜ</text>
+        </navLabel>
+        <content src="Text/5-21.html#toc_marker-22-1"/>
+      </navPoint>
+      <navPoint id="navpoint106" playOrder="106">
+        <navLabel>
+          <text>DÜNYA ZİRVESİ</text>
+        </navLabel>
+        <content src="Text/5-21.html#toc_marker-22-2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint107" playOrder="107">
+      <navLabel>
+        <text>YİRMİ İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-22.html#toc_marker-23"/>
+      <navPoint id="navpoint108" playOrder="108">
+        <navLabel>
+          <text>İSLAMİ KÖKTENDİNCİLİK</text>
+        </navLabel>
+        <content src="Text/5-22.html#toc_marker-23-1"/>
+      </navPoint>
+      <navPoint id="navpoint109" playOrder="109">
+        <navLabel>
+          <text>VAROLUŞÇULAR</text>
+        </navLabel>
+        <content src="Text/5-22.html#toc_marker-23-2"/>
+      </navPoint>
+      <navPoint id="navpoint110" playOrder="110">
+        <navLabel>
+          <text>CEZAYİR BAĞIMSIZLIK SAVAŞI</text>
+        </navLabel>
+        <content src="Text/5-22.html#toc_marker-23-3"/>
+      </navPoint>
+      <navPoint id="navpoint111" playOrder="111">
+        <navLabel>
+          <text>İRAN DEVRİMİ</text>
+        </navLabel>
+        <content src="Text/5-22.html#toc_marker-23-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint112" playOrder="112">
+      <navLabel>
+        <text>YİRMİ ÜÇÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-23.html#toc_marker-24"/>
+      <navPoint id="navpoint113" playOrder="113">
+        <navLabel>
+          <text>İRAN KARŞI HAREKAT</text>
+        </navLabel>
+        <content src="Text/5-23.html#toc_marker-24-1"/>
+      </navPoint>
+      <navPoint id="navpoint114" playOrder="114">
+        <navLabel>
+          <text>ULUSLARARASI KREDİ VE TİCARET BANKASI (BCCI)</text>
+        </navLabel>
+        <content src="Text/5-23.html#toc_marker-24-2"/>
+      </navPoint>
+      <navPoint id="navpoint115" playOrder="115">
+        <navLabel>
+          <text>MENA,ARKANSAS</text>
+        </navLabel>
+        <content src="Text/5-23.html#toc_marker-24-3"/>
+      </navPoint>
+      <navPoint id="navpoint116" playOrder="116">
+        <navLabel>
+          <text>MÜCAHİTLER</text>
+        </navLabel>
+        <content src="Text/5-23.html#toc_marker-24-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint117" playOrder="117">
+      <navLabel>
+        <text>YİRMİ DÖRDÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-24.html#toc_marker-25"/>
+      <navPoint id="navpoint118" playOrder="118">
+        <navLabel>
+          <text>ABDULLAH AZAM</text>
+        </navLabel>
+        <content src="Text/5-24.html#toc_marker-25-1"/>
+      </navPoint>
+      <navPoint id="navpoint119" playOrder="119">
+        <navLabel>
+          <text>USAME BİN LADİN</text>
+        </navLabel>
+        <content src="Text/5-24.html#toc_marker-25-2"/>
+      </navPoint>
+      <navPoint id="navpoint120" playOrder="120">
+        <navLabel>
+          <text>SUDAN,BOSNA VE FİLİPİNLER</text>
+        </navLabel>
+        <content src="Text/5-24.html#toc_marker-25-3"/>
+      </navPoint>
+      <navPoint id="navpoint121" playOrder="121">
+        <navLabel>
+          <text>DÜNYA TİCARET MERKEZİ’NİN BOMBALANMASI</text>
+        </navLabel>
+        <content src="Text/5-24.html#toc_marker-25-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint122" playOrder="122">
+      <navLabel>
+        <text>YİRMİ BEŞİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-25.html#toc_marker-26"/>
+      <navPoint id="navpoint123" playOrder="123">
+        <navLabel>
+          <text>TEKSAS</text>
+        </navLabel>
+        <content src="Text/5-25.html#toc_marker-26-1"/>
+      </navPoint>
+      <navPoint id="navpoint124" playOrder="124">
+        <navLabel>
+          <text>NEO NAZİLER</text>
+        </navLabel>
+        <content src="Text/5-25.html#toc_marker-26-2"/>
+      </navPoint>
+      <navPoint id="navpoint125" playOrder="125">
+        <navLabel>
+          <text>KAN ELMASLARI</text>
+        </navLabel>
+        <content src="Text/5-25.html#toc_marker-26-3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint126" playOrder="126">
+      <navLabel>
+        <text>YİRMİ ALTINCI BÖLÜM</text>
+      </navLabel>
+      <content src="Text/5-26.html#toc_marker-27"/>
+      <navPoint id="navpoint127" playOrder="127">
+        <navLabel>
+          <text>BOTHSCHİLDLER VE KUTSAL KADEH</text>
+        </navLabel>
+        <content src="Text/5-26.html#toc_marker-27-1"/>
+      </navPoint>
+      <navPoint id="navpoint128" playOrder="128">
+        <navLabel>
+          <text>NEO-MUHAFAZAKÂRLAR</text>
+        </navLabel>
+        <content src="Text/5-26.html#toc_marker-27-2"/>
+      </navPoint>
+      <navPoint id="navpoint129" playOrder="129">
+        <navLabel>
+          <text>11 EYLÜL</text>
+        </navLabel>
+        <content src="Text/5-26.html#toc_marker-27-3"/>
+      </navPoint>
+      <navPoint id="navpoint130" playOrder="130">
+        <navLabel>
+          <text>TERÖRİST UÇUŞ EĞİTİMİ VE MK-ULTRA</text>
+        </navLabel>
+        <content src="Text/5-26.html#toc_marker-27-4"/>
+      </navPoint>
+      <navPoint id="navpoint131" playOrder="131">
+        <navLabel>
+          <text>VAHHABİ LOBİSİ</text>
+        </navLabel>
+        <content src="Text/5-26.html#toc_marker-27-5"/>
+      </navPoint>
+      <navPoint id="navpoint132" playOrder="132">
+        <navLabel>
+          <text>TOPYEKUN SAVAŞ</text>
+        </navLabel>
+        <content src="Text/5-26.html#toc_marker-27-6"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

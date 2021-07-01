@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Braudel, Fernand">Fernand Braudel</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:3b7fd85e-98de-42c9-b7bd-8c092dc1fc28</dc:identifier>
+    <dc:date opf:event="modification">2013-07-05</dc:date>
+    <dc:type>Tarih</dc:type>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:date>1990-03-31T21:00:00+00:00</dc:date>
+    <dc:description>&lt;p class="description"&gt;Bu kitapta gemiler yol alır; dalgaların şarkıları sürer gider; bağcılar Cinque Terre yamaçlarından Cenova Rivierası'na inerler; Provence'da, Yunanistan'da zeytinler toplanmıştır; Venedik'in durgun sularında ya da Cerbe kanallarında balıkçılar ağ çeker; tekne yapımcıları, vaktiyle yapı lan teknelere benzer tekneler yapar... Ve biz yine, onlara göre, zamanın dışında olduğumuzu farkederiz. Giriştiğimiz deneme, geçmişin ve bugünün sürekli karşılaşması, birinden ötekine sürüp giden bir geçiş, açık yürekle çağrılan iki sesli, sonsuz bir türküdür. Bu diyalog, birbirine yansıyan sorunlarıyla bu kitaba bir ruh verirse, amacımıza ulaşmış olacağız. Tarih, çevremizi saran ve bizi işgal eden bugünün sorunları —hatta kaygı ve sıkıntıları— adına geçmiş zamanların sürekli sorgulanmasından başka bir şey değildir. İnsanların kendilerine yarattığı başka hiçbir dünya Akdeniz kadar kanıtlayamaz bunu; çünkü Akdeniz'in kendini anlatmasının, kendini tekrar tekrar yaşamasının sonu gelmez. Kuşkusuz zevki için olduğu kadar, gerektiği için de yapar bunu. Geçmişte varolmuş olmak, varlığını bugün de sürdürmenin bir koşuludur.&lt;/p&gt;</dc:description>
+    <meta content="0.7.2" name="Sigil version"/>
+    <meta name="cover" content="akdeniz.jpg"/>
+  <meta name="calibre:title_sort" content="Akdeniz, Mekân ve Tarih"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Fernand Braudel&quot;: &quot;&quot;}"/>
+<dc:title>Akdeniz, Mekân ve Tarih</dc:title>
+<dc:subject>İlkçağ</dc:subject>
+<dc:subject>Tarih</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">f6c104fc-08b0-47ae-ad7b-e555bbdf92e6</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9757650218</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:3b7fd85e-98de-42c9-b7bd-8c092dc1fc28</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/not.xhtml" id="not.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/akdeniz.xhtml" id="akdeniz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Title.xhtml" id="Title.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toprak.xhtml" id="toprak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/deniz.xhtml" id="deniz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/safak.xhtml" id="safak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/roma.xhtml" id="roma.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/tarih.xhtml" id="tarih.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/mekanlar.xhtml" id="mekanlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/section1.jpg" id="section1.jpg" media-type="image/jpeg"/>
+    <item href="Text/Copyright.xhtml" id="Copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/title.jpg" id="title.jpg" media-type="image/jpeg"/>
+    <item href="Images/akdeniz.jpg" id="akdeniz.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/sep_Uc_Cizgi.jpg" id="sep_Uc_Cizgi.jpg" media-type="image/jpeg"/>
+    <item href="Styles/epub_css.css" id="epub_css.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Copyright.xhtml"/>
+    <itemref idref="Title.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="akdeniz.xhtml"/>
+    <itemref idref="toprak.xhtml"/>
+    <itemref idref="deniz.xhtml"/>
+    <itemref idref="safak.xhtml"/>
+    <itemref idref="roma.xhtml"/>
+    <itemref idref="tarih.xhtml"/>
+    <itemref idref="mekanlar.xhtml"/>
+    <itemref idref="not.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/Copyright.xhtml" title="Copyright Page" type="copyright-page"/>
+    <reference href="Text/Title.xhtml" title="Title Page" type="start"/>
+    <reference href="Text/not.xhtml" title="Notes" type="notes"/>
+  </guide>
+</package>

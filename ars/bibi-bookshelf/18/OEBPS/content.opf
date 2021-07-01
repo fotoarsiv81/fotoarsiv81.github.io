@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Volkman, Ernest">Ernest Volkman</dc:creator>
+<meta content="8.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;Casusluk ve istihbarat ile ilgili bu kitap kesinlikle geniş bir okuyucu kitlesini memnun edecek. Anlattığı 23 tane inanılmaz, şaşırtıcı ve önemli olayla sizi tarihin seyrini değiştiren en önemli casusluk operasyonlarının sırlarını keşfetmeye çıkarmaktadır. Dünyanın dört bir tarafında yaşanan bu esrarengiz operasyonlar, istihbarat örgütleri hakkında da ilk ve önemli tarihi tespitleri içermektedir. Tespit edilen bu gerçeklerin çoğu da gün yüzüne çıkmayan gerçeklerdir.
+
+İngilizlerin şifreli Alman haberleşme sistemini çözerek müttefikleri Hitler'in askeri planları hakkında önceden uyardıkları ULTRA Operasyonu'ndan, değiştirilmiş posta pullarıyla Almanların moralini çökertme yolları arayan ve 'Cornflakes' adı verilen OSS Operasyonu'na (aslında hiçbir şey uğruna çok geniş kaynakları kullanan tamamen çılgınca bir istihbarat girişimi) kadar bir çok inanılması güç operasyonlardan oluşuyor. Müttefiklerin, Almanları, Normandiya çıkarmasının sahte bir saldırı olduğuna inandırmalarını; Pearl Harbor'daki istihbarat faciasını; Walker ailesinin casus çemberini; CIA ile KGB arasındaki 'Köstebek Savaşları'nı ve birçok 20.yüzyıldaki inanılmaz casusluk operasyonları ve hilelerini olayların içinde yer alırcasına okuma fırsatı veriyor. 
+-Publishers Weekly- 
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <meta content="2014-03-07T16:55:25+00:00" name="calibre:timestamp"/>
+    <meta content="Casusluk" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2014-03-06T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">6bb7f039-30c9-4856-b61e-6065b2edf06c</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2015-06-14</dc:date>
+  <dc:title>Casusluk</dc:title>
+<dc:publisher>Tual Yayınları</dc:publisher>
+<dc:subject>Casusluk</dc:subject>
+<dc:subject>Araştırma</dc:subject>
+<dc:subject>İnceleme</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ernest Volkman&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">8c2b69b0-1270-4fa0-af1a-da0b578c6a3b</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786058658165</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/CASUSLUK.html" id="CASUSLUK.html" media-type="application/xhtml+xml"/>
+    <item href="Text/CASUSLUK1.html" id="CASUSLUK1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/CASUSLUK2.html" id="CASUSLUK2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/CASUSLUK3.html" id="CASUSLUK3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/CASUSLUK4.html" id="CASUSLUK4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/CASUSLUK5.html" id="CASUSLUK5.html" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="CASUSLUK.html"/>
+    <itemref idref="CASUSLUK1.html"/>
+    <itemref idref="CASUSLUK2.html"/>
+    <itemref idref="CASUSLUK3.html"/>
+    <itemref idref="CASUSLUK4.html"/>
+    <itemref idref="CASUSLUK5.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

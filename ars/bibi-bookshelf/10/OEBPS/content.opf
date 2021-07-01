@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Irk, Tarih ve Kültür</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Levi-Strauss, Claude">Claude Levi-Strauss</dc:creator>
+    <dc:date opf:event="modification">2016-11-07</dc:date>
+    <dc:description>&lt;div&gt;&lt;p&gt;"Kurtarılması gereken çeşitlilik olgusudur; yoksa her tarihsel dönemin ona verdiği ve hiçbirinin kendisinin ötesine geçemediği tarihsel içerik değil. Dolayısıyla, uç veren buğdaya kulak kabartmak, gizli kalmış potansiyelleri yüreklendirmek, tarihin saklı tuttuğu tüm bir arada yaşama eğilimlerini dürtüklemek ve ayrıca alışılagelmiş şeyler sunması kaçınılmaz olan bütün bu yeni toplumsal ifade biçimlerini şaşırmaksızın, tiksinmeksizin, karşı çıkmaksızın karşılamaya hazır olmak gerekmektedir.&lt;/p&gt; &lt;p&gt;"Hoşgörü, olmuş ya da olan her şeyin bağışlandığı hülyalı bir durum değildir. Hoşgörü, önceden görmeye, anlamaya ve isteyeni istediği yere yükseltmeye dayanan dinamik bir tutumdur. Kültürlerin çeşitliliği ardımızdadır, çevremizdedir, önümüzdedir. Bu konuda talep edebileceğimiz tek şey, bu çeşitliliğin, her biçimin diğerleri için alabildiğine cömert bir katkı oluşturacağı bir türde gerçekleşmesidir. Bu ise her birey için bu talebe denk düşen yükümlülükleri gündeme getirir."&lt;br&gt; – Claude Lévi-Strauss&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:date>1994-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:064deb8a-340c-43c6-b429-952fd0214fe1</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">21d91efa-cf29-4c08-9ffb-183c6868cfc5</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright.xhtml" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="logo.png" href="Images/logo.png" media-type="image/png"/>
+    <item id="BerlingLTStd-Italic.ttf" href="Fonts/BerlingLTStd-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerlingLTStd-MedItalic.ttf" href="Fonts/BerlingLTStd-MedItalic.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerlingLTStd-Medium.ttf" href="Fonts/BerlingLTStd-Medium.ttf" media-type="application/x-font-ttf"/>
+    <item id="BerlingLTStd-Roman.ttf" href="Fonts/BerlingLTStd-Roman.ttf" media-type="application/x-font-truetype"/>
+    <item id="Interstate-RegularCondensed.ttf" href="Fonts/Interstate-RegularCondensed.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="copyright.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

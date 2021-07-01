@@ -1,0 +1,42 @@
+  @page {
+    margin-bottom: 10pt;
+    margin-top: 10pt;
+    margin-left: 9pt;
+    margin-right: 9pt;
+    }
+  @font-face {
+    font-style: normal;
+    font-family: "Arial", sans-serif;
+    font-weight: normal;
+   
+    }
+  @font-face {
+    font-style: italic;
+    font-family: "Arial", sans-serif;
+    font-weight: normal;
+
+    }
+  @font-face {
+    font-style: normal;
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+ 
+    }
+  @font-face {
+    font-style: italic;
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+  
+    }
+body { 
+   font-family: 'Arial', sans-serif;
+   font-size: 94%;
+   text-align: justify;
+   text-indent: 22px;
+   line-height: 28px;
+}
+
+div#coverpage {
+	text-align: center;
+}
+

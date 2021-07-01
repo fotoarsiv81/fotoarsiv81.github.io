@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="{07A10621-74EA-43CB-AB28-645FDB6D72F5}" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Kızılderililer Nasıl Yokedildi</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>BARTOLOME DE LAS CASAS</text>
+            </navLabel>
+            <content src="Text/1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>SUNUŞ</text>
+            </navLabel>
+            <content src="Text/3.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>BU KİTABIN HAZIRLANMA NEDENİ</text>
+            </navLabel>
+            <content src="Text/4.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>GİRİŞ</text>
+            </navLabel>
+            <content src="Text/5.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>KIZILDERİLİLER NASIL YOKEDİLDİ?</text>
+            </navLabel>
+            <content src="Text/6.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>İSPANYOL ADASI</text>
+            </navLabel>
+            <content src="Text/7.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>İSPANYOL ADASI'NDA BULUNAN KRALLIKLAR</text>
+            </navLabel>
+            <content src="Text/8.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>SAN JUAN VE JAMAYKA ADALARI</text>
+            </navLabel>
+            <content src="Text/9.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>KÜBA ADASI</text>
+            </navLabel>
+            <content src="Text/10.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>ANAKARA</text>
+            </navLabel>
+            <content src="Text/11.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>NİKARAGUA EYALETİ</text>
+            </navLabel>
+            <content src="Text/12.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>YENİ İSPANYA</text>
+            </navLabel>
+            <content src="Text/13.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>GUATEMALA EYALETİ VEYA KRALLIĞI'NDAN</text>
+            </navLabel>
+            <content src="Text/14.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>YENİ İSPANYA'DAN, PÂNUCO VE JALİSCO'DAN</text>
+            </navLabel>
+            <content src="Text/15.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>YUCATAN KRALLIĞI'NDAN</text>
+            </navLabel>
+            <content src="Text/16.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+                <text>SANTA MARTA EYALETİNDEN</text>
+            </navLabel>
+            <content src="Text/17.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+                <text>CARTHAGENE EYALETİNDEN</text>
+            </navLabel>
+            <content src="Text/18.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+                <text>PERLES, PARİA SAHİLİ VE TRİNİDAD ADASI'NDAN</text>
+            </navLabel>
+            <content src="Text/19.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+                <text>YUYA PARI NEHRİNDEN</text>
+            </navLabel>
+            <content src="Text/20.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+                <text>VENEZUELA KRALLIĞI'NDAN</text>
+            </navLabel>
+            <content src="Text/21.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+                <text>ANA KARANIN FLORİDA TARAFINDAKİ EYALETLERİNDEN</text>
+            </navLabel>
+            <content src="Text/22.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+                <text>PLATO RİOSU'NDAN</text>
+            </navLabel>
+            <content src="Text/23.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+                <text>PERU'NUN BÜYÜK KRALLIK VE EYALETLERİNDEN</text>
+            </navLabel>
+            <content src="Text/24.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+            <navLabel>
+                <text>YENİ GRENADE KRALLIĞI'NDAN</text>
+            </navLabel>
+            <content src="Text/25.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>

@@ -1,0 +1,93 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Cesas, Bartolome de las">Bartolome de las Cesas</dc:creator>
+<dc:identifier id="uuid">{07A10621-74EA-43CB-AB28-645FDB6D72F5}</dc:identifier>
+    <dc:date>2002-03-30T22:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+  <dc:title>Kızılderililer Nasıl Yokedildi</dc:title>
+<meta name="calibre:title_sort" content="Kızılderililer Nasıl Yokedildi"/>
+<dc:publisher>Şule Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Araştırma</dc:subject>
+<dc:subject>Kızılderili</dc:subject>
+<dc:subject>Politik</dc:subject>
+<dc:description>&lt;p&gt;"Beyaz Adam" gelince onu misafirperverce ve samimiyetle ağırladılar.
+Yiyeceklerinden bol bol ikram ettiler. Topraklarını açtılar. Hatta altınlarının
+da çounu karşılığından hiçbirşey beklemeksizin bu yeni misafirlerle (!)
+paylaştılar. Fakat "Beyaz Adam"ın gözü doymuyordu. Ne kadar verirlerse
+hep daha fazlasını istiyordu. En sonunda canlarını da istedi. Verdiler..
+Piskopos Bartolomé de Las Casas, bu kitapta anlattığı her şeyi bizzat
+yaşadı. O bir "beyaz"dı. Fakat bu vahşete duyarsız kalamayacak kadar da
+insandı.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Bartolome de las Cesas&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">abd35f83-4fc7-485b-9d7e-621dc1076f2b</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789757796244</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/14.xhtml" id="x14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/25.xhtml" id="x25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id3" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/1.xhtml" id="x1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="x2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="x3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="x4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/5.xhtml" id="x5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/6.xhtml" id="x6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/7.xhtml" id="x7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/8.xhtml" id="x8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/9.xhtml" id="x9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="x10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/12.xhtml" id="x12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/13.xhtml" id="x13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/15.xhtml" id="x15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/16.xhtml" id="x16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/17.xhtml" id="x17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/18.xhtml" id="x18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/19.xhtml" id="x19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/20.xhtml" id="x20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/21.xhtml" id="x21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/22.xhtml" id="x22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/23.xhtml" id="x23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/24.xhtml" id="x24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/11.xhtml" id="x11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_styles.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1.xhtml"/>
+    <itemref idref="x2.xhtml"/>
+    <itemref idref="x3.xhtml"/>
+    <itemref idref="x4.xhtml"/>
+    <itemref idref="x5.xhtml"/>
+    <itemref idref="x6.xhtml"/>
+    <itemref idref="x7.xhtml"/>
+    <itemref idref="x8.xhtml"/>
+    <itemref idref="x9.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="x17.xhtml"/>
+    <itemref idref="x18.xhtml"/>
+    <itemref idref="x19.xhtml"/>
+    <itemref idref="x20.xhtml"/>
+    <itemref idref="x21.xhtml"/>
+    <itemref idref="x22.xhtml"/>
+    <itemref idref="x23.xhtml"/>
+    <itemref idref="x24.xhtml"/>
+    <itemref idref="x25.xhtml"/>
+  </spine>
+  <guide/>
+</package>

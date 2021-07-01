@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Modern Dünyanın Sorunları Karşısında Antropoloji</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Levi-Strauss, Claude">Claude Levi-Strauss</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f56f03bd-829f-4c89-b12a-833f6f4016d9</dc:identifier>
+    <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:date opf:event="modification">2016-11-03</dc:date>
+    <dc:description>&lt;div&gt;&lt;p style="margin: 6px 0px;"&gt;Antropolog, çağdaşlarına şu ya da bu egzotik toplumun fikir ya da âdetlerini benimsemeyi önermez. Bizim katkımız çok daha mütevazı olup iki yönde işler.&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;İlk olarak, antropolog, “Böyle gelmiş,” dediğimiz için “doğal” addettiğimiz şeylerin, kendi kültürlerimize özgü kısıtlamalar ve zihinsel alışkanlıklardan ibaret olduğunu gözler önüne serer. Dolayısıyla at gözlüklerimizden kurtulmamıza ve bize hayal edilemez, hatta aşağılık gelen teamülleri başka toplumların nasıl da basit ve olağan şeyler olarak kabul edebildiğini anlamamıza yardım eder.&lt;/p&gt;&lt;p style="margin: 6px 0px;"&gt;İkinci olarak, topladığımız olgular çok engin bir insan deneyimini temsil eder, zira bunların kaynağı yüzyıllar, bazen bin-yıllar boyunca birbiri ardına gelmiş ve meskûn dünyanın her yerine yayılmış sayısız toplumdur. Dolayısıyla biz antropologlar, insan doğasına ilişkin “evrensel” olgular olarak görülebilecek şeylerin ortaya konmasına yardım eder ve henüz kesin olmayan, ama peşinen anormallik ya da sapkınlık diye yaftalayamayacağımız evrimlerin hangi çerçevede geliştiğini gösterebiliriz."&lt;/p&gt;&lt;p style="margin: 6px 0px 0px; display: inline; orphans: 2; widows: 2;"&gt;"Her kültür, özgün olmak ve başka kültürlerle beraber zenginleşmelerine imkân veren farklılıkları muhafaza etmek için, kendi kendine sadık kalmak zorundadır; bunun da bedeli, farklı değerlere sağır kalmak, tamamen ya da kısmen duyarsız olmaktır."&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">f9069c28-6df3-4ff5-8993-602c39160c36</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789753428606</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="yazar.htm" href="Text/yazar.htm" media-type="application/xhtml+xml"/>
+    <item id="kunye.htm" href="Text/kunye.htm" media-type="application/xhtml+xml"/>
+    <item id="title.htm" href="Text/title.htm" media-type="application/xhtml+xml"/>
+    <item id="onsoz.htm" href="Text/onsoz.htm" media-type="application/xhtml+xml"/>
+    <item id="part1.htm" href="Text/part1.htm" media-type="application/xhtml+xml"/>
+    <item id="x01.htm" href="Text/01.htm" media-type="application/xhtml+xml"/>
+    <item id="part2.htm" href="Text/part2.htm" media-type="application/xhtml+xml"/>
+    <item id="x02.htm" href="Text/02.htm" media-type="application/xhtml+xml"/>
+    <item id="part3.htm" href="Text/part3.htm" media-type="application/xhtml+xml"/>
+    <item id="x03.htm" href="Text/03.htm" media-type="application/xhtml+xml"/>
+    <item id="notlar.htm" href="Text/notlar.htm" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="logo.png" href="Images/logo.png" media-type="image/png"/>
+    <item id="BerlingLTStd-Italic.ttf" href="Fonts/BerlingLTStd-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerlingLTStd-Roman.ttf" href="Fonts/BerlingLTStd-Roman.ttf" media-type="application/x-font-truetype"/>
+    <item id="Interstate-RegularCondensed.ttf" href="Fonts/Interstate-RegularCondensed.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="yazar.htm"/>
+    <itemref idref="kunye.htm"/>
+    <itemref idref="title.htm"/>
+    <itemref idref="onsoz.htm"/>
+    <itemref idref="part1.htm"/>
+    <itemref idref="x01.htm"/>
+    <itemref idref="part2.htm"/>
+    <itemref idref="x02.htm"/>
+    <itemref idref="part3.htm"/>
+    <itemref idref="x03.htm"/>
+    <itemref idref="notlar.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
