@@ -1,0 +1,89 @@
+table{border-collapse:collapse;border:1px solid #bbb}
+td{border-collapse:collapse;border:1px solid #bbb;padding:.4em}
+.strike{text-decoration:line-through}
+.underline{text-decoration:underline}
+strong,strong em,em strong{font-weight:700}
+.italic{font-style:italic}
+span.font50{font-size:50%}
+span.font75{font-size:75%}
+span.font100{font-size:100%}
+span.font150{font-size:150%}
+span.font200{font-size:200%}
+.page-break{page-break-before:always;page-break-after:always}
+*{-webkit-font-smoothing:antialiased}
+.part-text,.section-text,.chapter-text,.body>.subchapter .subchapter-text{text-indent:1em}
+.part-text p,.section-text p,.chapter-text p,.subchapter-text p{margin:0}
+.body>.subchapter .subchapter-text{font-size:.9em;text-indent:1em}
+@media amzn-mobi {
+#decoration{text-align:center;width:150px;margin:auto;display:inline-block}
+}
+@media amzn-kf8 {
+#decoration{text-align:center;width:150px;margin:auto;display:inline-block}
+#decoration img{width:150px;height:auto}
+.image-wrapper img{width:80%;height:auto}
+div.image-container.float-left img,div.image-container.float-right img{width:75%;height:auto}
+}
+strong em,em strong,.italic{font-style:italic}
+div.colophon{display:block;font-size:.8em;letter-spacing:.1em;text-align:left;padding-left:.8em;padding-right:.8em;margin-top:15em}
+.colophon-edition-info,.colophon-isbn{font-size:.8em}
+.colophon-isbn{padding-top:2.5em;padding-bottom:1em}
+div.credits{display:block;padding-left:.5em;padding-right:.5em}
+.credits-title{font-size:1.2em;letter-spacing:.1em;text-transform:uppercase;text-align:center;font-weight:700}
+.credits p{font-size:.9em;font-style:italic;text-align:center}
+div.part{display:block;padding-left:.5em;padding-right:.5em}
+.part-title-block{margin-bottom:1em}
+.part-title{font-size:1.4em;letter-spacing:.1em;text-transform:uppercase;text-align:center;font-weight:700}
+.part-subtitle{font-size:1.2em;font-style:italic;letter-spacing:.1em;text-align:center;margin-top:3em}
+.part-text{font-size:.9em;font-style:italic;letter-spacing:.03em;text-align:left;margin-top:10em}
+.part-text p{margin:0}
+div.section{display:block;padding-left:.5em;padding-right:.5em}
+.section-title-block{margin-bottom:1em}
+.section-title{font-size:1.4em;letter-spacing:.1em;text-transform:none;text-align:center}
+.section-subtitle{font-size:1.2em;font-style:italic;font-weight:400;letter-spacing:.1em;text-align:center;margin-top:3em}
+.section-text{font-size:.9em;font-style:italic;letter-spacing:.03em;text-align:left;margin-top:10em}
+.section-text p{margin:0}
+div.chapter{padding-left:.5em;padding-right:.5em}
+.chapter-title-block,.subchapter-title-block{margin-bottom:1em;padding-top:0;display:block}
+.chapter-title{font-size:1.4em;font-weight:400;letter-spacing:.1em;text-transform:uppercase;text-align:center}
+.subchapter-title{font-size:1em;font-weight:400;letter-spacing:.1em;text-transform:none;text-align:left}
+.chapter-subtitle{font-size:1.2em;font-style:italic;font-weight:400;letter-spacing:.1em;text-align:center;margin-top:3em}
+.subchapter-subtitle{font-size:.9em;font-style:italic;font-weight:400;letter-spacing:.1em;text-align:left}
+.chapter-text,.body>.subchapter .subchapter-text{font-size:.9em;text-indent:1em;text-align:justify}
+.subchapter-text{text-align:justify}
+.chapter-text p:first-child,.chapter-text p.bt-first-text-paragraph{text-indent:0}
+.body>.chapter>.chapter-text>p:first-of-type::first-letter,.body>.chapter>.chapter-text>p.bt-first-text-paragraph::first-letter{font-size:5em;float:left;height:.8em;margin:0;padding-right:.1em;padding-top:0;padding-bottom:0;font-style:normal;font-weight:400;margin-top:-.1em;text-transform:uppercase}
+.chapter-text{margin-top:10em}
+.subchapter-text{margin-top:1em}
+.chapter-text p,.subchapter-text p{margin:0}
+.blockquote,div.chapter div.text blockquote>p,div.subchapter div.text blockquote>p{font-style:italic;display:block;text-indent:3em;font-size:.9em;text-align:center}
+div.chapter div.text h1,div.subchapter div.text h1,div.chapter div.chapter-text h1,div.subchapter h1{font-size:1.1em}
+div.chapter div.text h2,div.subchapter div.text h2,div.chapter div.chapter-text h2,div.subchapter h2{font-size:1.05em}
+div.chapter div.text h3,div.subchapter div.text h3,div.chapter div.chapter-text h3,div.subchapter h3{font-size:1em}
+div.chapter div.text h4,div.subchapter div.text h4,div.chapter div.chapter-text h4,div.subchapter h4{font-size:.95em}
+div.chapter div.text h5,div.subchapter div.text h5,div.chapter div.chapter-text h5,div.subchapter h5{font-size:.9em}
+div.chapter div.text h6,div.subchapter div.text h6,div.chapter div.chapter-text h6,div.subchapter h6{font-size:.85em}
+div#foot-notes{margin-top:1.5em;margin-left:.5em;margin-right:.5em;text-align:justify}
+span.note-num{font-weight:400;font-weight:bold;text-align:justify}
+a.note,div.note{font-size:.8em;margin-bottom:1em}
+#notes{display:block;margin-left:.5em;margin-right:.5em}
+.notes-title{font-size:1.2em;letter-spacing:.1em;text-transform:uppercase;text-align:center;font-weight:700}
+div.note.foot-note{font-size:.8em}
+a.note_backlink{margin-left:.15em}
+.indented{margin-left:2em}
+.image-container,.image-container div,.image-wrapper,.image-caption{width:100%;text-align:center}
+.image-wrapper img{max-width:100%;display:inline}
+p.image-caption{font-size:.8em;font-style:italic;text-indent:0;margin-top:.4em;text-align:center}
+div.image-container{page-break-inside:avoid;margin:auto}
+div.image-wrapper+p,div.image-container{text-indent:0}
+.image-container.floating-image,.floating-image{max-width:75%;width:auto;page-break-before:avoid}
+div.image-container.float-left{float:left;text-align:left;margin:1em;margin-left:0}
+div.image-container.float-right{float:right;text-align:right;margin:1em;margin-right:0}
+@media amzn-mobi {
+.chapter-text:first-letter{font-size:5.2em;float:left;height:.8em;margin:0;padding-right:.1em;padding-top:0;padding-bottom:0;font-style:normal;font-weight:400;margin-top:-.25em;margin-bottom:-.2em}
+}
+@media amzn-kf8 {
+.chapter-text:first-letter{font-size:5.2em;float:left;height:.8em;margin:0;padding-right:.1em;padding-top:0;padding-bottom:0;font-style:normal;font-weight:400;margin-top:-.25em;margin-bottom:-.2em}
+}
+@media amzn-mobi7 {
+.chapter-text:first-letter{font-size:5.2em;float:left;height:.8em;margin:0;padding-right:.1em;padding-top:0;padding-bottom:0;font-style:normal;font-weight:400;margin-top:-.25em;margin-bottom:-.2em}
+}

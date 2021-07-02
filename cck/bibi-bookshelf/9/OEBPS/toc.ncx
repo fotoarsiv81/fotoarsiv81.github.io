@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="f3cd346e-f384-4ae8-be9c-5940c2df3c9d" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Grimm Masalları</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>KÜNYE</text>
+      </navLabel>
+      <content src="Text/kunye.html" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>HASAN ALİ YÜCEL</text>
+      </navLabel>
+      <content src="Text/ali_yucel.html" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>SUNUŞ</text>
+      </navLabel>
+      <content src="Text/sunus.html" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/I.html" />
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>KURUL SOFRAM KURUL!</text>
+        </navLabel>
+        <content src="Text/M_I_01.html" />
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>AL BAŞLIKLI KIZ</text>
+        </navLabel>
+        <content src="Text/M_I_01.html#sigil_toc_id_1" />
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>PAMUK PRENSESLE YEDİ CÜCELER</text>
+        </navLabel>
+        <content src="Text/M_I_02.html" />
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>ORMANDA UYUYAN GÜZEL</text>
+        </navLabel>
+        <content src="Text/M_I_03.html" />
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>BREMEN KENTİ ÇALGICILARI</text>
+        </navLabel>
+        <content src="Text/M_I_04.html" />
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>YEDİ KARGALAR</text>
+        </navLabel>
+        <content src="Text/M_I_05.html" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>HOLLE KADIN</text>
+        </navLabel>
+        <content src="Text/M_I_06.html" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>KURTLA YEDİ OĞLAK</text>
+        </navLabel>
+        <content src="Text/M_I_07.html" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>KURBAĞA KRAL YAHUT DEMİRDEN HEINRICH</text>
+        </navLabel>
+        <content src="Text/M_I_08.html" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>KÜL KEDİSİ</text>
+        </navLabel>
+        <content src="Text/M_I_09.html" />
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>HENZEL İLE GRETEL</text>
+        </navLabel>
+        <content src="Text/M_I_10.html" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>DANSTA PARÇALANMIŞ PABUÇLAR</text>
+        </navLabel>
+        <content src="Text/M_I_11.html" />
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>PARMAK ÇOCUĞUN YOLCULUĞU</text>
+        </navLabel>
+        <content src="Text/M_I_12.html" />
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>ORMANDAKİ EV</text>
+        </navLabel>
+        <content src="Text/M_I_13.html" />
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>CÜCELERİN ARMAĞANLARI</text>
+        </navLabel>
+        <content src="Text/M_I_14.html" />
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>AKGÜL İLE ALGÜL</text>
+        </navLabel>
+        <content src="Text/M_I_15.html" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>ORMANDAKİ KOCAKARI</text>
+        </navLabel>
+        <content src="Text/M_I_16.html" />
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>KÖPEKLE SERÇE</text>
+        </navLabel>
+        <content src="Text/M_I_17.html" />
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>ARI BEYİ</text>
+        </navLabel>
+        <content src="Text/M_I_18.html" />
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>ALTIN KAZ</text>
+        </navLabel>
+        <content src="Text/M_I_19.html" />
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>DURUMUNDAN HOŞNUT HANS</text>
+        </navLabel>
+        <content src="Text/M_I_20.html" />
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>ALTIN ÇOCUKLAR</text>
+        </navLabel>
+        <content src="Text/M_I_21.html" />
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>YOKSUL DEĞİRMENCİ ÇIRAĞIYLA KÜÇÜK KEDİ</text>
+        </navLabel>
+        <content src="Text/M_I_22.html" />
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>KAZ ÇOBANI KIZ</text>
+        </navLabel>
+        <content src="Text/M_I_23.html" />
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>ÇİVİ</text>
+        </navLabel>
+        <content src="Text/M_I_24.html" />
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>KÜÇÜK ÇOBAN</text>
+        </navLabel>
+        <content src="Text/M_I_25.html" />
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>ALTIN YAĞMURU</text>
+        </navLabel>
+        <content src="Text/M_I_26.html" />
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>KÖYLÜYLE ŞEYTAN</text>
+        </navLabel>
+        <content src="Text/M_I_27.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/II.html" />
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>İKİ KARDEŞ</text>
+        </navLabel>
+        <content src="Text/M_II_01.html" />
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>GÖZÜPEK KÜÇÜK TERZİ</text>
+        </navLabel>
+        <content src="Text/M_II_02.html" />
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>KORKUYU ÖĞRENMEK İÇİN YOLLARA DÜŞENİN MASALI</text>
+        </navLabel>
+        <content src="Text/M_II_03.html" />
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>MİNİK KUZUYLA MİNİK BALIK</text>
+        </navLabel>
+        <content src="Text/M_II_04.html" />
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>ELSİZ KIZ</text>
+        </navLabel>
+        <content src="Text/M_II_05.html" />
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>PARMAK ÇOCUK</text>
+        </navLabel>
+        <content src="Text/M_II_06.html" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>MAVİ FENER</text>
+        </navLabel>
+        <content src="Text/M_II_07.html" />
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>ALTI KUĞU KUŞU</text>
+        </navLabel>
+        <content src="Text/M_II_08.html" />
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>DOKTOR BİLGİÇ</text>
+        </navLabel>
+        <content src="Text/M_II_09.html" />
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>CÜCELER</text>
+        </navLabel>
+        <content src="Text/M_II_10.html" />
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>BİLLUR TOP</text>
+        </navLabel>
+        <content src="Text/M_II_11.html" />
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>ŞİŞENİN İÇİNDEKİ CİN</text>
+        </navLabel>
+        <content src="Text/M_II_12.html" />
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>AKILLI KÜÇÜK TERZİ</text>
+        </navLabel>
+        <content src="Text/M_II_13.html" />
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>KRAL ARDIÇSAKAL</text>
+        </navLabel>
+        <content src="Text/M_II_14.html" />
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>AYAK TAKIMI</text>
+        </navLabel>
+        <content src="Text/M_II_15.html" />
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>ÇALIKUŞUYLA AYI</text>
+        </navLabel>
+        <content src="Text/M_II_16.html" />
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>TİLKİYLE VAFTİZ ANNE</text>
+        </navLabel>
+        <content src="Text/M_II_17.html" />
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>BAY KORBES</text>
+        </navLabel>
+        <content src="Text/M_II_18.html" />
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>KURTLA İNSAN</text>
+        </navLabel>
+        <content src="Text/M_II_19.html" />
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>MİNİK TAVUĞUN ÖLÜMÜ</text>
+        </navLabel>
+        <content src="Text/M_II_20.html" />
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>TİLKİYLE AT</text>
+        </navLabel>
+        <content src="Text/M_II_21.html" />
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>TATLI LAPA</text>
+        </navLabel>
+        <content src="Text/M_II_22.html" />
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>KEFEN</text>
+        </navLabel>
+        <content src="Text/M_II_23.html" />
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>ÇALINMIŞ HELLER</text>
+        </navLabel>
+        <content src="Text/M_II_24.html" />
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>GELİN ARAMA</text>
+        </navLabel>
+        <content src="Text/M_II_25.html" />
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>YAŞLI BÜYÜKBABAYLA TORUN</text>
+        </navLabel>
+        <content src="Text/M_II_26.html" />
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>İYİLİK BİLMEZ OĞUL</text>
+        </navLabel>
+        <content src="Text/M_II_27.html" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

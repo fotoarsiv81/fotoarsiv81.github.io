@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63" />
+		<meta name="dtb:depth" content="1" />
+		<meta name="dtb:totalPageCount" content="0" />
+		<meta name="dtb:maxPageNumber" content="0" />
+	</head>
+	<docTitle>
+		<text></text>
+	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>A.1. BÖLÜM</text>
+			</navLabel>
+			<content src="16_Hacivat_ile_Karagoz-1.xhtml#toc_marker-1" />
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>B. 2. BÖLÜM</text>
+			</navLabel>
+			<content src="16_Hacivat_ile_Karagoz-2.xhtml#toc_marker-2" />
+		</navPoint>
+	</navMap>
+</ncx>

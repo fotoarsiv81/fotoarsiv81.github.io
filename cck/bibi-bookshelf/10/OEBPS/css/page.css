@@ -1,0 +1,26 @@
+table{border-collapse:collapse;border:1px solid #bbb}
+td{border-collapse:collapse;border:1px solid #bbb;padding:.4em}
+.strike{text-decoration:line-through}
+.underline{text-decoration:underline}
+strong,strong em,em strong{font-weight:700}
+.italic{font-style:italic}
+span.font50{font-size:50%}
+span.font75{font-size:75%}
+span.font100{font-size:100%}
+span.font150{font-size:150%}
+span.font200{font-size:200%}
+.page-break{page-break-before:always;page-break-after:always}
+*{-webkit-font-smoothing:antialiased}
+.part-text,.section-text,.chapter-text,.body>.subchapter .subchapter-text{text-indent:1em}
+.part-text p,.section-text p,.chapter-text p,.subchapter-text p{margin:0}
+.body>.subchapter .subchapter-text{font-size:.9em;text-indent:1em}
+@media amzn-mobi {
+#decoration{text-align:center;width:150px;margin:auto;display:inline-block}
+}
+@media amzn-kf8 {
+#decoration{text-align:center;width:150px;margin:auto;display:inline-block}
+#decoration img{width:150px;height:auto}
+.image-wrapper img{width:80%;height:auto}
+div.image-container.float-left img,div.image-container.float-right img{width:75%;height:auto}
+}
+strong em,em strong,.italic{font-style:italic}

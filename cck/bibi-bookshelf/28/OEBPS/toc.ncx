@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="978-605-383-437-3" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>MAYA UYGARLIĞ ININ SIRRI</text>
+			</navLabel>
+			<content src="Text/mayauygarligininsirri-epub.html#toc_marker-1"/>
+			<navPoint id="navpoint2" playOrder="2">
+				<navLabel>
+					<text>Ve Rotamız Belli Oldu</text>
+				</navLabel>
+				<content src="Text/mayauygarligininsirri-epub.html#toc_marker-1-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>KANİJE ÖNÜNDE </text>
+			</navLabel>
+			<content src="Text/mayauygarligininsirri-epub.html#toc_marker-2"/>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>Tiryaki Hasan Paşa’nın Huzurunda</text>
+				</navLabel>
+				<content src="Text/mayauygarligininsirri-epub.html#toc_marker-2-1"/>
+			</navPoint>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>Düşman Karargâhında Casusluk</text>
+				</navLabel>
+				<content src="Text/mayauygarligininsirri-epub.html#toc_marker-2-2"/>
+			</navPoint>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>﻿Tiryaki Hasan Paşa’nın Savaş Hileleri</text>
+				</navLabel>
+				<content src="Text/mayauygarligininsirri-epub.html#toc_marker-2-3"/>
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>Kara Ömer Hain mi?</text>
+				</navLabel>
+				<content src="Text/mayauygarligininsirri-epub.html#toc_marker-2-4"/>
+			</navPoint>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>Gazanız Mübarek Ola!</text>
+				</navLabel>
+				<content src="Text/mayauygarligininsirri-epub.html#toc_marker-2-5"/>
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>Ertuğrul’u Kaybettik!</text>
+				</navLabel>
+				<content src="Text/mayauygarligininsirri-epub.html#toc_marker-2-6"/>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>Ertuğrul’un Kontrolü Bende</text>
+				</navLabel>
+				<content src="Text/mayauygarligininsirri-epub.html#toc_marker-2-7"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>﻿UFOLARIN BASKINI</text>
+			</navLabel>
+			<content src="Text/mayauygarligininsirri-epub.html#toc_marker-3"/>
+		</navPoint>
+	</navMap>
+</ncx>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Tekerlemeler</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Azim, Mehmet">Mehmet Azim</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">5dbf174a-19c1-4977-860f-f88b10ddb0be</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="22_Tekerlemeler.xhtml" id="x22_Tekerlemeler" media-type="application/xhtml+xml"/>
+    <item href="22_Tekerlemeler-1.xhtml" id="x22_Tekerlemeler-1" media-type="application/xhtml+xml"/>
+    <item href="22_Tekerlemeler-2.xhtml" id="x22_Tekerlemeler-2" media-type="application/xhtml+xml"/>
+    <item href="22_Tekerlemeler-3.xhtml" id="x22_Tekerlemeler-3" media-type="application/xhtml+xml"/>
+    <item href="22_Tekerlemeler-4.xhtml" id="x22_Tekerlemeler-4" media-type="application/xhtml+xml"/>
+    <item href="22_Tekerlemeler-5.xhtml" id="x22_Tekerlemeler-5" media-type="application/xhtml+xml"/>
+    <item href="22_Tekerlemeler-6.xhtml" id="x22_Tekerlemeler-6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/22_Tekerlemeler.css" id="x22_Tekerlemeler.css" media-type="text/css"/>
+    <item href="image/7sayfa_usudum+_fmt.jpeg" id="x7sayfa_usudum-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/22_Tekerlemeler_KAPAK-_fmt.jpeg" id="x22_Tekerlemeler_KAPAK-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/22_Tekerlemeler_KAPAK-o.jpg" id="x22_Tekerlemeler_KAPAK-o.jpg" media-type="image/jpeg"/>
+    <item href="image/38_ucurtma+_fmt.jpeg" id="x38_ucurtma-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/alli_kiraz_fmt.jpeg" id="alli_kiraz_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/giris_fmt.jpeg" id="giris_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/leylek+_fmt.jpeg" id="leylek-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/makara+_fmt.jpeg" id="makara-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/sayfa_10-11+_fmt.jpeg" id="sayfa_10-11-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/sayfa_20+_fmt.jpeg" id="sayfa_20-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/sayfa_30+_fmt.jpeg" id="sayfa_30-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/sayfa_37+_fmt.jpeg" id="sayfa_37-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/sayfa8+_fmt.jpeg" id="sayfa8-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/sayfa11_12+_fmt.jpeg" id="sayfa11_12-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/sayfa15+_fmt.jpeg" id="sayfa15-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/sayfa18+_fmt.jpeg" id="sayfa18-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/sayfa29+_fmt.jpeg" id="sayfa29-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/sayfa33+_fmt.jpeg" id="sayfa33-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/sayfa35+_fmt.jpeg" id="sayfa35-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/sayfa36+_fmt.jpeg" id="sayfa36-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_size_fmt.jpeg" id="ZambakLogo_size_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="x22_Tekerlemeler"/>
+    <itemref idref="x22_Tekerlemeler-1"/>
+    <itemref idref="x22_Tekerlemeler-2"/>
+    <itemref idref="x22_Tekerlemeler-3"/>
+    <itemref idref="x22_Tekerlemeler-4"/>
+    <itemref idref="x22_Tekerlemeler-5"/>
+    <itemref idref="x22_Tekerlemeler-6"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

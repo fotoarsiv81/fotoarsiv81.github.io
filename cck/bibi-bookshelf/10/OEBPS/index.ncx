@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ncx PUBLIC
+     "-//NISO//DTD ncx 2005-1//EN"
+     "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr-TR">
+
+  <head>
+    <!-- The following four metadata items are required for all
+        NCX documents, including those conforming to the relaxed
+        constraints of OPS 2.0 -->
+
+    <meta name="dtb:uid" content="urn:uuid:3954a11e-fb0c-11e5-ae3c-0f7870795abd"/>
+
+    <meta name="dtb:depth" content="5"/>
+
+    <meta name="dtb:totalPageCount" content="0"/>
+
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+
+ <docTitle>
+   <text>Seçme Hikayeler Çocukalar İçin</text>
+ </docTitle>
+
+ <docAuthor>
+   <text>Derya Binici</text>
+ </docAuthor>
+
+    <navMap>
+    
+    <!--<navPoint class="titlepage" id="level1-titlepage" playOrder="1">
+      <navLabel><text>Seçme Hikayeler Çocukalar İçin</text></navLabel>
+      <content src="title.xhtml"/>
+    </navPoint>-->
+
+    <navPoint class="other" id="cover" playOrder="1"><navLabel><text>Kapak</text></navLabel><content src="cover.xhtml"/></navPoint><navPoint class="titlepage" id="level1-titlepage" playOrder="2"><navLabel><text>Seçme Hikayeler Çocukalar İçin</text></navLabel><content src="title.xhtml"/></navPoint><navPoint class="tocpage" id="tocpage" playOrder="3"><navLabel><text>İçindekiler</text></navLabel><content src="toc.html"/></navPoint>
+<navPoint class="chapter" id="chapter_3" playOrder="4"><navLabel><text>İlk Defa Okula Gidecek Olan Ali</text></navLabel><content src="chapter.3.xhtml#chapter_3"/></navPoint>
+<navPoint class="chapter" id="chapter_4" playOrder="5"><navLabel><text>Güzel Bir Hikaye “Anlayabilmek”</text></navLabel><content src="chapter.4.xhtml#chapter_4"/></navPoint>
+<navPoint class="chapter" id="chapter_5" playOrder="6"><navLabel><text>Sevgi ağaci</text></navLabel><content src="chapter.5.xhtml#chapter_5"/></navPoint>
+<navPoint class="chapter" id="chapter_6" playOrder="7"><navLabel><text>​BİR İNSANIN ANAVATANI ÇOCUKLUĞUDUR</text></navLabel><content src="chapter.6.xhtml#chapter_6"/></navPoint>
+<navPoint class="chapter" id="chapter_7" playOrder="8"><navLabel><text>​Dağdaki Talih</text></navLabel><content src="chapter.7.xhtml#chapter_7"/></navPoint>
+<navPoint class="chapter" id="chapter_8" playOrder="9"><navLabel><text>​YOKSUL MAHALLE ÇOCUKLARI</text></navLabel><content src="chapter.8.xhtml#chapter_8"/></navPoint><navPoint class="notes" id="notes" playOrder="10"><navLabel><text>Notlar</text></navLabel><content src="notes.xhtml"/></navPoint>
+    
+  
+    
+  </navMap>
+
+
+</ncx>

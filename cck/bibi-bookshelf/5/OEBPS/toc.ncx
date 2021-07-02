@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Japon Masalları</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/icindekiler.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Masal 1ŞEFTALİ ÇOCUK MOMOTARO</text>
+      </navLabel>
+      <content src="Text/japon04.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Masal 2PORSUKLA TİLKİNİN ÇEKİŞMESİ</text>
+      </navLabel>
+      <content src="Text/japon05.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Masal 3KUTSAL DESTELER</text>
+      </navLabel>
+      <content src="Text/japon06.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Masal 4ÜÇ MİLYON ÜÇ YÜZ OTUZ ÜÇ BİN ÜÇ YÜZ OTUZ ÜÇ PALAMUT</text>
+      </navLabel>
+      <content src="Text/japon07.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Masal 5YOKSULLUKLARIN TANRISI</text>
+      </navLabel>
+      <content src="Text/japon08.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Masal 16KEDİLER CENNETİ</text>
+      </navLabel>
+      <content src="Text/japon09.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Masal 7BENİ AL</text>
+      </navLabel>
+      <content src="Text/japon10.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Masal 8İYİLİKBİLİR AĞAÇ</text>
+      </navLabel>
+      <content src="Text/japon11.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Masal 9YAMAMBA</text>
+      </navLabel>
+      <content src="Text/japon12.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Masal 10DİŞİ KEDİ İLE KEŞİŞ</text>
+      </navLabel>
+      <content src="Text/japon13.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Masal 11İYİ ARABULUCU GİBİSİ VAR MI?</text>
+      </navLabel>
+      <content src="Text/japon14.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Masal 12URAŞİMA</text>
+      </navLabel>
+      <content src="Text/japon15.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Masal 13HASIRCILARIN MACERALARI</text>
+      </navLabel>
+      <content src="Text/japon16.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Masal 14GÖNÜL BORCU</text>
+      </navLabel>
+      <content src="Text/japon17.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Masal 15İŞÇİ TOKUBEİ'NİN MACERALARI</text>
+      </navLabel>
+      <content src="Text/japon18.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Masal 16BAY HANSAEMON SİNEK YUTUNCA NELER NELER OLMUŞ</text>
+      </navLabel>
+      <content src="Text/japon19.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Masal 17DOKUZ KEŞİŞ</text>
+      </navLabel>
+      <content src="Text/japon20.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Masal 18TİLKİNİN İYİLİKSEVERLİĞİ</text>
+      </navLabel>
+      <content src="Text/japon21.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Masal 19"ÜÇ TELLİ" ÇAYEVİ</text>
+      </navLabel>
+      <content src="Text/japon22.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Masal 20MAYMUNLARIN BUDA'SI</text>
+      </navLabel>
+      <content src="Text/japon23.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Masal 21SATILAN DÜŞ</text>
+      </navLabel>
+      <content src="Text/japon24.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Masal 22BEYAZ TURNA</text>
+      </navLabel>
+      <content src="Text/japon25.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Masal 23BEŞ HAYALET</text>
+      </navLabel>
+      <content src="Text/japon26.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Masal 24KURDUN KİRPİKLERİ</text>
+      </navLabel>
+      <content src="Text/japon27.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Masal 25AĞAÇLARA ÇİÇEK AÇTIRAN YAŞLI</text>
+      </navLabel>
+      <content src="Text/japon28.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Bölüm 26GÜMÜŞ ÇAN</text>
+      </navLabel>
+      <content src="Text/japon29.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

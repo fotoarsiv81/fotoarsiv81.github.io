@@ -1,0 +1,156 @@
+/*--COVER--*/
+.cover-container {
+  max-width: 500px;
+  margin: 0 auto;
+  page-break-inside: avoid;
+}
+.cover-container img {
+  width: 100%;
+}
+/*--COPYRIGHT-PAGE--*/
+.copyright-page .copy {
+  text-align: center;
+  margin-top: 1em;
+}
+.copyright-page .copy span {
+  display: block;
+  font: normal normal 0.75em/1.3em "Swiss";
+}
+.copy-img {
+  max-width: 300px;
+  margin: 1em auto;
+}
+.copy-img img {
+  width: 100%;
+}
+a {
+  color: #777;
+  text-decoration: none;
+}
+.copyright-page .logo {
+  width: 75px !important;
+  text-align: center;
+  margin: 2em auto 0;
+}
+.copyright-page .logo img {
+  width: 75px;
+}
+/*--BIOGRAPHY--*/
+.bio {
+  width: 100px;
+  margin: 0;
+  float: left;
+}
+.bio img {
+  width: 100%;
+}
+.bio-text {
+  padding-top: 6em;
+  padding-left: 6.2em;
+}
+.bio-text h1 {
+  font: normal normal 1em/1.3em "Swiss";
+  margin: 0;
+}
+.bio-text p {
+  font: normal normal 0.83em/1.3em "Swiss Light";
+  margin: 0;
+  margin-top: 0.4em;
+}
+/*--DEDICATION--*/
+.dedication .container {
+  margin-top: 5em;
+}
+.dedication p {
+  text-align: right;
+  font: italic normal 0.8em/1.3em "Swiss";
+  margin-top: 1em;
+}
+.dedication .text {
+  max-width: 20em;
+  float: right;
+}
+.dedication .text p {
+  font-style: normal;
+  margin: 0;
+}
+/*--CHAPTER--*/
+.chapter h1 {
+  font: normal normal 1.25em/1.3em "Swiss";
+  text-align: center;
+  margin-top: 2em;
+}
+.chapter p + h1 {
+  margin-top: 1.5em;
+}
+.chapter p {
+  font: normal normal 0.92em/1.4em "Leawood";
+  margin: 0;
+  text-indent: 2em;
+}
+/*--FIGURES--*/
+.img-container {
+  width: 100%;
+  max-width: 500px;
+  page-break-inside: avoid;
+  margin: 1em auto;
+}
+.vertical {
+  max-width: 400px;
+  page-break-inside: avoid;
+  margin: 1em auto;
+}
+.left {
+  max-width: 70px;
+  page-break-inside: avoid;
+  margin: 0 0.5em 0 0;
+  float: left;
+}
+.right {
+  max-width: 70px;
+  page-break-inside: avoid;
+  margin: 0 0 0 0.5em;
+  float: right;
+}
+.right2 {
+  max-width: 200px;
+  page-break-inside: avoid;
+  margin: 0 0 0 0.5em;
+  float: right;
+}
+.little {
+  max-width: 100px;
+  page-break-inside: avoid;
+  margin: 1em auto;
+}
+.chapter img {
+  width: 100%;
+}
+.fig-text {
+  text-align: center;
+  font: italic normal 0.75em/1.3em "Swiss thin";
+}
+.container .img-container:last-child {
+  margin-bottom: 0;
+}
+/*--CONCLUSION--*/
+.conclusion .container {
+  margin-top: 5em;
+}
+.conclusion span {
+  display: block;
+  text-align: center;
+  font: italic normal 0.75em/1.3em "Swiss";
+}
+.conclusion .far {
+  width: 70px;
+  margin: 0.1em auto 0;
+  text-align: center;
+}
+.conclusion .far img {
+  width: 70px;
+}
+/*--COMMON--*/
+.clear {
+  clear: both;
+}

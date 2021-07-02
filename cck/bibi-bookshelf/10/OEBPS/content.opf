@@ -1,0 +1,102 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="PrimaryID" version="2.0">
+  <!--
+<package version="2.0" unique-identifier="PrimaryID" xmlns="http://www.idpf.org/2007/opf" dir="ltr">
+-->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Çocuk Hikayeleri</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Derya Binici">Derya Binici</dc:creator>
+    <dc:publisher>MARINE PUBLISHING</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.64.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:source>SBF</dc:source>
+    <dc:date>2016-04-04T21:00:00+00:00</dc:date>
+    <dc:identifier id="PrimaryID">urn:uuid:f1cec6ed-08ba-4ca1-bcb1-ca14dac15576</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">830a16d2-10f7-4275-b359-58887dbb7236</dc:identifier>
+    <!--
+    <dc:identifier id="PrimaryID">urn:uuid:3954a11e-fb0c-11e5-ae3c-0f7870795abd</dc:identifier>
+
+    <dc:language>tr-TR</dc:language>
+
+    <dc:creator>Derya Binici</dc:creator>
+
+    <dc:publisher>MARINE PUBLISHING</dc:publisher>
+    <dc:contributor>StreetLib Write by Simplicissimus Book Farm</dc:contributor>
+    <meta property="dcterms:modified">2016-04-05T08:56:04Z</meta>
+-->
+    <!--
+    <dc:description></dc:description>
+-->
+    <!--dc:coverage></dc:coverage-->
+    <!--
+      <dc:date>2016</dc:date>
+-->
+    <!--
+    <dc:date opf:event="ops-publication">false</dc:date>
+-->
+    <meta name="cover" content="coverimage"/>
+    <meta content="Çocuk Hikayeleri" name="calibre:title_sort"/>
+    <meta content="{&quot;Derya Binici&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="title.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <!-- Content Documents -->
+    <item href="chapter.3.xhtml" id="chapter.3" media-type="application/xhtml+xml"/>
+    <item href="chapter.4.xhtml" id="chapter.4" media-type="application/xhtml+xml"/>
+    <item href="chapter.5.xhtml" id="chapter.5" media-type="application/xhtml+xml"/>
+    <item href="chapter.6.xhtml" id="chapter.6" media-type="application/xhtml+xml"/>
+    <item href="chapter.7.xhtml" id="chapter.7" media-type="application/xhtml+xml"/>
+    <item href="chapter.8.xhtml" id="chapter.8" media-type="application/xhtml+xml"/>
+    <item href="chapter.9.xhtml" id="chapter.9" media-type="application/xhtml+xml"/>
+    <item href="notes.xhtml" id="notes" media-type="application/xhtml+xml"/>
+    <!-- colophon.xhtml -->
+    <item href="colophon.xhtml" id="colophon" media-type="application/xhtml+xml"/>
+    <!-- CSS Style Sheets -->
+    <!--item id="common-css"
+          href="css/common.css"
+          media-type="text/css"/-->
+    <item href="css/page.css" id="page-css" media-type="text/css"/>
+    <item href="css/style.css" id="css" media-type="text/css"/>
+    <item href="css/title.css" id="titlepage-css" media-type="text/css"/>
+    <item href="css/toc.css" id="toc-css" media-type="text/css"/>
+    <!--
+    <item id="preview-css"
+      href="css/preview.css"
+      media-type="text/css"/>
+-->
+    <!-- Images -->
+    <item href="images/cover.jpg" id="coverimage" media-type="image/jpeg"/>
+    <!-- Fonts -->
+    <!-- NCX -->
+    <item href="index.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <!-- TOC.HTML -->
+    <!--
+    <item id="tocpage"
+      href="toc.html"
+      properties="nav"
+      media-type="application/xhtml+xml"/> 
+    -->
+    <item href="toc.html" id="tocpage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <!--
+  <spine toc="ncx" page-progression-direction="ltr">
+-->
+    <itemref idref="cover" linear="yes"/>
+    <itemref idref="titlepage" linear="yes"/>
+    <itemref idref="colophon" linear="yes"/>
+    <itemref idref="tocpage" linear="yes"/>
+    <itemref idref="chapter.3" linear="yes"/>
+    <itemref idref="chapter.4" linear="yes"/>
+    <itemref idref="chapter.5" linear="yes"/>
+    <itemref idref="chapter.6" linear="yes"/>
+    <itemref idref="chapter.7" linear="yes"/>
+    <itemref idref="chapter.8" linear="yes"/>
+    <itemref idref="chapter.9" linear="yes"/>
+    <itemref idref="notes" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="toc.html" title="İçindekiler" type="toc"/>
+  </guide>
+</package>

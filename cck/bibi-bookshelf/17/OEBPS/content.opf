@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Kralın Mektubu</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Azim, Mehmet">Mehmet Azim</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">1c8fd723-6735-4d14-8880-29f183e566ed</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="24_Kralin_Mektubu.xhtml" id="x24_Kralin_Mektubu" media-type="application/xhtml+xml"/>
+    <item href="24_Kralin_Mektubu-1.xhtml" id="x24_Kralin_Mektubu-1" media-type="application/xhtml+xml"/>
+    <item href="24_Kralin_Mektubu-2.xhtml" id="x24_Kralin_Mektubu-2" media-type="application/xhtml+xml"/>
+    <item href="24_Kralin_Mektubu-3.xhtml" id="x24_Kralin_Mektubu-3" media-type="application/xhtml+xml"/>
+    <item href="24_Kralin_Mektubu-4.xhtml" id="x24_Kralin_Mektubu-4" media-type="application/xhtml+xml"/>
+    <item href="24_Kralin_Mektubu-5.xhtml" id="x24_Kralin_Mektubu-5" media-type="application/xhtml+xml"/>
+    <item href="24_Kralin_Mektubu-6.xhtml" id="x24_Kralin_Mektubu-6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/24_Kralin_Mektubu.css" id="x24_Kralin_Mektubu.css" media-type="text/css"/>
+    <item href="image/24_Kralin_Mektubu_KAPA_fmt.jpeg" id="x24_Kralin_Mektubu_KAPA_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/24_Kralin_Mektubu_KAPAK-o.jpg" id="x24_Kralin_Mektubu_KAPAK-o.jpg" media-type="image/jpeg"/>
+    <item href="image/giris_fmt.jpeg" id="giris_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_02_fmt.jpeg" id="Kralin-Ruyasi_02_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_03_fmt.jpeg" id="Kralin-Ruyasi_03_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_04_fmt.jpeg" id="Kralin-Ruyasi_04_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_05_fmt.jpeg" id="Kralin-Ruyasi_05_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_06_fmt.jpeg" id="Kralin-Ruyasi_06_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_07_fmt.jpeg" id="Kralin-Ruyasi_07_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_08_fmt.jpeg" id="Kralin-Ruyasi_08_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_09_fmt.jpeg" id="Kralin-Ruyasi_09_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_10_fmt.jpeg" id="Kralin-Ruyasi_10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_11_fmt.jpeg" id="Kralin-Ruyasi_11_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_12_fmt.jpeg" id="Kralin-Ruyasi_12_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_13_fmt.jpeg" id="Kralin-Ruyasi_13_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_14_fmt.jpeg" id="Kralin-Ruyasi_14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_15_fmt.jpeg" id="Kralin-Ruyasi_15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_16_fmt.jpeg" id="Kralin-Ruyasi_16_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_17_fmt.jpeg" id="Kralin-Ruyasi_17_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_18_fmt.jpeg" id="Kralin-Ruyasi_18_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_19_fmt.jpeg" id="Kralin-Ruyasi_19_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_20_fmt.jpeg" id="Kralin-Ruyasi_20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_21_fmt.jpeg" id="Kralin-Ruyasi_21_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_22_fmt.jpeg" id="Kralin-Ruyasi_22_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_23_fmt.jpeg" id="Kralin-Ruyasi_23_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_23_fmt1.jpeg" id="Kralin-Ruyasi_23_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_24_fmt.jpeg" id="Kralin-Ruyasi_24_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_25_fmt.jpeg" id="Kralin-Ruyasi_25_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/Kralin Ruyasi_26_fmt.jpeg" id="Kralin-Ruyasi_26_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_size_fmt.jpeg" id="ZambakLogo_size_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPS-BoldMT.ttf" id="TimesNewRomanPS-BoldMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TimesNewRomanPS-ItalicMT.ttf" id="TimesNewRomanPS-ItalicMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="x24_Kralin_Mektubu"/>
+    <itemref idref="x24_Kralin_Mektubu-1"/>
+    <itemref idref="x24_Kralin_Mektubu-2"/>
+    <itemref idref="x24_Kralin_Mektubu-3"/>
+    <itemref idref="x24_Kralin_Mektubu-4"/>
+    <itemref idref="x24_Kralin_Mektubu-5"/>
+    <itemref idref="x24_Kralin_Mektubu-6"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

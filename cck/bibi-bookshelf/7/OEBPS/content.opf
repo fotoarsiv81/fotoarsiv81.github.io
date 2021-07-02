@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Dede Korkut Kitabı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Korkut, Dede">Dede Korkut</dc:creator>
+    <dc:publisher>Antik Kitap</dc:publisher>
+    <dc:date>2008-11-21T23:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:770ae362-e1c4-4b83-99d8-d618da21b614</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">0f58bddd-ad7e-4d0f-8933-a72cb8207252</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="dedekorkutkitabi-epub.html" id="dedekorkutkitabi-epub" media-type="application/xhtml+xml"/>
+    <item href="dedekorkutkitabi-epub-1.html" id="dedekorkutkitabi-epub-1" media-type="application/xhtml+xml"/>
+    <item href="dedekorkutkitabi-epub-2.html" id="dedekorkutkitabi-epub-2" media-type="application/xhtml+xml"/>
+    <item href="dedekorkutkitabi-epub-3.html" id="dedekorkutkitabi-epub-3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/antikturk_fmt.jpeg" id="antikturk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/dedekorkutkitabi-dis.jpg" id="dedekorkutkitabi-dis.jpg" media-type="image/jpeg"/>
+    <item href="LiberationSerif-Bold.ttf" id="added" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-BoldItalic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Italic.ttf" id="added2" media-type="application/x-font-truetype"/>
+    <item href="LiberationSerif-Regular.ttf" id="added1" media-type="application/x-font-truetype"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="dedekorkutkitabi-epub"/>
+    <itemref idref="dedekorkutkitabi-epub-1"/>
+    <itemref idref="dedekorkutkitabi-epub-2"/>
+    <itemref idref="dedekorkutkitabi-epub-3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

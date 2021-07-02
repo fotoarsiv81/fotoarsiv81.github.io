@@ -1,0 +1,138 @@
+@font-face {
+	font-family:"Times New Roman";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/TimesNewRomanPSMT.ttf");
+}
+@font-face {
+	font-family:"Trebuchet MS";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../font/TrebuchetMS-Bold.ttf");
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+}
+@page {
+	margin : 10px 10px 10px 10px;
+}
+p.govde-metin {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.167;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:15px;
+}
+p.govde-metin-orta {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:11px;
+}
+p.kitap-ismi-giris {
+	-epub-ruby-position:over;
+	break-before:page;
+	color:#000000;
+	font-family:"Trebuchet MS", sans-serif;
+	font-size:2.083em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:25px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:11px;
+}
+p.BASLIK01 {
+	-epub-ruby-position:over;
+	break-before:page;
+	color:#ff4f4f;
+	font-family:"Trebuchet MS", sans-serif;
+	font-size:1.333em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.125;
+	margin-bottom:18px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:15px;
+}
+p.Ara-BASLIK03-orta {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Trebuchet MS", sans-serif;
+	font-size:1.667em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.25;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:11px;
+}
+span.char-style-override-1 {
+	font-family:"Times New Roman", serif;
+	font-size:0.6em;
+	font-style:normal;
+	font-weight:normal;
+}
+img.frame-1 {
+	width:54%;
+}
+img.frame-2 {
+	width:19%;
+}
+img.frame-3 {
+	width:55%;
+}
+div.frame-4 {
+	margin:10px auto 10px auto;
+	text-align:center;
+}
+img.frame-5 {
+	width:49%;
+}

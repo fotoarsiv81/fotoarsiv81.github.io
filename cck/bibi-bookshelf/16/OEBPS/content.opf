@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Karınca ile Çekirge</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Azim, Mehmet">Mehmet Azim</dc:creator>
+    <dc:publisher>Zambak Yayınları</dc:publisher>
+    <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:256E3391-73A6-4C31-8B60-4F5AC245FB63</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">287969a8-0ff2-4e06-97be-6fbd6de9a726</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="01_Karinca_ile_Cekirge.xhtml" id="x01_Karinca_ile_Cekirge" media-type="application/xhtml+xml"/>
+    <item href="01_Karinca_ile_Cekirge-1.xhtml" id="x01_Karinca_ile_Cekirge-1" media-type="application/xhtml+xml"/>
+    <item href="01_Karinca_ile_Cekirge-2.xhtml" id="x01_Karinca_ile_Cekirge-2" media-type="application/xhtml+xml"/>
+    <item href="01_Karinca_ile_Cekirge-3.xhtml" id="x01_Karinca_ile_Cekirge-3" media-type="application/xhtml+xml"/>
+    <item href="01_Karinca_ile_Cekirge-4.xhtml" id="x01_Karinca_ile_Cekirge-4" media-type="application/xhtml+xml"/>
+    <item href="01_Karinca_ile_Cekirge-5.xhtml" id="x01_Karinca_ile_Cekirge-5" media-type="application/xhtml+xml"/>
+    <item href="01_Karinca_ile_Cekirge-6.xhtml" id="x01_Karinca_ile_Cekirge-6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/01_Karinca_ile_Cekirge.css" id="x01_Karinca_ile_Cekirge.css" media-type="text/css"/>
+    <item href="image/01_Karinca_ile_Cekirge_fmt.jpeg" id="x01_Karinca_ile_Cekirge_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/01_Karinca_ile_Cekirge_KAPAK-o.jpg" id="x01_Karinca_ile_Cekirge_KAPAK-o.jpg" media-type="image/jpeg"/>
+    <item href="image/01.hikaye_Karınca ile _fmt.jpeg" id="x01.hikaye_Kar-nca-ile-_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/01.hikaye_Karınca ile_fmt1.jpeg" id="x01.hikaye_Kar-nca-ile_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/01.hikaye_Karınca ile_fmt2.jpeg" id="x01.hikaye_Kar-nca-ile_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="image/01.hikaye_Karınca ile_fmt3.jpeg" id="x01.hikaye_Kar-nca-ile_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="image/01.hikaye_Karınca ile_fmt4.jpeg" id="x01.hikaye_Kar-nca-ile_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="image/02.hikaye_Tavus Kuşu_fmt1.jpeg" id="x02.hikaye_Tavus-Ku-u_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/02.hikaye_Tavus Kuşu_fmt2.jpeg" id="x02.hikaye_Tavus-Ku-u_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="image/02.hikaye_Tavus Kuşu_fmt3.jpeg" id="x02.hikaye_Tavus-Ku-u_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="image/02.hikaye_Tavus Kuşu_fmt4.jpeg" id="x02.hikaye_Tavus-Ku-u_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="image/02.hikaye_Tavus Kuşun_fmt.jpeg" id="x02.hikaye_Tavus-Ku-un_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/04.hikaye_Kurtlar  il_fmt1.jpeg" id="x04.hikaye_Kurtlar--il_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/04.hikaye_Kurtlar  il_fmt2.jpeg" id="x04.hikaye_Kurtlar--il_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="image/04.hikaye_Kurtlar  il_fmt3.jpeg" id="x04.hikaye_Kurtlar--il_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="image/04.hikaye_Kurtlar  ile_fmt.jpeg" id="x04.hikaye_Kurtlar--ile_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/05.hikaye_Horoz ile T_fmt1.jpeg" id="x05.hikaye_Horoz-ile-T_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/05.hikaye_Horoz ile T_fmt2.jpeg" id="x05.hikaye_Horoz-ile-T_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="image/05.hikaye_Horoz ile T_fmt3.jpeg" id="x05.hikaye_Horoz-ile-T_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="image/05.hikaye_Horoz ile T_fmt4.jpeg" id="x05.hikaye_Horoz-ile-T_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="image/05.hikaye_Horoz ile T_fmt5.jpeg" id="x05.hikaye_Horoz-ile-T_fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="image/05.hikaye_Horoz ile Ti_fmt.jpeg" id="x05.hikaye_Horoz-ile-Ti_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/06.hikaye_Fare ile As_fmt1.jpeg" id="x06.hikaye_Fare-ile-As_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="image/06.hikaye_Fare ile As_fmt2.jpeg" id="x06.hikaye_Fare-ile-As_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="image/06.hikaye_Fare ile As_fmt3.jpeg" id="x06.hikaye_Fare-ile-As_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="image/06.hikaye_Fare ile Asl_fmt.jpeg" id="x06.hikaye_Fare-ile-Asl_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/giris_fmt.jpeg" id="giris_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/ZambakLogo_size_fmt.jpeg" id="ZambakLogo_size_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/TimesNewRomanPSMT.ttf" id="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/TrebuchetMS-Bold.ttf" id="TrebuchetMS-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="CoverImage"/>
+    <itemref idref="x01_Karinca_ile_Cekirge"/>
+    <itemref idref="x01_Karinca_ile_Cekirge-1"/>
+    <itemref idref="x01_Karinca_ile_Cekirge-2"/>
+    <itemref idref="x01_Karinca_ile_Cekirge-3"/>
+    <itemref idref="x01_Karinca_ile_Cekirge-4"/>
+    <itemref idref="x01_Karinca_ile_Cekirge-5"/>
+    <itemref idref="x01_Karinca_ile_Cekirge-6"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
