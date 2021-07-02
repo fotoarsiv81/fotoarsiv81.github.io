@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="urn:uuid:b5b17817-a560-4287-b3c0-a67f0b41141a" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Kanuni Sultan Süleyman - Yenilmez Türk</text>
+	</docTitle>
+	<docAuthor>
+		<text>Nicolae Jorga</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Nicolae Jorga </text>
+			</navLabel>
+			<content src="Text/Yenilmez_Turk-1.xhtml#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Önsöz</text>
+			</navLabel>
+			<content src="Text/Yenilmez_Turk-2.xhtml#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>Birinci Bölüm: Sultan I. Süleyman’ın Gençliği, Vezirleri ve Yakınları • Anadolu’daki Savaşları</text>
+			</navLabel>
+			<content src="Text/Yenilmez_Turk-3.xhtml#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>İkinci Bölüm: Kanunî Sultan Süleyman’ın Avrupa Seferleri, Venedik’le İlişkiler, Rodos’un Fethi, Haçlı Seferleri, Fikri ve Devletleri, Venedik Savaşı ve Takımadalardaki Fetihler</text>
+			</navLabel>
+			<content src="Text/Yenilmez_Turk-4.xhtml#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>Üçüncü Bölüm: Sultan Süleyman’ın Macaristan Krallığını Yok Edişi, Boğdan’ın İlhakı</text>
+			</navLabel>
+			<content src="Text/Yenilmez_Turk-5.xhtml#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>Dördüncü Bölüm: Kanunî Sultan Süleyman’ınGençliğinde Osmanlılarda Hayat</text>
+			</navLabel>
+			<content src="Text/Yenilmez_Turk-6.xhtml#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>Beşinci Bölüm: Türk-Macaristan Eyaletinin Kurulması</text>
+			</navLabel>
+			<content src="Text/Yenilmez_Turk-7.xhtml#toc_marker-7"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>Altıncı Bölüm: Türk Macaristan Eyaleti</text>
+			</navLabel>
+			<content src="Text/Yenilmez_Turk-8.xhtml#toc_marker-8"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>Yedinci Bölüm: Osmanlı Devleti’nin Kanunî Zamanında Dünyadaki Konumu, Avrupa Güçleri ile İlişkiler, Fransa, İspanya, Venedik, Lehistan ve Moskova ile İlişkiler</text>
+			</navLabel>
+			<content src="Text/Yenilmez_Turk-9.xhtml#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>Sekizinci Bölüm: Sultan Süleyman’ın Hükümdarlığının Son Yıllarında Anadolu’daki Durum, Oğulları Arasındaki Taht Mücadelesi, İran’daki Karışıklıklar</text>
+			</navLabel>
+			<content src="Text/Yenilmez_Turk-10.xhtml#toc_marker-10"/>
+		</navPoint>
+	</navMap>
+</ncx>

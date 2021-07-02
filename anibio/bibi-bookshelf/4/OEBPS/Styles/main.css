@@ -1,0 +1,192 @@
+@font-face {
+    font-family: "Berling";
+    font-style: italic;
+    font-weight: normal;
+    src: url(../Fonts/BerlingLTStd-Italic.ttf) format("truetype")
+    }
+@font-face {
+    font-family: "Berling";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../Fonts/BerlingLTStd-Roman.ttf) format("truetype")
+    }
+@font-face {
+    font-family: "GillSans";
+    font-style: italic;
+    font-weight: normal;
+    src: url(../Fonts/GillSansStd-Italic.ttf) format("truetype")
+    }
+@font-face {
+    font-family: "GillSansLight";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../Fonts/GillSansStd-Light.ttf) format("truetype")
+    }
+@font-face {
+    font-family: "GillSansLight";
+    font-style: italic;
+    font-weight: normal;
+    src: url(../Fonts/GillSansStd-LightItalic.ttf) format("truetype")
+    }
+@font-face {
+    font-family: "GillSans";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../Fonts/GillSansStd.ttf) format("truetype")
+    }
+@font-face {
+    font-family: "Goudy";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../Fonts/GoudyCatTReg.ttf) format("truetype")
+    }
+/*cover*/
+.cover-container {
+    margin: 0 auto;
+    max-width: 500px;
+    page-break-inside: avoid
+    }
+.cover-container img {
+    width: 100%
+    }
+/*copyright-page*/
+.press {
+    margin-bottom: 1em
+    }
+.copyright-page .copy {
+    display: block;
+    text-align: left;
+    margin-top: 1em
+    }
+.copyright-page .publisher {
+    display: block;
+    text-align: center;
+    margin-top: 2em
+    }
+.copyright-page span {
+    display: block;
+    text-align: left;
+    font: normal normal 0.67em/1.3em "GillSans"
+    }
+.copyright-page a {
+    color: #777;
+    text-decoration: none
+    }
+/*titlepage*/
+.title {
+    text-align: center
+    }
+.aut {
+    margin-top: 2em;
+    font: normal normal 2.1em/1.2em "Goudy"
+    }
+.aut .ilk-harf {
+    font-size: 1.2em !important
+    }
+.work {
+    font: normal normal 1.75em/1.1em "Goudy"
+    }
+.sub-work {
+    font: normal normal 1em/1.1em "Goudy";
+    margin-top: 0.5em
+    }
+.seri {
+    font: normal normal 0.9em/1.3em "GillSans";
+    margin-top: 3.5em
+    }
+.reward {
+    font: normal normal 1em/1.3em "GillSans";
+    margin-top: 2.5em
+    }
+.lang {
+    font: normal normal 0.8em/1.3em "GillSans"
+    }
+.name {
+    font: normal normal 1em/1.3em "GillSans"
+    }
+.publ {
+    margin: 3em auto 0 auto
+    }
+/*works*/
+.works .container p {
+    margin-top: 2em;
+    font-family: "GillSans";
+    font-size: 0.8em;
+    text-indent: 0
+    }
+.works ul {
+    margin-left: 0;
+    padding-left: 0;
+    list-style: none
+    }
+.works ul li {
+    font-family: "GillSans";
+    font-size: 0.8em;
+    padding-bottom: 0.3em
+    }
+/*biography*/
+.biography .container p {
+    font: normal normal 0.8em/1.5em "GillSans";
+    text-indent: 0
+    }
+/*Parts*/
+.part h1 {
+    font: normal normal 1.4em/1.3em "Berling";
+    text-align: center;
+    margin-top: 4.5em
+    }
+/*Chapter*/
+.chapter h1 {
+    font: normal normal 1.25em/1.3em "Berling";
+    text-align: center;
+    margin-top: 4.5em
+    }
+.chapter p {
+    font: normal normal 0.9em/1.3em "Berling";
+    text-indent: 2em;
+    margin: 0
+    }
+.chapter .mektup {
+    margin: 1.2em 0
+    }
+.chapter .mektup p {
+    font: normal normal 0.9em/1.3em "GillSansLight";
+    text-indent: 2em;
+    margin: 0
+    }
+.chapter .mektup .date {
+    margin-bottom: 1.2em
+    }
+/*common*/
+.si-noteref {
+    text-decoration: none;
+    color: #7A7A7A;
+    font-size: 0.75em;
+    vertical-align: super;
+    padding-left: 0.1em;
+    line-height: 1em
+    }
+.si-footnotes {
+    margin: 4em 0 1em
+    }
+.si-backref {
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #000;
+    font-size: 1.1em
+    }
+.si-footnote {
+    font-family: "GillSans";
+    font-weight: normal;
+    font-style: normal;
+    font-size: 0.8em;
+    margin-bottom: 0.25em
+    }
+.si-footnote-text {
+    padding-left: 0.5em
+    }
+a {
+    text-decoration: none;
+    color: #7A7A7A
+    }

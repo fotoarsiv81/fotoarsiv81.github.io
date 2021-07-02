@@ -1,0 +1,58 @@
+@namespace epub "http://www.idpf.org/2007/ops";
+body{
+}
+
+a{
+	color: #7A7A7A;
+	text-decoration: none;
+}
+.copyright-page section{
+	margin-top: 1em;
+	text-align: center;
+}
+.copyright-page span{
+	display: block;
+	font-size: .7em;
+	line-height: 1.3em;
+}
+.titlepage section{
+	margin-top:2em;
+	text-align: center;
+}
+.book{
+	font-size: 2em;
+}
+.aut{
+	font-size: 1.66em;
+}
+.title{
+	font-size: 1em;
+}
+
+.logo{
+	width: 100px;
+	margin: auto;
+	page-break-inside: avoid;
+	margin-top: 5em;
+}
+.cover{
+	max-width: 500px;
+	margin: 0 auto;
+}
+img{
+	width: 100%;
+}
+#biography p{
+	font-size: .825em;
+	margin: .5em 0 0 0;
+}
+h1{
+	font-size: .92em;
+	margin-bottom: 2em;
+	text-align: center;
+	font-weight: normal;
+}
+.part div{
+  margin: 3em auto 0 auto;
+	max-width: 350px;
+}

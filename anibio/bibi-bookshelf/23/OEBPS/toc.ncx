@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="AWP-C49B6A91-A9D4-4CC5-B73D-EB19E9B09EA4" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Bilimler Tarihcisi Fuat Sezgin</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/004.html" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İlmin Dar Kapısından Giriş</text>
+      </navLabel>
+      <content src="Text/005.html" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İlk Eserler: &quot;İslam Bilim Tarihi”</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Batı’ya Yolculuk</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_2" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Arap-İslam Bilimleri Tarihi Enstitüsü’nün Kuruluşu</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>İslam Bilim Tarihi Müzesi Projesi</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_4" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Bilimler Tarihi İnsanlığın Ortak Mirası</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_5" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Batı Medeniyetinin Kökenleri</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_6" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Müslüman Bilimcilerin Yöntemi, Kimya İlmi</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_7" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Amerika’yı Kristof Kolomb’dan Önce Müslümanlar Keşfetti!</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_8" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Müslümanlar Neden Geriledi?</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_9" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>İslam Gökbilimin Kuruluşu ve Haritacılık</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_10" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>İslam Bilim ve Medeniyetler Müzesi Projesi</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_11" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Müslümanlar ve Matematik Coğrafya</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_12" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Eserleri Çeşitli Dillere Çevriliyor</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_13" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Türkiye’nin Bilim ve Kültür Atmosferine Dair Tespitler</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_14" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Oryantalist Tezlere İtiraz ve Batı’daki Etkiler</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_15" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Günde Kaç Saat Çalışmalıyız?</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_16" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>İslam Bilim ve Medeniyetler Müzesi’nin Öyküsü</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_17" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>İslam Bilim Tarihi Üzerine Tespitler ve Oryantalist Tezler</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_18" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Batı Medeniyetinin Kökeninin İslam Bilimine Dayandığına Dair Örnekler</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_19" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Kâtip Çelebi ve Bilimsel Metodu</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_20" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Takiyyüddin’in Saatleri</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_21" />
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Bilimin Meşakkatli Merdivenleri</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_22" />
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Geç Dönem Tercüme Örnekleri</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_23" />
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Dünyanın Gerçeğe Yakın İlk Haritalarını Müslümanlar Çizdi</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_24" />
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Evliya Çelebi Abidesi Dikilecek Adamdır!</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_25" />
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>İslam Bilim ve Medeniyetler Müzesi ve Batılıların Tepkileri</text>
+      </navLabel>
+      <content src="Text/005.html#sigil_toc_id_26" />
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Fuat Sezgin’in Hocaları</text>
+      </navLabel>
+      <content src="Text/006.html" />
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>İstanbul’dan Ayrılış, Almanya’ya Gidiş...</text>
+      </navLabel>
+      <content src="Text/007.html" />
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Bir Valizle Çıktım Yola!</text>
+      </navLabel>
+      <content src="Text/007.html#sigil_toc_id_27" />
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>İnşaatta Çalışmayı Düşündüm!</text>
+      </navLabel>
+      <content src="Text/007.html#sigil_toc_id_28" />
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Eşim Benim İçin Çok Önemliydi!</text>
+      </navLabel>
+      <content src="Text/007.html#sigil_toc_id_29" />
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>&quot;Bu Kitabı Bir Türk Yazamaz!” Dediler...</text>
+      </navLabel>
+      <content src="Text/007.html#sigil_toc_id_30" />
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Buhari’nin Kaynakları</text>
+      </navLabel>
+      <content src="Text/007.html#sigil_toc_id_31" />
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Matematiksel Coğrafya</text>
+      </navLabel>
+      <content src="Text/007.html#sigil_toc_id_32" />
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Bîrûnî ve İbn Sina’nın Işığın Hızı Üzerindeki Görüşleri</text>
+      </navLabel>
+      <content src="Text/008.html" />
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Bîrûnî Müthiş Bir Âlim!</text>
+      </navLabel>
+      <content src="Text/008.html#sigil_toc_id_33" />
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Dinlenmeye Zamanımız Yok!</text>
+      </navLabel>
+      <content src="Text/009.html" />
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Bilim ve Teknoloji Tarihi Müzesi</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_34" />
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Objelerin Hikâyesi</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_35" />
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Müslüman Bilim Adamlarının Tarih Sahnesine Çıkışı</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_36" />
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>İslam Bilimlerinin Prensipleri</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_37" />
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>İbn Sina’nın Kitabı Aristo’nun Adıyla Yayınlandı!</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_38" />
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Rasathane Yunanlılarda Yoktu!</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_39" />
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Zamanı Dakikayla Ölçen İlk Saat</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_40" />
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>İslam Dünyasında Bilim</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_41" />
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>En Büyük Destekçim Eşim</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_42" />
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Aşağılık Kompleksinden Kurtulmalıyız!</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_43" />
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>&quot;Yaratıcılık” Özelliğimizi Kaybettik!</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_44" />
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Müslümanlar ve Zaman Ahlakı!</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_45" />
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Türkiye’deki Üniversiteler</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_46" />
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>İslam Dünyası Nasıl İlerledi?</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_47" />
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Oryantalistler ve Biz</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_48" />
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Matematiksel Coğrafya Tarihini Yazmak Bana Nasip Oldu!</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_49" />
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Bugünkü Haritaları Müslümanlar Yaptı!</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_50" />
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Coğrafya Tarihi Neden Yanlamadı?</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_51" />
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Müslümanlar Nasıl İlerledi?</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_52" />
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Arapça Yazının Avantajları</text>
+      </navLabel>
+      <content src="Text/009.html#sigil_toc_id_53" />
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>EKLER</text>
+      </navLabel>
+      <content src="Text/010.html" />
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>İslam Bilimlerin Duraklamasının Başlangıcı ve Yaratıcılığın Son Bulmasının Nedenleri {*}</text>
+        </navLabel>
+        <content src="Text/011.html" />
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Müze’nin Kuruluşu</text>
+        </navLabel>
+        <content src="Text/012.html" />
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Müze’nin 24 Mayıs 2008’deki Açılış Konuşmalarından Biri</text>
+        </navLabel>
+        <content src="Text/013.html" />
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>İstanbul İslam Bilim ve Teknoloji Tarihi Müzesi</text>
+        </navLabel>
+        <content src="Text/014.html" />
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>İslam Kültür Dünyasının Bilimler Tarihindeki Tablosu</text>
+        </navLabel>
+        <content src="Text/015.html" />
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Müslüman Bilginlerinin Bilim Ve Bilimin Metoduna Dair Bazı Sözleri</text>
+        </navLabel>
+        <content src="Text/018.html" />
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>İbnü’l-Heysem’in Araştırmacıya Kaynakları Kullanma Yönündeki Öğüdü</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_54" />
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Ölçüm Aletlerindeki Hatalara Dair</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_55" />
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>El-Bîrûnî’nin Hind Kültürüne Dair Eşsiz Eseri</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_56" />
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Bilim Tarihçiliği</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_57" />
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Coğrafyacı ve kültür tarihçisi el-Mes'ûdî (öl. 956 m)’ye Göre Bilimlerin Gelişmesi</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_58" />
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>İbnü’l-Heysem’in Doğa Araştırmaları</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_59" />
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>İslam Bilimlerinin Avrupa’ya Ulaşmasının Önemi</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_60" />
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Şükran borcu</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_61" />
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>J.W. von Goethe İslam dillerini öğrenmeyi öğütlüyor</text>
+        </navLabel>
+        <content src="Text/018.html#sigil_toc_id_62" />
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>İslam’da Bilimin Yüceltilmesi ve Teşvik Edilmesi</text>
+        </navLabel>
+        <content src="Text/019.html" />
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>İslam Bilimlerinde Deneyin Yeri</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_63" />
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Halife el-Me’mûn’un Dünya Haritası (813-833 M.)</text>
+        </navLabel>
+        <content src="Text/019.html#sigil_toc_id_64" />
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>Halife el-Me’mûn’un Dünya Haritası Rekonstrüksiyonu</text>
+        </navLabel>
+        <content src="Text/020.html" />
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text></text>
+        </navLabel>
+        <content src="Text/020.html#sigil_toc_id_65" />
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Rey (eski Tahran) Rasathanesi</text>
+        </navLabel>
+        <content src="Text/021.html" />
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text></text>
+        </navLabel>
+        <content src="Text/023.html" />
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Müslümanlar ekvatorun uzunluğunu nasıl buldular?</text>
+        </navLabel>
+        <content src="Text/024.html" />
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>El-Bîrûnî’nin boylam derecelerini ölçme metodu</text>
+        </navLabel>
+        <content src="Text/024.html#sigil_toc_id_66" />
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Günümüze Ulaşan En Önemli Ve En Eski Kuzey Asya Haritası</text>
+        </navLabel>
+        <content src="Text/024.html#sigil_toc_id_67" />
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Bize Kadar Ulaşan Gerçeğe Çok Yakın Deniz Haritalarının En Eskisi</text>
+        </navLabel>
+        <content src="Text/026.html" />
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>Amerika’nın Müslümanlar Tarafından Kristof Kolomb’dan Önceki Keşfi</text>
+        </navLabel>
+        <content src="Text/026.html#sigil_toc_id_68" />
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>İslam Dünyasında «Cava» Atlası’nın Bazı Parçaları (15. yüzyıl?)</text>
+        </navLabel>
+        <content src="Text/028.html" />
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>Pîrî Reîs Haritası</text>
+        </navLabel>
+        <content src="Text/028.html#sigil_toc_id_69" />
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text></text>
+        </navLabel>
+        <content src="Text/028.html#sigil_toc_id_70" />
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>İbn Mâcid’de İlerleme Yasası</text>
+        </navLabel>
+        <content src="Text/029.html" />
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>İbn Mâcid Tarafından Geliştirilen Pusula Tipi (15. yüzyıl)</text>
+        </navLabel>
+        <content src="Text/029.html#sigil_toc_id_71" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-93" playOrder="93">
+      <navLabel>
+        <text>Fotoğraf Galerisi</text>
+      </navLabel>
+      <content src="Text/030.html" />
+    </navPoint>
+    <navPoint id="navPoint-94" playOrder="94">
+      <navLabel>
+        <text>Sonnotlar</text>
+      </navLabel>
+      <content src="Text/notes.html" />
+    </navPoint>
+  </navMap>
+</ncx>

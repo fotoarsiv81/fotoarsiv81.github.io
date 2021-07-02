@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="a45816aa-f4e5-4e4f-8684-6a6e8817d416" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>II. Sultan Mahmud</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="421504b3-3fb5-40d4-87d7-a2d8a133c06c" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/mahmut_split_003.html"/>
+    </navPoint>
+    <navPoint id="a0eaf656-4872-484a-8bc1-298492fb22d1" playOrder="2">
+      <navLabel>
+        <text>Birinci Bölüm ŞEHZÂDELİĞİ VE KARAKTERİ</text>
+      </navLabel>
+      <content src="Text/mahmut_split_004.html"/>
+    </navPoint>
+    <navPoint id="c207c217-b634-4060-84ec-fdc5cd82d471" playOrder="3">
+      <navLabel>
+        <text>İkinci Bölüm II. MAHMUD DEVRİNİN İLK SAFHASI (1807 – 1826)</text>
+      </navLabel>
+      <content src="Text/mahmut_split_005.html"/>
+    </navPoint>
+    <navPoint id="9c6baca1-ed61-47b9-9039-9b22c8c78118" playOrder="4">
+      <navLabel>
+        <text>Üçüncü Bölüm RADİKAL ISLÂHÂT DEVRİ (1826-1839)</text>
+      </navLabel>
+      <content src="Text/mahmut_split_006.html"/>
+    </navPoint>
+    <navPoint id="8542c827-4a13-4595-b21c-e708300a2e00" playOrder="5">
+      <navLabel>
+        <text>SULTÂN MAHMÛD ÂİLESİ</text>
+      </navLabel>
+      <content src="Text/mahmut_split_007.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Karakoç, Sezai">Sezai Karakoç</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:05a91437-c398-4f7a-9560-88b5e6089d72</dc:identifier>
+    <dc:date opf:event="modification">2014-08-14</dc:date>
+    <dc:type>Edebiyat/Deneme</dc:type>
+    <dc:publisher>Diriliş Yayıları</dc:publisher>
+    <dc:date>1986-12-31T22:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="_kapak.jpg"/>
+  <dc:title>Mehmet Akif</dc:title>
+<meta name="calibre:title_sort" content="Mehmet Akif"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>İnceleme</dc:subject>
+<dc:subject>Deneme</dc:subject>
+<dc:subject>Biyografi</dc:subject>
+<dc:description>&lt;p&gt;"Ne tarihi ve milleti inkar demek olan batıya tapıcılık, ne ırkın taş devrine dönüş özlemindeki primitifliği ihya deliliği, ne durgun doğuculuk: İslam'ın yeniden dirilişi" diye özetlediği Mehmed Akif Ersoy hakkındaki teşhisler&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Sezai Karakoç&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">0a101af7-320a-4652-8556-95029a2d87e6</dc:identifier>
+<dc:identifier opf:scheme="ISBN">2880000016984</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Chapter2.xhtml" id="Chapter2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Title.xhtml" id="Title.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/title.jpg" id="title.jpg" media-type="image/jpeg"/>
+    <item href="Text/YayinBilgisi.xhtml" id="YayinBilgisi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Part1.xhtml" id="Part1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/epub_css.css" id="epub_css.css" media-type="text/css"/>
+    <item href="Text/Chapter1.xhtml" id="Chapter1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Part2.xhtml" id="Part2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/Sep02.jpg" id="Sep02.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Title.xhtml"/>
+    <itemref idref="YayinBilgisi.xhtml"/>
+    <itemref idref="Part1.xhtml"/>
+    <itemref idref="Chapter1.xhtml"/>
+    <itemref idref="Part2.xhtml"/>
+    <itemref idref="Chapter2.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,76 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id">D.H. Lawrence</dc:title>
+    <dc:creator id="id-1">Mîna Urgan</dc:creator>
+    <dc:identifier>isbn:9789750828423</dc:identifier>
+    <dc:identifier>calibre:312</dc:identifier>
+    <dc:identifier>uuid:7ba1603f-dcf0-45cc-afe1-08bbc773ebd9</dc:identifier>
+    <dc:identifier id="pub-id">urn:isbn:9789750828423</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:contributor id="id-2">calibre (3.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">D.H. Lawrence</meta>
+    <meta property="title-type" refines="#title">main</meta>
+    <meta property="dcterms:modified">2014-04-08T12:00:00Z</meta>
+    <meta property="identifier-type" refines="#pub-id" scheme="onix:codelist5">15</meta>
+    <meta property="file-as" refines="#author">Urgan, Mîna</meta>
+    <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+    <meta name="cover" content="image__coverjpg"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta property="role" refines="#id-2" scheme="marc:relators">bkp</meta>
+    <meta property="role" refines="#id-1" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#id-1">Urgan, Mîna</meta>
+    <meta property="calibre:author_link_map">{"Mîna Urgan": ""}</meta>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dedication.xhtml" id="dedicationxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="chapter6xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="chapter7xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="chapter8xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="chapter9xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter10.xhtml" id="chapter10xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter11.xhtml" id="chapter11xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter12.xhtml" id="chapter12xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter13.xhtml" id="chapter13xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter14.xhtml" id="chapter14xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="css__maincss" media-type="text/css"/>
+    <item href="Styles/other.css" id="css__othercss" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="Images/ykylogo.png" id="image__ykylogopng" media-type="image/png"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="dedicationxhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+    <itemref idref="chapter7xhtml"/>
+    <itemref idref="chapter8xhtml"/>
+    <itemref idref="chapter9xhtml"/>
+    <itemref idref="chapter10xhtml"/>
+    <itemref idref="chapter11xhtml"/>
+    <itemref idref="chapter12xhtml"/>
+    <itemref idref="chapter13xhtml"/>
+    <itemref idref="chapter14xhtml"/>
+    <itemref idref="biographyxhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

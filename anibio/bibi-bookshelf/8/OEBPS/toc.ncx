@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Husserl</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="98f1f2f4-5dec-4088-a943-da8b464da215" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/husser_split_003.html"/>
+    </navPoint>
+    <navPoint id="5984e744-e3c8-4383-a0ae-9375b989b5c4" playOrder="2">
+      <navLabel>
+        <text>YAŞAMI, YAPITLARI ve FELSEFESİ</text>
+      </navLabel>
+      <content src="Text/husser_split_004.html"/>
+      <navPoint id="9afc1a2b-f3fc-4506-b328-8d85baeda82d" playOrder="3">
+        <navLabel>
+          <text>YAŞAMI</text>
+        </navLabel>
+        <content src="Text/husser_split_005.html"/>
+      </navPoint>
+      <navPoint id="a6d6fe4d-13dd-4043-90ae-500243b1b3db" playOrder="4">
+        <navLabel>
+          <text>HUSSERL, FELSEFE ve BİLİMLER</text>
+        </navLabel>
+        <content src="Text/husser_split_006.html"/>
+      </navPoint>
+      <navPoint id="646c2db8-970e-4bd1-8483-4f0da9d76fbe" playOrder="5">
+        <navLabel>
+          <text>EDMUND HUSSERL ve FENOMENOLOJİ</text>
+        </navLabel>
+        <content src="Text/husser_split_007.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="33c8284e-6874-48ba-a042-c1e811823753" playOrder="6">
+      <navLabel>
+        <text>YAPITLARINDAN SEÇMELER</text>
+      </navLabel>
+      <content src="Text/husser_split_008.html"/>
+      <navPoint id="723514be-36ce-49ff-bfd6-1525e668c910" playOrder="7">
+        <navLabel>
+          <text>FENEMONOLOJİ ÜZERİNE BEŞ DERS [*1]</text>
+        </navLabel>
+        <content src="Text/husser_split_009.html"/>
+      </navPoint>
+      <navPoint id="839d5091-ab8b-4177-bebe-f2b84db1c053" playOrder="8">
+        <navLabel>
+          <text>KESİN BİR BİLİM OLARAK FELSEFE [*3]</text>
+        </navLabel>
+        <content src="Text/husser_split_010.html"/>
+      </navPoint>
+      <navPoint id="b11441bd-fe9a-41e8-8219-d9bd779632e0" playOrder="9">
+        <navLabel>
+          <text>FENOMENOLOJİ [*4]</text>
+        </navLabel>
+        <content src="Text/husser_split_011.html"/>
+      </navPoint>
+      <navPoint id="ed7e85e3-4d3f-48e6-b83a-ecd3a96d308f" playOrder="10">
+        <navLabel>
+          <text>AVRUPA İNSANLIĞININ KRİZİ ve FELSEFE [*5]</text>
+        </navLabel>
+        <content src="Text/husser_split_012.html"/>
+      </navPoint>
+      <navPoint id="14c04524-7be4-4cf9-a3c2-4f926a20f2f9" playOrder="11">
+        <navLabel>
+          <text>KARTEZYEN MEDİTASYONLAR: FENOMENOLOJİYE GİRİŞ [*6]</text>
+        </navLabel>
+        <content src="Text/husser_split_013.html"/>
+      </navPoint>
+      <navPoint id="93e9828e-f236-446f-87f4-a2831cc510c5" playOrder="12">
+        <navLabel>
+          <text>FENOMENOLOJİ ve ANTROPOLOJİ [*8]</text>
+        </navLabel>
+        <content src="Text/husser_split_014.html"/>
+      </navPoint>
+      <navPoint id="8e3b844c-7f12-4172-aa08-f9ca6feee4dc" playOrder="13">
+        <navLabel>
+          <text>SAF FENOMENOLOJİ ve FENOMENOLOJİK FELSEFE ÜZERİNE DÜŞÜNCELER I</text>
+        </navLabel>
+        <content src="Text/husser_split_015.html"/>
+      </navPoint>
+      <navPoint id="62f1df16-de27-4baa-95ed-1482116a3d52" playOrder="14">
+        <navLabel>
+          <text>KISA MANTIKSAL İNCELEMELER [*10]</text>
+        </navLabel>
+        <content src="Text/husser_split_016.html"/>
+      </navPoint>
+      <navPoint id="71c07aea-69b5-49aa-a1a3-5f21c6221976" playOrder="15">
+        <navLabel>
+          <text>İÇSEL ZAMAN BİLİNCİNİN FENOMENOLOJİSİ ÜZERİNE [*12]</text>
+        </navLabel>
+        <content src="Text/husser_split_017.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="d7bb5844-5d6d-4385-8e2a-7142716da978" playOrder="16">
+      <navLabel>
+        <text>HUSSERL'İN FENOMENOLOJİSİNDEKİ TEMEL KAVRAMLAR</text>
+      </navLabel>
+      <content src="Text/husser_split_018.html"/>
+    </navPoint>
+    <navPoint id="9cab24ac-c570-47f0-a473-2d60f129ff63" playOrder="17">
+      <navLabel>
+        <text>KAYNAKÇA</text>
+      </navLabel>
+      <content src="Text/husser_split_019.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

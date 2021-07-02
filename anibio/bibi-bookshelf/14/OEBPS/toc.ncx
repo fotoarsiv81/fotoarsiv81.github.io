@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta content="urn:isbn:9789750828423" name="dtb:uid"/>
+	</head>
+	<docTitle>
+		<text>D.H. Lawrence</text>
+	</docTitle>
+	<docAuthor>
+		<text>Mîna Urgan</text>
+	</docAuthor>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Birinci Bölüm D.H. Lawrence’ın Yaşamı</text>
+         </navLabel>
+         <content src="Text/chapter1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>İkinci Bölüm D.H. Lawrence’ın Kişiliği ve Şiirleri</text>
+         </navLabel>
+         <content src="Text/chapter2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>Üçüncü Bölüm D.H. Lawrence’ın Cinsellik Üstüne Görüşleri</text>
+         </navLabel>
+         <content src="Text/chapter3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>Dördüncü Bölüm D.H. Lawrence’ın Toplum, Siyaset, Din ve Eğitim Üstüne Görüşleri</text>
+         </navLabel>
+         <content src="Text/chapter4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>Beşinci Bölüm D.H. Lawrence’ın İlk İki Romanı ve The Lost Girl (Kayıp Kız)</text>
+         </navLabel>
+         <content src="Text/chapter5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>Altıncı Bölüm Sons And Lovers (Oğullar ve Âşıklar)</text>
+         </navLabel>
+         <content src="Text/chapter6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+         <navLabel>
+            <text>Yedinci Bölüm The Rainbow (Gökkuşağı)</text>
+         </navLabel>
+         <content src="Text/chapter7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>Sekizinci Bölüm Women in Love (Âşık Kadınlar)</text>
+         </navLabel>
+         <content src="Text/chapter8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+         <navLabel>
+            <text>Dokuzuncu Bölüm Aaron’s Rod (Aaron’ın Değneği)</text>
+         </navLabel>
+         <content src="Text/chapter9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+         <navLabel>
+            <text>Onuncu Bölüm Kangaroo</text>
+         </navLabel>
+         <content src="Text/chapter10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+         <navLabel>
+            <text>On Birinci Bölüm The Plumed Serpent (Tüylü Yılan)</text>
+         </navLabel>
+         <content src="Text/chapter11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+         <navLabel>
+            <text>On İkinci Bölüm Lady Chatterley’s Lover (Lady Chatterley’nin Âşığı)</text>
+         </navLabel>
+         <content src="Text/chapter12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+         <navLabel>
+            <text>On Üçüncü Bölüm D.H. Lawrence’ın Uzun ve Kısa Öyküleri</text>
+         </navLabel>
+         <content src="Text/chapter13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+         <navLabel>
+            <text>On Dördüncü Bölüm D.H. Lawrence’ın Roman ve Öykü Dışında Yazdıkları ve Son Söz</text>
+         </navLabel>
+         <content src="Text/chapter14.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

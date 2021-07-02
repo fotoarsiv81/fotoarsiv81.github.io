@@ -1,0 +1,78 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Öztuna, Yılmaz">Yılmaz Öztuna</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">754d9363-b601-4e45-b822-efe9a1164cb8</dc:identifier>
+    <dc:publisher>Babıali Kültür Yayıncılığı</dc:publisher>
+    <dc:date>2006-02-14T22:00:00+00:00</dc:date>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2011-08-04T11:06:51.558000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="_cover.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Kanuni Sultan Süleyman</dc:title>
+<meta name="calibre:title_sort" content="Kanuni Sultan Süleyman"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Osmanlı</dc:subject>
+<dc:subject>Orjinal</dc:subject>
+<dc:description>&lt;p&gt;Batılıların ısrarla “Muhteşem Süleyman” dediği, Cihan Hakanı olarak anılan bir devlet başkanının, bir imparatorluğu en az kusurla yönetişinin, en parlak örnek oluşunun temel sırları nelerdi?
+
+
+Yılmaz Öztuna, Kanuni Sultan Süleyman adlı eserinde, Pax Ottomana'yı kuran ve dünyaya Osmanlı düzenini kabul ettiren Sultan Süleyman'ın siyasî ve askerî hayatını, benzerleriyle bile mukayese edilemez görülen saltanat sürecini ve onu Kanuni yapan büyük başarıları anlatıyor.
+
+
+“Kanûnî Sultan Süleyman, bu işi tek başına yapmadı. Bütün Türk tarihinde tesadüf edilen en mükemmel ekibi oluşturarak yaptı. Ondaki bu ekip oluşturma dehâsına, başka hiçbir devlet başkanında tesadüf edilmemektedir. Sultan Süleyman, her sahada, askerlikte, denizcilikte, edebiyatta, şiirde, sanatta, yöneticilikte, ilimde en yetenekli kişileri temyiz ve teşhis eder, yükseltir, himaye ve teşvik eder, sahalarında hizmet etmeleri için elinden geleni yapar, onları en çok işe yarayacakları alanlarda kullanırdı. Barbaros Hayreddin Paşa, Sinan, Bâkî gibi dehâları ortaya çıkaran odur.”&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Yılmaz Öztuna&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">392a193c-5d9e-4831-84e6-a3120bce83ea</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">jI8uAwAACAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789758486991</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/babialikultur.jpg" id="added" media-type="image/jpeg"/>
+    <item href="Images/_cover.jpg" id="_cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/kanuni_split_000.html" id="html16" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_001.html" id="html15" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_002.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_003.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_004.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_005.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_006.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_007.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_008.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_009.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_010.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_011.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_012.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_013.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_014.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/kanuni_split_015.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

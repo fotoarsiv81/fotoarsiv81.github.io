@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Platon">Platon</dc:creator>
+<dc:identifier id="BookId">AWP-56180A05-0B6C-4A30-B84A-DBF11F7695A3</dc:identifier>
+    <dc:publisher>Sosyal Yayınları</dc:publisher>
+    <dc:date>2015-05-27T21:00:00+00:00</dc:date>
+    <meta name="cover" content="Platon_-_Kritias.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2015-05-28</dc:date>
+  <meta name="calibre:title_sort" content="Kritias"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;Platon'un geç diyaloglarından Kritias, görkemli ada krallığı Atlantis'in Atina'yı fethetme çabasının hikayesini konu alır. &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Platon, onu okuyanlar için büyük bir zevk, hatta büyük bir neşe kaynağıdır. Onun, eşsiz bir şekil mükemmelliği ile yine eşsiz bir düşünce derinliğinin birleşmesinden oluşan diyalogları, zaman aşımına kafa tutarcasına günümüze kadar gelmişlerdir. Platon'un eserleri hiç yaşlanmamış, tazeliğini ve canlılığını -uzak bir geçmişte ilk yazıldıkları günlerdeki gibi- korumuşlardır. &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Sokrates'in yurttaşlarını rahatsız eden, hatta sabırlarını taşırtıp öfkelendiren soruları: Erdem nedir? Cesaret nedir? Dindarlık nedir? Günümüz insanları için de aynı derecede rahatsız edici ve akıl karıştırıcı sorulardır.&lt;/span&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:author_link_map" content="{&quot;Platon&quot;: &quot;&quot;}"/>
+<dc:title>Kritias</dc:title>
+<dc:subject>Felsefe</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">f106d695-65f2-4788-92ed-e5db935a64c9</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786054177783</dc:identifier>
+<meta name="calibre:user_metadata:#mm_annotations" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#mm_annotations&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;comments&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;mm_annotations&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Annotations&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="id002" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="id004" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="id005" media-type="application/xhtml+xml"/>
+    <item href="Text/notes.html" id="idnotes" media-type="application/xhtml+xml"/>
+    <item href="Images/Platon - Kritias.jpg" id="Platon_-_Kritias.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id001"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="idnotes"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

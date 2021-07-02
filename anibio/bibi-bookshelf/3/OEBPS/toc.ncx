@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="1" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Bir Şehri Yok Etmek</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İÇİNDEKİLER</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Önsöz</text>
+         </navLabel>
+         <content src="Text/preface.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>Yaşamöyküsüne Prelüd</text>
+         </navLabel>
+         <content src="Text/introduction.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>Nicolas Chopin</text>
+         </navLabel>
+         <content src="Text/chapter1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>Çocukluk Yılları, 1810-1818</text>
+         </navLabel>
+         <content src="Text/chapter2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>Çocukluktan Gençliğe, 1819-1830</text>
+         </navLabel>
+         <content src="Text/chapter3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>Viyana, 1830-1831</text>
+         </navLabel>
+         <content src="Text/chapter4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+         <navLabel>
+            <text>Paris’te İlk Yıllar, 1831-1835</text>
+         </navLabel>
+         <content src="Text/chapter5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>Maria Wodzińska, 1835-1837</text>
+         </navLabel>
+         <content src="Text/chapter6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+         <navLabel>
+            <text>George Sand, 1838-1839</text>
+         </navLabel>
+         <content src="Text/chapter7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+         <navLabel>
+            <text>Paris-Nohant Arasında, 1840-1846</text>
+         </navLabel>
+         <content src="Text/chapter8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+         <navLabel>
+            <text>Son Yıllar, 1847-1849</text>
+         </navLabel>
+         <content src="Text/chapter9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+         <navLabel>
+            <text>Chopin ve Çağı</text>
+         </navLabel>
+         <content src="Text/sub-chapter1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+         <navLabel>
+            <text>Chopin’in Yapıtları</text>
+         </navLabel>
+         <content src="Text/sub-chapter2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+         <navLabel>
+            <text>Kaynakça</text>
+         </navLabel>
+         <content src="Text/bibliography.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+         <navLabel>
+            <text>Dizin</text>
+         </navLabel>
+         <content src="Text/index.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

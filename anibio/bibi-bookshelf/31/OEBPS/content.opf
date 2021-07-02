@@ -1,0 +1,95 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Öztuna, Yılmaz">Yılmaz Öztuna</dc:creator>
+<dc:publisher>Babıali Kültür Yayıncılığı</dc:publisher>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2011-08-03T07:58:12.432000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="x0_cover.jpg"/>
+    <dc:date>2006-02-14T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">7b90e44d-f52e-425c-8e65-18798624a4e1</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-02-16</dc:date>
+  <dc:title>Yavuz Sultan Selim</dc:title>
+<meta name="calibre:title_sort" content="Yavuz Sultan Selim"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Osmanlı</dc:subject>
+<dc:subject>Biyografi</dc:subject>
+<dc:description>&lt;p&gt;Yavuz Sultan Selim adlı bu kitap, "şaşırtıcı işler yapan bir fenomen"in biyografisidir. Sekiz yıllık kısa saltanatında dünya siyaseti açısından kalıcı fetihler gerçekleştiren, Orta Doğu'nun gelecek asırlardaki durumunda belirleyici olan, bugünkü Türkiye'nin Anadolu sınırlarını çizen ve Yılmaz Öztuna'nın "dünya tarihinin mimarlarından biri" olarak tanımladığı bir sultanın hayat hikayesi. "Yavuz, tarihte ancak bir - iki cihangire nasip olan muvaffakıyetle taht şehrine dönüyordu. Fakat, İstanbul'da halkın hissiyatını ve yapılacak merasimleri öğrenince son derece sıkılmıştır. Şahsına gösterilecek olan bu derece alayişten utandığı için, bir gün sonra merasimle şehre girmesi lazımken, birkaç saat önce, gece vakti, yanında birkaç kişi ile kayığa binmiş, gizlice Topkapı Sarayı'na çıkmıştır. Ertesi gün halk ve devlet adamları, Padişah'ın Saray'da olduğunu öğrenmişler ve hiçbir merasim yapılamamıştır."&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Yılmaz Öztuna&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">94024955-c2c3-45d3-9229-c309412725f3</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">p4xpAAAAMAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750098116</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/01.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="Images/02.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="Images/03.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="Images/04.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="Images/babialikultur.jpg" id="added" media-type="image/jpeg"/>
+    <item href="Images/0_cover.jpg" id="x0_cover.jpg" media-type="image/jpeg"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/yavuz_split_000.html" id="html25" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_001.html" id="html24" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_002.html" id="html23" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_003.html" id="html22" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_004.html" id="html21" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_005.html" id="html20" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_006.html" id="html19" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_007.html" id="html18" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_008.html" id="html17" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_009.html" id="html16" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_010.html" id="html15" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_011.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_012.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_013.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_014.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_015.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_016.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_017.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_018.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_019.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_020.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_021.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_022.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_023.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/yavuz_split_024.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="html25"/>
+    <itemref idref="html24"/>
+    <itemref idref="html23"/>
+    <itemref idref="html22"/>
+    <itemref idref="html21"/>
+    <itemref idref="html20"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

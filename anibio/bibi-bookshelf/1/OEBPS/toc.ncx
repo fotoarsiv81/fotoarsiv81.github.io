@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:da86f531-5090-4e75-920a-238aad4b5799" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Suç 2 Bir ceza avukatından gerçek hikâyeler</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Şeyler, oldukları gibidir.</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Panayır</text>
+      </navLabel>
+      <content src="Text/panayir.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Adalet</text>
+      </navLabel>
+      <content src="Text/adalet.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Aile</text>
+      </navLabel>
+      <content src="Text/aile.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Anahtar</text>
+      </navLabel>
+      <content src="Text/anahtar.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Anatomi</text>
+      </navLabel>
+      <content src="Text/anatomi.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Arzu</text>
+      </navLabel>
+      <content src="Text/arzu.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Çocuklar</text>
+      </navLabel>
+      <content src="Text/cocuklar.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Denge</text>
+      </navLabel>
+      <content src="Text/denge.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Diğer Adam</text>
+      </navLabel>
+      <content src="Text/digeradam.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>DNA M. R. için</text>
+      </navLabel>
+      <content src="Text/dna.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Evrak Çantası</text>
+      </navLabel>
+      <content src="Text/evrakcantasi.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>İlluminati</text>
+      </navLabel>
+      <content src="Text/illuminati.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Kar</text>
+      </navLabel>
+      <content src="Text/kar.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Yalnız</text>
+      </navLabel>
+      <content src="Text/yalniz.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Sırlar</text>
+      </navLabel>
+      <content src="Text/sirlar.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="Text/son.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

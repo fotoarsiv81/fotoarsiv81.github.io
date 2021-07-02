@@ -1,0 +1,70 @@
+body{
+}
+h1 {
+	font-size:1em;
+	font-weight:normal;
+	 margin:5em 0 0;
+	text-align:center;
+}
+h2 {
+  font-size:1.12em;
+  font-weight:normal;
+  font-style: italic;
+   margin:.6em 0 2em;
+  text-align:center;
+}
+p{
+	font-size:0.875em;
+	text-indent:1.25em;
+  margin: 0;
+  line-height: 1.3em
+}
+
+blockquote {
+ margin:1em 0 1em 1.25em;
+}
+
+.text p,.margin-top {
+  margin-top: 1em;
+}
+.double{
+  margin-top: 2em;
+}
+.top{
+  margin-top: 3em;
+}
+.pull-right{
+  padding-left: 2em;
+}
+.unindent,blockquote p {
+ text-indent: 0;
+}
+.normal{
+  font-style: normal;
+  font-weight: normal;
+}
+.dedication {
+  margin-top: 5em;
+  text-align: left;
+  float: right;
+  width: 75%;
+}
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+  margin:4em 0 1em;
+}
+.si-backref{
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+}
+.si-footnote{
+  font-size: .8em;
+  margin-bottom: .3em;
+}

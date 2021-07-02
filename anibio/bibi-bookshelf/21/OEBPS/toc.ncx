@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="9a259372-b9cc-4eb2-97b9-66b38dba06e8" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>İbn Fadlan Seyahatnamesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="0924b900-5c38-42b7-a934-37bc15488c37" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/ibnfadlan_split_002.html"/>
+    </navPoint>
+    <navPoint id="690ef765-448f-41ad-b42b-032f52a45724" playOrder="2">
+      <navLabel>
+        <text>İBN FADLAN SEYAHATNAMESİ</text>
+      </navLabel>
+      <content src="Text/ibnfadlan_split_004.html"/>
+      <navPoint id="6224451c-918e-44c8-b8c6-f0c2576204dd" playOrder="3">
+        <navLabel>
+          <text>[Mâverâünnehr ve Harezm]</text>
+        </navLabel>
+        <content src="Text/ibnfadlan_split_005.html"/>
+      </navPoint>
+      <navPoint id="9c3a203a-b482-4675-a700-3cc8e071e72b" playOrder="4">
+        <navLabel>
+          <text>[Türk Ülkelerine Giriş]</text>
+        </navLabel>
+        <content src="Text/ibnfadlan_split_006.html"/>
+      </navPoint>
+      <navPoint id="8cff0e21-3554-4305-adae-9adb05d97a15" playOrder="5">
+        <navLabel>
+          <text>[Oğuz, Peçenek, Başgırt Ülkeleri]</text>
+        </navLabel>
+        <content src="Text/ibnfadlan_split_007.html"/>
+      </navPoint>
+      <navPoint id="3deeebbf-3585-4a78-94a5-9ba9f5449acd" playOrder="6">
+        <navLabel>
+          <text>[BULGARLAR]</text>
+        </navLabel>
+        <content src="Text/ibnfadlan_split_008.html"/>
+      </navPoint>
+      <navPoint id="3830a44c-bd8a-4a5c-bf97-e1c5e23015e9" playOrder="7">
+        <navLabel>
+          <text>[Ruslar] [55]</text>
+        </navLabel>
+        <content src="Text/ibnfadlan_split_009.html"/>
+      </navPoint>
+      <navPoint id="7b62a9d0-1e90-4e96-af7b-99e1f123e83c" playOrder="8">
+        <navLabel>
+          <text>[HAZARLAR] [64]</text>
+        </navLabel>
+        <content src="Text/ibnfadlan_split_010.html"/>
+      </navPoint>
+      <navPoint id="769a3f07-5da3-46bb-b7f0-6012f89bd0d5" playOrder="9">
+        <navLabel>
+          <text>İbn el-Fakih, Kitabü Ahbar el-Buldan [*] (s. 333) … Türklere Dair Haberler</text>
+        </navLabel>
+        <content src="Text/ibnfadlan_split_011.html"/>
+      </navPoint>
+      <navPoint id="dc3e753c-4516-48b0-8c11-2afdcd034bf9" playOrder="10">
+        <navLabel>
+          <text>Bazı Türk Şehirleri, Onların Acâiblikleri</text>
+        </navLabel>
+        <content src="Text/ibnfadlan_split_012.html"/>
+      </navPoint>
+      <navPoint id="feed6111-47fb-499c-b7b0-070ef79bb6a4" playOrder="11">
+        <navLabel>
+          <text>Horasan, Doğu, Türk Ülkeleri ve Buralara Komşu Bölgelerin Hükümdarlarının Lakapları:</text>
+        </navLabel>
+        <content src="Text/ibnfadlan_split_013.html"/>
+      </navPoint>
+      <navPoint id="abcce6cb-2290-47fd-ab49-be88d72c6822" playOrder="12">
+        <navLabel>
+          <text>Ebû Dülef Mis’ar b. Mühelhil el-Benâzicî’nin Türk, Hind, Çin Ülkelerinde Gördüklerini Anlattığı Biri</text>
+        </navLabel>
+        <content src="Text/ibnfadlan_split_014.html"/>
+      </navPoint>
+      <navPoint id="b5d45d24-15b5-4f13-95eb-005e28ea8c99" playOrder="13">
+        <navLabel>
+          <text>Şeref el-Zaman el-Mervezî, Tabâyi el-Hayavan [*] (s. 2a) Dokuzuncu Hakkındadır</text>
+        </navLabel>
+        <content src="Text/ibnfadlan_split_015.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

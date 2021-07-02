@@ -1,0 +1,85 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Schirach, Ferdinand von">Ferdinand von Schirach</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:da86f531-5090-4e75-920a-238aad4b5799</dc:identifier>
+    <dc:date>2012-06-13T21:00:00+00:00</dc:date>
+    <dc:publisher>NTV</dc:publisher>
+    <meta content="0.8.6" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+  <dc:title>Bir Ceza Avukatından Gerçek Hikâyeler</dc:title>
+<meta name="calibre:title_sort" content="Ceza Avukatından Gerçek Hikâyeler, Bir"/>
+<meta name="calibre:series" content="Suç"/>
+<meta name="calibre:series_index" content="2.0"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Anı</dc:subject>
+<dc:description>&lt;p&gt;Bir ceza avukatından gerçek hikayeler
+
+Bir köpek bir anahtar yutuyor ve ardından kanlı bir mafya hesaplaşması geliyor... 
+Bir lise öğrencisi İlluminati adına neredeyse ölümüne işkence görüyor... 
+Bir kasaba bandosunda çalan dokuz mazbut adam bir genç kızın hayatını karartıyor ama hiçbir ceza almıyor...
+Bir adamın çantasından 18 cinayetin fotoğrafı çıkıyor, karakolu elini kolunu sallayarak terk ediyor...
+
+Ferdinand von Schirach'ın geçen yıl NTV Yayınları'ndan çıkan SUÇ adlı kitabı bütün dünyada ses getirdi. Şimdi de önümüzde yazarın yeni hikâyelerinden oluşan bir kitap var: SUÇ 2
+Ferdinand von Schirach, ceza davalarını etkileyici hikâyelere dönüştürüyor; kendine özgü sade diliyle çarpıcı bir yoğunluğa ulaşıyor. Yavaş ama kendinden emin, "iyi" ile "kötü"yü, "suç" ile "suçsuzluğu" ve her birimizin ahlaki sorumluluğunu sorguluyor. 
+
+Ferdinand von Schirach 1964 Münih doğumlu, 1994 yılından beri Berlin'de avukatlık yapıyor. Müvekkilleri arasında Politbüro üyesi ve Almanya Federal Haber Alma Servisi ajanı da var, büyük işadamları, ünlüler, sıradan insanlar, Türk göçmenler ve yeraltı dünyasının mensupları da...&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ferdinand von Schirach&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">19084c61-ad4e-454d-b5a3-58c08ce92b4a</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786055443405</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/SM.css" id="SM.css" media-type="text/css"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/panayir.xhtml" id="panayir.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/adalet.xhtml" id="adalet.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/aile.xhtml" id="aile.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/anahtar.xhtml" id="anahtar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/anatomi.xhtml" id="anatomi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/arzu.xhtml" id="arzu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cocuklar.xhtml" id="cocuklar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/denge.xhtml" id="denge.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/digeradam.xhtml" id="digeradam.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dna.xhtml" id="dna.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/evrakcantasi.xhtml" id="evrakcantasi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/illuminati.xhtml" id="illuminati.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kar.xhtml" id="kar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yalniz.xhtml" id="yalniz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sirlar.xhtml" id="sirlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/son.xhtml" id="son.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/Screenshot_2015-06-14-02-15-15-1.png" id="Screenshot_2015-06-14-02-15-15-1.png" media-type="image/png"/>
+    <item href="Text/DiPNOTLAR.xhtml" id="DiPNOTLAR.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="panayir.xhtml"/>
+    <itemref idref="adalet.xhtml"/>
+    <itemref idref="aile.xhtml"/>
+    <itemref idref="anahtar.xhtml"/>
+    <itemref idref="anatomi.xhtml"/>
+    <itemref idref="arzu.xhtml"/>
+    <itemref idref="cocuklar.xhtml"/>
+    <itemref idref="denge.xhtml"/>
+    <itemref idref="digeradam.xhtml"/>
+    <itemref idref="dna.xhtml"/>
+    <itemref idref="evrakcantasi.xhtml"/>
+    <itemref idref="illuminati.xhtml"/>
+    <itemref idref="kar.xhtml"/>
+    <itemref idref="yalniz.xhtml"/>
+    <itemref idref="sirlar.xhtml"/>
+    <itemref idref="son.xhtml"/>
+    <itemref idref="DiPNOTLAR.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

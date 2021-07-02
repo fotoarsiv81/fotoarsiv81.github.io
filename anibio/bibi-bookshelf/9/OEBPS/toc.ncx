@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text></text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM
+YAŞAMI, YAPITLARI ve FELSEFESİ</text>
+      </navLabel>
+      <content src="Text/4.html#toc_marker-1"/>
+      <navPoint id="navpoint2" playOrder="2">
+        <navLabel>
+          <text>A) Hayatı</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-1-1"/>
+      </navPoint>
+      <navPoint id="navpoint3" playOrder="3">
+        <navLabel>
+          <text>B) Yapıtları</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-1-2"/>
+      </navPoint>
+      <navPoint id="navpoint4" playOrder="4">
+        <navLabel>
+          <text>C) Yetiştiği Dönemin Fikri Durumu</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-1-3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM
+BERGSON’UN FELSEFESİ</text>
+      </navLabel>
+      <content src="Text/4.html#toc_marker-2"/>
+      <navPoint id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>A) Madde-Hayat ve Evrim</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navpoint7" playOrder="7">
+        <navLabel>
+          <text>B) Hayat Hamlesi</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navpoint8" playOrder="8">
+        <navLabel>
+          <text>C) Zekâ ve İçgüdü</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navpoint9" playOrder="9">
+        <navLabel>
+          <text>D) Dilbilim Eleştirisi ve Hayatı Anlamak45</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-2-4"/>
+      </navPoint>
+      <navPoint id="navpoint10" playOrder="10">
+        <navLabel>
+          <text>E) Zaman-Süre</text>
+        </navLabel>
+        <content src="Text/4.html#toc_marker-2-5"/>
+      </navPoint>
+      <navPoint id="navpoint11" playOrder="11">
+        <navLabel>
+          <text>F) Sezgi</text>
+        </navLabel>
+        <content src="Text/4_split1.html#toc_marker-2-6"/>
+      </navPoint>
+      <navPoint id="navpoint12" playOrder="12">
+        <navLabel>
+          <text>G) Din ve Ahlak</text>
+        </navLabel>
+        <content src="Text/4_split1.html#toc_marker-2-7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM
+SEÇİLMİŞ METİNLER</text>
+      </navLabel>
+      <content src="Text/4_split1.html#toc_marker-3"/>
+      <navPoint id="navpoint14" playOrder="14">
+        <navLabel>
+          <text>YARATICI TEKÂMÜL
+“Spencer’in Tekâmülcülüğünün Eleştirisi”</text>
+        </navLabel>
+        <content src="Text/4_split1.html#toc_marker-3-1"/>
+      </navPoint>
+      <navPoint id="navpoint15" playOrder="15">
+        <navLabel>
+          <text>YARATICI TEKÂMÜL
+“Tekâmülün Manası”</text>
+        </navLabel>
+        <content src="Text/4_split1.html#toc_marker-3-2"/>
+      </navPoint>
+      <navPoint id="navpoint16" playOrder="16">
+        <navLabel>
+          <text>ŞUURUN DOĞRUDAN DOĞRUYA VERİLERİ
+“Süre”</text>
+        </navLabel>
+        <content src="Text/4_split1.html#toc_marker-3-3"/>
+      </navPoint>
+      <navPoint id="navpoint17" playOrder="17">
+        <navLabel>
+          <text>YARATICI TEKÂMÜL
+“Süre”</text>
+        </navLabel>
+        <content src="Text/4_split1.html#toc_marker-3-4"/>
+      </navPoint>
+      <navPoint id="navpoint18" playOrder="18">
+        <navLabel>
+          <text>ŞUURUN DOĞRUDAN DOĞRUYA VERİLERİ
+“Hürriyet”</text>
+        </navLabel>
+        <content src="Text/4_split1.html#toc_marker-3-5"/>
+      </navPoint>
+      <navPoint id="navpoint19" playOrder="19">
+        <navLabel>
+          <text>AHLAKIN ve DİNİN İKİ KAYNAĞI
+“Ahlak”</text>
+        </navLabel>
+        <content src="Text/4_split1.html#toc_marker-3-6"/>
+      </navPoint>
+      <navPoint id="navpoint20" playOrder="20">
+        <navLabel>
+          <text>AHLAKIN ve DİNİN İKİ KAYNAĞI
+“Mistisizm”</text>
+        </navLabel>
+        <content src="Text/4_split1.html#toc_marker-3-7"/>
+      </navPoint>
+      <navPoint id="navpoint21" playOrder="21">
+        <navLabel>
+          <text>TÜRK DÜŞÜNCESİNDE BERGSON</text>
+        </navLabel>
+        <content src="Text/4_split1.html#toc_marker-3-8"/>
+      </navPoint>
+      <navPoint id="navpoint22" playOrder="22">
+        <navLabel>
+          <text>SO-NUÇ</text>
+        </navLabel>
+        <content src="Text/4_split1.html#toc_marker-3-9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint23" playOrder="23">
+      <navLabel>
+        <text>DİPNOTLAR</text>
+      </navLabel>
+      <content src="Text/5.html#toc_marker-4"/>
+    </navPoint>
+  </navMap>
+</ncx>

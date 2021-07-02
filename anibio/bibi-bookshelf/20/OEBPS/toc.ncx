@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="6" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>SARAY GÜNLÜĞÜM</text>
+			</navLabel>
+			<content src="Text/Saray_Gunlugum.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>BİYOGRAFİ</text>
+			</navLabel>
+			<content src="Text/Saray_Gunlugum-1.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>Copyright © Yitik Hazine Yayınları, 2010 </text>
+			</navLabel>
+			<content src="Text/Saray_Gunlugum-2.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>TAKDİM</text>
+			</navLabel>
+			<content src="Text/Saray_Gunlugum-3.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>ENDERUN</text>
+			</navLabel>
+			<content src="Text/Saray_Gunlugum-4.html#toc_marker-5"/>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>Cennetmekân Sultan Mahmud Han</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-4.html#toc_marker-5-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>A) ENDERUNLU OLANLAR</text>
+			</navLabel>
+			<content src="Text/Saray_Gunlugum-5.html#toc_marker-6"/>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>1. Enderun’un Odaları</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-1"/>
+				<navPoint id="navpoint9" playOrder="9">
+					<navLabel>
+						<text>a. Enderun’da Eğitim</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint10" playOrder="10">
+					<navLabel>
+						<text>b. Hafız İlyas’ın Lalaları</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-1-2"/>
+					<navPoint id="navpoint11" playOrder="11">
+						<navLabel>
+							<text>1) Telhisçi Mehmed Ağa</text>
+						</navLabel>
+						<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-1-2-1"/>
+					</navPoint>
+					<navPoint id="navpoint12" playOrder="12">
+						<navLabel>
+							<text>2) Sadullah Ağa</text>
+						</navLabel>
+						<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-1-2-2"/>
+					</navPoint>
+					<navPoint id="navpoint13" playOrder="13">
+						<navLabel>
+							<text>3) Hoca Raşid Efendi</text>
+						</navLabel>
+						<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-1-2-3"/>
+					</navPoint>
+					<navPoint id="navpoint14" playOrder="14">
+						<navLabel>
+							<text>4) Ağa Mehmed</text>
+						</navLabel>
+						<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-1-2-4"/>
+					</navPoint>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint15" playOrder="15">
+				<navLabel>
+					<text>2. Enderun’da İdari Görevler</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-2"/>
+				<navPoint id="navpoint16" playOrder="16">
+					<navLabel>
+						<text>a. Silahtar Ağa</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint17" playOrder="17">
+					<navLabel>
+						<text>b. Bostancıbaşı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-2-2"/>
+				</navPoint>
+				<navPoint id="navpoint18" playOrder="18">
+					<navLabel>
+						<text>c. Haseki Ocağı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-2-3"/>
+				</navPoint>
+				<navPoint id="navpoint19" playOrder="19">
+					<navLabel>
+						<text>d. Babüssaade Ağası</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-2-4"/>
+				</navPoint>
+				<navPoint id="navpoint20" playOrder="20">
+					<navLabel>
+						<text>e. Kapıcılar Ağası</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-2-5"/>
+				</navPoint>
+				<navPoint id="navpoint21" playOrder="21">
+					<navLabel>
+						<text>f. Darüssaade Ağası</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-2-6"/>
+				</navPoint>
+				<navPoint id="navpoint22" playOrder="22">
+					<navLabel>
+						<text>g. Çuhadar Ağa</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-2-7"/>
+				</navPoint>
+				<navPoint id="navpoint23" playOrder="23">
+					<navLabel>
+						<text>h. Hazine Ağası</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-2-8"/>
+				</navPoint>
+				<navPoint id="navpoint24" playOrder="24">
+					<navLabel>
+						<text>i. Rikabdar Ağa</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-2-9"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint25" playOrder="25">
+				<navLabel>
+					<text>3. Enderun’un Eğitim Oyunları</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-3"/>
+				<navPoint id="navpoint26" playOrder="26">
+					<navLabel>
+						<text>a. Kar Oyunu</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint27" playOrder="27">
+					<navLabel>
+						<text>b. Tomak</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-3-2"/>
+				</navPoint>
+				<navPoint id="navpoint28" playOrder="28">
+					<navLabel>
+						<text>c. Güreş</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-3-3"/>
+				</navPoint>
+				<navPoint id="navpoint29" playOrder="29">
+					<navLabel>
+						<text>d. Mızrak</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-3-4"/>
+				</navPoint>
+				<navPoint id="navpoint30" playOrder="30">
+					<navLabel>
+						<text>e. Top Oyunu</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-3-5"/>
+				</navPoint>
+				<navPoint id="navpoint31" playOrder="31">
+					<navLabel>
+						<text>f. Lobut</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-3-6"/>
+				</navPoint>
+				<navPoint id="navpoint32" playOrder="32">
+					<navLabel>
+						<text>g. Ok</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-3-7"/>
+				</navPoint>
+				<navPoint id="navpoint33" playOrder="33">
+					<navLabel>
+						<text>h. Cirid</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-3-8"/>
+				</navPoint>
+				<navPoint id="navpoint34" playOrder="34">
+					<navLabel>
+						<text>i. Deniz Avı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-3-9"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint35" playOrder="35">
+				<navLabel>
+					<text>4. Mesire Yerleri (Biniş-i hümâyun)</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-4"/>
+				<navPoint id="navpoint36" playOrder="36">
+					<navLabel>
+						<text>a. Hünkâr İskelesi</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint37" playOrder="37">
+					<navLabel>
+						<text>b. İzzet Mehmed Paşa Kasrı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-4-2"/>
+				</navPoint>
+				<navPoint id="navpoint38" playOrder="38">
+					<navLabel>
+						<text>c. Alibeyköy</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-4-3"/>
+				</navPoint>
+				<navPoint id="navpoint39" playOrder="39">
+					<navLabel>
+						<text>d. Bahariye Kasrı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-4-4"/>
+				</navPoint>
+				<navPoint id="navpoint40" playOrder="40">
+					<navLabel>
+						<text>e. Çubuklu</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-4-5"/>
+				</navPoint>
+				<navPoint id="navpoint41" playOrder="41">
+					<navLabel>
+						<text>f. Göksu Kasrı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-4-6"/>
+				</navPoint>
+				<navPoint id="navpoint42" playOrder="42">
+					<navLabel>
+						<text>g. Sultaniye Şenliği</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-4-7"/>
+				</navPoint>
+				<navPoint id="navpoint43" playOrder="43">
+					<navLabel>
+						<text>h. Silahtar Çiftliği</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-4-8"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint44" playOrder="44">
+				<navLabel>
+					<text>5. Saray Merasimleri</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-5"/>
+				<navPoint id="navpoint45" playOrder="45">
+					<navLabel>
+						<text>a. Göç Merasimi</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-5-1"/>
+				</navPoint>
+				<navPoint id="navpoint46" playOrder="46">
+					<navLabel>
+						<text>b. Rikab Merasimleri</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-5-2"/>
+				</navPoint>
+				<navPoint id="navpoint47" playOrder="47">
+					<navLabel>
+						<text>c. Surre Alayı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-5-3"/>
+				</navPoint>
+				<navPoint id="navpoint48" playOrder="48">
+					<navLabel>
+						<text>d. Yeni Yılın Kutlu Olsun</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-5-4"/>
+				</navPoint>
+				<navPoint id="navpoint49" playOrder="49">
+					<navLabel>
+						<text>e. Aşure</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-5-5"/>
+				</navPoint>
+				<navPoint id="navpoint50" playOrder="50">
+					<navLabel>
+						<text>f. Cuma selamlığı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-5-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint51" playOrder="51">
+				<navLabel>
+					<text>6. Saray’da Ramazan</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-6"/>
+				<navPoint id="navpoint52" playOrder="52">
+					<navLabel>
+						<text>a. Ramazan Hilalini Gördün mü?</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-6-1"/>
+				</navPoint>
+				<navPoint id="navpoint53" playOrder="53">
+					<navLabel>
+						<text>b. Huzur Dersleri</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-6-2"/>
+				</navPoint>
+				<navPoint id="navpoint54" playOrder="54">
+					<navLabel>
+						<text>c. Teravih Namazı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-6-3"/>
+				</navPoint>
+				<navPoint id="navpoint55" playOrder="55">
+					<navLabel>
+						<text>d. Sultanın İlahi Sevgisi</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-6-4"/>
+				</navPoint>
+				<navPoint id="navpoint56" playOrder="56">
+					<navLabel>
+						<text>e. Ramazan Bayramı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-6-5"/>
+				</navPoint>
+				<navPoint id="navpoint57" playOrder="57">
+					<navLabel>
+						<text>f. Hırka-i Saadet Ziyareti</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-6-6"/>
+				</navPoint>
+				<navPoint id="navpoint58" playOrder="58">
+					<navLabel>
+						<text>h. Müezzinbaşı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-6-7"/>
+				</navPoint>
+				<navPoint id="navpoint59" playOrder="59">
+					<navLabel>
+						<text>h. Hünkâr İmamı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-6-8"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint60" playOrder="60">
+				<navLabel>
+					<text>7. Kandil Geceleri</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-7"/>
+				<navPoint id="navpoint61" playOrder="61">
+					<navLabel>
+						<text>a. Miraç Kandili’nde Mevlevî Ayini</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-7-1"/>
+				</navPoint>
+				<navPoint id="navpoint62" playOrder="62">
+					<navLabel>
+						<text>b. Kadir Gecesi</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-7-2"/>
+				</navPoint>
+				<navPoint id="navpoint63" playOrder="63">
+					<navLabel>
+						<text>c. Mevlid</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-7-3"/>
+				</navPoint>
+				<navPoint id="navpoint64" playOrder="64">
+					<navLabel>
+						<text>d. Hüdayî Tekkesi’nde Mevlid</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-7-4"/>
+				</navPoint>
+				<navPoint id="navpoint65" playOrder="65">
+					<navLabel>
+						<text>e. Kurban Bayramı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-7-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint66" playOrder="66">
+				<navLabel>
+					<text>8. Saray Eğlenceleri</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-8"/>
+				<navPoint id="navpoint67" playOrder="67">
+					<navLabel>
+						<text>a. Saray ve Musiki</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-8-1"/>
+				</navPoint>
+				<navPoint id="navpoint68" playOrder="68">
+					<navLabel>
+						<text>b. Dede Efendi Kürk Giyindi</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-8-2"/>
+				</navPoint>
+				<navPoint id="navpoint69" playOrder="69">
+					<navLabel>
+						<text>c. Sultanın Musahibleri</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-8-3"/>
+				</navPoint>
+				<navPoint id="navpoint70" playOrder="70">
+					<navLabel>
+						<text>d. Hayalî Said Efendi</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-8-4"/>
+				</navPoint>
+				<navPoint id="navpoint71" playOrder="71">
+					<navLabel>
+						<text>e. Cin Ahmed ve Kambur</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-8-5"/>
+				</navPoint>
+				<navPoint id="navpoint72" playOrder="72">
+					<navLabel>
+						<text>f. İki Maskara</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-8-6"/>
+				</navPoint>
+				<navPoint id="navpoint73" playOrder="73">
+					<navLabel>
+						<text>g. Kol Oyunu ve Hayalî Hamid Ağa</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-8-7"/>
+				</navPoint>
+				<navPoint id="navpoint74" playOrder="74">
+					<navLabel>
+						<text>h. Sardunyalı Cambazlar</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-8-8"/>
+				</navPoint>
+				<navPoint id="navpoint75" playOrder="75">
+					<navLabel>
+						<text>i. Fil Gördün mü?</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-8-9"/>
+				</navPoint>
+				<navPoint id="navpoint76" playOrder="76">
+					<navLabel>
+						<text>j. Mısır’dan Zürafa Geldi</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-8-10"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint77" playOrder="77">
+				<navLabel>
+					<text>10. II. Mahmud’un Şehzadeleri</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-9"/>
+				<navPoint id="navpoint78" playOrder="78">
+					<navLabel>
+						<text>a. Şehzade Abdülhamid Efendi</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-9-1"/>
+				</navPoint>
+				<navPoint id="navpoint79" playOrder="79">
+					<navLabel>
+						<text>b. Şehzade Süleyman</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-9-2"/>
+				</navPoint>
+				<navPoint id="navpoint80" playOrder="80">
+					<navLabel>
+						<text>c. Şehzade Mehmed</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-9-3"/>
+				</navPoint>
+				<navPoint id="navpoint81" playOrder="81">
+					<navLabel>
+						<text>d. Şehzade Abdülmecid</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-9-4"/>
+				</navPoint>
+				<navPoint id="navpoint82" playOrder="82">
+					<navLabel>
+						<text>e. Şehzade Abdülaziz</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-9-5"/>
+				</navPoint>
+				<navPoint id="navpoint83" playOrder="83">
+					<navLabel>
+						<text>f. Şehzadelerin ölümü</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-9-6"/>
+				</navPoint>
+				<navPoint id="navpoint84" playOrder="84">
+					<navLabel>
+						<text>g. Hanım Sultan Yandı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-9-7"/>
+				</navPoint>
+				<navPoint id="navpoint85" playOrder="85">
+					<navLabel>
+						<text>h. Şehzade Sünneti ve Tıraşı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-9-8"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint86" playOrder="86">
+				<navLabel>
+					<text>11. Sarayda Tababet</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-10"/>
+				<navPoint id="navpoint87" playOrder="87">
+					<navLabel>
+						<text>a. Salgın Hastalıklar</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-10-1"/>
+				</navPoint>
+				<navPoint id="navpoint88" playOrder="88">
+					<navLabel>
+						<text>b. Çiçek Hastalığı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-10-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint89" playOrder="89">
+				<navLabel>
+					<text>12. Sultan Mahmud’un Şairleri</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-11"/>
+				<navPoint id="navpoint90" playOrder="90">
+					<navLabel>
+						<text>a. Enderunlu Vasıf</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-11-1"/>
+				</navPoint>
+				<navPoint id="navpoint91" playOrder="91">
+					<navLabel>
+						<text>b. Şair Ekmel Bey</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-11-2"/>
+				</navPoint>
+				<navPoint id="navpoint92" playOrder="92">
+					<navLabel>
+						<text>c. Hattat Hoca İzzet</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-11-3"/>
+				</navPoint>
+				<navPoint id="navpoint93" playOrder="93">
+					<navLabel>
+						<text>d. Şair İzzet Molla</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-11-4"/>
+				</navPoint>
+				<navPoint id="navpoint94" playOrder="94">
+					<navLabel>
+						<text>e. Hafız Efendi</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-11-5"/>
+				</navPoint>
+				<navPoint id="navpoint95" playOrder="95">
+					<navLabel>
+						<text>f. Dellalzade İsmail Ağa</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-11-6"/>
+				</navPoint>
+				<navPoint id="navpoint96" playOrder="96">
+					<navLabel>
+						<text>g. Şemsi Ağa</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-5.html#toc_marker-6-11-7"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint97" playOrder="97">
+			<navLabel>
+				<text>B) KONUP GÖÇENLER</text>
+			</navLabel>
+			<content src="Text/Saray_Gunlugum-6.html#toc_marker-7"/>
+			<navPoint id="navpoint98" playOrder="98">
+				<navLabel>
+					<text>1. Sadrazamlar</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-1"/>
+				<navPoint id="navpoint99" playOrder="99">
+					<navLabel>
+						<text>a. Benderli Ali Paşa</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint100" playOrder="100">
+					<navLabel>
+						<text>b. Abdullah Paşa</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-1-2"/>
+				</navPoint>
+				<navPoint id="navpoint101" playOrder="101">
+					<navLabel>
+						<text>c. Sadrazam Galip Paşa</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-1-3"/>
+				</navPoint>
+				<navPoint id="navpoint102" playOrder="102">
+					<navLabel>
+						<text>d. Selim Mehmed Paşa</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-1-4"/>
+				</navPoint>
+				<navPoint id="navpoint103" playOrder="103">
+					<navLabel>
+						<text>e. Balıkhane Kapısı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-1-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint104" playOrder="104">
+				<navLabel>
+					<text>2. Şeyhülislamlar</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-2"/>
+				<navPoint id="navpoint105" playOrder="105">
+					<navLabel>
+						<text>a. Şeyhülislam Arapzade</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint106" playOrder="106">
+					<navLabel>
+						<text>b. Samanizade ve Dürrizade</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-2-2"/>
+				</navPoint>
+				<navPoint id="navpoint107" playOrder="107">
+					<navLabel>
+						<text>c. Zihni Mela</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-2-3"/>
+				</navPoint>
+				<navPoint id="navpoint108" playOrder="108">
+					<navLabel>
+						<text>d. Çerkes Halil Efendi</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-2-4"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint109" playOrder="109">
+				<navLabel>
+					<text>3. İsyanlar</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-3"/>
+				<navPoint id="navpoint110" playOrder="110">
+					<navLabel>
+						<text>a. Vahhabi İsyanı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint111" playOrder="111">
+					<navLabel>
+						<text>b. Tersanenin Serkeşleri</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-3-2"/>
+				</navPoint>
+				<navPoint id="navpoint112" playOrder="112">
+					<navLabel>
+						<text>c. Tepedelenli Ali Paşa’nın İsyanı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-3-3"/>
+				</navPoint>
+				<navPoint id="navpoint113" playOrder="113">
+					<navLabel>
+						<text>d. Rum İsyanı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-3-4"/>
+				</navPoint>
+				<navPoint id="navpoint114" playOrder="114">
+					<navLabel>
+						<text>e. Yeniçeriler</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-3-5"/>
+					<navPoint id="navpoint115" playOrder="115">
+						<navLabel>
+							<text>1) Yeniçeri Taifesinin İmhası</text>
+						</navLabel>
+						<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-3-5-1"/>
+					</navPoint>
+					<navPoint id="navpoint116" playOrder="116">
+						<navLabel>
+							<text>2) Cebecibaşı Mustafa’nın İdamı</text>
+						</navLabel>
+						<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-3-5-2"/>
+					</navPoint>
+					<navPoint id="navpoint117" playOrder="117">
+						<navLabel>
+							<text>3) Mirahor Ali Bey’in Rumeli Bektaşi Tekkelerine Gönderilmesi</text>
+						</navLabel>
+						<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-3-5-3"/>
+					</navPoint>
+					<navPoint id="navpoint118" playOrder="118">
+						<navLabel>
+							<text>4) Sancak-ı Şerif’in Makamına İadesi</text>
+						</navLabel>
+						<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-3-5-4"/>
+					</navPoint>
+					<navPoint id="navpoint119" playOrder="119">
+						<navLabel>
+							<text>5) Kasap Bekir ve Habip Odabaşının Katli</text>
+						</navLabel>
+						<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-3-5-5"/>
+					</navPoint>
+					<navPoint id="navpoint120" playOrder="120">
+						<navLabel>
+							<text>6) Saray Aşçıları Değiştirildi</text>
+						</navLabel>
+						<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-3-5-6"/>
+					</navPoint>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint121" playOrder="121">
+				<navLabel>
+					<text>4. Ordunun Islahı</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-4"/>
+				<navPoint id="navpoint122" playOrder="122">
+					<navLabel>
+						<text>a. Binbaşı Emin Ağa</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint123" playOrder="123">
+					<navLabel>
+						<text>b. Süvari Talimi</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-4-2"/>
+				</navPoint>
+				<navPoint id="navpoint124" playOrder="124">
+					<navLabel>
+						<text>c. Davutpaşa’da Tatbikat</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-4-3"/>
+				</navPoint>
+				<navPoint id="navpoint125" playOrder="125">
+					<navLabel>
+						<text>d. Ağaların Süvari Talimine Son</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-4-4"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint126" playOrder="126">
+				<navLabel>
+					<text>5. Rusya Savaşı</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-5"/>
+				<navPoint id="navpoint127" playOrder="127">
+					<navLabel>
+						<text>a. Kelime-i Tevhid ve Sancak</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-5-1"/>
+				</navPoint>
+				<navPoint id="navpoint128" playOrder="128">
+					<navLabel>
+						<text>b. Muhaliflere Ceza</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-5-2"/>
+				</navPoint>
+				<navPoint id="navpoint129" playOrder="129">
+					<navLabel>
+						<text>c. Rusların Edirne’yi İşgali</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-5-3"/>
+				</navPoint>
+				<navPoint id="navpoint130" playOrder="130">
+					<navLabel>
+						<text>d. İki Şeriata Uymak</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-5-4"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint131" playOrder="131">
+				<navLabel>
+					<text>6. Değişen Şeyler</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-6"/>
+				<navPoint id="navpoint132" playOrder="132">
+					<navLabel>
+						<text>a. Elbise Devrimi</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-6-1"/>
+				</navPoint>
+				<navPoint id="navpoint133" playOrder="133">
+					<navLabel>
+						<text>b. Mehterhane</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-6-2"/>
+				</navPoint>
+				<navPoint id="navpoint134" playOrder="134">
+					<navLabel>
+						<text>c. Saltanat Alayı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-6-3"/>
+				</navPoint>
+				<navPoint id="navpoint135" playOrder="135">
+					<navLabel>
+						<text>d. Hafız İlyas’ın Enderun’dan Ayrılışı</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-6-4"/>
+				</navPoint>
+				<navPoint id="navpoint136" playOrder="136">
+					<navLabel>
+						<text>e. Enderun’un Sonu</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-6-5"/>
+				</navPoint>
+				<navPoint id="navpoint137" playOrder="137">
+					<navLabel>
+						<text>f. Yeni Meclisler Geldi</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-6-6"/>
+				</navPoint>
+				<navPoint id="navpoint138" playOrder="138">
+					<navLabel>
+						<text>g. Topkapı Sarayı Gözden Düştü</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-6.html#toc_marker-7-6-7"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint139" playOrder="139">
+			<navLabel>
+				<text>BİTİRİRKEN</text>
+			</navLabel>
+			<content src="Text/Saray_Gunlugum-7.html#toc_marker-8"/>
+			<navPoint id="navpoint140" playOrder="140">
+				<navLabel>
+					<text>II. Mahmud Devri Islahatları</text>
+				</navLabel>
+				<content src="Text/Saray_Gunlugum-7.html#toc_marker-8-1"/>
+				<navPoint id="navpoint141" playOrder="141">
+					<navLabel>
+						<text>Modern Ordu</text>
+					</navLabel>
+					<content src="Text/Saray_Gunlugum-7.html#toc_marker-8-1-1"/>
+					<navPoint id="navpoint142" playOrder="142">
+						<navLabel>
+							<text>Asıl İhtiyaç Eğitimdi</text>
+						</navLabel>
+						<content src="Text/Saray_Gunlugum-7.html#toc_marker-8-1-1-1"/>
+					</navPoint>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint143" playOrder="143">
+			<navLabel>
+				<text>KAYNAKÇA</text>
+			</navLabel>
+			<content src="Text/Saray_Gunlugum-8.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint144" playOrder="144">
+			<navLabel>
+				<text>ALBÜM</text>
+			</navLabel>
+			<content src="Text/Saray_Gunlugum-9.html#toc_marker-10"/>
+		</navPoint>
+	</navMap>
+</ncx>

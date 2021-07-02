@@ -1,0 +1,1488 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Fikir Mimarları 19 Schopenhauer</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Aydoğan, Ahmet">Ahmet Aydoğan</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">9e736c5c-f2ed-4bff-b8c5-54083ca95dd2</dc:identifier>
+    <dc:publisher>Say Yayınları</dc:publisher>
+    <dc:date>2009-03-11T22:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;Batı felsefe tarihinde "irade" temel bir sorunsal olarak neden yüz yıl önce veya yüz yıl sonra değil de tam da o dönemde dile geldi? Onu o gün dile gelmeye zorlayan şey bugün ortadan kalkmış mıdır? Eğer kalkmadıysa ve bu, o gün olduğu gibi bugün de evrensel bir şeye dokunuyorsa, dahası yitirdiğimiz şeylerle tekrar ilişki kurmamızın yolunu açıyor ve artık bütünüyle yabancısı olduğumuz bir dünyanın kapılarının aralanmasına hizmet ediyorsa bu defter dürme işinde yine acele ediyoruz demektir. Elinizdeki kitap bugünün dünyasına da söyleyecek çok şeyi olan bu düşünceyi bütün yönleriyle ele alıp incelemeye ve onun bugünün insanının temel meselesiyle bağını kurmaya çalışarak bu aceleciliğin yersizliğini gözler önüne seriyor.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (3.12.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2017-07-31</dc:date>
+    <dc:subject>Felsefe</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2971e48d-d5d5-4c9f-9b81-db8bc05cbedf</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789754688481</dc:identifier>
+    <meta content="Fikir Mimarları 19 Schopenhauer" name="calibre:title_sort"/>
+    <meta content="2017-11-26T22:25:31.322000+00:00" name="calibre:timestamp"/>
+    <meta content="{&quot;Ahmet Aydoğan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.9.8" name="Sigil version"/>
+    <meta content="Fikir Mimarları" name="calibre:series"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta name="calibre:series_index" content="19.0"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="../jacket.xhtml" id="jacket" media-type="application/xhtml+xml"/>
+    <item id="id1729" href="Text/Schopenhauer_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id1728" href="Text/Schopenhauer_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id1727" href="Text/Schopenhauer_split_002.html" media-type="application/xhtml+xml"/>
+    <item id="id1725" href="Text/Schopenhauer_split_004.html" media-type="application/xhtml+xml"/>
+    <item id="id1724" href="Text/Schopenhauer_split_005.html" media-type="application/xhtml+xml"/>
+    <item id="id1722" href="Text/Schopenhauer_split_007.html" media-type="application/xhtml+xml"/>
+    <item id="id1721" href="Text/Schopenhauer_split_008.html" media-type="application/xhtml+xml"/>
+    <item id="id1720" href="Text/Schopenhauer_split_009.html" media-type="application/xhtml+xml"/>
+    <item id="id1719" href="Text/Schopenhauer_split_010.html" media-type="application/xhtml+xml"/>
+    <item id="id1718" href="Text/Schopenhauer_split_011.html" media-type="application/xhtml+xml"/>
+    <item id="id1717" href="Text/Schopenhauer_split_012.html" media-type="application/xhtml+xml"/>
+    <item id="id1716" href="Text/Schopenhauer_split_013.html" media-type="application/xhtml+xml"/>
+    <item id="id1714" href="Text/Schopenhauer_split_015.html" media-type="application/xhtml+xml"/>
+    <item id="id1713" href="Text/Schopenhauer_split_016.html" media-type="application/xhtml+xml"/>
+    <item id="id1712" href="Text/Schopenhauer_split_017.html" media-type="application/xhtml+xml"/>
+    <item id="id1711" href="Text/Schopenhauer_split_018.html" media-type="application/xhtml+xml"/>
+    <item id="id1710" href="Text/Schopenhauer_split_019.html" media-type="application/xhtml+xml"/>
+    <item id="id1709" href="Text/Schopenhauer_split_020.html" media-type="application/xhtml+xml"/>
+    <item id="id1708" href="Text/Schopenhauer_split_021.html" media-type="application/xhtml+xml"/>
+    <item id="id1707" href="Text/Schopenhauer_split_022.html" media-type="application/xhtml+xml"/>
+    <item id="id1706" href="Text/Schopenhauer_split_023.html" media-type="application/xhtml+xml"/>
+    <item id="id1705" href="Text/Schopenhauer_split_024.html" media-type="application/xhtml+xml"/>
+    <item id="id1704" href="Text/Schopenhauer_split_025.html" media-type="application/xhtml+xml"/>
+    <item id="id1703" href="Text/Schopenhauer_split_026.html" media-type="application/xhtml+xml"/>
+    <item id="id1702" href="Text/Schopenhauer_split_027.html" media-type="application/xhtml+xml"/>
+    <item id="id1701" href="Text/Schopenhauer_split_028.html" media-type="application/xhtml+xml"/>
+    <item id="id1700" href="Text/Schopenhauer_split_029.html" media-type="application/xhtml+xml"/>
+    <item id="id1699" href="Text/Schopenhauer_split_030.html" media-type="application/xhtml+xml"/>
+    <item id="id1697" href="Text/Schopenhauer_split_032.html" media-type="application/xhtml+xml"/>
+    <item id="id1696" href="Text/Schopenhauer_split_033.html" media-type="application/xhtml+xml"/>
+    <item id="id1695" href="Text/Schopenhauer_split_034.html" media-type="application/xhtml+xml"/>
+    <item id="id1694" href="Text/Schopenhauer_split_035.html" media-type="application/xhtml+xml"/>
+    <item id="id1692" href="Text/Schopenhauer_split_037.html" media-type="application/xhtml+xml"/>
+    <item id="id1691" href="Text/Schopenhauer_split_038.html" media-type="application/xhtml+xml"/>
+    <item id="id1689" href="Text/Schopenhauer_split_040.html" media-type="application/xhtml+xml"/>
+    <item id="id1688" href="Text/Schopenhauer_split_041.html" media-type="application/xhtml+xml"/>
+    <item id="id1687" href="Text/Schopenhauer_split_042.html" media-type="application/xhtml+xml"/>
+    <item id="id1686" href="Text/Schopenhauer_split_043.html" media-type="application/xhtml+xml"/>
+    <item id="id1685" href="Text/Schopenhauer_split_044.html" media-type="application/xhtml+xml"/>
+    <item id="id1684" href="Text/Schopenhauer_split_045.html" media-type="application/xhtml+xml"/>
+    <item id="id1683" href="Text/Schopenhauer_split_046.html" media-type="application/xhtml+xml"/>
+    <item id="id1682" href="Text/Schopenhauer_split_047.html" media-type="application/xhtml+xml"/>
+    <item id="id1681" href="Text/Schopenhauer_split_048.html" media-type="application/xhtml+xml"/>
+    <item id="id1680" href="Text/Schopenhauer_split_049.html" media-type="application/xhtml+xml"/>
+    <item id="id1679" href="Text/Schopenhauer_split_050.html" media-type="application/xhtml+xml"/>
+    <item id="id1678" href="Text/Schopenhauer_split_051.html" media-type="application/xhtml+xml"/>
+    <item id="id1677" href="Text/Schopenhauer_split_052.html" media-type="application/xhtml+xml"/>
+    <item id="id1676" href="Text/Schopenhauer_split_053.html" media-type="application/xhtml+xml"/>
+    <item id="id1675" href="Text/Schopenhauer_split_054.html" media-type="application/xhtml+xml"/>
+    <item id="id1674" href="Text/Schopenhauer_split_055.html" media-type="application/xhtml+xml"/>
+    <item id="id1673" href="Text/Schopenhauer_split_056.html" media-type="application/xhtml+xml"/>
+    <item id="id1672" href="Text/Schopenhauer_split_057.html" media-type="application/xhtml+xml"/>
+    <item id="id1671" href="Text/Schopenhauer_split_058.html" media-type="application/xhtml+xml"/>
+    <item id="id1670" href="Text/Schopenhauer_split_059.html" media-type="application/xhtml+xml"/>
+    <item id="id1669" href="Text/Schopenhauer_split_060.html" media-type="application/xhtml+xml"/>
+    <item id="id1668" href="Text/Schopenhauer_split_061.html" media-type="application/xhtml+xml"/>
+    <item id="id1667" href="Text/Schopenhauer_split_062.html" media-type="application/xhtml+xml"/>
+    <item id="id1666" href="Text/Schopenhauer_split_063.html" media-type="application/xhtml+xml"/>
+    <item id="id1665" href="Text/Schopenhauer_split_064.html" media-type="application/xhtml+xml"/>
+    <item id="id1664" href="Text/Schopenhauer_split_065.html" media-type="application/xhtml+xml"/>
+    <item id="id1663" href="Text/Schopenhauer_split_066.html" media-type="application/xhtml+xml"/>
+    <item id="id1662" href="Text/Schopenhauer_split_067.html" media-type="application/xhtml+xml"/>
+    <item id="id1661" href="Text/Schopenhauer_split_068.html" media-type="application/xhtml+xml"/>
+    <item id="id1660" href="Text/Schopenhauer_split_069.html" media-type="application/xhtml+xml"/>
+    <item id="id1659" href="Text/Schopenhauer_split_070.html" media-type="application/xhtml+xml"/>
+    <item id="id1658" href="Text/Schopenhauer_split_071.html" media-type="application/xhtml+xml"/>
+    <item id="id1657" href="Text/Schopenhauer_split_072.html" media-type="application/xhtml+xml"/>
+    <item id="id1656" href="Text/Schopenhauer_split_073.html" media-type="application/xhtml+xml"/>
+    <item id="id1655" href="Text/Schopenhauer_split_074.html" media-type="application/xhtml+xml"/>
+    <item id="id1654" href="Text/Schopenhauer_split_075.html" media-type="application/xhtml+xml"/>
+    <item id="id1653" href="Text/Schopenhauer_split_076.html" media-type="application/xhtml+xml"/>
+    <item id="id1652" href="Text/Schopenhauer_split_077.html" media-type="application/xhtml+xml"/>
+    <item id="id1651" href="Text/Schopenhauer_split_078.html" media-type="application/xhtml+xml"/>
+    <item id="id1650" href="Text/Schopenhauer_split_079.html" media-type="application/xhtml+xml"/>
+    <item id="id1649" href="Text/Schopenhauer_split_080.html" media-type="application/xhtml+xml"/>
+    <item id="id1648" href="Text/Schopenhauer_split_081.html" media-type="application/xhtml+xml"/>
+    <item id="id1647" href="Text/Schopenhauer_split_082.html" media-type="application/xhtml+xml"/>
+    <item id="id1646" href="Text/Schopenhauer_split_083.html" media-type="application/xhtml+xml"/>
+    <item id="id1645" href="Text/Schopenhauer_split_084.html" media-type="application/xhtml+xml"/>
+    <item id="id1644" href="Text/Schopenhauer_split_085.html" media-type="application/xhtml+xml"/>
+    <item id="id1643" href="Text/Schopenhauer_split_086.html" media-type="application/xhtml+xml"/>
+    <item id="id1642" href="Text/Schopenhauer_split_087.html" media-type="application/xhtml+xml"/>
+    <item id="id1641" href="Text/Schopenhauer_split_088.html" media-type="application/xhtml+xml"/>
+    <item id="id1640" href="Text/Schopenhauer_split_089.html" media-type="application/xhtml+xml"/>
+    <item id="id1639" href="Text/Schopenhauer_split_090.html" media-type="application/xhtml+xml"/>
+    <item id="id1638" href="Text/Schopenhauer_split_091.html" media-type="application/xhtml+xml"/>
+    <item id="id1637" href="Text/Schopenhauer_split_092.html" media-type="application/xhtml+xml"/>
+    <item id="id1636" href="Text/Schopenhauer_split_093.html" media-type="application/xhtml+xml"/>
+    <item id="id1635" href="Text/Schopenhauer_split_094.html" media-type="application/xhtml+xml"/>
+    <item id="id1634" href="Text/Schopenhauer_split_095.html" media-type="application/xhtml+xml"/>
+    <item id="id1633" href="Text/Schopenhauer_split_096.html" media-type="application/xhtml+xml"/>
+    <item id="id1632" href="Text/Schopenhauer_split_097.html" media-type="application/xhtml+xml"/>
+    <item id="id1631" href="Text/Schopenhauer_split_098.html" media-type="application/xhtml+xml"/>
+    <item id="id1630" href="Text/Schopenhauer_split_099.html" media-type="application/xhtml+xml"/>
+    <item id="id1629" href="Text/Schopenhauer_split_100.html" media-type="application/xhtml+xml"/>
+    <item id="id1628" href="Text/Schopenhauer_split_101.html" media-type="application/xhtml+xml"/>
+    <item id="id1627" href="Text/Schopenhauer_split_102.html" media-type="application/xhtml+xml"/>
+    <item id="id1626" href="Text/Schopenhauer_split_103.html" media-type="application/xhtml+xml"/>
+    <item id="id1625" href="Text/Schopenhauer_split_104.html" media-type="application/xhtml+xml"/>
+    <item id="id1624" href="Text/Schopenhauer_split_105.html" media-type="application/xhtml+xml"/>
+    <item id="id1623" href="Text/Schopenhauer_split_106.html" media-type="application/xhtml+xml"/>
+    <item id="id1622" href="Text/Schopenhauer_split_107.html" media-type="application/xhtml+xml"/>
+    <item id="id1621" href="Text/Schopenhauer_split_108.html" media-type="application/xhtml+xml"/>
+    <item id="id1620" href="Text/Schopenhauer_split_109.html" media-type="application/xhtml+xml"/>
+    <item id="id1619" href="Text/Schopenhauer_split_110.html" media-type="application/xhtml+xml"/>
+    <item id="id1618" href="Text/Schopenhauer_split_111.html" media-type="application/xhtml+xml"/>
+    <item id="id1617" href="Text/Schopenhauer_split_112.html" media-type="application/xhtml+xml"/>
+    <item id="id1616" href="Text/Schopenhauer_split_113.html" media-type="application/xhtml+xml"/>
+    <item id="id1615" href="Text/Schopenhauer_split_114.html" media-type="application/xhtml+xml"/>
+    <item id="id1614" href="Text/Schopenhauer_split_115.html" media-type="application/xhtml+xml"/>
+    <item id="id1613" href="Text/Schopenhauer_split_116.html" media-type="application/xhtml+xml"/>
+    <item id="id1612" href="Text/Schopenhauer_split_117.html" media-type="application/xhtml+xml"/>
+    <item id="id1611" href="Text/Schopenhauer_split_118.html" media-type="application/xhtml+xml"/>
+    <item id="id1610" href="Text/Schopenhauer_split_119.html" media-type="application/xhtml+xml"/>
+    <item id="id1609" href="Text/Schopenhauer_split_120.html" media-type="application/xhtml+xml"/>
+    <item id="id1608" href="Text/Schopenhauer_split_121.html" media-type="application/xhtml+xml"/>
+    <item id="id1607" href="Text/Schopenhauer_split_122.html" media-type="application/xhtml+xml"/>
+    <item id="id1606" href="Text/Schopenhauer_split_123.html" media-type="application/xhtml+xml"/>
+    <item id="id1605" href="Text/Schopenhauer_split_124.html" media-type="application/xhtml+xml"/>
+    <item id="id1604" href="Text/Schopenhauer_split_125.html" media-type="application/xhtml+xml"/>
+    <item id="id1603" href="Text/Schopenhauer_split_126.html" media-type="application/xhtml+xml"/>
+    <item id="id1602" href="Text/Schopenhauer_split_127.html" media-type="application/xhtml+xml"/>
+    <item id="id1601" href="Text/Schopenhauer_split_128.html" media-type="application/xhtml+xml"/>
+    <item id="id1600" href="Text/Schopenhauer_split_129.html" media-type="application/xhtml+xml"/>
+    <item id="id1599" href="Text/Schopenhauer_split_130.html" media-type="application/xhtml+xml"/>
+    <item id="id1598" href="Text/Schopenhauer_split_131.html" media-type="application/xhtml+xml"/>
+    <item id="id1597" href="Text/Schopenhauer_split_132.html" media-type="application/xhtml+xml"/>
+    <item id="id1596" href="Text/Schopenhauer_split_133.html" media-type="application/xhtml+xml"/>
+    <item id="id1595" href="Text/Schopenhauer_split_134.html" media-type="application/xhtml+xml"/>
+    <item id="id1594" href="Text/Schopenhauer_split_135.html" media-type="application/xhtml+xml"/>
+    <item id="id1593" href="Text/Schopenhauer_split_136.html" media-type="application/xhtml+xml"/>
+    <item id="id1592" href="Text/Schopenhauer_split_137.html" media-type="application/xhtml+xml"/>
+    <item id="id1591" href="Text/Schopenhauer_split_138.html" media-type="application/xhtml+xml"/>
+    <item id="id1590" href="Text/Schopenhauer_split_139.html" media-type="application/xhtml+xml"/>
+    <item id="id1589" href="Text/Schopenhauer_split_140.html" media-type="application/xhtml+xml"/>
+    <item id="id1588" href="Text/Schopenhauer_split_141.html" media-type="application/xhtml+xml"/>
+    <item id="id1587" href="Text/Schopenhauer_split_142.html" media-type="application/xhtml+xml"/>
+    <item id="id1586" href="Text/Schopenhauer_split_143.html" media-type="application/xhtml+xml"/>
+    <item id="id1585" href="Text/Schopenhauer_split_144.html" media-type="application/xhtml+xml"/>
+    <item id="id1584" href="Text/Schopenhauer_split_145.html" media-type="application/xhtml+xml"/>
+    <item id="id1583" href="Text/Schopenhauer_split_146.html" media-type="application/xhtml+xml"/>
+    <item id="id1582" href="Text/Schopenhauer_split_147.html" media-type="application/xhtml+xml"/>
+    <item id="id1581" href="Text/Schopenhauer_split_148.html" media-type="application/xhtml+xml"/>
+    <item id="id1580" href="Text/Schopenhauer_split_149.html" media-type="application/xhtml+xml"/>
+    <item id="id1579" href="Text/Schopenhauer_split_150.html" media-type="application/xhtml+xml"/>
+    <item id="id1578" href="Text/Schopenhauer_split_151.html" media-type="application/xhtml+xml"/>
+    <item id="id1577" href="Text/Schopenhauer_split_152.html" media-type="application/xhtml+xml"/>
+    <item id="id1576" href="Text/Schopenhauer_split_153.html" media-type="application/xhtml+xml"/>
+    <item id="id1575" href="Text/Schopenhauer_split_154.html" media-type="application/xhtml+xml"/>
+    <item id="id1574" href="Text/Schopenhauer_split_155.html" media-type="application/xhtml+xml"/>
+    <item id="id1573" href="Text/Schopenhauer_split_156.html" media-type="application/xhtml+xml"/>
+    <item id="id1572" href="Text/Schopenhauer_split_157.html" media-type="application/xhtml+xml"/>
+    <item id="id1571" href="Text/Schopenhauer_split_158.html" media-type="application/xhtml+xml"/>
+    <item id="id1570" href="Text/Schopenhauer_split_159.html" media-type="application/xhtml+xml"/>
+    <item id="id1569" href="Text/Schopenhauer_split_160.html" media-type="application/xhtml+xml"/>
+    <item id="id1568" href="Text/Schopenhauer_split_161.html" media-type="application/xhtml+xml"/>
+    <item id="id1567" href="Text/Schopenhauer_split_162.html" media-type="application/xhtml+xml"/>
+    <item id="id1566" href="Text/Schopenhauer_split_163.html" media-type="application/xhtml+xml"/>
+    <item id="id1565" href="Text/Schopenhauer_split_164.html" media-type="application/xhtml+xml"/>
+    <item id="id1564" href="Text/Schopenhauer_split_165.html" media-type="application/xhtml+xml"/>
+    <item id="id1563" href="Text/Schopenhauer_split_166.html" media-type="application/xhtml+xml"/>
+    <item id="id1562" href="Text/Schopenhauer_split_167.html" media-type="application/xhtml+xml"/>
+    <item id="id1561" href="Text/Schopenhauer_split_168.html" media-type="application/xhtml+xml"/>
+    <item id="id1560" href="Text/Schopenhauer_split_169.html" media-type="application/xhtml+xml"/>
+    <item id="id1559" href="Text/Schopenhauer_split_170.html" media-type="application/xhtml+xml"/>
+    <item id="id1558" href="Text/Schopenhauer_split_171.html" media-type="application/xhtml+xml"/>
+    <item id="id1557" href="Text/Schopenhauer_split_172.html" media-type="application/xhtml+xml"/>
+    <item id="id1556" href="Text/Schopenhauer_split_173.html" media-type="application/xhtml+xml"/>
+    <item id="id1555" href="Text/Schopenhauer_split_174.html" media-type="application/xhtml+xml"/>
+    <item id="id1554" href="Text/Schopenhauer_split_175.html" media-type="application/xhtml+xml"/>
+    <item id="id1553" href="Text/Schopenhauer_split_176.html" media-type="application/xhtml+xml"/>
+    <item id="id1552" href="Text/Schopenhauer_split_177.html" media-type="application/xhtml+xml"/>
+    <item id="id1551" href="Text/Schopenhauer_split_178.html" media-type="application/xhtml+xml"/>
+    <item id="id1550" href="Text/Schopenhauer_split_179.html" media-type="application/xhtml+xml"/>
+    <item id="id1549" href="Text/Schopenhauer_split_180.html" media-type="application/xhtml+xml"/>
+    <item id="id1548" href="Text/Schopenhauer_split_181.html" media-type="application/xhtml+xml"/>
+    <item id="id1547" href="Text/Schopenhauer_split_182.html" media-type="application/xhtml+xml"/>
+    <item id="id1546" href="Text/Schopenhauer_split_183.html" media-type="application/xhtml+xml"/>
+    <item id="id1545" href="Text/Schopenhauer_split_184.html" media-type="application/xhtml+xml"/>
+    <item id="id1544" href="Text/Schopenhauer_split_185.html" media-type="application/xhtml+xml"/>
+    <item id="id1543" href="Text/Schopenhauer_split_186.html" media-type="application/xhtml+xml"/>
+    <item id="id1542" href="Text/Schopenhauer_split_187.html" media-type="application/xhtml+xml"/>
+    <item id="id1541" href="Text/Schopenhauer_split_188.html" media-type="application/xhtml+xml"/>
+    <item id="id1540" href="Text/Schopenhauer_split_189.html" media-type="application/xhtml+xml"/>
+    <item id="id1539" href="Text/Schopenhauer_split_190.html" media-type="application/xhtml+xml"/>
+    <item id="id1538" href="Text/Schopenhauer_split_191.html" media-type="application/xhtml+xml"/>
+    <item id="id1537" href="Text/Schopenhauer_split_192.html" media-type="application/xhtml+xml"/>
+    <item id="id1536" href="Text/Schopenhauer_split_193.html" media-type="application/xhtml+xml"/>
+    <item id="id1535" href="Text/Schopenhauer_split_194.html" media-type="application/xhtml+xml"/>
+    <item id="id1534" href="Text/Schopenhauer_split_195.html" media-type="application/xhtml+xml"/>
+    <item id="id1533" href="Text/Schopenhauer_split_196.html" media-type="application/xhtml+xml"/>
+    <item id="id1532" href="Text/Schopenhauer_split_197.html" media-type="application/xhtml+xml"/>
+    <item id="id1531" href="Text/Schopenhauer_split_198.html" media-type="application/xhtml+xml"/>
+    <item id="id1530" href="Text/Schopenhauer_split_199.html" media-type="application/xhtml+xml"/>
+    <item id="id1529" href="Text/Schopenhauer_split_200.html" media-type="application/xhtml+xml"/>
+    <item id="id1528" href="Text/Schopenhauer_split_201.html" media-type="application/xhtml+xml"/>
+    <item id="id1527" href="Text/Schopenhauer_split_202.html" media-type="application/xhtml+xml"/>
+    <item id="id1526" href="Text/Schopenhauer_split_203.html" media-type="application/xhtml+xml"/>
+    <item id="id1525" href="Text/Schopenhauer_split_204.html" media-type="application/xhtml+xml"/>
+    <item id="id1524" href="Text/Schopenhauer_split_205.html" media-type="application/xhtml+xml"/>
+    <item id="id1523" href="Text/Schopenhauer_split_206.html" media-type="application/xhtml+xml"/>
+    <item id="id1522" href="Text/Schopenhauer_split_207.html" media-type="application/xhtml+xml"/>
+    <item id="id1521" href="Text/Schopenhauer_split_208.html" media-type="application/xhtml+xml"/>
+    <item id="id1520" href="Text/Schopenhauer_split_209.html" media-type="application/xhtml+xml"/>
+    <item id="id1519" href="Text/Schopenhauer_split_210.html" media-type="application/xhtml+xml"/>
+    <item id="id1518" href="Text/Schopenhauer_split_211.html" media-type="application/xhtml+xml"/>
+    <item id="id1517" href="Text/Schopenhauer_split_212.html" media-type="application/xhtml+xml"/>
+    <item id="id1516" href="Text/Schopenhauer_split_213.html" media-type="application/xhtml+xml"/>
+    <item id="id1515" href="Text/Schopenhauer_split_214.html" media-type="application/xhtml+xml"/>
+    <item id="id1514" href="Text/Schopenhauer_split_215.html" media-type="application/xhtml+xml"/>
+    <item id="id1513" href="Text/Schopenhauer_split_216.html" media-type="application/xhtml+xml"/>
+    <item id="id1512" href="Text/Schopenhauer_split_217.html" media-type="application/xhtml+xml"/>
+    <item id="id1511" href="Text/Schopenhauer_split_218.html" media-type="application/xhtml+xml"/>
+    <item id="id1510" href="Text/Schopenhauer_split_219.html" media-type="application/xhtml+xml"/>
+    <item id="id1509" href="Text/Schopenhauer_split_220.html" media-type="application/xhtml+xml"/>
+    <item id="id1508" href="Text/Schopenhauer_split_221.html" media-type="application/xhtml+xml"/>
+    <item id="id1507" href="Text/Schopenhauer_split_222.html" media-type="application/xhtml+xml"/>
+    <item id="id1506" href="Text/Schopenhauer_split_223.html" media-type="application/xhtml+xml"/>
+    <item id="id1505" href="Text/Schopenhauer_split_224.html" media-type="application/xhtml+xml"/>
+    <item id="id1504" href="Text/Schopenhauer_split_225.html" media-type="application/xhtml+xml"/>
+    <item id="id1503" href="Text/Schopenhauer_split_226.html" media-type="application/xhtml+xml"/>
+    <item id="id1502" href="Text/Schopenhauer_split_227.html" media-type="application/xhtml+xml"/>
+    <item id="id1501" href="Text/Schopenhauer_split_228.html" media-type="application/xhtml+xml"/>
+    <item id="id1500" href="Text/Schopenhauer_split_229.html" media-type="application/xhtml+xml"/>
+    <item id="id1499" href="Text/Schopenhauer_split_230.html" media-type="application/xhtml+xml"/>
+    <item id="id1498" href="Text/Schopenhauer_split_231.html" media-type="application/xhtml+xml"/>
+    <item id="id1497" href="Text/Schopenhauer_split_232.html" media-type="application/xhtml+xml"/>
+    <item id="id1496" href="Text/Schopenhauer_split_233.html" media-type="application/xhtml+xml"/>
+    <item id="id1495" href="Text/Schopenhauer_split_234.html" media-type="application/xhtml+xml"/>
+    <item id="id1494" href="Text/Schopenhauer_split_235.html" media-type="application/xhtml+xml"/>
+    <item id="id1493" href="Text/Schopenhauer_split_236.html" media-type="application/xhtml+xml"/>
+    <item id="id1492" href="Text/Schopenhauer_split_237.html" media-type="application/xhtml+xml"/>
+    <item id="id1491" href="Text/Schopenhauer_split_238.html" media-type="application/xhtml+xml"/>
+    <item id="id1490" href="Text/Schopenhauer_split_239.html" media-type="application/xhtml+xml"/>
+    <item id="id1489" href="Text/Schopenhauer_split_240.html" media-type="application/xhtml+xml"/>
+    <item id="id1488" href="Text/Schopenhauer_split_241.html" media-type="application/xhtml+xml"/>
+    <item id="id1487" href="Text/Schopenhauer_split_242.html" media-type="application/xhtml+xml"/>
+    <item id="id1486" href="Text/Schopenhauer_split_243.html" media-type="application/xhtml+xml"/>
+    <item id="id1485" href="Text/Schopenhauer_split_244.html" media-type="application/xhtml+xml"/>
+    <item id="id1484" href="Text/Schopenhauer_split_245.html" media-type="application/xhtml+xml"/>
+    <item id="id1483" href="Text/Schopenhauer_split_246.html" media-type="application/xhtml+xml"/>
+    <item id="id1482" href="Text/Schopenhauer_split_247.html" media-type="application/xhtml+xml"/>
+    <item id="id1481" href="Text/Schopenhauer_split_248.html" media-type="application/xhtml+xml"/>
+    <item id="id1480" href="Text/Schopenhauer_split_249.html" media-type="application/xhtml+xml"/>
+    <item id="id1479" href="Text/Schopenhauer_split_250.html" media-type="application/xhtml+xml"/>
+    <item id="id1478" href="Text/Schopenhauer_split_251.html" media-type="application/xhtml+xml"/>
+    <item id="id1477" href="Text/Schopenhauer_split_252.html" media-type="application/xhtml+xml"/>
+    <item id="id1476" href="Text/Schopenhauer_split_253.html" media-type="application/xhtml+xml"/>
+    <item id="id1475" href="Text/Schopenhauer_split_254.html" media-type="application/xhtml+xml"/>
+    <item id="id1474" href="Text/Schopenhauer_split_255.html" media-type="application/xhtml+xml"/>
+    <item id="id1473" href="Text/Schopenhauer_split_256.html" media-type="application/xhtml+xml"/>
+    <item id="id1472" href="Text/Schopenhauer_split_257.html" media-type="application/xhtml+xml"/>
+    <item id="id1471" href="Text/Schopenhauer_split_258.html" media-type="application/xhtml+xml"/>
+    <item id="id1470" href="Text/Schopenhauer_split_259.html" media-type="application/xhtml+xml"/>
+    <item id="id1469" href="Text/Schopenhauer_split_260.html" media-type="application/xhtml+xml"/>
+    <item id="id1468" href="Text/Schopenhauer_split_261.html" media-type="application/xhtml+xml"/>
+    <item id="id1467" href="Text/Schopenhauer_split_262.html" media-type="application/xhtml+xml"/>
+    <item id="id1466" href="Text/Schopenhauer_split_263.html" media-type="application/xhtml+xml"/>
+    <item id="id1465" href="Text/Schopenhauer_split_264.html" media-type="application/xhtml+xml"/>
+    <item id="id1464" href="Text/Schopenhauer_split_265.html" media-type="application/xhtml+xml"/>
+    <item id="id1463" href="Text/Schopenhauer_split_266.html" media-type="application/xhtml+xml"/>
+    <item id="id1462" href="Text/Schopenhauer_split_267.html" media-type="application/xhtml+xml"/>
+    <item id="id1461" href="Text/Schopenhauer_split_268.html" media-type="application/xhtml+xml"/>
+    <item id="id1460" href="Text/Schopenhauer_split_269.html" media-type="application/xhtml+xml"/>
+    <item id="id1459" href="Text/Schopenhauer_split_270.html" media-type="application/xhtml+xml"/>
+    <item id="id1458" href="Text/Schopenhauer_split_271.html" media-type="application/xhtml+xml"/>
+    <item id="id1457" href="Text/Schopenhauer_split_272.html" media-type="application/xhtml+xml"/>
+    <item id="id1456" href="Text/Schopenhauer_split_273.html" media-type="application/xhtml+xml"/>
+    <item id="id1455" href="Text/Schopenhauer_split_274.html" media-type="application/xhtml+xml"/>
+    <item id="id1454" href="Text/Schopenhauer_split_275.html" media-type="application/xhtml+xml"/>
+    <item id="id1453" href="Text/Schopenhauer_split_276.html" media-type="application/xhtml+xml"/>
+    <item id="id1452" href="Text/Schopenhauer_split_277.html" media-type="application/xhtml+xml"/>
+    <item id="id1451" href="Text/Schopenhauer_split_278.html" media-type="application/xhtml+xml"/>
+    <item id="id1450" href="Text/Schopenhauer_split_279.html" media-type="application/xhtml+xml"/>
+    <item id="id1449" href="Text/Schopenhauer_split_280.html" media-type="application/xhtml+xml"/>
+    <item id="id1448" href="Text/Schopenhauer_split_281.html" media-type="application/xhtml+xml"/>
+    <item id="id1447" href="Text/Schopenhauer_split_282.html" media-type="application/xhtml+xml"/>
+    <item id="id1446" href="Text/Schopenhauer_split_283.html" media-type="application/xhtml+xml"/>
+    <item id="id1445" href="Text/Schopenhauer_split_284.html" media-type="application/xhtml+xml"/>
+    <item id="id1444" href="Text/Schopenhauer_split_285.html" media-type="application/xhtml+xml"/>
+    <item id="id1443" href="Text/Schopenhauer_split_286.html" media-type="application/xhtml+xml"/>
+    <item id="id1442" href="Text/Schopenhauer_split_287.html" media-type="application/xhtml+xml"/>
+    <item id="id1441" href="Text/Schopenhauer_split_288.html" media-type="application/xhtml+xml"/>
+    <item id="id1440" href="Text/Schopenhauer_split_289.html" media-type="application/xhtml+xml"/>
+    <item id="id1439" href="Text/Schopenhauer_split_290.html" media-type="application/xhtml+xml"/>
+    <item id="id1438" href="Text/Schopenhauer_split_291.html" media-type="application/xhtml+xml"/>
+    <item id="id1437" href="Text/Schopenhauer_split_292.html" media-type="application/xhtml+xml"/>
+    <item id="id1436" href="Text/Schopenhauer_split_293.html" media-type="application/xhtml+xml"/>
+    <item id="id1435" href="Text/Schopenhauer_split_294.html" media-type="application/xhtml+xml"/>
+    <item id="id1434" href="Text/Schopenhauer_split_295.html" media-type="application/xhtml+xml"/>
+    <item id="id1433" href="Text/Schopenhauer_split_296.html" media-type="application/xhtml+xml"/>
+    <item id="id1432" href="Text/Schopenhauer_split_297.html" media-type="application/xhtml+xml"/>
+    <item id="id1431" href="Text/Schopenhauer_split_298.html" media-type="application/xhtml+xml"/>
+    <item id="id1430" href="Text/Schopenhauer_split_299.html" media-type="application/xhtml+xml"/>
+    <item id="id1429" href="Text/Schopenhauer_split_300.html" media-type="application/xhtml+xml"/>
+    <item id="id1428" href="Text/Schopenhauer_split_301.html" media-type="application/xhtml+xml"/>
+    <item id="id1427" href="Text/Schopenhauer_split_302.html" media-type="application/xhtml+xml"/>
+    <item id="id1426" href="Text/Schopenhauer_split_303.html" media-type="application/xhtml+xml"/>
+    <item id="id1425" href="Text/Schopenhauer_split_304.html" media-type="application/xhtml+xml"/>
+    <item id="id1424" href="Text/Schopenhauer_split_305.html" media-type="application/xhtml+xml"/>
+    <item id="id1423" href="Text/Schopenhauer_split_306.html" media-type="application/xhtml+xml"/>
+    <item id="id1422" href="Text/Schopenhauer_split_307.html" media-type="application/xhtml+xml"/>
+    <item id="id1421" href="Text/Schopenhauer_split_308.html" media-type="application/xhtml+xml"/>
+    <item id="id1420" href="Text/Schopenhauer_split_309.html" media-type="application/xhtml+xml"/>
+    <item id="id1419" href="Text/Schopenhauer_split_310.html" media-type="application/xhtml+xml"/>
+    <item id="id1418" href="Text/Schopenhauer_split_311.html" media-type="application/xhtml+xml"/>
+    <item id="id1417" href="Text/Schopenhauer_split_312.html" media-type="application/xhtml+xml"/>
+    <item id="id1416" href="Text/Schopenhauer_split_313.html" media-type="application/xhtml+xml"/>
+    <item id="id1415" href="Text/Schopenhauer_split_314.html" media-type="application/xhtml+xml"/>
+    <item id="id1414" href="Text/Schopenhauer_split_315.html" media-type="application/xhtml+xml"/>
+    <item id="id1413" href="Text/Schopenhauer_split_316.html" media-type="application/xhtml+xml"/>
+    <item id="id1412" href="Text/Schopenhauer_split_317.html" media-type="application/xhtml+xml"/>
+    <item id="id1411" href="Text/Schopenhauer_split_318.html" media-type="application/xhtml+xml"/>
+    <item id="id1410" href="Text/Schopenhauer_split_319.html" media-type="application/xhtml+xml"/>
+    <item id="id1409" href="Text/Schopenhauer_split_320.html" media-type="application/xhtml+xml"/>
+    <item id="id1408" href="Text/Schopenhauer_split_321.html" media-type="application/xhtml+xml"/>
+    <item id="id1407" href="Text/Schopenhauer_split_322.html" media-type="application/xhtml+xml"/>
+    <item id="id1406" href="Text/Schopenhauer_split_323.html" media-type="application/xhtml+xml"/>
+    <item id="id1405" href="Text/Schopenhauer_split_324.html" media-type="application/xhtml+xml"/>
+    <item id="id1404" href="Text/Schopenhauer_split_325.html" media-type="application/xhtml+xml"/>
+    <item id="id1403" href="Text/Schopenhauer_split_326.html" media-type="application/xhtml+xml"/>
+    <item id="id1402" href="Text/Schopenhauer_split_327.html" media-type="application/xhtml+xml"/>
+    <item id="id1401" href="Text/Schopenhauer_split_328.html" media-type="application/xhtml+xml"/>
+    <item id="id1400" href="Text/Schopenhauer_split_329.html" media-type="application/xhtml+xml"/>
+    <item id="id1399" href="Text/Schopenhauer_split_330.html" media-type="application/xhtml+xml"/>
+    <item id="id1398" href="Text/Schopenhauer_split_331.html" media-type="application/xhtml+xml"/>
+    <item id="id1397" href="Text/Schopenhauer_split_332.html" media-type="application/xhtml+xml"/>
+    <item id="id1396" href="Text/Schopenhauer_split_333.html" media-type="application/xhtml+xml"/>
+    <item id="id1395" href="Text/Schopenhauer_split_334.html" media-type="application/xhtml+xml"/>
+    <item id="id1394" href="Text/Schopenhauer_split_335.html" media-type="application/xhtml+xml"/>
+    <item id="id1393" href="Text/Schopenhauer_split_336.html" media-type="application/xhtml+xml"/>
+    <item id="id1392" href="Text/Schopenhauer_split_337.html" media-type="application/xhtml+xml"/>
+    <item id="id1391" href="Text/Schopenhauer_split_338.html" media-type="application/xhtml+xml"/>
+    <item id="id1390" href="Text/Schopenhauer_split_339.html" media-type="application/xhtml+xml"/>
+    <item id="id1389" href="Text/Schopenhauer_split_340.html" media-type="application/xhtml+xml"/>
+    <item id="id1388" href="Text/Schopenhauer_split_341.html" media-type="application/xhtml+xml"/>
+    <item id="id1387" href="Text/Schopenhauer_split_342.html" media-type="application/xhtml+xml"/>
+    <item id="id1386" href="Text/Schopenhauer_split_343.html" media-type="application/xhtml+xml"/>
+    <item id="id1385" href="Text/Schopenhauer_split_344.html" media-type="application/xhtml+xml"/>
+    <item id="id1384" href="Text/Schopenhauer_split_345.html" media-type="application/xhtml+xml"/>
+    <item id="id1383" href="Text/Schopenhauer_split_346.html" media-type="application/xhtml+xml"/>
+    <item id="id1382" href="Text/Schopenhauer_split_347.html" media-type="application/xhtml+xml"/>
+    <item id="id1381" href="Text/Schopenhauer_split_348.html" media-type="application/xhtml+xml"/>
+    <item id="id1380" href="Text/Schopenhauer_split_349.html" media-type="application/xhtml+xml"/>
+    <item id="id1379" href="Text/Schopenhauer_split_350.html" media-type="application/xhtml+xml"/>
+    <item id="id1378" href="Text/Schopenhauer_split_351.html" media-type="application/xhtml+xml"/>
+    <item id="id1377" href="Text/Schopenhauer_split_352.html" media-type="application/xhtml+xml"/>
+    <item id="id1376" href="Text/Schopenhauer_split_353.html" media-type="application/xhtml+xml"/>
+    <item id="id1375" href="Text/Schopenhauer_split_354.html" media-type="application/xhtml+xml"/>
+    <item id="id1374" href="Text/Schopenhauer_split_355.html" media-type="application/xhtml+xml"/>
+    <item id="id1373" href="Text/Schopenhauer_split_356.html" media-type="application/xhtml+xml"/>
+    <item id="id1372" href="Text/Schopenhauer_split_357.html" media-type="application/xhtml+xml"/>
+    <item id="id1371" href="Text/Schopenhauer_split_358.html" media-type="application/xhtml+xml"/>
+    <item id="id1370" href="Text/Schopenhauer_split_359.html" media-type="application/xhtml+xml"/>
+    <item id="id1369" href="Text/Schopenhauer_split_360.html" media-type="application/xhtml+xml"/>
+    <item id="id1368" href="Text/Schopenhauer_split_361.html" media-type="application/xhtml+xml"/>
+    <item id="id1367" href="Text/Schopenhauer_split_362.html" media-type="application/xhtml+xml"/>
+    <item id="id1366" href="Text/Schopenhauer_split_363.html" media-type="application/xhtml+xml"/>
+    <item id="id1365" href="Text/Schopenhauer_split_364.html" media-type="application/xhtml+xml"/>
+    <item id="id1364" href="Text/Schopenhauer_split_365.html" media-type="application/xhtml+xml"/>
+    <item id="id1363" href="Text/Schopenhauer_split_366.html" media-type="application/xhtml+xml"/>
+    <item id="id1362" href="Text/Schopenhauer_split_367.html" media-type="application/xhtml+xml"/>
+    <item id="id1361" href="Text/Schopenhauer_split_368.html" media-type="application/xhtml+xml"/>
+    <item id="id1360" href="Text/Schopenhauer_split_369.html" media-type="application/xhtml+xml"/>
+    <item id="id1359" href="Text/Schopenhauer_split_370.html" media-type="application/xhtml+xml"/>
+    <item id="id1358" href="Text/Schopenhauer_split_371.html" media-type="application/xhtml+xml"/>
+    <item id="id1357" href="Text/Schopenhauer_split_372.html" media-type="application/xhtml+xml"/>
+    <item id="id1356" href="Text/Schopenhauer_split_373.html" media-type="application/xhtml+xml"/>
+    <item id="id1355" href="Text/Schopenhauer_split_374.html" media-type="application/xhtml+xml"/>
+    <item id="id1354" href="Text/Schopenhauer_split_375.html" media-type="application/xhtml+xml"/>
+    <item id="id1353" href="Text/Schopenhauer_split_376.html" media-type="application/xhtml+xml"/>
+    <item id="id1352" href="Text/Schopenhauer_split_377.html" media-type="application/xhtml+xml"/>
+    <item id="id1351" href="Text/Schopenhauer_split_378.html" media-type="application/xhtml+xml"/>
+    <item id="id1350" href="Text/Schopenhauer_split_379.html" media-type="application/xhtml+xml"/>
+    <item id="id1349" href="Text/Schopenhauer_split_380.html" media-type="application/xhtml+xml"/>
+    <item id="id1348" href="Text/Schopenhauer_split_381.html" media-type="application/xhtml+xml"/>
+    <item id="id1347" href="Text/Schopenhauer_split_382.html" media-type="application/xhtml+xml"/>
+    <item id="id1346" href="Text/Schopenhauer_split_383.html" media-type="application/xhtml+xml"/>
+    <item id="id1345" href="Text/Schopenhauer_split_384.html" media-type="application/xhtml+xml"/>
+    <item id="id1344" href="Text/Schopenhauer_split_385.html" media-type="application/xhtml+xml"/>
+    <item id="id1343" href="Text/Schopenhauer_split_386.html" media-type="application/xhtml+xml"/>
+    <item id="id1342" href="Text/Schopenhauer_split_387.html" media-type="application/xhtml+xml"/>
+    <item id="id1341" href="Text/Schopenhauer_split_388.html" media-type="application/xhtml+xml"/>
+    <item id="id1340" href="Text/Schopenhauer_split_389.html" media-type="application/xhtml+xml"/>
+    <item id="id1339" href="Text/Schopenhauer_split_390.html" media-type="application/xhtml+xml"/>
+    <item id="id1338" href="Text/Schopenhauer_split_391.html" media-type="application/xhtml+xml"/>
+    <item id="id1337" href="Text/Schopenhauer_split_392.html" media-type="application/xhtml+xml"/>
+    <item id="id1336" href="Text/Schopenhauer_split_393.html" media-type="application/xhtml+xml"/>
+    <item id="id1335" href="Text/Schopenhauer_split_394.html" media-type="application/xhtml+xml"/>
+    <item id="id1334" href="Text/Schopenhauer_split_395.html" media-type="application/xhtml+xml"/>
+    <item id="id1333" href="Text/Schopenhauer_split_396.html" media-type="application/xhtml+xml"/>
+    <item id="id1332" href="Text/Schopenhauer_split_397.html" media-type="application/xhtml+xml"/>
+    <item id="id1331" href="Text/Schopenhauer_split_398.html" media-type="application/xhtml+xml"/>
+    <item id="id1330" href="Text/Schopenhauer_split_399.html" media-type="application/xhtml+xml"/>
+    <item id="id1329" href="Text/Schopenhauer_split_400.html" media-type="application/xhtml+xml"/>
+    <item id="id1328" href="Text/Schopenhauer_split_401.html" media-type="application/xhtml+xml"/>
+    <item id="id1327" href="Text/Schopenhauer_split_402.html" media-type="application/xhtml+xml"/>
+    <item id="id1326" href="Text/Schopenhauer_split_403.html" media-type="application/xhtml+xml"/>
+    <item id="id1325" href="Text/Schopenhauer_split_404.html" media-type="application/xhtml+xml"/>
+    <item id="id1324" href="Text/Schopenhauer_split_405.html" media-type="application/xhtml+xml"/>
+    <item id="id1323" href="Text/Schopenhauer_split_406.html" media-type="application/xhtml+xml"/>
+    <item id="id1322" href="Text/Schopenhauer_split_407.html" media-type="application/xhtml+xml"/>
+    <item id="id1321" href="Text/Schopenhauer_split_408.html" media-type="application/xhtml+xml"/>
+    <item id="id1320" href="Text/Schopenhauer_split_409.html" media-type="application/xhtml+xml"/>
+    <item id="id1319" href="Text/Schopenhauer_split_410.html" media-type="application/xhtml+xml"/>
+    <item id="id1318" href="Text/Schopenhauer_split_411.html" media-type="application/xhtml+xml"/>
+    <item id="id1317" href="Text/Schopenhauer_split_412.html" media-type="application/xhtml+xml"/>
+    <item id="id1316" href="Text/Schopenhauer_split_413.html" media-type="application/xhtml+xml"/>
+    <item id="id1315" href="Text/Schopenhauer_split_414.html" media-type="application/xhtml+xml"/>
+    <item id="id1314" href="Text/Schopenhauer_split_415.html" media-type="application/xhtml+xml"/>
+    <item id="id1313" href="Text/Schopenhauer_split_416.html" media-type="application/xhtml+xml"/>
+    <item id="id1312" href="Text/Schopenhauer_split_417.html" media-type="application/xhtml+xml"/>
+    <item id="id1311" href="Text/Schopenhauer_split_418.html" media-type="application/xhtml+xml"/>
+    <item id="id1310" href="Text/Schopenhauer_split_419.html" media-type="application/xhtml+xml"/>
+    <item id="id1309" href="Text/Schopenhauer_split_420.html" media-type="application/xhtml+xml"/>
+    <item id="id1308" href="Text/Schopenhauer_split_421.html" media-type="application/xhtml+xml"/>
+    <item id="id1307" href="Text/Schopenhauer_split_422.html" media-type="application/xhtml+xml"/>
+    <item id="id1306" href="Text/Schopenhauer_split_423.html" media-type="application/xhtml+xml"/>
+    <item id="id1305" href="Text/Schopenhauer_split_424.html" media-type="application/xhtml+xml"/>
+    <item id="id1304" href="Text/Schopenhauer_split_425.html" media-type="application/xhtml+xml"/>
+    <item id="id1303" href="Text/Schopenhauer_split_426.html" media-type="application/xhtml+xml"/>
+    <item id="id1302" href="Text/Schopenhauer_split_427.html" media-type="application/xhtml+xml"/>
+    <item id="id1301" href="Text/Schopenhauer_split_428.html" media-type="application/xhtml+xml"/>
+    <item id="id1300" href="Text/Schopenhauer_split_429.html" media-type="application/xhtml+xml"/>
+    <item id="id1299" href="Text/Schopenhauer_split_430.html" media-type="application/xhtml+xml"/>
+    <item id="id1298" href="Text/Schopenhauer_split_431.html" media-type="application/xhtml+xml"/>
+    <item id="id1297" href="Text/Schopenhauer_split_432.html" media-type="application/xhtml+xml"/>
+    <item id="id1296" href="Text/Schopenhauer_split_433.html" media-type="application/xhtml+xml"/>
+    <item id="id1295" href="Text/Schopenhauer_split_434.html" media-type="application/xhtml+xml"/>
+    <item id="id1294" href="Text/Schopenhauer_split_435.html" media-type="application/xhtml+xml"/>
+    <item id="id1293" href="Text/Schopenhauer_split_436.html" media-type="application/xhtml+xml"/>
+    <item id="id1292" href="Text/Schopenhauer_split_437.html" media-type="application/xhtml+xml"/>
+    <item id="id1291" href="Text/Schopenhauer_split_438.html" media-type="application/xhtml+xml"/>
+    <item id="id1290" href="Text/Schopenhauer_split_439.html" media-type="application/xhtml+xml"/>
+    <item id="id1289" href="Text/Schopenhauer_split_440.html" media-type="application/xhtml+xml"/>
+    <item id="id1288" href="Text/Schopenhauer_split_441.html" media-type="application/xhtml+xml"/>
+    <item id="id1287" href="Text/Schopenhauer_split_442.html" media-type="application/xhtml+xml"/>
+    <item id="id1286" href="Text/Schopenhauer_split_443.html" media-type="application/xhtml+xml"/>
+    <item id="id1285" href="Text/Schopenhauer_split_444.html" media-type="application/xhtml+xml"/>
+    <item id="id1284" href="Text/Schopenhauer_split_445.html" media-type="application/xhtml+xml"/>
+    <item id="id1283" href="Text/Schopenhauer_split_446.html" media-type="application/xhtml+xml"/>
+    <item id="id1282" href="Text/Schopenhauer_split_447.html" media-type="application/xhtml+xml"/>
+    <item id="id1281" href="Text/Schopenhauer_split_448.html" media-type="application/xhtml+xml"/>
+    <item id="id1280" href="Text/Schopenhauer_split_449.html" media-type="application/xhtml+xml"/>
+    <item id="id1279" href="Text/Schopenhauer_split_450.html" media-type="application/xhtml+xml"/>
+    <item id="id1278" href="Text/Schopenhauer_split_451.html" media-type="application/xhtml+xml"/>
+    <item id="id1277" href="Text/Schopenhauer_split_452.html" media-type="application/xhtml+xml"/>
+    <item id="id1276" href="Text/Schopenhauer_split_453.html" media-type="application/xhtml+xml"/>
+    <item id="id1275" href="Text/Schopenhauer_split_454.html" media-type="application/xhtml+xml"/>
+    <item id="id1274" href="Text/Schopenhauer_split_455.html" media-type="application/xhtml+xml"/>
+    <item id="id1273" href="Text/Schopenhauer_split_456.html" media-type="application/xhtml+xml"/>
+    <item id="id1272" href="Text/Schopenhauer_split_457.html" media-type="application/xhtml+xml"/>
+    <item id="id1271" href="Text/Schopenhauer_split_458.html" media-type="application/xhtml+xml"/>
+    <item id="id1270" href="Text/Schopenhauer_split_459.html" media-type="application/xhtml+xml"/>
+    <item id="id1269" href="Text/Schopenhauer_split_460.html" media-type="application/xhtml+xml"/>
+    <item id="id1268" href="Text/Schopenhauer_split_461.html" media-type="application/xhtml+xml"/>
+    <item id="id1267" href="Text/Schopenhauer_split_462.html" media-type="application/xhtml+xml"/>
+    <item id="id1266" href="Text/Schopenhauer_split_463.html" media-type="application/xhtml+xml"/>
+    <item id="id1265" href="Text/Schopenhauer_split_464.html" media-type="application/xhtml+xml"/>
+    <item id="id1264" href="Text/Schopenhauer_split_465.html" media-type="application/xhtml+xml"/>
+    <item id="id1263" href="Text/Schopenhauer_split_466.html" media-type="application/xhtml+xml"/>
+    <item id="id1262" href="Text/Schopenhauer_split_467.html" media-type="application/xhtml+xml"/>
+    <item id="id1261" href="Text/Schopenhauer_split_468.html" media-type="application/xhtml+xml"/>
+    <item id="id1260" href="Text/Schopenhauer_split_469.html" media-type="application/xhtml+xml"/>
+    <item id="id1259" href="Text/Schopenhauer_split_470.html" media-type="application/xhtml+xml"/>
+    <item id="id1258" href="Text/Schopenhauer_split_471.html" media-type="application/xhtml+xml"/>
+    <item id="id1257" href="Text/Schopenhauer_split_472.html" media-type="application/xhtml+xml"/>
+    <item id="id1256" href="Text/Schopenhauer_split_473.html" media-type="application/xhtml+xml"/>
+    <item id="id1255" href="Text/Schopenhauer_split_474.html" media-type="application/xhtml+xml"/>
+    <item id="id1254" href="Text/Schopenhauer_split_475.html" media-type="application/xhtml+xml"/>
+    <item id="id1253" href="Text/Schopenhauer_split_476.html" media-type="application/xhtml+xml"/>
+    <item id="id1252" href="Text/Schopenhauer_split_477.html" media-type="application/xhtml+xml"/>
+    <item id="id1251" href="Text/Schopenhauer_split_478.html" media-type="application/xhtml+xml"/>
+    <item id="id1250" href="Text/Schopenhauer_split_479.html" media-type="application/xhtml+xml"/>
+    <item id="id1249" href="Text/Schopenhauer_split_480.html" media-type="application/xhtml+xml"/>
+    <item id="id1248" href="Text/Schopenhauer_split_481.html" media-type="application/xhtml+xml"/>
+    <item id="id1247" href="Text/Schopenhauer_split_482.html" media-type="application/xhtml+xml"/>
+    <item id="id1246" href="Text/Schopenhauer_split_483.html" media-type="application/xhtml+xml"/>
+    <item id="id1245" href="Text/Schopenhauer_split_484.html" media-type="application/xhtml+xml"/>
+    <item id="id1244" href="Text/Schopenhauer_split_485.html" media-type="application/xhtml+xml"/>
+    <item id="id1243" href="Text/Schopenhauer_split_486.html" media-type="application/xhtml+xml"/>
+    <item id="id1242" href="Text/Schopenhauer_split_487.html" media-type="application/xhtml+xml"/>
+    <item id="id1241" href="Text/Schopenhauer_split_488.html" media-type="application/xhtml+xml"/>
+    <item id="id1240" href="Text/Schopenhauer_split_489.html" media-type="application/xhtml+xml"/>
+    <item id="id1239" href="Text/Schopenhauer_split_490.html" media-type="application/xhtml+xml"/>
+    <item id="id1238" href="Text/Schopenhauer_split_491.html" media-type="application/xhtml+xml"/>
+    <item id="id1237" href="Text/Schopenhauer_split_492.html" media-type="application/xhtml+xml"/>
+    <item id="id1236" href="Text/Schopenhauer_split_493.html" media-type="application/xhtml+xml"/>
+    <item id="id1235" href="Text/Schopenhauer_split_494.html" media-type="application/xhtml+xml"/>
+    <item id="id1234" href="Text/Schopenhauer_split_495.html" media-type="application/xhtml+xml"/>
+    <item id="id1233" href="Text/Schopenhauer_split_496.html" media-type="application/xhtml+xml"/>
+    <item id="id1232" href="Text/Schopenhauer_split_497.html" media-type="application/xhtml+xml"/>
+    <item id="id1231" href="Text/Schopenhauer_split_498.html" media-type="application/xhtml+xml"/>
+    <item id="id1230" href="Text/Schopenhauer_split_499.html" media-type="application/xhtml+xml"/>
+    <item id="id1229" href="Text/Schopenhauer_split_500.html" media-type="application/xhtml+xml"/>
+    <item id="id1228" href="Text/Schopenhauer_split_501.html" media-type="application/xhtml+xml"/>
+    <item id="id1227" href="Text/Schopenhauer_split_502.html" media-type="application/xhtml+xml"/>
+    <item id="id1226" href="Text/Schopenhauer_split_503.html" media-type="application/xhtml+xml"/>
+    <item id="id1225" href="Text/Schopenhauer_split_504.html" media-type="application/xhtml+xml"/>
+    <item id="id1224" href="Text/Schopenhauer_split_505.html" media-type="application/xhtml+xml"/>
+    <item id="id1223" href="Text/Schopenhauer_split_506.html" media-type="application/xhtml+xml"/>
+    <item id="id1222" href="Text/Schopenhauer_split_507.html" media-type="application/xhtml+xml"/>
+    <item id="id1221" href="Text/Schopenhauer_split_508.html" media-type="application/xhtml+xml"/>
+    <item id="id1220" href="Text/Schopenhauer_split_509.html" media-type="application/xhtml+xml"/>
+    <item id="id1219" href="Text/Schopenhauer_split_510.html" media-type="application/xhtml+xml"/>
+    <item id="id1218" href="Text/Schopenhauer_split_511.html" media-type="application/xhtml+xml"/>
+    <item id="id1217" href="Text/Schopenhauer_split_512.html" media-type="application/xhtml+xml"/>
+    <item id="id1216" href="Text/Schopenhauer_split_513.html" media-type="application/xhtml+xml"/>
+    <item id="id1215" href="Text/Schopenhauer_split_514.html" media-type="application/xhtml+xml"/>
+    <item id="id1214" href="Text/Schopenhauer_split_515.html" media-type="application/xhtml+xml"/>
+    <item id="id1213" href="Text/Schopenhauer_split_516.html" media-type="application/xhtml+xml"/>
+    <item id="id1212" href="Text/Schopenhauer_split_517.html" media-type="application/xhtml+xml"/>
+    <item id="id1211" href="Text/Schopenhauer_split_518.html" media-type="application/xhtml+xml"/>
+    <item id="id1210" href="Text/Schopenhauer_split_519.html" media-type="application/xhtml+xml"/>
+    <item id="id1209" href="Text/Schopenhauer_split_520.html" media-type="application/xhtml+xml"/>
+    <item id="id1208" href="Text/Schopenhauer_split_521.html" media-type="application/xhtml+xml"/>
+    <item id="id1207" href="Text/Schopenhauer_split_522.html" media-type="application/xhtml+xml"/>
+    <item id="id1206" href="Text/Schopenhauer_split_523.html" media-type="application/xhtml+xml"/>
+    <item id="id1205" href="Text/Schopenhauer_split_524.html" media-type="application/xhtml+xml"/>
+    <item id="id1204" href="Text/Schopenhauer_split_525.html" media-type="application/xhtml+xml"/>
+    <item id="id1203" href="Text/Schopenhauer_split_526.html" media-type="application/xhtml+xml"/>
+    <item id="id1202" href="Text/Schopenhauer_split_527.html" media-type="application/xhtml+xml"/>
+    <item id="id1201" href="Text/Schopenhauer_split_528.html" media-type="application/xhtml+xml"/>
+    <item id="id1200" href="Text/Schopenhauer_split_529.html" media-type="application/xhtml+xml"/>
+    <item id="id1199" href="Text/Schopenhauer_split_530.html" media-type="application/xhtml+xml"/>
+    <item id="id1198" href="Text/Schopenhauer_split_531.html" media-type="application/xhtml+xml"/>
+    <item id="id1197" href="Text/Schopenhauer_split_532.html" media-type="application/xhtml+xml"/>
+    <item id="id1196" href="Text/Schopenhauer_split_533.html" media-type="application/xhtml+xml"/>
+    <item id="id1195" href="Text/Schopenhauer_split_534.html" media-type="application/xhtml+xml"/>
+    <item id="id1194" href="Text/Schopenhauer_split_535.html" media-type="application/xhtml+xml"/>
+    <item id="id1193" href="Text/Schopenhauer_split_536.html" media-type="application/xhtml+xml"/>
+    <item id="id1192" href="Text/Schopenhauer_split_537.html" media-type="application/xhtml+xml"/>
+    <item id="id1191" href="Text/Schopenhauer_split_538.html" media-type="application/xhtml+xml"/>
+    <item id="id1190" href="Text/Schopenhauer_split_539.html" media-type="application/xhtml+xml"/>
+    <item id="id1189" href="Text/Schopenhauer_split_540.html" media-type="application/xhtml+xml"/>
+    <item id="id1188" href="Text/Schopenhauer_split_541.html" media-type="application/xhtml+xml"/>
+    <item id="id1187" href="Text/Schopenhauer_split_542.html" media-type="application/xhtml+xml"/>
+    <item id="id1186" href="Text/Schopenhauer_split_543.html" media-type="application/xhtml+xml"/>
+    <item id="id1185" href="Text/Schopenhauer_split_544.html" media-type="application/xhtml+xml"/>
+    <item id="id1184" href="Text/Schopenhauer_split_545.html" media-type="application/xhtml+xml"/>
+    <item id="id1183" href="Text/Schopenhauer_split_546.html" media-type="application/xhtml+xml"/>
+    <item id="id1182" href="Text/Schopenhauer_split_547.html" media-type="application/xhtml+xml"/>
+    <item id="id1181" href="Text/Schopenhauer_split_548.html" media-type="application/xhtml+xml"/>
+    <item id="id1180" href="Text/Schopenhauer_split_549.html" media-type="application/xhtml+xml"/>
+    <item id="id1179" href="Text/Schopenhauer_split_550.html" media-type="application/xhtml+xml"/>
+    <item id="id1178" href="Text/Schopenhauer_split_551.html" media-type="application/xhtml+xml"/>
+    <item id="id1177" href="Text/Schopenhauer_split_552.html" media-type="application/xhtml+xml"/>
+    <item id="id1176" href="Text/Schopenhauer_split_553.html" media-type="application/xhtml+xml"/>
+    <item id="id1175" href="Text/Schopenhauer_split_554.html" media-type="application/xhtml+xml"/>
+    <item id="id1174" href="Text/Schopenhauer_split_555.html" media-type="application/xhtml+xml"/>
+    <item id="id1173" href="Text/Schopenhauer_split_556.html" media-type="application/xhtml+xml"/>
+    <item id="id1172" href="Text/Schopenhauer_split_557.html" media-type="application/xhtml+xml"/>
+    <item id="id1171" href="Text/Schopenhauer_split_558.html" media-type="application/xhtml+xml"/>
+    <item id="id1170" href="Text/Schopenhauer_split_559.html" media-type="application/xhtml+xml"/>
+    <item id="id1169" href="Text/Schopenhauer_split_560.html" media-type="application/xhtml+xml"/>
+    <item id="id1168" href="Text/Schopenhauer_split_561.html" media-type="application/xhtml+xml"/>
+    <item id="id1167" href="Text/Schopenhauer_split_562.html" media-type="application/xhtml+xml"/>
+    <item id="id1166" href="Text/Schopenhauer_split_563.html" media-type="application/xhtml+xml"/>
+    <item id="id1165" href="Text/Schopenhauer_split_564.html" media-type="application/xhtml+xml"/>
+    <item id="id1164" href="Text/Schopenhauer_split_565.html" media-type="application/xhtml+xml"/>
+    <item id="id1163" href="Text/Schopenhauer_split_566.html" media-type="application/xhtml+xml"/>
+    <item id="id1162" href="Text/Schopenhauer_split_567.html" media-type="application/xhtml+xml"/>
+    <item id="id1161" href="Text/Schopenhauer_split_568.html" media-type="application/xhtml+xml"/>
+    <item id="id1160" href="Text/Schopenhauer_split_569.html" media-type="application/xhtml+xml"/>
+    <item id="id1159" href="Text/Schopenhauer_split_570.html" media-type="application/xhtml+xml"/>
+    <item id="id1158" href="Text/Schopenhauer_split_571.html" media-type="application/xhtml+xml"/>
+    <item id="id1157" href="Text/Schopenhauer_split_572.html" media-type="application/xhtml+xml"/>
+    <item id="id1156" href="Text/Schopenhauer_split_573.html" media-type="application/xhtml+xml"/>
+    <item id="id1155" href="Text/Schopenhauer_split_574.html" media-type="application/xhtml+xml"/>
+    <item id="id1154" href="Text/Schopenhauer_split_575.html" media-type="application/xhtml+xml"/>
+    <item id="id1153" href="Text/Schopenhauer_split_576.html" media-type="application/xhtml+xml"/>
+    <item id="id1152" href="Text/Schopenhauer_split_577.html" media-type="application/xhtml+xml"/>
+    <item id="id1151" href="Text/Schopenhauer_split_578.html" media-type="application/xhtml+xml"/>
+    <item id="id1150" href="Text/Schopenhauer_split_579.html" media-type="application/xhtml+xml"/>
+    <item id="id1149" href="Text/Schopenhauer_split_580.html" media-type="application/xhtml+xml"/>
+    <item id="id1148" href="Text/Schopenhauer_split_581.html" media-type="application/xhtml+xml"/>
+    <item id="id1147" href="Text/Schopenhauer_split_582.html" media-type="application/xhtml+xml"/>
+    <item id="id1146" href="Text/Schopenhauer_split_583.html" media-type="application/xhtml+xml"/>
+    <item id="id1145" href="Text/Schopenhauer_split_584.html" media-type="application/xhtml+xml"/>
+    <item id="id1144" href="Text/Schopenhauer_split_585.html" media-type="application/xhtml+xml"/>
+    <item id="id1143" href="Text/Schopenhauer_split_586.html" media-type="application/xhtml+xml"/>
+    <item id="id1142" href="Text/Schopenhauer_split_587.html" media-type="application/xhtml+xml"/>
+    <item id="id1141" href="Text/Schopenhauer_split_588.html" media-type="application/xhtml+xml"/>
+    <item id="id1140" href="Text/Schopenhauer_split_589.html" media-type="application/xhtml+xml"/>
+    <item id="id1139" href="Text/Schopenhauer_split_590.html" media-type="application/xhtml+xml"/>
+    <item id="id1138" href="Text/Schopenhauer_split_591.html" media-type="application/xhtml+xml"/>
+    <item id="id1137" href="Text/Schopenhauer_split_592.html" media-type="application/xhtml+xml"/>
+    <item id="id1136" href="Text/Schopenhauer_split_593.html" media-type="application/xhtml+xml"/>
+    <item id="id1135" href="Text/Schopenhauer_split_594.html" media-type="application/xhtml+xml"/>
+    <item id="id1134" href="Text/Schopenhauer_split_595.html" media-type="application/xhtml+xml"/>
+    <item id="id1133" href="Text/Schopenhauer_split_596.html" media-type="application/xhtml+xml"/>
+    <item id="id1132" href="Text/Schopenhauer_split_597.html" media-type="application/xhtml+xml"/>
+    <item id="id1131" href="Text/Schopenhauer_split_598.html" media-type="application/xhtml+xml"/>
+    <item id="id1130" href="Text/Schopenhauer_split_599.html" media-type="application/xhtml+xml"/>
+    <item id="id1129" href="Text/Schopenhauer_split_600.html" media-type="application/xhtml+xml"/>
+    <item id="id1128" href="Text/Schopenhauer_split_601.html" media-type="application/xhtml+xml"/>
+    <item id="id1127" href="Text/Schopenhauer_split_602.html" media-type="application/xhtml+xml"/>
+    <item id="id1126" href="Text/Schopenhauer_split_603.html" media-type="application/xhtml+xml"/>
+    <item id="id1125" href="Text/Schopenhauer_split_604.html" media-type="application/xhtml+xml"/>
+    <item id="id1124" href="Text/Schopenhauer_split_605.html" media-type="application/xhtml+xml"/>
+    <item id="id1123" href="Text/Schopenhauer_split_606.html" media-type="application/xhtml+xml"/>
+    <item id="id1122" href="Text/Schopenhauer_split_607.html" media-type="application/xhtml+xml"/>
+    <item id="id1121" href="Text/Schopenhauer_split_608.html" media-type="application/xhtml+xml"/>
+    <item id="id1120" href="Text/Schopenhauer_split_609.html" media-type="application/xhtml+xml"/>
+    <item id="id1119" href="Text/Schopenhauer_split_610.html" media-type="application/xhtml+xml"/>
+    <item id="id1118" href="Text/Schopenhauer_split_611.html" media-type="application/xhtml+xml"/>
+    <item id="id1117" href="Text/Schopenhauer_split_612.html" media-type="application/xhtml+xml"/>
+    <item id="id1116" href="Text/Schopenhauer_split_613.html" media-type="application/xhtml+xml"/>
+    <item id="id1115" href="Text/Schopenhauer_split_614.html" media-type="application/xhtml+xml"/>
+    <item id="id1114" href="Text/Schopenhauer_split_615.html" media-type="application/xhtml+xml"/>
+    <item id="id1113" href="Text/Schopenhauer_split_616.html" media-type="application/xhtml+xml"/>
+    <item id="id1112" href="Text/Schopenhauer_split_617.html" media-type="application/xhtml+xml"/>
+    <item id="id1111" href="Text/Schopenhauer_split_618.html" media-type="application/xhtml+xml"/>
+    <item id="id1110" href="Text/Schopenhauer_split_619.html" media-type="application/xhtml+xml"/>
+    <item id="id1109" href="Text/Schopenhauer_split_620.html" media-type="application/xhtml+xml"/>
+    <item id="id1108" href="Text/Schopenhauer_split_621.html" media-type="application/xhtml+xml"/>
+    <item id="id1107" href="Text/Schopenhauer_split_622.html" media-type="application/xhtml+xml"/>
+    <item id="id1106" href="Text/Schopenhauer_split_623.html" media-type="application/xhtml+xml"/>
+    <item id="id1105" href="Text/Schopenhauer_split_624.html" media-type="application/xhtml+xml"/>
+    <item id="id1104" href="Text/Schopenhauer_split_625.html" media-type="application/xhtml+xml"/>
+    <item id="id1103" href="Text/Schopenhauer_split_626.html" media-type="application/xhtml+xml"/>
+    <item id="id1102" href="Text/Schopenhauer_split_627.html" media-type="application/xhtml+xml"/>
+    <item id="id1101" href="Text/Schopenhauer_split_628.html" media-type="application/xhtml+xml"/>
+    <item id="id1100" href="Text/Schopenhauer_split_629.html" media-type="application/xhtml+xml"/>
+    <item id="id199" href="Text/Schopenhauer_split_630.html" media-type="application/xhtml+xml"/>
+    <item id="id198" href="Text/Schopenhauer_split_631.html" media-type="application/xhtml+xml"/>
+    <item id="id197" href="Text/Schopenhauer_split_632.html" media-type="application/xhtml+xml"/>
+    <item id="id196" href="Text/Schopenhauer_split_633.html" media-type="application/xhtml+xml"/>
+    <item id="id195" href="Text/Schopenhauer_split_634.html" media-type="application/xhtml+xml"/>
+    <item id="id194" href="Text/Schopenhauer_split_635.html" media-type="application/xhtml+xml"/>
+    <item id="id193" href="Text/Schopenhauer_split_636.html" media-type="application/xhtml+xml"/>
+    <item id="id192" href="Text/Schopenhauer_split_637.html" media-type="application/xhtml+xml"/>
+    <item id="id191" href="Text/Schopenhauer_split_638.html" media-type="application/xhtml+xml"/>
+    <item id="id190" href="Text/Schopenhauer_split_639.html" media-type="application/xhtml+xml"/>
+    <item id="id189" href="Text/Schopenhauer_split_640.html" media-type="application/xhtml+xml"/>
+    <item id="id188" href="Text/Schopenhauer_split_641.html" media-type="application/xhtml+xml"/>
+    <item id="id187" href="Text/Schopenhauer_split_642.html" media-type="application/xhtml+xml"/>
+    <item id="id186" href="Text/Schopenhauer_split_643.html" media-type="application/xhtml+xml"/>
+    <item id="id185" href="Text/Schopenhauer_split_644.html" media-type="application/xhtml+xml"/>
+    <item id="id184" href="Text/Schopenhauer_split_645.html" media-type="application/xhtml+xml"/>
+    <item id="id183" href="Text/Schopenhauer_split_646.html" media-type="application/xhtml+xml"/>
+    <item id="id182" href="Text/Schopenhauer_split_647.html" media-type="application/xhtml+xml"/>
+    <item id="id181" href="Text/Schopenhauer_split_648.html" media-type="application/xhtml+xml"/>
+    <item id="id180" href="Text/Schopenhauer_split_649.html" media-type="application/xhtml+xml"/>
+    <item id="id179" href="Text/Schopenhauer_split_650.html" media-type="application/xhtml+xml"/>
+    <item id="id178" href="Text/Schopenhauer_split_651.html" media-type="application/xhtml+xml"/>
+    <item id="id177" href="Text/Schopenhauer_split_652.html" media-type="application/xhtml+xml"/>
+    <item id="id176" href="Text/Schopenhauer_split_653.html" media-type="application/xhtml+xml"/>
+    <item id="id175" href="Text/Schopenhauer_split_654.html" media-type="application/xhtml+xml"/>
+    <item id="id174" href="Text/Schopenhauer_split_655.html" media-type="application/xhtml+xml"/>
+    <item id="id173" href="Text/Schopenhauer_split_656.html" media-type="application/xhtml+xml"/>
+    <item id="id172" href="Text/Schopenhauer_split_657.html" media-type="application/xhtml+xml"/>
+    <item id="id171" href="Text/Schopenhauer_split_658.html" media-type="application/xhtml+xml"/>
+    <item id="id170" href="Text/Schopenhauer_split_659.html" media-type="application/xhtml+xml"/>
+    <item id="id169" href="Text/Schopenhauer_split_660.html" media-type="application/xhtml+xml"/>
+    <item id="id168" href="Text/Schopenhauer_split_661.html" media-type="application/xhtml+xml"/>
+    <item id="id167" href="Text/Schopenhauer_split_662.html" media-type="application/xhtml+xml"/>
+    <item id="id166" href="Text/Schopenhauer_split_663.html" media-type="application/xhtml+xml"/>
+    <item id="id165" href="Text/Schopenhauer_split_664.html" media-type="application/xhtml+xml"/>
+    <item id="id164" href="Text/Schopenhauer_split_665.html" media-type="application/xhtml+xml"/>
+    <item id="id163" href="Text/Schopenhauer_split_666.html" media-type="application/xhtml+xml"/>
+    <item id="id162" href="Text/Schopenhauer_split_667.html" media-type="application/xhtml+xml"/>
+    <item id="id161" href="Text/Schopenhauer_split_668.html" media-type="application/xhtml+xml"/>
+    <item id="id160" href="Text/Schopenhauer_split_669.html" media-type="application/xhtml+xml"/>
+    <item id="id159" href="Text/Schopenhauer_split_670.html" media-type="application/xhtml+xml"/>
+    <item id="id158" href="Text/Schopenhauer_split_671.html" media-type="application/xhtml+xml"/>
+    <item id="id157" href="Text/Schopenhauer_split_672.html" media-type="application/xhtml+xml"/>
+    <item id="id156" href="Text/Schopenhauer_split_673.html" media-type="application/xhtml+xml"/>
+    <item id="id155" href="Text/Schopenhauer_split_674.html" media-type="application/xhtml+xml"/>
+    <item id="id154" href="Text/Schopenhauer_split_675.html" media-type="application/xhtml+xml"/>
+    <item id="id153" href="Text/Schopenhauer_split_676.html" media-type="application/xhtml+xml"/>
+    <item id="id152" href="Text/Schopenhauer_split_677.html" media-type="application/xhtml+xml"/>
+    <item id="id151" href="Text/Schopenhauer_split_678.html" media-type="application/xhtml+xml"/>
+    <item id="id150" href="Text/Schopenhauer_split_679.html" media-type="application/xhtml+xml"/>
+    <item id="id149" href="Text/Schopenhauer_split_680.html" media-type="application/xhtml+xml"/>
+    <item id="id148" href="Text/Schopenhauer_split_681.html" media-type="application/xhtml+xml"/>
+    <item id="id147" href="Text/Schopenhauer_split_682.html" media-type="application/xhtml+xml"/>
+    <item id="id146" href="Text/Schopenhauer_split_683.html" media-type="application/xhtml+xml"/>
+    <item id="id145" href="Text/Schopenhauer_split_684.html" media-type="application/xhtml+xml"/>
+    <item id="id144" href="Text/Schopenhauer_split_685.html" media-type="application/xhtml+xml"/>
+    <item id="id143" href="Text/Schopenhauer_split_686.html" media-type="application/xhtml+xml"/>
+    <item id="id142" href="Text/Schopenhauer_split_687.html" media-type="application/xhtml+xml"/>
+    <item id="id141" href="Text/Schopenhauer_split_688.html" media-type="application/xhtml+xml"/>
+    <item id="id140" href="Text/Schopenhauer_split_689.html" media-type="application/xhtml+xml"/>
+    <item id="id139" href="Text/Schopenhauer_split_690.html" media-type="application/xhtml+xml"/>
+    <item id="id138" href="Text/Schopenhauer_split_691.html" media-type="application/xhtml+xml"/>
+    <item id="id137" href="Text/Schopenhauer_split_692.html" media-type="application/xhtml+xml"/>
+    <item id="id136" href="Text/Schopenhauer_split_693.html" media-type="application/xhtml+xml"/>
+    <item id="id135" href="Text/Schopenhauer_split_694.html" media-type="application/xhtml+xml"/>
+    <item id="id134" href="Text/Schopenhauer_split_695.html" media-type="application/xhtml+xml"/>
+    <item id="id133" href="Text/Schopenhauer_split_696.html" media-type="application/xhtml+xml"/>
+    <item id="id132" href="Text/Schopenhauer_split_697.html" media-type="application/xhtml+xml"/>
+    <item id="id131" href="Text/Schopenhauer_split_698.html" media-type="application/xhtml+xml"/>
+    <item id="id130" href="Text/Schopenhauer_split_699.html" media-type="application/xhtml+xml"/>
+    <item id="id129" href="Text/Schopenhauer_split_700.html" media-type="application/xhtml+xml"/>
+    <item id="id128" href="Text/Schopenhauer_split_701.html" media-type="application/xhtml+xml"/>
+    <item id="id127" href="Text/Schopenhauer_split_702.html" media-type="application/xhtml+xml"/>
+    <item id="id126" href="Text/Schopenhauer_split_703.html" media-type="application/xhtml+xml"/>
+    <item id="id125" href="Text/Schopenhauer_split_704.html" media-type="application/xhtml+xml"/>
+    <item id="id124" href="Text/Schopenhauer_split_705.html" media-type="application/xhtml+xml"/>
+    <item id="id123" href="Text/Schopenhauer_split_706.html" media-type="application/xhtml+xml"/>
+    <item id="id122" href="Text/Schopenhauer_split_707.html" media-type="application/xhtml+xml"/>
+    <item id="id121" href="Text/Schopenhauer_split_708.html" media-type="application/xhtml+xml"/>
+    <item id="id120" href="Text/Schopenhauer_split_709.html" media-type="application/xhtml+xml"/>
+    <item id="id119" href="Text/Schopenhauer_split_710.html" media-type="application/xhtml+xml"/>
+    <item id="id118" href="Text/Schopenhauer_split_711.html" media-type="application/xhtml+xml"/>
+    <item id="id117" href="Text/Schopenhauer_split_712.html" media-type="application/xhtml+xml"/>
+    <item id="id116" href="Text/Schopenhauer_split_713.html" media-type="application/xhtml+xml"/>
+    <item id="id115" href="Text/Schopenhauer_split_714.html" media-type="application/xhtml+xml"/>
+    <item id="id114" href="Text/Schopenhauer_split_715.html" media-type="application/xhtml+xml"/>
+    <item id="id113" href="Text/Schopenhauer_split_716.html" media-type="application/xhtml+xml"/>
+    <item id="id112" href="Text/Schopenhauer_split_717.html" media-type="application/xhtml+xml"/>
+    <item id="id111" href="Text/Schopenhauer_split_718.html" media-type="application/xhtml+xml"/>
+    <item id="id110" href="Text/Schopenhauer_split_719.html" media-type="application/xhtml+xml"/>
+    <item id="id19" href="Text/Schopenhauer_split_720.html" media-type="application/xhtml+xml"/>
+    <item id="id18" href="Text/Schopenhauer_split_721.html" media-type="application/xhtml+xml"/>
+    <item id="id17" href="Text/Schopenhauer_split_722.html" media-type="application/xhtml+xml"/>
+    <item id="id16" href="Text/Schopenhauer_split_723.html" media-type="application/xhtml+xml"/>
+    <item id="id15" href="Text/Schopenhauer_split_724.html" media-type="application/xhtml+xml"/>
+    <item id="id14" href="Text/Schopenhauer_split_725.html" media-type="application/xhtml+xml"/>
+    <item id="id13" href="Text/Schopenhauer_split_726.html" media-type="application/xhtml+xml"/>
+    <item id="id12" href="Text/Schopenhauer_split_727.html" media-type="application/xhtml+xml"/>
+    <item id="id11" href="Text/Schopenhauer_split_728.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
+    <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="SELCOEPUB_BARCOD_1.png" href="Images/SELCOEPUB BARCOD 1.png" media-type="image/png"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="jacket"/>
+    <itemref idref="id1729"/>
+    <itemref idref="id1728"/>
+    <itemref idref="id1727"/>
+    <itemref idref="id1725"/>
+    <itemref idref="id1724"/>
+    <itemref idref="id1722"/>
+    <itemref idref="id1721"/>
+    <itemref idref="id1720"/>
+    <itemref idref="id1719"/>
+    <itemref idref="id1718"/>
+    <itemref idref="id1717"/>
+    <itemref idref="id1716"/>
+    <itemref idref="id1714"/>
+    <itemref idref="id1713"/>
+    <itemref idref="id1712"/>
+    <itemref idref="id1711"/>
+    <itemref idref="id1710"/>
+    <itemref idref="id1709"/>
+    <itemref idref="id1708"/>
+    <itemref idref="id1707"/>
+    <itemref idref="id1706"/>
+    <itemref idref="id1705"/>
+    <itemref idref="id1704"/>
+    <itemref idref="id1703"/>
+    <itemref idref="id1702"/>
+    <itemref idref="id1701"/>
+    <itemref idref="id1700"/>
+    <itemref idref="id1699"/>
+    <itemref idref="id1697"/>
+    <itemref idref="id1696"/>
+    <itemref idref="id1695"/>
+    <itemref idref="id1694"/>
+    <itemref idref="id1692"/>
+    <itemref idref="id1691"/>
+    <itemref idref="id1689"/>
+    <itemref idref="id1688"/>
+    <itemref idref="id1687"/>
+    <itemref idref="id1686"/>
+    <itemref idref="id1685"/>
+    <itemref idref="id1684"/>
+    <itemref idref="id1683"/>
+    <itemref idref="id1682"/>
+    <itemref idref="id1681"/>
+    <itemref idref="id1680"/>
+    <itemref idref="id1679"/>
+    <itemref idref="id1678"/>
+    <itemref idref="id1677"/>
+    <itemref idref="id1676"/>
+    <itemref idref="id1675"/>
+    <itemref idref="id1674"/>
+    <itemref idref="id1673"/>
+    <itemref idref="id1672"/>
+    <itemref idref="id1671"/>
+    <itemref idref="id1670"/>
+    <itemref idref="id1669"/>
+    <itemref idref="id1668"/>
+    <itemref idref="id1667"/>
+    <itemref idref="id1666"/>
+    <itemref idref="id1665"/>
+    <itemref idref="id1664"/>
+    <itemref idref="id1663"/>
+    <itemref idref="id1662"/>
+    <itemref idref="id1661"/>
+    <itemref idref="id1660"/>
+    <itemref idref="id1659"/>
+    <itemref idref="id1658"/>
+    <itemref idref="id1657"/>
+    <itemref idref="id1656"/>
+    <itemref idref="id1655"/>
+    <itemref idref="id1654"/>
+    <itemref idref="id1653"/>
+    <itemref idref="id1652"/>
+    <itemref idref="id1651"/>
+    <itemref idref="id1650"/>
+    <itemref idref="id1649"/>
+    <itemref idref="id1648"/>
+    <itemref idref="id1647"/>
+    <itemref idref="id1646"/>
+    <itemref idref="id1645"/>
+    <itemref idref="id1644"/>
+    <itemref idref="id1643"/>
+    <itemref idref="id1642"/>
+    <itemref idref="id1641"/>
+    <itemref idref="id1640"/>
+    <itemref idref="id1639"/>
+    <itemref idref="id1638"/>
+    <itemref idref="id1637"/>
+    <itemref idref="id1636"/>
+    <itemref idref="id1635"/>
+    <itemref idref="id1634"/>
+    <itemref idref="id1633"/>
+    <itemref idref="id1632"/>
+    <itemref idref="id1631"/>
+    <itemref idref="id1630"/>
+    <itemref idref="id1629"/>
+    <itemref idref="id1628"/>
+    <itemref idref="id1627"/>
+    <itemref idref="id1626"/>
+    <itemref idref="id1625"/>
+    <itemref idref="id1624"/>
+    <itemref idref="id1623"/>
+    <itemref idref="id1622"/>
+    <itemref idref="id1621"/>
+    <itemref idref="id1620"/>
+    <itemref idref="id1619"/>
+    <itemref idref="id1618"/>
+    <itemref idref="id1617"/>
+    <itemref idref="id1616"/>
+    <itemref idref="id1615"/>
+    <itemref idref="id1614"/>
+    <itemref idref="id1613"/>
+    <itemref idref="id1612"/>
+    <itemref idref="id1611"/>
+    <itemref idref="id1610"/>
+    <itemref idref="id1609"/>
+    <itemref idref="id1608"/>
+    <itemref idref="id1607"/>
+    <itemref idref="id1606"/>
+    <itemref idref="id1605"/>
+    <itemref idref="id1604"/>
+    <itemref idref="id1603"/>
+    <itemref idref="id1602"/>
+    <itemref idref="id1601"/>
+    <itemref idref="id1600"/>
+    <itemref idref="id1599"/>
+    <itemref idref="id1598"/>
+    <itemref idref="id1597"/>
+    <itemref idref="id1596"/>
+    <itemref idref="id1595"/>
+    <itemref idref="id1594"/>
+    <itemref idref="id1593"/>
+    <itemref idref="id1592"/>
+    <itemref idref="id1591"/>
+    <itemref idref="id1590"/>
+    <itemref idref="id1589"/>
+    <itemref idref="id1588"/>
+    <itemref idref="id1587"/>
+    <itemref idref="id1586"/>
+    <itemref idref="id1585"/>
+    <itemref idref="id1584"/>
+    <itemref idref="id1583"/>
+    <itemref idref="id1582"/>
+    <itemref idref="id1581"/>
+    <itemref idref="id1580"/>
+    <itemref idref="id1579"/>
+    <itemref idref="id1578"/>
+    <itemref idref="id1577"/>
+    <itemref idref="id1576"/>
+    <itemref idref="id1575"/>
+    <itemref idref="id1574"/>
+    <itemref idref="id1573"/>
+    <itemref idref="id1572"/>
+    <itemref idref="id1571"/>
+    <itemref idref="id1570"/>
+    <itemref idref="id1569"/>
+    <itemref idref="id1568"/>
+    <itemref idref="id1567"/>
+    <itemref idref="id1566"/>
+    <itemref idref="id1565"/>
+    <itemref idref="id1564"/>
+    <itemref idref="id1563"/>
+    <itemref idref="id1562"/>
+    <itemref idref="id1561"/>
+    <itemref idref="id1560"/>
+    <itemref idref="id1559"/>
+    <itemref idref="id1558"/>
+    <itemref idref="id1557"/>
+    <itemref idref="id1556"/>
+    <itemref idref="id1555"/>
+    <itemref idref="id1554"/>
+    <itemref idref="id1553"/>
+    <itemref idref="id1552"/>
+    <itemref idref="id1551"/>
+    <itemref idref="id1550"/>
+    <itemref idref="id1549"/>
+    <itemref idref="id1548"/>
+    <itemref idref="id1547"/>
+    <itemref idref="id1546"/>
+    <itemref idref="id1545"/>
+    <itemref idref="id1544"/>
+    <itemref idref="id1543"/>
+    <itemref idref="id1542"/>
+    <itemref idref="id1541"/>
+    <itemref idref="id1540"/>
+    <itemref idref="id1539"/>
+    <itemref idref="id1538"/>
+    <itemref idref="id1537"/>
+    <itemref idref="id1536"/>
+    <itemref idref="id1535"/>
+    <itemref idref="id1534"/>
+    <itemref idref="id1533"/>
+    <itemref idref="id1532"/>
+    <itemref idref="id1531"/>
+    <itemref idref="id1530"/>
+    <itemref idref="id1529"/>
+    <itemref idref="id1528"/>
+    <itemref idref="id1527"/>
+    <itemref idref="id1526"/>
+    <itemref idref="id1525"/>
+    <itemref idref="id1524"/>
+    <itemref idref="id1523"/>
+    <itemref idref="id1522"/>
+    <itemref idref="id1521"/>
+    <itemref idref="id1520"/>
+    <itemref idref="id1519"/>
+    <itemref idref="id1518"/>
+    <itemref idref="id1517"/>
+    <itemref idref="id1516"/>
+    <itemref idref="id1515"/>
+    <itemref idref="id1514"/>
+    <itemref idref="id1513"/>
+    <itemref idref="id1512"/>
+    <itemref idref="id1511"/>
+    <itemref idref="id1510"/>
+    <itemref idref="id1509"/>
+    <itemref idref="id1508"/>
+    <itemref idref="id1507"/>
+    <itemref idref="id1506"/>
+    <itemref idref="id1505"/>
+    <itemref idref="id1504"/>
+    <itemref idref="id1503"/>
+    <itemref idref="id1502"/>
+    <itemref idref="id1501"/>
+    <itemref idref="id1500"/>
+    <itemref idref="id1499"/>
+    <itemref idref="id1498"/>
+    <itemref idref="id1497"/>
+    <itemref idref="id1496"/>
+    <itemref idref="id1495"/>
+    <itemref idref="id1494"/>
+    <itemref idref="id1493"/>
+    <itemref idref="id1492"/>
+    <itemref idref="id1491"/>
+    <itemref idref="id1490"/>
+    <itemref idref="id1489"/>
+    <itemref idref="id1488"/>
+    <itemref idref="id1487"/>
+    <itemref idref="id1486"/>
+    <itemref idref="id1485"/>
+    <itemref idref="id1484"/>
+    <itemref idref="id1483"/>
+    <itemref idref="id1482"/>
+    <itemref idref="id1481"/>
+    <itemref idref="id1480"/>
+    <itemref idref="id1479"/>
+    <itemref idref="id1478"/>
+    <itemref idref="id1477"/>
+    <itemref idref="id1476"/>
+    <itemref idref="id1475"/>
+    <itemref idref="id1474"/>
+    <itemref idref="id1473"/>
+    <itemref idref="id1472"/>
+    <itemref idref="id1471"/>
+    <itemref idref="id1470"/>
+    <itemref idref="id1469"/>
+    <itemref idref="id1468"/>
+    <itemref idref="id1467"/>
+    <itemref idref="id1466"/>
+    <itemref idref="id1465"/>
+    <itemref idref="id1464"/>
+    <itemref idref="id1463"/>
+    <itemref idref="id1462"/>
+    <itemref idref="id1461"/>
+    <itemref idref="id1460"/>
+    <itemref idref="id1459"/>
+    <itemref idref="id1458"/>
+    <itemref idref="id1457"/>
+    <itemref idref="id1456"/>
+    <itemref idref="id1455"/>
+    <itemref idref="id1454"/>
+    <itemref idref="id1453"/>
+    <itemref idref="id1452"/>
+    <itemref idref="id1451"/>
+    <itemref idref="id1450"/>
+    <itemref idref="id1449"/>
+    <itemref idref="id1448"/>
+    <itemref idref="id1447"/>
+    <itemref idref="id1446"/>
+    <itemref idref="id1445"/>
+    <itemref idref="id1444"/>
+    <itemref idref="id1443"/>
+    <itemref idref="id1442"/>
+    <itemref idref="id1441"/>
+    <itemref idref="id1440"/>
+    <itemref idref="id1439"/>
+    <itemref idref="id1438"/>
+    <itemref idref="id1437"/>
+    <itemref idref="id1436"/>
+    <itemref idref="id1435"/>
+    <itemref idref="id1434"/>
+    <itemref idref="id1433"/>
+    <itemref idref="id1432"/>
+    <itemref idref="id1431"/>
+    <itemref idref="id1430"/>
+    <itemref idref="id1429"/>
+    <itemref idref="id1428"/>
+    <itemref idref="id1427"/>
+    <itemref idref="id1426"/>
+    <itemref idref="id1425"/>
+    <itemref idref="id1424"/>
+    <itemref idref="id1423"/>
+    <itemref idref="id1422"/>
+    <itemref idref="id1421"/>
+    <itemref idref="id1420"/>
+    <itemref idref="id1419"/>
+    <itemref idref="id1418"/>
+    <itemref idref="id1417"/>
+    <itemref idref="id1416"/>
+    <itemref idref="id1415"/>
+    <itemref idref="id1414"/>
+    <itemref idref="id1413"/>
+    <itemref idref="id1412"/>
+    <itemref idref="id1411"/>
+    <itemref idref="id1410"/>
+    <itemref idref="id1409"/>
+    <itemref idref="id1408"/>
+    <itemref idref="id1407"/>
+    <itemref idref="id1406"/>
+    <itemref idref="id1405"/>
+    <itemref idref="id1404"/>
+    <itemref idref="id1403"/>
+    <itemref idref="id1402"/>
+    <itemref idref="id1401"/>
+    <itemref idref="id1400"/>
+    <itemref idref="id1399"/>
+    <itemref idref="id1398"/>
+    <itemref idref="id1397"/>
+    <itemref idref="id1396"/>
+    <itemref idref="id1395"/>
+    <itemref idref="id1394"/>
+    <itemref idref="id1393"/>
+    <itemref idref="id1392"/>
+    <itemref idref="id1391"/>
+    <itemref idref="id1390"/>
+    <itemref idref="id1389"/>
+    <itemref idref="id1388"/>
+    <itemref idref="id1387"/>
+    <itemref idref="id1386"/>
+    <itemref idref="id1385"/>
+    <itemref idref="id1384"/>
+    <itemref idref="id1383"/>
+    <itemref idref="id1382"/>
+    <itemref idref="id1381"/>
+    <itemref idref="id1380"/>
+    <itemref idref="id1379"/>
+    <itemref idref="id1378"/>
+    <itemref idref="id1377"/>
+    <itemref idref="id1376"/>
+    <itemref idref="id1375"/>
+    <itemref idref="id1374"/>
+    <itemref idref="id1373"/>
+    <itemref idref="id1372"/>
+    <itemref idref="id1371"/>
+    <itemref idref="id1370"/>
+    <itemref idref="id1369"/>
+    <itemref idref="id1368"/>
+    <itemref idref="id1367"/>
+    <itemref idref="id1366"/>
+    <itemref idref="id1365"/>
+    <itemref idref="id1364"/>
+    <itemref idref="id1363"/>
+    <itemref idref="id1362"/>
+    <itemref idref="id1361"/>
+    <itemref idref="id1360"/>
+    <itemref idref="id1359"/>
+    <itemref idref="id1358"/>
+    <itemref idref="id1357"/>
+    <itemref idref="id1356"/>
+    <itemref idref="id1355"/>
+    <itemref idref="id1354"/>
+    <itemref idref="id1353"/>
+    <itemref idref="id1352"/>
+    <itemref idref="id1351"/>
+    <itemref idref="id1350"/>
+    <itemref idref="id1349"/>
+    <itemref idref="id1348"/>
+    <itemref idref="id1347"/>
+    <itemref idref="id1346"/>
+    <itemref idref="id1345"/>
+    <itemref idref="id1344"/>
+    <itemref idref="id1343"/>
+    <itemref idref="id1342"/>
+    <itemref idref="id1341"/>
+    <itemref idref="id1340"/>
+    <itemref idref="id1339"/>
+    <itemref idref="id1338"/>
+    <itemref idref="id1337"/>
+    <itemref idref="id1336"/>
+    <itemref idref="id1335"/>
+    <itemref idref="id1334"/>
+    <itemref idref="id1333"/>
+    <itemref idref="id1332"/>
+    <itemref idref="id1331"/>
+    <itemref idref="id1330"/>
+    <itemref idref="id1329"/>
+    <itemref idref="id1328"/>
+    <itemref idref="id1327"/>
+    <itemref idref="id1326"/>
+    <itemref idref="id1325"/>
+    <itemref idref="id1324"/>
+    <itemref idref="id1323"/>
+    <itemref idref="id1322"/>
+    <itemref idref="id1321"/>
+    <itemref idref="id1320"/>
+    <itemref idref="id1319"/>
+    <itemref idref="id1318"/>
+    <itemref idref="id1317"/>
+    <itemref idref="id1316"/>
+    <itemref idref="id1315"/>
+    <itemref idref="id1314"/>
+    <itemref idref="id1313"/>
+    <itemref idref="id1312"/>
+    <itemref idref="id1311"/>
+    <itemref idref="id1310"/>
+    <itemref idref="id1309"/>
+    <itemref idref="id1308"/>
+    <itemref idref="id1307"/>
+    <itemref idref="id1306"/>
+    <itemref idref="id1305"/>
+    <itemref idref="id1304"/>
+    <itemref idref="id1303"/>
+    <itemref idref="id1302"/>
+    <itemref idref="id1301"/>
+    <itemref idref="id1300"/>
+    <itemref idref="id1299"/>
+    <itemref idref="id1298"/>
+    <itemref idref="id1297"/>
+    <itemref idref="id1296"/>
+    <itemref idref="id1295"/>
+    <itemref idref="id1294"/>
+    <itemref idref="id1293"/>
+    <itemref idref="id1292"/>
+    <itemref idref="id1291"/>
+    <itemref idref="id1290"/>
+    <itemref idref="id1289"/>
+    <itemref idref="id1288"/>
+    <itemref idref="id1287"/>
+    <itemref idref="id1286"/>
+    <itemref idref="id1285"/>
+    <itemref idref="id1284"/>
+    <itemref idref="id1283"/>
+    <itemref idref="id1282"/>
+    <itemref idref="id1281"/>
+    <itemref idref="id1280"/>
+    <itemref idref="id1279"/>
+    <itemref idref="id1278"/>
+    <itemref idref="id1277"/>
+    <itemref idref="id1276"/>
+    <itemref idref="id1275"/>
+    <itemref idref="id1274"/>
+    <itemref idref="id1273"/>
+    <itemref idref="id1272"/>
+    <itemref idref="id1271"/>
+    <itemref idref="id1270"/>
+    <itemref idref="id1269"/>
+    <itemref idref="id1268"/>
+    <itemref idref="id1267"/>
+    <itemref idref="id1266"/>
+    <itemref idref="id1265"/>
+    <itemref idref="id1264"/>
+    <itemref idref="id1263"/>
+    <itemref idref="id1262"/>
+    <itemref idref="id1261"/>
+    <itemref idref="id1260"/>
+    <itemref idref="id1259"/>
+    <itemref idref="id1258"/>
+    <itemref idref="id1257"/>
+    <itemref idref="id1256"/>
+    <itemref idref="id1255"/>
+    <itemref idref="id1254"/>
+    <itemref idref="id1253"/>
+    <itemref idref="id1252"/>
+    <itemref idref="id1251"/>
+    <itemref idref="id1250"/>
+    <itemref idref="id1249"/>
+    <itemref idref="id1248"/>
+    <itemref idref="id1247"/>
+    <itemref idref="id1246"/>
+    <itemref idref="id1245"/>
+    <itemref idref="id1244"/>
+    <itemref idref="id1243"/>
+    <itemref idref="id1242"/>
+    <itemref idref="id1241"/>
+    <itemref idref="id1240"/>
+    <itemref idref="id1239"/>
+    <itemref idref="id1238"/>
+    <itemref idref="id1237"/>
+    <itemref idref="id1236"/>
+    <itemref idref="id1235"/>
+    <itemref idref="id1234"/>
+    <itemref idref="id1233"/>
+    <itemref idref="id1232"/>
+    <itemref idref="id1231"/>
+    <itemref idref="id1230"/>
+    <itemref idref="id1229"/>
+    <itemref idref="id1228"/>
+    <itemref idref="id1227"/>
+    <itemref idref="id1226"/>
+    <itemref idref="id1225"/>
+    <itemref idref="id1224"/>
+    <itemref idref="id1223"/>
+    <itemref idref="id1222"/>
+    <itemref idref="id1221"/>
+    <itemref idref="id1220"/>
+    <itemref idref="id1219"/>
+    <itemref idref="id1218"/>
+    <itemref idref="id1217"/>
+    <itemref idref="id1216"/>
+    <itemref idref="id1215"/>
+    <itemref idref="id1214"/>
+    <itemref idref="id1213"/>
+    <itemref idref="id1212"/>
+    <itemref idref="id1211"/>
+    <itemref idref="id1210"/>
+    <itemref idref="id1209"/>
+    <itemref idref="id1208"/>
+    <itemref idref="id1207"/>
+    <itemref idref="id1206"/>
+    <itemref idref="id1205"/>
+    <itemref idref="id1204"/>
+    <itemref idref="id1203"/>
+    <itemref idref="id1202"/>
+    <itemref idref="id1201"/>
+    <itemref idref="id1200"/>
+    <itemref idref="id1199"/>
+    <itemref idref="id1198"/>
+    <itemref idref="id1197"/>
+    <itemref idref="id1196"/>
+    <itemref idref="id1195"/>
+    <itemref idref="id1194"/>
+    <itemref idref="id1193"/>
+    <itemref idref="id1192"/>
+    <itemref idref="id1191"/>
+    <itemref idref="id1190"/>
+    <itemref idref="id1189"/>
+    <itemref idref="id1188"/>
+    <itemref idref="id1187"/>
+    <itemref idref="id1186"/>
+    <itemref idref="id1185"/>
+    <itemref idref="id1184"/>
+    <itemref idref="id1183"/>
+    <itemref idref="id1182"/>
+    <itemref idref="id1181"/>
+    <itemref idref="id1180"/>
+    <itemref idref="id1179"/>
+    <itemref idref="id1178"/>
+    <itemref idref="id1177"/>
+    <itemref idref="id1176"/>
+    <itemref idref="id1175"/>
+    <itemref idref="id1174"/>
+    <itemref idref="id1173"/>
+    <itemref idref="id1172"/>
+    <itemref idref="id1171"/>
+    <itemref idref="id1170"/>
+    <itemref idref="id1169"/>
+    <itemref idref="id1168"/>
+    <itemref idref="id1167"/>
+    <itemref idref="id1166"/>
+    <itemref idref="id1165"/>
+    <itemref idref="id1164"/>
+    <itemref idref="id1163"/>
+    <itemref idref="id1162"/>
+    <itemref idref="id1161"/>
+    <itemref idref="id1160"/>
+    <itemref idref="id1159"/>
+    <itemref idref="id1158"/>
+    <itemref idref="id1157"/>
+    <itemref idref="id1156"/>
+    <itemref idref="id1155"/>
+    <itemref idref="id1154"/>
+    <itemref idref="id1153"/>
+    <itemref idref="id1152"/>
+    <itemref idref="id1151"/>
+    <itemref idref="id1150"/>
+    <itemref idref="id1149"/>
+    <itemref idref="id1148"/>
+    <itemref idref="id1147"/>
+    <itemref idref="id1146"/>
+    <itemref idref="id1145"/>
+    <itemref idref="id1144"/>
+    <itemref idref="id1143"/>
+    <itemref idref="id1142"/>
+    <itemref idref="id1141"/>
+    <itemref idref="id1140"/>
+    <itemref idref="id1139"/>
+    <itemref idref="id1138"/>
+    <itemref idref="id1137"/>
+    <itemref idref="id1136"/>
+    <itemref idref="id1135"/>
+    <itemref idref="id1134"/>
+    <itemref idref="id1133"/>
+    <itemref idref="id1132"/>
+    <itemref idref="id1131"/>
+    <itemref idref="id1130"/>
+    <itemref idref="id1129"/>
+    <itemref idref="id1128"/>
+    <itemref idref="id1127"/>
+    <itemref idref="id1126"/>
+    <itemref idref="id1125"/>
+    <itemref idref="id1124"/>
+    <itemref idref="id1123"/>
+    <itemref idref="id1122"/>
+    <itemref idref="id1121"/>
+    <itemref idref="id1120"/>
+    <itemref idref="id1119"/>
+    <itemref idref="id1118"/>
+    <itemref idref="id1117"/>
+    <itemref idref="id1116"/>
+    <itemref idref="id1115"/>
+    <itemref idref="id1114"/>
+    <itemref idref="id1113"/>
+    <itemref idref="id1112"/>
+    <itemref idref="id1111"/>
+    <itemref idref="id1110"/>
+    <itemref idref="id1109"/>
+    <itemref idref="id1108"/>
+    <itemref idref="id1107"/>
+    <itemref idref="id1106"/>
+    <itemref idref="id1105"/>
+    <itemref idref="id1104"/>
+    <itemref idref="id1103"/>
+    <itemref idref="id1102"/>
+    <itemref idref="id1101"/>
+    <itemref idref="id1100"/>
+    <itemref idref="id199"/>
+    <itemref idref="id198"/>
+    <itemref idref="id197"/>
+    <itemref idref="id196"/>
+    <itemref idref="id195"/>
+    <itemref idref="id194"/>
+    <itemref idref="id193"/>
+    <itemref idref="id192"/>
+    <itemref idref="id191"/>
+    <itemref idref="id190"/>
+    <itemref idref="id189"/>
+    <itemref idref="id188"/>
+    <itemref idref="id187"/>
+    <itemref idref="id186"/>
+    <itemref idref="id185"/>
+    <itemref idref="id184"/>
+    <itemref idref="id183"/>
+    <itemref idref="id182"/>
+    <itemref idref="id181"/>
+    <itemref idref="id180"/>
+    <itemref idref="id179"/>
+    <itemref idref="id178"/>
+    <itemref idref="id177"/>
+    <itemref idref="id176"/>
+    <itemref idref="id175"/>
+    <itemref idref="id174"/>
+    <itemref idref="id173"/>
+    <itemref idref="id172"/>
+    <itemref idref="id171"/>
+    <itemref idref="id170"/>
+    <itemref idref="id169"/>
+    <itemref idref="id168"/>
+    <itemref idref="id167"/>
+    <itemref idref="id166"/>
+    <itemref idref="id165"/>
+    <itemref idref="id164"/>
+    <itemref idref="id163"/>
+    <itemref idref="id162"/>
+    <itemref idref="id161"/>
+    <itemref idref="id160"/>
+    <itemref idref="id159"/>
+    <itemref idref="id158"/>
+    <itemref idref="id157"/>
+    <itemref idref="id156"/>
+    <itemref idref="id155"/>
+    <itemref idref="id154"/>
+    <itemref idref="id153"/>
+    <itemref idref="id152"/>
+    <itemref idref="id151"/>
+    <itemref idref="id150"/>
+    <itemref idref="id149"/>
+    <itemref idref="id148"/>
+    <itemref idref="id147"/>
+    <itemref idref="id146"/>
+    <itemref idref="id145"/>
+    <itemref idref="id144"/>
+    <itemref idref="id143"/>
+    <itemref idref="id142"/>
+    <itemref idref="id141"/>
+    <itemref idref="id140"/>
+    <itemref idref="id139"/>
+    <itemref idref="id138"/>
+    <itemref idref="id137"/>
+    <itemref idref="id136"/>
+    <itemref idref="id135"/>
+    <itemref idref="id134"/>
+    <itemref idref="id133"/>
+    <itemref idref="id132"/>
+    <itemref idref="id131"/>
+    <itemref idref="id130"/>
+    <itemref idref="id129"/>
+    <itemref idref="id128"/>
+    <itemref idref="id127"/>
+    <itemref idref="id126"/>
+    <itemref idref="id125"/>
+    <itemref idref="id124"/>
+    <itemref idref="id123"/>
+    <itemref idref="id122"/>
+    <itemref idref="id121"/>
+    <itemref idref="id120"/>
+    <itemref idref="id119"/>
+    <itemref idref="id118"/>
+    <itemref idref="id117"/>
+    <itemref idref="id116"/>
+    <itemref idref="id115"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="Text/Schopenhauer_split_728.html#filepos675552"/>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

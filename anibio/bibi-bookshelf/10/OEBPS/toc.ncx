@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="eng" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="9e736c5c-f2ed-4bff-b8c5-54083ca95dd2" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Schopenhauer</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>SUNUŞ</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>KISA YAŞAMÖYKÜSÜ ve SCHOPENHAUER KRONOLOJİSİ</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_004.html"/>
+      <navPoint class="chapter" id="num_3" playOrder="3">
+        <navLabel>
+          <text>KISA YAŞAMÖYKÜSÜ</text>
+        </navLabel>
+        <content src="Text/Schopenhauer_split_006.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_4" playOrder="4">
+        <navLabel>
+          <text>SCHOPENHAUER KRONOLOJİSİ</text>
+        </navLabel>
+        <content src="Text/Schopenhauer_split_007.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>I TOPLUBAKIŞ</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>II METAFİZİK</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_011.html"/>
+      <navPoint class="chapter" id="num_7" playOrder="7">
+        <navLabel>
+          <text>SCHOPENHAUER’İN KANT’IN TECRÜBE TEORİSİNE ELEŞTİRİSİ</text>
+        </navLabel>
+        <content src="Text/Schopenhauer_split_014.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>I. BÖLÜM TECRÜBENİN DOĞASI ve KURULUŞU: ALGI ve KAVRAM</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>II. BÖLÜM TECRÜBEDE KURULUŞ İLKELERİ: KATEGORİLERİN ÇIKARIMI ve GERÇEK ANLAMI</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>III. BÖLÜM TECRÜBENİN ALANI ve SINIRLARI: TRANSANDANTAL DİYALEKTİK</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>IV. BÖLÜM TECRÜBE ve GERÇEKLİK: KENDİNDE ŞEY OLARAK İRADE</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>SCHOPENHAUER ve BİREYSELLİK [275]</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>BİR EVRİMCİ OLARAK SCHOPENHAUER [307]</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>SCHOPENHAUER, FELSEFE ve DİN [331]</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>III ETİK KÖTÜMSERLİĞİN KISA TARİHÇESİ [418]</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>SCHOPENHAUER’İN KANT’IN AHLAK TEORİSİNE ELEŞTİRİSİ [423]</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_031.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>AHLAK ÜZERİNE [493]</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_032.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>IV ESTETİK SANATIN DERİN DOĞASI ÜZERİNE [564]</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_033.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>SCHOPENHAUER’İN TARİH GÖRÜŞÜ [570]</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_036.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>SCHOPENHAUER’İN NIETZSCHE ÜZERİNDEKİ ETKİSİ [597]</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_037.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>V SCHOPENHAUER ve DOĞU VEDANTA ve BATI GELENEĞİ [606]</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_039.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>SCHOPENHAUER ve BUDACILIK [613]</text>
+      </navLabel>
+      <content src="Text/Schopenhauer_split_040.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

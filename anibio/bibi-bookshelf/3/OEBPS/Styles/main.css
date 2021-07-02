@@ -1,0 +1,380 @@
+
+@font-face{
+	font-family: "DINBEK";
+	font-style: normal;
+	font-weight: lighter;
+	src:url("../Fonts/DINBEKLight.TTF") format("truetype");
+}
+@font-face{
+	font-family: "Palatino";
+	font-style: italic;
+	font-weight: normal;
+	src:url("../Fonts/PalatinoLinotype-Italic.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Palatino";
+	font-style: normal;
+	font-weight: bold;
+	src:url("../Fonts/PalatinoLinotype-Bold.ttf") format("truetype");
+}
+
+
+@font-face{
+	font-family: "Palatino";
+	font-style: normal;
+	font-weight:normal;
+	src:url("../Fonts/PalatinoLinotype-Roman.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Palatino";
+	font-style: italic;
+	font-weight:bold;
+	src:url("../Fonts/PalatinoLinotype-BoldItalic.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Snell";
+	font-style: normal;
+	font-weight: bold;
+	src:url("../Fonts/SnellBT-Bold.otf") format("opentype");
+}
+
+@font-face{
+	font-family: "Snell";
+	font-style: normal;
+	font-weight: normal;
+	src:url("../Fonts/SnellBT-Regular.otf") format("opentype");
+}
+
+@font-face{
+	font-family: "Times";
+	font-style: italic;
+	font-weight: normal;
+	src:url("../Fonts/TimesNewRomanPS-ItalicMT.ttf") format("truetype");
+}
+
+/*cover*/
+
+.cover-container{
+	margin: 0 auto;
+	max-width: 500px;
+	page-break-inside: avoid;
+}
+
+.cover-container img {
+	width: 100%;
+}
+
+/*copyright-page*/
+.press {
+	margin-bottom: 1em;
+}
+
+.ilksatir{
+	margin-bottom: 1em;
+}
+
+.copyright-page .copy{
+	display: block;
+	text-align: center;
+	margin-top: 1em;
+}
+
+.thank{
+	display: block;
+	text-align: center;
+}
+
+.copyright-page .publisher{
+		display: block;
+	text-align: center;
+	margin-top: 2em;
+}
+
+.copyright-page span{
+		display: block;
+	text-align: center;
+	font: normal normal .67em/1.3em "Palatino";
+}
+
+.resim-intitute{
+	max-width: 80px;
+	margin: 2em auto 1em;
+}
+.resim-intitute img{
+	width: 100%;
+}
+
+
+.copyright-page a{
+	color:#777;
+	text-decoration: none;
+	
+}
+
+/*titlepage*/
+
+.title{
+	text-align: center;
+}
+
+.aut{
+	margin-top: 1em;
+	font:lighter normal 1.66em/1.2em  "DINBEK";
+}
+
+
+.work {
+	font:lighter normal 2.5em/1.1em  "DINBEK";
+	margin-top: 1em;
+}
+
+.sub-work{
+	font:normal bold 1.66em/1.3em "Snell";
+	margin-top: 1em;
+}
+
+.seri{
+		font:normal normal .75em/1.3em "Palatino";
+		margin-top: 4em;
+}
+
+.publ{
+	font: normal normal .3em/1.3em "Palatino";
+	margin-top: 20em;
+}
+
+/*biography*/
+
+.biography p{
+font:normal normal .708em/1.3em "Palatino";
+margin-top: 21em;
+}
+
+/*DEDICATION*/
+
+.dedication .container {
+	margin-top: 5em;
+	margin-right: 2em;
+	float: right;
+}
+
+.dedication span {
+	display: block;
+	font: italic normal .8em/1.3em "Palatino";
+	text-align: right;
+}
+
+/*PreFace*/
+.preface .container{
+	margin-top: 5em;
+}
+.preface h1{
+	font:normal normal 1em/1.3em "Palatino";
+	text-align: center;
+	margin: 0;
+}
+
+.preface h1 + p {
+	margin-top: 2em;
+}
+
+.preface p{
+	font: normal normal 1em/1.3em "Palatino";
+	margin: 0;
+	text-indent: 2em;
+}
+
+.date{
+	font: normal normal .8em/1.3em "Palatino";
+	display: block;
+	text-align: right;
+	margin-top: 1em !important;
+}
+.preface .si-footnotes{
+font: italic normal .55em/1.3em "Palatino";
+padding-left: 2em;
+}
+/*Introduction*/
+
+.introduction .container{
+	margin-top: 5em;
+}
+
+.introduction h1{
+	font:normal normal 1em/1.3em "Palatino";
+	text-align: center;
+	margin: 0;
+}
+
+.introduction h1 + p {
+	margin-top: 2em;
+}
+
+.introduction p{
+	font: normal normal 1em/1.3em "Palatino";
+	margin: 0;
+	text-indent: 2em;
+}
+
+.introduction .si-footnotes{
+font: normal normal .55em/1.3em "Palatino";
+padding-left: 2em;
+}
+/*Part*/
+.part h1{
+	font:normal normal 1.66em/1.3em "Snell";
+	text-align: center;
+	margin-top: 9em;
+	margin-bottom: 11.5em;
+}
+
+/*Chapter*/
+
+.chapter .container {
+	margin-top: 5em;
+}
+
+.chapter p{
+	font:normal normal .8em/1.3em "Palatino";
+	text-indent: 2.3em;
+	margin: 0;
+}
+
+
+.resim .resim-alti{
+	font:italic normal .65em/1.3em "Palatino";
+	text-align: center;
+}
+
+.resim-sag .resim-alti{
+	font:italic normal .65em/1.3em "Palatino";
+	text-align: right;
+}
+
+.resim-sol .resim-alti{
+	font:italic normal .65em/1.3em "Palatino";
+	text-align: left;
+}
+
+.resim{
+	width: 99.5%;
+	max-width: 720;
+	margin: 1em auto;
+	page-break-inside: avoid;
+}
+.chopin{
+	max-width:450px;
+}
+
+.resim-sag, .resim-sol{
+	max-width: 200px;
+	margin: .3em auto;
+	page-break-inside: avoid;
+	clear: both;
+	float: right;
+	padding-left: .5em;
+}
+
+.resim-sol{
+	float: left !important;
+	padding-right: .5em;
+}
+
+.uzun{
+	max-width: 400px;
+	margin: 1em auto;
+}
+.chapter img{
+	width: 100%;
+}
+
+.siir-baslik{
+	margin-top: .8em !important;
+}
+.siir-son{
+	margin-bottom: .8em !important;
+}
+.mektup{
+	margin-top: 1em !important;
+	margin-bottom: 1em !important;
+}
+.siir-aralik{
+	margin-top: 1.5em;
+}
+.siir-sonrasi{
+	margin-top: 1em !important;
+}
+/*BIBLIOGRAPHY*/
+.bibliography p {
+	font:normal normal .8em/1.3em "Palatino";
+	text-indent: 0 !important;
+	margin: .7em 0 0;
+}
+
+/*Index*/
+.bibliography h2{
+	font:normal bold .8em/1.3em "Palatino";
+	margin:1.5em 0 .2em 0;
+}
+
+.bibliography ul{
+	list-style: none;
+	padding-left: 0;
+	margin:0;
+}
+
+.bibliography li{
+	font: normal normal .75em/1.3em "Palatino";
+	padding-left: 2em;
+	text-indent: -2em;
+}
+
+/*SubChapters*/
+.sub-chapter h2{
+	font:bold normal 1em/1.3em "Palatino";
+	text-align: center;
+}
+
+.sub-chapter p{
+	font:normal normal .71em/1.3em "Palatino";
+	margin: 0;
+}
+.opus {
+	font:normal normal .71em/1.3em "Palatino" !important;
+	padding-left: 2em;
+	text-indent: -2em;
+}
+/*common*/
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+  line-height: 1em;
+}
+.si-footnotes{
+	margin:4em 0 1em;
+}
+.si-backref{
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #000;
+	font-size: 1.1em;
+}
+.si-footnote{
+	font-family: "Palatino";
+	font-weight: normal;
+	font-style: normal;
+	font-size: .75em;
+	margin-bottom: .25em;
+}
+
+a{
+	text-decoration: none;
+	color: #7A7A7A;
+}

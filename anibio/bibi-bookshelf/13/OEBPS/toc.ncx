@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Tesla -Anlaşılamamış Dahi-</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Giriş</text>
+            </navLabel>
+            <content src="Text/giris.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>Modern Promete</text>
+            </navLabel>
+            <content src="Text/bolum1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Bir Kumarbaz</text>
+            </navLabel>
+            <content src="Text/bolum2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Uzaklardan Göçüp Gelenler</text>
+            </navLabel>
+            <content src="Text/bolum3.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>Edison'un Huzurunda</text>
+            </navLabel>
+            <content src="Text/bolum4.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>Akımlar Savaşı Başlıyor</text>
+            </navLabel>
+            <content src="Text/bolum5.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>Alev Kılıcı</text>
+            </navLabel>
+            <content src="Text/bolum6.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>Radyo</text>
+            </navLabel>
+            <content src="Text/bolum7.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>Yüksek Sosyete</text>
+            </navLabel>
+            <content src="Text/bolum8.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>Alt Yol, Üst Yol</text>
+            </navLabel>
+            <content src="Text/bolum9.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>Yanlış Bir Karar</text>
+            </navLabel>
+            <content src="Text/bolum10.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>Mars'a Doğru</text>
+            </navLabel>
+            <content src="Text/bolum11.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>Robotlar</text>
+            </navLabel>
+            <content src="Text/bolum12.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>Yıldırımlar Yaratan</text>
+            </navLabel>
+            <content src="Text/bolum13.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>Colorado'da Karartma</text>
+            </navLabel>
+            <content src="Text/bolum14.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+                <text>Muhteşem ve Bedbaht</text>
+            </navLabel>
+            <content src="Text/bolum15.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+                <text>Aşağılanmış,Horgörülmüş,Saldırıya Uğramış</text>
+            </navLabel>
+            <content src="Text/bolum16.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+                <text>Pusudaki Tehlikeler</text>
+            </navLabel>
+            <content src="Text/bolum17.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+                <text>Nobel Sorunu</text>
+            </navLabel>
+            <content src="Text/bolum18.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+                <text>Uçan Soba</text>
+            </navLabel>
+            <content src="Text/bolum19.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+                <text>Radar</text>
+            </navLabel>
+            <content src="Text/bolum20.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+                <text>Onur Konuğu</text>
+            </navLabel>
+            <content src="Text/bolum21.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+                <text>Güvercinler</text>
+            </navLabel>
+            <content src="Text/bolum22.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+            <navLabel>
+                <text>Geçişler</text>
+            </navLabel>
+            <content src="Text/bolum23.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+            <navLabel>
+                <text>Doğum Günü Partileri</text>
+            </navLabel>
+            <content src="Text/bolum24.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+            <navLabel>
+                <text>Sudaki Mantarlar</text>
+            </navLabel>
+            <content src="Text/bolum25.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+            <navLabel>
+                <text>Kozmik Komünyon</text>
+            </navLabel>
+            <content src="Text/bolum26.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+            <navLabel>
+                <text>Ölüm ve Dönüşüm</text>
+            </navLabel>
+            <content src="Text/bolum27.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+                <text>Kayıp Kağıtlar</text>
+            </navLabel>
+            <content src="Text/bolum28.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+            <navLabel>
+                <text>Miras</text>
+            </navLabel>
+            <content src="Text/bolum29.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>

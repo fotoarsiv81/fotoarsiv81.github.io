@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Şeşen, Ramazan">Ramazan Şeşen</dc:creator>
+<dc:publisher>Yeditepe Yayınevi</dc:publisher>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2011-08-16T09:08:01.974000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2011-08-16T09:08:01.974000+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.33.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9a259372-b9cc-4eb2-97b9-66b38dba06e8</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-04-20</dc:date>
+  <dc:title>İbn Fadlan Seyahatnamesi</dc:title>
+<meta name="calibre:title_sort" content="İbn Fadlan Seyahatnamesi"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Seyahatname</dc:subject>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Bu seyahatnâme X. yüzyıldaki Türklerin tarihi hakkında en canlı, en sağlam vesikalardandır. İbn Fadlan gibi kültürlü, mütecessis bir kişinin gözlemlerine dayanmaktadır. Veciz ve akıcı bir üslupla kaleme alınmıştır. Yazıldığı tarihten itibaren doğuda, daha sonra batıda çeşitli kişiler tarafından kaynak olarak kullanılmış, çok sayıda çalışmaya konu olmuş, çeşitli dillere çevrilmiş, filmlere konu olmuştur. İbn Fadlan elçilik için gittiği sırada uğradığı Türk kabilelerinin idaresi, dinleri, adetleri, hukukları hakkında çok değerli bilgiler vermiş, o kavimlerden olan kişilere sorular yöneltmiş, onların mantalitesini anlamaya çalışmıştır. Devrindeki Oğuzlar, Bulgarlar, Ruslar hakkında son derece önemli bilgiler vermiştir.&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;(Tanıtım Bülteninden)&lt;/span&gt;&lt;/div&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ramazan Şeşen&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e22ce3f1-32e9-4539-a07c-a5ed7b3bb97e</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786054052226</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/ibnfadlan_split_000.html" id="html137" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_001.html" id="html136" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_002.html" id="html135" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_003.html" id="html134" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_004.html" id="html133" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_005.html" id="html132" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_006.html" id="html131" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_007.html" id="html130" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_008.html" id="html129" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_009.html" id="html128" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_010.html" id="html127" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_011.html" id="html126" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_012.html" id="html125" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_013.html" id="html124" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_014.html" id="html123" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_015.html" id="html122" media-type="application/xhtml+xml"/>
+    <item href="Text/ibnfadlan_split_016.html" id="html121" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Images/yeditepe-logo.jpg" id="added" media-type="image/jpeg"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html137"/>
+    <itemref idref="html136"/>
+    <itemref idref="html135"/>
+    <itemref idref="html134"/>
+    <itemref idref="html133"/>
+    <itemref idref="html132"/>
+    <itemref idref="html131"/>
+    <itemref idref="html130"/>
+    <itemref idref="html129"/>
+    <itemref idref="html128"/>
+    <itemref idref="html127"/>
+    <itemref idref="html126"/>
+    <itemref idref="html125"/>
+    <itemref idref="html124"/>
+    <itemref idref="html123"/>
+    <itemref idref="html122"/>
+    <itemref idref="html121"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

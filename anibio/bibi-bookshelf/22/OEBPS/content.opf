@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Şipşak Mozart</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Hartmann, Reinhold">Reinhold Hartmann</dc:creator>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:FA6D171D-E8C8-472F-BBD0-F8E2E845580C</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">4f429b1e-26c1-402f-93e6-524bc2e6bd76</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="on_kapak.html" id="on_kapak" media-type="application/xhtml+xml"/>
+    <item href="1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="4-1.html" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="4-2.html" id="x4-2" media-type="application/xhtml+xml"/>
+    <item href="4-3.html" id="x4-3" media-type="application/xhtml+xml"/>
+    <item href="4-4.html" id="x4-4" media-type="application/xhtml+xml"/>
+    <item href="4-5.html" id="x4-5" media-type="application/xhtml+xml"/>
+    <item href="4-6.html" id="x4-6" media-type="application/xhtml+xml"/>
+    <item href="4-7.html" id="x4-7" media-type="application/xhtml+xml"/>
+    <item href="4-8.html" id="x4-8" media-type="application/xhtml+xml"/>
+    <item href="4-9.html" id="x4-9" media-type="application/xhtml+xml"/>
+    <item href="4-10.html" id="x4-10" media-type="application/xhtml+xml"/>
+    <item href="4-11.html" id="x4-11" media-type="application/xhtml+xml"/>
+    <item href="4-12.html" id="x4-12" media-type="application/xhtml+xml"/>
+    <item href="4-13.html" id="x4-13" media-type="application/xhtml+xml"/>
+    <item href="4-14.html" id="x4-14" media-type="application/xhtml+xml"/>
+    <item href="4-15.html" id="x4-15" media-type="application/xhtml+xml"/>
+    <item href="4-16.html" id="x4-16" media-type="application/xhtml+xml"/>
+    <item href="4-17.html" id="x4-17" media-type="application/xhtml+xml"/>
+    <item href="4-18.html" id="x4-18" media-type="application/xhtml+xml"/>
+    <item href="4-19.html" id="x4-19" media-type="application/xhtml+xml"/>
+    <item href="4-20.html" id="x4-20" media-type="application/xhtml+xml"/>
+    <item href="4-21.html" id="x4-21" media-type="application/xhtml+xml"/>
+    <item href="4-22.html" id="x4-22" media-type="application/xhtml+xml"/>
+    <item href="4-23.html" id="x4-23" media-type="application/xhtml+xml"/>
+    <item href="4-24.html" id="x4-24" media-type="application/xhtml+xml"/>
+    <item href="4-25.html" id="x4-25" media-type="application/xhtml+xml"/>
+    <item href="4-26.html" id="x4-26" media-type="application/xhtml+xml"/>
+    <item href="4-27.html" id="x4-27" media-type="application/xhtml+xml"/>
+    <item href="4-28.html" id="x4-28" media-type="application/xhtml+xml"/>
+    <item href="4-29.html" id="x4-29" media-type="application/xhtml+xml"/>
+    <item href="4-30.html" id="x4-30" media-type="application/xhtml+xml"/>
+    <item href="4-31.html" id="x4-31" media-type="application/xhtml+xml"/>
+    <item href="4-32.html" id="x4-32" media-type="application/xhtml+xml"/>
+    <item href="4-33.html" id="x4-33" media-type="application/xhtml+xml"/>
+    <item href="4-34.html" id="x4-34" media-type="application/xhtml+xml"/>
+    <item href="arka_kapak.html" id="arka_kapak" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="images/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/4_fmt.jpeg" id="x4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/5_fmt.jpeg" id="x5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/6_fmt.jpeg" id="x6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/7_fmt.jpeg" id="x7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/8_fmt.jpeg" id="x8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/9_fmt.jpeg" id="x9_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/10_fmt.jpeg" id="x10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/11_fmt.jpeg" id="x11_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/12_fmt.jpeg" id="x12_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/13_fmt.jpeg" id="x13_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/14_fmt.jpeg" id="x14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/15_fmt.jpeg" id="x15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/16_fmt.jpeg" id="x16_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/17_fmt.jpeg" id="x17_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/18_fmt.jpeg" id="x18_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/19_fmt.jpeg" id="x19_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/20_fmt.jpeg" id="x20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/21_fmt.jpeg" id="x21_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="images/arka_kapak_fmt.jpeg" id="arka_kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/dk_fmt.jpeg" id="dk_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/n1_fmt.jpeg" id="n1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/n2_fmt.jpeg" id="n2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/n2_fmt1.jpeg" id="n2_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/on_kapak_fmt.jpeg" id="on_kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uZuVrHHWhkct3OvuwPvJISD" media-type="image/jpeg"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="on_kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+    <itemref idref="x4-3"/>
+    <itemref idref="x4-4"/>
+    <itemref idref="x4-5"/>
+    <itemref idref="x4-6"/>
+    <itemref idref="x4-7"/>
+    <itemref idref="x4-8"/>
+    <itemref idref="x4-9"/>
+    <itemref idref="x4-10"/>
+    <itemref idref="x4-11"/>
+    <itemref idref="x4-12"/>
+    <itemref idref="x4-13"/>
+    <itemref idref="x4-14"/>
+    <itemref idref="x4-15"/>
+    <itemref idref="x4-16"/>
+    <itemref idref="x4-17"/>
+    <itemref idref="x4-18"/>
+    <itemref idref="x4-19"/>
+    <itemref idref="x4-20"/>
+    <itemref idref="x4-21"/>
+    <itemref idref="x4-22"/>
+    <itemref idref="x4-23"/>
+    <itemref idref="x4-24"/>
+    <itemref idref="x4-25"/>
+    <itemref idref="x4-26"/>
+    <itemref idref="x4-27"/>
+    <itemref idref="x4-28"/>
+    <itemref idref="x4-29"/>
+    <itemref idref="x4-30"/>
+    <itemref idref="x4-31"/>
+    <itemref idref="x4-32"/>
+    <itemref idref="x4-33"/>
+    <itemref idref="x4-34"/>
+    <itemref idref="arka_kapak"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

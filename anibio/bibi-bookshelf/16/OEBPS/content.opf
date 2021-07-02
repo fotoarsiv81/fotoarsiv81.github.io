@@ -1,0 +1,65 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="1.0">
+  <metadata>
+    <dc:title>Einstein</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Bozkurt, Nejat">Nejat Bozkurt</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:publisher>Say Yayınları</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (3.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">b8e5ca8a-d989-4598-8333-f64967b09167</dc:identifier>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="KAPAK_fmt.png"/>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Einstein"/>
+    <meta name="calibre:author_link_map" content="{&quot;Nejat Bozkurt&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/1_fmt.png" id="x1_fmt.png" media-type="image/png"/>
+    <item href="Images/10_fmt.png" id="x10_fmt.png" media-type="image/png"/>
+    <item href="Images/11_fmt.png" id="x11_fmt.png" media-type="image/png"/>
+    <item href="Images/12_fmt.png" id="x12_fmt.png" media-type="image/png"/>
+    <item href="Images/13_fmt.png" id="x13_fmt.png" media-type="image/png"/>
+    <item href="Images/14_fmt.png" id="x14_fmt.png" media-type="image/png"/>
+    <item href="Images/15_fmt.png" id="x15_fmt.png" media-type="image/png"/>
+    <item href="Images/16_fmt.png" id="x16_fmt.png" media-type="image/png"/>
+    <item href="Images/18_fmt.png" id="x18_fmt.png" media-type="image/png"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/19_fmt.png" id="x19_fmt.png" media-type="image/png"/>
+    <item href="Images/2_fmt.png" id="x2_fmt.png" media-type="image/png"/>
+    <item href="Images/20_fmt.png" id="x20_fmt.png" media-type="image/png"/>
+    <item href="Images/3_fmt.png" id="x3_fmt.png" media-type="image/png"/>
+    <item href="Images/4_fmt.png" id="x4_fmt.png" media-type="image/png"/>
+    <item href="Images/5_fmt.png" id="x5_fmt.png" media-type="image/png"/>
+    <item href="Images/6_fmt.png" id="x6_fmt.png" media-type="image/png"/>
+    <item href="Images/7_fmt.png" id="x7_fmt.png" media-type="image/png"/>
+    <item href="Images/8_fmt.png" id="x8_fmt.png" media-type="image/png"/>
+    <item href="Images/9_fmt.png" id="x9_fmt.png" media-type="image/png"/>
+    <item href="Images/KAPAK_fmt.jpg" id="KAPAK_fmt.png" media-type="image/jpeg"/>
+    <item href="Images/logo_fmt.jpeg" id="logo_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/Screen Shot 2012-08-01 _fmt.png" id="Screen-20Shot-202012-08-01-20_fmt.png" media-type="image/png"/>
+    <item href="Images/Screen Shot 2012-08-01_fmt1.png" id="Screen-20Shot-202012-08-01_fmt1.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

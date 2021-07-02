@@ -1,0 +1,131 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:creator opf:role="aut" opf:file-as="Cheney, Margaret">Margaret Cheney</dc:creator>
+<dc:identifier id="BookID" opf:scheme="UUID"/>
+        <dc:contributor opf:role="edt">Oğuzhan Yağız</dc:contributor>
+        <dc:date>2010-06-11T21:00:00+00:00</dc:date>
+        <dc:publisher>Aykırı Yayınları</dc:publisher>
+        <dc:date opf:event="modification">2013-02-22</dc:date>
+        <meta content="0.6.2" name="Sigil version"/>
+    <dc:title>Tesla - Anlaşılamamış Dahi</dc:title>
+<meta name="calibre:title_sort" content="Tesla - Anlaşılamamış Dahi"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Bilim</dc:subject>
+<dc:subject>Biyografi</dc:subject>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Fizik</dc:subject>
+<dc:description>&lt;span style="text-align: start; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;Yaptığı inanılmaz icatları ticari metalara dönüştürme çabasında olmadığı için çok büyük servetleri elinin tersiyle itmiş, hatta kimi buluşları başkaları tarafından sahiplenilmiş, öldüğünde araştırma notları FBI tarafından alınarak bugün hala incelenmekte olduğu ileri sürülen Tesla, gerçekten de kendi zamanının çok önünde yaşamış ve yeterince anlaşılamamış bir bilim adamıdır.&lt;/span&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Margaret Cheney&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">01b70c97-282e-49b7-b4be-aede2d03c0aa</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789758337408</dc:identifier>
+</metadata>
+    <manifest>
+        <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+        <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+        <item href="Styles/Nakkal.css" id="Nakkal.css" media-type="text/css"/>
+        <item href="Text/bolum29.xhtml" id="bolum29.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum3.xhtml" id="bolum3.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum4.xhtml" id="bolum4.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum5.xhtml" id="bolum5.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum6.xhtml" id="bolum6.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum7.xhtml" id="bolum7.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum8.xhtml" id="bolum8.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum9.xhtml" id="bolum9.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum10.xhtml" id="bolum10.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum11.xhtml" id="bolum11.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum12.xhtml" id="bolum12.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum13.xhtml" id="bolum13.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum14.xhtml" id="bolum14.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum15.xhtml" id="bolum15.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum16.xhtml" id="bolum16.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum17.xhtml" id="bolum17.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum18.xhtml" id="bolum18.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum19.xhtml" id="bolum19.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum20.xhtml" id="bolum20.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum21.xhtml" id="bolum21.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum22.xhtml" id="bolum22.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum23.xhtml" id="bolum23.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum24.xhtml" id="bolum24.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum25.xhtml" id="bolum25.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum26.xhtml" id="bolum26.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum27.xhtml" id="bolum27.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/bolum28.xhtml" id="bolum28.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="cover.xhtml"/>
+        <itemref idref="giris.xhtml"/>
+        <itemref idref="bolum1.xhtml"/>
+        <itemref idref="bolum2.xhtml"/>
+        <itemref idref="bolum3.xhtml"/>
+        <itemref idref="bolum4.xhtml"/>
+        <itemref idref="bolum5.xhtml"/>
+        <itemref idref="bolum6.xhtml"/>
+        <itemref idref="bolum7.xhtml"/>
+        <itemref idref="bolum8.xhtml"/>
+        <itemref idref="bolum9.xhtml"/>
+        <itemref idref="bolum10.xhtml"/>
+        <itemref idref="bolum11.xhtml"/>
+        <itemref idref="bolum12.xhtml"/>
+        <itemref idref="bolum13.xhtml"/>
+        <itemref idref="bolum14.xhtml"/>
+        <itemref idref="bolum15.xhtml"/>
+        <itemref idref="bolum16.xhtml"/>
+        <itemref idref="bolum17.xhtml"/>
+        <itemref idref="bolum18.xhtml"/>
+        <itemref idref="bolum19.xhtml"/>
+        <itemref idref="bolum20.xhtml"/>
+        <itemref idref="bolum21.xhtml"/>
+        <itemref idref="bolum22.xhtml"/>
+        <itemref idref="bolum23.xhtml"/>
+        <itemref idref="bolum24.xhtml"/>
+        <itemref idref="bolum25.xhtml"/>
+        <itemref idref="bolum26.xhtml"/>
+        <itemref idref="bolum27.xhtml"/>
+        <itemref idref="bolum28.xhtml"/>
+        <itemref idref="bolum29.xhtml"/>
+    </spine>
+    <guide>
+        <reference href="Text/bolum1.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum2.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum3.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum4.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum1.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum2.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum3.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum4.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum5.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum6.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum7.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum8.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum9.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum10.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum11.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum12.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum13.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum14.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum15.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum16.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum17.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum18.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum19.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum20.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum21.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum22.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum23.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum24.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum25.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum26.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum27.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum28.xhtml" title="Text" type="text"/>
+        <reference href="Text/bolum29.xhtml" title="Text" type="text"/>
+    </guide>
+</package>

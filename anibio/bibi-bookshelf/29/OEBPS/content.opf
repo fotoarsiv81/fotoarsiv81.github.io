@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Öztuna, Yılmaz">Yılmaz Öztuna</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">a45816aa-f4e5-4e4f-8684-6a6e8817d416</dc:identifier>
+    <dc:publisher>Babıali Kültür Yayıncılığı</dc:publisher>
+    <dc:date>2006-02-14T22:00:00+00:00</dc:date>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2011-08-03T08:41:49.429000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="_cover.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>II. Sultan Mahmud</dc:title>
+<meta name="calibre:title_sort" content="II. Sultan Mahmud"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Orjinal</dc:subject>
+<dc:subject>Osmanlı</dc:subject>
+<dc:subject>Tarih</dc:subject>
+<dc:description>&lt;p&gt;Mehmed Ali Paşa isyanının içinde kalmış, ordusunu kendisi lağv ve ilga etmiş, donanması İngiltere-Fransa-Rusya tarafından yakılmış ve dağılmak üzere olduğu sanılan Osmanlı İmparatorluğu'na yeni bir ümit olan padişah…
+
+
+Yılmaz Öztuna, II. Sultan Mahmud adlı kitabında, tamamen çözülmüş, fonksiyonunu kaybetmiş, yozlaşmış bulunan devlet müesseselerini yenileyen II. Sultan Mahmud'un kısa biyografisini ve 31 yıllık saltanat döneminin ana çizgilerini aktarıyor.
+
+
+“Eşkıyalıklarına tahammül gösterdimse, kan dökülmesinden çekindiğim içindi. Kapıkulları'na bu kadar ihsan ettim ve müsamaha gösterdim. Bu defa, ihsanlarıma müstağrak olan Ocak, yeni askerin yazılmasına rıza gösterdiği halde, gene ayaklandı. Devletin bekaası için şart olan yeni orduya karşı harekete geçti.
+
+Yemîninden döndü.
+
+Efendiler, söyleyin! Bu ısyân, ‘hurûc ales-sultân' değil midir?”&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Yılmaz Öztuna&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">ea506b46-bc88-4d0d-8a5f-e1174a49f8bf</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">JGWAAAAAIAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750098109</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/babialikultur.jpg" id="added" media-type="image/jpeg"/>
+    <item href="Images/_cover.jpg" id="_cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/mahmut_split_000.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/mahmut_split_001.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/mahmut_split_002.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/mahmut_split_003.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/mahmut_split_004.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/mahmut_split_005.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/mahmut_split_006.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/mahmut_split_007.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/mahmut_split_008.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/mahmut_split_009.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/mahmut_split_010.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,436 @@
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.dipnotlar-bold-sipsak {
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.71em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.metin-sipsak {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	font-variant : normal;
+	color : #000000;
+}
+span.kisim-baslik-sipsak {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.25em;
+	font-variant : normal;
+	color : #000000;
+}
+span.metin--tal-k-sipsak {
+	font-weight : normal;
+	font-style : italic;
+	font-size : 1em;
+	font-variant : normal;
+	color : #000000;
+}
+span.dipnot-numarasi-sipsak {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	text-decoration : none;
+	font-variant : normal;
+	vertical-align : super;
+	color : #000000;
+}
+span.dipnotlar-bold-sipsak-1 {
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.71em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.dipnotlar-sipsak {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.metin-sipsak-1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	font-variant : normal;
+	color : #000000;
+}
+span.kisim-baslik-sipsak-1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.25em;
+	font-variant : normal;
+	color : #000000;
+}
+span.metin--tal-k-sipsak-1 {
+	font-weight : normal;
+	font-style : italic;
+	font-size : 1em;
+	font-variant : normal;
+	color : #000000;
+}
+span.dipnot-numarasi-sipsak-1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	text-decoration : none;
+	font-variant : normal;
+	vertical-align : super;
+	color : #000000;
+}
+span.Normal {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.Normal-1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.metin-kafka-1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.92em;
+	font-variant : normal;
+	color : #000000;
+}
+span.Normal-2 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.resimalti {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	color : #000000;
+}
+span.char-style-override-1 {
+	font-size : 0.67em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-2 {
+	font-size : 0.67em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-3 {
+	font-size : 0.73em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-4 {
+	font-size : 0.67em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-5 {
+	color : #0000ff;
+	font-size : 0.67em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-6 {
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-7 {
+	font-size : 0.91em;
+}
+span.char-style-override-8 {
+	font-style : italic;
+	font-weight : normal;
+}
+span.char-style-override-9 {
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-10 {
+	font-size : 1.19em;
+}
+span.char-style-override-11 {
+	font-style : normal;
+	font-weight : bold;
+}
+p.dipnotlar-sipsak {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.18;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 20px 30px 0px 30px;
+}
+p.x1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.33em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.06;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 30px 0px 60px 0px;
+}
+p.x2 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.07;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 60px 0px;
+}
+p.metin-sipsak {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : left;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px 30px;
+}
+p.metin-sipsak-20 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : left;
+	color : #000000;
+	text-indent : 20px;
+	margin : 20px 30px 0px 30px;
+}
+p.dipnotlar-sipsak-1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.18;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 20px 30px 0px 30px;
+}
+p.x1-1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.33em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.06;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 30px 0px 60px 0px;
+}
+p.metin-sipsak-1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : left;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px 30px;
+}
+p.metin-sipsak-20-1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : left;
+	color : #000000;
+	text-indent : 20px;
+	margin : 20px 30px 0px 30px;
+}
+p.Normal {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Normal-1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.metin-kafka {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.26;
+	text-align : justify;
+	color : #000000;
+	text-indent : 11px;
+	margin : 0px;
+}
+p.Normal-2 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.metin-kafka-1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.26;
+	text-align : justify;
+	color : #000000;
+	text-indent : 11px;
+	margin : 0px;
+}
+p.para-style-override-1 {
+	text-align : center;
+	margin-top : 0px;
+	margin-bottom : 0px;
+}
+p.para-style-override-2 {
+	margin-bottom : 20px;
+	margin-left : 30px;
+	margin-top : 30px;
+}
+p.para-style-override-3 {
+	margin-left : 30px;
+}
+p.para-style-override-4 {
+	margin-left : 30px;
+	text-indent : 0px;
+}
+p.para-style-override-5 {
+	margin-left : 30px;
+	margin-top : 20px;
+}
+p.para-style-override-6 {
+	margin-bottom : 30px;
+	margin-left : 30px;
+	margin-top : 20px;
+}
+p.para-style-override-7 {
+	margin-left : 30px;
+	margin-top : 10px;
+}
+p.para-style-override-8 {
+	margin-top : 30px;
+	text-align : center;
+}
+p.para-style-override-9 {
+	margin-bottom : 50px;
+	margin-top : 30px;
+	text-align : center;
+}
+p.para-style-override-10 {
+	text-align : center;
+}
+p.para-style-override-11 {
+	margin-bottom : 20px;
+	margin-top : 30px;
+	text-align : center;
+}
+p.para-style-override-12 {
+	text-align : center;
+	text-indent : 0px;
+}
+p.para-style-override-13 {
+	margin-top : 10px;
+	text-align : center;
+}
+p.para-style-override-14 {
+	margin-top : 20px;
+}
+p.para-style-override-15 {
+	margin-top : 30px;
+}
+p.para-style-override-16 {
+	margin-top : 20px;
+	text-indent : 0px;
+}
+p.para-style-override-17 {
+	margin-left : 80px;
+	text-indent : 0px;
+}
+p.para-style-override-18 {
+	margin-left : 60px;
+	text-indent : -20px;
+}
+div.Basic-Text-Frame {
+}
+div.Basic-Text-Frame-1 {
+}
+div.Basic-Text-Frame-2 {
+}
+div.Basic-Text-Frame-3 {
+}
+div.Basic-Text-Frame-4 {
+}
