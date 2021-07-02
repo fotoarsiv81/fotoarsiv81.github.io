@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Hidâyet, Sâdık">Sâdık Hidâyet</dc:creator>
+<dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:date>2010-08-13T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+  <dc:title>Vejetaryenliğin Yararları</dc:title>
+<meta name="calibre:title_sort" content="Vejetaryenliğin Yararları"/>
+<dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>İran Edebiyatı</dc:subject>
+<dc:subject>Öykü</dc:subject>
+<dc:description>&lt;p&gt;Modern İran edebiyatının büyük ustası Sadık Hidayet'in Yararları, vejetaryenliği kişisel bir seçim olmaktan öte, bir dünya görüşü olarak ele alıyor. "İnsan kan döküyor, zulüm tohumu ekiyor. O halde sonuçta savaş, acı, yıkım ve toplu kıyım biçecek. İnsanlık ilerlemeyecek, huzur bulmayacak; mutluluk, özgürlük ve barış yüzü görmeyecek etobur olduğu sürece." Vejetaryenliğin Yararları, Mehmet Kanar tarafından Farsça aslından dilimize çevrildi.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Sâdık Hidâyet&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">0f34c569-5544-45e7-8e4f-cf246e81cfd4</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753638302</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Nakkal.css" id="Nakkal.css" media-type="text/css"/>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/icindekiler.xhtml" id="icindekiler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/hak.html" id="hak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/yayin.xhtml" id="yayin.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Onsayfa.css" id="Onsayfa.css" media-type="text/css"/>
+    <item href="Text/notlar.xhtml" id="notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/yky.jpg" id="yky.jpg" media-type="image/jpeg"/>
+    <item href="Text/yayinevi.xhtml" id="yayinevi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.xhtml" id="ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum3.xhtml" id="bolum3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum4.xhtml" id="bolum4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum5.xhtml" id="bolum5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum6.xhtml" id="bolum6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum12.xhtml" id="bolum12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum7.xhtml" id="bolum7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum8.xhtml" id="bolum8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum9.xhtml" id="bolum9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum10.xhtml" id="bolum10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kitap.xhtml" id="kitap.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/soz.xhtml" id="soz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum11.xhtml" id="bolum11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html"/>
+    <itemref idref="yayinevi.xhtml"/>
+    <itemref idref="yayin.xhtml"/>
+    <itemref idref="hak.html"/>
+    <itemref idref="icindekiler.xhtml"/>
+    <itemref idref="kitap.xhtml"/>
+    <itemref idref="soz.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="bolum1.xhtml"/>
+    <itemref idref="bolum2.xhtml"/>
+    <itemref idref="bolum3.xhtml"/>
+    <itemref idref="bolum4.xhtml"/>
+    <itemref idref="bolum5.xhtml"/>
+    <itemref idref="bolum6.xhtml"/>
+    <itemref idref="bolum7.xhtml"/>
+    <itemref idref="bolum8.xhtml"/>
+    <itemref idref="bolum9.xhtml"/>
+    <itemref idref="bolum10.xhtml"/>
+    <itemref idref="bolum11.xhtml"/>
+    <itemref idref="bolum12.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/icindekiler.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/kitap.xhtml" title="Text" type="text"/>
+  </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:creator opf:role="aut" opf:file-as="Heidegger">Heidegger</dc:creator>
+<dc:title>Metafizik Nedir</dc:title>
+<dc:date>2012-05-01T21:00:00+00:00</dc:date>
+<dc:identifier id="BookId">awp2012-05-02T00:31:42Z</dc:identifier>
+<meta name="calibre:title_sort" content="Metafizik Nedir"/>
+<meta name="calibre:rating" content="0"/>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Heidegger&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="style" href="style.css" media-type="text/css"/>
+<item id="id001" href="001.html" media-type="application/xhtml+xml"/>
+<item id="img1" href="images/img1.jpg" media-type="image/jpeg"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="id001"/>
+</spine>
+</package>

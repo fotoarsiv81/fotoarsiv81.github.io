@@ -1,0 +1,19 @@
+  @page {
+    margin-bottom: 15pt;
+    margin-top: 15pt;
+    margin-left: 15pt;
+    margin-right: 15pt;
+    }
+ 
+
+body { 
+   font-family: "Cicle", sans-serif;
+   font-size: 110%;
+   text-align: justify;
+   line-height: 28px;
+}
+
+div#coverpage {
+	text-align: center;
+}
+
