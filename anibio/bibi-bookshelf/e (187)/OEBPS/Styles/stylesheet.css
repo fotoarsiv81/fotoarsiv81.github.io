@@ -1,0 +1,64 @@
+.calibre {
+  display: block;
+  font-family: LiberationSerif;
+  font-size: 1.29167em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+.calibre2 {
+  font-weight: bold;
+}
+.calibre3 {
+  display: block;
+  margin: 1em 0;
+}
+.calibre4 {
+  font-size: 0.75em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre5 {
+  font-size: 0.77419em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre6 {
+  display: block;
+}
+.font {
+  font-family: "Book Antiqua";
+  font-size: 0.77419em;
+}
+.font1 {
+  font-family: "Book Antiqua";
+  font-size: 0.58065em;
+  font-style: italic;
+}
+.font2 {
+  font-family: "Book Antiqua";
+  font-size: 0.58065em;
+}
+.font3 {
+  font-family: "Book Antiqua";
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.font4 {
+  font-family: "Book Antiqua";
+  font-size: 1em;
+  font-style: italic;
+  line-height: 1.2;
+}
+.font5 {
+  font-family: "Book Antiqua";
+  font-size: 0.77419em;
+  font-style: italic;
+}

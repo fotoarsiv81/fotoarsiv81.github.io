@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="uuid">{5100DA23-9591-4BA5-9AB2-17DCBA259EA7}</dc:identifier>
+    <meta content="0.9.10" name="Sigil version" />
+    <meta name="cover" content="cover.jpg" />
+    <dc:title>Kardesini_Dogurmak - Türkiye'de Ensest Gerçeği</dc:title>
+    <dc:creator opf:role="aut">Büşra Sanay</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <dc:date opf:event="modification">2018-09-17</dc:date>
+    <dc:description>Kardeşini Doğurmak elini taşın altına koymaktan çekinmeyen bir kalemin ürünü…
+ 
+“Direkt büyüdüm, büyüttüler”
+ 
+“Büşra Sanay insanlığın  en karanlık noktasına, en bağışlanmaz suçuna büyük bir cesaretle eğiliyor ve ne kadar acı olursa olsun gerçeğin gözünün içine bakmaya çağırıyor bizi. Belki de arınma, bu yüzleşmelerle gelecek. Büşra gibi duyarlı insanların acı çekme pahasına yazdığı, böyle önemli kitaplarla… Okurken sarsılacaksınız hem de çok sarsılacaksınız. Sanırım gerekli olan da bu…”
+Zülfü Livaneli
+ 
+Türkiye’nin en mahrem yerinde görülmeyen, görmezden gelinen bir yara: Ensest. CNNTürk haber spikeri Büşra Sanay, yıllarca süren titiz bir çalışmayla ensest mağdurlarından ailelere, 
+sosyologlardan ilahiyatçılara, hukukçulardan eğitimcilere, psikologlardan adli tıpçılara kadar her kesimden insanla konuşarak Türkiye’nin ensest tablosunu ortaya çıkardı.</dc:description>
+    <dc:subject>Sosyoloji - İnceleme-Araştırma</dc:subject>
+  </metadata>
+  <manifest>
+    <item id="Section0006.xhtml" href="Text/Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0011.xhtml" href="Text/Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0012.xhtml" href="Text/Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0014.xhtml" href="Text/Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0016.xhtml" href="Text/Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0017.xhtml" href="Text/Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0019.xhtml" href="Text/Section0019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0021.xhtml" href="Text/Section0021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0023.xhtml" href="Text/Section0023.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0025.xhtml" href="Text/Section0025.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0027.xhtml" href="Text/Section0027.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id13" href="Styles/main.css" media-type="text/css"/>
+    <item id="id14" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ithaf.xhtml" href="Text/ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tesekkur.xhtml" href="Text/tesekkur.xhtml" media-type="application/xhtml+xml"/>
+    <item id="atif.xhtml" href="Text/atif.xhtml" media-type="application/xhtml+xml"/>
+    <item id="giris.xhtml" href="Text/giris.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dn.xhtml" href="Text/dn.xhtml" media-type="application/xhtml+xml"/>
+    <item id="main-1.xhtml" href="Text/main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="main-2.xhtml" href="Text/main-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0007.xhtml" href="Text/Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0008.xhtml" href="Text/Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0009.xhtml" href="Text/Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0010.xhtml" href="Text/Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="main-4.xhtml" href="Text/main-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0013.xhtml" href="Text/Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="logo-dk.jpg" href="Images/logo-dk.jpg" media-type="image/jpeg"/>
+    <item id="Section0015.xhtml" href="Text/Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="main-7.xhtml" href="Text/main-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0018.xhtml" href="Text/Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0020.xhtml" href="Text/Section0020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="main-10.xhtml" href="Text/main-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0022.xhtml" href="Text/Section0022.xhtml" media-type="application/xhtml+xml"/>
+    <item id="main-11.xhtml" href="Text/main-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0024.xhtml" href="Text/Section0024.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0026.xhtml" href="Text/Section0026.xhtml" media-type="application/xhtml+xml"/>
+    <item id="arkakapak.xhtml" href="Text/arkakapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="coverback.jpg" href="Images/coverback.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id14">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="arkakapak.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="tesekkur.xhtml"/>
+    <itemref idref="atif.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="main-2.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="main-4.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="main-7.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="Section0019.xhtml"/>
+    <itemref idref="Section0020.xhtml"/>
+    <itemref idref="Section0021.xhtml"/>
+    <itemref idref="main-10.xhtml"/>
+    <itemref idref="Section0022.xhtml"/>
+    <itemref idref="Section0023.xhtml"/>
+    <itemref idref="main-11.xhtml"/>
+    <itemref idref="Section0024.xhtml"/>
+    <itemref idref="Section0025.xhtml"/>
+    <itemref idref="Section0026.xhtml"/>
+    <itemref idref="Section0027.xhtml"/>
+    <itemref idref="dn.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

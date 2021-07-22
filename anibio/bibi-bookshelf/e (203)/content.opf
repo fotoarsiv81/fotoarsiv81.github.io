@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <meta name="calibre:timestamp" content="2015-03-14T10:29:54.714000+00:00"/>
+    <dc:title>Şarkı Okuma Kitabı</dc:title>
+    <dc:description>&lt;div&gt;&lt;div&gt;Bu kitapta yapmaya çalıştığım şey bazı şarkıları alıp çözümlemek ya da açıklamak değil. Şarkı kendisi için vardır, açıklaması da olmamalıdır... Buradaki şarkıların her biri hayatım boyunca tekrar tekrar okuduğum ve "okuduğum" şarkılar. Israrla çalıp söyledim onları. Hepsi de kendimi kurmamda ve yeniden kurmamda bir yere sahip. Hepsi bana hayatımla, hayatımızla ilgili sorular sordu. Ben de onlara cevap vermek için epey zaman harcadım. İşte bu sorularla, bunlar etrafındaki düşünceler var bu kitapta...&lt;/div&gt;&lt;div&gt;Benim için "şarkı sözü" müziğin bir aksesuarı olmadı hiçbir zaman. Söz ve müzik daima bir bütündü. Sözünü anlamadan müziği de yeterince takdir edemeyeceğimi bildim hep. Küçük yaşlarımdan beri müzikte kahramanlarım Bob Dylan ve Leonard Cohen'di: İkisi de şarkı yazarı ve şair. Onları örnek alarak başladım şarkı söylemeye. Şarkı sözü şiirdi: Özel bir şiir türü ama gene de şiir. O yüzden şiir gibi okunmayı, şiir gibi yaşanmayı hakediyordu.&lt;/div&gt;&lt;div&gt;Bu şarkıları nasıl seçtiğim ise apayrı bir konu. Bazılarını seçmeme şansım yoktu zaten. Suzanne, Famous Blue Raincoat, Manifiesto; bunlar eskiden beri yakamı bırakmayan şarkılar. Seçtiğim tüm şarkılar ortak temalar içermeseler de, aynı civarlarda dolaşıyor: Aşk ve ölüm, sevgi ve şiddet, dayanışma ve ihanet, teslimiyet ve umut...&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3180c52d-56f5-4a30-9d72-9e7ad5840e67</dc:identifier>
+    <dc:identifier opf:scheme="calibre">3180c52d-56f5-4a30-9d72-9e7ad5840e67</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:contributor opf:role="bkp">calibre (2.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Deneme</dc:subject>
+    <dc:subject>Müzik</dc:subject>
+    <dc:subject>Eleştiri</dc:subject>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Şarkı Okuma Kitabı"/>
+    <dc:creator opf:file-as="Somay, Bülent" opf:role="aut">Bülent Somay</dc:creator>
+    <dc:publisher>Metis</dc:publisher>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-1.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="main-10.png" id="id10" media-type="image/png"/>
+    <item href="main-11.png" id="id11" media-type="image/png"/>
+    <item href="main-12.png" id="id12" media-type="image/png"/>
+    <item href="main-13.png" id="id13" media-type="image/png"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main-2.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="main-3.png" id="id3" media-type="image/png"/>
+    <item href="main-4.png" id="id4" media-type="image/png"/>
+    <item href="main-5.png" id="id5" media-type="image/png"/>
+    <item href="main-6.png" id="id6" media-type="image/png"/>
+    <item href="main-7.png" id="id7" media-type="image/png"/>
+    <item href="main-8.png" id="id8" media-type="image/png"/>
+    <item href="main-9.png" id="id9" media-type="image/png"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

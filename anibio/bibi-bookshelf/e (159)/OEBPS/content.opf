@@ -1,0 +1,103 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Lewis, Bernard">Bernard Lewis</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">65227ced-24a6-48ce-8888-af7a0ac5a133</dc:identifier>
+    <dc:publisher>Arkadaş</dc:publisher>
+    <dc:date>2005-11-12T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;p&gt;Hıristiyanlığın başlangıcından günümüze Ortadoğu'nun iki bin yıllık tarihini dünyaca ünlü tarihçi Bernard Lewis'in bilimsel bir yaklaşımla ve etkileyici bir dille anlattığı 'Ortadoğu' kitabı çıktı.
+Üç büyük dinin ve pekçok uygarlığın doğum yeri olan Ortadoğu bölgesi tarih boyunca nice savaşlara, nice göçlere, nice gelişimlere, değişimlere şahit olmuş, ev sahipliği yapmıştır. Kimi zaman uygarlıkları birleştiren köprü görevini üstlenmiş kimi zamansa dinler arası büyük çatışmalara sahne olmuştur.
+&lt;/p&gt;</dc:description>
+    <dc:date opf:event="modification">2014-11-14</dc:date>
+    <meta name="cover" content="cover"/>
+    <meta content="2014-11-13T21:35:37.957000+00:00" name="calibre:timestamp"/>
+    <meta content="Ortadoğu" name="calibre:title_sort"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Bernard Lewis&quot;: &quot;&quot;}"/>
+  <dc:title>Ortadoğu</dc:title>
+<dc:subject>Araştırma</dc:subject>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Toplum</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">ca4506e3-086a-4f6c-b7ee-8073339d97da</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9755094423</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/jacket.xhtml" id="calibre_jacket" media-type="application/xhtml+xml"/>
+    <item href="Text/part0001.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/part0002.html" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/part0003.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/part0004.html" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/part0005.html" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/part0006.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/part0007.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/part0008.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/part0009.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/part0010.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/part0011.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/part0012.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/part0013.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/part0014.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/part0015.html" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/part0016.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/part0017.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/part0018.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/part0019.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/part0020.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/part0021.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/part0022.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/part0023.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/part0024.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/part0025.html" id="id30" media-type="application/xhtml+xml"/>
+    <item href="Text/part0026.html" id="id31" media-type="application/xhtml+xml"/>
+    <item href="Text/part0027.html" id="id32" media-type="application/xhtml+xml"/>
+    <item href="Text/part0028.html" id="id33" media-type="application/xhtml+xml"/>
+    <item href="Text/part0029.html" id="id34" media-type="application/xhtml+xml"/>
+    <item href="Text/part0030.html" id="id35" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="calibre_jacket"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,573 @@
+.author {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 0 0 0.0001pt;
+}
+.calibre {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 1.125em;
+  letter-spacing: 0;
+  line-height: 1.2;
+}
+.calibre2 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 0.75em;
+  font-variant: normal;
+  font-weight: normal;
+}
+.calibre3 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 0.75em;
+  font-weight: normal;
+}
+.calibre4 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 0.75em;
+  font-style: normal;
+  font-weight: normal;
+}
+.calibre5 {
+  display: block;
+}
+.calibre6 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 0.91667em;
+  font-weight: normal;
+  letter-spacing: 0;
+  line-height: 1.2;
+}
+.calibre7 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre8 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 0.75em;
+  font-weight: normal;
+  letter-spacing: 0;
+  line-height: 1.2;
+}
+.calibre9 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-weight: normal;
+  letter-spacing: 0;
+}
+.calibre10 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-weight: normal;
+}
+.calibre11 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 1em;
+  font-weight: normal;
+  letter-spacing: 0;
+  line-height: 1.2;
+}
+.calibre12 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 1em;
+  letter-spacing: 0;
+  line-height: 1.2;
+}
+.calibre13 {
+  
+  font-family: "Bookman Old Style", serif;
+  letter-spacing: 0;
+}
+.calibre14 {
+  
+  font-family: "Bookman Old Style", serif;
+}
+.calibre15 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-style: normal;
+}
+.calibre16 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-variant: normal;
+  letter-spacing: 0;
+}
+.calibre17 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre18 {
+  font-weight: bold;
+}
+.calibre19 {
+  font-style: italic;
+}
+.calibre20 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 0.8em;
+  font-style: normal;
+}
+.calibre21 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 0.8em;
+  position: relative;
+  top: 3pt;
+}
+.calibre22 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-variant: normal;
+}
+.calibre23 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 0.8em;
+  letter-spacing: 0;
+}
+.calibre24 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 0.8em;
+  font-variant: normal;
+  letter-spacing: 0;
+}
+.calibre25 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-style: normal;
+  font-weight: normal;
+}
+.calibre26 {
+  font-family: "Bookman Old Style", serif;
+}
+.calibre27 {
+  
+  font-family: "Bookman Old Style", serif;
+  letter-spacing: 0;
+  position: relative;
+  top: -0.5pt;
+}
+.calibre28 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-weight: normal;
+  letter-spacing: 0;
+  position: relative;
+  top: -0.5pt;
+}
+.calibre29 {
+  font-size: 0.75em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre30 {
+  font-style: italic;
+  line-height: 1.2;
+}
+.calibre31 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 1em;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.calibre32 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0;
+}
+.calibre33 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 1em;
+  line-height: 1.2;
+  position: relative;
+  top: 3.5pt;
+}
+.calibre34 {
+  
+  font-family: "Bookman Old Style", serif;
+  position: relative;
+  top: 3.5pt;
+}
+.calibre35 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 1em;
+  font-weight: normal;
+  letter-spacing: 0;
+  line-height: 1.2;
+  position: relative;
+  top: 3pt;
+}
+.calibre36 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-weight: normal;
+  letter-spacing: 0;
+  position: relative;
+  top: 3pt;
+}
+.calibre37 {
+  
+  font-family: "Bookman Old Style", serif;
+  letter-spacing: 0;
+  position: relative;
+  top: 3pt;
+}
+.calibre38 {
+  color: gray;
+  display: block;
+  height: 2px;
+  text-align: left;
+  border-top: currentColor solid 1px;
+  border-right: currentColor none 1px;
+  border-bottom: currentColor none 1px;
+  border-left: currentColor none 1px;
+  margin: 0.5em auto;
+}
+.calibre39 {
+  font-family: "Cambria", serif;
+  font-size: 1em;
+}
+.fontstyle {
+  color: black;
+  font-family: "Times New Roman", serif;
+  letter-spacing: 1pt;
+}
+.fontstyle1 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-variant: small-caps;
+  font-weight: bold;
+}
+.fontstyle2 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+}
+.fontstyle3 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-style: italic;
+  font-weight: bold;
+}
+.fontstyle4 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+  letter-spacing: 5.5pt;
+  line-height: 1.2;
+}
+.fontstyle5 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  letter-spacing: 1pt;
+  line-height: 1.2;
+}
+.fontstyle6 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+  letter-spacing: 1pt;
+}
+.fontstyle7 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-style: italic;
+}
+.fontstyle8 {
+  color: black;
+  font-family: "Arial Narrow", sans-serif;
+  font-style: italic;
+}
+.fontstyle9 {
+  color: black;
+  font-family: "Constantia", serif;
+  font-variant: small-caps;
+  letter-spacing: 4.5pt;
+}
+.fontstyle10 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.fontstyle11 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.fontstyle12 {
+  color: black;
+  font-family: "Corbel", sans-serif;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.fontstyle13 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-style: italic;
+  font-variant: small-caps;
+}
+.fontstyle14 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-style: italic;
+  font-weight: bold;
+  letter-spacing: 1pt;
+}
+.fontstyle15 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-style: italic;
+  font-weight: bold;
+  letter-spacing: 1pt;
+  line-height: 1.2;
+}
+.fontstyle16 {
+  color: black;
+  font-family: "Constantia", serif;
+  font-variant: small-caps;
+  letter-spacing: 4.5pt;
+  line-height: 1.2;
+}
+.fontstyle17 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+  letter-spacing: 0.5pt;
+}
+.fontstyle18 {
+  color: black;
+  font-family: "Impact", sans-serif;
+}
+.fontstyle19 {
+  color: black;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  letter-spacing: 1pt;
+}
+.fontstyle20 {
+  color: black;
+  font-family: "Arial Narrow", sans-serif;
+}
+.fontstyle21 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  letter-spacing: 0.5pt;
+}
+.fontstyle22 {
+  color: black;
+  font-family: "Arial Narrow", sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  letter-spacing: 1pt;
+}
+.fontstyle23 {
+  color: black;
+  font-family: SimHei;
+}
+.fontstyle24 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+  letter-spacing: 5.5pt;
+}
+.msofootnotereference {
+  vertical-align: super;
+}
+.msofootnotetext {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 0.75em;
+  text-align: justify;
+  text-indent: 36pt;
+  margin: 0 0 0.0001pt;
+}
+.msonormal {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 36pt;
+  margin: 0 0 0.0001pt;
+}
+.onetext {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 7.2pt;
+  margin: 0 0 0.0001pt;
+}
+.style {
+  display: block;
+  font-family: "Impact", sans-serif;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  
+  margin: 0 0 0.0001pt;
+}
+.style1 {
+  display: block;
+  font-family: "Impact", sans-serif;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  
+  margin: 0 0 0.0001pt;
+}
+.style2 {
+  display: block;
+  font-family: "Impact", sans-serif;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: right;
+  
+  text-indent: 36pt;
+  margin: 0 0 0.0001pt;
+}
+.style3 {
+  display: block;
+  font-family: "Impact", sans-serif;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  
+  text-indent: 36pt;
+  margin: 0 0 0.0001pt;
+}
+.style4 {
+  display: block;
+  font-family: "Impact", sans-serif;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  
+  margin: 0 0 0.0001pt 108pt;
+}
+.twochaptertitle {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 1.25em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  text-indent: 36pt;
+  text-transform: uppercase;
+  margin: 12pt 0 3pt;
+}
+.twochaptertitle1 {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 1.25em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  text-indent: 0;
+  text-transform: uppercase;
+  margin: 12pt 0 3pt;
+}
+.twoonechaptersubtitle {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  text-indent: 36pt;
+  margin: 6pt 7.2pt 3pt;
+}
+.twoonechaptersubtitle1 {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  text-indent: 0;
+  margin: 6pt 7.2pt 3pt 0;
+}
+.twoonechaptersubtitle2 {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: center;
+  text-indent: 0;
+  margin: 6pt 7.2pt 3pt;
+}
+.wordsection {
+  display: block;
+  page: WordSection1;
+}
+.wordsection1 {
+  display: block;
+  page: WordSection2;
+}
+.wordsection2 {
+  display: block;
+  page: WordSection3;
+}
+.wordsection3 {
+  display: block;
+  page: WordSection4;
+}
+.pcalibre:link {
+  color: #06C;
+  text-decoration: underline;
+}
+.pcalibre1:visited {
+  color: purple;
+  text-decoration: underline;
+}

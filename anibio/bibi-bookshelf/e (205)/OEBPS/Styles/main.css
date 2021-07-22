@@ -1,0 +1,274 @@
+body {
+	margin: 10% 10pt;
+	font-family: Palatino, Georgia, serif;
+}
+
+p {
+	text-indent: 1.5em;
+	text-align: justify;
+	margin: 0;
+	line-height: 1.3em;
+}
+
+h1, h2 {
+	text-indent: 0;
+	text-align: center;
+}
+
+h4 {
+	text-indent: 0;
+	text-align: right;
+	font-size: 1.1em;
+	margin: 0;
+}
+
+h3 {
+	text-indent: 0;
+	text-align: left;
+	font-size: 1.1em;
+}
+
+h5 {
+	text-indent: 0;
+	text-align: center;
+	font-size: 1.1em;
+}
+
+.ickapak {
+	margin-top: 2em;
+}
+
+.ickapak p {
+	text-indent: 0;
+	text-align: center;
+}
+
+.yazar {
+	font-size: 1.3em;
+	margin-bottom: 1em;
+}
+
+.kitap {
+	font-size: 3em;
+	margin-bottom: 0.5em;
+}
+
+.logo {
+	margin-top: 6em;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table, th, td {
+	border: 1px solid black;
+	margin-top: 1em;
+}
+
+th {
+	background-color: #D3D3D3;
+	text-align: left;
+	padding-left: 0.5em;
+}
+
+th.center {
+	background-color: #D3D3D3;
+	text-align: center;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+}
+
+th.demo {
+	background-color: #808080;
+}
+
+th.sayi {
+	background-color: #808080;
+	text-align: center;
+	padding: 0 0.5em 0 0.5em;
+}
+
+th.noborder {
+	border: 0;
+}
+
+td {
+	text-align: left;
+	padding-left: 0.5em;
+}
+
+td.center {
+	text-align: center;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+}
+
+td.renkli {
+	background-color: #D3D3D3;
+	text-align: left;
+	padding-left: 0.5em;
+}
+
+td.renklicenter {
+	background-color: #D3D3D3;
+	text-align: center;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+}
+
+.yildiz {
+	font-size: 1.3em;
+	text-align: center;
+	margin: 0.5em 0 0.5em 0;
+}
+
+.noindent {
+	text-indent: 0;
+}
+
+.kunya p {
+	font-family: "Garamond";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 0.67em;
+	text-decoration: none;
+	font-variant: normal;
+	line-height: 1.38;
+	text-align: left;
+	color: #000;
+	text-indent: 0;
+	margin: 3px 30px 0 30px;
+}
+
+.bosluk4 {
+	padding-top: 4em;
+	padding-bottom: 4em;
+}
+
+.bosluk1 {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.bosluk2 {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.n {
+	text-indent: 0;
+	text-align: justify;
+	margin: 0;
+	line-height: 1.3em;
+}
+
+.ithaf {
+	text-indent: 3em;
+	text-align: justify;
+	font-family: "Liberation Serif", Times;
+	font-size: 1.2em;
+	margin-right: 0.5in;
+	font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+div.b {
+	margin-left: 5em;
+	margin-left: 2em;
+	margin-bottom: 0;
+}
+
+div.r {
+	text-indent: 3em;
+	margin-left: 2em;
+	margin-bottom: 0;
+}
+
+.atif {
+	font-size: 1.3em;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+.atifb {
+	font-size: 2.5em;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+.atifc {
+	font-size: 0.85em;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+.mektup {
+	text-indent: 3em;
+	text-align: right;
+	font-size: 1em;
+	font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.bas {
+	text-indent: 0;
+	text-align: left;
+	font-size: 1em;
+	font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.bas1 {
+	text-indent: 0;
+	text-align: right;
+	font-size: 1.2em;
+	font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.arayazi {
+	text-indent: 1.5em;
+	font-weight: normal;
+	font-style: normal;
+	font-style: italic;
+	font-size: 0.8em;
+	text-decoration: none;
+	font-variant: normal;
+	line-height: 1.38;
+	text-align: justify;
+	color: #000;
+	text-indent: 0;
+	margin: 3px 30px 0 30px;
+}
+
+.mektu {
+	text-indent: 0;
+	text-align: left;
+	font-size: 1em;
+	font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.bas2 {
+	text-indent: 0;
+	text-align: right;
+	font-size: 1em;
+	font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.hhh {
+	text-indent: 0;
+	text-align: center;
+	font-size: 1em;
+}

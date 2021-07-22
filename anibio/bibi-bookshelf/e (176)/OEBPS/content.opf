@@ -1,0 +1,46 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Kirchhoff, Bodo">Bodo Kirchhoff</dc:creator>
+<dc:identifier id="uuid">{9CFF586A-7699-4F6E-9781-12E16D2A1D51}</dc:identifier>
+    <dc:date>2000-11-07T22:00:00+00:00</dc:date>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Kum Adam</dc:title>
+<meta name="calibre:title_sort" content="Kum Adam"/>
+<dc:publisher>Can Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;p&gt;Frankfurt radyosunda sunucu olarak çalışan Quint, bir yıl boyunca oğluna bakıcılık etmiş ve ansızın ortadan kaybolmuş olan Helen'in izini bulmak üzere yanına oğlu Julian'ı da alarak Tunus'a gider. Helen'in kalmış olduğu otele, hatta onun eski odasına yerleşir. Tunus'un gizemli, yabancı ortamı içinde Quint zaman duygusunu yitirir. Helen'in geride bırakmış olduğu defter, Quint'in onunla olan ilişkisini ve Helen'in kimliğini çözümlemesine yardımcı olur. Küçük otelin sahibesi, geçkin madam Melrose, otel müşterisi, sürgündeki doktor Branzger, Helen'le ilişkisi olan bir Arap, Küçük Kafa denilen klasik müzik meraklısı garip bir genç ve harmanisi içinde kim olduğu anlaşılmayan bir karaltı. Bütün bu insanlar ve Tunus'un alışılmadık boğucu, ortamı Quint'i bunaltır. Bir yandan durmadan yeni sayfalar eklenen elindeki defter yardımıyla Helen'in izini sürerken, bir yandan da kendini umulmadık, ama kurtarıcı bir aşkın içinde bulur. Genç kuşak Alman yazarları arasında yer alan Bodo Kirchhoff'un Kum Adam'ı Türkçeye çevrilen ilk romanı.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Bodo Kirchhoff&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">c6839b81-921b-4757-90ad-bc6eec1fb7eb</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9755106472</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/main-3.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/Cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-author.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-info.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id7" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id5"/>
+    <itemref idref="id7"/>
+    <itemref idref="id6"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

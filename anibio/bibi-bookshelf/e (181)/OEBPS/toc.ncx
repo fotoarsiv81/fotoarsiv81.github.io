@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="292f6afa-8872-46a6-8ba1-c9bfb7c6e39d" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Amerikan Sapığı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>1 Nisan Alıkları</text>
+      </navLabel>
+      <content src="Text/index_split_003.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Sabah</text>
+      </navLabel>
+      <content src="Text/index_split_003.html#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Harry's</text>
+      </navLabel>
+      <content src="Text/index_split_003.html#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Pastels</text>
+      </navLabel>
+      <content src="Text/index_split_003.html#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Tunnel</text>
+      </navLabel>
+      <content src="Text/index_split_003.html#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Büro</text>
+      </navLabel>
+      <content src="Text/index_split_003.html#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Jimnastik Kulübü</text>
+      </navLabel>
+      <content src="Text/index_split_003.html#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Randevu</text>
+      </navLabel>
+      <content src="Text/index_split_003.html#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Kuru Temizleyici</text>
+      </navLabel>
+      <content src="Text/index_split_003.html#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Harry's</text>
+      </navLabel>
+      <content src="Text/index_split_003.html#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Şezlonglar</text>
+      </navLabel>
+      <content src="Text/index_split_003.html#sigil_toc_id_10"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>İş Toplantısı</text>
+      </navLabel>
+      <content src="Text/index_split_004.html#sigil_toc_id_11"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Videocu Sonra D'Agostino's</text>
+      </navLabel>
+      <content src="Text/index_split_004.html#sigil_toc_id_12"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Yüz Bakımı</text>
+      </navLabel>
+      <content src="Text/index_split_004.html#sigil_toc_id_13"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Evelyn'Le Randevu</text>
+      </navLabel>
+      <content src="Text/index_split_004.html#sigil_toc_id_14"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Salı</text>
+      </navLabel>
+      <content src="Text/index_split_004.html#sigil_toc_id_15"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Genesis</text>
+      </navLabel>
+      <content src="Text/index_split_004.html#sigil_toc_id_16"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Öğle Yemeği</text>
+      </navLabel>
+      <content src="Text/index_split_004.html#sigil_toc_id_17"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Konser</text>
+      </navLabel>
+      <content src="Text/index_split_004.html#sigil_toc_id_18"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Bir Perşembe Öğleden Sonrasına Kısa Bakış</text>
+      </navLabel>
+      <content src="Text/index_split_004.html#sigil_toc_id_19"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Yaleliler Kulübü</text>
+      </navLabel>
+      <content src="Text/index_split_004.html#sigil_toc_id_20"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Köpek Öldürüyorum</text>
+      </navLabel>
+      <content src="Text/index_split_005.html#sigil_toc_id_21"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Kızlar</text>
+      </navLabel>
+      <content src="Text/index_split_005.html#sigil_toc_id_22"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Alışveriş</text>
+      </navLabel>
+      <content src="Text/index_split_005.html#sigil_toc_id_23"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Noel Partisi</text>
+      </navLabel>
+      <content src="Text/index_split_005.html#sigil_toc_id_24"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Nell's</text>
+      </navLabel>
+      <content src="Text/index_split_005.html#sigil_toc_id_25"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Paul Owen</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#sigil_toc_id_26"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Paul Smith</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#sigil_toc_id_27"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Doğumgünü, Biraderler</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#sigil_toc_id_28"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Bethany'yle öğle Yemeği</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#sigil_toc_id_29"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Perşembe</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#sigil_toc_id_30"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Whitney Houston</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#sigil_toc_id_31"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Sekreterimle Yemek</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#sigil_toc_id_32"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Dedektif</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#sigil_toc_id_33"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Yaz</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#sigil_toc_id_34"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Kızlar</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#sigil_toc_id_35"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>İbneyle Karşılaşma</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#sigil_toc_id_36"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Hayvanat Bahçesinde Çocuk Öldürüyorum</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#sigil_toc_id_37"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Kızlar</text>
+      </navLabel>
+      <content src="Text/index_split_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Lağım Faresi</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_38"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Bir Başka Gece</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_39"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Bir Kız</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_40"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Gene Yeni Bir Lokantada</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_41"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Kızı Pişirip Yemeyi Deniyorum</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_42"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Jimnastik Salonuna Uzi Götürüyorum</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_43"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Takip, Manhattan</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_44"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Huey Lewis And The News</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_45"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Courtney'yle Yatakta</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_46"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Smith &amp; Wollensky</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_47"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Televizyonda Bir Şey</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_48"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Sandstone</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_49"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>İş İçin En İyi Kent</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_50"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>1980'lerin Sonu</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_51"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Aspen</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_52"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Sevgililer Günü</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_53"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Beşinci Cadde'deki Berduş</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_54"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Yeni Kulüp</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_55"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Taksi Şoförü</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_56"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Harry's</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_57"/>
+    </navPoint>
+  </navMap>
+</ncx>

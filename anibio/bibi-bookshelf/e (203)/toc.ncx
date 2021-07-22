@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="3180c52d-56f5-4a30-9d72-9e7ad5840e67" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.20.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Şarkı Okuma Kitabı</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{95377304-8C82-4AD7-9F31-2CDC700EF7F8}" playOrder="1">
+      <navLabel>
+        <text>KIRILGAN / ON YIL SONRA</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{E2B306E8-9818-459E-847B-84887D0B2B3E}" playOrder="2">
+      <navLabel>
+        <text>1. GÜZEL</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

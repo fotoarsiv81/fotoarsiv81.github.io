@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Şafak Yıldızı'nın Yolculuğu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Lewis, C. S.">C. S. Lewis</dc:creator>
+    <dc:publisher>Doğan Egmond Yayınları</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.0.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c4ed9bee-6400-4af3-9c5b-8c1e96d7f605</dc:identifier>
+    <dc:date opf:event="modification">2014-03-25</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">9357754a-36d1-4274-a682-76cf7acd093b</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_001.html" id="id129" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_002.html" id="id128" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_003.html" id="id127" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_004.html" id="id126" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_005.html" id="id125" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_006.html" id="id124" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_007.html" id="id123" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_008.html" id="id122" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_009.html" id="id121" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_010.html" id="id120" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_011.html" id="id119" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_012.html" id="id118" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_013.html" id="id117" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_014.html" id="id116" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_015.html" id="id115" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_016.html" id="id114" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_017.html" id="id113" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_018.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_019.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_020.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_022.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/00001.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="Images/00002.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="Images/00003.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="Images/00004.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="Images/00005.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="Images/00007.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="Images/00008.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="Images/00011.jpg" id="id13" media-type="image/jpeg"/>
+    <item href="Images/00012.jpg" id="id14" media-type="image/jpeg"/>
+    <item href="Images/00013.jpg" id="id15" media-type="image/jpeg"/>
+    <item href="Images/00014.jpg" id="id16" media-type="image/jpeg"/>
+    <item href="Images/00015.jpg" id="id17" media-type="image/jpeg"/>
+    <item href="Images/00016.jpg" id="id18" media-type="image/jpeg"/>
+    <item href="Images/00017.jpg" id="id19" media-type="image/jpeg"/>
+    <item href="Images/00018.jpg" id="id20" media-type="image/jpeg"/>
+    <item href="Images/00019.jpg" id="id21" media-type="image/jpeg"/>
+    <item href="Images/00020.jpg" id="id22" media-type="image/jpeg"/>
+    <item href="Images/00021.jpg" id="id23" media-type="image/jpeg"/>
+    <item href="Images/00022.jpg" id="id24" media-type="image/jpeg"/>
+    <item href="Images/00023.jpg" id="id25" media-type="image/jpeg"/>
+    <item href="Images/00024.jpg" id="id26" media-type="image/jpeg"/>
+    <item href="Images/00025.jpg" id="id27" media-type="image/jpeg"/>
+    <item href="Images/00026.jpg" id="id28" media-type="image/jpeg"/>
+    <item href="Images/00027.jpg" id="id29" media-type="image/jpeg"/>
+    <item href="Images/00028.jpg" id="id30" media-type="image/jpeg"/>
+    <item href="Images/00029.jpg" id="id31" media-type="image/jpeg"/>
+    <item href="Images/00030.jpg" id="id32" media-type="image/jpeg"/>
+    <item href="Images/00031.jpg" id="id33" media-type="image/jpeg"/>
+    <item href="Images/00032.jpg" id="id34" media-type="image/jpeg"/>
+    <item href="Images/00033.jpg" id="id35" media-type="image/jpeg"/>
+    <item href="Images/00034.jpg" id="id36" media-type="image/jpeg"/>
+    <item href="Images/00035.jpg" id="id37" media-type="image/jpeg"/>
+    <item href="Images/00036.jpg" id="id38" media-type="image/jpeg"/>
+    <item href="Images/00037.jpg" id="id39" media-type="image/jpeg"/>
+    <item href="Images/00038.jpg" id="id40" media-type="image/jpeg"/>
+    <item href="Images/00039.jpg" id="id41" media-type="image/jpeg"/>
+    <item href="Images/00040.jpg" id="id42" media-type="image/jpeg"/>
+    <item href="Images/00041.jpg" id="id43" media-type="image/jpeg"/>
+    <item href="Images/00042.jpg" id="id44" media-type="image/jpeg"/>
+    <item href="Images/00043.jpg" id="id45" media-type="image/jpeg"/>
+    <item href="Images/00044.jpg" id="id46" media-type="image/jpeg"/>
+    <item href="Images/00045.jpg" id="id47" media-type="image/jpeg"/>
+    <item href="Images/00046.jpg" id="id48" media-type="image/jpeg"/>
+    <item href="Images/00047.jpg" id="id49" media-type="image/jpeg"/>
+    <item href="Images/00048.jpg" id="id50" media-type="image/jpeg"/>
+    <item href="Images/00049.jpg" id="id51" media-type="image/jpeg"/>
+    <item href="Images/00050.jpg" id="id52" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id129"/>
+    <itemref idref="id128"/>
+    <itemref idref="id127"/>
+    <itemref idref="id126"/>
+    <itemref idref="id125"/>
+    <itemref idref="id124"/>
+    <itemref idref="id123"/>
+    <itemref idref="id122"/>
+    <itemref idref="id121"/>
+    <itemref idref="id120"/>
+    <itemref idref="id119"/>
+    <itemref idref="id118"/>
+    <itemref idref="id117"/>
+    <itemref idref="id116"/>
+    <itemref idref="id115"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/Narnia_Gunlukleri_5_Safak_Yildi_split_022.html#filepos392187" title="Table of Contents" type="toc"/>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

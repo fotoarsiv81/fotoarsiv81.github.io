@@ -1,0 +1,501 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Werber, Bernard">Bernard Werber</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:ee490fbe-422b-40d7-b099-46d5fbb56c67</dc:identifier>
+    <dc:date>2010-06-23T21:00:00+00:00</dc:date>
+    <meta content="0.8.7" name="Sigil version"/>
+    <meta name="cover" content="Cover.jpg"/>
+  <meta name="calibre:title_sort" content="Karıncaların Günü"/>
+<dc:publisher>Arion Basım Yayın</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;Sayıları milyarlarca. Biz onları fark etmiyoruz bile ama onlar bizi uzun süredir izliyorlar. Bazıları için biz Tanrıyız. Diğerleri için de kötülük yapan yaratıklar. Müthiş bir zeka ve en korkunç orduları aratmayacak, inanılmaz örgütleriyle insafsız bir savaşa hazırlanıyorlar. Dünyanın gerçek efendileri kim olacak? Onların hayatta kalması sorunun yanıtına bağlı... Bizim hayatta kalmamız da .Karıncaların günü gerçekten geldi mi?Uluslararası best-seller, on iki dile çevirilen, birçok jüri tarafından ödüllendirilen, bazı okullarda biyoloji derslerinin programına alınan önceki romanı KARINCALAR'ın büyük başarısından sonra romanca ve bilimsel yazılar yazan gazeteci BERNARD WERBER "dünya içi yaratıkları" konu alan efsanesine devam ediyor. Bizi sapık davranışlı, yırtıcı, büyüleyici böceklerin kaynaştığı, sanrılara yolaçan ve korkunç bir evrende daha da ileri götürüyor.Bir gerilim romanından öte, KARINCALARIN GÜNÜ bilim kurgu ve hayal gücünü sonsuz küçüklükteki dünyayla ilgili en ileri bilimsel bilgiyle karıştırarak harika ve şaşırtıcı modern odysseia haline getiriyor.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; widows: 1; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:author_link_map" content="{&quot;Bernard Werber&quot;: &quot;&quot;}"/>
+<dc:title>Karıncaların Günü</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Bilim Kurgu</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">c27e0296-616e-4a45-96d8-4345f53b815a</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755710594</dc:identifier>
+<meta name="calibre:user_metadata:#mm_annotations" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;datatype&quot;: &quot;comments&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#mm_annotations&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;column&quot;: &quot;value&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;mm_annotations&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Annotations&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/sozluk.html" id="sozluk.html" media-type="application/xhtml+xml"/>
+    <item href="Text/baslik.html" id="baslik.html" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Text/kunye.html" id="kunye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.html" id="ithaf.html" media-type="application/xhtml+xml"/>
+    <item href="Text/quote.html" id="quote.html" media-type="application/xhtml+xml"/>
+    <item href="Text/tesekkur.html" id="tesekkur.html" media-type="application/xhtml+xml"/>
+    <item href="Text/1gizem.html" id="x1gizem.html" media-type="application/xhtml+xml"/>
+    <item href="Text/2gizem.html" id="x2gizem.html" media-type="application/xhtml+xml"/>
+    <item href="Text/3gizem.html" id="x3gizem.html" media-type="application/xhtml+xml"/>
+    <item href="Text/149.html" id="x149.html" media-type="application/xhtml+xml"/>
+    <item href="Text/184.html" id="x184.html" media-type="application/xhtml+xml"/>
+    <item href="Text/001.html" id="x001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="x002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="x003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="x008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="x004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="x007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="x005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="x006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="x009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="x010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="x011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/012.html" id="x012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/013.html" id="x013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/014.html" id="x014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/015.html" id="x015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/016.html" id="x016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/017.html" id="x017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/018.html" id="x018.html" media-type="application/xhtml+xml"/>
+    <item href="Text/019.html" id="x019.html" media-type="application/xhtml+xml"/>
+    <item href="Text/020.html" id="x020.html" media-type="application/xhtml+xml"/>
+    <item href="Text/021.html" id="x021.html" media-type="application/xhtml+xml"/>
+    <item href="Text/022.html" id="x022.html" media-type="application/xhtml+xml"/>
+    <item href="Text/023.html" id="x023.html" media-type="application/xhtml+xml"/>
+    <item href="Text/024.html" id="x024.html" media-type="application/xhtml+xml"/>
+    <item href="Text/025.html" id="x025.html" media-type="application/xhtml+xml"/>
+    <item href="Text/026.html" id="x026.html" media-type="application/xhtml+xml"/>
+    <item href="Text/027.html" id="x027.html" media-type="application/xhtml+xml"/>
+    <item href="Text/028.html" id="x028.html" media-type="application/xhtml+xml"/>
+    <item href="Text/029.html" id="x029.html" media-type="application/xhtml+xml"/>
+    <item href="Text/030.html" id="x030.html" media-type="application/xhtml+xml"/>
+    <item href="Text/031.html" id="x031.html" media-type="application/xhtml+xml"/>
+    <item href="Text/032.html" id="x032.html" media-type="application/xhtml+xml"/>
+    <item href="Text/033.html" id="x033.html" media-type="application/xhtml+xml"/>
+    <item href="Text/034.html" id="x034.html" media-type="application/xhtml+xml"/>
+    <item href="Text/035.html" id="x035.html" media-type="application/xhtml+xml"/>
+    <item href="Text/036.html" id="x036.html" media-type="application/xhtml+xml"/>
+    <item href="Text/037.html" id="x037.html" media-type="application/xhtml+xml"/>
+    <item href="Text/038.html" id="x038.html" media-type="application/xhtml+xml"/>
+    <item href="Text/047.html" id="x047.html" media-type="application/xhtml+xml"/>
+    <item href="Text/039.html" id="x039.html" media-type="application/xhtml+xml"/>
+    <item href="Text/040.html" id="x040.html" media-type="application/xhtml+xml"/>
+    <item href="Text/046.html" id="x046.html" media-type="application/xhtml+xml"/>
+    <item href="Text/045.html" id="x045.html" media-type="application/xhtml+xml"/>
+    <item href="Text/043.html" id="x043.html" media-type="application/xhtml+xml"/>
+    <item href="Text/044.html" id="x044.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/048.html" id="x048.html" media-type="application/xhtml+xml"/>
+    <item href="Text/049.html" id="x049.html" media-type="application/xhtml+xml"/>
+    <item href="Text/050.html" id="x050.html" media-type="application/xhtml+xml"/>
+    <item href="Text/051.html" id="x051.html" media-type="application/xhtml+xml"/>
+    <item href="Text/052.html" id="x052.html" media-type="application/xhtml+xml"/>
+    <item href="Text/053.html" id="x053.html" media-type="application/xhtml+xml"/>
+    <item href="Text/054.html" id="x054.html" media-type="application/xhtml+xml"/>
+    <item href="Text/055.html" id="x055.html" media-type="application/xhtml+xml"/>
+    <item href="Text/056.html" id="x056.html" media-type="application/xhtml+xml"/>
+    <item href="Text/057.html" id="x057.html" media-type="application/xhtml+xml"/>
+    <item href="Text/058.html" id="x058.html" media-type="application/xhtml+xml"/>
+    <item href="Text/059.html" id="x059.html" media-type="application/xhtml+xml"/>
+    <item href="Text/060.html" id="x060.html" media-type="application/xhtml+xml"/>
+    <item href="Text/061.html" id="x061.html" media-type="application/xhtml+xml"/>
+    <item href="Text/062.html" id="x062.html" media-type="application/xhtml+xml"/>
+    <item href="Text/063.html" id="x063.html" media-type="application/xhtml+xml"/>
+    <item href="Text/064.html" id="x064.html" media-type="application/xhtml+xml"/>
+    <item href="Text/065.html" id="x065.html" media-type="application/xhtml+xml"/>
+    <item href="Text/066.html" id="x066.html" media-type="application/xhtml+xml"/>
+    <item href="Text/067.html" id="x067.html" media-type="application/xhtml+xml"/>
+    <item href="Text/068.html" id="x068.html" media-type="application/xhtml+xml"/>
+    <item href="Text/069.html" id="x069.html" media-type="application/xhtml+xml"/>
+    <item href="Text/070.html" id="x070.html" media-type="application/xhtml+xml"/>
+    <item href="Text/071.html" id="x071.html" media-type="application/xhtml+xml"/>
+    <item href="Text/072.html" id="x072.html" media-type="application/xhtml+xml"/>
+    <item href="Text/073.html" id="x073.html" media-type="application/xhtml+xml"/>
+    <item href="Text/074.html" id="x074.html" media-type="application/xhtml+xml"/>
+    <item href="Text/075.html" id="x075.html" media-type="application/xhtml+xml"/>
+    <item href="Text/076.html" id="x076.html" media-type="application/xhtml+xml"/>
+    <item href="Text/080.html" id="x080.html" media-type="application/xhtml+xml"/>
+    <item href="Text/077.html" id="x077.html" media-type="application/xhtml+xml"/>
+    <item href="Text/078.html" id="x078.html" media-type="application/xhtml+xml"/>
+    <item href="Text/079.html" id="x079.html" media-type="application/xhtml+xml"/>
+    <item href="Text/081.html" id="x081.html" media-type="application/xhtml+xml"/>
+    <item href="Text/082.html" id="x082.html" media-type="application/xhtml+xml"/>
+    <item href="Text/083.html" id="x083.html" media-type="application/xhtml+xml"/>
+    <item href="Text/084.html" id="x084.html" media-type="application/xhtml+xml"/>
+    <item href="Text/085.html" id="x085.html" media-type="application/xhtml+xml"/>
+    <item href="Text/086.html" id="x086.html" media-type="application/xhtml+xml"/>
+    <item href="Text/087.html" id="x087.html" media-type="application/xhtml+xml"/>
+    <item href="Text/088.html" id="x088.html" media-type="application/xhtml+xml"/>
+    <item href="Text/089.html" id="x089.html" media-type="application/xhtml+xml"/>
+    <item href="Text/090.html" id="x090.html" media-type="application/xhtml+xml"/>
+    <item href="Text/091.html" id="x091.html" media-type="application/xhtml+xml"/>
+    <item href="Text/092.html" id="x092.html" media-type="application/xhtml+xml"/>
+    <item href="Text/093.html" id="x093.html" media-type="application/xhtml+xml"/>
+    <item href="Text/094.html" id="x094.html" media-type="application/xhtml+xml"/>
+    <item href="Text/095.html" id="x095.html" media-type="application/xhtml+xml"/>
+    <item href="Text/096.html" id="x096.html" media-type="application/xhtml+xml"/>
+    <item href="Text/097.html" id="x097.html" media-type="application/xhtml+xml"/>
+    <item href="Text/098.html" id="x098.html" media-type="application/xhtml+xml"/>
+    <item href="Text/099.html" id="x099.html" media-type="application/xhtml+xml"/>
+    <item href="Text/115.html" id="x115.html" media-type="application/xhtml+xml"/>
+    <item href="Text/145.html" id="x145.html" media-type="application/xhtml+xml"/>
+    <item href="Text/141.html" id="x141.html" media-type="application/xhtml+xml"/>
+    <item href="Text/152.html" id="x152.html" media-type="application/xhtml+xml"/>
+    <item href="Text/157.html" id="x157.html" media-type="application/xhtml+xml"/>
+    <item href="Text/160.html" id="x160.html" media-type="application/xhtml+xml"/>
+    <item href="Text/164.html" id="x164.html" media-type="application/xhtml+xml"/>
+    <item href="Text/167.html" id="x167.html" media-type="application/xhtml+xml"/>
+    <item href="Text/168.html" id="x168.html" media-type="application/xhtml+xml"/>
+    <item href="Text/185.html" id="x185.html" media-type="application/xhtml+xml"/>
+    <item href="Text/188.html" id="x188.html" media-type="application/xhtml+xml"/>
+    <item href="Text/4gizem.html" id="x4gizem.html" media-type="application/xhtml+xml"/>
+    <item href="Text/114.html" id="x114.html" media-type="application/xhtml+xml"/>
+    <item href="Text/112.html" id="x112.html" media-type="application/xhtml+xml"/>
+    <item href="Text/113.html" id="x113.html" media-type="application/xhtml+xml"/>
+    <item href="Text/144.html" id="x144.html" media-type="application/xhtml+xml"/>
+    <item href="Text/120.html" id="x120.html" media-type="application/xhtml+xml"/>
+    <item href="Text/140.html" id="x140.html" media-type="application/xhtml+xml"/>
+    <item href="Text/142.html" id="x142.html" media-type="application/xhtml+xml"/>
+    <item href="Text/143.html" id="x143.html" media-type="application/xhtml+xml"/>
+    <item href="Text/5gizem.html" id="x5gizem.html" media-type="application/xhtml+xml"/>
+    <item href="Text/146.html" id="x146.html" media-type="application/xhtml+xml"/>
+    <item href="Text/147.html" id="x147.html" media-type="application/xhtml+xml"/>
+    <item href="Text/148.html" id="x148.html" media-type="application/xhtml+xml"/>
+    <item href="Text/150.html" id="x150.html" media-type="application/xhtml+xml"/>
+    <item href="Text/151.html" id="x151.html" media-type="application/xhtml+xml"/>
+    <item href="Text/153.html" id="x153.html" media-type="application/xhtml+xml"/>
+    <item href="Text/154.html" id="x154.html" media-type="application/xhtml+xml"/>
+    <item href="Text/155.html" id="x155.html" media-type="application/xhtml+xml"/>
+    <item href="Text/156.html" id="x156.html" media-type="application/xhtml+xml"/>
+    <item href="Text/158.html" id="x158.html" media-type="application/xhtml+xml"/>
+    <item href="Text/159.html" id="x159.html" media-type="application/xhtml+xml"/>
+    <item href="Text/163.html" id="x163.html" media-type="application/xhtml+xml"/>
+    <item href="Text/165.html" id="x165.html" media-type="application/xhtml+xml"/>
+    <item href="Text/166.html" id="x166.html" media-type="application/xhtml+xml"/>
+    <item href="Text/6gizem.html" id="x6gizem.html" media-type="application/xhtml+xml"/>
+    <item href="Text/182.html" id="x182.html" media-type="application/xhtml+xml"/>
+    <item href="Text/183.html" id="x183.html" media-type="application/xhtml+xml"/>
+    <item href="Text/186.html" id="x186.html" media-type="application/xhtml+xml"/>
+    <item href="Text/187.html" id="x187.html" media-type="application/xhtml+xml"/>
+    <item href="Text/041.html" id="x041.html" media-type="application/xhtml+xml"/>
+    <item href="Text/101.html" id="x101.html" media-type="application/xhtml+xml"/>
+    <item href="Text/100.html" id="x100.html" media-type="application/xhtml+xml"/>
+    <item href="Text/102.html" id="x102.html" media-type="application/xhtml+xml"/>
+    <item href="Text/103.html" id="x103.html" media-type="application/xhtml+xml"/>
+    <item href="Text/104.html" id="x104.html" media-type="application/xhtml+xml"/>
+    <item href="Text/107.html" id="x107.html" media-type="application/xhtml+xml"/>
+    <item href="Text/110.html" id="x110.html" media-type="application/xhtml+xml"/>
+    <item href="Text/106.html" id="x106.html" media-type="application/xhtml+xml"/>
+    <item href="Text/105.html" id="x105.html" media-type="application/xhtml+xml"/>
+    <item href="Text/108.html" id="x108.html" media-type="application/xhtml+xml"/>
+    <item href="Text/109.html" id="x109.html" media-type="application/xhtml+xml"/>
+    <item href="Text/111.html" id="x111.html" media-type="application/xhtml+xml"/>
+    <item href="Text/116.html" id="x116.html" media-type="application/xhtml+xml"/>
+    <item href="Text/117.html" id="x117.html" media-type="application/xhtml+xml"/>
+    <item href="Text/118.html" id="x118.html" media-type="application/xhtml+xml"/>
+    <item href="Text/119.html" id="x119.html" media-type="application/xhtml+xml"/>
+    <item href="Text/121.html" id="x121.html" media-type="application/xhtml+xml"/>
+    <item href="Text/122.html" id="x122.html" media-type="application/xhtml+xml"/>
+    <item href="Text/123.html" id="x123.html" media-type="application/xhtml+xml"/>
+    <item href="Text/127.html" id="x127.html" media-type="application/xhtml+xml"/>
+    <item href="Text/128.html" id="x128.html" media-type="application/xhtml+xml"/>
+    <item href="Text/126.html" id="x126.html" media-type="application/xhtml+xml"/>
+    <item href="Text/125.html" id="x125.html" media-type="application/xhtml+xml"/>
+    <item href="Text/124.html" id="x124.html" media-type="application/xhtml+xml"/>
+    <item href="Text/129.html" id="x129.html" media-type="application/xhtml+xml"/>
+    <item href="Text/130.html" id="x130.html" media-type="application/xhtml+xml"/>
+    <item href="Text/131.html" id="x131.html" media-type="application/xhtml+xml"/>
+    <item href="Text/132.html" id="x132.html" media-type="application/xhtml+xml"/>
+    <item href="Text/133.html" id="x133.html" media-type="application/xhtml+xml"/>
+    <item href="Text/134.html" id="x134.html" media-type="application/xhtml+xml"/>
+    <item href="Text/135.html" id="x135.html" media-type="application/xhtml+xml"/>
+    <item href="Text/136.html" id="x136.html" media-type="application/xhtml+xml"/>
+    <item href="Text/137.html" id="x137.html" media-type="application/xhtml+xml"/>
+    <item href="Text/138.html" id="x138.html" media-type="application/xhtml+xml"/>
+    <item href="Text/139.html" id="x139.html" media-type="application/xhtml+xml"/>
+    <item href="Text/161.html" id="x161.html" media-type="application/xhtml+xml"/>
+    <item href="Text/162.html" id="x162.html" media-type="application/xhtml+xml"/>
+    <item href="Text/169.html" id="x169.html" media-type="application/xhtml+xml"/>
+    <item href="Text/170.html" id="x170.html" media-type="application/xhtml+xml"/>
+    <item href="Text/176.html" id="x176.html" media-type="application/xhtml+xml"/>
+    <item href="Text/173.html" id="x173.html" media-type="application/xhtml+xml"/>
+    <item href="Text/175.html" id="x175.html" media-type="application/xhtml+xml"/>
+    <item href="Text/171.html" id="x171.html" media-type="application/xhtml+xml"/>
+    <item href="Text/174.html" id="x174.html" media-type="application/xhtml+xml"/>
+    <item href="Text/172.html" id="x172.html" media-type="application/xhtml+xml"/>
+    <item href="Text/177.html" id="x177.html" media-type="application/xhtml+xml"/>
+    <item href="Text/178.html" id="x178.html" media-type="application/xhtml+xml"/>
+    <item href="Text/179.html" id="x179.html" media-type="application/xhtml+xml"/>
+    <item href="Text/180.html" id="x180.html" media-type="application/xhtml+xml"/>
+    <item href="Text/181.html" id="x181.html" media-type="application/xhtml+xml"/>
+    <item href="Text/189.html" id="x189.html" media-type="application/xhtml+xml"/>
+    <item href="Text/190.html" id="x190.html" media-type="application/xhtml+xml"/>
+    <item href="Text/192.html" id="x192.html" media-type="application/xhtml+xml"/>
+    <item href="Text/194.html" id="x194.html" media-type="application/xhtml+xml"/>
+    <item href="Text/193.html" id="x193.html" media-type="application/xhtml+xml"/>
+    <item href="Text/191.html" id="x191.html" media-type="application/xhtml+xml"/>
+    <item href="Text/196.html" id="x196.html" media-type="application/xhtml+xml"/>
+    <item href="Text/195.html" id="x195.html" media-type="application/xhtml+xml"/>
+    <item href="Text/197.html" id="x197.html" media-type="application/xhtml+xml"/>
+    <item href="Text/198.html" id="x198.html" media-type="application/xhtml+xml"/>
+    <item href="Text/199.html" id="x199.html" media-type="application/xhtml+xml"/>
+    <item href="Text/200.html" id="x200.html" media-type="application/xhtml+xml"/>
+    <item href="Text/201.html" id="x201.html" media-type="application/xhtml+xml"/>
+    <item href="Text/202.html" id="x202.html" media-type="application/xhtml+xml"/>
+    <item href="Text/203.html" id="x203.html" media-type="application/xhtml+xml"/>
+    <item href="Text/204.html" id="x204.html" media-type="application/xhtml+xml"/>
+    <item href="Text/205.html" id="x205.html" media-type="application/xhtml+xml"/>
+    <item href="Text/206.html" id="x206.html" media-type="application/xhtml+xml"/>
+    <item href="Text/207.html" id="x207.html" media-type="application/xhtml+xml"/>
+    <item href="Text/208.html" id="x208.html" media-type="application/xhtml+xml"/>
+    <item href="Text/209.html" id="x209.html" media-type="application/xhtml+xml"/>
+    <item href="Text/210.html" id="x210.html" media-type="application/xhtml+xml"/>
+    <item href="Text/211.html" id="x211.html" media-type="application/xhtml+xml"/>
+    <item href="Text/212.html" id="x212.html" media-type="application/xhtml+xml"/>
+    <item href="Text/213.html" id="x213.html" media-type="application/xhtml+xml"/>
+    <item href="Text/214.html" id="x214.html" media-type="application/xhtml+xml"/>
+    <item href="Text/215.html" id="x215.html" media-type="application/xhtml+xml"/>
+    <item href="Text/216.html" id="x216.html" media-type="application/xhtml+xml"/>
+    <item href="Text/217.html" id="x217.html" media-type="application/xhtml+xml"/>
+    <item href="Text/218.html" id="x218.html" media-type="application/xhtml+xml"/>
+    <item href="Text/219.html" id="x219.html" media-type="application/xhtml+xml"/>
+    <item href="Text/042.html" id="x042.html" media-type="application/xhtml+xml"/>
+    <item href="Images/arion.jpg" id="arion.jpg" media-type="image/jpeg"/>
+    <item href="Images/Cover.jpg" id="Cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="baslik.html"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="ithaf.html"/>
+    <itemref idref="quote.html"/>
+    <itemref idref="tesekkur.html"/>
+    <itemref idref="x1gizem.html"/>
+    <itemref idref="x001.html"/>
+    <itemref idref="x002.html"/>
+    <itemref idref="x003.html"/>
+    <itemref idref="x004.html"/>
+    <itemref idref="x005.html"/>
+    <itemref idref="x006.html"/>
+    <itemref idref="x007.html"/>
+    <itemref idref="x008.html"/>
+    <itemref idref="x009.html"/>
+    <itemref idref="x010.html"/>
+    <itemref idref="x011.html"/>
+    <itemref idref="x012.html"/>
+    <itemref idref="x013.html"/>
+    <itemref idref="x014.html"/>
+    <itemref idref="x015.html"/>
+    <itemref idref="x016.html"/>
+    <itemref idref="x017.html"/>
+    <itemref idref="x018.html"/>
+    <itemref idref="x019.html"/>
+    <itemref idref="x020.html"/>
+    <itemref idref="x021.html"/>
+    <itemref idref="x022.html"/>
+    <itemref idref="x023.html"/>
+    <itemref idref="x024.html"/>
+    <itemref idref="x025.html"/>
+    <itemref idref="x026.html"/>
+    <itemref idref="x027.html"/>
+    <itemref idref="x028.html"/>
+    <itemref idref="x029.html"/>
+    <itemref idref="x030.html"/>
+    <itemref idref="x031.html"/>
+    <itemref idref="x032.html"/>
+    <itemref idref="x033.html"/>
+    <itemref idref="x034.html"/>
+    <itemref idref="x035.html"/>
+    <itemref idref="x036.html"/>
+    <itemref idref="x037.html"/>
+    <itemref idref="x038.html"/>
+    <itemref idref="x2gizem.html"/>
+    <itemref idref="x039.html"/>
+    <itemref idref="x040.html"/>
+    <itemref idref="x041.html"/>
+    <itemref idref="x042.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="x043.html"/>
+    <itemref idref="x044.html"/>
+    <itemref idref="x045.html"/>
+    <itemref idref="x046.html"/>
+    <itemref idref="x047.html"/>
+    <itemref idref="x048.html"/>
+    <itemref idref="x049.html"/>
+    <itemref idref="x050.html"/>
+    <itemref idref="x051.html"/>
+    <itemref idref="x052.html"/>
+    <itemref idref="x053.html"/>
+    <itemref idref="x054.html"/>
+    <itemref idref="x055.html"/>
+    <itemref idref="x056.html"/>
+    <itemref idref="x057.html"/>
+    <itemref idref="x058.html"/>
+    <itemref idref="x059.html"/>
+    <itemref idref="x060.html"/>
+    <itemref idref="x061.html"/>
+    <itemref idref="x062.html"/>
+    <itemref idref="x063.html"/>
+    <itemref idref="x064.html"/>
+    <itemref idref="x065.html"/>
+    <itemref idref="x066.html"/>
+    <itemref idref="x067.html"/>
+    <itemref idref="x068.html"/>
+    <itemref idref="x069.html"/>
+    <itemref idref="x070.html"/>
+    <itemref idref="x071.html"/>
+    <itemref idref="x072.html"/>
+    <itemref idref="x073.html"/>
+    <itemref idref="x074.html"/>
+    <itemref idref="x075.html"/>
+    <itemref idref="x3gizem.html"/>
+    <itemref idref="x076.html"/>
+    <itemref idref="x077.html"/>
+    <itemref idref="x078.html"/>
+    <itemref idref="x079.html"/>
+    <itemref idref="x080.html"/>
+    <itemref idref="x081.html"/>
+    <itemref idref="x082.html"/>
+    <itemref idref="x083.html"/>
+    <itemref idref="x084.html"/>
+    <itemref idref="x085.html"/>
+    <itemref idref="x086.html"/>
+    <itemref idref="x087.html"/>
+    <itemref idref="x088.html"/>
+    <itemref idref="x089.html"/>
+    <itemref idref="x090.html"/>
+    <itemref idref="x091.html"/>
+    <itemref idref="x092.html"/>
+    <itemref idref="x093.html"/>
+    <itemref idref="x094.html"/>
+    <itemref idref="x095.html"/>
+    <itemref idref="x096.html"/>
+    <itemref idref="x097.html"/>
+    <itemref idref="x098.html"/>
+    <itemref idref="x099.html"/>
+    <itemref idref="x100.html"/>
+    <itemref idref="x101.html"/>
+    <itemref idref="x102.html"/>
+    <itemref idref="x103.html"/>
+    <itemref idref="x104.html"/>
+    <itemref idref="x105.html"/>
+    <itemref idref="x106.html"/>
+    <itemref idref="x107.html"/>
+    <itemref idref="x108.html"/>
+    <itemref idref="x109.html"/>
+    <itemref idref="x110.html"/>
+    <itemref idref="x4gizem.html"/>
+    <itemref idref="x111.html"/>
+    <itemref idref="x112.html"/>
+    <itemref idref="x113.html"/>
+    <itemref idref="x114.html"/>
+    <itemref idref="x115.html"/>
+    <itemref idref="x116.html"/>
+    <itemref idref="x117.html"/>
+    <itemref idref="x118.html"/>
+    <itemref idref="x119.html"/>
+    <itemref idref="x120.html"/>
+    <itemref idref="x121.html"/>
+    <itemref idref="x122.html"/>
+    <itemref idref="x123.html"/>
+    <itemref idref="x124.html"/>
+    <itemref idref="x125.html"/>
+    <itemref idref="x126.html"/>
+    <itemref idref="x127.html"/>
+    <itemref idref="x128.html"/>
+    <itemref idref="x129.html"/>
+    <itemref idref="x130.html"/>
+    <itemref idref="x131.html"/>
+    <itemref idref="x132.html"/>
+    <itemref idref="x133.html"/>
+    <itemref idref="x134.html"/>
+    <itemref idref="x135.html"/>
+    <itemref idref="x136.html"/>
+    <itemref idref="x137.html"/>
+    <itemref idref="x138.html"/>
+    <itemref idref="x139.html"/>
+    <itemref idref="x140.html"/>
+    <itemref idref="x141.html"/>
+    <itemref idref="x142.html"/>
+    <itemref idref="x143.html"/>
+    <itemref idref="x144.html"/>
+    <itemref idref="x145.html"/>
+    <itemref idref="x5gizem.html"/>
+    <itemref idref="x146.html"/>
+    <itemref idref="x147.html"/>
+    <itemref idref="x148.html"/>
+    <itemref idref="x149.html"/>
+    <itemref idref="x150.html"/>
+    <itemref idref="x151.html"/>
+    <itemref idref="x152.html"/>
+    <itemref idref="x153.html"/>
+    <itemref idref="x154.html"/>
+    <itemref idref="x155.html"/>
+    <itemref idref="x156.html"/>
+    <itemref idref="x157.html"/>
+    <itemref idref="x158.html"/>
+    <itemref idref="x159.html"/>
+    <itemref idref="x160.html"/>
+    <itemref idref="x161.html"/>
+    <itemref idref="x162.html"/>
+    <itemref idref="x163.html"/>
+    <itemref idref="x164.html"/>
+    <itemref idref="x165.html"/>
+    <itemref idref="x166.html"/>
+    <itemref idref="x167.html"/>
+    <itemref idref="x168.html"/>
+    <itemref idref="x169.html"/>
+    <itemref idref="x170.html"/>
+    <itemref idref="x171.html"/>
+    <itemref idref="x172.html"/>
+    <itemref idref="x173.html"/>
+    <itemref idref="x174.html"/>
+    <itemref idref="x175.html"/>
+    <itemref idref="x176.html"/>
+    <itemref idref="x177.html"/>
+    <itemref idref="x178.html"/>
+    <itemref idref="x179.html"/>
+    <itemref idref="x180.html"/>
+    <itemref idref="x181.html"/>
+    <itemref idref="x6gizem.html"/>
+    <itemref idref="x182.html"/>
+    <itemref idref="x183.html"/>
+    <itemref idref="x184.html"/>
+    <itemref idref="x185.html"/>
+    <itemref idref="x186.html"/>
+    <itemref idref="x187.html"/>
+    <itemref idref="x188.html"/>
+    <itemref idref="x189.html"/>
+    <itemref idref="x190.html"/>
+    <itemref idref="x191.html"/>
+    <itemref idref="x192.html"/>
+    <itemref idref="x193.html"/>
+    <itemref idref="x194.html"/>
+    <itemref idref="x195.html"/>
+    <itemref idref="x196.html"/>
+    <itemref idref="x197.html"/>
+    <itemref idref="x198.html"/>
+    <itemref idref="x199.html"/>
+    <itemref idref="x200.html"/>
+    <itemref idref="x201.html"/>
+    <itemref idref="x202.html"/>
+    <itemref idref="x203.html"/>
+    <itemref idref="x204.html"/>
+    <itemref idref="x205.html"/>
+    <itemref idref="x206.html"/>
+    <itemref idref="x207.html"/>
+    <itemref idref="x208.html"/>
+    <itemref idref="x209.html"/>
+    <itemref idref="x210.html"/>
+    <itemref idref="x211.html"/>
+    <itemref idref="x212.html"/>
+    <itemref idref="x213.html"/>
+    <itemref idref="x214.html"/>
+    <itemref idref="x215.html"/>
+    <itemref idref="x216.html"/>
+    <itemref idref="x217.html"/>
+    <itemref idref="x218.html"/>
+    <itemref idref="x219.html"/>
+    <itemref idref="sozluk.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

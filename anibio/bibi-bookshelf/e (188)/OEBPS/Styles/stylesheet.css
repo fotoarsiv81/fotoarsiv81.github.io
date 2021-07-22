@@ -1,0 +1,153 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em;
+    margin: 0.5em 0
+    }
+.calibre10 {
+    height: 500pt;
+    width: 361pt
+    }
+.calibre11 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre12 {
+    display: list-item
+    }
+.calibre13 {
+    height: 488pt;
+    width: 297pt
+    }
+.calibre14 {
+    height: 45pt;
+    width: 45pt
+    }
+.calibre15 {
+    height: 48pt;
+    width: 45pt
+    }
+.calibre16 {
+    height: 38pt;
+    width: 47pt
+    }
+.calibre17 {
+    height: 199pt;
+    width: 299pt
+    }
+.calibre18 {
+    height: 37pt;
+    width: 47pt
+    }
+.calibre19 {
+    height: 47pt;
+    width: 46pt
+    }
+.calibre2 {
+  
+    }
+.calibre20 {
+    height: 50pt;
+    width: 168pt
+    }
+.calibre21 {
+    height: 35pt;
+    width: 41pt
+    }
+.calibre22 {
+    height: 339pt;
+    width: 297pt
+    }
+.calibre23 {
+    height: 233pt;
+    width: 451pt
+    }
+.calibre3 {
+    border-bottom: 0;
+    border-top: 0;
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em
+    }
+.calibre4 {
+    height: 86pt;
+    width: 77pt
+    }
+.calibre5 {
+    display: block;
+    height: 1em;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em;
+    border: currentColor none 0;
+    margin: 0.5em 0
+    }
+.calibre6 {
+    height: 345pt;
+    width: 390pt
+    }
+.calibre7 {
+    font-style: italic
+    }
+.calibre8 {
+    font-style: italic;
+    font-weight: bold
+    }
+.calibre9 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+img {
+max-width: 100%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+h1
+{
+margin-top:3em;
+margin-bottom:3em;
+text-align:center;
+Font-size:1.5em;
+}
+p{
+text-align:justify;
+text-indent:1em;
+margin-top:0.3em;
+margin-bottom:0.3em;
+}
+.yildiz {
+Font-size:2em;
+margin-top:1em;
+margin-bottom:1em;
+text-align:center;
+}
+
+.baslik{
+text-align:center;
+font-weight:bold;
+font-size:1.5em;
+margin-top:2em;
+margin-bottom:2em;
+}
+.ust{
+text-decoration:overline;
+}

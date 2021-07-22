@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Schlink, Bernhard">Bernhard Schlink</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">8917e0b2-aa7f-4c10-a74d-eb21df0ffeb9</dc:identifier>
+    <dc:publisher>İletişim Yayıncılık</dc:publisher>
+    <dc:description>&lt;div&gt;En eski kulvarlardan birine, polisiye'ye yenilikçi bir dalış yapan Alman edebiyatçı Schlink'in tüm maharetini sergilediği bir roman, Okuyucu. 15 yaşındaki bir çocuğun 35 yaşlarındaki bir kadınla yaşadığı aşk, Nazi dönemi sabıkalarının izleri, ihanet, kaçış, vicdan azabı, uçurumlar, suçluluk duygusu, yakalanma korkusu... Schlink, bu temaları "Suç nedir, niçin suçluyum?" sorularının peşinde ve sürükleyici bir dehşet hikayesinin içinde öylesine ustalıkla işliyor ki, Daniel Cohn-Bendit'in deyişiyle "büyük edebiyat" çıkıyor ortaya.&lt;br&gt;&lt;br&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="Okuyucu" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="2015-10-31T11:42:30.093000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2010-12-06T22:00:00+00:00</dc:date>
+  <dc:title>Okuyucu</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Çağdaş Edebiyat</dc:subject>
+<dc:subject>Alman Edebiyatı</dc:subject>
+<dc:subject>Aşk</dc:subject>
+<dc:subject>2. Dünya savaşı</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Bernhard Schlink&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">fdb26711-2042-4a70-9a76-17ccbaf70742</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754703887</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/main-1.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/adsız.bmp" id="adsız.bmp" media-type="image/bmp"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

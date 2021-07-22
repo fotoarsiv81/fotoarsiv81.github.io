@@ -1,0 +1,1830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789750719998"/>
+      <meta name="dtb:depth" content="3"/>
+      <meta name="dtb:generator" content="Sistematik epub-tools"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Otuz Beş Yaş</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Sunu (Asım Bezirci)</text>
+         </navLabel>
+         <content src="preface.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>ŞİİR ÜSTÜNE (Cahit Sıtkı Tarancı)</text>
+         </navLabel>
+         <content src="part1.xhtml"/>
+         <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+               <text>Konuşma</text>
+            </navLabel>
+            <content src="chapter1-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+               <text>Mektup</text>
+            </navLabel>
+            <content src="chapter1-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+               <text>Yazı</text>
+            </navLabel>
+            <content src="chapter1-5.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>ÖNCEKİLER</text>
+         </navLabel>
+         <content src="part2.xhtml"/>
+         <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+               <text>Gidiyorum</text>
+            </navLabel>
+            <content src="chapter2-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+               <text>Talihsiz</text>
+            </navLabel>
+            <content src="chapter2-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+               <text>Eski Saadetinle</text>
+            </navLabel>
+            <content src="chapter2-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+               <text>Batan Gemi</text>
+            </navLabel>
+            <content src="chapter2-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+               <text>Gel Çadır Kur</text>
+            </navLabel>
+            <content src="chapter2-5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+               <text>Anne, Ne Yaptın?</text>
+            </navLabel>
+            <content src="chapter2-6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+               <text>Kar ve Ben</text>
+            </navLabel>
+            <content src="chapter2-7.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+               <text>Kelekler</text>
+            </navLabel>
+            <content src="chapter2-8.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+               <text>Benimsin!</text>
+            </navLabel>
+            <content src="chapter2-9.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+               <text>Minareler</text>
+            </navLabel>
+            <content src="chapter2-10.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+               <text>Yalnızlık</text>
+            </navLabel>
+            <content src="chapter2-11.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+               <text>Çöküyorum</text>
+            </navLabel>
+            <content src="chapter2-12.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+               <text>Yağmur</text>
+            </navLabel>
+            <content src="chapter2-13.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+               <text>Günlerim</text>
+            </navLabel>
+            <content src="chapter2-14.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+               <text>Günlerim II</text>
+            </navLabel>
+            <content src="chapter2-15.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+               <text>Ölümden Beter</text>
+            </navLabel>
+            <content src="chapter2-16.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+               <text>Son Gece</text>
+            </navLabel>
+            <content src="chapter2-17.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-24" playOrder="24">
+            <navLabel>
+               <text>Gidiyorum</text>
+            </navLabel>
+            <content src="chapter2-18.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-25" playOrder="25">
+            <navLabel>
+               <text>Yağmur</text>
+            </navLabel>
+            <content src="chapter2-19.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-26" playOrder="26">
+            <navLabel>
+               <text>Bir İtiraf</text>
+            </navLabel>
+            <content src="chapter2-20.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-27" playOrder="27">
+            <navLabel>
+               <text>Mazim</text>
+            </navLabel>
+            <content src="chapter2-21.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-28" playOrder="28">
+            <navLabel>
+               <text>Korkulu Köprü</text>
+            </navLabel>
+            <content src="chapter2-22.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+               <text>Sarayımız</text>
+            </navLabel>
+            <content src="chapter2-23.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+         <navLabel>
+            <text>ÖMRÜMDE SÜKÛT</text>
+         </navLabel>
+         <content src="part3.xhtml"/>
+         <navPoint id="navPoint-31" playOrder="31">
+            <navLabel>
+               <text>Ömrümde Sükût</text>
+            </navLabel>
+            <content src="chapter3-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-32" playOrder="32">
+            <navLabel>
+               <text>Maziyi Yâda Daldığım Zaman</text>
+            </navLabel>
+            <content src="chapter3-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-33" playOrder="33">
+            <navLabel>
+               <text>Yatak</text>
+            </navLabel>
+            <content src="chapter3-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-34" playOrder="34">
+            <navLabel>
+               <text>Odamda Sükût</text>
+            </navLabel>
+            <content src="chapter3-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-35" playOrder="35">
+            <navLabel>
+               <text>Zaman Bir Kuşak Gibi</text>
+            </navLabel>
+            <content src="chapter3-5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-36" playOrder="36">
+            <navLabel>
+               <text>Uykusuzluk</text>
+            </navLabel>
+            <content src="chapter3-6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-37" playOrder="37">
+            <navLabel>
+               <text>Uyku</text>
+            </navLabel>
+            <content src="chapter3-7.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-38" playOrder="38">
+            <navLabel>
+               <text>Bir Lâhzam</text>
+            </navLabel>
+            <content src="chapter3-8.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-39" playOrder="39">
+            <navLabel>
+               <text>Dar Kalıp</text>
+            </navLabel>
+            <content src="chapter3-9.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-40" playOrder="40">
+            <navLabel>
+               <text>Aynalar</text>
+            </navLabel>
+            <content src="chapter3-10.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-41" playOrder="41">
+            <navLabel>
+               <text>Bir Kapı Açıp Gitsem</text>
+            </navLabel>
+            <content src="chapter3-11.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-42" playOrder="42">
+            <navLabel>
+               <text>Bir Yaz Günü</text>
+            </navLabel>
+            <content src="chapter3-12.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-43" playOrder="43">
+            <navLabel>
+               <text>Rüyamız</text>
+            </navLabel>
+            <content src="chapter3-13.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-44" playOrder="44">
+            <navLabel>
+               <text>Yağmur ve Ben</text>
+            </navLabel>
+            <content src="chapter3-14.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-45" playOrder="45">
+            <navLabel>
+               <text>Kar ve Hâtıralar</text>
+            </navLabel>
+            <content src="chapter3-15.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-46" playOrder="46">
+            <navLabel>
+               <text>Gece Bir Neticedir</text>
+            </navLabel>
+            <content src="chapter3-16.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-47" playOrder="47">
+            <navLabel>
+               <text>Bilmecelerle Kal</text>
+            </navLabel>
+            <content src="chapter3-17.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-48" playOrder="48">
+            <navLabel>
+               <text>Gece Bahçelerinde</text>
+            </navLabel>
+            <content src="chapter3-18.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-49" playOrder="49">
+            <navLabel>
+               <text>Güneşe Âşık Çocuk</text>
+            </navLabel>
+            <content src="chapter3-19.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-50" playOrder="50">
+            <navLabel>
+               <text>Kuşlar ve Gemiler</text>
+            </navLabel>
+            <content src="chapter3-20.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-51" playOrder="51">
+            <navLabel>
+               <text>Uzak Bir İklimde</text>
+            </navLabel>
+            <content src="chapter3-21.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+         <navLabel>
+            <text>ARADAKİLER</text>
+         </navLabel>
+         <content src="part4.xhtml"/>
+         <navPoint id="navPoint-53" playOrder="53">
+            <navLabel>
+               <text>Kuyu</text>
+            </navLabel>
+            <content src="chapter4-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-54" playOrder="54">
+            <navLabel>
+               <text>Akşam Vakti</text>
+            </navLabel>
+            <content src="chapter4-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-55" playOrder="55">
+            <navLabel>
+               <text>Aynalarda Gece</text>
+            </navLabel>
+            <content src="chapter4-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-56" playOrder="56">
+            <navLabel>
+               <text>Akşamleyin</text>
+            </navLabel>
+            <content src="chapter4-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-57" playOrder="57">
+            <navLabel>
+               <text>Sen de Her Şey Gibi</text>
+            </navLabel>
+            <content src="chapter4-5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-58" playOrder="58">
+            <navLabel>
+               <text>Yağmur Yağadursun</text>
+            </navLabel>
+            <content src="chapter4-6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-59" playOrder="59">
+            <navLabel>
+               <text>Sular, Ağaçlar, Kuşlar</text>
+            </navLabel>
+            <content src="chapter4-7.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-60" playOrder="60">
+            <navLabel>
+               <text>Hâtıralar</text>
+            </navLabel>
+            <content src="chapter4-8.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-61" playOrder="61">
+            <navLabel>
+               <text>Renkler</text>
+            </navLabel>
+            <content src="chapter4-9.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-62" playOrder="62">
+            <navLabel>
+               <text>Her Günkü Özleyiş</text>
+            </navLabel>
+            <content src="chapter4-10.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-63" playOrder="63">
+            <navLabel>
+               <text>Gün Sonu</text>
+            </navLabel>
+            <content src="chapter4-11.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-64" playOrder="64">
+            <navLabel>
+               <text>Eşya</text>
+            </navLabel>
+            <content src="chapter4-12.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-65" playOrder="65">
+            <navLabel>
+               <text>Beni Kıskanan Ölüler</text>
+            </navLabel>
+            <content src="chapter4-13.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-66" playOrder="66">
+            <navLabel>
+               <text>Havuz</text>
+            </navLabel>
+            <content src="chapter4-14.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-67" playOrder="67">
+            <navLabel>
+               <text>Aşk Şarkısı</text>
+            </navLabel>
+            <content src="chapter4-15.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-68" playOrder="68">
+            <navLabel>
+               <text>Bir Ölünün Rüyası</text>
+            </navLabel>
+            <content src="chapter4-16.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-69" playOrder="69">
+            <navLabel>
+               <text>Bu Akşam Vakti Deniz</text>
+            </navLabel>
+            <content src="chapter4-17.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-70" playOrder="70">
+            <navLabel>
+               <text>Obsession</text>
+            </navLabel>
+            <content src="chapter4-18.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-71" playOrder="71">
+            <navLabel>
+               <text>Ölüm, Sinsi Ölüm</text>
+            </navLabel>
+            <content src="chapter4-19.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-72" playOrder="72">
+            <navLabel>
+               <text>Yaşamak</text>
+            </navLabel>
+            <content src="chapter4-20.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-73" playOrder="73">
+            <navLabel>
+               <text>Kerbelâ</text>
+            </navLabel>
+            <content src="chapter4-21.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-74" playOrder="74">
+            <navLabel>
+               <text>Düşündüğüm Yer</text>
+            </navLabel>
+            <content src="chapter4-22.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-75" playOrder="75">
+            <navLabel>
+               <text>Geçerken</text>
+            </navLabel>
+            <content src="chapter4-23.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-76" playOrder="76">
+            <navLabel>
+               <text>Şehir</text>
+            </navLabel>
+            <content src="chapter4-24.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-77" playOrder="77">
+            <navLabel>
+               <text>Ölmüştüm</text>
+            </navLabel>
+            <content src="chapter4-25.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-78" playOrder="78">
+            <navLabel>
+               <text>İmrendiğim Şey</text>
+            </navLabel>
+            <content src="chapter4-26.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-79" playOrder="79">
+            <navLabel>
+               <text>Yıldızlar</text>
+            </navLabel>
+            <content src="chapter4-27.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-80" playOrder="80">
+            <navLabel>
+               <text>Sen Yoksun ki</text>
+            </navLabel>
+            <content src="chapter4-28.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-81" playOrder="81">
+            <navLabel>
+               <text>Harp Baharı</text>
+            </navLabel>
+            <content src="chapter4-29.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-82" playOrder="82">
+            <navLabel>
+               <text>Şubat Sabahı</text>
+            </navLabel>
+            <content src="chapter4-30.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-83" playOrder="83">
+            <navLabel>
+               <text>Sevsen Beni Çocuğum</text>
+            </navLabel>
+            <content src="chapter4-31.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-84" playOrder="84">
+            <navLabel>
+               <text>Her Gece mi Bu Uykusuzluk</text>
+            </navLabel>
+            <content src="chapter4-32.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-85" playOrder="85">
+            <navLabel>
+               <text>Anarşi</text>
+            </navLabel>
+            <content src="chapter4-33.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-86" playOrder="86">
+            <navLabel>
+               <text>Bir Nehir Bilirim</text>
+            </navLabel>
+            <content src="chapter4-34.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-87" playOrder="87">
+            <navLabel>
+               <text>Okşamaya Vakit Kalmadı</text>
+            </navLabel>
+            <content src="chapter4-35.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-88" playOrder="88">
+            <navLabel>
+               <text>Hey Gidi Güneşli Uykular</text>
+            </navLabel>
+            <content src="chapter4-36.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-89" playOrder="89">
+            <navLabel>
+               <text>Ölmek İstemeyen Adam</text>
+            </navLabel>
+            <content src="chapter4-37.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-90" playOrder="90">
+            <navLabel>
+               <text>Yağmur Yağıyordu</text>
+            </navLabel>
+            <content src="chapter4-38.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-91" playOrder="91">
+            <navLabel>
+               <text>Irmak</text>
+            </navLabel>
+            <content src="chapter4-39.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-92" playOrder="92">
+            <navLabel>
+               <text>Ölü</text>
+            </navLabel>
+            <content src="chapter4-40.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-93" playOrder="93">
+            <navLabel>
+               <text>Elveda</text>
+            </navLabel>
+            <content src="chapter4-41.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-94" playOrder="94">
+            <navLabel>
+               <text>Kadın Göğsü</text>
+            </navLabel>
+            <content src="chapter4-42.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-95" playOrder="95">
+            <navLabel>
+               <text>İmkânsız Vuslat</text>
+            </navLabel>
+            <content src="chapter4-43.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-96" playOrder="96">
+            <navLabel>
+               <text>Etraf Konuşurlarken</text>
+            </navLabel>
+            <content src="chapter4-44.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-97" playOrder="97">
+            <navLabel>
+               <text>Hâtırası Yeter</text>
+            </navLabel>
+            <content src="chapter4-45.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-98" playOrder="98">
+            <navLabel>
+               <text>Neden Sonra</text>
+            </navLabel>
+            <content src="chapter4-46.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-99" playOrder="99">
+            <navLabel>
+               <text>Bir Yemiş Olacak</text>
+            </navLabel>
+            <content src="chapter4-47.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-100" playOrder="100">
+            <navLabel>
+               <text>Kış Güneşi</text>
+            </navLabel>
+            <content src="chapter4-48.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-101" playOrder="101">
+            <navLabel>
+               <text>Kur’a</text>
+            </navLabel>
+            <content src="chapter4-49.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-102" playOrder="102">
+            <navLabel>
+               <text>Uyku</text>
+            </navLabel>
+            <content src="chapter4-50.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-103" playOrder="103">
+            <navLabel>
+               <text>Mademki Güzelsin</text>
+            </navLabel>
+            <content src="chapter4-51.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-104" playOrder="104">
+            <navLabel>
+               <text>Ben Ölecek Adam Değilim</text>
+            </navLabel>
+            <content src="chapter4-52.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-105" playOrder="105">
+            <navLabel>
+               <text>Delilere Selâm</text>
+            </navLabel>
+            <content src="chapter4-53.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-106" playOrder="106">
+            <navLabel>
+               <text>Kıtadan Mektup</text>
+            </navLabel>
+            <content src="chapter4-54.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-107" playOrder="107">
+            <navLabel>
+               <text>Böyle İşte</text>
+            </navLabel>
+            <content src="chapter4-55.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-108" playOrder="108">
+            <navLabel>
+               <text>Bir Kıtacık</text>
+            </navLabel>
+            <content src="chapter4-56.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-109" playOrder="109">
+            <navLabel>
+               <text>Rönesans</text>
+            </navLabel>
+            <content src="chapter4-57.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-110" playOrder="110">
+            <navLabel>
+               <text>Bizimkiler</text>
+            </navLabel>
+            <content src="chapter4-58.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-111" playOrder="111">
+            <navLabel>
+               <text>Bereket Versin</text>
+            </navLabel>
+            <content src="chapter4-59.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-112" playOrder="112">
+            <navLabel>
+               <text>Kavs-i Kuzeh</text>
+            </navLabel>
+            <content src="chapter4-60.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-113" playOrder="113">
+            <navLabel>
+               <text>Akşamcı</text>
+            </navLabel>
+            <content src="chapter4-61.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-114" playOrder="114">
+            <navLabel>
+               <text>Değirmen</text>
+            </navLabel>
+            <content src="chapter4-62.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-115" playOrder="115">
+            <navLabel>
+               <text>Mangal Başında</text>
+            </navLabel>
+            <content src="chapter4-63.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-116" playOrder="116">
+            <navLabel>
+               <text>Durgun Deniz</text>
+            </navLabel>
+            <content src="chapter4-64.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-117" playOrder="117">
+            <navLabel>
+               <text>Esmer Güzeli Yârim</text>
+            </navLabel>
+            <content src="chapter4-65.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-118" playOrder="118">
+            <navLabel>
+               <text>Kış Mevsimi</text>
+            </navLabel>
+            <content src="chapter4-66.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-119" playOrder="119">
+            <navLabel>
+               <text>Kurban Bayramı</text>
+            </navLabel>
+            <content src="chapter4-67.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-120" playOrder="120">
+            <navLabel>
+               <text>Sadri Ertem’i Düşünürken</text>
+            </navLabel>
+            <content src="chapter4-68.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-121" playOrder="121">
+            <navLabel>
+               <text>Muhabbet Faslı</text>
+            </navLabel>
+            <content src="chapter4-69.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-122" playOrder="122">
+            <navLabel>
+               <text>Giderken</text>
+            </navLabel>
+            <content src="chapter4-70.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-123" playOrder="123">
+            <navLabel>
+               <text>Yadigâr</text>
+            </navLabel>
+            <content src="chapter4-71.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-124" playOrder="124">
+            <navLabel>
+               <text>Hizmetçi Kız</text>
+            </navLabel>
+            <content src="chapter4-72.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-125" playOrder="125">
+            <navLabel>
+               <text>Fikr-i Sabit</text>
+            </navLabel>
+            <content src="chapter4-73.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-126" playOrder="126">
+            <navLabel>
+               <text>Felekten Bir Gece</text>
+            </navLabel>
+            <content src="chapter4-74.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-127" playOrder="127">
+            <navLabel>
+               <text>Mesut Çift</text>
+            </navLabel>
+            <content src="chapter4-75.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-128" playOrder="128">
+            <navLabel>
+               <text>Bahar</text>
+            </navLabel>
+            <content src="chapter4-76.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-129" playOrder="129">
+            <navLabel>
+               <text>Nar</text>
+            </navLabel>
+            <content src="chapter4-77.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-130" playOrder="130">
+            <navLabel>
+               <text>Aşk Masalı</text>
+            </navLabel>
+            <content src="chapter4-78.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-131" playOrder="131">
+            <navLabel>
+               <text>Arslan</text>
+            </navLabel>
+            <content src="chapter4-79.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-132" playOrder="132">
+            <navLabel>
+               <text>Bir Şey</text>
+            </navLabel>
+            <content src="chapter4-80.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-133" playOrder="133">
+            <navLabel>
+               <text>Atatürk’ü Düşünürken</text>
+            </navLabel>
+            <content src="chapter4-81.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+         <navLabel>
+            <text>OTUZ BEŞ YAŞ</text>
+         </navLabel>
+         <content src="part5.xhtml"/>
+         <navPoint id="navPoint-135" playOrder="135">
+            <navLabel>
+               <text>Gün Eksilmesin Penceremden</text>
+            </navLabel>
+            <content src="chapter5-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-136" playOrder="136">
+            <navLabel>
+               <text>Kulak Ver ki</text>
+            </navLabel>
+            <content src="chapter5-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-137" playOrder="137">
+            <navLabel>
+               <text>Gündüz</text>
+            </navLabel>
+            <content src="chapter5-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-138" playOrder="138">
+            <navLabel>
+               <text>Mademki Vakit Akşam</text>
+            </navLabel>
+            <content src="chapter5-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-139" playOrder="139">
+            <navLabel>
+               <text>Deniz</text>
+            </navLabel>
+            <content src="chapter5-5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-140" playOrder="140">
+            <navLabel>
+               <text>Perişan Sofra</text>
+            </navLabel>
+            <content src="chapter5-6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-141" playOrder="141">
+            <navLabel>
+               <text>Sayıklayan Ağaç</text>
+            </navLabel>
+            <content src="chapter5-7.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-142" playOrder="142">
+            <navLabel>
+               <text>Mezarlık</text>
+            </navLabel>
+            <content src="chapter5-8.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-143" playOrder="143">
+            <navLabel>
+               <text>Sanatkârın Ölümü</text>
+            </navLabel>
+            <content src="chapter5-9.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-144" playOrder="144">
+            <navLabel>
+               <text>Serenad</text>
+            </navLabel>
+            <content src="chapter5-10.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-145" playOrder="145">
+            <navLabel>
+               <text>Korktuğum Şey</text>
+            </navLabel>
+            <content src="chapter5-11.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-146" playOrder="146">
+            <navLabel>
+               <text>Memleket İsterim</text>
+            </navLabel>
+            <content src="chapter5-12.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-147" playOrder="147">
+            <navLabel>
+               <text>Şaşırdım Kaldım</text>
+            </navLabel>
+            <content src="chapter5-13.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-148" playOrder="148">
+            <navLabel>
+               <text>Ölüm I</text>
+            </navLabel>
+            <content src="chapter5-14.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-149" playOrder="149">
+            <navLabel>
+               <text>Ölüm II</text>
+            </navLabel>
+            <content src="chapter5-15.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-150" playOrder="150">
+            <navLabel>
+               <text>Şubat Günü</text>
+            </navLabel>
+            <content src="chapter5-16.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-151" playOrder="151">
+            <navLabel>
+               <text>Ölümden Sonra</text>
+            </navLabel>
+            <content src="chapter5-17.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-152" playOrder="152">
+            <navLabel>
+               <text>Her Günkü Şarkım</text>
+            </navLabel>
+            <content src="chapter5-18.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-153" playOrder="153">
+            <navLabel>
+               <text>Hâtıralar</text>
+            </navLabel>
+            <content src="chapter5-19.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-154" playOrder="154">
+            <navLabel>
+               <text>Gençlik Böyledir İşte</text>
+            </navLabel>
+            <content src="chapter5-20.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-155" playOrder="155">
+            <navLabel>
+               <text>Bir Uykusuzluk Gecesi</text>
+            </navLabel>
+            <content src="chapter5-21.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-156" playOrder="156">
+            <navLabel>
+               <text>Gece Şarkısı</text>
+            </navLabel>
+            <content src="chapter5-22.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-157" playOrder="157">
+            <navLabel>
+               <text>Allah’ı Ararken</text>
+            </navLabel>
+            <content src="chapter5-23.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-158" playOrder="158">
+            <navLabel>
+               <text>Desem ki...</text>
+            </navLabel>
+            <content src="chapter5-24.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-159" playOrder="159">
+            <navLabel>
+               <text>Sulh Bir Hâtıra Oldu</text>
+            </navLabel>
+            <content src="chapter5-25.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-160" playOrder="160">
+            <navLabel>
+               <text>Çilingir Sofrası</text>
+            </navLabel>
+            <content src="chapter5-26.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-161" playOrder="161">
+            <navLabel>
+               <text>Bir Haritam Vardı Benim</text>
+            </navLabel>
+            <content src="chapter5-27.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-162" playOrder="162">
+            <navLabel>
+               <text>Kuşlar</text>
+            </navLabel>
+            <content src="chapter5-28.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-163" playOrder="163">
+            <navLabel>
+               <text>İmkânsız Dostluk</text>
+            </navLabel>
+            <content src="chapter5-29.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-164" playOrder="164">
+            <navLabel>
+               <text>Bir de Baktım ki Ölmüşüm</text>
+            </navLabel>
+            <content src="chapter5-30.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-165" playOrder="165">
+            <navLabel>
+               <text>Bu Sabah Hava Berrak</text>
+            </navLabel>
+            <content src="chapter5-31.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-166" playOrder="166">
+            <navLabel>
+               <text>Biz Nerdeyiz Sevgilim?</text>
+            </navLabel>
+            <content src="chapter5-32.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-167" playOrder="167">
+            <navLabel>
+               <text>İnsanoğlu</text>
+            </navLabel>
+            <content src="chapter5-33.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-168" playOrder="168">
+            <navLabel>
+               <text>Nü</text>
+            </navLabel>
+            <content src="chapter5-34.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-169" playOrder="169">
+            <navLabel>
+               <text>Yanlış Bilmesinler Beni</text>
+            </navLabel>
+            <content src="chapter5-35.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-170" playOrder="170">
+            <navLabel>
+               <text>Robenson</text>
+            </navLabel>
+            <content src="chapter5-36.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-171" playOrder="171">
+            <navLabel>
+               <text>Hastanede Ziyaret Günü</text>
+            </navLabel>
+            <content src="chapter5-37.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-172" playOrder="172">
+            <navLabel>
+               <text>Sıla</text>
+            </navLabel>
+            <content src="chapter5-38.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-173" playOrder="173">
+            <navLabel>
+               <text>Çocuk Bahçesinde Gezerken</text>
+            </navLabel>
+            <content src="chapter5-39.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-174" playOrder="174">
+            <navLabel>
+               <text>Öyle Dalmışım ki</text>
+            </navLabel>
+            <content src="chapter5-40.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-175" playOrder="175">
+            <navLabel>
+               <text>Bir Ölünün Ağzından</text>
+            </navLabel>
+            <content src="chapter5-41.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-176" playOrder="176">
+            <navLabel>
+               <text>Bugün Hava Güzel</text>
+            </navLabel>
+            <content src="chapter5-42.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-177" playOrder="177">
+            <navLabel>
+               <text>Ajans Dinlerken</text>
+            </navLabel>
+            <content src="chapter5-43.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-178" playOrder="178">
+            <navLabel>
+               <text>İlk Cemre</text>
+            </navLabel>
+            <content src="chapter5-44.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-179" playOrder="179">
+            <navLabel>
+               <text>Yalan</text>
+            </navLabel>
+            <content src="chapter5-45.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-180" playOrder="180">
+            <navLabel>
+               <text>Gündüz Olsun</text>
+            </navLabel>
+            <content src="chapter5-46.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-181" playOrder="181">
+            <navLabel>
+               <text>Ölüm Tehlikesi</text>
+            </navLabel>
+            <content src="chapter5-47.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-182" playOrder="182">
+            <navLabel>
+               <text>Bugün</text>
+            </navLabel>
+            <content src="chapter5-48.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-183" playOrder="183">
+            <navLabel>
+               <text>Affet Bizi Lâmba</text>
+            </navLabel>
+            <content src="chapter5-49.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-184" playOrder="184">
+            <navLabel>
+               <text>Bugün Cuma</text>
+            </navLabel>
+            <content src="chapter5-50.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-185" playOrder="185">
+            <navLabel>
+               <text>Bütün Bir Yaz</text>
+            </navLabel>
+            <content src="chapter5-51.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-186" playOrder="186">
+            <navLabel>
+               <text>Bahar Yeli</text>
+            </navLabel>
+            <content src="chapter5-52.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-187" playOrder="187">
+            <navLabel>
+               <text>Uçtu Uçtu</text>
+            </navLabel>
+            <content src="chapter5-53.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-188" playOrder="188">
+            <navLabel>
+               <text>Paydos</text>
+            </navLabel>
+            <content src="chapter5-54.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-189" playOrder="189">
+            <navLabel>
+               <text>Abbas</text>
+            </navLabel>
+            <content src="chapter5-55.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-190" playOrder="190">
+            <navLabel>
+               <text>Aşk</text>
+            </navLabel>
+            <content src="chapter5-56.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-191" playOrder="191">
+            <navLabel>
+               <text>Dalgın Ölü</text>
+            </navLabel>
+            <content src="chapter5-57.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-192" playOrder="192">
+            <navLabel>
+               <text>Ben Aşk Adamıyım</text>
+            </navLabel>
+            <content src="chapter5-58.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-193" playOrder="193">
+            <navLabel>
+               <text>Âkıbet</text>
+            </navLabel>
+            <content src="chapter5-59.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-194" playOrder="194">
+            <navLabel>
+               <text>İlk Aşk</text>
+            </navLabel>
+            <content src="chapter5-60.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-195" playOrder="195">
+            <navLabel>
+               <text>Su Sesi</text>
+            </navLabel>
+            <content src="chapter5-61.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-196" playOrder="196">
+            <navLabel>
+               <text>Bahar Geliyor</text>
+            </navLabel>
+            <content src="chapter5-62.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-197" playOrder="197">
+            <navLabel>
+               <text>Kırkıncı Oda</text>
+            </navLabel>
+            <content src="chapter5-63.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-198" playOrder="198">
+            <navLabel>
+               <text>Çaresiz</text>
+            </navLabel>
+            <content src="chapter5-64.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-199" playOrder="199">
+            <navLabel>
+               <text>Anacığım</text>
+            </navLabel>
+            <content src="chapter5-65.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-200" playOrder="200">
+            <navLabel>
+               <text>Hareket</text>
+            </navLabel>
+            <content src="chapter5-66.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-201" playOrder="201">
+            <navLabel>
+               <text>Nedendir Yarab</text>
+            </navLabel>
+            <content src="chapter5-67.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-202" playOrder="202">
+            <navLabel>
+               <text>Çocukluk</text>
+            </navLabel>
+            <content src="chapter5-68.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-203" playOrder="203">
+            <navLabel>
+               <text>İnsan Hıçkırıkları</text>
+            </navLabel>
+            <content src="chapter5-69.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-204" playOrder="204">
+            <navLabel>
+               <text>Hepimize Dair</text>
+            </navLabel>
+            <content src="chapter5-70.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-205" playOrder="205">
+            <navLabel>
+               <text>Yaz Gecesi</text>
+            </navLabel>
+            <content src="chapter5-71.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-206" playOrder="206">
+            <navLabel>
+               <text>Misafir</text>
+            </navLabel>
+            <content src="chapter5-72.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-207" playOrder="207">
+            <navLabel>
+               <text>Yoldaşlar</text>
+            </navLabel>
+            <content src="chapter5-73.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-208" playOrder="208">
+            <navLabel>
+               <text>Bir Saadet</text>
+            </navLabel>
+            <content src="chapter5-74.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-209" playOrder="209">
+            <navLabel>
+               <text>Ben de Bir İnsanım</text>
+            </navLabel>
+            <content src="chapter5-75.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-210" playOrder="210">
+            <navLabel>
+               <text>Bahar Sarhoşluğu</text>
+            </navLabel>
+            <content src="chapter5-76.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-211" playOrder="211">
+            <navLabel>
+               <text>Nedim’e Dair</text>
+            </navLabel>
+            <content src="chapter5-77.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-212" playOrder="212">
+            <navLabel>
+               <text>Hepsinden Beter</text>
+            </navLabel>
+            <content src="chapter5-78.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-213" playOrder="213">
+            <navLabel>
+               <text>Sevdalı</text>
+            </navLabel>
+            <content src="chapter5-79.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-214" playOrder="214">
+            <navLabel>
+               <text>Peyzaj I</text>
+            </navLabel>
+            <content src="chapter5-80.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-215" playOrder="215">
+            <navLabel>
+               <text>Peyzaj II</text>
+            </navLabel>
+            <content src="chapter5-81.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-216" playOrder="216">
+            <navLabel>
+               <text>Peyzaj III</text>
+            </navLabel>
+            <content src="chapter5-82.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-217" playOrder="217">
+            <navLabel>
+               <text>Peyzaj IV</text>
+            </navLabel>
+            <content src="chapter5-83.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-218" playOrder="218">
+            <navLabel>
+               <text>Can Yoldaşı</text>
+            </navLabel>
+            <content src="chapter5-84.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-219" playOrder="219">
+            <navLabel>
+               <text>Teselli Tarafı</text>
+            </navLabel>
+            <content src="chapter5-85.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-220" playOrder="220">
+            <navLabel>
+               <text>Yaşım İlerledikçe</text>
+            </navLabel>
+            <content src="chapter5-86.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-221" playOrder="221">
+            <navLabel>
+               <text>Gün Olur ki</text>
+            </navLabel>
+            <content src="chapter5-87.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-222" playOrder="222">
+            <navLabel>
+               <text>Bir Aşk Hâtırası</text>
+            </navLabel>
+            <content src="chapter5-88.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-223" playOrder="223">
+            <navLabel>
+               <text>Misafir Adam</text>
+            </navLabel>
+            <content src="chapter5-89.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-224" playOrder="224">
+            <navLabel>
+               <text>Tereke</text>
+            </navLabel>
+            <content src="chapter5-90.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-225" playOrder="225">
+            <navLabel>
+               <text>Postacı</text>
+            </navLabel>
+            <content src="chapter5-91.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-226" playOrder="226">
+            <navLabel>
+               <text>Tren</text>
+            </navLabel>
+            <content src="chapter5-92.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-227" playOrder="227">
+            <navLabel>
+               <text>Şaşırtmaca</text>
+            </navLabel>
+            <content src="chapter5-93.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-228" playOrder="228">
+            <navLabel>
+               <text>Davet</text>
+            </navLabel>
+            <content src="chapter5-94.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-229" playOrder="229">
+            <navLabel>
+               <text>Hep Yaşadığıma Dair</text>
+            </navLabel>
+            <content src="chapter5-95.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-230" playOrder="230">
+            <navLabel>
+               <text>İnsan Hâli</text>
+            </navLabel>
+            <content src="chapter5-96.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-231" playOrder="231">
+            <navLabel>
+               <text>Garip Kişi</text>
+            </navLabel>
+            <content src="chapter5-97.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-232" playOrder="232">
+            <navLabel>
+               <text>Cem</text>
+            </navLabel>
+            <content src="chapter5-98.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-233" playOrder="233">
+            <navLabel>
+               <text>Herkesin Gecesi</text>
+            </navLabel>
+            <content src="chapter5-99.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-234" playOrder="234">
+            <navLabel>
+               <text>Ada’ya Davet</text>
+            </navLabel>
+            <content src="chapter5-100.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-235" playOrder="235">
+            <navLabel>
+               <text>Yarın Pazar Değil</text>
+            </navLabel>
+            <content src="chapter5-101.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-236" playOrder="236">
+            <navLabel>
+               <text>Ferman Senindir</text>
+            </navLabel>
+            <content src="chapter5-102.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-237" playOrder="237">
+            <navLabel>
+               <text>Karasevda</text>
+            </navLabel>
+            <content src="chapter5-103.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-238" playOrder="238">
+            <navLabel>
+               <text>Yalnızlığa Dair</text>
+            </navLabel>
+            <content src="chapter5-104.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-239" playOrder="239">
+            <navLabel>
+               <text>Hayal Ettiğim Şey</text>
+            </navLabel>
+            <content src="chapter5-105.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-240" playOrder="240">
+            <navLabel>
+               <text>Yalnızlığımız</text>
+            </navLabel>
+            <content src="chapter5-106.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-241" playOrder="241">
+            <navLabel>
+               <text>Şiir</text>
+            </navLabel>
+            <content src="chapter5-107.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-242" playOrder="242">
+            <navLabel>
+               <text>Otuz Beş Yaş</text>
+            </navLabel>
+            <content src="chapter5-108.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-243" playOrder="243">
+         <navLabel>
+            <text>DÜŞTEN GÜZEL</text>
+         </navLabel>
+         <content src="part6.xhtml"/>
+         <navPoint id="navPoint-244" playOrder="244">
+            <navLabel>
+               <text>Düşten Güzel</text>
+            </navLabel>
+            <content src="chapter6-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-245" playOrder="245">
+            <navLabel>
+               <text>Yalan</text>
+            </navLabel>
+            <content src="chapter6-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-246" playOrder="246">
+            <navLabel>
+               <text>Bahar Hikâyesi</text>
+            </navLabel>
+            <content src="chapter6-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-247" playOrder="247">
+            <navLabel>
+               <text>Atatürk</text>
+            </navLabel>
+            <content src="chapter6-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-248" playOrder="248">
+            <navLabel>
+               <text>Kış Gecesi Rüyası</text>
+            </navLabel>
+            <content src="chapter6-5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-249" playOrder="249">
+            <navLabel>
+               <text>Mehmetçik</text>
+            </navLabel>
+            <content src="chapter6-6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-250" playOrder="250">
+            <navLabel>
+               <text>Hacı Bayram Camii</text>
+            </navLabel>
+            <content src="chapter6-7.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-251" playOrder="251">
+            <navLabel>
+               <text>Gönül Hoşluğu</text>
+            </navLabel>
+            <content src="chapter6-8.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-252" playOrder="252">
+            <navLabel>
+               <text>Müjde</text>
+            </navLabel>
+            <content src="chapter6-9.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-253" playOrder="253">
+            <navLabel>
+               <text>Dilekçe</text>
+            </navLabel>
+            <content src="chapter6-10.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-254" playOrder="254">
+            <navLabel>
+               <text>Yürek</text>
+            </navLabel>
+            <content src="chapter6-11.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-255" playOrder="255">
+            <navLabel>
+               <text>Bayram Yemeği</text>
+            </navLabel>
+            <content src="chapter6-12.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-256" playOrder="256">
+            <navLabel>
+               <text>Yalnızlık Macerası</text>
+            </navLabel>
+            <content src="chapter6-13.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-257" playOrder="257">
+            <navLabel>
+               <text>Şaşkın Dünya</text>
+            </navLabel>
+            <content src="chapter6-14.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-258" playOrder="258">
+            <navLabel>
+               <text>On Kasım</text>
+            </navLabel>
+            <content src="chapter6-15.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-259" playOrder="259">
+            <navLabel>
+               <text>İstiklâl Marşı’nı Dinlerken</text>
+            </navLabel>
+            <content src="chapter6-16.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-260" playOrder="260">
+            <navLabel>
+               <text>Sabah Duası</text>
+            </navLabel>
+            <content src="chapter6-17.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-261" playOrder="261">
+            <navLabel>
+               <text>Bir Güzel</text>
+            </navLabel>
+            <content src="chapter6-18.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-262" playOrder="262">
+            <navLabel>
+               <text>Sağ El</text>
+            </navLabel>
+            <content src="chapter6-19.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-263" playOrder="263">
+            <navLabel>
+               <text>Meçhul Asker</text>
+            </navLabel>
+            <content src="chapter6-20.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-264" playOrder="264">
+            <navLabel>
+               <text>Utanç</text>
+            </navLabel>
+            <content src="chapter6-21.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-265" playOrder="265">
+            <navLabel>
+               <text>Sevdiğim</text>
+            </navLabel>
+            <content src="chapter6-22.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-266" playOrder="266">
+            <navLabel>
+               <text>Aşkımız</text>
+            </navLabel>
+            <content src="chapter6-23.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-267" playOrder="267">
+            <navLabel>
+               <text>Değirmen</text>
+            </navLabel>
+            <content src="chapter6-24.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-268" playOrder="268">
+            <navLabel>
+               <text>Dertleşme</text>
+            </navLabel>
+            <content src="chapter6-25.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-269" playOrder="269">
+            <navLabel>
+               <text>Gariplik</text>
+            </navLabel>
+            <content src="chapter6-26.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-270" playOrder="270">
+            <navLabel>
+               <text>Memleket</text>
+            </navLabel>
+            <content src="chapter6-27.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-271" playOrder="271">
+            <navLabel>
+               <text>Yaz Günleri</text>
+            </navLabel>
+            <content src="chapter6-28.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-272" playOrder="272">
+            <navLabel>
+               <text>Edâ</text>
+            </navLabel>
+            <content src="chapter6-29.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-273" playOrder="273">
+            <navLabel>
+               <text>Portre</text>
+            </navLabel>
+            <content src="chapter6-30.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-274" playOrder="274">
+            <navLabel>
+               <text>Kırık Kalpler</text>
+            </navLabel>
+            <content src="chapter6-31.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-275" playOrder="275">
+            <navLabel>
+               <text>Kim Kime Dum Duma</text>
+            </navLabel>
+            <content src="chapter6-32.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-276" playOrder="276">
+            <navLabel>
+               <text>Aşk İle</text>
+            </navLabel>
+            <content src="chapter6-33.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-277" playOrder="277">
+            <navLabel>
+               <text>İyimserlik</text>
+            </navLabel>
+            <content src="chapter6-34.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-278" playOrder="278">
+            <navLabel>
+               <text>Karanlıktaki Hazine</text>
+            </navLabel>
+            <content src="chapter6-35.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-279" playOrder="279">
+         <navLabel>
+            <text>SONRAKİLER</text>
+         </navLabel>
+         <content src="part7.xhtml"/>
+         <navPoint id="navPoint-280" playOrder="280">
+            <navLabel>
+               <text>Güvenlik</text>
+            </navLabel>
+            <content src="chapter7-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-281" playOrder="281">
+            <navLabel>
+               <text>Değişik</text>
+            </navLabel>
+            <content src="chapter7-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-282" playOrder="282">
+            <navLabel>
+               <text>Akrostiş</text>
+            </navLabel>
+            <content src="chapter7-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-283" playOrder="283">
+            <navLabel>
+               <text>Güven</text>
+            </navLabel>
+            <content src="chapter7-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-284" playOrder="284">
+            <navLabel>
+               <text>Başımı Koruyan Melek</text>
+            </navLabel>
+            <content src="chapter7-5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-285" playOrder="285">
+            <navLabel>
+               <text>Korkunç Güzel</text>
+            </navLabel>
+            <content src="chapter7-6.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-286" playOrder="286">
+         <navLabel>
+            <text>ÇEVİRİ ŞİİRLER</text>
+         </navLabel>
+         <content src="part8.xhtml"/>
+         <navPoint id="navPoint-287" playOrder="287">
+            <navLabel>
+               <text>Charles Baudelaire</text>
+            </navLabel>
+            <content src="chapter8-1.xhtml"/>
+            <navPoint id="navPoint-288" playOrder="287">
+               <navLabel>
+                  <text>Seyahate Davet</text>
+               </navLabel>
+               <content src="chapter8-1.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-289" playOrder="288">
+               <navLabel>
+                  <text>Ne Dersin Bu Akşam</text>
+               </navLabel>
+               <content src="chapter8-2.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-290" playOrder="289">
+               <navLabel>
+                  <text>Akşamın Ahengi</text>
+               </navLabel>
+               <content src="chapter8-3.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-291" playOrder="290">
+               <navLabel>
+                  <text>Balkon</text>
+               </navLabel>
+               <content src="chapter8-4.xhtml"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="navPoint-292" playOrder="291">
+            <navLabel>
+               <text>Jules Laforgue</text>
+            </navLabel>
+            <content src="chapter9-1.xhtml"/>
+            <navPoint id="navPoint-293" playOrder="291">
+               <navLabel>
+                  <text>Bensiz Olacak Her Şey</text>
+               </navLabel>
+               <content src="chapter9-1.xhtml"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="navPoint-294" playOrder="292">
+            <navLabel>
+               <text>Guillaume Apollinaire</text>
+            </navLabel>
+            <content src="chapter10-1.xhtml"/>
+            <navPoint id="navPoint-295" playOrder="292">
+               <navLabel>
+                  <text>Dilek</text>
+               </navLabel>
+               <content src="chapter10-1.xhtml"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="navPoint-296" playOrder="293">
+            <navLabel>
+               <text>Paul Verlaine</text>
+            </navLabel>
+            <content src="chapter11-1.xhtml"/>
+            <navPoint id="navPoint-297" playOrder="293">
+               <navLabel>
+                  <text>Green (Yeşil)</text>
+               </navLabel>
+               <content src="chapter11-1.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-298" playOrder="294">
+               <navLabel>
+                  <text>Gök Öyle Mavi</text>
+               </navLabel>
+               <content src="chapter11-2.xhtml"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="navPoint-299" playOrder="295">
+            <navLabel>
+               <text>Alfred de Musset</text>
+            </navLabel>
+            <content src="chapter12-1.xhtml"/>
+            <navPoint id="navPoint-300" playOrder="295">
+               <navLabel>
+                  <text>Hüzün</text>
+               </navLabel>
+               <content src="chapter12-1.xhtml"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="navPoint-301" playOrder="296">
+            <navLabel>
+               <text>Gérard de Nerval</text>
+            </navLabel>
+            <content src="chapter13-1.xhtml"/>
+            <navPoint id="navPoint-302" playOrder="296">
+               <navLabel>
+                  <text>Fantazya</text>
+               </navLabel>
+               <content src="chapter13-1.xhtml"/>
+            </navPoint>
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>

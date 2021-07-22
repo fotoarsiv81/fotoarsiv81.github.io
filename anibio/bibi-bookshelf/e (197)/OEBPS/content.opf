@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Salvatore, R. A.">R. A. Salvatore</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">115fb904-3684-4473-a09a-2bd719c8dfb8</dc:identifier>
+    <dc:publisher>Laika Yayıncılık</dc:publisher>
+    <dc:description>&lt;p&gt;Yolculuk devam etmeli... edecek... soğuk da... Bu çorak topraklarda bir destan yazılacak...&lt;/p&gt;</dc:description>
+    <dc:date>2014-04-09T21:00:00+00:00</dc:date>
+    <meta content="Buzyeli Vadisi Serisi - 2 - Gümüş Damarları" name="calibre:title_sort"/>
+    <meta content="2013-07-16T18:17:13+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;R. A. Salvatore&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="Unutulmuş Diyarlar" name="calibre:series"/>
+    <meta content="5.0" name="calibre:series_index"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Buzyeli Vadisi Serisi - 2 - Gümüş Damarları</dc:title>
+<dc:subject>Fantastik</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">97635f0e-0685-4580-a661-4b0d7dc8e88f</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/index_split_000.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

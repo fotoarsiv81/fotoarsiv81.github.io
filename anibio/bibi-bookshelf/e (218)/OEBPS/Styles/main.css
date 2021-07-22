@@ -1,0 +1,210 @@
+/*
+ *chapter
+ */
+
+.part h1,h2{
+	font-family:American;
+	font-size:1.4em;
+	font-weight:normal;
+	text-align:center;
+  margin: 0 0 .5em;
+}
+p{
+	font-family:Berling;
+	font-size:0.875em;
+	line-height:1.4em;
+	margin:0;
+	text-indent:1.5em;
+}
+.margin-top{
+  margin-top:1em;
+}
+.right{
+  text-align: right;
+  margin-top: 1em;
+}
+
+.double{
+	margin-top: 2em;
+}
+
+.subtitle{
+  font-family: Berling;
+  font-weight: 500;
+  font-size: 1em;
+  color: #948670;
+  text-align: left;
+  padding-left: 1.5em;
+  margin: 1.5em 0 .6em;
+}
+.telg p{
+  font-family:Courier;
+  text-indent: 0; 
+}
+.text{
+  margin: 1em;
+}
+.letter,.telg{
+  margin: 1em 0;
+}
+.letter p,.text p{
+  font-family: Gill;
+  font-weight: 300;
+}
+figcaption{
+  font-family: Courier;
+  font-size: .72em;
+  text-align: center;
+  font-weight: bold;
+  padding-top: .3em;
+}
+figcaption p{
+  font-size: 1em;
+  text-indent: 0;
+ font-family: Courier;
+}
+figure{
+  margin:0 auto;
+  page-break-inside: avoid;
+  width: 99.5%;
+  max-width: 720px;
+}
+.chapter figure{
+  padding-top: 1.5em;
+}
+.bottom{
+  padding-bottom: 1.5em;
+}
+figure img{
+  width: 100%;
+}
+.big{
+  max-width: 450px;
+}
+.big1{
+  max-width: 320px;
+}
+/*other*/
+.part figure{
+padding-bottom: 2em;
+page-break-before: always;
+}
+.head{
+  padding-bottom: 2em;
+}
+.dedication p,.epigraph p{
+  font-size: .83em;
+  text-indent: 0;
+}
+.dedication{
+  margin-top:3em;
+  text-align: right; 
+}
+.epigraph{
+  float: right;
+  margin-top: 3em;
+  text-align: left;
+}
+.preface p{
+  font-size: .8em;
+}
+.other{
+  font-family: Berling;
+  font-size: 1.25em;
+  text-align: center;
+  margin-bottom: 2em;
+  font-weight: normal;
+  color: #948670;
+}
+
+.kunye span{
+  font-family: Gill;
+  font-size:0.667em;
+  display: block;
+}
+.copy{
+  margin: .8em 0 0 ;
+}
+a{
+  text-decoration: none;
+  color: #7A7A7A;
+}
+
+.title{
+  text-align: center;
+}
+.aut{
+  font-family: Goudy;
+  font-size: 1.6em;
+  margin-bottom: 0;
+}
+
+.work{
+  font-family: Goudy;
+  font-size: 2.3em;
+  margin-top: .5em;
+}
+
+.biography p{
+  font-family: Gill;
+  font-weight: normal;
+  font-size: .75em;
+  text-indent: 0;
+  line-height: 1.5em;
+}
+
+li{
+font-family: Gill;
+font-size: .75em;
+list-style: none;
+padding-bottom: .5em;
+}
+ul{
+	margin: 1.5em 0 0;
+	padding:0;
+}
+.books h1,.bibliography h1{
+font-family: Gill;
+font-weight: normal;
+font-size: .75em;
+text-align: left;
+}
+.bibliography p{
+	font-family: Gill;
+	text-indent: 0;
+	font-size: .7em;
+	padding-bottom: .5em;
+}
+.logo{
+  margin: 4em auto 0 auto;
+  
+}
+.cover-container img{
+  max-width: 100%;
+}
+.cover-container{
+  margin: 0 auto;
+  max-width: 450px;
+  page-break-inside: avoid;
+}
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+  margin:4em 0 1em;
+}
+.si-backref{
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+}
+.si-footnote{
+  font-family: Gill;
+  font-size: .8em;
+  margin-bottom: .3em;
+}

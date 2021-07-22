@@ -1,0 +1,819 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Hellinger, Bert">Bert Hellinger</dc:creator>
+<dc:publisher>Sistem Yayıncılık</dc:publisher>
+    <meta content="1" name="calibre:series_index"/>
+    <meta content="2010-06-01T14:06:09.981000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2003-06-01T14:06:09.981000+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2015-06-21</dc:date>
+  <dc:title>Sevgi Düzenleri</dc:title>
+<meta name="calibre:title_sort" content="Sevgi Düzenleri"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Psikoloji</dc:subject>
+<dc:subject>Orijinal</dc:subject>
+<dc:description>&lt;p&gt;"Bu kitabın, kendilerine bugüne dek çözümsüz görünmüş sorunlarından bir çıkış yolu bulmada pek çok aileye yardımcı olacağına eminim. Bunun ardından sevgi, ailenin bütün bireylerini yeniden birbirine bağlayabilecek. Çoğu ailenin gündelik yaşamı, birbirimizi sevmenin yeterli olmadığını gösteriyor. Sevginin gün yüzüne çıkıp gelişebilmesi için bir düzene gerek var. Bu düzense yaşamlarımızda önceden verili halde mevcut. Tarafların iyi niyetine karşın sıklıkla sevginin karşısına dikilen engelleri ancak sevgi düzenlerini öğrendikten sonra aşabiliriz. Elinizdeki kitap, pek çok örnekle bu düzene götüren yolları gösteriyor."
+- Bert Hellinger-
+Sevgi Düzenleri, psikoterapinin dışında olsun, terapistler olsun herkese İnsan Ruhuna dair çok farklı, derin olduğu kadar yalın bir ışık sunuyor.
+&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Bert Hellinger&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">91a1edfb-2544-4456-b1ea-53e16bc516b8</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753222754</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="cid1" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="cid2" media-type="application/octet-stream"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="cid3" media-type="application/octet-stream"/>
+    <item href="Images/1.resim10_opt.jpeg" id="added167" media-type="image/jpeg"/>
+    <item href="Images/1.resim1_opt.jpeg" id="added117" media-type="image/jpeg"/>
+    <item href="Images/1.resim2_opt.jpeg" id="added121" media-type="image/jpeg"/>
+    <item href="Images/1.resim3_opt.jpeg" id="added128" media-type="image/jpeg"/>
+    <item href="Images/1.resim4_opt.jpeg" id="added131" media-type="image/jpeg"/>
+    <item href="Images/1.resim5_opt.jpeg" id="added142" media-type="image/jpeg"/>
+    <item href="Images/1.resim6_opt.jpeg" id="added149" media-type="image/jpeg"/>
+    <item href="Images/1.resim7_opt.jpeg" id="added155" media-type="image/jpeg"/>
+    <item href="Images/1.resim8_opt.jpeg" id="added159" media-type="image/jpeg"/>
+    <item href="Images/1.resim9_opt.jpeg" id="added163" media-type="image/jpeg"/>
+    <item href="Images/1.resim_opt.jpeg" id="added1" media-type="image/jpeg"/>
+    <item href="Images/1.resima_opt.jpeg" id="added7" media-type="image/jpeg"/>
+    <item href="Images/1.resimc_opt.jpeg" id="added13" media-type="image/jpeg"/>
+    <item href="Images/1.resimd_opt.jpeg" id="added18" media-type="image/jpeg"/>
+    <item href="Images/1.resime_opt.jpeg" id="added23" media-type="image/jpeg"/>
+    <item href="Images/1.resimf_opt.jpeg" id="added28" media-type="image/jpeg"/>
+    <item href="Images/1.resimg_opt.jpeg" id="added33" media-type="image/jpeg"/>
+    <item href="Images/1.resimh_opt.jpeg" id="added35" media-type="image/jpeg"/>
+    <item href="Images/1.resimi_opt.jpeg" id="added40" media-type="image/jpeg"/>
+    <item href="Images/1.resimj_opt.jpeg" id="added46" media-type="image/jpeg"/>
+    <item href="Images/1.resimk_opt.jpeg" id="added50" media-type="image/jpeg"/>
+    <item href="Images/1.resiml_opt.jpeg" id="added54" media-type="image/jpeg"/>
+    <item href="Images/1.resimm_opt.jpeg" id="added56" media-type="image/jpeg"/>
+    <item href="Images/1.resimn_opt.jpeg" id="added59" media-type="image/jpeg"/>
+    <item href="Images/1.resimo_opt.jpeg" id="added61" media-type="image/jpeg"/>
+    <item href="Images/1.resimp_opt.jpeg" id="added65" media-type="image/jpeg"/>
+    <item href="Images/1.resimq_opt.jpeg" id="added111" media-type="image/jpeg"/>
+    <item href="Images/1.resimr_opt.jpeg" id="added73" media-type="image/jpeg"/>
+    <item href="Images/1.resims_opt.jpeg" id="added79" media-type="image/jpeg"/>
+    <item href="Images/1.resimt_opt.jpeg" id="added82" media-type="image/jpeg"/>
+    <item href="Images/1.resimu_opt.jpeg" id="added88" media-type="image/jpeg"/>
+    <item href="Images/1.resimv_opt.jpeg" id="added92" media-type="image/jpeg"/>
+    <item href="Images/1.resimx_opt.jpeg" id="added105" media-type="image/jpeg"/>
+    <item href="Images/1.resimy_opt.jpeg" id="added96" media-type="image/jpeg"/>
+    <item href="Images/1.resimz_opt.jpeg" id="added101" media-type="image/jpeg"/>
+    <item href="Images/10.resim4_opt.jpeg" id="added140" media-type="image/jpeg"/>
+    <item href="Images/11.resim4_opt.jpeg" id="added141" media-type="image/jpeg"/>
+    <item href="Images/2.resim10_opt.jpeg" id="added168" media-type="image/jpeg"/>
+    <item href="Images/2.resim1_opt.jpeg" id="added118" media-type="image/jpeg"/>
+    <item href="Images/2.resim2_opt.jpeg" id="added122" media-type="image/jpeg"/>
+    <item href="Images/2.resim3_opt.jpeg" id="added129" media-type="image/jpeg"/>
+    <item href="Images/2.resim4_opt.jpeg" id="added132" media-type="image/jpeg"/>
+    <item href="Images/2.resim5_opt.jpeg" id="added143" media-type="image/jpeg"/>
+    <item href="Images/2.resim6_opt.jpeg" id="added150" media-type="image/jpeg"/>
+    <item href="Images/2.resim7_opt.jpeg" id="added156" media-type="image/jpeg"/>
+    <item href="Images/2.resim8_opt.jpeg" id="added160" media-type="image/jpeg"/>
+    <item href="Images/2.resim9_opt.jpeg" id="added164" media-type="image/jpeg"/>
+    <item href="Images/2.resim_opt.jpeg" id="added2" media-type="image/jpeg"/>
+    <item href="Images/2.resima_opt.jpeg" id="added8" media-type="image/jpeg"/>
+    <item href="Images/2.resimd_opt.jpeg" id="added19" media-type="image/jpeg"/>
+    <item href="Images/2.resime_opt.jpeg" id="added24" media-type="image/jpeg"/>
+    <item href="Images/2.resimf_opt.jpeg" id="added29" media-type="image/jpeg"/>
+    <item href="Images/2.resimg_opt.jpeg" id="added34" media-type="image/jpeg"/>
+    <item href="Images/2.resimh_opt.jpeg" id="added36" media-type="image/jpeg"/>
+    <item href="Images/2.resimi_opt.jpeg" id="added41" media-type="image/jpeg"/>
+    <item href="Images/2.resimj_opt.jpeg" id="added47" media-type="image/jpeg"/>
+    <item href="Images/2.resimk_opt.jpeg" id="added51" media-type="image/jpeg"/>
+    <item href="Images/2.resiml_opt.jpeg" id="added55" media-type="image/jpeg"/>
+    <item href="Images/2.resimm_opt.jpeg" id="added57" media-type="image/jpeg"/>
+    <item href="Images/2.resimn_opt.jpeg" id="added60" media-type="image/jpeg"/>
+    <item href="Images/2.resimo_opt.jpeg" id="added62" media-type="image/jpeg"/>
+    <item href="Images/2.resimp_opt.jpeg" id="added66" media-type="image/jpeg"/>
+    <item href="Images/2.resimq_opt.jpeg" id="added112" media-type="image/jpeg"/>
+    <item href="Images/2.resims_opt.jpeg" id="added80" media-type="image/jpeg"/>
+    <item href="Images/2.resimt_opt.jpeg" id="added83" media-type="image/jpeg"/>
+    <item href="Images/2.resimu_opt.jpeg" id="added89" media-type="image/jpeg"/>
+    <item href="Images/2.resimv_opt.jpeg" id="added93" media-type="image/jpeg"/>
+    <item href="Images/2.resimx_opt.jpeg" id="added106" media-type="image/jpeg"/>
+    <item href="Images/2.resimy_opt.jpeg" id="added97" media-type="image/jpeg"/>
+    <item href="Images/2.resimz_opt.jpeg" id="added102" media-type="image/jpeg"/>
+    <item href="Images/3.resim10_opt.jpeg" id="added169" media-type="image/jpeg"/>
+    <item href="Images/3.resim1_opt.jpeg" id="added119" media-type="image/jpeg"/>
+    <item href="Images/3.resim2_opt.jpeg" id="added123" media-type="image/jpeg"/>
+    <item href="Images/3.resim3_opt.jpeg" id="added130" media-type="image/jpeg"/>
+    <item href="Images/3.resim4_opt.jpeg" id="added133" media-type="image/jpeg"/>
+    <item href="Images/3.resim5_opt.jpeg" id="added144" media-type="image/jpeg"/>
+    <item href="Images/3.resim6_opt.jpeg" id="added151" media-type="image/jpeg"/>
+    <item href="Images/3.resim7_opt.jpeg" id="added157" media-type="image/jpeg"/>
+    <item href="Images/3.resim8_opt.jpeg" id="added161" media-type="image/jpeg"/>
+    <item href="Images/3.resim9_opt.jpeg" id="added165" media-type="image/jpeg"/>
+    <item href="Images/3.resim_opt.jpeg" id="added3" media-type="image/jpeg"/>
+    <item href="Images/3.resima_opt.jpeg" id="added9" media-type="image/jpeg"/>
+    <item href="Images/3.resimc_opt.jpeg" id="added14" media-type="image/jpeg"/>
+    <item href="Images/3.resimd_opt.jpeg" id="added20" media-type="image/jpeg"/>
+    <item href="Images/3.resime_opt.jpeg" id="added25" media-type="image/jpeg"/>
+    <item href="Images/3.resimf_opt.jpeg" id="added30" media-type="image/jpeg"/>
+    <item href="Images/3.resimh_opt.jpeg" id="added37" media-type="image/jpeg"/>
+    <item href="Images/3.resimi_opt.jpeg" id="added42" media-type="image/jpeg"/>
+    <item href="Images/3.resimk_opt.jpeg" id="added52" media-type="image/jpeg"/>
+    <item href="Images/3.resimm_opt.jpeg" id="added58" media-type="image/jpeg"/>
+    <item href="Images/3.resimo_opt.jpeg" id="added63" media-type="image/jpeg"/>
+    <item href="Images/3.resimp_opt.jpeg" id="added67" media-type="image/jpeg"/>
+    <item href="Images/3.resimq_opt.jpeg" id="added113" media-type="image/jpeg"/>
+    <item href="Images/3.resimr_opt.jpeg" id="added74" media-type="image/jpeg"/>
+    <item href="Images/3.resims_opt.jpeg" id="added81" media-type="image/jpeg"/>
+    <item href="Images/3.resimt_opt.jpeg" id="added84" media-type="image/jpeg"/>
+    <item href="Images/3.resimu_opt.jpeg" id="added90" media-type="image/jpeg"/>
+    <item href="Images/3.resimv_opt.jpeg" id="added94" media-type="image/jpeg"/>
+    <item href="Images/3.resimx_opt.jpeg" id="added107" media-type="image/jpeg"/>
+    <item href="Images/3.resimy_opt.jpeg" id="added98" media-type="image/jpeg"/>
+    <item href="Images/3.resimz_opt.jpeg" id="added103" media-type="image/jpeg"/>
+    <item href="Images/4.resim10_opt.jpeg" id="added170" media-type="image/jpeg"/>
+    <item href="Images/4.resim1_opt.jpeg" id="added120" media-type="image/jpeg"/>
+    <item href="Images/4.resim2_opt.jpeg" id="added124" media-type="image/jpeg"/>
+    <item href="Images/4.resim4_opt.jpeg" id="added134" media-type="image/jpeg"/>
+    <item href="Images/4.resim5_opt.jpeg" id="added145" media-type="image/jpeg"/>
+    <item href="Images/4.resim6_opt.jpeg" id="added152" media-type="image/jpeg"/>
+    <item href="Images/4.resim7_opt.jpeg" id="added158" media-type="image/jpeg"/>
+    <item href="Images/4.resim8_opt.jpeg" id="added162" media-type="image/jpeg"/>
+    <item href="Images/4.resim9_opt.jpeg" id="added166" media-type="image/jpeg"/>
+    <item href="Images/4.resim_opt.jpeg" id="added4" media-type="image/jpeg"/>
+    <item href="Images/4.resima_opt.jpeg" id="added10" media-type="image/jpeg"/>
+    <item href="Images/4.resimc_opt.jpeg" id="added15" media-type="image/jpeg"/>
+    <item href="Images/4.resimd_opt.jpeg" id="added21" media-type="image/jpeg"/>
+    <item href="Images/4.resime_opt.jpeg" id="added26" media-type="image/jpeg"/>
+    <item href="Images/4.resimf_opt.jpeg" id="added31" media-type="image/jpeg"/>
+    <item href="Images/4.resimh_opt.jpeg" id="added38" media-type="image/jpeg"/>
+    <item href="Images/4.resimi_opt.jpeg" id="added43" media-type="image/jpeg"/>
+    <item href="Images/4.resimj_opt.jpeg" id="added48" media-type="image/jpeg"/>
+    <item href="Images/4.resimk_opt.jpeg" id="added53" media-type="image/jpeg"/>
+    <item href="Images/4.resimo_opt.jpeg" id="added64" media-type="image/jpeg"/>
+    <item href="Images/4.resimp_opt.jpeg" id="added68" media-type="image/jpeg"/>
+    <item href="Images/4.resimq_opt.jpeg" id="added114" media-type="image/jpeg"/>
+    <item href="Images/4.resimr_opt.jpeg" id="added75" media-type="image/jpeg"/>
+    <item href="Images/4.resimt_opt.jpeg" id="added85" media-type="image/jpeg"/>
+    <item href="Images/4.resimu_opt.jpeg" id="added91" media-type="image/jpeg"/>
+    <item href="Images/4.resimv_opt.jpeg" id="added95" media-type="image/jpeg"/>
+    <item href="Images/4.resimx_opt.jpeg" id="added108" media-type="image/jpeg"/>
+    <item href="Images/4.resimy_opt.jpeg" id="added99" media-type="image/jpeg"/>
+    <item href="Images/4.resimz_opt.jpeg" id="added104" media-type="image/jpeg"/>
+    <item href="Images/5.resim2_opt.jpeg" id="added125" media-type="image/jpeg"/>
+    <item href="Images/5.resim4_opt.jpeg" id="added135" media-type="image/jpeg"/>
+    <item href="Images/5.resim5_opt.jpeg" id="added146" media-type="image/jpeg"/>
+    <item href="Images/5.resim6_opt.jpeg" id="added153" media-type="image/jpeg"/>
+    <item href="Images/5.resim_opt.jpeg" id="added5" media-type="image/jpeg"/>
+    <item href="Images/5.resima_opt.jpeg" id="added11" media-type="image/jpeg"/>
+    <item href="Images/5.resimc_opt.jpeg" id="added16" media-type="image/jpeg"/>
+    <item href="Images/5.resimd_opt.jpeg" id="added22" media-type="image/jpeg"/>
+    <item href="Images/5.resime_opt.jpeg" id="added27" media-type="image/jpeg"/>
+    <item href="Images/5.resimf_opt.jpeg" id="added32" media-type="image/jpeg"/>
+    <item href="Images/5.resimh_opt.jpeg" id="added39" media-type="image/jpeg"/>
+    <item href="Images/5.resimi_opt.jpeg" id="added44" media-type="image/jpeg"/>
+    <item href="Images/5.resimj_opt.jpeg" id="added49" media-type="image/jpeg"/>
+    <item href="Images/5.resimp_opt.jpeg" id="added69" media-type="image/jpeg"/>
+    <item href="Images/5.resimq_opt.jpeg" id="added115" media-type="image/jpeg"/>
+    <item href="Images/5.resimr_opt.jpeg" id="added76" media-type="image/jpeg"/>
+    <item href="Images/5.resimt_opt.jpeg" id="added86" media-type="image/jpeg"/>
+    <item href="Images/5.resimx_opt.jpeg" id="added109" media-type="image/jpeg"/>
+    <item href="Images/5.resimy_opt.jpeg" id="added100" media-type="image/jpeg"/>
+    <item href="Images/6.resim2_opt.jpeg" id="added126" media-type="image/jpeg"/>
+    <item href="Images/6.resim4_opt.jpeg" id="added136" media-type="image/jpeg"/>
+    <item href="Images/6.resim5_opt.jpeg" id="added147" media-type="image/jpeg"/>
+    <item href="Images/6.resim6_opt.jpeg" id="added154" media-type="image/jpeg"/>
+    <item href="Images/6.resim_opt.jpeg" id="added6" media-type="image/jpeg"/>
+    <item href="Images/6.resimc_opt.jpeg" id="added17" media-type="image/jpeg"/>
+    <item href="Images/6.resimi_opt.jpeg" id="added45" media-type="image/jpeg"/>
+    <item href="Images/6.resimp_opt.jpeg" id="added70" media-type="image/jpeg"/>
+    <item href="Images/6.resimq_opt.jpeg" id="added116" media-type="image/jpeg"/>
+    <item href="Images/6.resimt_opt.jpeg" id="added87" media-type="image/jpeg"/>
+    <item href="Images/6.resimx_opt.jpeg" id="added110" media-type="image/jpeg"/>
+    <item href="Images/7.resim2_opt.jpeg" id="added127" media-type="image/jpeg"/>
+    <item href="Images/7.resim4_opt.jpeg" id="added137" media-type="image/jpeg"/>
+    <item href="Images/7.resim5_opt.jpeg" id="added148" media-type="image/jpeg"/>
+    <item href="Images/7.resimp_opt.jpeg" id="added71" media-type="image/jpeg"/>
+    <item href="Images/8.resim4_opt.jpeg" id="added138" media-type="image/jpeg"/>
+    <item href="Images/9.resim4_opt.jpeg" id="added139" media-type="image/jpeg"/>
+    <item href="Images/bu dizimin resmi_opt.jpeg" id="added72" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/klara_opt.jpeg" id="added12" media-type="image/jpeg"/>
+    <item href="Images/not resmi_opt.jpeg" id="added" media-type="image/jpeg"/>
+    <item href="Images/ornek1_opt.jpeg" id="added77" media-type="image/jpeg"/>
+    <item href="Images/ornek2_opt.jpeg" id="added78" media-type="image/jpeg"/>
+    <item href="Text/sevgiduzenleri_split_000.html" id="html302" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_001.html" id="html301" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_002.html" id="html300" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_003.html" id="html299" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_004.html" id="html298" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_005.html" id="html297" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_006.html" id="html296" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_007.html" id="html295" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_008.html" id="html294" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_009.html" id="html293" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_010.html" id="html292" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_011.html" id="html291" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_012.html" id="html290" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_013.html" id="html289" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_014.html" id="html288" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_015.html" id="html287" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_016.html" id="html286" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_017.html" id="html285" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_018.html" id="html284" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_019.html" id="html283" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_020.html" id="html282" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_021.html" id="html281" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_022.html" id="html280" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_023.html" id="html279" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_024.html" id="html278" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_025.html" id="html277" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_026.html" id="html276" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_027.html" id="html275" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_028.html" id="html274" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_029.html" id="html273" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_030.html" id="html272" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_031.html" id="html271" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_032.html" id="html270" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_033.html" id="html269" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_034.html" id="html268" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_035.html" id="html267" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_036.html" id="html266" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_037.html" id="html265" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_038.html" id="html264" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_039.html" id="html263" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_040.html" id="html262" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_041.html" id="html261" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_042.html" id="html260" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_043.html" id="html259" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_044.html" id="html258" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_045.html" id="html257" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_046.html" id="html256" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_047.html" id="html255" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_048.html" id="html254" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_049.html" id="html253" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_050.html" id="html252" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_051.html" id="html251" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_052.html" id="html250" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_053.html" id="html249" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_054.html" id="html248" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_055.html" id="html247" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_056.html" id="html246" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_057.html" id="html245" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_058.html" id="html244" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_059.html" id="html243" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_060.html" id="html242" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_061.html" id="html241" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_062.html" id="html240" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_063.html" id="html239" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_064.html" id="html238" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_065.html" id="html237" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_066.html" id="html236" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_067.html" id="html235" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_068.html" id="html234" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_069.html" id="html233" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_070.html" id="html232" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_071.html" id="html231" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_072.html" id="html230" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_073.html" id="html229" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_074.html" id="html228" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_075.html" id="html227" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_076.html" id="html226" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_077.html" id="html225" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_078.html" id="html224" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_079.html" id="html223" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_080.html" id="html222" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_081.html" id="html221" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_082.html" id="html220" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_083.html" id="html219" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_084.html" id="html218" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_085.html" id="html217" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_086.html" id="html216" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_087.html" id="html215" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_088.html" id="html214" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_089.html" id="html213" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_090.html" id="html212" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_091.html" id="html211" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_092.html" id="html210" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_093.html" id="html209" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_094.html" id="html208" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_095.html" id="html207" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_096.html" id="html206" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_097.html" id="html205" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_098.html" id="html204" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_099.html" id="html203" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_100.html" id="html202" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_101.html" id="html201" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_102.html" id="html200" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_103.html" id="html199" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_104.html" id="html198" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_105.html" id="html197" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_106.html" id="html196" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_107.html" id="html195" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_108.html" id="html194" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_109.html" id="html193" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_110.html" id="html192" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_111.html" id="html191" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_112.html" id="html190" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_113.html" id="html189" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_114.html" id="html188" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_115.html" id="html187" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_116.html" id="html186" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_117.html" id="html185" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_118.html" id="html184" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_119.html" id="html183" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_120.html" id="html182" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_121.html" id="html181" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_122.html" id="html180" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_123.html" id="html179" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_124.html" id="html178" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_125.html" id="html177" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_126.html" id="html176" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_127.html" id="html175" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_128.html" id="html174" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_129.html" id="html173" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_130.html" id="html172" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_131.html" id="html171" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_132.html" id="html170" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_133.html" id="html169" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_134.html" id="html168" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_135.html" id="html167" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_136.html" id="html166" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_137.html" id="html165" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_138.html" id="html164" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_139.html" id="html163" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_140.html" id="html162" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_141.html" id="html161" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_142.html" id="html160" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_143.html" id="html159" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_144.html" id="html158" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_145.html" id="html157" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_146.html" id="html156" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_147.html" id="html155" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_148.html" id="html154" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_149.html" id="html153" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_150.html" id="html152" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_151.html" id="html151" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_152.html" id="html150" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_153.html" id="html149" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_154.html" id="html148" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_155.html" id="html147" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_156.html" id="html146" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_157.html" id="html145" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_158.html" id="html144" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_159.html" id="html143" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_160.html" id="html142" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_161.html" id="html141" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_162.html" id="html140" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_163.html" id="html139" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_164.html" id="html138" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_165.html" id="html137" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_166.html" id="html136" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_167.html" id="html135" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_168.html" id="html134" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_169.html" id="html133" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_170.html" id="html132" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_171.html" id="html131" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_172.html" id="html130" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_173.html" id="html129" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_174.html" id="html128" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_175.html" id="html127" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_176.html" id="html126" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_177.html" id="html125" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_178.html" id="html124" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_179.html" id="html123" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_180.html" id="html122" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_181.html" id="html121" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_182.html" id="html120" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_183.html" id="html119" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_184.html" id="html118" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_185.html" id="html117" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_186.html" id="html116" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_187.html" id="html115" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_188.html" id="html114" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_189.html" id="html113" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_190.html" id="html112" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_191.html" id="html111" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_192.html" id="html110" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_193.html" id="html109" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_194.html" id="html108" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_195.html" id="html107" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_196.html" id="html106" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_197.html" id="html105" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_198.html" id="html104" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_199.html" id="html103" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_200.html" id="html102" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_201.html" id="html101" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_202.html" id="html100" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_203.html" id="html99" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_204.html" id="html98" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_205.html" id="html97" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_206.html" id="html96" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_207.html" id="html95" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_208.html" id="html94" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_209.html" id="html93" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_210.html" id="html92" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_211.html" id="html91" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_212.html" id="html90" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_213.html" id="html89" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_214.html" id="html88" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_215.html" id="html87" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_216.html" id="html86" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_217.html" id="html85" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_218.html" id="html84" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_219.html" id="html83" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_220.html" id="html82" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_221.html" id="html81" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_222.html" id="html80" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_223.html" id="html79" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_224.html" id="html78" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_225.html" id="html77" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_226.html" id="html76" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_227.html" id="html75" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_228.html" id="html74" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_229.html" id="html73" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_230.html" id="html72" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_231.html" id="html71" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_232.html" id="html70" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_233.html" id="html69" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_234.html" id="html68" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_235.html" id="html67" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_236.html" id="html66" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_237.html" id="html65" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_238.html" id="html64" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_239.html" id="html63" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_240.html" id="html62" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_241.html" id="html61" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_242.html" id="html60" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_243.html" id="html59" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_244.html" id="html58" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_245.html" id="html57" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_246.html" id="html56" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_247.html" id="html55" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_248.html" id="html54" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_249.html" id="html53" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_250.html" id="html52" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_251.html" id="html51" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_252.html" id="html50" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_253.html" id="html49" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_254.html" id="html48" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_255.html" id="html47" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_256.html" id="html46" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_257.html" id="html45" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_258.html" id="html44" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_259.html" id="html43" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_260.html" id="html42" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_261.html" id="html41" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_262.html" id="html40" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_263.html" id="html39" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_264.html" id="html38" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_265.html" id="html37" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_266.html" id="html36" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_267.html" id="html35" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_268.html" id="html34" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_269.html" id="html33" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_270.html" id="html32" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_271.html" id="html31" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_272.html" id="html30" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_273.html" id="html29" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_274.html" id="html28" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_275.html" id="html27" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_276.html" id="html26" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_277.html" id="html25" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_278.html" id="html24" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_279.html" id="html23" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_280.html" id="html22" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_281.html" id="html21" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_282.html" id="html20" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_283.html" id="html19" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_284.html" id="html18" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_285.html" id="html17" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_286.html" id="html16" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_287.html" id="html15" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_288.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_289.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_290.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_291.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_292.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_293.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_294.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_295.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_296.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_297.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_298.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_299.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_300.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/sevgiduzenleri_split_301.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="html302"/>
+    <itemref idref="html301"/>
+    <itemref idref="html300"/>
+    <itemref idref="html299"/>
+    <itemref idref="html298"/>
+    <itemref idref="html297"/>
+    <itemref idref="html296"/>
+    <itemref idref="html295"/>
+    <itemref idref="html294"/>
+    <itemref idref="html293"/>
+    <itemref idref="html292"/>
+    <itemref idref="html291"/>
+    <itemref idref="html290"/>
+    <itemref idref="html289"/>
+    <itemref idref="html288"/>
+    <itemref idref="html287"/>
+    <itemref idref="html286"/>
+    <itemref idref="html285"/>
+    <itemref idref="html284"/>
+    <itemref idref="html283"/>
+    <itemref idref="html282"/>
+    <itemref idref="html281"/>
+    <itemref idref="html280"/>
+    <itemref idref="html279"/>
+    <itemref idref="html278"/>
+    <itemref idref="html277"/>
+    <itemref idref="html276"/>
+    <itemref idref="html275"/>
+    <itemref idref="html274"/>
+    <itemref idref="html273"/>
+    <itemref idref="html272"/>
+    <itemref idref="html271"/>
+    <itemref idref="html270"/>
+    <itemref idref="html269"/>
+    <itemref idref="html268"/>
+    <itemref idref="html267"/>
+    <itemref idref="html266"/>
+    <itemref idref="html265"/>
+    <itemref idref="html264"/>
+    <itemref idref="html263"/>
+    <itemref idref="html262"/>
+    <itemref idref="html261"/>
+    <itemref idref="html260"/>
+    <itemref idref="html259"/>
+    <itemref idref="html258"/>
+    <itemref idref="html257"/>
+    <itemref idref="html256"/>
+    <itemref idref="html255"/>
+    <itemref idref="html254"/>
+    <itemref idref="html253"/>
+    <itemref idref="html252"/>
+    <itemref idref="html251"/>
+    <itemref idref="html250"/>
+    <itemref idref="html249"/>
+    <itemref idref="html248"/>
+    <itemref idref="html247"/>
+    <itemref idref="html246"/>
+    <itemref idref="html245"/>
+    <itemref idref="html244"/>
+    <itemref idref="html243"/>
+    <itemref idref="html242"/>
+    <itemref idref="html241"/>
+    <itemref idref="html240"/>
+    <itemref idref="html239"/>
+    <itemref idref="html238"/>
+    <itemref idref="html237"/>
+    <itemref idref="html236"/>
+    <itemref idref="html235"/>
+    <itemref idref="html234"/>
+    <itemref idref="html233"/>
+    <itemref idref="html232"/>
+    <itemref idref="html231"/>
+    <itemref idref="html230"/>
+    <itemref idref="html229"/>
+    <itemref idref="html228"/>
+    <itemref idref="html227"/>
+    <itemref idref="html226"/>
+    <itemref idref="html225"/>
+    <itemref idref="html224"/>
+    <itemref idref="html223"/>
+    <itemref idref="html222"/>
+    <itemref idref="html221"/>
+    <itemref idref="html220"/>
+    <itemref idref="html219"/>
+    <itemref idref="html218"/>
+    <itemref idref="html217"/>
+    <itemref idref="html216"/>
+    <itemref idref="html215"/>
+    <itemref idref="html214"/>
+    <itemref idref="html213"/>
+    <itemref idref="html212"/>
+    <itemref idref="html211"/>
+    <itemref idref="html210"/>
+    <itemref idref="html209"/>
+    <itemref idref="html208"/>
+    <itemref idref="html207"/>
+    <itemref idref="html206"/>
+    <itemref idref="html205"/>
+    <itemref idref="html204"/>
+    <itemref idref="html203"/>
+    <itemref idref="html202"/>
+    <itemref idref="html201"/>
+    <itemref idref="html200"/>
+    <itemref idref="html199"/>
+    <itemref idref="html198"/>
+    <itemref idref="html197"/>
+    <itemref idref="html196"/>
+    <itemref idref="html195"/>
+    <itemref idref="html194"/>
+    <itemref idref="html193"/>
+    <itemref idref="html192"/>
+    <itemref idref="html191"/>
+    <itemref idref="html190"/>
+    <itemref idref="html189"/>
+    <itemref idref="html188"/>
+    <itemref idref="html187"/>
+    <itemref idref="html186"/>
+    <itemref idref="html185"/>
+    <itemref idref="html184"/>
+    <itemref idref="html183"/>
+    <itemref idref="html182"/>
+    <itemref idref="html181"/>
+    <itemref idref="html180"/>
+    <itemref idref="html179"/>
+    <itemref idref="html178"/>
+    <itemref idref="html177"/>
+    <itemref idref="html176"/>
+    <itemref idref="html175"/>
+    <itemref idref="html174"/>
+    <itemref idref="html173"/>
+    <itemref idref="html172"/>
+    <itemref idref="html171"/>
+    <itemref idref="html170"/>
+    <itemref idref="html169"/>
+    <itemref idref="html168"/>
+    <itemref idref="html167"/>
+    <itemref idref="html166"/>
+    <itemref idref="html165"/>
+    <itemref idref="html164"/>
+    <itemref idref="html163"/>
+    <itemref idref="html162"/>
+    <itemref idref="html161"/>
+    <itemref idref="html160"/>
+    <itemref idref="html159"/>
+    <itemref idref="html158"/>
+    <itemref idref="html157"/>
+    <itemref idref="html156"/>
+    <itemref idref="html155"/>
+    <itemref idref="html154"/>
+    <itemref idref="html153"/>
+    <itemref idref="html152"/>
+    <itemref idref="html151"/>
+    <itemref idref="html150"/>
+    <itemref idref="html149"/>
+    <itemref idref="html148"/>
+    <itemref idref="html147"/>
+    <itemref idref="html146"/>
+    <itemref idref="html145"/>
+    <itemref idref="html144"/>
+    <itemref idref="html143"/>
+    <itemref idref="html142"/>
+    <itemref idref="html141"/>
+    <itemref idref="html140"/>
+    <itemref idref="html139"/>
+    <itemref idref="html138"/>
+    <itemref idref="html137"/>
+    <itemref idref="html136"/>
+    <itemref idref="html135"/>
+    <itemref idref="html134"/>
+    <itemref idref="html133"/>
+    <itemref idref="html132"/>
+    <itemref idref="html131"/>
+    <itemref idref="html130"/>
+    <itemref idref="html129"/>
+    <itemref idref="html128"/>
+    <itemref idref="html127"/>
+    <itemref idref="html126"/>
+    <itemref idref="html125"/>
+    <itemref idref="html124"/>
+    <itemref idref="html123"/>
+    <itemref idref="html122"/>
+    <itemref idref="html121"/>
+    <itemref idref="html120"/>
+    <itemref idref="html119"/>
+    <itemref idref="html118"/>
+    <itemref idref="html117"/>
+    <itemref idref="html116"/>
+    <itemref idref="html115"/>
+    <itemref idref="html114"/>
+    <itemref idref="html113"/>
+    <itemref idref="html112"/>
+    <itemref idref="html111"/>
+    <itemref idref="html110"/>
+    <itemref idref="html109"/>
+    <itemref idref="html108"/>
+    <itemref idref="html107"/>
+    <itemref idref="html106"/>
+    <itemref idref="html105"/>
+    <itemref idref="html104"/>
+    <itemref idref="html103"/>
+    <itemref idref="html102"/>
+    <itemref idref="html101"/>
+    <itemref idref="html100"/>
+    <itemref idref="html99"/>
+    <itemref idref="html98"/>
+    <itemref idref="html97"/>
+    <itemref idref="html96"/>
+    <itemref idref="html95"/>
+    <itemref idref="html94"/>
+    <itemref idref="html93"/>
+    <itemref idref="html92"/>
+    <itemref idref="html91"/>
+    <itemref idref="html90"/>
+    <itemref idref="html89"/>
+    <itemref idref="html88"/>
+    <itemref idref="html87"/>
+    <itemref idref="html86"/>
+    <itemref idref="html85"/>
+    <itemref idref="html84"/>
+    <itemref idref="html83"/>
+    <itemref idref="html82"/>
+    <itemref idref="html81"/>
+    <itemref idref="html80"/>
+    <itemref idref="html79"/>
+    <itemref idref="html78"/>
+    <itemref idref="html77"/>
+    <itemref idref="html76"/>
+    <itemref idref="html75"/>
+    <itemref idref="html74"/>
+    <itemref idref="html73"/>
+    <itemref idref="html72"/>
+    <itemref idref="html71"/>
+    <itemref idref="html70"/>
+    <itemref idref="html69"/>
+    <itemref idref="html68"/>
+    <itemref idref="html67"/>
+    <itemref idref="html66"/>
+    <itemref idref="html65"/>
+    <itemref idref="html64"/>
+    <itemref idref="html63"/>
+    <itemref idref="html62"/>
+    <itemref idref="html61"/>
+    <itemref idref="html60"/>
+    <itemref idref="html59"/>
+    <itemref idref="html58"/>
+    <itemref idref="html57"/>
+    <itemref idref="html56"/>
+    <itemref idref="html55"/>
+    <itemref idref="html54"/>
+    <itemref idref="html53"/>
+    <itemref idref="html52"/>
+    <itemref idref="html51"/>
+    <itemref idref="html50"/>
+    <itemref idref="html49"/>
+    <itemref idref="html48"/>
+    <itemref idref="html47"/>
+    <itemref idref="html46"/>
+    <itemref idref="html45"/>
+    <itemref idref="html44"/>
+    <itemref idref="html43"/>
+    <itemref idref="html42"/>
+    <itemref idref="html41"/>
+    <itemref idref="html40"/>
+    <itemref idref="html39"/>
+    <itemref idref="html38"/>
+    <itemref idref="html37"/>
+    <itemref idref="html36"/>
+    <itemref idref="html35"/>
+    <itemref idref="html34"/>
+    <itemref idref="html33"/>
+    <itemref idref="html32"/>
+    <itemref idref="html31"/>
+    <itemref idref="html30"/>
+    <itemref idref="html29"/>
+    <itemref idref="html28"/>
+    <itemref idref="html27"/>
+    <itemref idref="html26"/>
+    <itemref idref="html25"/>
+    <itemref idref="html24"/>
+    <itemref idref="html23"/>
+    <itemref idref="html22"/>
+    <itemref idref="html21"/>
+    <itemref idref="html20"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

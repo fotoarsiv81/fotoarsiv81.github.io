@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="99e9c09e-75e0-4c0f-9bf7-54ad8d3ca18e" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Havva'nın Yedi Kızı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İÇİNDEKİLER</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>TEŞEKKÜR</text>
+      </navLabel>
+      <content src="Text/main.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/main.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>TÜRKÇE BASKIYA ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/main.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>BUZ ADAMIN DORSET’TEKi AKRABASI</text>
+      </navLabel>
+      <content src="Text/main.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>DNA NEDİR, NEYE YARAR?</text>
+      </navLabel>
+      <content src="Text/main.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>KAN GRUPLARINDAN GENLERE</text>
+      </navLabel>
+      <content src="Text/main.xhtml#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>ÖZEL ULAK</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>ÇAR VE BEN</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>PASİFİK MUAMMASI</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>EN BÜYÜK SEYYAHLAR</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>İLK AVRUPALlLAR</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>SON NEANDERTAL</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>AVCILAR VE ÇİFTÇİLER</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml#sigil_toc_id_10"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>HOŞ DEĞİL</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>ÇEDAR ADAM ANLATIYOR</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml#sigil_toc_id_11"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>ADEM DE PARTİYE KATILIYOR</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml#sigil_toc_id_12"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>YEDİ KIZ ÇOCUĞU</text>
+      </navLabel>
+      <content src="Text/main-4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>URSULA</text>
+      </navLabel>
+      <content src="Text/main-4.xhtml#sigil_toc_id_13"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>XENIA</text>
+      </navLabel>
+      <content src="Text/main-4.xhtml#sigil_toc_id_14"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>HELENA</text>
+      </navLabel>
+      <content src="Text/main-4.xhtml#sigil_toc_id_15"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>VELDA</text>
+      </navLabel>
+      <content src="Text/main-4.xhtml#sigil_toc_id_16"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>TARA</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>KATRINE</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml#sigil_toc_id_17"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>JASMINE</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml#sigil_toc_id_18"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>DÜNYA</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml#sigil_toc_id_19"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>BENLİK DUYGUSU</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml#sigil_toc_id_20"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>DİZİN</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml#sigil_toc_id_21"/>
+    </navPoint>
+  </navMap>
+</ncx>

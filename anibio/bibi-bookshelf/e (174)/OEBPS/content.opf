@@ -1,0 +1,57 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Karasu, Bilge">Bilge Karasu</dc:creator>
+<dc:identifier id="uuid">{35E5A833-9B7D-4640-A591-A3FA1A54C8F5}</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2015-06-13T21:00:00+00:00</dc:date>
+    <meta name="cover" content="x7992150.jpg"/>
+  <dc:title>Uzun Sürmüş Bir Günün Akşamı</dc:title>
+<meta name="calibre:title_sort" content="Uzun Sürmüş Bir Günün Akşamı"/>
+<dc:publisher>Metis Yayıncılık</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Öykü</dc:subject>
+<dc:description>&lt;p&gt;Uzun Sürmüş Bir Günün Akşamı'nda baskı, bir dış etken, insan eliyle oluşturulduğu ne denli bilinse de bir tür kıran gibi ortaya çıkar. Bizans'ta "resim-kırıcılık" diye adlandırılan baskı dönemi başlatılırken genç keşiş Andronikos'un kendi kendine sorduğu soru şudur: Birey olarak bu baskı karşısında, benimsemediğim, ama bana zorla benimsetilmek istenen bu yeni inanç karşısında ne yapmalıyım? İnsan içerikleri, toplumdan topluma, dönemden döneme, çağdan çağa değişebiliyor. Bunların taşıdığı değerin saltık değil göreli olduğu, "Ada" ve "Tepe" öykülerinden oluşan "Uzun Sürmüş Bir Günün Akşamı"nda sürekli olarak altı çizilen bir düşünce. "Dutlar" ise Bizans'taki baskı ortamının çağdaş zaman dilimi içinde, iki ayrı zaman noktasında yeniden öykülenişi. "Ada" ve "Tepe"nin yazarı olarak Bilge Karasu'nun, dolaylı - dolaysız yoldan tanıklık ettiği bu yeni baskı dönemi sonunda, inanç konusunda bir karara varması, kendi öykülerini de karara bağlayışının öyküsü...&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Bilge Karasu&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">b84e9ded-b7d5-4400-8b80-06e776e3ef91</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753422260</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/baslik.xhtml" id="baslik.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/main-1.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="Images/main-2.png" id="id2" media-type="image/png"/>
+    <item href="Text/ada.xhtml" id="ada.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/tepe.xhtml" id="tepe.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dutlar.xhtml" id="dutlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id7" media-type="text/css"/>
+    <item href="toc.ncx" id="id8" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/kunye1.xhtml" id="kunye1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye2.xhtml" id="kunye2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bilgekarasu.xhtml" id="bilgekarasu.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/butunyapitlar.xhtml" id="butunyapitlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/icindekiler.xhtml" id="icindekiler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/metis logo.jpg" id="metis_logo.jpg" media-type="image/jpeg"/>
+    <item href="Images/metis_yayinlari3418.jpg" id="metis_yayinlari3418.jpg" media-type="image/jpeg"/>
+    <item href="Images/7992150.jpg" id="x7992150.jpg" media-type="image/jpeg"/>
+    <item href="Styles/main1.css" id="main1.css" media-type="text/css"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye1.xhtml"/>
+    <itemref idref="kunye2.xhtml"/>
+    <itemref idref="bilgekarasu.xhtml"/>
+    <itemref idref="butunyapitlar.xhtml"/>
+    <itemref idref="icindekiler.xhtml"/>
+    <itemref idref="baslik.xhtml"/>
+    <itemref idref="ada.xhtml"/>
+    <itemref idref="tepe.xhtml"/>
+    <itemref idref="dutlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

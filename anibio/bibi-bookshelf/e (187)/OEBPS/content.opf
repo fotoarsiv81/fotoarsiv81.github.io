@@ -1,0 +1,100 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Tarçın Dükkanları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Schulz, Bruno">Bruno Schulz</dc:creator>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">16cb575b-5b2a-4404-b8b1-ad5d83c7460e</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (3.36.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2018-04-01</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">dfb1e044-d006-446a-89a9-663f29965dbf</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="Tarçın Dükkanları" name="calibre:title_sort"/>
+    <meta content="2018-02-28T16:19:07.953000+00:00" name="calibre:timestamp"/>
+    <meta content="0.9.3" name="Sigil version"/>
+    <meta name="calibre:author_link_map" content="{&quot;Bruno Schulz&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/Kapak.xhtml" id="Kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biyografi.xhtml" id="biyografi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak2.xhtml" id="ickapak2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/icindekiler.xhtml" id="icindekiler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0001.xhtml" id="Bolum0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0002.xhtml" id="Bolum0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0003.xhtml" id="Bolum0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0004.xhtml" id="Bolum0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0005.xhtml" id="Bolum0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0006.xhtml" id="Bolum0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0007.xhtml" id="Bolum0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0008.xhtml" id="Bolum0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0009.xhtml" id="Bolum0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0010.xhtml" id="Bolum0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0011.xhtml" id="Bolum0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0012.xhtml" id="Bolum0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0013.xhtml" id="Bolum0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0014.xhtml" id="Bolum0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0015.xhtml" id="Bolum0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0016.xhtml" id="Bolum0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0017.xhtml" id="Bolum0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0018.xhtml" id="Bolum0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0019.xhtml" id="Bolum0019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0020.xhtml" id="Bolum0020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0021.xhtml" id="Bolum0021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0022.xhtml" id="Bolum0022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0023.xhtml" id="Bolum0023.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0024.xhtml" id="Bolum0024.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0025.xhtml" id="Bolum0025.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0026.xhtml" id="Bolum0026.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0027.xhtml" id="Bolum0027.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0028.xhtml" id="Bolum0028.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Bolum0029.xhtml" id="Bolum0029.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Kapak.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="biyografi.xhtml"/>
+    <itemref idref="ickapak2.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="icindekiler.xhtml"/>
+    <itemref idref="Bolum0001.xhtml"/>
+    <itemref idref="Bolum0002.xhtml"/>
+    <itemref idref="Bolum0003.xhtml"/>
+    <itemref idref="Bolum0004.xhtml"/>
+    <itemref idref="Bolum0005.xhtml"/>
+    <itemref idref="Bolum0006.xhtml"/>
+    <itemref idref="Bolum0007.xhtml"/>
+    <itemref idref="Bolum0008.xhtml"/>
+    <itemref idref="Bolum0009.xhtml"/>
+    <itemref idref="Bolum0010.xhtml"/>
+    <itemref idref="Bolum0011.xhtml"/>
+    <itemref idref="Bolum0012.xhtml"/>
+    <itemref idref="Bolum0013.xhtml"/>
+    <itemref idref="Bolum0014.xhtml"/>
+    <itemref idref="Bolum0015.xhtml"/>
+    <itemref idref="Bolum0016.xhtml"/>
+    <itemref idref="Bolum0017.xhtml"/>
+    <itemref idref="Bolum0018.xhtml"/>
+    <itemref idref="Bolum0019.xhtml"/>
+    <itemref idref="Bolum0020.xhtml"/>
+    <itemref idref="Bolum0021.xhtml"/>
+    <itemref idref="Bolum0022.xhtml"/>
+    <itemref idref="Bolum0023.xhtml"/>
+    <itemref idref="Bolum0024.xhtml"/>
+    <itemref idref="Bolum0025.xhtml"/>
+    <itemref idref="Bolum0026.xhtml"/>
+    <itemref idref="Bolum0027.xhtml"/>
+    <itemref idref="Bolum0028.xhtml"/>
+    <itemref idref="Bolum0029.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Kapak.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

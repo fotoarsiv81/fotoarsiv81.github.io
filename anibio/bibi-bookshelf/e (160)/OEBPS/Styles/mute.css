@@ -1,0 +1,94 @@
+/*- PARAGRAF, GÖVDE -*/
+body {font-family:literata;margin-left:.4em;margin-right:0.4em;}
+p {text-align:justify;margin: 0 0 0 0;font-size:.9em;text-indent:1.5em}
+.girintisiz {text-indent:0em;margin-left:0em;}
+.ilkharf {margin: -0.35em 0.2em -0.3em 0.0em;font-size:3.5em;float:left;font-weight:bold}
+.p1 {margin-top:1em;}
+hr {border: solid 0.125em;width:20em;margin-left:0em;margin-top:1em;margin-bottom:0.5em}
+
+/*- BAŞLIK -*/
+h1 {font-size:1.4em;text-indent:0em;text-align:center;font-weight:normal;margin: 6em 0em 2em 0em}
+h2 {text-align:left;font-size:1.6em;text-indent:1em;margin-top:4em;margin-bottom:2em}
+h3 {text-align:left;font-size:1.6em;text-indent:1em;}
+
+a {color:red}
+
+/*- EPİGRAF -*/
+.epigraf {margin-top:3em;margin-left:1em}
+.epigraf p {font-size:.8em;text-indent:0em;margin-top:1em;}
+
+/*- TEŞEKKÜR -*/
+.tesekkur {margin-top:3em;font-size:0.75em;margin-left:1em;margin-right:1em;}
+
+/*- İÇ KAPAK -*/
+.ickapak {margin-top:2em}
+.ickapak p {text-indent:0em;text-align:center}
+.yazar {font-size:1.3em;margin-bottom:5em;}
+.kitap {font-size:2em;margin-bottom:0.5em}
+.cevir {font-size:0.9em;font-weight:bold;}
+.logo {margin-top:6em}
+.ickapak span {font-weight:normal;font-size:1.1em;}
+
+/*- YAZAR -*/
+.aut {margin: 2em 1em 0em 1em;}
+.aut p {font-size:0.8em}
+.aut1 {font-weight:bold;font-size:1em;margin-bottom:1em;}
+
+/*- GİRİŞ -*/
+.giris {margin-top:5em}
+.giris p {font-size:2em;text-indent:0em;text-align:center}
+
+/*- İTHAF -*/
+.ithaf {margin-top:5em}
+.ithaf p {text-indent:0em;text-align:center}
+
+/*- KÜNYE -*/
+.kunye {margin-top:0.5em}
+.kunye p {text-indent:0em;text-align:left;font-size:0.75em;margin-bottom:0.75em;margin-left:1em;}
+
+/*- KRONOLOJİ -*/
+.kronoloji {clear:both; width: 100%;}
+.kronoloji_sol {clear:both;
+float: left; width: 10%; margin-top:1em;}
+.kronoloji_sag {float: right; width: 90%;}
+.kronoloji_sag_sag {float: right; text-align: justify; text-indent:0em; margin-right:0.1em; margin-top:1em; width: 47.5%;}
+.kronoloji_sag_sol {clear:both;
+float: left; text-align: justify; text-indent:0em; margin-right:0.1em;width: 47.5%;margin-top:1em;}
+.kronoloji p {text-indent:0em; font-size:0.68em;}
+
+
+/*- DİPNOT -*/
+.dipnot {text-align:left;text-indent:0em;margin-top:.3em;margin-bottom:.2em;margin-left:2.5em;font-size:.8em;}
+
+.dipnot1 {text-align:left;text-indent:0em;margin-top:1em;margin-bottom:1em;page-break-before:always;margin-left:.5em;}
+
+a.dipnot2 {font-family: sans-serif;text-decoration: none;color: #DC143C;font-size:.75em;line-height: .9em;vertical-align: super;padding-left: 0.05em;}
+
+/*- FONT -*/
+@font-face {
+    font-family: 'Literata';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/literata-regular.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: bold;
+    font-style: normal;
+    src: url('../Fonts/literata-bold.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: bold;
+    font-style: italic;
+    src: url('../Fonts/literata-bold-italic.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: normal;
+    font-style: italic;
+    src: url('../Fonts/literata-italic.otf');
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Tanör, Bülent">Bülent Tanör</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:72b26681-4541-4a20-bf3c-1ee3ce86f5e2</dc:identifier>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Yapı Kredi Yayınları</dc:publisher>
+    <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">2016-04-02T21:00:00+00:00</dc:date>
+    <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Özünde liberal ve demokratik değişimlerin güvenceye bağlanmasını içeren bu köklü dönüşümlerde, belirleyici rolü feodal-aristokratik kurumlara karşı iktidar mücadelesi veren burjuvaziler oynadı. Elinizdeki kitap, "Çokuluslu Osmanlı İmparatorluğu"ndan yola çıkarak "Türkiye'de Ulusal Devletin Kuruluşu" ve "Çok Partili Rejim" başlıkları altında anayasal değişme sorunlarına ışık tutmaya çalışıyor.</dc:description>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="cover"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Osmanlı-Türk Anayasal Gelişmeleri" name="calibre:title_sort"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2016-04-01T08:34:41.241000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="10.0" name="calibre:rating"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.8.7" name="Sigil version"/>
+  <dc:title>Osmanlı-Türk Anayasal Gelişmeleri</dc:title>
+<dc:subject>Hukuk</dc:subject>
+<dc:subject>Anayasa</dc:subject>
+<dc:contributor opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:author_link_map" content="{&quot;Bülent Tanör&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">27639005-855f-491c-b9bd-5f9e65eda74c</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:72b26681-4541-4a20-bf3c-1ee3ce86f5e2</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4-1.xhtml" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="Text/4-10.xhtml" id="x4-10" media-type="application/xhtml+xml"/>
+    <item href="Text/4-11.xhtml" id="x4-11" media-type="application/xhtml+xml"/>
+    <item href="Text/4-12.xhtml" id="x4-12" media-type="application/xhtml+xml"/>
+    <item href="Text/4-13.xhtml" id="x4-13" media-type="application/xhtml+xml"/>
+    <item href="Text/4-14.xhtml" id="x4-14" media-type="application/xhtml+xml"/>
+    <item href="Text/4-15.xhtml" id="x4-15" media-type="application/xhtml+xml"/>
+    <item href="Text/4-16.xhtml" id="x4-16" media-type="application/xhtml+xml"/>
+    <item href="Text/4-17.xhtml" id="x4-17" media-type="application/xhtml+xml"/>
+    <item href="Text/4-2.xhtml" id="x4-2" media-type="application/xhtml+xml"/>
+    <item href="Text/4-3.xhtml" id="x4-3" media-type="application/xhtml+xml"/>
+    <item href="Text/4-4.xhtml" id="x4-4" media-type="application/xhtml+xml"/>
+    <item href="Text/4-5.xhtml" id="x4-5" media-type="application/xhtml+xml"/>
+    <item href="Text/4-6.xhtml" id="x4-6" media-type="application/xhtml+xml"/>
+    <item href="Text/4-7.xhtml" id="x4-7" media-type="application/xhtml+xml"/>
+    <item href="Text/4-8.xhtml" id="x4-8" media-type="application/xhtml+xml"/>
+    <item href="Text/4-9.xhtml" id="x4-9" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.xhtml" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.xhtml" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/yky_2_fmt.jpeg" id="yky_2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+    <itemref idref="x4-3"/>
+    <itemref idref="x4-4"/>
+    <itemref idref="x4-5"/>
+    <itemref idref="x4-6"/>
+    <itemref idref="x4-7"/>
+    <itemref idref="x4-8"/>
+    <itemref idref="x4-9"/>
+    <itemref idref="x4-10"/>
+    <itemref idref="x4-11"/>
+    <itemref idref="x4-12"/>
+    <itemref idref="x4-13"/>
+    <itemref idref="x4-14"/>
+    <itemref idref="x4-15"/>
+    <itemref idref="x4-16"/>
+    <itemref idref="x4-17"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid_id" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/">
+    <dc:creator opf:role="aut" opf:file-as="Malamudr, Bernard">Bernard Malamudr</dc:creator>
+    <dc:publisher>Kafka Kitap</dc:publisher>
+    <dc:description>“Malamud’un olağanüstü yeteneklerinden biri daima, gerçek dünyayı bir seviye yukarı çıkarıp metafizik fantezi âlemine dahil edebilmesi olmuştur. Diğeri ise yaşamı, yaşamları ciddiye almak.”
+
+– Malcolm Bradbury
+
+1905 devriminden sonra ve Rusya’nın son çarının devrilmesinden önce, 1911 yılında Kiev, “vahşi hurafeler ve gizemci görüşlerle dolu bir Ortaçağ şehri”dir. Kentin her yerinde Yahudi düşmanlığı kol gezmektedir. On iki yaşında bir Rus çocuğu bıçaklanarak öldürülmüş ve vücudundaki bütün kan akıtılmış halde bulununca, Yahudiler ayin niteliğinde bir çocuk cinayeti işlemekle suçlanırlar.
+
+Elinden her iş gelen tamirci Yakov Bok cinayetten tutuklanır ve mahkemeye çıkarılmadan hapse atılır. Yapılan suçlamalar çeşitlenip çoğalır ve halkın konuya olan ilgisi tamircinin ıstırabını gitgide yoğunlaştırırken, beraat ihtimali, hüküm giyme ihtimali kadar dehşet vermeye başlar.
+
+1966’da yayımlanan Tamirci, Bernard Malamud’a hem bir Pulitzer Ödülü, hem de ikinci Ulusal Kitap Ödülü’nü kazandırmıştır.
+
+“Tamirci, Saul Bellow ve Philip Roth’un Büyük Yahudi-Amerikan Romanları arasında yer almayı hak ediyor.”	- Independent</dc:description>
+    <dc:title>Tamirci</dc:title>
+    <dc:subject>Edebiyat</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">6ef4a448-ed60-4bf4-9988-e50f283a6b73</dc:identifier>
+    <dc:date opf:event="modification">2017-03-31</dc:date>
+    <meta name="calibre:title_sort" content="Tamirci" />
+    <meta name="Sigil version" content="0.9.7" />
+    <dc:identifier opf:scheme="uuid" id="uuid_id">6ef4a448-ed60-4bf4-9988-e50f283a6b73</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="giris.xhtml" href="Text/giris.xhtml" media-type="application/xhtml+xml"/>
+    <item id="epigraf.xhtml" href="Text/epigraf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum01.xhtml" href="Text/bolum01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum02.xhtml" href="Text/bolum02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum03.xhtml" href="Text/bolum03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum04.xhtml" href="Text/bolum04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum05.xhtml" href="Text/bolum05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum06.xhtml" href="Text/bolum06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum07.xhtml" href="Text/bolum07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bolum08.xhtml" href="Text/bolum08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dipnot.xhtml" href="Text/dipnot.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tamirci.xhtml" href="Text/tamirci.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="bolum09.xhtml" href="Text/bolum09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="mute.css" href="Styles/mute.css" media-type="text/css"/>
+    <item id="literata-bold.otf" href="Fonts/literata-bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-bold-italic.otf" href="Fonts/literata-bold-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-italic.otf" href="Fonts/literata-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-regular.otf" href="Fonts/literata-regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="kafka.jpg" href="Images/kafka.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="tamirci.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="epigraf.xhtml"/>
+    <itemref idref="bolum01.xhtml"/>
+    <itemref idref="bolum02.xhtml"/>
+    <itemref idref="bolum03.xhtml"/>
+    <itemref idref="bolum04.xhtml"/>
+    <itemref idref="bolum05.xhtml"/>
+    <itemref idref="bolum06.xhtml"/>
+    <itemref idref="bolum07.xhtml"/>
+    <itemref idref="bolum08.xhtml"/>
+    <itemref idref="bolum09.xhtml"/>
+    <itemref idref="dipnot.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

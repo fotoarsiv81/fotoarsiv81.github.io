@@ -1,0 +1,70 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+  }
+@font-face {
+  src: url(../Fonts/Georgia.ttf);
+  panose-1: 2 4 5 2 5 4 5 2 3 3;
+  font-family: "Georgia";
+  }
+@font-face {
+  src: url(../Fonts/Georgia-Bold.ttf);
+  panose-1: 2 4 8 2 5 4 5 2 2 3;
+  font-family: "Georgia";
+  font-weight: bold;
+  }
+@font-face {
+  src: url(../Fonts/Georgia-Italic.ttf);
+  panose-1: 2 4 5 2 5 4 5 9 3 3;
+  font-family: "Georgia";
+  font-style: italic;
+  }
+@font-face {
+  src: url(../Fonts/Georgia-Bold-Italic.ttf);
+  panose-1: 2 4 8 2 5 4 5 9 2 3;
+  font-family: "Georgia";
+  font-weight: bold;
+  font-style: italic;
+  }
+@font-face {
+  font-family: "Arial";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/Arial.ttf);
+  }
+@font-face {
+  font-family: "Book Antiqua";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/Book-Antiqua.ttf);
+  }
+@font-face {
+  font-family: "Times New Roman";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/Times-New-Roman.ttf);
+  }
+@font-face {
+  font-family: "Book Antiqua";
+  font-weight: normal;
+  font-style: italic;
+  src: url(../Fonts/Book-Antiqua-Italic.ttf);
+  }
+@font-face {
+  font-family: "Cooper Black";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/Cooper-Black.ttf);
+  }
+@font-face {
+  font-family: "Nyala";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/Nyala.ttf);
+  }
+@font-face {
+  font-family: "Century Gothic";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/Century-Gothic.ttf);
+  }

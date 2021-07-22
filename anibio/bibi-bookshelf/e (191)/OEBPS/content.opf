@@ -1,0 +1,71 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Uzuner, Buket">Buket Uzuner</dc:creator>
+<dc:identifier id="uuid">{1F179D81-17E3-4EAC-8A77-018509072F4A}</dc:identifier>
+    <dc:date>1999-04-18T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+  <dc:title>İki Yeşil Susamuru</dc:title>
+<meta name="calibre:title_sort" content="İki Yeşil Susamuru"/>
+<dc:publisher>Remzi Kitabevi</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;p&gt;Buket Uzuner'in içten, duyarlı ve mizah dolu üslubuyla yazdığı çağdaş bir roman. "İki Yeşil Susamuru, Anneleri, Babaları, Sevgilileri ve Diğerleri" çevre politikasına, aşka, enerji sorununa, kadın-erkek ilişkisine alternatif çözümler arayan aydın ve farklı bir çiftin öyküsü, bir "modern zamanlar" romanı. "İki Yeşil Susamuru", iyi romandan kafa cimnastiği beklentisi içinde olan kültür seçkinlerine de bir şeyler sunuyor; hem biçim hem de öz açısından." -Gürsel Aytaç- "Buket Uzuner iki katmanlı romanında çağdaş bir kadının portresi çevresinde aile, sevgi ve intiharı sorguluyor." -Milliyet Sanat- (Arka Kapak)&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Buket Uzuner&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">b1939020-e8ac-4c06-9c6f-785e50dc37c7</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789751406019</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/main-1.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="Images/main-2.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="Styles/main.css" id="id28" media-type="text/css"/>
+    <item href="toc.ncx" id="id29" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/samur.jpg" id="samur.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0019.xhtml" id="Section0019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0020.xhtml" id="Section0020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0021.xhtml" id="Section0021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id29">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0021.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="Section0019.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0020.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

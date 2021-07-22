@@ -1,0 +1,78 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Sykes, Bryan">Bryan Sykes</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">99e9c09e-75e0-4c0f-9bf7-54ad8d3ca18e</dc:identifier>
+    <dc:publisher>Çitlembik Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p class="description"&gt;En yaşlı akrabanız kaç yaşında?  &lt;br&gt;Profesör Bryan Sykes'ın yaptığı araştırmalara göre en yaşlısı 45.000 yaşında olabilir! &lt;/p&gt;
+&lt;p class="description"&gt;Oxford Üniversitesi genetik profesörlerinden Sykes, 1994'te İtalya Alplerinde keşfedilen 5000 yıllık Buz Adam Ötzi'yi incelerken, sadece anneden çocuğa geçen bir genin nesiller boyunca hiç değişmeden korunduğunu saptadı. Kısa süre sonra Buz Adam'ın bir akrabasının İngiltere'de yaşadığını ortaya çıkardı. Yaptığı araştırmaların sonucunda yerli Avrupalıların hepsinin toplam yedi kadının soyundan geldiğini açıkladı: Katrine, Helena, Ursula, Velda, Jasmine, Tara ve Xenia. En yaşlısı 45 bin, en genci ise 10 bin yaşında! &lt;/p&gt;
+&lt;p class="description"&gt;Havva'nın Yedi Kızı'nda Sykes, Buz Adam'la başlayan bu bilimsel macerasını okuyuculara aktarıyor. Rus İmparatorluğu'nun son kraliyet ailesi Romanovlar üzerinde, Pasifik'te, Çedar Adam'la ilgili yaptığı araştırmaları ve yedi kıza ulaşana kadar takip ettiği yolu anlatıyor Profesör Sykes.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2007-07-16T21:00:00+00:00</dc:date>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="2015-05-28T15:51:40.472000+00:00" name="calibre:timestamp"/>
+    <meta content="Havva'nın Yedi Kızı" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Havva'nın Yedi Kızı</dc:title>
+<dc:subject>Bilim</dc:subject>
+<dc:subject>araştıma</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Bryan Sykes&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">0303633c-d52b-47ef-829f-b33e50f3be33</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789944424134</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">24807260</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/main-1.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Images/main-13.png" id="id13" media-type="image/png"/>
+    <item href="Images/main-14.png" id="id14" media-type="image/png"/>
+    <item href="Text/main-2.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/hava1.JPG" id="hava1.JPG" media-type="image/jpeg"/>
+    <item href="Images/hava2.JPG" id="hava2.JPG" media-type="image/jpeg"/>
+    <item href="Images/hava4.JPG" id="hava4.JPG" media-type="image/jpeg"/>
+    <item href="Images/havva5.JPG" id="havva5.JPG" media-type="image/jpeg"/>
+    <item href="Images/hava6.JPG" id="hava6.JPG" media-type="image/jpeg"/>
+    <item href="Images/hava7.JPG" id="hava7.JPG" media-type="image/jpeg"/>
+    <item href="Images/hava8.JPG" id="hava8.JPG" media-type="image/jpeg"/>
+    <item href="Images/hava9.JPG" id="hava9.JPG" media-type="image/jpeg"/>
+    <item href="Images/hava10.JPG" id="hava10.JPG" media-type="image/jpeg"/>
+    <item href="Images/hava11.JPG" id="hava11.JPG" media-type="image/jpeg"/>
+    <item href="Images/hava12.JPG" id="hava12.JPG" media-type="image/jpeg"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/arka kapak.JPG" id="arka_kapak.JPG" media-type="image/jpeg"/>
+    <item href="Images/yayin.JPG" id="yayin.JPG" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

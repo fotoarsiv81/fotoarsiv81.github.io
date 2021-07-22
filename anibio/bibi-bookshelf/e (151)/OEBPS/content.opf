@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b456f01c-6185-468e-9bcd-b20d5e729626</dc:identifier>
+    <dc:title>Azincourt</dc:title>
+    <dc:creator opf:file-as="Cornwell, Bernard" opf:role="aut">Bernard Cornwell</dc:creator>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="meritokrasi Notu">3</dc:identifier>
+    <meta content="Azincourt" name="calibre:title_sort" />
+    <meta content="2013-03-28T09:25:55+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="cover" />
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date opf:event="modification">2014-01-12</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg" />
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml" />
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml" />
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml" />
+    <item href="Text/main-4.xhtml" id="id4" media-type="application/xhtml+xml" />
+    <item href="Text/main-5.xhtml" id="id5" media-type="application/xhtml+xml" />
+    <item href="Text/main-6.xhtml" id="id6" media-type="application/xhtml+xml" />
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="id0" />
+    <itemref idref="id1" />
+    <itemref idref="id2" />
+    <itemref idref="id3" />
+    <itemref idref="id4" />
+    <itemref idref="id5" />
+    <itemref idref="id6" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

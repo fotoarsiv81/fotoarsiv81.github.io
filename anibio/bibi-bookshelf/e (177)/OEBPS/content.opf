@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package unique-identifier="uuid" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="uuid">{0B20685C-C5A2-4ABC-818F-75C327FA206D}</dc:identifier>
+    <meta content="0.9.1" name="Sigil version"/>
+    <meta name="cover" content="pasternakkapakcopy.jpg"/>
+    <dc:title>Doktor Jivago</dc:title>
+    <dc:creator opf:file-as="Boris Pasternak" opf:role="aut">Boris Pasternak</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <dc:description>“Ne kadar büyük bir aşktı yaşadıkları!
+
+Özgür, eşi benzeri olmayan bir aşktı. Başkalarının ancak şarkılarda söylediklerini onlar yüreklerinde hissetmişlerdi. Birbirlerine olan sevgilerinin nedeni, uyduruk tanımlarda betimledikleri gibi, ‘yakıcı tutku’ ya da ‘karşı koyulamayan duygular’ değildi. Evrendeki her şey; ayaklarının altındaki toprak, başlarının üstündeki gökyüzü, bulutlar, ağaçlar birbirlerini sevmelerini istedikleri için bağlanmışlardı birbirlerine. Birbirlerine olan aşkları kendilerinden çok çevrelerini, sokakta karşılaştıkları tanımadıkları insanları, uzun yürüyüşlerinde gördüklerini, yaşayıp buluştukları odaları mutlu etmişti belki de.” Ülkemizde romancı olarak tanınan ama Rus edebiyatının büyük şairi Boris Pasternak’ın tek romanı: Doktor Jivago. 1917 ihtilalinin gölgesi altında üç hayat. Jivago, Lara ve Tonya.
+
+1956’da SSCB tarafından yayımlanması uygun görülmeyen, 1957’de gizlice kaçırıldığı İtalya’da ilk kez yayımlanan ve 1958 Nobel ödülünü Pasternak’a kazandıran kitap, 50 yılı aşkın bir süre sonra, ilk kez eksiksiz bir biçimde ve doğrudan Rusçadan çevrildi. Jivago’nun yazdığı şiirler ekiyle birlikte
+.
+“20. yüzyılın ortasında, 19. yüzyılın büyük Rus romanı, Kral Hamlet’in hayaleti gibi, geri dönüp bizi ziyaret ediyor. Boris Pasternak’ın Doktor Jivago’sunun bizde uyandırdığı duygu işte bu.” Italo Calvino</dc:description>
+    <dc:relation>Edebiyat, Roman, Rusça</dc:relation>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2019-05-06</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/altincibolum.xhtml" id="altincibolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/17.xhtml" id="x17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id33" media-type="text/css"/>
+    <item href="toc.ncx" id="id34" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/digereserleri.xhtml" id="digereserleri.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/karakterler.xhtml" id="karakterler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/01.xhtml" id="x01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ikincibolum.xhtml" id="ikincibolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/02.xhtml" id="x02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ucuncubolum.xhtml" id="ucuncubolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/birincibolum.xhtml" id="birincibolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/03.xhtml" id="x03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dorduncubolum.xhtml" id="dorduncubolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/04.xhtml" id="x04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/besincibolum.xhtml" id="besincibolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/05.xhtml" id="x05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/06.xhtml" id="x06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yedincibolum.xhtml" id="yedincibolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/07.xhtml" id="x07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sekizincibolum.xhtml" id="sekizincibolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ikincikitap.xhtml" id="ikincikitap.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/pasternakkapakcopy.jpg" id="pasternakkapakcopy.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="logo.jpg" media-type="image/jpeg"/>
+    <item href="Text/08.xhtml" id="x08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dokuzuncubolum.xhtml" id="dokuzuncubolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/09.xhtml" id="x09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onuncubolum.xhtml" id="onuncubolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/10.xhtml" id="x10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onbirincibolum.xhtml" id="onbirincibolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/11.xhtml" id="x11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Onikincibolum.xhtml" id="Onikincibolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/12.xhtml" id="x12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onucuncubolum.xhtml" id="onucuncubolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/13.xhtml" id="x13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ondorduncubolum.xhtml" id="ondorduncubolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/14.xhtml" id="x14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onbesincibolum.xhtml" id="onbesincibolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/15.xhtml" id="x15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onaltincibolum.xhtml" id="onaltincibolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/16.xhtml" id="x16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onyedincibolum.xhtml" id="onyedincibolum.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dn.xhtml" id="dn.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id34">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="digereserleri.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="karakterler.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="birincibolum.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="ikincibolum.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="ucuncubolum.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="dorduncubolum.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="besincibolum.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="altincibolum.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="yedincibolum.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="ikincikitap.xhtml"/>
+    <itemref idref="sekizincibolum.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="dokuzuncubolum.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="onuncubolum.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="onbirincibolum.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="Onikincibolum.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="onucuncubolum.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="ondorduncubolum.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="onbesincibolum.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="onaltincibolum.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="onyedincibolum.xhtml"/>
+    <itemref idref="x17.xhtml"/>
+    <itemref idref="dn.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="b456f01c-6185-468e-9bcd-b20d5e729626" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.33)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Azincourt</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{80BCE208-50DE-493D-8355-6284184E36BE}" playOrder="1">
+      <navLabel>
+        <text>Şimdi anlıyordu. Ok torbasını yakaladığı gibi koşm</text>
+      </navLabel>
+      <content src="Text/main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{8623FE12-F902-4B1D-A9BC-83361D41BEE4}" playOrder="2">
+      <navLabel>
+        <text>Bin beş yüz gemi, on iki bin asker ile en az iki m</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{B171FBA2-C5A0-4890-BF99-AFFC04653316}" playOrder="3">
+      <navLabel>
+        <text>‘Çok fazla ölü var, Majesteleri,’ dedi Hook düşünm</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{34E3F0D7-3232-4DE2-A4B2-FF0153016214}" playOrder="4">
+      <navLabel>
+        <text>‘Ben de ondan endişeleniyorum,’ dedi Peder Christo</text>
+      </navLabel>
+      <content src="Text/main-4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{7EB872E9-3115-4DD7-B485-B5E08FBFDB6F}" playOrder="5">
+      <navLabel>
+        <text>‘Masumdu,’ dedi Hook inatçı bir tavırla, ‘hayatım</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{E0F09BC8-CD7B-4F08-BB5E-4B5AB8709995}" playOrder="6">
+      <navLabel>
+        <text>‘Öleceksin,’ dedi Melisande. ‘Kan kaybederek ölece</text>
+      </navLabel>
+      <content src="Text/main-6.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

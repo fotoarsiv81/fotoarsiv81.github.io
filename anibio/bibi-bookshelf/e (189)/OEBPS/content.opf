@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Uzuner, Buket">Buket Uzuner</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:0c0390e2-d41f-42f0-acd5-f3d71fc6d88b</dc:identifier>
+    <dc:date>1998-12-04T22:00:00+00:00</dc:date>
+    <dc:publisher>Everest Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;-Anne tarafından Afife Jale'ye akraba oluyorum. Babamın kökleri de Piri Reis'in amcası Kemal Reis'e uzanır, dedim gururla.
+-Camille ve Kolomb gibi mi yani? dedi şaşırarak.
+-Hiç kimse bir başkasına benzemez! diye hırçınlaştım.
+-Afife Piri! dedi hayranlıkla.
+-Afife Piri! diye yineledim.
+-Denizlerin serüvenci oğluyla, sahne ışıklarının cesur, asi kızının torunusun, müthiş... olağanüstü... Anlamalıydım... Çoktan anlamalıydım...&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.gif"/>
+    <meta name="calibre:title_sort" content="Balık İzlerinin Sesi"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Buket Uzuner&quot;: &quot;&quot;}"/>
+  <dc:title>Balık İzlerinin Sesi</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">3f3d5a13-aeb2-4138-bde9-0d3aadf0d0c3</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752890572</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notlar.xhtml" id="notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/kapak.gif" id="kapak.gif" media-type="image/gif"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

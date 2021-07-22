@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="543014c7-212f-45c2-bbf4-fa15e8c603e1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Hemen Her Şeyin Kısa Tarihi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>TEŞEKKÜR</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>GİRİŞ</text>
+      </navLabel>
+      <content src="Text/main.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>KOZMOSTA KAYBOLMAK</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>BİR EVREN NASIL İNŞA EDİLİR</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>GÜNEŞ SİSTEMİNE HOŞ GELDİNİZ</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>RAHİP EVANS'IN EVRENİ</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>YERKÜRE'NİN BÜYÜKLÜĞÜ</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>GÖKCİSİMLERİNİN ÖLÇÜMÜ</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>TAŞ KIRICILAR</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>ELLERİ KANLI BİLİM</text>
+        </navLabel>
+        <content src="Text/main-2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>TEMEL MADDELER</text>
+        </navLabel>
+        <content src="Text/main-2.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>YENİ BİR ÇAĞ DOĞUYOR</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml"/>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>EINSTEIN’IN EVRENİ</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>YÜCE ATOM</text>
+        </navLabel>
+        <content src="Text/main-3.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>KURŞUNU ÇIKARMAK</text>
+        </navLabel>
+        <content src="Text/main-4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>MUSTER MARK’IN KUVARKLARI</text>
+        </navLabel>
+        <content src="Text/main-4.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>YERKÜRE KIPIRDIYOR</text>
+        </navLabel>
+        <content src="Text/main-4.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>TEHLİKELİ GEZEGEN</text>
+      </navLabel>
+      <content src="Text/Section0013.xhtml"/>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>BUM!</text>
+        </navLabel>
+        <content src="Text/main-5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>ALTIMIZDAKİ YANGIN</text>
+        </navLabel>
+        <content src="Text/main-5.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>TEHLİKELİ GÜZELLİK</text>
+        </navLabel>
+        <content src="Text/main-6.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>YAŞAMIN KENDİSİ</text>
+      </navLabel>
+      <content src="Text/Section0018.xhtml"/>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>EŞSİZ GEZEGEN</text>
+        </navLabel>
+        <content src="Text/Section0017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>TROPOSFER VE ÖTESİ</text>
+        </navLabel>
+        <content src="Text/Section0017.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>DERYA DENiZ</text>
+        </navLabel>
+        <content src="Text/main-7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>YAŞAMIN DOĞUŞU</text>
+        </navLabel>
+        <content src="Text/main-7.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>KÜÇÜKLERİN DÜNYASI</text>
+        </navLabel>
+        <content src="Text/main-7.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>HAYAT DEVAM EDİYOR</text>
+        </navLabel>
+        <content src="Text/main-8.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>HER ŞEYE ELVEDA</text>
+        </navLabel>
+        <content src="Text/main-8.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>VAR OLMANIN ZENGİNLİĞİ</text>
+        </navLabel>
+        <content src="Text/main-9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>HÜCRELER</text>
+        </navLabel>
+        <content src="Text/main-9.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>DARWIN’İN BENZERSİZ FİKRİ</text>
+        </navLabel>
+        <content src="Text/main-9.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>YAŞAMIN ÖZÜ</text>
+        </navLabel>
+        <content src="Text/main-10.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>BİZE GİDEN YOL</text>
+      </navLabel>
+      <content src="Text/Section0015.xhtml"/>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>BUZ DEVRİ</text>
+        </navLabel>
+        <content src="Text/main-11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>ESRARENGİZ İKİAYAKLI</text>
+        </navLabel>
+        <content src="Text/main-11.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>YERİNDE DURAMAYAN MAYMUN</text>
+        </navLabel>
+        <content src="Text/main-12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>HOŞÇA KALIN</text>
+        </navLabel>
+        <content src="Text/main-12.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>NOTLAR</text>
+      </navLabel>
+      <content src="Text/main-12.xhtml#sigil_toc_id_18"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>DİZİN</text>
+      </navLabel>
+      <content src="Text/main-16.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

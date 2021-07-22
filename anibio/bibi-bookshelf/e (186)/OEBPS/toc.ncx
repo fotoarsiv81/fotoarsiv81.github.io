@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Giriş</text>
+			</navLabel>
+			<content src="Text/4-1.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>1. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-2.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>2. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-3.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>3. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-5.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>4. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-9.html#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>5. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-10.html#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>6. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-11.html#toc_marker-7"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>7. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-12.html#toc_marker-8"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>8. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-13.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>9. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-14.html#toc_marker-10"/>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>10. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-15.html#toc_marker-11"/>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>11. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-16.html#toc_marker-12"/>
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>12. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-17.html#toc_marker-13"/>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>13. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-18.html#toc_marker-14"/>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>14. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-19.html#toc_marker-15"/>
+		</navPoint>
+		<navPoint id="navpoint16" playOrder="16">
+			<navLabel>
+				<text>15. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-20.html#toc_marker-16"/>
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>16. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-21.html#toc_marker-17"/>
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>17. BÖLÜM</text>
+			</navLabel>
+			<content src="Text/4-22.html#toc_marker-18"/>
+		</navPoint>
+	</navMap>
+</ncx>

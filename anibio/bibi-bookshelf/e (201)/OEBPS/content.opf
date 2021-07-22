@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Demokratik Sol</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Ecevit, Bülent">Bülent Ecevit</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">6242848b-0bfb-43ab-826c-b4dae2018f7a</dc:identifier>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;1970'lerin ikinci yarısında Türkiye'de devrimci ve sol hareketlerin güç ve etkisinin artmasıyla birlikte siyasi çatışmalar da giderek şiddetlenmekteydi. Bu dönemde sağın ürettiği en temel politikalardan biri, bu eylemci hareketlerle CHP'yi ilişkilendirerek devlet ve seçmen nezdinde parti üzerinde bir şaibe bulutu yaratmaya çalışmaktı. Denebilir ki Bülent Ecevit, bütün o yılları bu suçlamalara karşı partisini savunmakla geçirdi.&lt;/div&gt;&lt;div&gt;Soldan da sürekli eleştirilen CHP'nin ülkede hüküm süren kaotik ortam içinde geliştirdiği en önemli siyasetlerden biri, hem siyasi rakip ve karşıtlarına, hem seçmenlere, hem de kendi üyelerine siyasi yelpazedeki yerini yeterince açık biçimde ifade etmeye çalışmaktı. Devrimci sol hareket ve kavramlarla arasına herkesin rahatça fark edebileceği kalınlıkta bir çizgi çekmek isteyen Ecevit'in en güçlü araçlarından biri, Marksist köklere sahip olmadığını vurguladığı "demokratik sol" kavramıydı. Elinizdeki kitap, uzun yıllardan ve türlü siyasi maceralardan sonra kuracağı yeni partinin adını oluşturan bu kavramın içinin bizzat Ecevit tarafından nasıl doldurulduğunu gösteren konuşma ve söyleşilerden oluşmaktadır.&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2007-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2a6e30e2-be21-47de-906e-46280f3a08a6</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">2789785875215</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/sol_split_000.html" id="html21" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_001.html" id="html20" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_002.html" id="html19" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_003.html" id="html18" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_004.html" id="html17" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_005.html" id="html16" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_006.html" id="html15" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_007.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_008.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_009.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_010.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_011.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_012.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_013.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_014.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_015.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_016.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_017.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_018.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_019.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/sol_split_020.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/iskultur.jpg" id="added" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html21"/>
+    <itemref idref="html20"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,117 @@
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.calibre1 {
+    display: block
+    }
+.calibre10 {
+    height: 120px;
+    vertical-align: baseline;
+    width: 100px
+    }
+.calibre11 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 0
+    }
+.calibre12 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 19pt;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: -19pt
+    }
+.calibre2 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 0
+    }
+.calibre3 {
+    font-size: 1.5em;
+    line-height: 1.2
+    }
+.calibre4 {
+    height: 124px;
+    vertical-align: baseline;
+    width: 96px
+    }
+.calibre5 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left;
+    text-indent: 0
+    }
+.calibre6 {
+    color: blue
+    }
+.calibre7 {
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.calibre8 {
+    font-size: 1.375em;
+    line-height: 1.2
+    }
+.calibre9 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left;
+    text-indent: 1em
+    }
+.mbppagebreak {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.underline {
+    text-decoration: underline
+    }
+p {
+display: block;
+font-family: "Dia", serif;
+font-size: 1em;
+padding-left: 0;
+padding-right: 0;
+margin: 0 0pt;
+text-indent:30px;
+}
+h1 {
+   text-align:justify;
+   text-indent:30px;
+  }
+h2 {
+   text-align:justify;
+  text-indent:30px;
+  }
+h3 {
+   text-align:justify;
+  text-indent:30px;
+  }

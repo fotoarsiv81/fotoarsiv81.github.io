@@ -1,0 +1,61 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.kunye {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 2em;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 0em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left
+    }
+.normal1 {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.4em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.4em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.normal2 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 0.4em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.4em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.normal3 {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.8em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.8em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: default
+    }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer
+    }

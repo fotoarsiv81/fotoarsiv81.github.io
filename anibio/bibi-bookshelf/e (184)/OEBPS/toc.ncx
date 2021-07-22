@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{BD69A2D0-7428-4794-9235-301E757F0688}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kan Yemini</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>YAZAR</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>KÜNYE</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İÇ KAPAK</text>
+      </navLabel>
+      <content src="Text/ickapak.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İTHAF</text>
+      </navLabel>
+      <content src="Text/ithaf.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>HARİTALAR</text>
+      </navLabel>
+      <content src="Text/haritalar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>BÖLÜM1</text>
+      </navLabel>
+      <content src="Text/bolum01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>BÖLÜM 2</text>
+      </navLabel>
+      <content src="Text/bolum02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>BÖLÜM 3</text>
+      </navLabel>
+      <content src="Text/bolum03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>BÖLÜM 4</text>
+      </navLabel>
+      <content src="Text/bolum04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>BÖLÜM 5</text>
+      </navLabel>
+      <content src="Text/bolum05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>BÖLÜM 6</text>
+      </navLabel>
+      <content src="Text/bolum06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>BÖLÜM 7</text>
+      </navLabel>
+      <content src="Text/bolum07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>BÖLÜM 8</text>
+      </navLabel>
+      <content src="Text/bolum08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>BÖLÜM 9</text>
+      </navLabel>
+      <content src="Text/bolum09.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>BÖLÜM 10</text>
+      </navLabel>
+      <content src="Text/bolum10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>BÖLÜM 11</text>
+      </navLabel>
+      <content src="Text/bolum11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>BÖLÜM 12</text>
+      </navLabel>
+      <content src="Text/bolum12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>BÖLÜM 13</text>
+      </navLabel>
+      <content src="Text/bolum13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>BÖLÜM 14</text>
+      </navLabel>
+      <content src="Text/bolum14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>BÖLÜM 15</text>
+      </navLabel>
+      <content src="Text/bolum15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>BÖLÜM 16</text>
+      </navLabel>
+      <content src="Text/bolum16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>BÖLÜM 17</text>
+      </navLabel>
+      <content src="Text/bolum17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>BÖLÜM 18</text>
+      </navLabel>
+      <content src="Text/bolum18.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>BÖLÜM 19</text>
+      </navLabel>
+      <content src="Text/bolum19.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>BÖLÜM 20</text>
+      </navLabel>
+      <content src="Text/bolum20.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>BÖLÜM 21</text>
+      </navLabel>
+      <content src="Text/bolum21.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>BÖLÜM 22</text>
+      </navLabel>
+      <content src="Text/bolum22.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>BÖLÜM 23</text>
+      </navLabel>
+      <content src="Text/bolum23.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>BÖLÜM 24</text>
+      </navLabel>
+      <content src="Text/bolum24.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>BÖLÜM 25</text>
+      </navLabel>
+      <content src="Text/bolum25.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>BÖLÜM 26</text>
+      </navLabel>
+      <content src="Text/bolum26.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>BÖLÜM 27</text>
+      </navLabel>
+      <content src="Text/bolum27.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>BÖLÜM 28</text>
+      </navLabel>
+      <content src="Text/bolum28.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>BÖLÜM 29</text>
+      </navLabel>
+      <content src="Text/bolum29.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>BÖLÜM 30</text>
+      </navLabel>
+      <content src="Text/bolum30.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>BÖLÜM 31</text>
+      </navLabel>
+      <content src="Text/bolum31.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>BÖLÜM 32</text>
+      </navLabel>
+      <content src="Text/bolum32.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>BÖLÜM 33</text>
+      </navLabel>
+      <content src="Text/bolum33.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>BÖLÜM 34</text>
+      </navLabel>
+      <content src="Text/bolum34.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>BÖLÜM 35</text>
+      </navLabel>
+      <content src="Text/bolum35.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>BÖLÜM 36</text>
+      </navLabel>
+      <content src="Text/bolum36.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>BÖLÜM 37</text>
+      </navLabel>
+      <content src="Text/bolum37.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>BÖLÜM 38</text>
+      </navLabel>
+      <content src="Text/bolum38.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>BÖLÜM 39</text>
+      </navLabel>
+      <content src="Text/bolum39.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>BÖLÜM 40</text>
+      </navLabel>
+      <content src="Text/bolum40.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>BİTİŞ</text>
+      </navLabel>
+      <content src="Text/bitis.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>TEŞEKKÜR</text>
+      </navLabel>
+      <content src="Text/tesekkur.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

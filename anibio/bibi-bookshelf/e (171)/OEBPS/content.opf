@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Russell, Bertrand">Bertrand Russell</dc:creator>
+<dc:description>&lt;p&gt;Mutlu Olma Sanatı Bertrand Russell'ın iyi bir yaşam sürmek isteyenlere sunduğu bir reçetedir. Kişisel Gelişim kitaplarının vermeyi vaat ettiği ama veremediği mutluluk sırlarını açıklar. Russell'a göre mutluluk birtakım insanların bizim elimizden alabileceği temel insan haklarından biri değildir. Kişi mutluluğa başkalarını suçlayarak değil, belirlediği hedeflere erişmek için mücadele ederek ve bu mücadele sırasında eğlenerek ulaşır. Üstelik kişi bu mücadeleyi iç dünyasına değil, sosyal yaşamına dönerek vermelidir.
+
+Deyim yerindeyse, Mutlu Olma Sanatı, kişisel gelişim vaat eden bir popüler felsefe kitabıdır.&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{9A5923F2-AEC9-426C-AF2B-5A36B9994DF9}</dc:identifier>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:publisher>Say Yayınları</dc:publisher>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Mutlu Olma Sanatı"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Bertrand Russell&quot;: &quot;&quot;}"/>
+  <dc:title>Mutlu Olma Sanatı</dc:title>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Kişisel Gelişim</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e05d5e4c-51cc-4dc9-bb46-f4f9f179dfd0</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786050202403</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/main-8.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id10" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id9" media-type="text/css"/>
+    <item href="Images/mos.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id10">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id3"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

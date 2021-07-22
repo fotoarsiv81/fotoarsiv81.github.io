@@ -1,0 +1,135 @@
+p {
+    font-size: 0.8em;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+.girintisiz {
+    text-indent: 1em;
+}
+/*-- BAŞLIK --*/
+h1 {
+    font-size: 1.8em;
+    text-align: center;
+    text-indent: 0;
+    margin-top: 3em;
+    margin-bottom: 6em;
+    font-weight: bold;
+}
+h2 {
+    font-size: 1.5em;
+    text-align: center;
+    text-indent: 0;
+    margin-top: 5em;
+    margin-bottom: 2em;
+    font-weight: bold;
+}
+h3 {
+    font-size: 1.3em;
+    text-align: center;
+    text-indent: 0;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    font-weight: bold;
+}
+/*-- İÇ KAPAK --*/
+.yazaradi {
+    font-size: 2em;
+    text-align: center;
+    text-indent: 0;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+.kitapadi {
+    font-size: 5em;
+    text-align: center;
+    text-indent: 0;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+.cevirmen {
+    font-size: 1.2em;
+    text-align: center;
+    text-indent: 0;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+.cevirmenadi {
+    font-size: 1.2em;
+    text-align: center;
+    text-indent: 0;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+.seriadi {
+    font-size: 1.3em;
+    text-align: center;
+    text-indent: 0;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+.logo {
+    text-align: center;
+    text-indent: 0;
+    margin-top: 5em;
+}
+/*-- KÜNYE --*/
+.kunye {
+    font-size: 0.7em;
+    margin-left: 1em;
+    text-indent: 0;
+}
+/*-- YAZAR TANITIM --*/
+.yazar {
+    font-size: 0.85em;
+    text-align: justify;
+    text-indent: 1em;
+    margin-left: 1em;
+}
+.yazar0 {
+    font-size: 0.85em;
+    text-align: justify;
+    text-indent: 0;
+    margin-left: 1em;
+}
+/*-- KONUMLANDIRMA --*/
+.sag {
+    text-align: right;
+    text-indent: 0;
+}
+.orta {
+    text-align: center;
+    text-indent: 0;
+}
+/*-- DİPNOT --*/
+.dipnot {
+    text-align: left;
+    text-indent: 0;
+    margin-top: 0.3em;
+    margin-bottom: 0.2em;
+    margin-left: 2.5em;
+    font-size: 0.8em;
+}
+.dipnot1 {
+    text-align: left;
+    text-indent: 0;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    page-break-before: always;
+    margin-left: 0.5em;
+}
+a.dipnot2 {
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #DC143C;
+    font-size: 0.75em;
+    line-height: 0.9em;
+    vertical-align: super;
+    padding-left: 0.05em;
+}

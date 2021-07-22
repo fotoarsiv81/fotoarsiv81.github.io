@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="{2269F7A9-0121-4C2E-A647-FE776C367647}" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Brian Greene - Evrenin Zarafeti</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum1.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Sicimle Bağlanmış</text>
+        </navLabel>
+        <content src="Text/Bolum1.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Üç Çatışma</text>
+        </navLabel>
+        <content src="Text/Bolum1.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>En Küçük Haliyle Evren: Madde Hakkında Bildiklerimiz</text>
+        </navLabel>
+        <content src="Text/Bolum1.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Kuvvetler ya da Foton Nerede?</text>
+        </navLabel>
+        <content src="Text/Bolum1.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Sicim Kuramı: Ana Fikir</text>
+        </navLabel>
+        <content src="Text/Bolum1.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Her Şeyin Birleşik Bir Kuramı Olarak Sicim Kuramı</text>
+        </navLabel>
+        <content src="Text/Bolum1.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Sicim Kuramının Durumu</text>
+        </navLabel>
+        <content src="Text/Bolum1.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>II. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum2.xhtml"/>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Uzay, Zaman ve Gözlemcinin Gözü</text>
+        </navLabel>
+        <content src="Text/Bolum2.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>İçgüdü ve Kusurları</text>
+        </navLabel>
+        <content src="Text/Bolum2.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Görelilik İlkesi</text>
+        </navLabel>
+        <content src="Text/Bolum2.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Işık Hızı</text>
+        </navLabel>
+        <content src="Text/Bolum2.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Gerçek ve Sonuçlan</text>
+        </navLabel>
+        <content src="Text/Bolum2.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Zaman Üzerindeki Etki: I. Kısım</text>
+        </navLabel>
+        <content src="Text/Bolum2.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Zaman Üzerindeki Etki: II. Kısım</text>
+        </navLabel>
+        <content src="Text/Bolum2.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Hayat Koşusu</text>
+        </navLabel>
+        <content src="Text/Bolum2.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Kim Hareket Ediyor?</text>
+        </navLabel>
+        <content src="Text/Bolum2.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Hareketin Uzay Üzerindeki Etkisi</text>
+        </navLabel>
+        <content src="Text/Bolum2.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Uzay-zamanda Hareket</text>
+        </navLabel>
+        <content src="Text/Bolum2.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Peki ya E=mc2?</text>
+        </navLabel>
+        <content src="Text/Bolum2.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>III. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum3.xhtml"/>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Kıvrımlar ve Dalgalar Üzerine</text>
+        </navLabel>
+        <content src="Text/Bolum3.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Newton'un Kütle çekimi Görüşü</text>
+        </navLabel>
+        <content src="Text/Bolum3.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Newton'un Kütle çekimi ile Özel Görelilik Arasındaki Uyuşmazlık</text>
+        </navLabel>
+        <content src="Text/Bolum3.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Einstein'ın En İsabetli Fikri</text>
+        </navLabel>
+        <content src="Text/Bolum3.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>İvme ve Uzay ile Zamanın Yamulması</text>
+        </navLabel>
+        <content src="Text/Bolum3.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Genel Göreliliğin Esasları</text>
+        </navLabel>
+        <content src="Text/Bolum3.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Birkaç Uyarı</text>
+        </navLabel>
+        <content src="Text/Bolum3.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Çatışma Çözümü</text>
+        </navLabel>
+        <content src="Text/Bolum3.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Zamanın Yamulması, Yeniden</text>
+        </navLabel>
+        <content src="Text/Bolum3.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Genel Göreliliğin Deneysel Olarak Doğrulanması</text>
+        </navLabel>
+        <content src="Text/Bolum3.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Kara Delikler, Büyük Patlama ve Uzayın Genişlemesi</text>
+        </navLabel>
+        <content src="Text/Bolum3.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Genel Görelilik Doğru mudur?</text>
+        </navLabel>
+        <content src="Text/Bolum3.xhtml#sigil_toc_id_31"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>IV. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum4.xhtml"/>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Kuantum Çerçevesi</text>
+        </navLabel>
+        <content src="Text/Bolum4.xhtml#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Mutfağın İçi Çok Sıcak</text>
+        </navLabel>
+        <content src="Text/Bolum4.xhtml#sigil_toc_id_33"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Yüzyıl Dönümünde Öbekler Oluşturmak</text>
+        </navLabel>
+        <content src="Text/Bolum4.xhtml#sigil_toc_id_34"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Öbekler Nedir?</text>
+        </navLabel>
+        <content src="Text/Bolum4.xhtml#sigil_toc_id_35"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Dalga mı yoksa Parçacık mı?</text>
+        </navLabel>
+        <content src="Text/Bolum4.xhtml#sigil_toc_id_36"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Madde Parçacıkları da Dalgadır</text>
+        </navLabel>
+        <content src="Text/Bolum4.xhtml#sigil_toc_id_37"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Neyin Dalgaları?</text>
+        </navLabel>
+        <content src="Text/Bolum4.xhtml#sigil_toc_id_38"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Feynman'ın Bakış Açısı</text>
+        </navLabel>
+        <content src="Text/Bolum4.xhtml#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Kuantum Tuhaflığı</text>
+        </navLabel>
+        <content src="Text/Bolum4.xhtml#sigil_toc_id_40"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>V. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum5.xhtml"/>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Yeni Bir Kuram İhtiyacı: Genel Görelilik Kuantum Mekaniğine Karşı</text>
+        </navLabel>
+        <content src="Text/Bolum5.xhtml#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Kuantum Mekaniğinin Kalbi</text>
+        </navLabel>
+        <content src="Text/Bolum5.xhtml#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Kuantum Alan Kuramı</text>
+        </navLabel>
+        <content src="Text/Bolum5.xhtml#sigil_toc_id_43"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Haberci Parçacıklar</text>
+        </navLabel>
+        <content src="Text/Bolum5.xhtml#sigil_toc_id_44"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Ayar Simetrisi</text>
+        </navLabel>
+        <content src="Text/Bolum5.xhtml#sigil_toc_id_45"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Genel Görelilik Kuantum Mekaniğine Karşı</text>
+        </navLabel>
+        <content src="Text/Bolum5.xhtml#sigil_toc_id_46"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>VI. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum6.xhtml"/>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Müzik Bu: Süpersicim Kuramının Esasları</text>
+        </navLabel>
+        <content src="Text/Bolum6.xhtml#sigil_toc_id_47"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Sicim Kuramının Tarihçesi</text>
+        </navLabel>
+        <content src="Text/Bolum6.xhtml#sigil_toc_id_48"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Yine mi Yunanlıların Atomları?</text>
+        </navLabel>
+        <content src="Text/Bolum6.xhtml#sigil_toc_id_49"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Sicim Kuramıyla Gelen Birleşme</text>
+        </navLabel>
+        <content src="Text/Bolum6.xhtml#sigil_toc_id_50"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Sicim Kuramının Müziği</text>
+        </navLabel>
+        <content src="Text/Bolum6.xhtml#sigil_toc_id_51"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Sicimlerin Gergin Olmasının Üç Sonucu</text>
+        </navLabel>
+        <content src="Text/Bolum6.xhtml#sigil_toc_id_52"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Sicim Kuramında Kütle çekimi ve Kuantum Mekaniği</text>
+        </navLabel>
+        <content src="Text/Bolum6.xhtml#sigil_toc_id_53"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Kaba Cevap</text>
+        </navLabel>
+        <content src="Text/Bolum6.xhtml#sigil_toc_id_54"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Zekice Bir Hile mi?</text>
+        </navLabel>
+        <content src="Text/Bolum6.xhtml#sigil_toc_id_55"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Daha Net Cevap</text>
+        </navLabel>
+        <content src="Text/Bolum6.xhtml#sigil_toc_id_56"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Sicimlerden Ötesi Var mı?</text>
+        </navLabel>
+        <content src="Text/Bolum6.xhtml#sigil_toc_id_57"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>VII. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum7.xhtml"/>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Süpersicimlerdeki "Süper"</text>
+        </navLabel>
+        <content src="Text/Bolum7.xhtml#sigil_toc_id_58"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Fizik Yasalarının Doğası</text>
+        </navLabel>
+        <content src="Text/Bolum7.xhtml#sigil_toc_id_59"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Spin</text>
+        </navLabel>
+        <content src="Text/Bolum7.xhtml#sigil_toc_id_60"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Süpersimetri ve Süpereşler</text>
+        </navLabel>
+        <content src="Text/Bolum7.xhtml#sigil_toc_id_61"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Süpersimetri Savunması: Sicim Kuramı Öncesi</text>
+        </navLabel>
+        <content src="Text/Bolum7.xhtml#sigil_toc_id_62"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Sicim Kuramında Süpersimetri</text>
+        </navLabel>
+        <content src="Text/Bolum7.xhtml#sigil_toc_id_63"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Zenginlik Başa Bela</text>
+        </navLabel>
+        <content src="Text/Bolum7.xhtml#sigil_toc_id_64"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>VIII. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum8.xhtml"/>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Göze Görünenden Daha Fazla Boyut</text>
+        </navLabel>
+        <content src="Text/Bolum8.xhtml#sigil_toc_id_65"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Alışıldık Olanın Yanıltıcılığı</text>
+        </navLabel>
+        <content src="Text/Bolum8.xhtml#sigil_toc_id_66"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Kaluza'nın Fikri ve Klein'ın Bu Fikri Geliştirmesi</text>
+        </navLabel>
+        <content src="Text/Bolum8.xhtml#sigil_toc_id_67"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Bir Bahçe Hortumu Üzerinde Gidişler ve Gelişler</text>
+        </navLabel>
+        <content src="Text/Bolum8.xhtml#sigil_toc_id_68"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Çoklu Boyutlarda Birleşme</text>
+        </navLabel>
+        <content src="Text/Bolum8.xhtml#sigil_toc_id_69"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>Modern Kaluza-Klein Kuramı</text>
+        </navLabel>
+        <content src="Text/Bolum8.xhtml#sigil_toc_id_70"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Daha Fazla Boyut ve Sicim Kuramı</text>
+        </navLabel>
+        <content src="Text/Bolum8.xhtml#sigil_toc_id_71"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Bazı Sorular</text>
+        </navLabel>
+        <content src="Text/Bolum8.xhtml#sigil_toc_id_72"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>Fazladan Boyutların Fiziksel Anlamları</text>
+        </navLabel>
+        <content src="Text/Bolum8.xhtml#sigil_toc_id_73"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Kıvrılmış Boyutlar Neye Benziyor?</text>
+        </navLabel>
+        <content src="Text/Bolum8.xhtml#sigil_toc_id_74"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>IX. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum9.xhtml"/>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Dumanı Tüten Tabanca: Deneysel imzalar</text>
+        </navLabel>
+        <content src="Text/Bolum9.xhtml#sigil_toc_id_75"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Çapraz Ateş</text>
+        </navLabel>
+        <content src="Text/Bolum9.xhtml#sigil_toc_id_76"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>Deneye Giden Yol</text>
+        </navLabel>
+        <content src="Text/Bolum9.xhtml#sigil_toc_id_77"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>Tükenen Olasılıklar</text>
+        </navLabel>
+        <content src="Text/Bolum9.xhtml#sigil_toc_id_78"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>Süperparçacıklar</text>
+        </navLabel>
+        <content src="Text/Bolum9.xhtml#sigil_toc_id_79"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>Kesirli Yüklere Sahip Parçacıklar</text>
+        </navLabel>
+        <content src="Text/Bolum9.xhtml#sigil_toc_id_80"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>Bazı Uzun Dönem Olasılıklar</text>
+        </navLabel>
+        <content src="Text/Bolum9.xhtml#sigil_toc_id_81"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>Bir Değerlendirme</text>
+        </navLabel>
+        <content src="Text/Bolum9.xhtml#sigil_toc_id_82"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>Kuantum Geometrisi</text>
+        </navLabel>
+        <content src="Text/Bolum10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>Riemann Geometrisinin Özü</text>
+        </navLabel>
+        <content src="Text/Bolum10.xhtml#sigil_toc_id_83"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>Kozmolojik Bir Oyun Bahçesi</text>
+        </navLabel>
+        <content src="Text/Bolum10.xhtml#sigil_toc_id_84"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>En Temel Yeni Özellik</text>
+        </navLabel>
+        <content src="Text/Bolum10.xhtml#sigil_toc_id_85"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>Sarılmış Haldeki Sicimlerin Fiziği</text>
+        </navLabel>
+        <content src="Text/Bolum10.xhtml#sigil_toc_id_86"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>Sicim Halleri Yelpazesi</text>
+        </navLabel>
+        <content src="Text/Bolum10.xhtml#sigil_toc_id_87"/>
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>Bir Tartışma</text>
+        </navLabel>
+        <content src="Text/Bolum10.xhtml#sigil_toc_id_88"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>Üç Soru</text>
+        </navLabel>
+        <content src="Text/Bolum10.xhtml#sigil_toc_id_89"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>Sicim Kuramında Birbirine Bağlı İki Mesafe Kavrayışı</text>
+        </navLabel>
+        <content src="Text/Bolum10.xhtml#sigil_toc_id_90"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>Minimum Bir Büyüklük</text>
+        </navLabel>
+        <content src="Text/Bolum10.xhtml#sigil_toc_id_91"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>Bu Sonuç Ne Kadar Genel?</text>
+        </navLabel>
+        <content src="Text/Bolum10.xhtml#sigil_toc_id_92"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>Ayna Simetrisi</text>
+        </navLabel>
+        <content src="Text/Bolum10.xhtml#sigil_toc_id_93"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>Ayna Simetrisinin Fiziği ve Matematiği</text>
+        </navLabel>
+        <content src="Text/Bolum10.xhtml#sigil_toc_id_94"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-106" playOrder="106">
+      <navLabel>
+        <text>XI. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum11.xhtml"/>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>Uzayın Dokusunu Yırtmak</text>
+        </navLabel>
+        <content src="Text/Bolum11.xhtml#sigil_toc_id_95"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>Çok Çekici Bir Olasılık</text>
+        </navLabel>
+        <content src="Text/Bolum11.xhtml#sigil_toc_id_96"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>Ayna Perspektifi</text>
+        </navLabel>
+        <content src="Text/Bolum11.xhtml#sigil_toc_id_97"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>Yavaş Yavaş İlerlemek</text>
+        </navLabel>
+        <content src="Text/Bolum11.xhtml#sigil_toc_id_98"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>Bir Strateji Doğuyor</text>
+        </navLabel>
+        <content src="Text/Bolum11.xhtml#sigil_toc_id_99"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>Einstein'ın Dolaştığı Yerlerde Sabahlarken</text>
+        </navLabel>
+        <content src="Text/Bolum11.xhtml#sigil_toc_id_100"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>Altı Kutu Bira ve Haftasonu Çalışmaları</text>
+        </navLabel>
+        <content src="Text/Bolum11.xhtml#sigil_toc_id_101"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>Hakikat Anı</text>
+        </navLabel>
+        <content src="Text/Bolum11.xhtml#sigil_toc_id_102"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>Itten'in Yaklaşımı</text>
+        </navLabel>
+        <content src="Text/Bolum11.xhtml#sigil_toc_id_103"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>Sonuçlar</text>
+        </navLabel>
+        <content src="Text/Bolum11.xhtml#sigil_toc_id_104"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-117" playOrder="117">
+      <navLabel>
+        <text>XII. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum12.xhtml"/>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>Sicimlerin Ötesi: M-Kuramı Arayışı</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_105"/>
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>İkinci Süpersicim Devriminin Bir Özeti</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_106"/>
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>Bir Yaklaşıklık Yöntemi</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_107"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>Klasik Bir Tedirginlik Kuramı Örneği</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_108"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>Sicim Kuramına Tedirginlik Kuramı Açısından Bir Yaklaşım</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_109"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>Yaklaşık Değer Yaklaşık mı?</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_110"/>
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>Sicim Kuramı Denklemleri</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_111"/>
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>İkilik</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_112"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>Simetrinin Kuvveti</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_113"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>Sicim Kuramında ikilik</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_114"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>Buraya Kadar Anlatılanların Bir Özeti</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_115"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>Süperkütleçekimi</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_116"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>M-Kuramının Pırıltıları</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_117"/>
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>M-Kuramı ve İç Bağlantı Ağları</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_118"/>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>Büyük Resmi Görmek</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_119"/>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>M-Kurammm Şaşırtıcı Bir Yönü: Yayılma Serbestliği</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_120"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>Bunlar Sicim Kuramındaki Cevaplanmamış Sorulara Yanıt Getiriyor mu?</text>
+        </navLabel>
+        <content src="Text/Bolum12.xhtml#sigil_toc_id_121"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-135" playOrder="135">
+      <navLabel>
+        <text>XIII. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum13.xhtml"/>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>Kara Delikler: Bir Sicim ya da M-Kuramı Bakış Açısı</text>
+        </navLabel>
+        <content src="Text/Bolum13.xhtml#sigil_toc_id_122"/>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>Kara Delikler ve Temel Parçacıklar</text>
+        </navLabel>
+        <content src="Text/Bolum13.xhtml#sigil_toc_id_123"/>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>Sicim Kuramı İlerlememize İzin Verir mi?</text>
+        </navLabel>
+        <content src="Text/Bolum13.xhtml#sigil_toc_id_124"/>
+      </navPoint>
+      <navPoint id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>Uzayın Dokusunu İkna Yoluyla Yırtmak</text>
+        </navLabel>
+        <content src="Text/Bolum13.xhtml#sigil_toc_id_125"/>
+      </navPoint>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>Bir Elektronik Posta Akışı</text>
+        </navLabel>
+        <content src="Text/Bolum13.xhtml#sigil_toc_id_126"/>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>Kara Deliklere ve Temel Parçacıklara Geri Dönelim</text>
+        </navLabel>
+        <content src="Text/Bolum13.xhtml#sigil_toc_id_127"/>
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>Kara Delikleri "Eritmek"</text>
+        </navLabel>
+        <content src="Text/Bolum13.xhtml#sigil_toc_id_128"/>
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>Kara Delik Entropisi</text>
+        </navLabel>
+        <content src="Text/Bolum13.xhtml#sigil_toc_id_129"/>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>Kara Ama Ne Kadar Kara?</text>
+        </navLabel>
+        <content src="Text/Bolum13.xhtml#sigil_toc_id_130"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>Ve Sicim Kuramı Sahneye Çıkar</text>
+        </navLabel>
+        <content src="Text/Bolum13.xhtml#sigil_toc_id_131"/>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>Kara Deliklerin Henüz Çözülmemiş Gizemleri</text>
+        </navLabel>
+        <content src="Text/Bolum13.xhtml#sigil_toc_id_132"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-147" playOrder="147">
+      <navLabel>
+        <text>XIV. Bölüm</text>
+      </navLabel>
+      <content src="Text/Bolum14.xhtml"/>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>Kozmoloji Üzerine Düşünceler</text>
+        </navLabel>
+        <content src="Text/Bolum14.xhtml#sigil_toc_id_133"/>
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>Standart Kozmoloji Modeli</text>
+        </navLabel>
+        <content src="Text/Bolum14.xhtml#sigil_toc_id_134"/>
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>Büyük Patlamayı Sınamak</text>
+        </navLabel>
+        <content src="Text/Bolum14.xhtml#sigil_toc_id_135"/>
+      </navPoint>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>Planck Zamanından, Büyük Patlamanın Bir Saniyenin Yüzde Biri Sonrasına</text>
+        </navLabel>
+        <content src="Text/Bolum14.xhtml#sigil_toc_id_136"/>
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>Kozmolojik Bir Bilmece</text>
+        </navLabel>
+        <content src="Text/Bolum14.xhtml#sigil_toc_id_137"/>
+      </navPoint>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>Şişirme</text>
+        </navLabel>
+        <content src="Text/Bolum14.xhtml#sigil_toc_id_138"/>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>Kozmoloji ve Süpersicim Kuramı</text>
+        </navLabel>
+        <content src="Text/Bolum14.xhtml#sigil_toc_id_139"/>
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>Başlangıçta Planck Boyutlarında Bir Topak Vardı</text>
+        </navLabel>
+        <content src="Text/Bolum14.xhtml#sigil_toc_id_140"/>
+      </navPoint>
+      <navPoint id="navPoint-156" playOrder="156">
+        <navLabel>
+          <text>Neden Üç Tane?</text>
+        </navLabel>
+        <content src="Text/Bolum14.xhtml#sigil_toc_id_141"/>
+      </navPoint>
+      <navPoint id="navPoint-157" playOrder="157">
+        <navLabel>
+          <text>Kozmoloji ve Calabi-Yau Şekilleri</text>
+        </navLabel>
+        <content src="Text/Bolum14.xhtml#sigil_toc_id_142"/>
+      </navPoint>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>Başlangıçtan Öncesi?</text>
+        </navLabel>
+        <content src="Text/Bolum14.xhtml#sigil_toc_id_143"/>
+      </navPoint>
+      <navPoint id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>M-Kuramı ve Bütün Kuvvetlerin Birleşmesi</text>
+        </navLabel>
+        <content src="Text/Bolum14.xhtml#sigil_toc_id_144"/>
+      </navPoint>
+      <navPoint id="navPoint-160" playOrder="160">
+        <navLabel>
+          <text>Kozmolojik Spekülasyonlar ve Nihai Kuram</text>
+        </navLabel>
+        <content src="Text/Bolum14.xhtml#sigil_toc_id_145"/>
+      </navPoint>
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>Sicim Kuramının Geleceği</text>
+        </navLabel>
+        <content src="Text/Bolum15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>Sicim Kuramının Altında Yatan Temel İlke Nedir?</text>
+        </navLabel>
+        <content src="Text/Bolum15.xhtml#sigil_toc_id_146"/>
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>Uzay ve Zaman Aslında Nedir, Onlarsız Yapabilir Miyiz?</text>
+        </navLabel>
+        <content src="Text/Bolum15.xhtml#sigil_toc_id_147"/>
+      </navPoint>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>Sicim Kuramı Kuantum Mekaniğinin Yeniden Formüle Edilmesine Yol Açacak mı?</text>
+        </navLabel>
+        <content src="Text/Bolum15.xhtml#sigil_toc_id_148"/>
+      </navPoint>
+      <navPoint id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>Sicim Kuramı Deneysel Olarak Sınanabilir mi?:</text>
+        </navLabel>
+        <content src="Text/Bolum15.xhtml#sigil_toc_id_149"/>
+      </navPoint>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>Açıklamanın Sınırları Var mıdır?</text>
+        </navLabel>
+        <content src="Text/Bolum15.xhtml#sigil_toc_id_150"/>
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>Yıldızlara Uzanmak</text>
+        </navLabel>
+        <content src="Text/Bolum15.xhtml#sigil_toc_id_151"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

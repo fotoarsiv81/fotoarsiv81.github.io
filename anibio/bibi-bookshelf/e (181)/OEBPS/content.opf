@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="Ellis, Bret Easton" opf:role="aut">Bret Easton Ellis</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">292f6afa-8872-46a6-8ba1-c9bfb7c6e39d</dc:identifier>
+    <dc:publisher>İthaki</dc:publisher>
+    <meta content="Amerikan Sapığı" name="calibre:title_sort" />
+    <meta content="2014-02-18T20:58:49.967000+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="cover" />
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date>2006-05-31T21:00:00+00:00</dc:date>
+    <dc:title>Amerikan Sapığı</dc:title>
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>Korku</dc:subject>
+    <dc:subject>Gerilim</dc:subject>
+    <dc:subject>Gizem</dc:subject>
+    <dc:subject>Suç</dc:subject>
+    <dc:description>&lt;p&gt;Kendimle ilgili daha derin bir bilgi edinmiyorum, bunları anlatışımdan çıkartılabilecek yeni bir anlam. Bütün bunları size anlatmam için hiçbir neden yoktu. Bu itirafın hiçbir anlamı yoktu... Aklıma gelmezdi hiç, insanlar iyi midir, insan kendini değiştirebilir mi, insan bir duygudan ya da bir bakıştan ya da bir jestten haz duyarsa dünya daha iyi mi olur, ya da başka birinin aşkını ya da iyiliğini kabul ederse. Hiçbir şey olumlayıcı değildi, 'ruh cömertliği' lafı hiçbir şeyi açıklamıyordu, bir klişeydi, kötü bir şakaydı. Seks aritmetiktir. Bireysellik mesele değil artık. Zeki olmak neye yarar ki? Aklı tanımla. Arzu -anlamsız. Zeka hiçbir şeyi iyi edemez. Adalet öldü. Düşünmek yararsız, dünya anlamsız. Kötülük dünyanın tek sürekliliği. Aşka güvenilmez. Yüzey, yüzey, yüzey, insanın anlam bulabildiği tek şey yüzey. Benim gözümde uygarlık buydu, devasa ve tırtıklı bir bıçak ağzı gibi... Kötülük olunan bir şey midir? Yoksa yapılan bir şey mi? Dünyaya lanetler yağdırıyorum ve de bana öğretilen her şeye; ilkelere, seçkinliklere, seçimlere, ahlak derslerine, uzlaşmalara, bilgiye, birlik olmaya, dua etmeye -hepsi yanlıştı, hiçbirinin kendi başına bir amacı yoktu. Hepsinin dönüp geldiği şu: öl ya da uy. Kendi bomboş suratımı gözümün önüne getiriyorum, bedeninden ayrılmış sesi, ağzından çıkan; Bunlar korkunç zamanlar.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Bret Easton Ellis&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">605c0314-ba2e-49ed-b91a-f1e94619909c</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">WAxRwX-ZQwYC</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789752732544</dc:identifier>
+    <dc:date opf:event="modification">2014-02-18</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg" />
+    <item href="Text/index_split_000.html" id="id28" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_001.html" id="id27" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_002.html" id="id26" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_003.html" id="id25" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_004.html" id="id24" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_005.html" id="id23" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_006.html" id="id22" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_007.html" id="id21" media-type="application/xhtml+xml" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="id28" />
+    <itemref idref="id27" />
+    <itemref idref="id26" />
+    <itemref idref="id25" />
+    <itemref idref="id24" />
+    <itemref idref="id23" />
+    <itemref idref="id22" />
+    <itemref idref="id21" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

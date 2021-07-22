@@ -1,0 +1,469 @@
+.author {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 7.2pt;
+  margin: 0 0 0.0001pt;
+}
+.author1 {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 0 0 0.0001pt;
+}
+.calibre {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  
+  font-size: 0.66667em;
+  font-weight: normal;
+  letter-spacing: 0;
+}
+.calibre2 {
+  
+  font-size: 1em;
+  font-weight: normal;
+  letter-spacing: 0;
+  line-height: 1.2;
+}
+.calibre3 {
+  
+  font-weight: normal;
+}
+.calibre4 {
+  font-style: italic;
+}
+.calibre5 {
+  
+  font-size: 1em;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.calibre6 {
+  display: block;
+}
+.calibre7 {
+  font-weight: bold;
+}
+.calibre8 {
+  
+  letter-spacing: 0;
+}
+.calibre9 {
+  text-transform: uppercase;
+}
+.calibre10 {
+  
+}
+.calibre11 {
+  
+  font-size: 1em;
+  letter-spacing: 0;
+  line-height: 1.2;
+}
+.calibre12 {
+  
+  font-family: "Bookman Old Style", serif;
+  position: relative;
+  top: 1pt;
+}
+.calibre13 {
+  font-family: "Bookman Old Style", serif;
+}
+.calibre14 {
+  height: 80px;
+  width: 112px;
+}
+.calibre15 {
+  
+  font-family: "Bookman Old Style", serif;
+  letter-spacing: 0;
+}
+.calibre16 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 1em;
+  letter-spacing: 0;
+  line-height: 1.2;
+}
+.calibre17 {
+  
+  font-family: "Bookman Old Style", serif;
+}
+.calibre18 {
+  
+  font-style: normal;
+}
+.calibre19 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre20 {
+  
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre21 {
+  font-family: "Bookman Old Style", serif;
+  line-height: 1.2;
+}
+.calibre22 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-weight: normal;
+}
+.calibre23 {
+  
+  font-family: "Bookman Old Style", serif;
+  position: relative;
+  top: 4pt;
+}
+.calibre24 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 1em;
+  line-height: 1.2;
+  position: relative;
+  top: 4pt;
+}
+.calibre25 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 1em;
+  line-height: 1.2;
+  position: relative;
+  top: 3pt;
+}
+.calibre26 {
+  
+  font-family: "Bookman Old Style", serif;
+  position: relative;
+  top: 3pt;
+}
+.calibre27 {
+  
+  letter-spacing: 0;
+  position: relative;
+  top: -2pt;
+}
+.calibre28 {
+  
+  font-style: normal;
+  letter-spacing: 0;
+}
+.calibre29 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 1em;
+  line-height: 1.2;
+  position: relative;
+  top: 2pt;
+}
+.calibre30 {
+  
+  font-family: "Bookman Old Style", serif;
+  position: relative;
+  top: 2pt;
+}
+.calibre31 {
+  
+  font-weight: normal;
+  letter-spacing: 0;
+}
+.calibre32 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-weight: normal;
+  letter-spacing: 0;
+}
+.calibre33 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-style: normal;
+}
+.calibre34 {
+  
+  font-family: "Bookman Old Style", serif;
+  font-size: 1em;
+  letter-spacing: 0;
+  line-height: 1.2;
+  position: relative;
+  top: 4pt;
+}
+.calibre35 {
+  
+  font-family: "Bookman Old Style", serif;
+  letter-spacing: 0;
+  position: relative;
+  top: 4pt;
+}
+.calibre36 {
+  color: gray;
+  display: block;
+  height: 2px;
+  text-align: left;
+  border-top: currentColor solid 1px;
+  border-right: currentColor none 1px;
+  border-bottom: currentColor none 1px;
+  border-left: currentColor none 1px;
+  margin: 0.5em auto;
+}
+.calibre37 {
+  font-family: "Bookman Old Style", serif;
+  font-size: 1em;
+}
+.fontstyle {
+  color: black;
+  font-family: "Bookman Old Style", serif;
+  letter-spacing: -0.5pt;
+  line-height: 1.2;
+}
+.fontstyle1 {
+  color: black;
+  font-family: "Bookman Old Style", serif;
+  font-style: italic;
+  font-weight: bold;
+}
+.fontstyle2 {
+  color: black;
+  font-family: "Bookman Old Style", serif;
+  font-weight: bold;
+}
+.fontstyle3 {
+  color: black;
+  font-family: "Bookman Old Style", serif;
+  letter-spacing: -0.5pt;
+}
+.fontstyle4 {
+  color: black;
+  font-family: "Bookman Old Style", serif;
+  font-weight: bold;
+  letter-spacing: -1pt;
+}
+.fontstyle5 {
+  color: black;
+  font-family: "Bookman Old Style", serif;
+  font-style: italic;
+}
+.fontstyle6 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+}
+.fontstyle7 {
+  color: black;
+  font-family: "Bookman Old Style", serif;
+  font-weight: bold;
+  letter-spacing: -0.5pt;
+}
+.fontstyle8 {
+  color: black;
+  font-family: "Arial Black", sans-serif;
+  letter-spacing: -1pt;
+}
+.fontstyle9 {
+  color: black;
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+}
+.fontstyle10 {
+  color: black;
+  font-family: "Book Antiqua", serif;
+  font-weight: bold;
+}
+.fontstyle11 {
+  color: black;
+  font-family: "Bookman Old Style", serif;
+  letter-spacing: -1pt;
+}
+.fontstyle12 {
+  color: black;
+  font-family: "Bookman Old Style", serif;
+  font-weight: bold;
+  letter-spacing: 2pt;
+}
+.fontstyle13 {
+  color: black;
+  font-family: "Bookman Old Style", serif;
+  font-style: italic;
+  letter-spacing: -1pt;
+}
+.fontstyle14 {
+  color: black;
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  letter-spacing: -0.5pt;
+}
+.fontstyle15 {
+  color: black;
+  font-family: "Arial", sans-serif;
+  font-style: italic;
+}
+.fontstyle16 {
+  color: black;
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  letter-spacing: -2.5pt;
+}
+.msofootnotereference {
+  vertical-align: super;
+}
+.msofootnotetext {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 0.75em;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 0.0001pt;
+}
+.msofootnotetext1 {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 0.75em;
+  text-align: justify;
+  text-indent: 36pt;
+  margin: 0 0 0.0001pt;
+}
+.msonormal {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 0 0 0.0001pt;
+}
+.msonormal1 {
+  color: black;
+  display: block;
+  font-family: "Cambria", serif;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 36pt;
+  margin: 0 0 0.0001pt;
+}
+.style {
+  display: block;
+  font-family: "Arial", sans-serif;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  
+  margin: 0 0 0.0001pt;
+}
+.style1 {
+  display: block;
+  font-family: "Arial", sans-serif;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  
+  margin: 0 0 0.0001pt;
+}
+.style2 {
+  display: block;
+  font-family: "Arial", sans-serif;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: justify;
+  
+  text-indent: 36pt;
+  margin: 0 0 0.0001pt;
+}
+.style3 {
+  display: block;
+  font-family: "Arial", sans-serif;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: right;
+  
+  text-indent: 36pt;
+  margin: 0 0 0.0001pt;
+}
+.style4 {
+  display: block;
+  font-family: "Arial", sans-serif;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  
+  text-indent: 36pt;
+  margin: 0 0 0.0001pt;
+}
+.wordsection {
+  display: block;
+  page: WordSection1;
+}
+.wordsection1 {
+  display: block;
+  page: WordSection2;
+}
+.wordsection2 {
+  display: block;
+  page: WordSection3;
+}
+.wordsection3 {
+  display: block;
+  page: WordSection4;
+}
+.wordsection4 {
+  display: block;
+  page: WordSection5;
+}
+.wordsection5 {
+  display: block;
+  page: WordSection6;
+}
+.wordsection6 {
+  display: block;
+  page: WordSection7;
+}
+.wordsection7 {
+  display: block;
+  page: WordSection8;
+}
+.wordsection8 {
+  display: block;
+  page: WordSection9;
+}
+.wordsection9 {
+  display: block;
+  page: WordSection10;
+}
+.wordsection10 {
+  display: block;
+  page: WordSection11;
+}
+.wordsection11 {
+  display: block;
+  page: WordSection12;
+}
+.pcalibre:link {
+  color: #06C;
+  text-decoration: underline;
+}
+.pcalibre1:visited {
+  color: purple;
+  text-decoration: underline;
+}

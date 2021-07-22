@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="c9c7a1a0-b635-4928-931f-2285e05894e5" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.85.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Prens Caspian (Narnia Günlükleri #4)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>KAPAK</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>KUNYE</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_001.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>GIRIS</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_002.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>ITHAF</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_003.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>PRENS_CASPIAN</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_004.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>01</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_005.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>02</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_006.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>03</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_007.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>04</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_008.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>05</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_009.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>06</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_010.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>07</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_011.html"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>08</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_012.html"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>09</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_013.html"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_014.html"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_015.html"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_016.html"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_017.html"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_018.html"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="Text/Narnia_Gunlukleri_4_Prens_Caspi_split_019.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

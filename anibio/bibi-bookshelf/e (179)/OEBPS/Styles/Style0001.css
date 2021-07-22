@@ -1,0 +1,8 @@
+p {margin: 1em 0;}
+h1 {text-align: center; font-size: 1.7em; font-weight: normal; margin: 1em 0;}
+h2 {text-align: center; font-size: 1.5em; font-weight: normal; margin: 1em 0;}
+h3 {text-align: center; font-size: 1.3em; font-weight: normal; margin: 1em 0;}
+h4 {font-size: 1em; font-weight: bold; margin: 1em 0;}
+
+#book-name {font-size: 2em;}
+#translator, #publisher {text-align: center; font-weight: normal;}

@@ -1,0 +1,118 @@
+p {text-indent: 1.5em;text-align:justify;margin:0;line-height:1.3em}
+h1,h2,h3,h4,h5,h6 {text-indent: 0px;text-align:center;}
+
+
+.ickapak {margin-top:2em}
+.ickapak p {text-indent:0em;text-align:center}
+.yazar {font-size:1.3em;margin-bottom:1em;}
+.yazarb {font-size:1.9em;margin-bottom:1em;}
+.kitap {font-size:3em;margin-bottom:0.5em}
+.cevirmen {font-size:0.85em}
+.logo {margin-top:6em}
+.tur {margin-top:0em;font-size:0.9em;margin-bottom:2em}
+
+
+.kunye p {
+          font-family :"Garamond";
+	      font-weight : normal;
+	      font-style : normal;
+	      font-size : 0.67em;
+	      text-decoration : none;
+	      font-variant : normal;
+	      line-height : 1.38;
+	      text-align:center;
+	      color : #000000;
+	      text-indent : 0px;
+	      margin : 3px 30px 0px 30px;
+          }
+
+.bosluk4 {
+         padding-top:4em;
+         padding-bottom:4em;
+         }
+
+.bosluk1 {
+         padding-top:0.5em;
+         padding-bottom:0.5em;
+         }
+.bosluk2 {
+         padding-top:2em;
+         padding-bottom:2em;
+         }
+
+.n p {text-indent: 0em;
+text-align:justify;
+margin:0.5em;
+line-height:1.3em;
+font-size:0.8em; }
+
+.n {text-indent: 0em;text-align:justify;margin:0;line-height:1.3em}
+
+
+.ithaf {
+       text-indent:0em;
+       text-align:right;
+       font-size:0.99em;
+       margin-right:0.5in;
+       font-weight:normal;
+       font-style: italic;
+       margin-top:0em;
+       margin-bottom:0em;
+       }
+
+.orta {
+       text-indent:0em;
+       text-align:center;
+       font-size:1.3em;
+       font-weight:bold;
+       font-style: italic;
+       margin-top:1.5em;
+       margin-bottom:0.5em;
+       }
+
+.sag {
+       text-indent:1.5em;
+       text-align:left;
+       font-size:1em;
+       font-weight:bold;
+       font-style: normal;
+       margin-top:1em;
+       margin-bottom:1em;
+       }
+
+.s {
+       text-indent:2em;
+       text-align:left;
+       font-size:0.95em;
+       font-weight:normal;
+       font-style: italic;
+       margin-top:0em;
+       margin-bottom:0em;
+       }
+.orta1 {
+       text-indent:0em;
+       text-align:center;
+       font-size:1em;
+       font-weight:normal;
+       font-style: normal;
+       margin-top:0em;
+       margin-bottom:0.5em;
+       }
+
+a {
+   text-decoration: none;
+   color: #ff0000;
+   font-size:0.9em;
+   }
+div.sgc-toc-title {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+div.sgc-toc-level-1 {
+    margin-left: 0em;
+    text-align: center;
+}
+

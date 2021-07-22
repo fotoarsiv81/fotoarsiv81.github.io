@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="8376fb59-d66a-4603-9423-512953ac2077" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.32.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Güneş Yiyen Çingene</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="1" playOrder="1">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/Icindekiler.xhtml"/>
+    </navPoint>
+    <navPoint id="2" playOrder="2">
+      <navLabel>
+        <text>Mor ve Ötesi</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint id="3" playOrder="3">
+      <navLabel>
+        <text>Bir Yaz Dönümü Gecesi İçin Süit</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml"/>
+    </navPoint>
+    <navPoint id="4" playOrder="4">
+      <navLabel>
+        <text>Gerçekliğe ve Ülkesine Yenik Düşmeyen Düşler</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+    </navPoint>
+    <navPoint id="5" playOrder="5">
+      <navLabel>
+        <text>Cağaloğlu'nda Metamorfoz</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+    </navPoint>
+    <navPoint id="6" playOrder="6">
+      <navLabel>
+        <text>Anaïs'in Saklı Mektupları</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml"/>
+    </navPoint>
+    <navPoint id="7" playOrder="7">
+      <navLabel>
+        <text>Hayatımdaki Bütün Erkekler</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml"/>
+    </navPoint>
+    <navPoint id="8" playOrder="8">
+      <navLabel>
+        <text>Kadın Adamın Kadın Kızı Olur</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml"/>
+    </navPoint>    <navPoint id="9" playOrder="9">
+      <navLabel>
+        <text>Güneş Yiyen Çingene</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml"/>
+    </navPoint>    <navPoint id="10" playOrder="10">
+      <navLabel>
+        <text>İçine Kadın Giren Erkek</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
