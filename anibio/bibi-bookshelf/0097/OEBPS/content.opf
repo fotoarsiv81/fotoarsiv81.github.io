@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Soljenitsin, Aleksandr İsayeviç">Aleksandr İsayeviç Soljenitsin</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f45a8b45-3b09-4499-9723-36536ecea2b6</dc:identifier>
+    <dc:date>2014-03-22T22:00:00+00:00</dc:date>
+    <dc:publisher>Cem Yayınevi</dc:publisher>
+    <meta name="cover" content="cem-idbg.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>İvan Denisoviç'in Bir Günü</dc:title>
+<meta name="calibre:title_sort" content="İvan Denisoviç'in Bir Günü"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Rus Edebiyatı</dc:subject>
+<dc:subject>Siyasi</dc:subject>
+<dc:description>&lt;p&gt;Yayımlandığında dünyada hem edebi hem de siyasi yankı uyandıran İvan Denisoviç’in Bir Günü, Stalinist baskıyı edebiyata taşıyan ilk roman.
+ 
+Aleksandr İsayeviç Soljenitsin İvan Denisoviç’in Bir Günü’nde, toplama kamplarındaki acımasız yaşama ve çalışma koşulları karşısında onurunu ve haysiyetini korumaya çalışan insanları anlatıyor. Kirli, soğuk ve adaletsiz bir ortamda hayata tutunan mahkûmların, insanlık dışı düzene nasıl direnç gösterdiklerini resmediyor. Romanın kahramanı İvan Denisoviç, İkinci Dünya Savaşı’nda Almanların elinden kaçtıktan sonra, ajan olma şüphesiyle Sovyet hükümeti tarafından gözaltına alınır ve sürgüne gönderilir. Buzlar altındaki Sibirya sürgününde, açlık ve dayak tehdidi altında on yıl geçirecektir. Soljenitsin’in kendi anılarından yola çıkarak yazdığı roman, 1962 yılında yayımlandığında Sovyetler Birliği’nde büyük yankı uyandırmış, kısa sürede toplatılmış ve yasaklanmıştı. Stalinist dönemin yazarlar üzerindeki siyasi baskısını anlamak için okunması gereken bir roman.
+ 
+“Doktor Jivago’ya kadar hiçbir ilk roman modern Rus edebiyatında, nadide bir eser olan İvan Denisoviç’in Bir Günü kadar heyecan uyandırmamış ve fırtınalar koparmamıştı.”
+David Stewart Hull&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Aleksandr İsayeviç Soljenitsin&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">a44011ec-476d-4cf6-a2c8-5a134a15dce9</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750508738</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/cem-idbg.jpg" id="cem-idbg.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Section0001.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

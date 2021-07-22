@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn:9789750720130" name="dtb:uid"/>
+      <meta content="2" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Veba</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>I</text>
+         </navLabel>
+         <content src="Text/part1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>II</text>
+         </navLabel>
+         <content src="Text/part2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>III</text>
+         </navLabel>
+         <content src="Text/part3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>IV</text>
+         </navLabel>
+         <content src="Text/part4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>V</text>
+         </navLabel>
+         <content src="Text/part5.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

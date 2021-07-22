@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Rasim, Ahmet">Ahmet Rasim</dc:creator>
+<meta content="Adobe InDesign" name="generator"/>
+    <dc:description>&lt;p&gt;Edebiyatımızda "şehir yazıları"nın ilk örneğini, çoğu Malumat gazetesinde yayınlanan mektuplarla Ahmet Rasim vermiştir. Ahmet Rasim'in en büyük özelliği, yazılarını bir sohbet havası içinde tazması ve daha ilk cümleden okurunu kucaklamasıdır. Dönemin İstanbul'unu mekan, kültürel yapı, gelenekler, alışkanlıklar, insan ilişkileri gibi unsurlarla ele alan ve bütün zenginliğiyle yansıtan Ahmet Rasim, "Şehir Mektupları"nda büyük bir gözlem yeteneği, kıvrak bir üslup, kendine özgü bir dil ve tadına doyulmaz yazılar ortaya koyar.&lt;/p&gt;</dc:description>
+    <dc:publisher>Antik Kitap</dc:publisher>
+    <dc:date>2007-11-14T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">978-975-6107-23-2</dc:identifier>
+    <meta content="Şehir Mektupları" name="calibre:title_sort"/>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Ahmet Rasim&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-06-01</dc:date>
+  <dc:title>Şehir Mektupları</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Anı</dc:subject>
+<dc:subject>Mektup</dc:subject>
+<dc:subject>Türk Edebiyatı</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">ed33b591-4884-42d4-9f8c-ed539a2082c2</dc:identifier>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789756107232</dc:identifier>
+<meta name="calibre:user_metadata:#tags" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 3, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#tags&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {&quot;cache_to_list&quot;: &quot;|&quot;, &quot;ui_to_list&quot;: &quot;,&quot;, &quot;list_to_ui&quot;: &quot;, &quot;}, &quot;is_multiple&quot;: &quot;|&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: [], &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;tags&quot;, &quot;display&quot;: {&quot;is_names&quot;: false}, &quot;name&quot;: &quot;Raflarım&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="added1" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="added" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="added2" media-type="application/x-font-ttf"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Text/sehirmektuplarikapak.html" id="sehirmektuplarikapak" media-type="application/xhtml+xml"/>
+    <item href="Text/sehirmektuplarimetin.html" id="sehirmektuplarimetin" media-type="application/xhtml+xml"/>
+    <item href="Text/sehirmektuplarimetin-1.html" id="sehirmektuplarimetin-1" media-type="application/xhtml+xml"/>
+    <item href="Text/sehirmektuplarimetin-2.html" id="sehirmektuplarimetin-2" media-type="application/xhtml+xml"/>
+    <item href="Text/sehirmektuplarimetin-3.html" id="sehirmektuplarimetin-3" media-type="application/xhtml+xml"/>
+    <item href="Text/sehirmektuplarimetin-4.html" id="sehirmektuplarimetin-4" media-type="application/xhtml+xml"/>
+    <item href="Images/65503.jpg" id="x65503.jpg" media-type="image/jpeg"/>
+    <item href="Images/sehirmektuplari600_fmt.jpeg" id="sehirmektuplari600_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="sehirmektuplarikapak"/>
+    <itemref idref="sehirmektuplarimetin"/>
+    <itemref idref="sehirmektuplarimetin-1"/>
+    <itemref idref="sehirmektuplarimetin-2"/>
+    <itemref idref="sehirmektuplarimetin-3"/>
+    <itemref idref="sehirmektuplarimetin-4"/>
+  </spine>
+</package>

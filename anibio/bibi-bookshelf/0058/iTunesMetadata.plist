@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Ahmet Ümit</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>575A5E9BAA030FF39864BC2C7A985C37</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>E70B3C86162405E1611BCD13C8014F9E</string>
+		<key>publisher-unique-id</key>
+		<string>c27aeb67-f472-40ad-a602-8f39070bc25a</string>
+		<key>unique-id</key>
+		<integer>-2294670994053751291</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Bir Ses Böler Geceyi</string>
+	<key>playlistName</key>
+	<string>Bir Ses Böler Geceyi</string>
+	<key>releaseDate</key>
+	<string>2011-03-10T22:00:00+00:00</string>
+	<key>sort-artist</key>
+	<string>Ümit, Ahmet</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

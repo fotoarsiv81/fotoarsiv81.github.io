@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta content="1" name="calibre:series_index" />
+    <dc:language>tr</dc:language>
+    <dc:creator opf:file-as="Puşkin, Aleksandr" opf:role="aut">Aleksandr Puşkin</dc:creator>
+    <meta content="2010-11-03T23:03:03.575146+00:00" name="calibre:timestamp" />
+    <dc:title>Dubrovski</dc:title>
+    <meta content="cover" name="cover" />
+    <dc:date>2010-11-03T23:03:03.575169+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.26) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">13f23a6d-19ef-4d0a-9d70-703042e65bd1</dc:identifier>
+    <meta content="0.4.0" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg" />
+    <item href="Text/index_split_000.html" id="id14" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_001.html" id="id13" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_002.html" id="id12" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_003.html" id="id11" media-type="application/xhtml+xml" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Images/images.jpg" id="images.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="id14" />
+    <itemref idref="id13" />
+    <itemref idref="id12" />
+    <itemref idref="id11" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

@@ -1,0 +1,427 @@
+.block_ {
+  display: block;
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 7.2pt;
+  padding: 0;
+  margin: 6pt 0;
+}
+.block_1 {
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 6pt 0 6pt 8.5pt;
+}
+.block_2 {
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  padding: 0;
+  margin: 6pt 0 6pt 8.5pt;
+}
+.block_3 {
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 6pt 0 6pt 8.5pt;
+}
+.block_4 {
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  padding: 0;
+  margin: 6pt 0 6pt 8.5pt;
+}
+.block_5 {
+  display: block;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 8.5pt;
+  text-transform: uppercase;
+  padding: 0;
+  margin: 12pt 0 3pt;
+}
+.block_6 {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 6pt 0 6pt 8.5pt;
+}
+.block_7 {
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: right;
+  text-indent: 0;
+  padding: 0;
+  margin: 6pt 0 6pt 8.5pt;
+}
+.block_8 {
+  display: block;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 8.5pt;
+  text-transform: uppercase;
+  padding: 0;
+  margin: 12pt 0 3pt;
+}
+.block_9 {
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 27.5pt;
+  padding: 0;
+  margin: 6pt 0 6pt 8.5pt;
+}
+.block_10 {
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 8.5pt;
+  padding: 0;
+  margin: 6pt 0;
+}
+.block_11 {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 0 50.4pt 0 36pt;
+}
+.block_12 {
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 0 0 0 8.5pt;
+}
+.block_13 {
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 8.5pt;
+  padding: 0;
+  margin: 6pt 50.4pt 6pt 36pt;
+}
+.block_14 {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 8.5pt;
+  padding: 0;
+  margin: 6pt 50.4pt 6pt 36pt;
+}
+.block_15 {
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 36pt;
+  padding: 0;
+  margin: 6pt 0 6pt 8.5pt;
+}
+.block_16 {
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 6pt 0 6pt 36pt;
+}
+.block_17 {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 8.5pt;
+  padding: 0;
+  margin: 0 50.5pt 0 36pt;
+}
+.block_18 {
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 36pt;
+  padding: 0;
+  margin: 0 0 0 8.5pt;
+}
+.block_19 {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 36pt;
+  padding: 0;
+  margin: 0 0 0 8.5pt;
+}
+.block_20 {
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 36pt;
+  padding: 0;
+  margin: 6pt 0 6pt 8.5pt;
+}
+.block_21 {
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  padding: 0;
+  margin: 0;
+}
+.block_22 {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 36pt;
+  padding: 0;
+  margin: 0 0 0 36pt;
+}
+.block_23 {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 0 0 0 36pt;
+}
+.block_24 {
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 0 0 0 36pt;
+}
+.block_25 {
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 0 0 0 8.5pt;
+}
+.block_26 {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 27.5pt;
+  padding: 0;
+  margin: 0 0 0 8.5pt;
+}
+.block_27 {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 0 0 0 8.5pt;
+}
+.block_28 {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 8.5pt;
+  padding: 0;
+  margin: 0 50.4pt 0 36pt;
+}
+.block_29 {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 27.5pt;
+  padding: 0;
+  margin: 6pt 0 6pt 8.5pt;
+}
+.block_30 {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 36pt;
+  padding: 0;
+  margin: 6pt 50.4pt 6pt 36pt;
+}
+.block_31 {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 8.5pt;
+  padding: 0;
+  margin: 6pt 50.4pt 6pt 61.5pt;
+}
+.block_32 {
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 8.5pt;
+  padding: 0;
+  margin: 6pt 50.4pt 6pt 61.5pt;
+}
+.block_33 {
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 8.5pt;
+  padding: 0;
+  margin: 0;
+}
+.block_34 {
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.8em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 8.5pt;
+  padding: 0;
+  margin: 0;
+}
+.calibre {
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 1.25em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  display: block;
+}
+.calibre2 {
+  font-weight: bold;
+}
+.calibre3 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre4 {
+  font-style: italic;
+}
+.calibre5 {
+  text-decoration: none;
+}
+.calibre6 {
+  font-size: 0.875em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre7 {
+  white-space: pre-wrap;
+}
+.calibre8 {
+  display: block;
+  font-size: 0.9em;
+  line-height: 1.2;
+}
+.calibre9 {
+  line-height: 1.2;
+  text-decoration: none;
+}
+.calibre10 {
+  display: block;
+  line-height: 1.2;
+  margin-left: 40px;
+}
+.calibre11 {
+  display: block;
+  line-height: 1.2;
+  margin-left: 40px;
+  page-break-after: avoid;
+}
+.noteref {
+  font-size: 0.85714em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.notes {
+  display: block;
+  line-height: 1.2;
+  margin: 1em 0;
+}
+.notes-header {
+  display: block;
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding: 0;
+  margin: 0;
+}
+.tab {
+  line-height: 1.2;
+  white-space: pre-wrap;
+}
+.tab1 {
+  white-space: pre-wrap;
+}
+.text_ {
+  font-style: italic;
+  font-weight: bold;
+}
+.text_1 {
+  font-size: 0.875em;
+  font-style: italic;
+  line-height: 1.2;
+  vertical-align: super;
+}

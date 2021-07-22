@@ -1,0 +1,236 @@
+/*cover*/
+
+.cover-container{
+	margin: 0 auto;
+	max-width: 500px;
+	page-break-inside: avoid;
+}
+
+.cover-container img {
+	width: 100%;
+}
+
+/*copyright-page*/
+
+
+.press {
+	margin-bottom: 1em;
+}
+
+.copyright-page .copy{
+	margin-top: 1em;
+}
+.copyright-page .publisher{
+	margin-top: 2em;
+}
+
+.copyright-page span{
+	font:normal normal .66em/1.375em;
+	display: block;
+}
+
+.copyright-page .pull {
+	padding-left: .51em;
+}
+
+.copyright-page a{
+	color:#777;
+	text-decoration: none;
+	
+}
+
+/*titlepage*/
+
+.title{
+	text-align: center;
+}
+
+.aut{
+	margin-top: 1.5em;
+	font:normal bold 2.187em/1.2em;
+	text-align: center;
+}
+
+.aut .bfl {
+	font-size: 1.2em;
+}
+
+.work{
+	font:normal bold 3.625em/.75em;
+	margin-top: .5em;
+}
+
+.ceviri{
+	font:normal normal .83em/.6em;
+	margin-top: 2.2em;
+}
+
+.cevirmen{
+	font:normal normal 1em/1.5em;
+	margin-top: .8em;
+}
+
+.seri{
+	font-size: .92em;
+	margin-top: 5em;
+}
+
+
+
+.logo{
+	margin: 3em auto 0 auto;
+}
+
+/*works*/
+
+.works p{
+	margin-top: 5em;
+	font-size: .75em;
+	text-indent: 0;
+}
+
+.works ul {
+	margin-left: 0;
+	padding-left: 0;
+	list-style: none;
+}
+
+.works ul li {
+	font:normal normal .75em/1.57em;
+	padding-bottom: .3em;
+}
+
+/*biography*/
+
+.biography p{
+	font:normal normal .75em/1.42em;
+	text-indent: 0;
+	margin-top: 5em;
+}
+
+/*epigraph*/
+
+.epigraph .container{
+	margin-top: 5em;
+	float: right;
+	max-width: 20em;
+}
+
+.epigraph p{
+	font: normal normal .83em/1.25em;
+	text-align: right;
+}
+
+.yazan{
+	text-align: right;
+	margin:1em 0 2em;
+}
+
+/*introduction*/
+
+.introduction .container{
+	margin-top: 5em;
+}
+
+.introduction h1{
+	font-size: 1.16em;
+}
+
+.introduction p{
+	font:normal normal .79em/1.23em;
+}
+
+
+/*
+CHAPTER
+*/
+
+.chapter .container{
+	margin-top: 5em;
+}
+
+h1{
+	font:normal normal 1.125em;
+	margin: 0;
+	text-align: center;
+}
+
+h1+p{
+	margin-top: 2.5em;
+}
+
+
+h2{
+	font: bold normal 1em;
+	text-indent: 2em;
+	margin-top: 1.5em;
+}
+
+p{
+	font:normal normal .875em/1.27em;
+	margin: 0;
+	text-indent: 2em;
+}
+
+.epigraph{
+	text-align: right;
+	margin: 1.7em 0 1.2em;
+}
+
+.epigraph p{
+	font: normal normal .83em;
+	text-indent: 2em;
+}
+
+.bosluk2{
+	margin-top: 2em;
+}
+
+.tarih{
+	margin-top: 1em;
+	text-align: right;
+}
+
+blockquote{
+	margin:1.5em 0;
+	padding-left: .5em;
+}
+
+blockquote h1{
+	font:normal normal 1em;
+	text-indent: 1.6em;
+	text-align: left;
+	margin-top: 2em;
+}
+
+blockquote p {
+	font:normal normal .875em/1.3em;
+	text-indent: 1.8em;
+	margin-top: 1em;
+}
+
+
+/*common*/
+.si-noteref{
+	text-decoration: none;
+	color: #7A7A7A;
+	font-size: .75em;
+	vertical-align: super;
+	padding-left: .1em;
+	line-height: 1em;
+}
+.si-footnotes{
+	margin:4em 0 1em;
+}
+.si-backref{
+	font-weight: bold;
+	text-decoration: none;
+	color: #000;
+	font-size: 1.1em;
+}
+.si-footnote{
+	font-weight: normal;
+	font-style: normal;
+	font-size: .75em;
+	margin-bottom: .25em;
+}

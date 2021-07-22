@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Demokrasi Nedir?</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Touraine, Alain">Alain Touraine</dc:creator>
+    <dc:cdetype>PDOC</dc:cdetype>
+    <dc:contributor opf:file-as="CompanyName" opf:role="own">Epubor</dc:contributor>
+    <dc:contributor opf:file-as="PersonalName" opf:role="own">Ultimate</dc:contributor>
+    <dc:contributor opf:file-as="eCore" opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:contributor opf:file-as="SiteURL" opf:role="own">http://www.epubor.com</dc:contributor>
+    <dc:coverage/>
+    <dc:date>2016-12-11T21:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Türk okurunun ilk kez "Modernliğin Eleştirisi" (YKY 1994, 1995) adlı kitabıyla tanıdığı Alain Touraine, bu kitabının devamı niteliğindeki "Demokrasi Nedir?"de can alıcı bir soruya yanıtlar sunuyor.&lt;/span&gt;&lt;br style="box-sizing: border-box; orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Toplumbilim alanında birbirinden yetkin ürünler vererek adından övgüyle söz ettiren Touraine, "Demokrasinin Üç Boyutu", "Modern Demokratik Anlayışın Tarihi", "Demokratik Ekin", "Demokrasi ve Gelişme" başlıkları altında, açıklamalara sığmayan bir konu üzerine, birbiri ardına parantezler açıyor:&lt;/span&gt;&lt;br style="box-sizing: border-box; orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;"Demokrasi iki cephede savaşmalı: Bir yandan, yine en güçlülerin hizmetinde bir ideoloji olarak belirme tehlikesiyle karşı karşıya kalabilir; öte yandan adı canının istediğini yapan baskıcı bir iktidarın hizmetinde kullanılabilir. Bu kitabın amacı, bu iki tehlikeye karşı savaşarak siyasal alanın yeniden kurulmasına ve demokratik düşüncelerin yeniden doğmasına yardım etmektir."&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:identifier>urn:uuid:17a9e016-de88-4636-b9ef-637a46a2492f</dc:identifier>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:relation/>
+    <dc:rights/>
+    <dc:source/>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">fd3120a1-6550-42ed-b344-7a398b058df6</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="kapak.xhtml" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.xhtml" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.xhtml" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.xhtml" id="x4" media-type="application/xhtml+xml"/>
+    <item href="4-1.xhtml" id="x4-1" media-type="application/xhtml+xml"/>
+    <item href="4-2.xhtml" id="x4-2" media-type="application/xhtml+xml"/>
+    <item href="4-3.xhtml" id="x4-3" media-type="application/xhtml+xml"/>
+    <item href="4-4.xhtml" id="x4-4" media-type="application/xhtml+xml"/>
+    <item href="4-5.xhtml" id="x4-5" media-type="application/xhtml+xml"/>
+    <item href="4-6.xhtml" id="x4-6" media-type="application/xhtml+xml"/>
+    <item href="4-7.xhtml" id="x4-7" media-type="application/xhtml+xml"/>
+    <item href="4-8.xhtml" id="x4-8" media-type="application/xhtml+xml"/>
+    <item href="4-9.xhtml" id="x4-9" media-type="application/xhtml+xml"/>
+    <item href="4-10.xhtml" id="x4-10" media-type="application/xhtml+xml"/>
+    <item href="4-11.xhtml" id="x4-11" media-type="application/xhtml+xml"/>
+    <item href="4-12.xhtml" id="x4-12" media-type="application/xhtml+xml"/>
+    <item href="4-13.xhtml" id="x4-13" media-type="application/xhtml+xml"/>
+    <item href="4-14.xhtml" id="x4-14" media-type="application/xhtml+xml"/>
+    <item href="4-15.xhtml" id="x4-15" media-type="application/xhtml+xml"/>
+    <item href="4-16.xhtml" id="x4-16" media-type="application/xhtml+xml"/>
+    <item href="4-17.xhtml" id="x4-17" media-type="application/xhtml+xml"/>
+    <item href="4-18.xhtml" id="x4-18" media-type="application/xhtml+xml"/>
+    <item href="4-19.xhtml" id="x4-19" media-type="application/xhtml+xml"/>
+    <item href="4-20.xhtml" id="x4-20" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="image/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x4-1"/>
+    <itemref idref="x4-2"/>
+    <itemref idref="x4-3"/>
+    <itemref idref="x4-4"/>
+    <itemref idref="x4-5"/>
+    <itemref idref="x4-6"/>
+    <itemref idref="x4-7"/>
+    <itemref idref="x4-8"/>
+    <itemref idref="x4-9"/>
+    <itemref idref="x4-10"/>
+    <itemref idref="x4-11"/>
+    <itemref idref="x4-12"/>
+    <itemref idref="x4-13"/>
+    <itemref idref="x4-14"/>
+    <itemref idref="x4-15"/>
+    <itemref idref="x4-16"/>
+    <itemref idref="x4-17"/>
+    <itemref idref="x4-18"/>
+    <itemref idref="x4-19"/>
+    <itemref idref="x4-20"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

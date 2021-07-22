@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Camus, Albert">Albert Camus</dc:creator>
+<dc:date>2000-02-06T22:00:00+00:00</dc:date>
+    <dc:identifier id="pub-id">urn:isbn:9789750720109</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor id="translator">Hüseyin Demirhan</dc:contributor>
+    <meta name="cover" content="image__coverjpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-05-31</dc:date>
+  <dc:title>Düşüş</dc:title>
+<meta name="calibre:title_sort" content="Düşüş"/>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:description>&lt;p&gt;Albert Camus çağdaş düşün ve yazın dünyasındaki saygın yerini yalnızca oyunlarıyla da, yalnızca "Sisifos Söyleni" ve "Başkaldıran İnsan"la da alırdı belki. Ama Camus'yü Camus yapan öncelikle anlatı yapıtlarıdır. "Yabancı" (1942), "Veba" (1947) ve "Düşüş"se (1956) bu yapıtlar arasında üç büyük doruktur. Ancak, kimi yazınseverler bu üç başyapıt arasında daha çok "Düşüş"ü yeğlerler. Bu kitap, herhangi bir düşünce ya da savı özellikle öne çıkarmaya çalışmadan, yalın bir anlatım ve özgün bir kurgu içinde, zengin bir düşünce duygu yüküyle, çağdaş dünyayı ve insanlarını derinlemesine sorgulayıp yargılar, çirkinliklerini ve düşkünlüklerini sergiler. Ama, aynı zamanda, bu dünyada yaşayan, dolayısıyla şu ya da bu biçimde, şu ya da bu ölçüde onun sorumluluğunu taşıyan bireyler olarak tek tek her birimize bir ayna tutar, eski avukat Jean-Baptiste Clamence'ın öyküsü aracılığıyla, bize kendini tehlikeye atmadan yaşayanların, yani hepimizin ve her birimizin benzersiz öyküsünü anlatır. "Düşüş"ün yayımlanmasından bir yıl sonra Camus'nün Nobel Ödülünü kazanması bir rastlantı olmasa gerek
+&lt;/p&gt;</dc:description>
+<dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Albert Camus&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="calibre">699636f2-6572-4829-9108-0ae592e9faed</dc:identifier>
+<dc:identifier xmlns:ns4="http://www.idpf.org/2007/opf" ns4:scheme="ISBN">9789750720109</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="chapter6xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="maincss" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="Fonts/BerlingLTStd-Italic.ttf" id="font__BerlingLTStd-Italicttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSansStd-Italic.ttf" id="font__GillSansStd-Italicttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSansStd-Light.ttf" id="font__GillSansStd-Lightttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GillSansStd.ttf" id="font__GillSansStdttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/GoudyCatTReg.ttf" id="font__GoudyCatTRegttf" media-type="application/x-font-ttf"/>
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+  </spine>
+</package>

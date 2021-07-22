@@ -1,0 +1,49 @@
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre2 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre3 {
+    font-size: 22pt;
+    line-height: 1.2
+    }
+.calibre4 {
+    display: block;
+    text-indent: 1em;
+    margin: 1em 0 0
+    }
+.calibre5 {
+    display: block;
+    text-indent: 1em;
+    margin: 11pt 0 0
+    }
+.calibre6 {
+    display: block;
+    text-indent: -19pt;
+    margin: 1em 0 0 19pt
+    }
+.calibre7 {
+    display: block;
+    text-indent: -19pt;
+    margin: 0 0 0 19pt
+    }
+.mbppagebreak {
+    display: block;
+    margin: 0
+    }

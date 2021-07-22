@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Cesur Yeni Dünya</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Aldous Huxley</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Birinci Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>İkinci Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Üçüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Dördüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum4.xhtml"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/bolum4.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/Section0001.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Beşinci Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum5.xhtml"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/bolum5.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Altıncı Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum6.xhtml"/>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/bolum6.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Yedinci Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Sekizinci Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum8.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Dokuzuncu Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum9.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Onuncu Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Onbirinci Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Onikinci Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Onüçüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Ondördüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Onbeşinci Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Onaltıncı Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Onyedinci Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Onsekizinci Bölüm</text>
+      </navLabel>
+      <content src="Text/bolum18.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>EK</text>
+      </navLabel>
+      <content src="Text/ek.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

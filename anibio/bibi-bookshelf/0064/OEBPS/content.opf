@@ -1,0 +1,152 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Bender, Aimee">Aimee Bender</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:de771f9c-3230-468f-ad89-529d31de2515</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2013-05-27T21:00:00+00:00</dc:date>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="Limonlu Pastanın Sıradışı Hüznü" name="calibre:title_sort"/>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;Bir gün, mutsuzluğu, acıları ve arzuları, en derindeki sırları görme yeteneğin olduğunu keşfetseydin... Bir gün, sana gülümseyen yüzlerin ardını görüp sana en yakın kişinin yüreğinde kilitlediği kapıları aralasaydın, ne yapardın?.. Büyümenin eşiğindeki Rose için hayat, bir sabah geri dönülmezcesine değişir. Zira annesinin yaptığı limonlu pastadan aldığı bir lokmayla, sadece yemeği değil, onu pişiren kişinin duygularını da tatmakta olduğunu anlar... Olağanüstü yeteneği, aynı zamanda derin bir kaygı ve hüznü de beraberinde getirir; çünkü her zaman neşeli, güler yüzlü ve sevecen biri olarak bildiği annesi, kalbinde sarsıcı bir gerçek saklamakta, ailesinden ayrı ikinci bir hayat yaşamaktadır... Çok geçmeden babası ve ağabeyinin de çok özel yetenekleri olduğunu anlar. Her üçü için de bu yetenek, kimi zaman bir mucizeye kimi zaman da yakalarını kurtaramadıkları bir illete dönüşecektir. Hemen her ailenin üstünü örttüğü gerçekleri, duyarlı ve yetenekli bir genç kızın büyüme öyküsü eşliğinde anlatan acı, tatlı ama her sayfası büyülü bir şehir masalı... "Kitap o kadar güzel ki, tadını daha iyi alabilmek için bitirir bitirmez tekrar okumaya başladım." Jodı Pıcoult&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Aimee Bender&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2014-05-31</dc:date>
+  <dc:title>Limonlu Pastanın Sıradışı Hüznü</dc:title>
+<dc:subject>Fantastik</dc:subject>
+<dc:subject>Yetişkin</dc:subject>
+<dc:subject>Yemek</dc:subject>
+<dc:subject>Büyülü Gerçeklik</dc:subject>
+<dc:language>en</dc:language>
+<dc:identifier opf:scheme="calibre">33e73c1d-4d83-42e8-b10b-8f06615fad5c</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750719875</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:de771f9c-3230-468f-ad89-529d31de2515</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Text/acknowledgments.xhtml" id="acknowledgments.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/biography.xhtml" id="biography.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="chapter1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter10.xhtml" id="chapter10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter11.xhtml" id="chapter11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter12.xhtml" id="chapter12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter13.xhtml" id="chapter13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter14.xhtml" id="chapter14.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter15.xhtml" id="chapter15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter16.xhtml" id="chapter16.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter17.xhtml" id="chapter17.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter18.xhtml" id="chapter18.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter19.xhtml" id="chapter19.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="chapter2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter20.xhtml" id="chapter20.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter21.xhtml" id="chapter21.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter22.xhtml" id="chapter22.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter23.xhtml" id="chapter23.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter24.xhtml" id="chapter24.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter25.xhtml" id="chapter25.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter26.xhtml" id="chapter26.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter27.xhtml" id="chapter27.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter28.xhtml" id="chapter28.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter29.xhtml" id="chapter29.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="chapter3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter30.xhtml" id="chapter30.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter31.xhtml" id="chapter31.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter32.xhtml" id="chapter32.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter33.xhtml" id="chapter33.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter34.xhtml" id="chapter34.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter35.xhtml" id="chapter35.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter36.xhtml" id="chapter36.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter37.xhtml" id="chapter37.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter38.xhtml" id="chapter38.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter39.xhtml" id="chapter39.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="chapter4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter40.xhtml" id="chapter40.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter41.xhtml" id="chapter41.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter42.xhtml" id="chapter42.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter43.xhtml" id="chapter43.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter44.xhtml" id="chapter44.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter45.xhtml" id="chapter45.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter46.xhtml" id="chapter46.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter47.xhtml" id="chapter47.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="chapter5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="chapter6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter7.xhtml" id="chapter7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter8.xhtml" id="chapter8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter9.xhtml" id="chapter9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/epigraph.xhtml" id="epigraph.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part1.xhtml" id="part1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part2.xhtml" id="part2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part3.xhtml" id="part3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part4.xhtml" id="part4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="biography.xhtml"/>
+    <itemref idref="epigraph.xhtml"/>
+    <itemref idref="dedication.xhtml"/>
+    <itemref idref="part1.xhtml"/>
+    <itemref idref="chapter1.xhtml"/>
+    <itemref idref="chapter2.xhtml"/>
+    <itemref idref="chapter3.xhtml"/>
+    <itemref idref="chapter4.xhtml"/>
+    <itemref idref="chapter5.xhtml"/>
+    <itemref idref="chapter6.xhtml"/>
+    <itemref idref="chapter7.xhtml"/>
+    <itemref idref="chapter8.xhtml"/>
+    <itemref idref="chapter9.xhtml"/>
+    <itemref idref="chapter10.xhtml"/>
+    <itemref idref="chapter11.xhtml"/>
+    <itemref idref="chapter12.xhtml"/>
+    <itemref idref="part2.xhtml"/>
+    <itemref idref="chapter13.xhtml"/>
+    <itemref idref="chapter14.xhtml"/>
+    <itemref idref="chapter15.xhtml"/>
+    <itemref idref="chapter16.xhtml"/>
+    <itemref idref="chapter17.xhtml"/>
+    <itemref idref="chapter18.xhtml"/>
+    <itemref idref="chapter19.xhtml"/>
+    <itemref idref="chapter20.xhtml"/>
+    <itemref idref="chapter21.xhtml"/>
+    <itemref idref="chapter22.xhtml"/>
+    <itemref idref="chapter23.xhtml"/>
+    <itemref idref="chapter24.xhtml"/>
+    <itemref idref="chapter25.xhtml"/>
+    <itemref idref="chapter26.xhtml"/>
+    <itemref idref="chapter27.xhtml"/>
+    <itemref idref="chapter28.xhtml"/>
+    <itemref idref="part3.xhtml"/>
+    <itemref idref="chapter29.xhtml"/>
+    <itemref idref="chapter30.xhtml"/>
+    <itemref idref="chapter31.xhtml"/>
+    <itemref idref="chapter32.xhtml"/>
+    <itemref idref="chapter33.xhtml"/>
+    <itemref idref="chapter34.xhtml"/>
+    <itemref idref="part4.xhtml"/>
+    <itemref idref="chapter35.xhtml"/>
+    <itemref idref="chapter36.xhtml"/>
+    <itemref idref="chapter37.xhtml"/>
+    <itemref idref="chapter38.xhtml"/>
+    <itemref idref="chapter39.xhtml"/>
+    <itemref idref="chapter40.xhtml"/>
+    <itemref idref="chapter41.xhtml"/>
+    <itemref idref="chapter42.xhtml"/>
+    <itemref idref="chapter43.xhtml"/>
+    <itemref idref="chapter44.xhtml"/>
+    <itemref idref="chapter45.xhtml"/>
+    <itemref idref="chapter46.xhtml"/>
+    <itemref idref="chapter47.xhtml"/>
+    <itemref idref="acknowledgments.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

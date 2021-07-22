@@ -1,0 +1,61 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Asturya'da İsyan</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Camus, Albert">Albert Camus</dc:creator>
+    <dc:creator opf:role="yazan" opf:file-as="Camus, Albert">Albert Camus</dc:creator>
+    <dc:creator opf:role="yazar">Albert Camus</dc:creator>
+    <dc:contributor opf:role="Çeviren">Ayberk Erkay</dc:contributor>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor opf:role="Hazırlayan">[sardav25]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">11dd257c-f09b-4a8d-86c6-742d8b71f981</dc:identifier>
+    <meta name="Sigil version" content="0.9.7"/>
+    <meta name="calibre:title_sort" content="Asturya'da İsyan"/>
+    <meta name="calibre:author_link_map" content="{&quot;Albert Camus&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover-image"/>
+  </metadata>
+  <manifest>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0006.xhtml" href="Text/Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0007.xhtml" href="Text/Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0008.xhtml" href="Text/Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0009.xhtml" href="Text/Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0010.xhtml" href="Text/Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0011.xhtml" href="Text/Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0012.xhtml" href="Text/Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0013.xhtml" href="Text/Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0014.xhtml" href="Text/Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0015.xhtml" href="Text/Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id10" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id9" href="Styles/main.css" media-type="text/css"/>
+    <item id="can.png" href="Images/can.png" media-type="image/png"/>
+    <item id="cover-image" href="Images/cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id10">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/Section0001.xhtml"/>
+  </guide>
+</package>

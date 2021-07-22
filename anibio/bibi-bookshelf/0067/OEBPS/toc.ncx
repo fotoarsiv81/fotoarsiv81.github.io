@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="fbb7e7e6-f43f-4a75-aeb5-557e7640ec3a" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Yeni Ortaçağ</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>YENİ ORTAÇAĞ</text>
+      </navLabel>
+      <content src="Text/ACMAYA_CALISTIGIMIZ_KAPININ_split_000.html" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>KAOS KITASI</text>
+      </navLabel>
+      <content src="Text/ACMAYA_CALISTIGIMIZ_KAPININ_split_000.html#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>MERKEZİ OLMAYAN BİR DÜNYA</text>
+      </navLabel>
+      <content src="Text/ACMAYA_CALISTIGIMIZ_KAPININ_split_000.html#sigil_toc_id_2" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>GRİ ŞİRKETLERİN ZAFERİ</text>
+      </navLabel>
+      <content src="Text/ACMAYA_CALISTIGIMIZ_KAPININ_split_000.html#sigil_toc_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>MANTIK EN ALT NOKTASINDA</text>
+      </navLabel>
+      <content src="Text/ACMAYA_CALISTIGIMIZ_KAPININ_split_000.html#sigil_toc_id_4" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>SPAZMLAR ÇAĞI</text>
+      </navLabel>
+      <content src="Text/ACMAYA_CALISTIGIMIZ_KAPININ_split_000.html#sigil_toc_id_5" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>İHTİLALLERİN GERİ DÖNÜŞÜ</text>
+      </navLabel>
+      <content src="Text/ACMAYA_CALISTIGIMIZ_KAPININ_split_000.html#sigil_toc_id_6" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>KRİZ SANATI</text>
+      </navLabel>
+      <content src="Text/ACMAYA_CALISTIGIMIZ_KAPININ_split_000.html#sigil_toc_id_7" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>DÜZEN VE OTORİTE ARAYIŞI MODERN YILLARIN SONU</text>
+      </navLabel>
+      <content src="Text/ACMAYA_CALISTIGIMIZ_KAPININ_split_000.html#sigil_toc_id_8" />
+    </navPoint>
+  </navMap>
+</ncx>

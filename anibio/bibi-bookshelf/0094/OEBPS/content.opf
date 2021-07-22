@@ -1,0 +1,114 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Huxley, Aldous">Aldous Huxley</dc:creator>
+<dc:description>&lt;p&gt;Aldous Huxley, dünya edebiyatında “düşünce edebiyatı” denen türün başlatıcılarındandır. Huxley, koyunların tiroid guddelerinden Kızılderililerin totemlerine, fosforun yeryüzünden eksilmesinden Mozart müziğinin en ince ayrıntılarına kadar birçok konuda bilgi sahibi bir yazardır. Böyle bir yazarın romanlarında, düşüncenin, romanın öteki öğelerinden daha ağır basacağı besbellidir. Huxley’nin yarattığı kişiler, kendi görüşlerinin ya da düşüncelerinin birer sözcüsü gibidir çoğu zaman. O, bir elinde neşter, bir elinde not defteri, bir yandan yarattığı kişiler üzerinde ustaca ameliyatlar yaparken, bir yandan da bilimsel bir titizlikle notlar tutar. Bu arada yazarın büyük gözlem ve alay gücü de gözden kaçacak gibi değildir. Ses Sese Karşı’da, bir müzik parçasında çeşitli ezgilerin kaynaşması gibi birbiriyle kaynaşan çeşitli kişiler, çeşitli durumlar, çeşitli görüşler yer alır. Huxley’nin belki de en ünlü romanı olan Ses Sese Karşı’nın gerçek yeniliği, geleneksel romanlar gibi bir ya da iki kişi üstüne değil, birbirleriyle yakından veya uzaktan ilgisi ve her biri romancının gözünde aşağı yukarı aynı öneme sahip on beş-yirmi kişi üzerine kurulmuş olmasıdır. Bu kişilerin çoğu, can sıkıntısı içinde, neye inanacaklarını ve kendilerine hangi değerlere göre bir yön seçeceklerini bilmedikleri için bocalayıp duran, umudunu yitirmiş orta ya da üst sınıf aydınlarıdır. Ses Sese Karşı, düşünsel çerçevesi ve gözlem derinliğiyle, dünya edebiyatındaki toplumsal panorama romanlarının en ünlü ve önemli örneklerinden biridir.&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid">{9E3D3D65-22C3-4B4C-B222-8B89FA87749E}</dc:identifier>
+    <dc:date>2014-12-26T22:00:00+00:00</dc:date>
+    <dc:publisher>İletişim Yayıncılık</dc:publisher>
+    <meta name="cover" content="cover"/>
+    <meta content="0.8.2" name="Sigil version"/>
+    <meta content="Ses Sese Karşı" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Aldous Huxley&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-12-27</dc:date>
+  <dc:title>Ses Sese Karşı</dc:title>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">06c84e5f-9062-414e-8e01-81e777952dd3</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754701760</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0021.xhtml" id="Section0021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0024.xhtml" id="Section0024.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0026.xhtml" id="Section0026.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0028.xhtml" id="Section0028.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-12.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id14" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id13" media-type="text/css"/>
+    <item href="Images/ssk.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="main-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="main-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="main-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="main-6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="main-7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0019.xhtml" id="Section0019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0020.xhtml" id="Section0020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-9.xhtml" id="main-9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0022.xhtml" id="Section0022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0023.xhtml" id="Section0023.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-10.xhtml" id="main-10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0025.xhtml" id="Section0025.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-11.xhtml" id="main-11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0027.xhtml" id="Section0027.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id14">
+    <itemref idref="titlepage"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="main-2.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="main-4.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="main-5.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="main-6.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="main-7.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="Section0019.xhtml"/>
+    <itemref idref="Section0020.xhtml"/>
+    <itemref idref="Section0021.xhtml"/>
+    <itemref idref="main-9.xhtml"/>
+    <itemref idref="Section0022.xhtml"/>
+    <itemref idref="Section0023.xhtml"/>
+    <itemref idref="Section0024.xhtml"/>
+    <itemref idref="main-10.xhtml"/>
+    <itemref idref="Section0025.xhtml"/>
+    <itemref idref="Section0026.xhtml"/>
+    <itemref idref="main-11.xhtml"/>
+    <itemref idref="Section0027.xhtml"/>
+    <itemref idref="Section0028.xhtml"/>
+    <itemref idref="id12"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

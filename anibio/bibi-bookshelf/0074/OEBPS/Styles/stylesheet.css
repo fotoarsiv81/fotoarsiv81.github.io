@@ -1,0 +1,154 @@
+.alintimetni {
+    display: block;
+    text-align: left;
+    margin: 1em 0
+    }
+.anametin {
+    display: block;
+    text-indent: 35.45pt;
+    margin: 1em 0
+    }
+.anametin1 {
+    display: block;
+    text-align: right;
+    margin: 1em 0
+    }
+.anametin2 {
+    display: block;
+    text-indent: -18pt;
+    margin: 1em 0 1em 30.2pt
+    }
+.baslik {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.Baslik1_altbilgi {
+    display: block;
+    text-align: center;
+    margin: 1em 0
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-weight: bold
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre4 {
+    font-style: italic
+    }
+.calibre5 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre6 {
+    text-align: right
+    }
+.calibre7 {
+    line-height: 1.2
+    }
+.calibre8 {
+    font-size: 0.83333em
+    }
+.calibre9 {
+    font-size: 1em
+    }
+.calibre10 {
+    font-size: 1.29167em;
+    line-height: 1.2
+    }
+.calibre11 {
+    color: gray;
+    display: block;
+    height: 2px;
+    border: currentColor inset 1px;
+    margin: 0.5em auto
+    }
+.calibre12 {
+    color: black;
+    font-size: 1em
+    }
+.calibre13 {
+    font-size: 0.75em
+    }
+.calibre14 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre15 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre16 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre17 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.calibre18 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: sub
+    }
+.calibre19 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre20 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre21 {
+    font-family: Symbol
+    }
+.calibre22 {
+    color: gray;
+    display: block;
+    height: 2px;
+    text-align: left;
+    border-top: currentColor solid 1px;
+    border-right: currentColor none 1px;
+    border-bottom: currentColor none 1px;
+    border-left: currentColor none 1px;
+    margin: 0.5em auto
+    }
+.KapakBaslik {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0
+    }
+.MsoFootnoteReference {
+    vertical-align: baseline
+    }
+.MsoFootnoteReference1 {
+    color: black
+    }
+.page-top-links {
+    display: block;
+    text-align: center
+    }

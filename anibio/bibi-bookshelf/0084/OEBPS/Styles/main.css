@@ -1,0 +1,179 @@
+@font-face {
+	font-family:"Berling";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/BerlingLTStd-Roman.ttf") format("truetype");
+}
+@font-face {
+	font-family:"Berling";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/BerlingLTStd-Italic.ttf") format("truetype");
+}
+@font-face {
+	font-family:"Gill";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/GillSansStd-Italic.ttf") format("truetype");
+}
+
+@font-face {
+	font-family:"Gill";
+	font-style: normal;
+	font-weight: normal;
+	src : url("../Fonts/GillSansStd.ttf") format("truetype");
+}
+@font-face {
+	font-family:"Goudy";
+	font-style: normal;
+	font-weight: normal;
+	src : url("../Fonts/GoudyCatTReg.ttf") format("truetype");
+}
+
+
+/*
+ *chapter
+ */
+
+h1{
+	font-family:Berling;
+	font-size:1.4em;
+	font-weight:normal;
+	text-align:center;
+	margin-top:3em;
+}
+
+p{
+	font-family:Berling;
+	font-size:0.875em;
+	line-height:1.4em;
+	margin:0;
+	text-indent:1.5em;
+}
+
+.double{
+	margin-top: 2em;
+}
+.margin-top{
+	margin-top: 1em;
+}
+.epigraph{
+	float: right;
+	width: 75%;
+	margin-top: 3em;
+}
+.epigraph p{
+	font-size: .83em;
+	text-align: right;
+}
+.top{
+	margin-top: 3em;
+}
+/*other*/
+.kunye span{
+  font-family: Gill;
+  font-size:0.667em;
+  display: block;
+}
+.copy{
+  margin: .8em 0 0 ;
+}
+.kunye a{
+	text-decoration: none;
+  color: #7A7A7A;
+}
+.title{
+  text-align: center;
+}
+.aut{
+  font-family: Goudy;
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+.aut span{
+  font-size: 1.15em;
+}
+.work{
+  font-family: Goudy;
+  font-size: 3.2em;
+  margin-top: 0;
+}
+
+.seri{
+  font-family: Gill;
+  font-size: .92em;
+  margin-top: 2.5em
+}
+.win{
+	 font-family: Gill;
+  font-size: 1.05em;
+  margin-top: 1.5em
+}
+.trans{
+  font-family: Gill;
+  font-size: .9em;
+  margin-top: 1.5em;
+  line-height: 1.6em
+}
+.trans span{
+  font-size: 1.2em;
+  
+}
+.logo{
+  margin: 3em auto 0 auto;
+  
+}
+.cover-container img{
+  max-width: 100%;
+}
+.cover-container{
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+.biography p{
+  font-family: Gill;
+  font-weight: normal;
+  font-size: .75em;
+  text-indent: 0;
+}
+li{
+font-family: Gill;
+font-weight: normal;
+font-size: .75em;
+list-style: none;
+padding-bottom: .5em;
+}
+ul{
+	margin: 1.5em 0 0;
+	padding:0;
+}
+.books h1{
+font-family: Gill;
+font-weight: normal;
+font-size: .75em;
+text-align: left;
+}
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+	margin:4em 0 1em;
+}
+.si-backref{
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #000;
+}
+.si-footnote{
+	font-family: Gill;
+	font-size: .8em;
+	margin-bottom: .3em;
+}
+

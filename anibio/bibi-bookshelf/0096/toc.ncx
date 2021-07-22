@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="077d3b2d-3fd3-44ca-acbc-2376e0612d37" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Boris Godunov</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="9c892b17-af19-491e-a2f4-e19581f8c874" playOrder="1">
+      <navLabel>
+        <text>Kişiler</text>
+      </navLabel>
+      <content src="kitap_split_003.html"/>
+    </navPoint>
+    <navPoint id="4f0f8ab3-3cab-41ac-b6d7-c9a5fa689526" playOrder="2">
+      <navLabel>
+        <text>BORİS GODUNOV</text>
+      </navLabel>
+      <content src="kitap_split_004.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

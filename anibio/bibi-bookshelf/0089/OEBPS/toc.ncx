@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:050c1833-2fc5-4e5c-b353-3f9da84b1510" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tutkular ve Çıkarlar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Epigraf</text>
+      </navLabel>
+      <content src="Text/epigraf.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/onsoz.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>YİRMİNCİ YILDÖNÜMÜ BASIMINA YAZARIN ÖNSÖZÜ</text>
+      </navLabel>
+      <content src="Text/yazarinonsozu.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>TEŞEKKÜRLER</text>
+      </navLabel>
+      <content src="Text/tesekkur.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>TUTKULAR VE ÇIKARLAR</text>
+      </navLabel>
+      <content src="Text/baslangic.htm"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>GİRİŞ</text>
+        </navLabel>
+        <content src="Text/giris.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>BİRİNCİ BÖLÜM Tutkulara Karşı Çıkarlara Başvurulması</text>
+        </navLabel>
+        <content src="Text/part1.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM İktisadi Genişleme Siyasal Düzeni Nasıl İyileştirecekti?</text>
+        </navLabel>
+        <content src="Text/part2.htm"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>ÜÇÜNCÜ BÖLÜM Düşünce Tarihinde Bir Dönem Üzerine Düşünceler</text>
+        </navLabel>
+        <content src="Text/part3.htm"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

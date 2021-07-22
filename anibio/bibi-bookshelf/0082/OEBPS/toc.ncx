@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="77f03077-ca15-4c28-8937-15483a1a8d52" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.32.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sürgün ve Krallık</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Aldatan Kadın</text>
+      </navLabel>
+      <content src="Text/Surgun_ve_Krallik_split_006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Dönme ya da Karışık Bir Kafa</text>
+      </navLabel>
+      <content src="Text/Surgun_ve_Krallik_split_007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Dilsizler</text>
+      </navLabel>
+      <content src="Text/Surgun_ve_Krallik_split_008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Konuk</text>
+      </navLabel>
+      <content src="Text/Surgun_ve_Krallik_split_009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Jonas ya da Resim Yapan Ressam</text>
+      </navLabel>
+      <content src="Text/Surgun_ve_Krallik_split_010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Büyüyen Taş</text>
+      </navLabel>
+      <content src="Text/Surgun_ve_Krallik_split_011.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

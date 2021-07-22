@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="4f9db17f-5b8d-400a-b4e1-9edf64b9d8c6" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.12)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>İnsan Ruhunun Haritası</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="8b6b5c73-bc8e-4540-80a0-ea7d76130dc1" playOrder="1">
+      <navLabel>
+        <text>Başla</text>
+      </navLabel>
+      <content src="titlepage.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789750720338"/>
+      <meta name="dtb:depth" content="2"/>
+      <meta name="dtb:generator" content="Sistematik epub-tools"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Mutlu Ölüm</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Mutlu Ölüm ’ün Oluşumu</text>
+         </navLabel>
+         <content src="introduction.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>Birinci kısım - DOĞAL ÖLÜM</text>
+         </navLabel>
+         <content src="part1.xhtml"/>
+         <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+               <text>Birinci bölüm</text>
+            </navLabel>
+            <content src="chapter1-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+               <text>İkinci bölüm</text>
+            </navLabel>
+            <content src="chapter1-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+               <text>Üçüncü bölüm</text>
+            </navLabel>
+            <content src="chapter1-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+               <text>Dördüncü bölüm</text>
+            </navLabel>
+            <content src="chapter1-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+               <text>Beşinci bölüm</text>
+            </navLabel>
+            <content src="chapter1-5.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>İkinci kısım - BİLİNÇLİ ÖLÜM</text>
+         </navLabel>
+         <content src="part2.xhtml"/>
+         <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+               <text>Birinci bölüm</text>
+            </navLabel>
+            <content src="chapter2-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+               <text>İkinci bölüm</text>
+            </navLabel>
+            <content src="chapter2-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+               <text>Üçüncü bölüm</text>
+            </navLabel>
+            <content src="chapter2-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+               <text>Dördüncü bölüm</text>
+            </navLabel>
+            <content src="chapter2-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+               <text>Beşinci bölüm</text>
+            </navLabel>
+            <content src="chapter2-5.xhtml"/>
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>

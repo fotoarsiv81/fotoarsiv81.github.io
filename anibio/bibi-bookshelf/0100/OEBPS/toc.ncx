@@ -1,0 +1,2283 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:fc2660b5-2190-41cd-a9ee-ba88eb3ce2c6" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>[Title here]</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>YEVGENİ ONEGİN</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml#sigil_toc_id_1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/Section0013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/Section0014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/Section0015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/Section0016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/Section0017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="Text/Section0018.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="Text/Section0019.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/Section0020.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/Section0021.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="Text/Section0022.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="Text/Section0023.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>XXII</text>
+        </navLabel>
+        <content src="Text/Section0024.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>XXIII</text>
+        </navLabel>
+        <content src="Text/Section0025.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>XXIV</text>
+        </navLabel>
+        <content src="Text/Section0026.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>XXV</text>
+        </navLabel>
+        <content src="Text/Section0027.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>XXVI</text>
+        </navLabel>
+        <content src="Text/Section0028.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>XXVII</text>
+        </navLabel>
+        <content src="Text/Section0029.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>XXVIII</text>
+        </navLabel>
+        <content src="Text/Section0030.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>XXIX</text>
+        </navLabel>
+        <content src="Text/Section0031.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>XXX</text>
+        </navLabel>
+        <content src="Text/Section0032.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>XXXI</text>
+        </navLabel>
+        <content src="Text/Section0033.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>XXXII</text>
+        </navLabel>
+        <content src="Text/Section0034.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>XXXIII</text>
+        </navLabel>
+        <content src="Text/Section0035.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>XXXIV</text>
+        </navLabel>
+        <content src="Text/Section0036.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>XXXV</text>
+        </navLabel>
+        <content src="Text/Section0037.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>XXXVI</text>
+        </navLabel>
+        <content src="Text/Section0038.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>XXXVII</text>
+        </navLabel>
+        <content src="Text/Section0039.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>XXXVIII</text>
+        </navLabel>
+        <content src="Text/Section0040.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>XLIII</text>
+        </navLabel>
+        <content src="Text/Section0042.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>XLIV</text>
+        </navLabel>
+        <content src="Text/Section0043.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>XLVI</text>
+        </navLabel>
+        <content src="Text/Section0045.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>XLVII</text>
+        </navLabel>
+        <content src="Text/Section0046.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>XLVIII</text>
+        </navLabel>
+        <content src="Text/Section0047.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>XLIX</text>
+        </navLabel>
+        <content src="Text/Section0048.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>L</text>
+        </navLabel>
+        <content src="Text/Section0049.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>LI</text>
+        </navLabel>
+        <content src="Text/Section0050.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>LII</text>
+        </navLabel>
+        <content src="Text/Section0051.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>LIII</text>
+        </navLabel>
+        <content src="Text/Section0052.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>LIV</text>
+        </navLabel>
+        <content src="Text/Section0053.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>LV</text>
+        </navLabel>
+        <content src="Text/Section0054.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>LVI</text>
+        </navLabel>
+        <content src="Text/Section0055.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>LVII</text>
+        </navLabel>
+        <content src="Text/Section0056.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>LVIII</text>
+        </navLabel>
+        <content src="Text/Section0057.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>LIX</text>
+        </navLabel>
+        <content src="Text/Section0058.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>LX</text>
+        </navLabel>
+        <content src="Text/Section0059.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Section0060.xhtml"/>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/Section0060.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/Section0061.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/Section0062.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/Section0063.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/Section0064.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/Section0065.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/Section0066.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/Section0067.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/Section0068.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/Section0069.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/Section0070.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/Section0071.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/Section0072.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/Section0073.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/Section0074.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="Text/Section0075.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="Text/Section0076.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/Section0077.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/Section0078.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="Text/Section0079.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="Text/Section0080.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>XXII</text>
+        </navLabel>
+        <content src="Text/Section0081.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>XXIII</text>
+        </navLabel>
+        <content src="Text/Section0082.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>XXIV</text>
+        </navLabel>
+        <content src="Text/Section0083.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>XXV</text>
+        </navLabel>
+        <content src="Text/Section0084.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>XXVI</text>
+        </navLabel>
+        <content src="Text/Section0085.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>XXVII</text>
+        </navLabel>
+        <content src="Text/Section0086.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>XXVIII</text>
+        </navLabel>
+        <content src="Text/Section0087.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>XXIX</text>
+        </navLabel>
+        <content src="Text/Section0088.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>XXX</text>
+        </navLabel>
+        <content src="Text/Section0089.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>XXXI</text>
+        </navLabel>
+        <content src="Text/Section0090.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>XXXII</text>
+        </navLabel>
+        <content src="Text/Section0091.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>XXXIII</text>
+        </navLabel>
+        <content src="Text/Section0092.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>XXXIV</text>
+        </navLabel>
+        <content src="Text/Section0093.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>XXXV</text>
+        </navLabel>
+        <content src="Text/Section0094.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>XXXVI</text>
+        </navLabel>
+        <content src="Text/Section0095.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>XXXVII</text>
+        </navLabel>
+        <content src="Text/Section0096.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>XXXVIII</text>
+        </navLabel>
+        <content src="Text/Section0097.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>XXXIX</text>
+        </navLabel>
+        <content src="Text/Section0098.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>XL</text>
+        </navLabel>
+        <content src="Text/Section0099.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Section0100.xhtml"/>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/Section0100.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/Section0101.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/Section0102.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/Section0103.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/Section0104.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/Section0105.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/Section0106.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/Section0107.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/Section0108.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/Section0109.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/Section0110.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/Section0111.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/Section0112.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/Section0113.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/Section0114.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="Text/Section0115.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="Text/Section0116.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/Section0117.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/Section0118.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="Text/Section0119.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="Text/Section0120.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>XXII</text>
+        </navLabel>
+        <content src="Text/Section0121.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>XXIII</text>
+        </navLabel>
+        <content src="Text/Section0122.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>XXIV</text>
+        </navLabel>
+        <content src="Text/Section0123.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>XXV</text>
+        </navLabel>
+        <content src="Text/Section0124.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>XXVI</text>
+        </navLabel>
+        <content src="Text/Section0125.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>XXVII</text>
+        </navLabel>
+        <content src="Text/Section0126.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>XXVIII</text>
+        </navLabel>
+        <content src="Text/Section0127.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/Section0128.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>XXX</text>
+        </navLabel>
+        <content src="Text/Section0129.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>XXXI</text>
+        </navLabel>
+        <content src="Text/Section0130.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>TATYANA'NIN ONEGİN 'E MEKTUBU</text>
+        </navLabel>
+        <content src="Text/Section0131.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>XXXII</text>
+        </navLabel>
+        <content src="Text/Section0135.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>XXXIII</text>
+        </navLabel>
+        <content src="Text/Section0136.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>XXXIV</text>
+        </navLabel>
+        <content src="Text/Section0137.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>XXXV</text>
+        </navLabel>
+        <content src="Text/Section0138.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>XXXVI</text>
+        </navLabel>
+        <content src="Text/Section0139.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>XXXVII</text>
+        </navLabel>
+        <content src="Text/Section0140.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>XXXVIII</text>
+        </navLabel>
+        <content src="Text/Section0141.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>XXXIX</text>
+        </navLabel>
+        <content src="Text/Section0142.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>KIZLARIN ŞARKISI</text>
+        </navLabel>
+        <content src="Text/Section0143.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>XL</text>
+        </navLabel>
+        <content src="Text/Section0144.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>XLI</text>
+        </navLabel>
+        <content src="Text/Section0145.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-142" playOrder="142">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Section0146.xhtml"/>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>I. II. III. IV. V. VI. VII</text>
+        </navLabel>
+        <content src="Text/Section0146.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/Section0147.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/Section0148.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/Section0149.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/Section0150.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/Section0151.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/Section0152.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/Section0153.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/Section0154.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="Text/Section0155.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="Text/Section0156.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/Section0157.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/Section0158.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-156" playOrder="156">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="Text/Section0159.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-157" playOrder="157">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="Text/Section0160.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>XXII</text>
+        </navLabel>
+        <content src="Text/Section0161.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>XXIII</text>
+        </navLabel>
+        <content src="Text/Section0162.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-160" playOrder="160">
+        <navLabel>
+          <text>XXIV</text>
+        </navLabel>
+        <content src="Text/Section0163.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>XXV</text>
+        </navLabel>
+        <content src="Text/Section0164.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>XXVI</text>
+        </navLabel>
+        <content src="Text/Section0165.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>XXVII</text>
+        </navLabel>
+        <content src="Text/Section0166.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>XXVIII</text>
+        </navLabel>
+        <content src="Text/Section0167.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>XXIX</text>
+        </navLabel>
+        <content src="Text/Section0168.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>XXX</text>
+        </navLabel>
+        <content src="Text/Section0169.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>XXXI</text>
+        </navLabel>
+        <content src="Text/Section0170.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>XXXII</text>
+        </navLabel>
+        <content src="Text/Section0171.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>XXXIII</text>
+        </navLabel>
+        <content src="Text/Section0172.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>XXXIV</text>
+        </navLabel>
+        <content src="Text/Section0173.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>XXXV</text>
+        </navLabel>
+        <content src="Text/Section0174.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>XXXVI. XXXVII</text>
+        </navLabel>
+        <content src="Text/Section0175.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-173" playOrder="173">
+        <navLabel>
+          <text>XXXVIII. XXXIX</text>
+        </navLabel>
+        <content src="Text/Section0176.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>XL</text>
+        </navLabel>
+        <content src="Text/Section0177.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-175" playOrder="175">
+        <navLabel>
+          <text>XLI</text>
+        </navLabel>
+        <content src="Text/Section0178.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-176" playOrder="176">
+        <navLabel>
+          <text>XLII</text>
+        </navLabel>
+        <content src="Text/Section0179.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-177" playOrder="177">
+        <navLabel>
+          <text>XLIII</text>
+        </navLabel>
+        <content src="Text/Section0180.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-178" playOrder="178">
+        <navLabel>
+          <text>XLIV</text>
+        </navLabel>
+        <content src="Text/Section0181.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-179" playOrder="179">
+        <navLabel>
+          <text>XLV</text>
+        </navLabel>
+        <content src="Text/Section0182.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-180" playOrder="180">
+        <navLabel>
+          <text>XLVI</text>
+        </navLabel>
+        <content src="Text/Section0183.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-181" playOrder="181">
+        <navLabel>
+          <text>XLVII</text>
+        </navLabel>
+        <content src="Text/Section0184.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-182" playOrder="182">
+        <navLabel>
+          <text>XLVIII</text>
+        </navLabel>
+        <content src="Text/Section0185.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>XLIX</text>
+        </navLabel>
+        <content src="Text/Section0186.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-184" playOrder="184">
+        <navLabel>
+          <text>L</text>
+        </navLabel>
+        <content src="Text/Section0187.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-185" playOrder="185">
+        <navLabel>
+          <text>LI</text>
+        </navLabel>
+        <content src="Text/Section0188.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-186" playOrder="186">
+      <navLabel>
+        <text>BEŞİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Section0189.xhtml"/>
+      <navPoint id="navPoint-187" playOrder="187">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/Section0189.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-188" playOrder="188">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/Section0190.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-189" playOrder="189">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/Section0191.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-190" playOrder="190">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/Section0192.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-191" playOrder="191">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/Section0193.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-192" playOrder="192">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/Section0194.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-193" playOrder="193">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/Section0195.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-194" playOrder="194">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/Section0196.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-195" playOrder="195">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/Section0197.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-196" playOrder="196">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/Section0198.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-197" playOrder="197">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/Section0199.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-198" playOrder="198">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/Section0200.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-199" playOrder="199">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/Section0201.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-200" playOrder="200">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/Section0202.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-201" playOrder="201">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/Section0203.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-202" playOrder="202">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="Text/Section0204.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-203" playOrder="203">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="Text/Section0205.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-204" playOrder="204">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/Section0206.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-205" playOrder="205">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/Section0207.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-206" playOrder="206">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="Text/Section0208.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-207" playOrder="207">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="Text/Section0209.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-208" playOrder="208">
+        <navLabel>
+          <text>XXII</text>
+        </navLabel>
+        <content src="Text/Section0210.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-209" playOrder="209">
+        <navLabel>
+          <text>XXIII</text>
+        </navLabel>
+        <content src="Text/Section0211.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-210" playOrder="210">
+        <navLabel>
+          <text>XXIV</text>
+        </navLabel>
+        <content src="Text/Section0212.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-211" playOrder="211">
+        <navLabel>
+          <text>XXV</text>
+        </navLabel>
+        <content src="Text/Section0213.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-212" playOrder="212">
+        <navLabel>
+          <text>XXVI</text>
+        </navLabel>
+        <content src="Text/Section0214.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-213" playOrder="213">
+        <navLabel>
+          <text>XXVII</text>
+        </navLabel>
+        <content src="Text/Section0215.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-214" playOrder="214">
+        <navLabel>
+          <text>XXVIII</text>
+        </navLabel>
+        <content src="Text/Section0216.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-215" playOrder="215">
+        <navLabel>
+          <text>XXIX</text>
+        </navLabel>
+        <content src="Text/Section0217.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-216" playOrder="216">
+        <navLabel>
+          <text>XXX</text>
+        </navLabel>
+        <content src="Text/Section0218.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-217" playOrder="217">
+        <navLabel>
+          <text>XXXI</text>
+        </navLabel>
+        <content src="Text/Section0219.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-218" playOrder="218">
+        <navLabel>
+          <text>XXXII</text>
+        </navLabel>
+        <content src="Text/Section0220.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-219" playOrder="219">
+        <navLabel>
+          <text>XXXIII</text>
+        </navLabel>
+        <content src="Text/Section0221.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-220" playOrder="220">
+        <navLabel>
+          <text>XXXIV</text>
+        </navLabel>
+        <content src="Text/Section0222.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-221" playOrder="221">
+        <navLabel>
+          <text>XXXV</text>
+        </navLabel>
+        <content src="Text/Section0223.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-222" playOrder="222">
+        <navLabel>
+          <text>XXXVI</text>
+        </navLabel>
+        <content src="Text/Section0224.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-223" playOrder="223">
+        <navLabel>
+          <text>XXXVII. XXXVIII. XXXIX</text>
+        </navLabel>
+        <content src="Text/Section0225.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-224" playOrder="224">
+        <navLabel>
+          <text>XL</text>
+        </navLabel>
+        <content src="Text/Section0226.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-225" playOrder="225">
+        <navLabel>
+          <text>XLI</text>
+        </navLabel>
+        <content src="Text/Section0227.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-226" playOrder="226">
+        <navLabel>
+          <text>XLII</text>
+        </navLabel>
+        <content src="Text/Section0228.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-227" playOrder="227">
+        <navLabel>
+          <text>XLIII. XLIV</text>
+        </navLabel>
+        <content src="Text/Section0229.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-228" playOrder="228">
+        <navLabel>
+          <text>XLV</text>
+        </navLabel>
+        <content src="Text/Section0230.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-229" playOrder="229">
+      <navLabel>
+        <text>ALTINCI BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Section0231.xhtml"/>
+      <navPoint id="navPoint-230" playOrder="230">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/Section0231.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-231" playOrder="231">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/Section0232.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-232" playOrder="232">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/Section0233.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-233" playOrder="233">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/Section0234.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-234" playOrder="234">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/Section0235.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-235" playOrder="235">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/Section0236.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-236" playOrder="236">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/Section0237.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-237" playOrder="237">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/Section0238.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-238" playOrder="238">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/Section0239.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-239" playOrder="239">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/Section0240.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-240" playOrder="240">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/Section0241.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-241" playOrder="241">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/Section0242.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-242" playOrder="242">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/Section0243.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-243" playOrder="243">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/Section0244.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-244" playOrder="244">
+        <navLabel>
+          <text>XV. XVI. XVII</text>
+        </navLabel>
+        <content src="Text/Section0245.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-245" playOrder="245">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/Section0246.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-246" playOrder="246">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/Section0247.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-247" playOrder="247">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="Text/Section0248.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-248" playOrder="248">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="Text/Section0249.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-249" playOrder="249">
+        <navLabel>
+          <text>XXII</text>
+        </navLabel>
+        <content src="Text/Section0250.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-250" playOrder="250">
+        <navLabel>
+          <text>XXIII</text>
+        </navLabel>
+        <content src="Text/Section0251.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-251" playOrder="251">
+        <navLabel>
+          <text>XXIV</text>
+        </navLabel>
+        <content src="Text/Section0252.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-252" playOrder="252">
+        <navLabel>
+          <text>XXV</text>
+        </navLabel>
+        <content src="Text/Section0253.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-253" playOrder="253">
+        <navLabel>
+          <text>XXVI</text>
+        </navLabel>
+        <content src="Text/Section0254.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-254" playOrder="254">
+        <navLabel>
+          <text>XXVII</text>
+        </navLabel>
+        <content src="Text/Section0255.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-255" playOrder="255">
+        <navLabel>
+          <text>XXVIII</text>
+        </navLabel>
+        <content src="Text/Section0256.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-256" playOrder="256">
+        <navLabel>
+          <text>XXIX</text>
+        </navLabel>
+        <content src="Text/Section0257.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-257" playOrder="257">
+        <navLabel>
+          <text>XXX</text>
+        </navLabel>
+        <content src="Text/Section0258.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-258" playOrder="258">
+        <navLabel>
+          <text>XXXI</text>
+        </navLabel>
+        <content src="Text/Section0259.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-259" playOrder="259">
+        <navLabel>
+          <text>XXXII</text>
+        </navLabel>
+        <content src="Text/Section0260.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-260" playOrder="260">
+        <navLabel>
+          <text>XXXIII</text>
+        </navLabel>
+        <content src="Text/Section0261.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-261" playOrder="261">
+        <navLabel>
+          <text>XXXIV</text>
+        </navLabel>
+        <content src="Text/Section0262.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-262" playOrder="262">
+        <navLabel>
+          <text>XXXV</text>
+        </navLabel>
+        <content src="Text/Section0263.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-263" playOrder="263">
+        <navLabel>
+          <text>XXXVI</text>
+        </navLabel>
+        <content src="Text/Section0264.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-264" playOrder="264">
+        <navLabel>
+          <text>XXXVII</text>
+        </navLabel>
+        <content src="Text/Section0265.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-265" playOrder="265">
+        <navLabel>
+          <text>XXXVIII. XXXIX</text>
+        </navLabel>
+        <content src="Text/Section0266.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-266" playOrder="266">
+        <navLabel>
+          <text>XL</text>
+        </navLabel>
+        <content src="Text/Section0267.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-267" playOrder="267">
+        <navLabel>
+          <text>XLI</text>
+        </navLabel>
+        <content src="Text/Section0268.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-268" playOrder="268">
+        <navLabel>
+          <text>XLII</text>
+        </navLabel>
+        <content src="Text/Section0269.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-269" playOrder="269">
+        <navLabel>
+          <text>XLIII</text>
+        </navLabel>
+        <content src="Text/Section0270.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-270" playOrder="270">
+        <navLabel>
+          <text>XLIV</text>
+        </navLabel>
+        <content src="Text/Section0271.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-271" playOrder="271">
+        <navLabel>
+          <text>XLV</text>
+        </navLabel>
+        <content src="Text/Section0272.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-272" playOrder="272">
+        <navLabel>
+          <text>XLVI</text>
+        </navLabel>
+        <content src="Text/Section0273.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-273" playOrder="273">
+      <navLabel>
+        <text>YEDİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Section0274.xhtml"/>
+      <navPoint id="navPoint-274" playOrder="274">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/Section0274.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-275" playOrder="275">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/Section0275.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-276" playOrder="276">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/Section0276.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-277" playOrder="277">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/Section0277.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-278" playOrder="278">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/Section0278.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-279" playOrder="279">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/Section0279.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-280" playOrder="280">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/Section0280.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-281" playOrder="281">
+        <navLabel>
+          <text>VIII. IX. X</text>
+        </navLabel>
+        <content src="Text/Section0281.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-282" playOrder="282">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/Section0282.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-283" playOrder="283">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/Section0283.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-284" playOrder="284">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/Section0284.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-285" playOrder="285">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/Section0285.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-286" playOrder="286">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/Section0286.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-287" playOrder="287">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="Text/Section0287.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-288" playOrder="288">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="Text/Section0288.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-289" playOrder="289">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/Section0289.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-290" playOrder="290">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/Section0290.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-291" playOrder="291">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="Text/Section0291.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-292" playOrder="292">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="Text/Section0292.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-293" playOrder="293">
+        <navLabel>
+          <text>XXII</text>
+        </navLabel>
+        <content src="Text/Section0293.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-294" playOrder="294">
+        <navLabel>
+          <text>XXIII</text>
+        </navLabel>
+        <content src="Text/Section0294.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-295" playOrder="295">
+        <navLabel>
+          <text>XXIV</text>
+        </navLabel>
+        <content src="Text/Section0295.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-296" playOrder="296">
+        <navLabel>
+          <text>XXV</text>
+        </navLabel>
+        <content src="Text/Section0296.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-297" playOrder="297">
+        <navLabel>
+          <text>XXVI</text>
+        </navLabel>
+        <content src="Text/Section0297.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-298" playOrder="298">
+        <navLabel>
+          <text>XXVII</text>
+        </navLabel>
+        <content src="Text/Section0298.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-299" playOrder="299">
+        <navLabel>
+          <text>XXVIII</text>
+        </navLabel>
+        <content src="Text/Section0299.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-300" playOrder="300">
+        <navLabel>
+          <text>XXIX</text>
+        </navLabel>
+        <content src="Text/Section0300.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-301" playOrder="301">
+        <navLabel>
+          <text>XXX</text>
+        </navLabel>
+        <content src="Text/Section0301.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-302" playOrder="302">
+        <navLabel>
+          <text>XXXI</text>
+        </navLabel>
+        <content src="Text/Section0302.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-303" playOrder="303">
+        <navLabel>
+          <text>XXXII</text>
+        </navLabel>
+        <content src="Text/Section0303.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-304" playOrder="304">
+        <navLabel>
+          <text>XXXIII</text>
+        </navLabel>
+        <content src="Text/Section0304.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-305" playOrder="305">
+        <navLabel>
+          <text>XXXIV</text>
+        </navLabel>
+        <content src="Text/Section0305.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-306" playOrder="306">
+        <navLabel>
+          <text>XXXV</text>
+        </navLabel>
+        <content src="Text/Section0306.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-307" playOrder="307">
+        <navLabel>
+          <text>XXXVI</text>
+        </navLabel>
+        <content src="Text/Section0307.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-308" playOrder="308">
+        <navLabel>
+          <text>XXXVII</text>
+        </navLabel>
+        <content src="Text/Section0308.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-309" playOrder="309">
+        <navLabel>
+          <text>XXXVIII</text>
+        </navLabel>
+        <content src="Text/Section0309.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-310" playOrder="310">
+        <navLabel>
+          <text>XXXIX. XL</text>
+        </navLabel>
+        <content src="Text/Section0310.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-311" playOrder="311">
+        <navLabel>
+          <text>XLI</text>
+        </navLabel>
+        <content src="Text/Section0311.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-312" playOrder="312">
+        <navLabel>
+          <text>XLII</text>
+        </navLabel>
+        <content src="Text/Section0312.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-313" playOrder="313">
+        <navLabel>
+          <text>XLIII</text>
+        </navLabel>
+        <content src="Text/Section0313.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-314" playOrder="314">
+        <navLabel>
+          <text>XLIV</text>
+        </navLabel>
+        <content src="Text/Section0314.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-315" playOrder="315">
+        <navLabel>
+          <text>XLV</text>
+        </navLabel>
+        <content src="Text/Section0315.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-316" playOrder="316">
+        <navLabel>
+          <text>XLVI</text>
+        </navLabel>
+        <content src="Text/Section0316.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-317" playOrder="317">
+        <navLabel>
+          <text>XLVII</text>
+        </navLabel>
+        <content src="Text/Section0317.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-318" playOrder="318">
+        <navLabel>
+          <text>XLVIII</text>
+        </navLabel>
+        <content src="Text/Section0318.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-319" playOrder="319">
+        <navLabel>
+          <text>XLIX</text>
+        </navLabel>
+        <content src="Text/Section0319.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-320" playOrder="320">
+        <navLabel>
+          <text>L</text>
+        </navLabel>
+        <content src="Text/Section0320.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-321" playOrder="321">
+        <navLabel>
+          <text>LI</text>
+        </navLabel>
+        <content src="Text/Section0321.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-322" playOrder="322">
+        <navLabel>
+          <text>LII</text>
+        </navLabel>
+        <content src="Text/Section0322.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-323" playOrder="323">
+        <navLabel>
+          <text>LIII</text>
+        </navLabel>
+        <content src="Text/Section0323.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-324" playOrder="324">
+        <navLabel>
+          <text>LIV</text>
+        </navLabel>
+        <content src="Text/Section0324.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-325" playOrder="325">
+        <navLabel>
+          <text>LV</text>
+        </navLabel>
+        <content src="Text/Section0325.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-326" playOrder="326">
+      <navLabel>
+        <text>SEKİZİNCİ BÖLÜM</text>
+      </navLabel>
+      <content src="Text/Section0326.xhtml"/>
+      <navPoint id="navPoint-327" playOrder="327">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/Section0326.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-328" playOrder="328">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/Section0327.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-329" playOrder="329">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/Section0328.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-330" playOrder="330">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/Section0329.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-331" playOrder="331">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/Section0330.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-332" playOrder="332">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/Section0331.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-333" playOrder="333">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/Section0332.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-334" playOrder="334">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/Section0333.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-335" playOrder="335">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/Section0334.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-336" playOrder="336">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/Section0335.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-337" playOrder="337">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/Section0336.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-338" playOrder="338">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/Section0337.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-339" playOrder="339">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/Section0338.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-340" playOrder="340">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/Section0339.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-341" playOrder="341">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/Section0340.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-342" playOrder="342">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="Text/Section0341.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-343" playOrder="343">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="Text/Section0342.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-344" playOrder="344">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/Section0343.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-345" playOrder="345">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/Section0344.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-346" playOrder="346">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="Text/Section0345.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-347" playOrder="347">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="Text/Section0346.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-348" playOrder="348">
+        <navLabel>
+          <text>XXII</text>
+        </navLabel>
+        <content src="Text/Section0347.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-349" playOrder="349">
+        <navLabel>
+          <text>XXIII</text>
+        </navLabel>
+        <content src="Text/Section0348.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-350" playOrder="350">
+        <navLabel>
+          <text>XXIV</text>
+        </navLabel>
+        <content src="Text/Section0349.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-351" playOrder="351">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/Section0350.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-352" playOrder="352">
+        <navLabel>
+          <text>XXVI</text>
+        </navLabel>
+        <content src="Text/Section0351.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-353" playOrder="353">
+        <navLabel>
+          <text>XXVII</text>
+        </navLabel>
+        <content src="Text/Section0352.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-354" playOrder="354">
+        <navLabel>
+          <text>XXVIII</text>
+        </navLabel>
+        <content src="Text/Section0353.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-355" playOrder="355">
+        <navLabel>
+          <text>XXIX</text>
+        </navLabel>
+        <content src="Text/Section0354.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-356" playOrder="356">
+        <navLabel>
+          <text>XXX</text>
+        </navLabel>
+        <content src="Text/Section0355.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-357" playOrder="357">
+        <navLabel>
+          <text>XXXI</text>
+        </navLabel>
+        <content src="Text/Section0356.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-358" playOrder="358">
+        <navLabel>
+          <text>XXXII</text>
+        </navLabel>
+        <content src="Text/Section0357.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-359" playOrder="359">
+        <navLabel>
+          <text>ONEGİN'İN TATYANA'YA MEKTUBU</text>
+        </navLabel>
+        <content src="Text/Section0358.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-360" playOrder="360">
+        <navLabel>
+          <text>XXXIII</text>
+        </navLabel>
+        <content src="Text/Section0359.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-361" playOrder="361">
+        <navLabel>
+          <text>XXXIV</text>
+        </navLabel>
+        <content src="Text/Section0360.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-362" playOrder="362">
+        <navLabel>
+          <text>XXXV</text>
+        </navLabel>
+        <content src="Text/Section0361.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-363" playOrder="363">
+        <navLabel>
+          <text>XXXVI</text>
+        </navLabel>
+        <content src="Text/Section0362.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-364" playOrder="364">
+        <navLabel>
+          <text>XXXVII</text>
+        </navLabel>
+        <content src="Text/Section0363.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-365" playOrder="365">
+        <navLabel>
+          <text>XXXVIII</text>
+        </navLabel>
+        <content src="Text/Section0364.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-366" playOrder="366">
+        <navLabel>
+          <text>XXXIX</text>
+        </navLabel>
+        <content src="Text/Section0365.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-367" playOrder="367">
+        <navLabel>
+          <text>XL</text>
+        </navLabel>
+        <content src="Text/Section0366.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-368" playOrder="368">
+        <navLabel>
+          <text>XLI</text>
+        </navLabel>
+        <content src="Text/Section0367.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-369" playOrder="369">
+        <navLabel>
+          <text>XLII</text>
+        </navLabel>
+        <content src="Text/Section0368.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-370" playOrder="370">
+        <navLabel>
+          <text>XLIII</text>
+        </navLabel>
+        <content src="Text/Section0369.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-371" playOrder="371">
+        <navLabel>
+          <text>XLIV</text>
+        </navLabel>
+        <content src="Text/Section0370.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-372" playOrder="372">
+        <navLabel>
+          <text>XLV</text>
+        </navLabel>
+        <content src="Text/Section0371.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-373" playOrder="373">
+        <navLabel>
+          <text>XLVI</text>
+        </navLabel>
+        <content src="Text/Section0372.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-374" playOrder="374">
+        <navLabel>
+          <text>XLVII</text>
+        </navLabel>
+        <content src="Text/Section0373.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-375" playOrder="375">
+        <navLabel>
+          <text>XLVIII</text>
+        </navLabel>
+        <content src="Text/Section0374.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-376" playOrder="376">
+        <navLabel>
+          <text>XLIX</text>
+        </navLabel>
+        <content src="Text/Section0375.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-377" playOrder="377">
+        <navLabel>
+          <text>L</text>
+        </navLabel>
+        <content src="Text/Section0376.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-378" playOrder="378">
+        <navLabel>
+          <text>LI</text>
+        </navLabel>
+        <content src="Text/Section0377.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

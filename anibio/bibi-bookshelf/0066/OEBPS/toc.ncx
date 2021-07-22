@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>GİRİŞ</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>TANIŞMA VE TANIŞTIRILMA</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-2"/>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>TANIŞMA VE TANIŞTIRILMA</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-2-1"/>
+			</navPoint>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>Kim Kime Tanıştırılır?</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-2-2"/>
+			</navPoint>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>Tanıştırma Sözleri ve Karşılıkları</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-2-3"/>
+			</navPoint>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>Tanışma Esnasındaki Hareket Tarzları</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-2-4"/>
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>Diğer Hususlar</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-2-5"/>
+			</navPoint>
+			<navPoint id="navpoint8" playOrder="8">
+				<navLabel>
+					<text>El Sıkışmak </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-2-6"/>
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>El Öpmek </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-2-7"/>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>HİTAP</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-2-8"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>HİTAP</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-3"/>
+			<navPoint id="navpoint12" playOrder="12">
+				<navLabel>
+					<text>Genel Hususlar</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-3-1"/>
+			</navPoint>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>Sen/Siz Hitapları </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-3-2"/>
+			</navPoint>
+			<navPoint id="navpoint14" playOrder="14">
+				<navLabel>
+					<text>KONUŞMA</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-3-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>KONUŞMA</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-4"/>
+			<navPoint id="navpoint16" playOrder="16">
+				<navLabel>
+					<text>İyi Bir Konuşma İçin</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-4-1"/>
+			</navPoint>
+			<navPoint id="navpoint17" playOrder="17">
+				<navLabel>
+					<text>Kötü Bir Konuşma İçin</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-4-2"/>
+			</navPoint>
+			<navPoint id="navpoint18" playOrder="18">
+				<navLabel>
+					<text>Dinleme Sanatı</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-4-3"/>
+			</navPoint>
+			<navPoint id="navpoint19" playOrder="19">
+				<navLabel>
+					<text>Olumsuz Konuşmalar
+Gevezelik</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-4-4"/>
+			</navPoint>
+			<navPoint id="navpoint20" playOrder="20">
+				<navLabel>
+					<text>
+İnsanların bazen birbirlerine söyleyecek sözü yoktur ama yine de konuşurlar.
+Senancour
+
+Gereğinden fazla konuşmak insanın başına dert açar. 
+Benjamin Franklin</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-4-5"/>
+			</navPoint>
+			<navPoint id="navpoint21" playOrder="21">
+				<navLabel>
+					<text>Dedikodu </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-4-6"/>
+			</navPoint>
+			<navPoint id="navpoint22" playOrder="22">
+				<navLabel>
+					<text>Alay</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-4-7"/>
+			</navPoint>
+			<navPoint id="navpoint23" playOrder="23">
+				<navLabel>
+					<text>Gaf/Pot Kırmak</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-4-8"/>
+			</navPoint>
+			<navPoint id="navpoint24" playOrder="24">
+				<navLabel>
+					<text>Olumlu Konuşmalar
+Rica</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-4-9"/>
+			</navPoint>
+			<navPoint id="navpoint25" playOrder="25">
+				<navLabel>
+					<text>Özür</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-4-10"/>
+			</navPoint>
+			<navPoint id="navpoint26" playOrder="26">
+				<navLabel>
+					<text>Diğer Konuşmalar
+Eleştiri</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-4-11"/>
+			</navPoint>
+			<navPoint id="navpoint27" playOrder="27">
+				<navLabel>
+					<text>Tartışma</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-4-12"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint28" playOrder="28">
+			<navLabel>
+				<text>SELAMLAMA</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-5"/>
+			<navPoint id="navpoint29" playOrder="29">
+				<navLabel>
+					<text>SELAMLAMA
+
+Kim Önce Selamlama Yapar?</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-5-1"/>
+			</navPoint>
+			<navPoint id="navpoint30" playOrder="30">
+				<navLabel>
+					<text>Selamlamanın İncelikleri</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-5-2"/>
+			</navPoint>
+			<navPoint id="navpoint31" playOrder="31">
+				<navLabel>
+					<text>Nerede, Nasıl Selamlama Yapılır?</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-5-3"/>
+			</navPoint>
+			<navPoint id="navpoint32" playOrder="32">
+				<navLabel>
+					<text>Gisèle d’Assailly</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-5-4"/>
+			</navPoint>
+			<navPoint id="navpoint33" playOrder="33">
+				<navLabel>
+					<text>Bayrak Çekilirken ve İndirilirken 
+Selamlama</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-5-5"/>
+			</navPoint>
+			<navPoint id="navpoint34" playOrder="34">
+				<navLabel>
+					<text>İstiklal Marşı Çalınırken Selamlama</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-5-6"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint35" playOrder="35">
+			<navLabel>
+				<text>DAVET</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-6"/>
+			<navPoint id="navpoint36" playOrder="36">
+				<navLabel>
+					<text>DAVET
+
+Davet Verecekseniz</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-6-1"/>
+			</navPoint>
+			<navPoint id="navpoint37" playOrder="37">
+				<navLabel>
+					<text>Davet Almışsanız</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-6-2"/>
+			</navPoint>
+			<navPoint id="navpoint38" playOrder="38">
+				<navLabel>
+					<text>Davetlere Gidiş</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-6-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint39" playOrder="39">
+			<navLabel>
+				<text>SOSYAL İLİŞKİLER</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-7"/>
+			<navPoint id="navpoint40" playOrder="40">
+				<navLabel>
+					<text>SOSYAL İLİŞKİLER
+
+İyilik Görgüsü</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-7-1"/>
+			</navPoint>
+			<navPoint id="navpoint41" playOrder="41">
+				<navLabel>
+					<text>Dostluk Görgüsü</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-7-2"/>
+			</navPoint>
+			<navPoint id="navpoint42" playOrder="42">
+				<navLabel>
+					<text>Mizah Görgüsü</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-7-3"/>
+			</navPoint>
+			<navPoint id="navpoint43" playOrder="43">
+				<navLabel>
+					<text>Anlayış Görgüsü</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-7-4"/>
+			</navPoint>
+			<navPoint id="navpoint44" playOrder="44">
+				<navLabel>
+					<text/>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-7-5"/>
+			</navPoint>
+			<navPoint id="navpoint45" playOrder="45">
+				<navLabel>
+					<text>Büyük bir insan büyüklüğünü, kendisinden küçük insanlara karşı muamelesinde gösterir. </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-7-6"/>
+			</navPoint>
+			<navPoint id="navpoint46" playOrder="46">
+				<navLabel>
+					<text>Thomas Carlyle</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-7-7"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint47" playOrder="47">
+			<navLabel>
+				<text>KIYAFET-GİYİM/KUŞAM</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-8"/>
+			<navPoint id="navpoint48" playOrder="48">
+				<navLabel>
+					<text>KIYAFET-GİYİM/KUŞAM
+
+İhtiyaç Açısından Giyim</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-8-1"/>
+			</navPoint>
+			<navPoint id="navpoint49" playOrder="49">
+				<navLabel>
+					<text>Giyiminize Önem Verin</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-8-2"/>
+			</navPoint>
+			<navPoint id="navpoint50" playOrder="50">
+				<navLabel>
+					<text>Güzel Giyinmek Nedir?</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-8-3"/>
+			</navPoint>
+			<navPoint id="navpoint51" playOrder="51">
+				<navLabel>
+					<text>Giyimde Nelere Dikkat Edilmeli?</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-8-4"/>
+			</navPoint>
+			<navPoint id="navpoint52" playOrder="52">
+				<navLabel>
+					<text>Takılar</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-8-5"/>
+			</navPoint>
+			<navPoint id="navpoint53" playOrder="53">
+				<navLabel>
+					<text>Makyaj</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-8-6"/>
+			</navPoint>
+			<navPoint id="navpoint54" playOrder="54">
+				<navLabel>
+					<text>Giyim Hileleri
+
+Fazla Kilodan Şikâyetçi Olanlar </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-8-7"/>
+			</navPoint>
+			<navPoint id="navpoint55" playOrder="55">
+				<navLabel>
+					<text>Aşırı Zayıf Olanlar </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-8-8"/>
+			</navPoint>
+			<navPoint id="navpoint56" playOrder="56">
+				<navLabel>
+					<text>Kısa Boylu Kişiler </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-8-9"/>
+			</navPoint>
+			<navPoint id="navpoint57" playOrder="57">
+				<navLabel>
+					<text>Uzun Boylular </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-8-10"/>
+			</navPoint>
+			<navPoint id="navpoint58" playOrder="58">
+				<navLabel>
+					<text>Kadın Resmi Giyiminden Örnekler
+
+Tayyör </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-8-11"/>
+			</navPoint>
+			<navPoint id="navpoint59" playOrder="59">
+				<navLabel>
+					<text>Erkek Resmi Giyiminden Örnekler
+
+Smokin</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-8-12"/>
+			</navPoint>
+			<navPoint id="navpoint60" playOrder="60">
+				<navLabel>
+					<text>Frak </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-8-13"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint61" playOrder="61">
+			<navLabel>
+				<text>YEMEK</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-9"/>
+			<navPoint id="navpoint62" playOrder="62">
+				<navLabel>
+					<text>YEMEK
+
+Sofra Düzeni</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-1"/>
+			</navPoint>
+			<navPoint id="navpoint63" playOrder="63">
+				<navLabel>
+					<text>Çatal-Bıçak-Kaşık Yerleşimi</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-2"/>
+			</navPoint>
+			<navPoint id="navpoint64" playOrder="64">
+				<navLabel>
+					<text>Bardaklar ve Sürahilerin Yerleştirilmesi</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-3"/>
+			</navPoint>
+			<navPoint id="navpoint65" playOrder="65">
+				<navLabel>
+					<text>Diğer Aksesuarlar</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-4"/>
+			</navPoint>
+			<navPoint id="navpoint66" playOrder="66">
+				<navLabel>
+					<text>Oturma Düzeni
+
+Kim, Nerede Oturur?</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-5"/>
+			</navPoint>
+			<navPoint id="navpoint67" playOrder="67">
+				<navLabel>
+					<text>Sandalyede Otururken Şunları Yapmayınız</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-6"/>
+			</navPoint>
+			<navPoint id="navpoint68" playOrder="68">
+				<navLabel>
+					<text>Gisèle d’Assailly</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-7"/>
+			</navPoint>
+			<navPoint id="navpoint69" playOrder="69">
+				<navLabel>
+					<text>Servis Sırası Nasıldır?</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-8"/>
+			</navPoint>
+			<navPoint id="navpoint70" playOrder="70">
+				<navLabel>
+					<text>Yemek Yerken Dikkat Edilecek Kurallar
+
+Genel Kurallar</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-9"/>
+			</navPoint>
+			<navPoint id="navpoint71" playOrder="71">
+				<navLabel>
+					<text>Gisèle d’Assailly</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-10"/>
+			</navPoint>
+			<navPoint id="navpoint72" playOrder="72">
+				<navLabel>
+					<text>Ekmek Yerken</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-11"/>
+			</navPoint>
+			<navPoint id="navpoint73" playOrder="73">
+				<navLabel>
+					<text>Çorba İçerken</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-12"/>
+			</navPoint>
+			<navPoint id="navpoint74" playOrder="74">
+				<navLabel>
+					<text>Çatal-Bıçak-Kaşık Kullanımı</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-13"/>
+			</navPoint>
+			<navPoint id="navpoint75" playOrder="75">
+				<navLabel>
+					<text>Gisèle d’Assailly</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-14"/>
+			</navPoint>
+			<navPoint id="navpoint76" playOrder="76">
+				<navLabel>
+					<text>Peçete Kullanımı</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-9-15"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint77" playOrder="77">
+			<navLabel>
+				<text>ZİYARET</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-10"/>
+			<navPoint id="navpoint78" playOrder="78">
+				<navLabel>
+					<text>ZİYARET
+
+Ziyaretçi</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-10-1"/>
+			</navPoint>
+			<navPoint id="navpoint79" playOrder="79">
+				<navLabel>
+					<text>Ev Sahibi</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-10-2"/>
+			</navPoint>
+			<navPoint id="navpoint80" playOrder="80">
+				<navLabel>
+					<text>Ziyaret Süreleri</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-10-3"/>
+			</navPoint>
+			<navPoint id="navpoint81" playOrder="81">
+				<navLabel>
+					<text>Ziyaret Sonu</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-10-4"/>
+			</navPoint>
+			<navPoint id="navpoint82" playOrder="82">
+				<navLabel>
+					<text>Hasta Ziyareti</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-10-5"/>
+			</navPoint>
+			<navPoint id="navpoint83" playOrder="83">
+				<navLabel>
+					<text>Başsağlığı Ziyareti</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-10-6"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint84" playOrder="84">
+			<navLabel>
+				<text>HEDİYE</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-11"/>
+			<navPoint id="navpoint85" playOrder="85">
+				<navLabel>
+					<text>HEDİYE</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-11-1"/>
+			</navPoint>
+			<navPoint id="navpoint86" playOrder="86">
+				<navLabel>
+					<text>Doğum Günü Hediyeleri</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-11-2"/>
+			</navPoint>
+			<navPoint id="navpoint87" playOrder="87">
+				<navLabel>
+					<text>Sınıf Geçme Hediyeleri </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-11-3"/>
+			</navPoint>
+			<navPoint id="navpoint88" playOrder="88">
+				<navLabel>
+					<text>Hastaya Alınan Hediyeler</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-11-4"/>
+			</navPoint>
+			<navPoint id="navpoint89" playOrder="89">
+				<navLabel>
+					<text>Yeni Doğan Çocuk Hediyeleri </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-11-5"/>
+			</navPoint>
+			<navPoint id="navpoint90" playOrder="90">
+				<navLabel>
+					<text>Nişan-Düğün Hediyeleri </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-11-6"/>
+			</navPoint>
+			<navPoint id="navpoint91" playOrder="91">
+				<navLabel>
+					<text>Ev İçin Hediyeler </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-11-7"/>
+			</navPoint>
+			<navPoint id="navpoint92" playOrder="92">
+				<navLabel>
+					<text>Yolculuğa Çıkana Verilebilecek Hediyeler </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-11-8"/>
+			</navPoint>
+			<navPoint id="navpoint93" playOrder="93">
+				<navLabel>
+					<text>En Romantik Hediye: Çiçek
+
+Çiçek Gönderilmesi</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-11-9"/>
+			</navPoint>
+			<navPoint id="navpoint94" playOrder="94">
+				<navLabel>
+					<text>Çiçeklerin Dili</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-11-10"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint95" playOrder="95">
+			<navLabel>
+				<text>MEKTUP</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-12"/>
+			<navPoint id="navpoint96" playOrder="96">
+				<navLabel>
+					<text>MEKTUP
+
+Mektup Yazarken Kullanılan Hitaplar</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-12-1"/>
+			</navPoint>
+			<navPoint id="navpoint97" playOrder="97">
+				<navLabel>
+					<text>Mektup Zarfları</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-12-2"/>
+			</navPoint>
+			<navPoint id="navpoint98" playOrder="98">
+				<navLabel>
+					<text>Bitirirken</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-12-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint99" playOrder="99">
+			<navLabel>
+				<text>E-POSTA</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-13"/>
+		</navPoint>
+		<navPoint id="navpoint100" playOrder="100">
+			<navLabel>
+				<text>TELEFON</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-14"/>
+			<navPoint id="navpoint101" playOrder="101">
+				<navLabel>
+					<text>TELEFON
+
+Telefon Görgüsü</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-14-1"/>
+			</navPoint>
+			<navPoint id="navpoint102" playOrder="102">
+				<navLabel>
+					<text>Telefonla Arama Zamanları</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-14-2"/>
+			</navPoint>
+			<navPoint id="navpoint103" playOrder="103">
+				<navLabel>
+					<text>Telefondaki Sesiniz</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-14-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint104" playOrder="104">
+			<navLabel>
+				<text>ÇEŞİTLİ YERLERDEKİ 
+HAREKET TARZLARI</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-15"/>
+			<navPoint id="navpoint105" playOrder="105">
+				<navLabel>
+					<text>ÇEŞİTLİ YERLERDEKİ HAREKET TARZLARI
+
+Evde/Apartmanda</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-15-1"/>
+			</navPoint>
+			<navPoint id="navpoint106" playOrder="106">
+				<navLabel>
+					<text>Yolculukta/Seyahatte</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-15-2"/>
+			</navPoint>
+			<navPoint id="navpoint107" playOrder="107">
+				<navLabel>
+					<text>Caddede/Sokakta</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-15-3"/>
+			</navPoint>
+			<navPoint id="navpoint108" playOrder="108">
+				<navLabel>
+					<text>İşyerinde</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-15-4"/>
+			</navPoint>
+			<navPoint id="navpoint109" playOrder="109">
+				<navLabel>
+					<text>Sanatsal Faaliyetlerde</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-15-5"/>
+			</navPoint>
+			<navPoint id="navpoint110" playOrder="110">
+				<navLabel>
+					<text>Restoranda</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-15-6"/>
+			</navPoint>
+			<navPoint id="navpoint111" playOrder="111">
+				<navLabel>
+					<text>Alışverişte</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-15-7"/>
+			</navPoint>
+			<navPoint id="navpoint112" playOrder="112">
+				<navLabel>
+					<text>Asansörde</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-15-8"/>
+			</navPoint>
+			<navPoint id="navpoint113" playOrder="113">
+				<navLabel>
+					<text>Kutsal Yerlerde</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-15-9"/>
+			</navPoint>
+			<navPoint id="navpoint114" playOrder="114">
+				<navLabel>
+					<text>Çevre ve Doğada</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-15-10"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint115" playOrder="115">
+			<navLabel>
+				<text>GÖRGÜ VE KURALLAR</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-16"/>
+			<navPoint id="navpoint116" playOrder="116">
+				<navLabel>
+					<text>GÖRGÜ VE KURALLAR
+
+İmaj Kuralı</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-16-1"/>
+			</navPoint>
+			<navPoint id="navpoint117" playOrder="117">
+				<navLabel>
+					<text>Beden Dili Kuralı</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-16-2"/>
+			</navPoint>
+			<navPoint id="navpoint118" playOrder="118">
+				<navLabel>
+					<text>Bilinç Kuralı </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-16-3"/>
+			</navPoint>
+			<navPoint id="navpoint119" playOrder="119">
+				<navLabel>
+					<text>Empati Kuralı </text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-16-4"/>
+			</navPoint>
+			<navPoint id="navpoint120" playOrder="120">
+				<navLabel>
+					<text>Sağlık Kuralı</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-16-5"/>
+			</navPoint>
+			<navPoint id="navpoint121" playOrder="121">
+				<navLabel>
+					<text>Pozitif Yaklaşım Kuralı</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-16-6"/>
+			</navPoint>
+			<navPoint id="navpoint122" playOrder="122">
+				<navLabel>
+					<text>Değişim Kuralı</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-16-7"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint123" playOrder="123">
+			<navLabel>
+				<text>GENEL </text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-17"/>
+			<navPoint id="navpoint124" playOrder="124">
+				<navLabel>
+					<text>GENEL
+
+Genel Görgü Kuralları</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-17-1"/>
+			</navPoint>
+			<navPoint id="navpoint125" playOrder="125">
+				<navLabel>
+					<text>Kadınlar Nerede Önden Gider?</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-17-2"/>
+			</navPoint>
+			<navPoint id="navpoint126" playOrder="126">
+				<navLabel>
+					<text>Erkekler Nerede Önden Gider?</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-17-3"/>
+			</navPoint>
+			<navPoint id="navpoint127" playOrder="127">
+				<navLabel>
+					<text>Kim Nerede Yürür?</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-17-4"/>
+			</navPoint>
+			<navPoint id="navpoint128" playOrder="128">
+				<navLabel>
+					<text>Yol Geçiş Hakkı</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-17-5"/>
+			</navPoint>
+			<navPoint id="navpoint129" playOrder="129">
+				<navLabel>
+					<text>KAYNAKÇA</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-17-6"/>
+			</navPoint>
+			<navPoint id="navpoint130" playOrder="130">
+				<navLabel>
+					<text>YAZARIN DİĞER KİTAPLARI</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-17-7"/>
+			</navPoint>
+			<navPoint id="navpoint131" playOrder="131">
+				<navLabel>
+					<text>
+
+
+
+
+
+﻿KİŞİSEL GELİŞİM SERİMİZDEN</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-17-8"/>
+			</navPoint>
+			<navPoint id="navpoint132" playOrder="132">
+				<navLabel>
+					<text>﻿İŞ VE YÖNETİM SERİMİZDEN</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-17-9"/>
+			</navPoint>
+			<navPoint id="navpoint133" playOrder="133">
+				<navLabel>
+					<text>İZGÖREN YAYINLARI</text>
+				</navLabel>
+				<content src="Text/6.html#toc_marker-17-10"/>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookID" opf:scheme="UUID" />
+    <dc:title>Cesur Yeni Dünya</dc:title>
+    <dc:creator opf:file-as="Huxley, Aldous" opf:role="aut">Aldous Huxley</dc:creator>
+    <dc:language>tr</dc:language>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:subject>Distopya</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Bilimkurgu</dc:subject>
+    <dc:description>&lt;div&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;"Cesur Yeni Dünya" bizi "Ford'dan sonra 632 yılına" götürür. Bu dünyanın cesur insanları kapısında "Cemaat, Özdeşlik, İstikrar" yazan Londra Merkez Kuluçka ve Şartlandırma Merkezi'nde üretilirler. Kadınların döllenmesi yasak ve ayıp olduğu için, "annelik' ve 'babalık' pornografik birer kavram olarak görülür Toplumsal istikrarın temel güvencesi olan şartlandırma hipnopedya -uykuda eğitim- ile sağlanır. Hipnopedya sayesinde herkes mutludur; herkes çalışır ve herkes eğlenir. "Herkes herkes içindir."&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;"Cesur Yeni Dünya"nın önemi yalnızca ardılları için bir standart oluşturması ve karamsar bir gelecek tasarımının güçlü betimlemesiyle değil, aynı zamanda 'birey yok edilse de süren macerasının' sağlam bir üslupta anlatılmasıyla da ilgili. Huxley, yapıtını ütopa geleneğinin kuru anlatımının dışına çıkarıp 'iyi edebiyat' kategorisine yükseltiyor.&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:identifier opf:scheme="ISBN">9789756902165</dc:identifier>
+    <dc:date opf:event="modification">2014-02-22</dc:date>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta name="cover" content="cover.jpg" />
+    <meta content="Cesur Yeni Dünya" name="calibre:title_sort" />
+    <meta content="{&quot;Aldous Huxley&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="10.0" name="calibre:rating" />
+    <meta content="{}" name="calibre:user_categories" />
+  </metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml" />
+    <item href="Text/cesur.xhtml" id="cesur.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/1946.xhtml" id="x1946.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum3.xhtml" id="bolum3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum4.xhtml" id="bolum4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum5.xhtml" id="bolum5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum6.xhtml" id="bolum6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum7.xhtml" id="bolum7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum8.xhtml" id="bolum8.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum9.xhtml" id="bolum9.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum10.xhtml" id="bolum10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum11.xhtml" id="bolum11.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum12.xhtml" id="bolum12.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum13.xhtml" id="bolum13.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum14.xhtml" id="bolum14.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum15.xhtml" id="bolum15.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum16.xhtml" id="bolum16.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum17.xhtml" id="bolum17.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/bolum18.xhtml" id="bolum18.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/ek.xhtml" id="ek.xhtml" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css" />
+    <item href="Styles/style.css" id="style.css" media-type="text/css" />
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html" />
+    <itemref idref="cesur.xhtml" />
+    <itemref idref="yazar.xhtml" />
+    <itemref idref="onsoz.xhtml" />
+    <itemref idref="x1946.xhtml" />
+    <itemref idref="bolum1.xhtml" />
+    <itemref idref="bolum2.xhtml" />
+    <itemref idref="bolum3.xhtml" />
+    <itemref idref="bolum4.xhtml" />
+    <itemref idref="Section0001.xhtml" />
+    <itemref idref="bolum5.xhtml" />
+    <itemref idref="Section0002.xhtml" />
+    <itemref idref="bolum6.xhtml" />
+    <itemref idref="Section0003.xhtml" />
+    <itemref idref="Section0004.xhtml" />
+    <itemref idref="bolum7.xhtml" />
+    <itemref idref="bolum8.xhtml" />
+    <itemref idref="bolum9.xhtml" />
+    <itemref idref="bolum10.xhtml" />
+    <itemref idref="bolum11.xhtml" />
+    <itemref idref="bolum12.xhtml" />
+    <itemref idref="bolum13.xhtml" />
+    <itemref idref="bolum14.xhtml" />
+    <itemref idref="bolum15.xhtml" />
+    <itemref idref="bolum16.xhtml" />
+    <itemref idref="bolum17.xhtml" />
+    <itemref idref="bolum18.xhtml" />
+    <itemref idref="ek.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" title="Cover" type="cover" />
+    <reference href="Text/rica.html" title="Text" type="text" />
+    <reference href="Text/bolum1.xhtml" title="Text" type="text" />
+    <reference href="Text/bolum2.xhtml" title="Text" type="text" />
+    <reference href="Text/bolum3.xhtml" title="Text" type="text" />
+    <reference href="Text/bolum4.xhtml" title="Text" type="text" />
+  </guide>
+</package>

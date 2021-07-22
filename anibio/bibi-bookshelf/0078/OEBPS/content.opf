@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Camus, Albert">Albert Camus</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">78d3d2af-8a35-4961-81af-bcd2f32da79f</dc:identifier>
+    <dc:description>&lt;p&gt;Albert Camus, varoluşçuluk hümanizmi'nin ilginç bir örneği olan Ecinniler'de, kendi varoluşçuluk anlayışının siyasal, felsefi ve etik sınırlarını zorlamakta; Sisyphos Söylencesi ve Başkaldıran İnsan gibi en etkili ve önemli yapıtlarında ele aldığı varoluş sorunsalını Dostoyevski'nin yaşadığı olaylar dünyası içinde vermektedir.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>1994-03-28T21:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <meta content="2015-03-18T07:43:00.296000+00:00" name="calibre:timestamp"/>
+    <meta content="Ecinniler" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Albert Camus&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  <dc:title>Ecinniler</dc:title>
+<dc:subject>Siyasi</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Varoluşçuluk</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">118da55c-5e52-462a-a210-6f55e5db9608</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755101026</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ecinniler_01.htm" id="ecinniler_01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/ecinniler_02.htm" id="ecinniler_02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/ecinniler_03.htm" id="ecinniler_03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/ecinniler_04.htm" id="ecinniler_04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/ecinniler_05.htm" id="ecinniler_05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/ecinniler_06.htm" id="ecinniler_06.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ecinniler_01.htm"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="ecinniler_02.htm"/>
+    <itemref idref="ecinniler_03.htm"/>
+    <itemref idref="ecinniler_04.htm"/>
+    <itemref idref="ecinniler_05.htm"/>
+    <itemref idref="ecinniler_06.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

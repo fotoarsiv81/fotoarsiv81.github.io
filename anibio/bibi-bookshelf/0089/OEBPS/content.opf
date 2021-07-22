@@ -1,0 +1,75 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Hirschman, Albert O.">Albert O. Hirschman</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:050c1833-2fc5-4e5c-b353-3f9da84b1510</dc:identifier>
+    <dc:publisher>Metis Yayınları</dc:publisher>
+    <dc:type>Siyaset, Tarih, Sosyoloji</dc:type>
+    <dc:description>&lt;p&gt;Siyasal iktisadın tanınmış isimlerinden Albert O. Hirschman kapitalizmin şekillenmekte olduğu on yedinci ve on sekizinci yüzyıllardaki düşünsel havayı inceleyerek, çok uzun süre günah sayılan maddi çıkar peşinde koşmanın nasıl olup da hayatın merkezine oturduğu sorusuna cevap arıyor. Kapitalizmin yükselişine farklı bir yorum getiren yazar, Marksist ve Weberci düşüncenin ortak paydası olan kopuş fikrine değil, eski ile yeni arasındaki sürekliliğe vurgu yapıyor. Montesquieu, James Steuart, John Millar, Adam Smith gibi düşünürlerin görüşlerini inceleyen Hirschman, yaşanan uzun süreli ideolojik değişimi içsel bir süreç olarak tanımlıyor ve uzun bir tarihsel dönem boyunca birbirine karşıt tanımlanmış tutku ve çıkarların, Adam Smith tarafından bir tutulmasıyla birlikte koskoca bir düşünce zincirinin hafızalardan silindiğine işaret ediyor. Bir yandan, kapitalizmin "eksiksiz insan kişiliğinin" gelişmesine engel olduğu yolundaki eleştirileri ele alırken, on dokuzuncu yüzyıl öncesinde kapitalizmin zaten hükümdarların ve diğer soyluların tutkularını bastırma ve "daha az yönlü, öngörülemezliği azalmış, tek boyutlu bir insan kişiliği" yaratma amacıyla savunulduğuna dikkat çekiyor. Öte yandan, Keynes gibi "bırakınız yapsınlar" ideolojisi savunucularının savlarının da kapitalizmin gerici yüzünü göstermesinden önce hakim olan "herkesin kendi çıkarının peşinden koşması iyi bir düzen sağlayacaktır" fikrinin bir tekrarından ibaret olduğunun altını çiziyor. Düşünce tarihinin bu kitapta ele alınan bölümü hakkında bilgi edinmek, kapitalizm üzerine yapılacak çalışmalara ciddi ölçüde katkı sağlayacaktır.&lt;/p&gt;</dc:description>
+    <dc:date>2007-02-20T22:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="‎Tutkular ve Çıkarlar" name="calibre:title_sort"/>
+    <meta content="{&quot;Albert O. Hirschman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  <dc:title>‎Tutkular ve Çıkarlar</dc:title>
+<dc:subject>Kapitalizm</dc:subject>
+<dc:subject>Siyaset</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">c1e971e2-497b-452f-8914-9fd83ee25c75</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753426480</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/telif.htm" id="telif.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/epigraf.htm" id="epigraf.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/resim.htm" id="resim.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.htm" id="onsoz.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/yazarinonsozu.htm" id="yazarinonsozu.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/tesekkur.htm" id="tesekkur.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/baslangic.htm" id="baslangic.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.htm" id="giris.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part1.htm" id="part1.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum1.htm" id="bolum1.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part2.htm" id="part2.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2.htm" id="bolum2.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/part3.htm" id="part3.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum3.htm" id="bolum3.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stil.css" id="stil.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/title.png" id="title.png" media-type="image/png"/>
+    <item href="Images/TutkularVeCikarlar-2.jpg" id="TutkularVeCikarlar-2.jpg" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="LiberationSerif-Regular.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="telif.htm"/>
+    <itemref idref="epigraf.htm"/>
+    <itemref idref="resim.htm"/>
+    <itemref idref="onsoz.htm"/>
+    <itemref idref="yazarinonsozu.htm"/>
+    <itemref idref="tesekkur.htm"/>
+    <itemref idref="baslangic.htm"/>
+    <itemref idref="giris.htm"/>
+    <itemref idref="part1.htm"/>
+    <itemref idref="bolum1.htm"/>
+    <itemref idref="part2.htm"/>
+    <itemref idref="bolum2.htm"/>
+    <itemref idref="part3.htm"/>
+    <itemref idref="bolum3.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/title.xhtml" title="Title Page" type="title-page"/>
+    <reference href="Text/telif.htm" title="Copyright Page" type="copyright-page"/>
+    <reference href="Text/epigraf.htm" title="Epigraph" type="epigraph"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

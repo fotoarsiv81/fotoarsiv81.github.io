@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789750720178"/>
+      <meta name="dtb:depth" content="2"/>
+      <meta name="dtb:generator" content="Sistematik epub-tools"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Başkaldıran İnsan</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>GİRİŞ</text>
+         </navLabel>
+         <content src="preface.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>I. BAŞKALDIRAN İNSAN</text>
+         </navLabel>
+         <content src="chapter1-title.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>II. DOĞAÖTESİ BAŞKALDIRI</text>
+         </navLabel>
+         <content src="chapter2-title.xhtml"/>
+         <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+               <text>Kabil’in Oğulları</text>
+            </navLabel>
+            <content src="chapter2-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+               <text>Saltık Yadsıma</text>
+            </navLabel>
+            <content src="chapter2-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+               <text>Kurtuluşun Yadsınması</text>
+            </navLabel>
+            <content src="chapter2-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+               <text>Saltık Kesinleme</text>
+            </navLabel>
+            <content src="chapter2-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+               <text>Başkaldıran Şiir</text>
+            </navLabel>
+            <content src="chapter2-5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+               <text>Yoksayıcılık ve Tarih</text>
+            </navLabel>
+            <content src="chapter2-6.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+         <navLabel>
+            <text>III. TARİHSEL BAŞKALDIRI</text>
+         </navLabel>
+         <content src="chapter3-title.xhtml"/>
+         <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+               <text>Kral Öldürücüler</text>
+            </navLabel>
+            <content src="chapter3-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+               <text>Yeni İncil</text>
+            </navLabel>
+            <content src="chapter3-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+               <text>Tanrı Öldürücüler</text>
+            </navLabel>
+            <content src="chapter3-3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+               <text>Bireysel Yıldırıcılk</text>
+            </navLabel>
+            <content src="chapter3-4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+               <text>Devlet Yıldırıcılığı ve Usdışı Yıldırı</text>
+            </navLabel>
+            <content src="chapter3-5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+               <text>Devlet Yıldırıcılığı ve Ussal Yıldırı</text>
+            </navLabel>
+            <content src="chapter3-6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+               <text>Başkaldırı ve Devrim</text>
+            </navLabel>
+            <content src="chapter3-7.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+         <navLabel>
+            <text>IV. BAŞKALDIRI VE SANAT</text>
+         </navLabel>
+         <content src="chapter4-title.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+         <navLabel>
+            <text>V. ÖĞLE DÜŞÜNCESİ</text>
+         </navLabel>
+         <content src="chapter5-title.xhtml"/>
+         <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+               <text>Başkaldırı ve Öldürme</text>
+            </navLabel>
+            <content src="chapter5-1.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+               <text>Ölçü ve Ölçüsüzlük</text>
+            </navLabel>
+            <content src="chapter5-2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+               <text>Yoksayıcılığın Ötesinde</text>
+            </navLabel>
+            <content src="chapter5-3.xhtml"/>
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>
