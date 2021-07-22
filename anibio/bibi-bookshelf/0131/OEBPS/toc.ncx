@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:ad9ad998-fd7c-4e3f-8fb3-f0103a389f2e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ogullar ve Rencide Ruhlar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Oğullar ve Rencide Ruhlar</text>
+      </navLabel>
+      <content src="Text/Baslik.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>bir olmak ve de olmamak</text>
+        </navLabel>
+        <content src="Text/Bolum_1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>iki ne güzel komşumuzdun sen Hicabi Amca</text>
+        </navLabel>
+        <content src="Text/Bolum_2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>üç ilahi adalet, ömürsün</text>
+        </navLabel>
+        <content src="Text/Bolum_3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>dört ofisteki sosyopat</text>
+        </navLabel>
+        <content src="Text/Bolum_4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>beş serin devlet</text>
+        </navLabel>
+        <content src="Text/Bolum_5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>altı her budist bir faşiste tapar</text>
+        </navLabel>
+        <content src="Text/Bolum_6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>yedi öcülerin öcü</text>
+        </navLabel>
+        <content src="Text/Bolum_7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>sekiz sineklerin tanrısı Leviathan'a karşı</text>
+        </navLabel>
+        <content src="Text/Bolum_8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>dokuz dünyanın merkezine yolculuk</text>
+        </navLabel>
+        <content src="Text/Bolum_9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>on gerçekler ve hakikatler</text>
+        </navLabel>
+        <content src="Text/Bolum_10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>onbir böyle uyurdu zerdüşt</text>
+        </navLabel>
+        <content src="Text/Bolum_11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>oniki kartallar kuantal uçar</text>
+        </navLabel>
+        <content src="Text/Bolum_12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>on üç mevlitte son tango</text>
+        </navLabel>
+        <content src="Text/Bolum_13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>ondört mesut ve mutabık</text>
+        </navLabel>
+        <content src="Text/Bolum_14.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

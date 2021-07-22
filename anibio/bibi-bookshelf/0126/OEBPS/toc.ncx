@@ -1,0 +1,1533 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{466DEAD4-DB18-49DB-AA8E-E56B9BD8CE84}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="calibre (2.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Binbir Gece Masalları</text>
+  </docTitle>
+  <navMap>
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint playOrder="2">
+      <navLabel>
+        <text>I. CİLT</text>
+      </navLabel>
+      <content src="Text/ic_kapak1.xhtml"/>
+      <navPoint playOrder="3">
+        <navLabel>
+          <text>Künye</text>
+        </navLabel>
+        <content src="Text/kunye1.xhtml"/>
+      </navPoint>
+      <navPoint playOrder="4">
+        <navLabel>
+          <text>Binbir Gece Masalları’nı Okusak da Okumasak da (Orhan Pamuk)</text>
+        </navLabel>
+        <content src="Text/orhan_pamuk.xhtml"/>
+      </navPoint>
+      <navPoint playOrder="5">
+        <navLabel>
+          <text>Türkçeye Çevirenin Önsözü</text>
+        </navLabel>
+        <content src="Text/onsoz.xhtml"/>
+      </navPoint>
+      <navPoint playOrder="6">
+        <navLabel>
+          <text>Birinci Kitap</text>
+        </navLabel>
+        <content src="Text/birinci.xhtml"/>
+        <navPoint playOrder="7">
+          <navLabel>
+            <text>Yayıncının Notu</text>
+          </navLabel>
+          <content src="Text/yay_notu.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="8">
+          <navLabel>
+            <text>Dostlara Bir Çift Söz</text>
+          </navLabel>
+          <content src="Text/dostlara.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="9">
+          <navLabel>
+            <text>Hükümdar Şehriyar ile Kardeşi Hükümdar Şahzaman’ın Öyküsü</text>
+          </navLabel>
+          <content src="Text/1.xhtml"/>
+          <navPoint playOrder="10">
+            <navLabel>
+              <text>Eşek, Öküz ve Çiftçinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/1.xhtml#b1_1"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="11">
+          <navLabel>
+            <text>Tacir ile İfrit Öyküsü</text>
+          </navLabel>
+          <content src="Text/2.xhtml"/>
+          <navPoint playOrder="12">
+            <navLabel>
+              <text>Birinci Şeyhin Öyküsü</text>
+            </navLabel>
+            <content src="Text/2.xhtml#b2_1"/>
+          </navPoint>
+          <navPoint playOrder="13">
+            <navLabel>
+              <text>İkinci Şeyhin Öyküsü</text>
+            </navLabel>
+            <content src="Text/2.xhtml#b2_2"/>
+          </navPoint>
+          <navPoint playOrder="14">
+            <navLabel>
+              <text>Üçüncü Şeyhin Öyküsü</text>
+            </navLabel>
+            <content src="Text/2.xhtml#b2_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="15">
+          <navLabel>
+            <text>Balıkçı ile İfrit Öyküsü</text>
+          </navLabel>
+          <content src="Text/3.xhtml"/>
+          <navPoint playOrder="16">
+            <navLabel>
+              <text>Kral Yunan’ın Veziri ile Hekim Rûyan’ın Öyküsü</text>
+            </navLabel>
+            <content src="Text/3.xhtml#b3_1"/>
+            <navPoint playOrder="17">
+              <navLabel>
+                <text>Şah Sindbad’ın Şahini</text>
+              </navLabel>
+              <content src="Text/3.xhtml#b3_2"/>
+            </navPoint>
+            <navPoint playOrder="18">
+              <navLabel>
+                <text>Şehzade ile Gulyabani</text>
+              </navLabel>
+              <content src="Text/3.xhtml#b3_3"/>
+            </navPoint>
+          </navPoint>
+          <navPoint playOrder="19">
+            <navLabel>
+              <text>Büyülenmiş Genç Adam ile Balıkların Öyküsü</text>
+            </navLabel>
+            <content src="Text/3.xhtml#b3_4"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="20">
+          <navLabel>
+            <text>Hamal ile Genç Kızların Öyküsü</text>
+          </navLabel>
+          <content src="Text/4.xhtml"/>
+          <navPoint playOrder="21">
+            <navLabel>
+              <text>Birinci Kalenderin Öyküsü</text>
+            </navLabel>
+            <content src="Text/4.xhtml#b4_1"/>
+          </navPoint>
+          <navPoint playOrder="22">
+            <navLabel>
+              <text>İkinci Kalenderin Öyküsü</text>
+            </navLabel>
+            <content src="Text/4.xhtml#b4_2"/>
+          </navPoint>
+          <navPoint playOrder="23">
+            <navLabel>
+              <text>Üçüncü Kalenderin Öyküsü</text>
+            </navLabel>
+            <content src="Text/4.xhtml#b4_3"/>
+          </navPoint>
+          <navPoint playOrder="24">
+            <navLabel>
+              <text>Birinci Genç Kız Zübeyde’nin Öyküsü</text>
+            </navLabel>
+            <content src="Text/4.xhtml#b4_4"/>
+          </navPoint>
+          <navPoint playOrder="25">
+            <navLabel>
+              <text>İkinci Genç Kız Zübeyde’nin Öyküsü</text>
+            </navLabel>
+            <content src="Text/4.xhtml#b4_5"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="26">
+          <navLabel>
+            <text>Kesilerek Öldürülen Kadın, Üç Elma ve Zenci Reyhan Öyküsü</text>
+          </navLabel>
+          <content src="Text/5.xhtml"/>
+          <navPoint playOrder="27">
+            <navLabel>
+              <text>Vezir Nureddin, Kardeşi Vezir Şemseddin ve Hasan Bedreddin’in Öyküsü</text>
+            </navLabel>
+            <content src="Text/5.xhtml#b5_1"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="28">
+        <navLabel>
+          <text>İkinci Kitap</text>
+        </navLabel>
+        <content src="Text/ikinci.xhtml"/>
+        <navPoint playOrder="29">
+          <navLabel>
+            <text>Terzi ile Kamburun Öyküsü</text>
+          </navLabel>
+          <content src="Text/6.xhtml"/>
+          <navPoint playOrder="30">
+            <navLabel>
+              <text>Hıristiyan Simsarın Öyküsü</text>
+            </navLabel>
+            <content src="Text/6.xhtml#b6_1"/>
+          </navPoint>
+          <navPoint playOrder="31">
+            <navLabel>
+              <text>Çin Hükümdarının Azık Sağlayıcısının Öyküsü</text>
+            </navLabel>
+            <content src="Text/6.xhtml#b6_2"/>
+          </navPoint>
+          <navPoint playOrder="32">
+            <navLabel>
+              <text>Yahudi Hekimin Öyküsü</text>
+            </navLabel>
+            <content src="Text/6.xhtml#b6_3"/>
+          </navPoint>
+          <navPoint playOrder="33">
+            <navLabel>
+              <text>Terzinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/6.xhtml#b6_4"/>
+            <navPoint playOrder="34">
+              <navLabel>
+                <text>Topal Gencin Öyküsü</text>
+              </navLabel>
+              <content src="Text/6.xhtml#b6_4_1"/>
+            </navPoint>
+            <navPoint playOrder="35">
+              <navLabel>
+                <text>Bağdatlı Berberin Altı Kardeşinin Öyküsü</text>
+              </navLabel>
+              <content src="Text/6.xhtml#b6_4_2"/>
+              <navPoint playOrder="36">
+                <navLabel>
+                  <text>Berberin Birinci Kardeşi Bakbuk’un Öyküsü</text>
+                </navLabel>
+                <content src="Text/6.xhtml#b6_4_2_1"/>
+              </navPoint>
+              <navPoint playOrder="37">
+                <navLabel>
+                  <text>Berberin İkinci Kardeşi El-Haddar’ın Öyküsü</text>
+                </navLabel>
+                <content src="Text/6.xhtml#b6_4_2_2"/>
+              </navPoint>
+              <navPoint playOrder="38">
+                <navLabel>
+                  <text>Berberin Üçüncü Kardeşi Bakbak’ın Öyküsü</text>
+                </navLabel>
+                <content src="Text/6.xhtml#b6_4_2_3"/>
+              </navPoint>
+              <navPoint playOrder="39">
+                <navLabel>
+                  <text>Berberin Dördüncü Kardeşi El-Kûz’ün Öyküsü</text>
+                </navLabel>
+                <content src="Text/6.xhtml#b6_4_2_4"/>
+              </navPoint>
+              <navPoint playOrder="40">
+                <navLabel>
+                  <text>Berberin Beşinci Kardeşi El-Aşar’ın Öyküsü</text>
+                </navLabel>
+                <content src="Text/6.xhtml#b6_4_2_5"/>
+              </navPoint>
+              <navPoint playOrder="41">
+                <navLabel>
+                  <text>Berberin Altıncı Kardeşi Şakalik’in Öyküsü</text>
+                </navLabel>
+                <content src="Text/6.xhtml#b6_4_2_6"/>
+              </navPoint>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="42">
+          <navLabel>
+            <text>Enisü’l-Celis ile Ali-Nur’un Öyküsü</text>
+          </navLabel>
+          <content src="Text/7.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="43">
+          <navLabel>
+            <text>Ganim Bin Eyüb ve Kız Kardeşi Fitne’nin Öyküsü</text>
+          </navLabel>
+          <content src="Text/8.xhtml"/>
+          <navPoint playOrder="44">
+            <navLabel>
+              <text>Birinci Sudanlı Haremağası Zenci Savvab’ın Öyküsü</text>
+            </navLabel>
+            <content src="Text/8.xhtml#b8_1"/>
+          </navPoint>
+          <navPoint playOrder="45">
+            <navLabel>
+              <text>İkinci Sudanlı Haremağası Zenci Kâfur’un Öyküsü</text>
+            </navLabel>
+            <content src="Text/8.xhtml#b8_2"/>
+          </navPoint>
+          <navPoint playOrder="46">
+            <navLabel>
+              <text>Üçüncü Sudanlı Haremağası Zenci Bukait’in Öyküsü</text>
+            </navLabel>
+            <content src="Text/8.xhtml#b8_3"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="47">
+        <navLabel>
+          <text>Üçüncü Kitap</text>
+        </navLabel>
+        <content src="Text/ucuncu.xhtml"/>
+        <navPoint playOrder="48">
+          <navLabel>
+            <text>Şah Ömerü’n-Neman ve Şaşırtıcı Güzellikteki İki Oğlu: Şarkân ve Davü’l-Mekân’ın Öyküsü</text>
+          </navLabel>
+          <content src="Text/9.xhtml"/>
+          <navPoint playOrder="49">
+            <navLabel>
+              <text>Üç Konu Üstüne Deyişler</text>
+            </navLabel>
+            <content src="Text/9.xhtml#b9_1"/>
+          </navPoint>
+          <navPoint playOrder="50">
+            <navLabel>
+              <text>Şah Ömerü’n-Neman’ın Ölümünün Öyküsü ve Bundan Önce Yer Alan Hayranlık Uyandırıcı Anlatımlar</text>
+            </navLabel>
+            <content src="Text/9.xhtml#b9_2"/>
+            <navPoint playOrder="51">
+              <navLabel>
+                <text>Birinci Genç Kızın Anlatısı</text>
+              </navLabel>
+              <content src="Text/9.xhtml#b9_2_1"/>
+            </navPoint>
+            <navPoint playOrder="52">
+              <navLabel>
+                <text>İki Genç Kızın Anlatısı</text>
+              </navLabel>
+              <content src="Text/9.xhtml#b9_2_2"/>
+            </navPoint>
+            <navPoint playOrder="53">
+              <navLabel>
+                <text>Üçüncü Genç Kızın Anlatısı</text>
+              </navLabel>
+              <content src="Text/9.xhtml#b9_2_3"/>
+            </navPoint>
+            <navPoint playOrder="54">
+              <navLabel>
+                <text>Dördüncü Genç Kızın Anlatısı</text>
+              </navLabel>
+              <content src="Text/9.xhtml#b9_2_4"/>
+            </navPoint>
+            <navPoint playOrder="55">
+              <navLabel>
+                <text>Beşinci Genç Kızın Anlatısı</text>
+              </navLabel>
+              <content src="Text/9.xhtml#b9_2_5"/>
+            </navPoint>
+            <navPoint playOrder="56">
+              <navLabel>
+                <text>Yaşlı Kadının Anlatısı</text>
+              </navLabel>
+              <content src="Text/9.xhtml#b9_2_6"/>
+            </navPoint>
+          </navPoint>
+          <navPoint playOrder="57">
+            <navLabel>
+              <text>Manastırın Öyküsü</text>
+            </navLabel>
+            <content src="Text/9.xhtml#b9_3"/>
+          </navPoint>
+          <navPoint playOrder="58">
+            <navLabel>
+              <text>Aziz ile Azize ve Tacü’l-Mülûk Öyküsü</text>
+            </navLabel>
+            <content src="Text/9.xhtml#b9_4"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="59">
+        <navLabel>
+          <text>Dördüncü Kitap</text>
+        </navLabel>
+        <content src="Text/dorduncu.xhtml"/>
+        <navPoint playOrder="60">
+          <navLabel>
+            <text>Ömerü’n-Neman Öyküsünün Sonu; Güzel Aziz’in Öyküsü</text>
+          </navLabel>
+          <content src="Text/10.xhtml"/>
+          <navPoint playOrder="61">
+            <navLabel>
+              <text>Dünya Hatun ile Emir Tacü’l-Mülûk Öyküsü</text>
+            </navLabel>
+            <content src="Text/10.xhtml#b10_1"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="62">
+          <navLabel>
+            <text>Davü’l-Mekân’ın Oğlu Genç Kânmekân’ın Serüveni</text>
+          </navLabel>
+          <content src="Text/11.xhtml"/>
+          <navPoint playOrder="63">
+            <navLabel>
+              <text>Haşhaş Yutanın Öyküsü</text>
+            </navLabel>
+            <content src="Text/11.xhtml#b11_1"/>
+          </navPoint>
+          <navPoint playOrder="64">
+            <navLabel>
+              <text>Bedevi Hâmid’in Öyküsü</text>
+            </navLabel>
+            <content src="Text/11.xhtml#b11_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="65">
+          <navLabel>
+            <text>Hayvanların ve Kuşların Hoş Öyküleri</text>
+          </navLabel>
+          <content src="Text/12.xhtml"/>
+          <navPoint playOrder="66">
+            <navLabel>
+              <text>Kaz, Tavus ve Dişi Tavus Öyküsü</text>
+            </navLabel>
+            <content src="Text/12.xhtml#b12_1"/>
+          </navPoint>
+          <navPoint playOrder="67">
+            <navLabel>
+              <text>Çoban ile Genç Kız</text>
+            </navLabel>
+            <content src="Text/12.xhtml#b12_2"/>
+          </navPoint>
+          <navPoint playOrder="68">
+            <navLabel>
+              <text>Kaplumbağa ile Balıkçılın Öyküsü</text>
+            </navLabel>
+            <content src="Text/12.xhtml#b12_3"/>
+          </navPoint>
+          <navPoint playOrder="69">
+            <navLabel>
+              <text>Kurt ile Tilkinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/12.xhtml#b12_4"/>
+          </navPoint>
+          <navPoint playOrder="70">
+            <navLabel>
+              <text>Fare ile Gelincik Öyküsü</text>
+            </navLabel>
+            <content src="Text/12.xhtml#b12_5"/>
+          </navPoint>
+          <navPoint playOrder="71">
+            <navLabel>
+              <text>Karga ile Misk Kedisinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/12.xhtml#b12_6"/>
+          </navPoint>
+          <navPoint playOrder="72">
+            <navLabel>
+              <text>Karga ile Tilki Öyküsü</text>
+            </navLabel>
+            <content src="Text/12.xhtml#b12_7"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="73">
+          <navLabel>
+            <text>Ali ibni Bekkar ve Güzel Şemsü’n-Nehar Öyküsü</text>
+          </navLabel>
+          <content src="Text/13.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="74">
+        <navLabel>
+          <text>Beşinci Kitap</text>
+        </navLabel>
+        <content src="Text/besinci.xhtml"/>
+        <navPoint playOrder="75">
+          <navLabel>
+            <text>Kamerü’z-Zaman ile Prenses Bedrü’l-Büdur Öyküsü</text>
+          </navLabel>
+          <content src="Text/14.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="76">
+          <navLabel>
+            <text>Nimet ile Na’mâ’nın Öyküsü</text>
+          </navLabel>
+          <content src="Text/15.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="77">
+          <navLabel>
+            <text>Alaaddin ebu Şâmât’ın Öyküsü</text>
+          </navLabel>
+          <content src="Text/16.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="78">
+        <navLabel>
+          <text>Altıncı Kitap</text>
+        </navLabel>
+        <content src="Text/altinci.xhtml"/>
+        <navPoint playOrder="79">
+          <navLabel>
+            <text>Bilgili Canayakın’ın Öyküsü</text>
+          </navLabel>
+          <content src="Text/17.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="80">
+          <navLabel>
+            <text>Şair Ebu Nuvas’ın Serüveni</text>
+          </navLabel>
+          <content src="Text/18.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="81">
+          <navLabel>
+            <text>Gemici Sindbad’ın Öyküsü</text>
+          </navLabel>
+          <content src="Text/19.xhtml"/>
+          <navPoint playOrder="82">
+            <navLabel>
+              <text>Birinci Gezi</text>
+            </navLabel>
+            <content src="Text/19.xhtml#b19_1"/>
+          </navPoint>
+          <navPoint playOrder="83">
+            <navLabel>
+              <text>İkinci Gezi</text>
+            </navLabel>
+            <content src="Text/19.xhtml#b19_2"/>
+          </navPoint>
+          <navPoint playOrder="84">
+            <navLabel>
+              <text>Üçüncü Gezi</text>
+            </navLabel>
+            <content src="Text/19.xhtml#b19_3"/>
+          </navPoint>
+          <navPoint playOrder="85">
+            <navLabel>
+              <text>Dördüncü Gezi</text>
+            </navLabel>
+            <content src="Text/19.xhtml#b19_4"/>
+          </navPoint>
+          <navPoint playOrder="86">
+            <navLabel>
+              <text>Beşinci Gezi</text>
+            </navLabel>
+            <content src="Text/19.xhtml#b19_5"/>
+          </navPoint>
+          <navPoint playOrder="87">
+            <navLabel>
+              <text>Altıncı Gezi</text>
+            </navLabel>
+            <content src="Text/19.xhtml#b19_6"/>
+          </navPoint>
+          <navPoint playOrder="88">
+            <navLabel>
+              <text>Yedinci Gezi</text>
+            </navLabel>
+            <content src="Text/19.xhtml#b19_7"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="89">
+          <navLabel>
+            <text>Güzel Zümrüt ile Şöhret’in Oğlu Alişar’ın Öyküsü</text>
+          </navLabel>
+          <content src="Text/20.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="90">
+          <navLabel>
+            <text>Altı Ayrı Nitelikteki Genç Kadının Öyküsü</text>
+          </navLabel>
+          <content src="Text/21.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="91">
+        <navLabel>
+          <text>Yedinci Kitap</text>
+        </navLabel>
+        <content src="Text/yedinci.xhtml"/>
+        <navPoint playOrder="92">
+          <navLabel>
+            <text>Tunç Kentinin Olağanüstü Öyküsü</text>
+          </navLabel>
+          <content src="Text/22.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="93">
+          <navLabel>
+            <text>İbnü’l-Mansur ile İki Genç Kızın Öyküsü</text>
+          </navLabel>
+          <content src="Text/23.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="94">
+          <navLabel>
+            <text>Kasap Vardan ile Vezir Kızının Öyküsü</text>
+          </navLabel>
+          <content src="Text/24.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="95">
+          <navLabel>
+            <text>Yeraltı Sultanı Yemliha’nın Öyküsü</text>
+          </navLabel>
+          <content src="Text/25.xhtml"/>
+          <navPoint playOrder="96">
+            <navLabel>
+              <text>Belkiya’nın Öyküsü</text>
+            </navLabel>
+            <content src="Text/25.xhtml#b25_1"/>
+            <navPoint playOrder="97">
+              <navLabel>
+                <text>Kederli Yakışıklı Delikanlının Öyküsü</text>
+              </navLabel>
+              <content src="Text/25.xhtml#b25_1_1"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="98">
+          <navLabel>
+            <text>Ruhun Çiçekli Tarhları ve Zarafet Bahçesi</text>
+          </navLabel>
+          <content src="Text/26.xhtml"/>
+          <navPoint playOrder="99">
+            <navLabel>
+              <text>Harun Reşid ve Yel</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_1"/>
+          </navPoint>
+          <navPoint playOrder="100">
+            <navLabel>
+              <text>Genç ile Öğretmeni</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_2"/>
+          </navPoint>
+          <navPoint playOrder="101">
+            <navLabel>
+              <text>Olağanüstü Torba</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_3"/>
+          </navPoint>
+          <navPoint playOrder="102">
+            <navLabel>
+              <text>Harun Reşid Aşk Yargıcı</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_4"/>
+          </navPoint>
+          <navPoint playOrder="103">
+            <navLabel>
+              <text>Üstünlük Kimin: Delikanlının mı, Olgun Erkeğin mi?</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_5"/>
+          </navPoint>
+          <navPoint playOrder="104">
+            <navLabel>
+              <text>Hıyarın Değeri</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_6"/>
+          </navPoint>
+          <navPoint playOrder="105">
+            <navLabel>
+              <text>Beyaz Saçlar</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_7"/>
+          </navPoint>
+          <navPoint playOrder="106">
+            <navLabel>
+              <text>Çözülen Anlaşmazlık</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_8"/>
+          </navPoint>
+          <navPoint playOrder="107">
+            <navLabel>
+              <text>Ebu Nuvas ve Sitti Zübeyde’nin Yıkanışı</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_9"/>
+          </navPoint>
+          <navPoint playOrder="108">
+            <navLabel>
+              <text>Doğaçlama Şiir Okuyan Ebu Nuvas</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_10"/>
+          </navPoint>
+          <navPoint playOrder="109">
+            <navLabel>
+              <text>Eşek</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_11"/>
+          </navPoint>
+          <navPoint playOrder="110">
+            <navLabel>
+              <text>Sitti Zübeyde’nin Suçüstü Yakalanması</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_12"/>
+          </navPoint>
+          <navPoint playOrder="111">
+            <navLabel>
+              <text>Erkek mi, Dişi mi?</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_13"/>
+          </navPoint>
+          <navPoint playOrder="112">
+            <navLabel>
+              <text>Pay</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_14"/>
+          </navPoint>
+          <navPoint playOrder="113">
+            <navLabel>
+              <text>Okul Öğretmeni</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_15"/>
+          </navPoint>
+          <navPoint playOrder="114">
+            <navLabel>
+              <text>Yazılı Gömlek</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_16"/>
+          </navPoint>
+          <navPoint playOrder="115">
+            <navLabel>
+              <text>Bardak Üstündeki Yazı</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_17"/>
+          </navPoint>
+          <navPoint playOrder="116">
+            <navLabel>
+              <text>Sepetteki Halife</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_18"/>
+          </navPoint>
+          <navPoint playOrder="117">
+            <navLabel>
+              <text>İşkembe Temizleyicisi</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_19"/>
+          </navPoint>
+          <navPoint playOrder="118">
+            <navLabel>
+              <text>Göznuru Adlı Genç Kızın Öyküsü</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_20"/>
+          </navPoint>
+          <navPoint playOrder="119">
+            <navLabel>
+              <text>Genç Kızlar mı, Delikanlılar mı?</text>
+            </navLabel>
+            <content src="Text/26.xhtml#b26_21"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="120">
+          <navLabel>
+            <text>Sahte Halife</text>
+          </navLabel>
+          <content src="Text/27.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="121">
+        <navLabel>
+          <text>Sekizinci Kitap</text>
+        </navLabel>
+        <content src="Text/sekizinci.xhtml"/>
+        <navPoint playOrder="122">
+          <navLabel>
+            <text>Goncagül ve Dünya Tatlısı</text>
+          </navLabel>
+          <content src="Text/28.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="123">
+          <navLabel>
+            <text>Abanoz At’ın Sihirli Öyküsü</text>
+          </navLabel>
+          <content src="Text/29.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="124">
+          <navLabel>
+            <text>Fındıkçı Delile’nin Hilelerinin Öyküsü</text>
+          </navLabel>
+          <content src="Text/30.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="125">
+          <navLabel>
+            <text>Cıva Ali’nin, Delile ve Kızı, Delile’nin Kardeşi Balık Kızartıcısı Zurayk ve Büyücü Yahudi Azarya ile Serüvenleri</text>
+          </navLabel>
+          <content src="Text/31.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="126">
+          <navLabel>
+            <text>Balıkçı Cevder ya da Sihirli Heybenin Öyküsü</text>
+          </navLabel>
+          <content src="Text/32.xhtml"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="127">
+      <navLabel>
+        <text>II. CİLT</text>
+      </navLabel>
+      <content src="Text/ic_kapak2.xhtml"/>
+      <navPoint playOrder="128">
+        <navLabel>
+          <text>Künye</text>
+        </navLabel>
+        <content src="Text/kunye2.xhtml"/>
+      </navPoint>
+      <navPoint playOrder="129">
+        <navLabel>
+          <text>Dokuzuncu Kitap</text>
+        </navLabel>
+        <content src="Text/dokuzuncu.xhtml"/>
+        <navPoint playOrder="130">
+          <navLabel>
+            <text>Ebu Kir ile Ebu Sir’in Öyküsü</text>
+          </navLabel>
+          <content src="Text/33.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="131">
+          <navLabel>
+            <text>Itırlı Bahçe’den İbret Verici Fıkralar</text>
+          </navLabel>
+          <content src="Text/34.xhtml"/>
+          <navPoint playOrder="132">
+            <navLabel>
+              <text>Üç Dilek</text>
+            </navLabel>
+            <content src="Text/34.xhtml#b34_1"/>
+          </navPoint>
+          <navPoint playOrder="133">
+            <navLabel>
+              <text>Genç Çocuk ve Hamam Tellağ</text>
+            </navLabel>
+            <content src="Text/34.xhtml#b34_2"/>
+          </navPoint>
+          <navPoint playOrder="134">
+            <navLabel>
+              <text>Beyaz Var, Beyazcık Var</text>
+            </navLabel>
+            <content src="Text/34.xhtml#b34_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="135">
+          <navLabel>
+            <text>Karadaki Abdullah ile Denizdeki Abdullah’ın Öyküsü</text>
+          </navLabel>
+          <content src="Text/35.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="136">
+          <navLabel>
+            <text>Genç Sarı Adamın Öyküsü</text>
+          </navLabel>
+          <content src="Text/36.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="137">
+          <navLabel>
+            <text>Gülnar ile Gülen Ay Öyküsü</text>
+          </navLabel>
+          <content src="Text/37.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="138">
+          <navLabel>
+            <text>Musullu İshak’ın Kış Gecesi</text>
+          </navLabel>
+          <content src="Text/38.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="139">
+          <navLabel>
+            <text>Mısırlı Fellah ve Beyaz Çocukları</text>
+          </navLabel>
+          <content src="Text/39.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="140">
+          <navLabel>
+            <text>Halife ile Balıkçı Halife</text>
+          </navLabel>
+          <content src="Text/40.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="141">
+        <navLabel>
+          <text>Onuncu Kitap</text>
+        </navLabel>
+        <content src="Text/onuncu.xhtml"/>
+        <navPoint playOrder="142">
+          <navLabel>
+            <text>Hasarı el-Basri’nin Serüvenleri</text>
+          </navLabel>
+          <content src="Text/41.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="143">
+          <navLabel>
+            <text>Nezaket Kurallarına Aldırmayan Neşeli Kişiler Divanı</text>
+          </navLabel>
+          <content src="Text/42.xhtml"/>
+          <navPoint playOrder="144">
+            <navLabel>
+              <text>Tarihsel Yellenme</text>
+            </navLabel>
+            <content src="Text/42.xhtml#b42_1"/>
+          </navPoint>
+          <navPoint playOrder="145">
+            <navLabel>
+              <text>İki Soytarı</text>
+            </navLabel>
+            <content src="Text/42.xhtml#b42_2"/>
+          </navPoint>
+          <navPoint playOrder="146">
+            <navLabel>
+              <text>Kadın Hilesi</text>
+            </navLabel>
+            <content src="Text/42.xhtml#b42_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="147">
+          <navLabel>
+            <text>Uyanık Uykucu Öyküsü</text>
+          </navLabel>
+          <content src="Text/43.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="148">
+          <navLabel>
+            <text>Zeynü’l-Mevasıf’ın Aşkları</text>
+          </navLabel>
+          <content src="Text/44.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="149">
+          <navLabel>
+            <text>Tembel Gencin Öyküsü</text>
+          </navLabel>
+          <content src="Text/45.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="150">
+        <navLabel>
+          <text>On Birinci Kitap</text>
+        </navLabel>
+        <content src="Text/onbirinci.xhtml"/>
+        <navPoint playOrder="151">
+          <navLabel>
+            <text>Genç Nur ile Yiğit Frenk Kızının Öyküsü</text>
+          </navLabel>
+          <content src="Text/46.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="152">
+          <navLabel>
+            <text>Cömertlik ve Görgü Üstüne Öyküler</text>
+          </navLabel>
+          <content src="Text/47.xhtml"/>
+          <navPoint playOrder="153">
+            <navLabel>
+              <text>Salahaddin ve Veziri</text>
+            </navLabel>
+            <content src="Text/47.xhtml#b47_1"/>
+          </navPoint>
+          <navPoint playOrder="154">
+            <navLabel>
+              <text>Âşıkların Mezarı</text>
+            </navLabel>
+            <content src="Text/47.xhtml#b47_2"/>
+          </navPoint>
+          <navPoint playOrder="155">
+            <navLabel>
+              <text>Hind’in Boşanması</text>
+            </navLabel>
+            <content src="Text/47.xhtml#b47_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="156">
+          <navLabel>
+            <text>Bakireler Aynası’nın Harika Öyküsü</text>
+          </navLabel>
+          <content src="Text/48.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="157">
+          <navLabel>
+            <text>Alaaddin ve Sihirli Lamba Öyküsü</text>
+          </navLabel>
+          <content src="Text/49.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="158">
+        <navLabel>
+          <text>On İkinci Kitap</text>
+        </navLabel>
+        <content src="Text/onikinci.xhtml"/>
+        <navPoint playOrder="159">
+          <navLabel>
+            <text>Yaşamın Gerçek Bilimi Üstüne Mesel</text>
+          </navLabel>
+          <content src="Text/50.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="160">
+          <navLabel>
+            <text>Gül Gülüşlü Perizad</text>
+          </navLabel>
+          <content src="Text/51.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="161">
+          <navLabel>
+            <text>Kamer ile İşinin Ustası Halime’nin Öyküsü</text>
+          </navLabel>
+          <content src="Text/52.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="162">
+          <navLabel>
+            <text>Koyun Budunun Öyküsü</text>
+          </navLabel>
+          <content src="Text/53.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="163">
+          <navLabel>
+            <text>Bahtın Anahtarları</text>
+          </navLabel>
+          <content src="Text/54.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="164">
+          <navLabel>
+            <text>Kolay Şakalar ve Neşeli Bilgelikler Divanı</text>
+          </navLabel>
+          <content src="Text/55.xhtml"/>
+          <navPoint playOrder="165">
+            <navLabel>
+              <text>Eskimeyen Pabuçlar</text>
+            </navLabel>
+            <content src="Text/55.xhtml#b55_1"/>
+          </navPoint>
+          <navPoint playOrder="166">
+            <navLabel>
+              <text>Harun Reşid’in Soytarısı Behlül</text>
+            </navLabel>
+            <content src="Text/55.xhtml#b55_2"/>
+          </navPoint>
+          <navPoint playOrder="167">
+            <navLabel>
+              <text>Evrensel Barışa Çağrı</text>
+            </navLabel>
+            <content src="Text/55.xhtml#b55_3"/>
+          </navPoint>
+          <navPoint playOrder="168">
+            <navLabel>
+              <text>Düğümlenmiş Kordonlar</text>
+            </navLabel>
+            <content src="Text/55.xhtml#b55_4"/>
+            <navPoint playOrder="169">
+              <navLabel>
+                <text>İki Haşhaş Yutucunun Öyküsü</text>
+              </navLabel>
+              <content src="Text/55.xhtml#b55_4_1"/>
+              <navPoint playOrder="170">
+                <navLabel>
+                  <text>Yellenenlerin Şahı Kadı</text>
+                </navLabel>
+                <content src="Text/55.xhtml#b55_4_1_1"/>
+              </navPoint>
+              <navPoint playOrder="171">
+                <navLabel>
+                  <text>Katır Kadı</text>
+                </navLabel>
+                <content src="Text/55.xhtml#b55_4_1_2"/>
+              </navPoint>
+              <navPoint playOrder="172">
+                <navLabel>
+                  <text>Kadı ve Sıpa</text>
+                </navLabel>
+                <content src="Text/55.xhtml#b55_4_1_3"/>
+              </navPoint>
+              <navPoint playOrder="173">
+                <navLabel>
+                  <text>Uyanık Kadı</text>
+                </navLabel>
+                <content src="Text/55.xhtml#b55_4_1_4"/>
+              </navPoint>
+              <navPoint playOrder="174">
+                <navLabel>
+                  <text>Kadınları Anlayan Adamın Dersi</text>
+                </navLabel>
+                <content src="Text/55.xhtml#b55_4_1_5"/>
+              </navPoint>
+              <navPoint playOrder="175">
+                <navLabel>
+                  <text>Haşhaş Yutucunun Hükmü</text>
+                </navLabel>
+                <content src="Text/55.xhtml#b55_4_1_6"/>
+              </navPoint>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="176">
+          <navLabel>
+            <text>Sultan Nurü’n-Nehar ile Güzel Ecinniye Öyküsü</text>
+          </navLabel>
+          <content src="Text/56.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="177">
+        <navLabel>
+          <text>On Üçüncü Kitap</text>
+        </navLabel>
+        <content src="Text/onucuncu.xhtml"/>
+        <navPoint playOrder="178">
+          <navLabel>
+            <text>İnci Demeti’nin Öyküsü</text>
+          </navLabel>
+          <content src="Text/57.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="179">
+          <navLabel>
+            <text>Sultan Mahmud’un İkili Yaşamı</text>
+          </navLabel>
+          <content src="Text/58.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="180">
+          <navLabel>
+            <text>Dipsiz Hazine</text>
+          </navLabel>
+          <content src="Text/59.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="181">
+          <navLabel>
+            <text>Canayakın Zina Çocuğunun Karmaşık Öyküsü</text>
+          </navLabel>
+          <content src="Text/60.xhtml"/>
+          <navPoint playOrder="182">
+            <navLabel>
+              <text>Delikanlı Maymun Öyküsü</text>
+            </navLabel>
+            <content src="Text/60.xhtml#b60_1"/>
+          </navPoint>
+          <navPoint playOrder="183">
+            <navLabel>
+              <text>Birinci Delinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/60.xhtml#b60_2"/>
+          </navPoint>
+          <navPoint playOrder="184">
+            <navLabel>
+              <text>İkinci Delinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/60.xhtml#b60_3"/>
+          </navPoint>
+          <navPoint playOrder="185">
+            <navLabel>
+              <text>Üçüncü Delinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/60.xhtml#b60_4"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="186">
+          <navLabel>
+            <text>Doksan Dokuz Kesilmiş Kafanın Altında Bilgelik Sınavı</text>
+          </navLabel>
+          <content src="Text/61.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="187">
+          <navLabel>
+            <text>Karıların İhaneti</text>
+          </navLabel>
+          <content src="Text/62.xhtml"/>
+          <navPoint playOrder="188">
+            <navLabel>
+              <text>Tatlıcının Anlattığı Öykü</text>
+            </navLabel>
+            <content src="Text/62.xhtml#b62_1"/>
+          </navPoint>
+          <navPoint playOrder="189">
+            <navLabel>
+              <text>Sebze Yetiştiricisinin Anlattığı Öykü</text>
+            </navLabel>
+            <content src="Text/62.xhtml#b62_2"/>
+          </navPoint>
+          <navPoint playOrder="190">
+            <navLabel>
+              <text>Kasabın Anlattığı Öykü</text>
+            </navLabel>
+            <content src="Text/62.xhtml#b62_3"/>
+          </navPoint>
+          <navPoint playOrder="191">
+            <navLabel>
+              <text>Çalgıcıbaşının Anlattığı Öykü</text>
+            </navLabel>
+            <content src="Text/62.xhtml#b62_4"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="192">
+          <navLabel>
+            <text>Ali Baba ve Kırk Haramiler Öyküsü</text>
+          </navLabel>
+          <content src="Text/63.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="193">
+        <navLabel>
+          <text>On Dördüncü Kitap</text>
+        </navLabel>
+        <content src="Text/ondorduncu.xhtml"/>
+        <navPoint playOrder="194">
+          <navLabel>
+            <text>Harun Reşid’in Bağdat Köprüsü Üzerindeki Rastlantılarının Öyküsü</text>
+          </navLabel>
+          <content src="Text/64.xhtml"/>
+          <navPoint playOrder="195">
+            <navLabel>
+              <text>Genç Adamın Öyküsü</text>
+            </navLabel>
+            <content src="Text/64.xhtml#b64_1"/>
+          </navPoint>
+          <navPoint playOrder="196">
+            <navLabel>
+              <text>Atlının Öyküsü</text>
+            </navLabel>
+            <content src="Text/64.xhtml#b64_2"/>
+          </navPoint>
+          <navPoint playOrder="197">
+            <navLabel>
+              <text>Şeyhin Öyküsü</text>
+            </navLabel>
+            <content src="Text/64.xhtml#b64_3"/>
+          </navPoint>
+          <navPoint playOrder="198">
+            <navLabel>
+              <text>Okul Hocasının Öyküsü</text>
+            </navLabel>
+            <content src="Text/64.xhtml#b64_4"/>
+          </navPoint>
+          <navPoint playOrder="199">
+            <navLabel>
+              <text>Körün Öyküsü</text>
+            </navLabel>
+            <content src="Text/64.xhtml#b64_5"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="200">
+          <navLabel>
+            <text>Züleyha Sultan’ın Öyküsü</text>
+          </navLabel>
+          <content src="Text/65.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="201">
+          <navLabel>
+            <text>Kaygısız Gençliğin Neşeli Oturumları</text>
+          </navLabel>
+          <content src="Text/66.xhtml"/>
+          <navPoint playOrder="202">
+            <navLabel>
+              <text>Dikbaşlı Gencin Öyküsü</text>
+            </navLabel>
+            <content src="Text/66.xhtml#b66_1"/>
+          </navPoint>
+          <navPoint playOrder="203">
+            <navLabel>
+              <text>Halhal</text>
+            </navLabel>
+            <content src="Text/66.xhtml#b66_2"/>
+          </navPoint>
+          <navPoint playOrder="204">
+            <navLabel>
+              <text>Şah Kızı ile Tekenin Öyküsü</text>
+            </navLabel>
+            <content src="Text/66.xhtml#b66_3"/>
+          </navPoint>
+          <navPoint playOrder="205">
+            <navLabel>
+              <text>Şahın Oğlu ile Koca Kaplumbağa</text>
+            </navLabel>
+            <content src="Text/66.xhtml#b66_4"/>
+          </navPoint>
+          <navPoint playOrder="206">
+            <navLabel>
+              <text>Haşlanmış Nohut Satıcısının Kızı</text>
+            </navLabel>
+            <content src="Text/66.xhtml#b66_5"/>
+          </navPoint>
+          <navPoint playOrder="207">
+            <navLabel>
+              <text>Hülleci</text>
+            </navLabel>
+            <content src="Text/66.xhtml#b66_6"/>
+          </navPoint>
+          <navPoint playOrder="208">
+            <navLabel>
+              <text>Kollukçubaşının Öyküsü</text>
+            </navLabel>
+            <content src="Text/66.xhtml#b66_7"/>
+          </navPoint>
+          <navPoint playOrder="209">
+            <navLabel>
+              <text>En Gönlü Yüce Hangisi?</text>
+            </navLabel>
+            <content src="Text/66.xhtml#b66_8"/>
+          </navPoint>
+          <navPoint playOrder="210">
+            <navLabel>
+              <text>İğdiş Edilen Berber</text>
+            </navLabel>
+            <content src="Text/66.xhtml#b66_9"/>
+          </navPoint>
+          <navPoint playOrder="211">
+            <navLabel>
+              <text>Firuz ile Karısı</text>
+            </navLabel>
+            <content src="Text/66.xhtml#b66_10"/>
+          </navPoint>
+          <navPoint playOrder="212">
+            <navLabel>
+              <text>Doğum Yeri ve Ruh</text>
+            </navLabel>
+            <content src="Text/66.xhtml#b66_11"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="213">
+          <navLabel>
+            <text>Sihirli Kitabın Öyküsü</text>
+          </navLabel>
+          <content src="Text/67.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="214">
+        <navLabel>
+          <text>On Beşinci Kitap</text>
+        </navLabel>
+        <content src="Text/onbesinci.xhtml"/>
+        <navPoint playOrder="215">
+          <navLabel>
+            <text>Şehzade Elmas’ın Harika Öyküsü</text>
+          </navLabel>
+          <content src="Text/68.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="216">
+          <navLabel>
+            <text>Özdeyişler ve Nükteler Ustasından Bazı Latifeler ve Nükteler</text>
+          </navLabel>
+          <content src="Text/69.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="217">
+          <navLabel>
+            <text>Kuşların Başkanı Genç Kızın Öyküsü</text>
+          </navLabel>
+          <content src="Text/70.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="218">
+          <navLabel>
+            <text>Baybars’ın ve On İki Kolluk Amirinin Öyküsü</text>
+          </navLabel>
+          <content src="Text/71.xhtml"/>
+          <navPoint playOrder="219">
+            <navLabel>
+              <text>Birinci Kolluk Amirinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/71.xhtml#b71_1"/>
+          </navPoint>
+          <navPoint playOrder="220">
+            <navLabel>
+              <text>İkinci Kolluk Amirinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/71.xhtml#b71_2"/>
+          </navPoint>
+          <navPoint playOrder="221">
+            <navLabel>
+              <text>Üçüncü Kolluk Amirinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/71.xhtml#b71_3"/>
+          </navPoint>
+          <navPoint playOrder="222">
+            <navLabel>
+              <text>Dördüncü Kolluk Amirinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/71.xhtml#b71_4"/>
+          </navPoint>
+          <navPoint playOrder="223">
+            <navLabel>
+              <text>Beşinci Kolluk Amirinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/71.xhtml#b71_5"/>
+          </navPoint>
+          <navPoint playOrder="224">
+            <navLabel>
+              <text>Altıncı Kolluk Amirinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/71.xhtml#b71_6"/>
+          </navPoint>
+          <navPoint playOrder="225">
+            <navLabel>
+              <text>Yedinci Kolluk Amirinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/71.xhtml#b71_7"/>
+          </navPoint>
+          <navPoint playOrder="226">
+            <navLabel>
+              <text>Sekizinci Kolluk Amirinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/71.xhtml#b71_8"/>
+          </navPoint>
+          <navPoint playOrder="227">
+            <navLabel>
+              <text>Dokuzuncu Kolluk Amirinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/71.xhtml#b71_9"/>
+          </navPoint>
+          <navPoint playOrder="228">
+            <navLabel>
+              <text>Onuncu Kolluk Amirinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/71.xhtml#b71_10"/>
+          </navPoint>
+          <navPoint playOrder="229">
+            <navLabel>
+              <text>On Birinci Kolluk Amirinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/71.xhtml#b71_11"/>
+          </navPoint>
+          <navPoint playOrder="230">
+            <navLabel>
+              <text>On İkinci Kolluk Amirinin Öyküsü</text>
+            </navLabel>
+            <content src="Text/71.xhtml#b71_12"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="231">
+        <navLabel>
+          <text>On Altıncı Kitap</text>
+        </navLabel>
+        <content src="Text/onaltinci.xhtml"/>
+        <navPoint playOrder="232">
+          <navLabel>
+            <text>Deniz Gülü ile Çinli Genç Kızın Öyküsü</text>
+          </navLabel>
+          <content src="Text/72.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="233">
+          <navLabel>
+            <text>Ballı Künefe Öyküsü</text>
+          </navLabel>
+          <content src="Text/73.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="234">
+          <navLabel>
+            <text>Bilgiye ve Tarihe Açılan Pencereler</text>
+          </navLabel>
+          <content src="Text/74.xhtml"/>
+          <navPoint playOrder="235">
+            <navLabel>
+              <text>Şair Durait</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_1"/>
+          </navPoint>
+          <navPoint playOrder="236">
+            <navLabel>
+              <text>Şair Fint</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_2"/>
+          </navPoint>
+          <navPoint playOrder="237">
+            <navLabel>
+              <text>Şair Murakiş</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_3"/>
+          </navPoint>
+          <navPoint playOrder="238">
+            <navLabel>
+              <text>Şah Hucr’un İntikamı</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_4"/>
+          </navPoint>
+          <navPoint playOrder="239">
+            <navLabel>
+              <text>Eşleri Tarafından Değerlendirilen Kocalar</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_5"/>
+          </navPoint>
+          <navPoint playOrder="240">
+            <navLabel>
+              <text>Doğruyu Eğriden Ayırt Edici Ömer</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_6"/>
+          </navPoint>
+          <navPoint playOrder="241">
+            <navLabel>
+              <text>Şarkıcı Mavili Sallame</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_7"/>
+          </navPoint>
+          <navPoint playOrder="242">
+            <navLabel>
+              <text>Tufeyli</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_8"/>
+          </navPoint>
+          <navPoint playOrder="243">
+            <navLabel>
+              <text>Esire Kader’in Öyküsü</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_9"/>
+          </navPoint>
+          <navPoint playOrder="244">
+            <navLabel>
+              <text>Uğursuz Gerdanlık</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_10"/>
+          </navPoint>
+          <navPoint playOrder="245">
+            <navLabel>
+              <text>Musullu İshak ve Yitirilmiş Şarkı</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_11"/>
+          </navPoint>
+          <navPoint playOrder="246">
+            <navLabel>
+              <text>İki Rakkase</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_12"/>
+          </navPoint>
+          <navPoint playOrder="247">
+            <navLabel>
+              <text>Fıstık Yağlı Kaymak</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_13"/>
+          </navPoint>
+          <navPoint playOrder="248">
+            <navLabel>
+              <text>Çeşme Başındaki Genç Arap Kızı</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_14"/>
+          </navPoint>
+          <navPoint playOrder="249">
+            <navLabel>
+              <text>Israrın Sakıncası</text>
+            </navLabel>
+            <content src="Text/74.xhtml#b74_15"/>
+          </navPoint>
+        </navPoint>
+        <navPoint playOrder="250">
+          <navLabel>
+            <text>Cafer’in ve Bermekilerin Sonu</text>
+          </navLabel>
+          <content src="Text/75.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="251">
+          <navLabel>
+            <text>Şehzade Yasemin ile Badem Sultan’ın Öyküsü</text>
+          </navLabel>
+          <content src="Text/76.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="252">
+          <navLabel>
+            <text>Sonuç</text>
+          </navLabel>
+          <content src="Text/sonuc.xhtml"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="253">
+      <navLabel>
+        <text>Dipnotlar</text>
+      </navLabel>
+      <content src="Text/dipnot.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

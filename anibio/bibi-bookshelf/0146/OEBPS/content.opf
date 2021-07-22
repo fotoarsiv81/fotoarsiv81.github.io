@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Maalouf, Amin">Amin Maalouf</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:ac5a627f-7fad-4161-8810-06c74d3d4849</dc:identifier>
+    <dc:date>1996-08-16T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+  <dc:title>Işık Bahçeleri</dc:title>
+<meta name="calibre:title_sort" content="Işık Bahçeleri"/>
+<dc:publisher>Telos Yayıncılık</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Tarihi Kurgu</dc:subject>
+<dc:subject>İnanç</dc:subject>
+<dc:subject>Manizm</dc:subject>
+<dc:description>&lt;p&gt;3. yüzyılda yaşayan Mani, Manicilik dininin kurucusudur. Kurduğu din, İsa, Buda ve Zerdüşt'ün düşüncelerinin kaynaştırılmasından meydana gelmiştir. Mani, eski çağın bütün bilgeliğini bütün insanlara seslenen, evrensel ve tek bir dinle birleştirmek istiyordu. (...)
+"Semerkant", "Afrikalı Leo" ve "Tanios Kayası"nın yazarı, Goncourt Ödülü sahibi Amin Maalouf, dini ve düşünceleri bütün baskılara karşın "doğru" ve "iyi" insanlarda varlığını sürdüren Mani'nin yaşamını yeniden kurarken göz kamaştırıyor.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Amin Maalouf&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">cd9a19ef-e6c0-4034-b93c-319c16b497c9</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9755450823</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/isik15.xhtml" id="isik15.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/isik03.xhtml" id="isik03.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/isik02.xhtml" id="isik02.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/isik01.xhtml" id="isik01.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/isik04.xhtml" id="isik04.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/isik05.xhtml" id="isik05.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/isik06.xhtml" id="isik06.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/isik07.xhtml" id="isik07.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/isik08.xhtml" id="isik08.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/isik09.xhtml" id="isik09.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/isik10.xhtml" id="isik10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/isik11.xhtml" id="isik11.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/isik12.xhtml" id="isik12.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/isik13.xhtml" id="isik13.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/isik14.xhtml" id="isik14.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="isik01.xhtml"/>
+    <itemref idref="isik02.xhtml"/>
+    <itemref idref="isik03.xhtml"/>
+    <itemref idref="isik04.xhtml"/>
+    <itemref idref="isik05.xhtml"/>
+    <itemref idref="isik06.xhtml"/>
+    <itemref idref="isik07.xhtml"/>
+    <itemref idref="isik08.xhtml"/>
+    <itemref idref="isik09.xhtml"/>
+    <itemref idref="isik10.xhtml"/>
+    <itemref idref="isik11.xhtml"/>
+    <itemref idref="isik12.xhtml"/>
+    <itemref idref="isik13.xhtml"/>
+    <itemref idref="isik14.xhtml"/>
+    <itemref idref="isik15.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

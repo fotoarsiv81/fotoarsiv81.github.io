@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Maalouf, Amin">Amin Maalouf</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:3f39be07-fc1d-4859-8d65-d32dccf25bf4</dc:identifier>
+    <dc:date>2002-08-14T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta content="Afrikalı Leo" name="calibre:title_sort"/>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;p&gt;'Afrikalı Leo', gerçek bir yaşam öyküsünden çıkarılmış düşsel bir yaşamöyküsü: "Bir berberin sünnet ettiği, bir Papanın vaftiz ettiği" Hasan ibn Muhammed el-Vezzan ez-Zeyyati alias/namı diğer Giovanni Leone de Medici'nin, Leo Africanus yani Afrikalı Leo'nun özyaşamöyküsü -yazmış olsaydı yazacağı gibi...Amin Maalouf, bu ilk romanında -daha sonra Semerkant (YKY, 1993) ve Tanios Kayas'ı (YKY, 1995) romanlarında da yapacağı gibi- tarihle/tarihten olağanüstü bir halı dokuyor. Bir uçan halı...&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Amin Maalouf&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2016-01-09</dc:date>
+  <dc:title>Afrikalı Leo</dc:title>
+<dc:subject>Tarihi Kurgu</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Afrika</dc:subject>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:subject>İnanç</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e02f73d7-7f99-4d17-ad95-01f9e0bd3bf3</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753631570</dc:identifier>
+<dc:identifier opf:scheme="UUID">urn:uuid:3f39be07-fc1d-4859-8d65-d32dccf25bf4</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

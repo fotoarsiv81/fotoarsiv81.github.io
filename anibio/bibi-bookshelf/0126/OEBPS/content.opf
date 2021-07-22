@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Binbir Gece Masalları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Onaran, Alim Şerif">Alim Şerif Onaran</dc:creator>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2017-03-30</dc:date>
+    <dc:identifier id="uuid">{466DEAD4-DB18-49DB-AA8E-E56B9BD8CE84}</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">9450b148-bdd9-41ad-ad63-97fdd307b35e</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="id35" href="Text/ic_kapak1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id36" href="Text/kunye1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id37" href="Text/orhan_pamuk.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id38" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id39" href="Text/k.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id40" href="Text/ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id41" href="Text/birinci.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id42" href="Text/yay_notu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id43" href="Text/dostlara.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id44" href="Text/dedigi_olur.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id5" href="Text/ithaf1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id45" href="Text/1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id47" href="Text/2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id48" href="Text/3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id49" href="Text/4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id50" href="Text/5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id51" href="Text/ikinci.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id52" href="Text/ithaf2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id53" href="Text/6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id54" href="Text/7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id55" href="Text/8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id56" href="Text/ucuncu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id57" href="Text/ithaf3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id58" href="Text/9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id59" href="Text/dorduncu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id60" href="Text/ithaf4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id61" href="Text/10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id62" href="Text/11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id63" href="Text/12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id64" href="Text/13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id65" href="Text/besinci.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id66" href="Text/ithaf5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id67" href="Text/14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id68" href="Text/15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id69" href="Text/16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id70" href="Text/altinci.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id71" href="Text/ithaf6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id72" href="Text/17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id73" href="Text/18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id74" href="Text/19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id75" href="Text/20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id76" href="Text/21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id77" href="Text/yedinci.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id78" href="Text/ithaf7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id79" href="Text/22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id80" href="Text/23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id81" href="Text/24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id82" href="Text/25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id83" href="Text/26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id84" href="Text/27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id85" href="Text/sekizinci.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id86" href="Text/ithaf8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id87" href="Text/28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id88" href="Text/29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id89" href="Text/30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id90" href="Text/31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id91" href="Text/32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id6" href="Text/ic_kapak2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id7" href="Text/kunye2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="Text/dokuzuncu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id9" href="Text/ithaf9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id10" href="Text/33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id11" href="Text/34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id12" href="Text/35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id13" href="Text/36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id14" href="Text/37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id15" href="Text/38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id16" href="Text/39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id17" href="Text/40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id18" href="Text/onuncu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id19" href="Text/ithaf10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id20" href="Text/41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id21" href="Text/42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id22" href="Text/43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id23" href="Text/44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id24" href="Text/45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id27" href="Text/onbirinci.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id28" href="Text/ithaf11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id25" href="Text/46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id26" href="Text/47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id31" href="Text/48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id32" href="Text/49.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id46" href="Text/onikinci.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id92" href="Text/ithaf12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id93" href="Text/50.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id94" href="Text/51.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id95" href="Text/52.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id96" href="Text/53.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id97" href="Text/54.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id98" href="Text/55.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id99" href="Text/56.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id100" href="Text/onucuncu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id101" href="Text/ithaf13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id102" href="Text/57.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id103" href="Text/58.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id104" href="Text/59.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id105" href="Text/60.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id106" href="Text/61.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id107" href="Text/62.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id108" href="Text/63.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id109" href="Text/ondorduncu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id110" href="Text/ithaf14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id111" href="Text/64.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id112" href="Text/65.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id113" href="Text/66.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id114" href="Text/67.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id115" href="Text/onbesinci.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id116" href="Text/ithaf15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id117" href="Text/68.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id118" href="Text/69.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id119" href="Text/70.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id120" href="Text/71.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id121" href="Text/onaltinci.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id122" href="Text/ithaf16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id123" href="Text/72.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id124" href="Text/73.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id125" href="Text/74.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id126" href="Text/75.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id127" href="Text/76.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id128" href="Text/sonuc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id3" href="Text/dipnot.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id34" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id1" href="Styles/kunye.css" media-type="text/css"/>
+    <item id="id33" href="Styles/main.css" media-type="text/css"/>
+    <item id="logo.png" href="Images/logo.png" media-type="image/png"/>
+    <item id="id4" href="Images/yky.jpg" media-type="image/jpeg"/>
+    <item id="literata-bold-italic.otf" href="Fonts/literata-bold-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-bold.otf" href="Fonts/literata-bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-italic.otf" href="Fonts/literata-italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="literata-regular.otf" href="Fonts/literata-regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id34">
+    <itemref idref="titlepage"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id43"/>
+    <itemref idref="id44"/>
+    <itemref idref="id5"/>
+    <itemref idref="id45"/>
+    <itemref idref="id47"/>
+    <itemref idref="id48"/>
+    <itemref idref="id49"/>
+    <itemref idref="id50"/>
+    <itemref idref="id51"/>
+    <itemref idref="id52"/>
+    <itemref idref="id53"/>
+    <itemref idref="id54"/>
+    <itemref idref="id55"/>
+    <itemref idref="id56"/>
+    <itemref idref="id57"/>
+    <itemref idref="id58"/>
+    <itemref idref="id59"/>
+    <itemref idref="id60"/>
+    <itemref idref="id61"/>
+    <itemref idref="id62"/>
+    <itemref idref="id63"/>
+    <itemref idref="id64"/>
+    <itemref idref="id65"/>
+    <itemref idref="id66"/>
+    <itemref idref="id67"/>
+    <itemref idref="id68"/>
+    <itemref idref="id69"/>
+    <itemref idref="id70"/>
+    <itemref idref="id71"/>
+    <itemref idref="id72"/>
+    <itemref idref="id73"/>
+    <itemref idref="id74"/>
+    <itemref idref="id75"/>
+    <itemref idref="id76"/>
+    <itemref idref="id77"/>
+    <itemref idref="id78"/>
+    <itemref idref="id79"/>
+    <itemref idref="id80"/>
+    <itemref idref="id81"/>
+    <itemref idref="id82"/>
+    <itemref idref="id83"/>
+    <itemref idref="id84"/>
+    <itemref idref="id85"/>
+    <itemref idref="id86"/>
+    <itemref idref="id87"/>
+    <itemref idref="id88"/>
+    <itemref idref="id89"/>
+    <itemref idref="id90"/>
+    <itemref idref="id91"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id46"/>
+    <itemref idref="id92"/>
+    <itemref idref="id93"/>
+    <itemref idref="id94"/>
+    <itemref idref="id95"/>
+    <itemref idref="id96"/>
+    <itemref idref="id97"/>
+    <itemref idref="id98"/>
+    <itemref idref="id99"/>
+    <itemref idref="id100"/>
+    <itemref idref="id101"/>
+    <itemref idref="id102"/>
+    <itemref idref="id103"/>
+    <itemref idref="id104"/>
+    <itemref idref="id105"/>
+    <itemref idref="id106"/>
+    <itemref idref="id107"/>
+    <itemref idref="id108"/>
+    <itemref idref="id109"/>
+    <itemref idref="id110"/>
+    <itemref idref="id111"/>
+    <itemref idref="id112"/>
+    <itemref idref="id113"/>
+    <itemref idref="id114"/>
+    <itemref idref="id115"/>
+    <itemref idref="id116"/>
+    <itemref idref="id117"/>
+    <itemref idref="id118"/>
+    <itemref idref="id119"/>
+    <itemref idref="id120"/>
+    <itemref idref="id121"/>
+    <itemref idref="id122"/>
+    <itemref idref="id123"/>
+    <itemref idref="id124"/>
+    <itemref idref="id125"/>
+    <itemref idref="id126"/>
+    <itemref idref="id127"/>
+    <itemref idref="id128"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

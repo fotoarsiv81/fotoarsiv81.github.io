@@ -1,0 +1,65 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Maalouf, Amin">Amin Maalouf</dc:creator>
+<dc:identifier id="uuid">{87396799-5FDA-49D5-9BCA-108DE75EBF25}</dc:identifier>
+    <dc:date>2016-03-25T22:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Adriana Mater</dc:title>
+<meta name="calibre:title_sort" content="Adriana Mater"/>
+<dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Opera</dc:subject>
+<dc:subject>Oyun</dc:subject>
+<dc:description>&lt;p&gt;Amin Maalouf'dan yeni bir kitap... Maalouf'un Uzaktan Aşk'tan sonraki ikinci librettosu Adriana Mater. Maalouf bu operayı Opéra de Paris'nin isteği üzerine kaleme almış. 
+
+Adriana Mater, yer ve zaman belirtilmemiş ama 20. yüzyıl sonlarında Balkanlar'ın durumunu çağrıştıran, iç savaşın yaşandığı bir ülkede geçiyor. Genç bir kadın olan Adriana tecavüze uğrar ve hamile kalır, ama çocuğunu aldırmayı kabul etmez: "Onun çocuğu değil bu Refka, benim çocuğum ve bana benzeyecek" diye cevap verir kız kardeşine. Bu varlık iki kanı birlikte taşıyacaktır: Kurbanınki ve celladınki. Oğlu Yonas büyüdüğünde, bir gün, şehri terk etmiş olan doğurucusunun şehre geri geldiğini öğrenir ve onu öldürmeye yemin eder. "O adam ölmeyi hak ediyordu, ama sen, oğlum, öldürmeyi hak etmiyordun" diye cevap verir Adriana, Yonas'a.
+
+
+Amin Maalouf, bize sık sık Ortadoğu'yu ya da Balkanları anımsatan bir coğrafyada, savaşın yaşandığı bir ülkede, düşmanlığın ve yabancılığın eşiğinde, tükenmekte olan bir dünyanın eğretilemesini sunuyor. Maalouf'un Uzaktan Aşk'tan sonra ikinci librettosu olan Adriana Mater (Ana Adriana), bir yandan insanoğlunun unutulmaz trajedilerine ışık tutarken, öte yandan insanoğlunun bilmeyen soru(n)larını ortaya koyuyor: Kıyam çağında yaşama tutunabilir miyiz? Her ne olursa olsun bağışlamak, cesaret midir yoksa korkaklık mı?&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Amin Maalouf&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e2f3d701-2195-4478-b03c-30796c2e1de4</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750810985</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/roldagilimi.xhtml" id="roldagilimi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sahne2.xhtml" id="sahne2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sahne3.xhtml" id="sahne3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sahne4.xhtml" id="sahne4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sahne5.xhtml" id="sahne5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sahne6.xhtml" id="sahne6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sahne7.xhtml" id="sahne7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id8" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/ktplr.xhtml" id="ktplr.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Text/bcover.xhtml" id="bcover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/fcover.xhtml" id="fcover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/bcover.jpg" id="bcover.jpg" media-type="image/jpeg"/>
+    <item href="Images/fcover.jpg" id="fcover.jpg" media-type="image/jpeg"/>
+    <item href="Text/sahne1.xhtml" id="sahne1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/yky.png" id="yky.png" media-type="image/png"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id8">
+    <itemref idref="fcover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ktplr.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="roldagilimi.xhtml"/>
+    <itemref idref="sahne1.xhtml"/>
+    <itemref idref="sahne2.xhtml"/>
+    <itemref idref="sahne3.xhtml"/>
+    <itemref idref="sahne4.xhtml"/>
+    <itemref idref="sahne5.xhtml"/>
+    <itemref idref="sahne6.xhtml"/>
+    <itemref idref="sahne7.xhtml"/>
+    <itemref idref="bcover.xhtml"/>
+  </spine>
+  <guide/>
+</package>

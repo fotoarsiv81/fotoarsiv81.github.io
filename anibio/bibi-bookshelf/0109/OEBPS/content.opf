@@ -1,0 +1,91 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Moseley, Alexander">Alexander Moseley</dc:creator>
+<dc:identifier id="uuid">{2BE69EAE-20C2-45FA-8589-17CFF8D3228B}</dc:identifier>
+    <dc:date>2010-02-19T22:00:00+00:00</dc:date>
+    <dc:publisher>Ntv</dc:publisher>
+    <dc:description>&lt;p&gt;Günün Fırsatı 3 adet ile sınırlıdır. İlginiz için teşekkür ederiz.
+
+Felsefe ile ilgili genel kavramlar, tartışmalar ve düşünürler...
+
+Sokrates bilgiyi zihnimizde nasıl doğurttu?
+Diğer insanlar gerçekten cehennemimiz mi?
+Kaç farklı şekilde mantıksız olabiliriz?
+Özgür irade, her istediğimizi yapmak mı?
+Hegel'i okumaya nereden başlamalı?
+Felsefede aşkın doğasına ilişkin hangi teoriler çarpışıyor?
+Hedonizm sadece zevk almanın yüceltildiği bir felsefe mi?
+Wittgenstein'ın zehir gibi bilgeliğinden kendimize pay çıkarabilir miyiz?
+İnsanlarla hayvanlar arasındaki farklılıktan doğan haklar ne kadar etik? 
+İnsanın dünyadaki varoluşuna dair çok sayıda felsefi sorunun cevabını merak edenlere herkesin anlayabileceği dilde yazılmış bir kaynak kitap.
+A'dan Z'ye Felsefe, nükteli anekdotları ve pratik bilgileriyle "başucu filozofunuz" olmaya aday.&lt;/p&gt;</dc:description>
+    <meta name="cover" content="x0001.png"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="A'dan Z'ye Felsefe"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Alexander Moseley&quot;: &quot;&quot;}"/>
+  <dc:title>A'dan Z'ye Felsefe</dc:title>
+<dc:subject>Deneme</dc:subject>
+<dc:subject>Derleme</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">eaf66ffd-6500-470d-9e0b-5788ecc354cb</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786055813680</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Kapak1.xhtml" id="Kapak1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kapak2.xhtml" id="Kapak2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/icin.xhtml" id="icin.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/main-4.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/main-5.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/main-6.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/main-7.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/main-8.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/main-9.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/main-10.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/main-11.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/main-12.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/main-13.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/main-14.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/main-15.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/main-16.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/main-17.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id22" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id21" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/0001.png" id="x0001.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id22">
+    <itemref idref="Kapak1.xhtml"/>
+    <itemref idref="Kapak2.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="icin.xhtml"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+  </spine>
+  <guide>
+    <reference href="Text/icin.xhtml" title="İçindekiler" type="toc"/>
+  </guide>
+</package>

@@ -1,0 +1,44 @@
+p {
+  margin:0 auto 0 auto;  
+  font-size:0.65em;
+  text-indent:0em;
+  text-align:center;
+}
+
+.bos2{margin-top:2em;}
+.bos1{margin-top:1em;}
+.bos5{margin-top:5em;}
+.bos12{margin-top:12em;}
+
+.kunye1{font-size:1.6em;font-weight:bold;}
+.kunye2{font-size:1.3em;font-weight:bold;}
+.kunye3{font-size:1.2em;}
+.kunye4{font-size:0.9em;}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/literata-regular.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: bold;
+    font-style: normal;
+    src: url('../Fonts/literata-bold.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: bold;
+    font-style: italic;
+    src: url('../Fonts/literata-bold-italic.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: normal;
+    font-style: italic;
+    src: url('../Fonts/literata-italic.otf');
+}

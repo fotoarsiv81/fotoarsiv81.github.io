@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="3" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>ADLER ÜZERİNE</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>ÖNSÖZ</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>GİRİŞ</text>
+			</navLabel>
+			<content src="Text/5.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>I. BÖLÜM: GENEL BİLGİ</text>
+			</navLabel>
+			<content src="Text/6.html#toc_marker-4"/>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>1. İNSAN RUHU</text>
+				</navLabel>
+				<content src="Text/6-1.html#toc_marker-4-1"/>
+				<navPoint id="navpoint6" playOrder="6">
+					<navLabel>
+						<text>Ruhsal Yaşamın Tanımı ve Dayandığı Temeller</text>
+					</navLabel>
+					<content src="Text/6-1.html#toc_marker-4-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint7" playOrder="7">
+					<navLabel>
+						<text>Ruhun İşlevi</text>
+					</navLabel>
+					<content src="Text/6-1.html#toc_marker-4-1-2"/>
+				</navPoint>
+				<navPoint id="navpoint8" playOrder="8">
+					<navLabel>
+						<text>Ruhsal Yaşamın Amaca Yönelikliği</text>
+					</navLabel>
+					<content src="Text/6-1.html#toc_marker-4-1-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>2. RUHSAL YAŞAMIN TOPLUMSAL ÖZELLİĞİ</text>
+				</navLabel>
+				<content src="Text/6-2.html#toc_marker-4-2"/>
+				<navPoint id="navpoint10" playOrder="10">
+					<navLabel>
+						<text>Mutlak Gerçeklik</text>
+					</navLabel>
+					<content src="Text/6-2.html#toc_marker-4-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint11" playOrder="11">
+					<navLabel>
+						<text>Toplu Yaşam Zorunluluğu</text>
+					</navLabel>
+					<content src="Text/6-2.html#toc_marker-4-2-2"/>
+				</navPoint>
+				<navPoint id="navpoint12" playOrder="12">
+					<navLabel>
+						<text>Güvenlik ve Uyum</text>
+					</navLabel>
+					<content src="Text/6-2.html#toc_marker-4-2-3"/>
+				</navPoint>
+				<navPoint id="navpoint13" playOrder="13">
+					<navLabel>
+						<text>Toplumsallık Duygusu</text>
+					</navLabel>
+					<content src="Text/6-2.html#toc_marker-4-2-4"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint14" playOrder="14">
+				<navLabel>
+					<text>3. ÇOCUK ve TOPLUM</text>
+				</navLabel>
+				<content src="Text/6-3.html#toc_marker-4-3"/>
+				<navPoint id="navpoint15" playOrder="15">
+					<navLabel>
+						<text>Süt Çocuğunun Durumu</text>
+					</navLabel>
+					<content src="Text/6-3.html#toc_marker-4-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint16" playOrder="16">
+					<navLabel>
+						<text/>
+					</navLabel>
+					<content src="Text/6-3.html#toc_marker-4-3-2"/>
+				</navPoint>
+				<navPoint id="navpoint17" playOrder="17">
+					<navLabel>
+						<text>Güçlüklerin Etkisi</text>
+					</navLabel>
+					<content src="Text/6-3.html#toc_marker-4-3-3"/>
+				</navPoint>
+				<navPoint id="navpoint18" playOrder="18">
+					<navLabel>
+						<text>Toplumsal Bir Varlık Olarak İnsan</text>
+					</navLabel>
+					<content src="Text/6-3.html#toc_marker-4-3-4"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint19" playOrder="19">
+				<navLabel>
+					<text>4. DIŞ DÜNYADAN KAYNAKLANAN İZLENİMLER</text>
+				</navLabel>
+				<content src="Text/6-4.html#toc_marker-4-4"/>
+				<navPoint id="navpoint20" playOrder="20">
+					<navLabel>
+						<text>Genel Olarak Dünya Görüşü</text>
+					</navLabel>
+					<content src="Text/6-4.html#toc_marker-4-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint21" playOrder="21">
+					<navLabel>
+						<text>Dünya Görüşünün Oluşumunda Rol Oynayan Etkenler</text>
+					</navLabel>
+					<content src="Text/6-4.html#toc_marker-4-4-2"/>
+				</navPoint>
+				<navPoint id="navpoint22" playOrder="22">
+					<navLabel>
+						<text>Hayal Gücü</text>
+					</navLabel>
+					<content src="Text/6-4.html#toc_marker-4-4-3"/>
+				</navPoint>
+				<navPoint id="navpoint23" playOrder="23">
+					<navLabel>
+						<text>Düşler (Genel Bilgi)</text>
+					</navLabel>
+					<content src="Text/6-4.html#toc_marker-4-4-4"/>
+				</navPoint>
+				<navPoint id="navpoint24" playOrder="24">
+					<navLabel>
+						<text>Özdeşleşme</text>
+					</navLabel>
+					<content src="Text/6-4.html#toc_marker-4-4-5"/>
+				</navPoint>
+				<navPoint id="navpoint25" playOrder="25">
+					<navLabel>
+						<text>Bir İnsanın Bir Başkası Üzerindeki Etkisi: Hipnotizma ve Telkin</text>
+					</navLabel>
+					<content src="Text/6-4.html#toc_marker-4-4-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint26" playOrder="26">
+				<navLabel>
+					<text>5. AŞAĞILIK DUYGUSU ve SAYGINLIK ÇABASI</text>
+				</navLabel>
+				<content src="Text/6-5.html#toc_marker-4-5"/>
+				<navPoint id="navpoint27" playOrder="27">
+					<navLabel>
+						<text>Erken Çocukluk Dönemindeki Durum</text>
+					</navLabel>
+					<content src="Text/6-5.html#toc_marker-4-5-1"/>
+				</navPoint>
+				<navPoint id="navpoint28" playOrder="28">
+					<navLabel>
+						<text>Aşağılık Duygusunun Dengelenmesi, Saygınlık ve Üstünlük Çabası</text>
+					</navLabel>
+					<content src="Text/6-5.html#toc_marker-4-5-2"/>
+				</navPoint>
+				<navPoint id="navpoint29" playOrder="29">
+					<navLabel>
+						<text>Ana Çizgi ve Dünya Görüşü</text>
+					</navLabel>
+					<content src="Text/6-5.html#toc_marker-4-5-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint30" playOrder="30">
+				<navLabel>
+					<text>6. YAŞAMA HAZIRLIK</text>
+				</navLabel>
+				<content src="Text/6-6.html#toc_marker-4-6"/>
+				<navPoint id="navpoint31" playOrder="31">
+					<navLabel>
+						<text>Oyun</text>
+					</navLabel>
+					<content src="Text/6-6.html#toc_marker-4-6-1"/>
+				</navPoint>
+				<navPoint id="navpoint32" playOrder="32">
+					<navLabel>
+						<text>Dikkat ve Dalgınlık</text>
+					</navLabel>
+					<content src="Text/6-6.html#toc_marker-4-6-2"/>
+				</navPoint>
+				<navPoint id="navpoint33" playOrder="33">
+					<navLabel>
+						<text>İhmal ve Unutkanlık</text>
+					</navLabel>
+					<content src="Text/6-6.html#toc_marker-4-6-3"/>
+				</navPoint>
+				<navPoint id="navpoint34" playOrder="34">
+					<navLabel>
+						<text>Bilinçaltı</text>
+					</navLabel>
+					<content src="Text/6-6.html#toc_marker-4-6-4"/>
+				</navPoint>
+				<navPoint id="navpoint35" playOrder="35">
+					<navLabel>
+						<text>Düşler</text>
+					</navLabel>
+					<content src="Text/6-6.html#toc_marker-4-6-5"/>
+				</navPoint>
+				<navPoint id="navpoint36" playOrder="36">
+					<navLabel>
+						<text>Yetenek</text>
+					</navLabel>
+					<content src="Text/6-6.html#toc_marker-4-6-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint37" playOrder="37">
+				<navLabel>
+					<text>7. ERKEK ve KADIN İLİŞKİSİ</text>
+				</navLabel>
+				<content src="Text/6-7.html#toc_marker-4-7"/>
+				<navPoint id="navpoint38" playOrder="38">
+					<navLabel>
+						<text>İşbölümü, Kadınlık ve Erkeklik</text>
+					</navLabel>
+					<content src="Text/6-7.html#toc_marker-4-7-1"/>
+				</navPoint>
+				<navPoint id="navpoint39" playOrder="39">
+					<navLabel>
+						<text>Bugünkü Uygarlıkta Erkeğin Üstünlüğü</text>
+					</navLabel>
+					<content src="Text/6-7.html#toc_marker-4-7-2"/>
+				</navPoint>
+				<navPoint id="navpoint40" playOrder="40">
+					<navLabel>
+						<text>Kadının Yetersizliğine İlişkin Önyargı</text>
+					</navLabel>
+					<content src="Text/6-7.html#toc_marker-4-7-3"/>
+				</navPoint>
+				<navPoint id="navpoint41" playOrder="41">
+					<navLabel>
+						<text>Kadın Rolünden Kaçış</text>
+					</navLabel>
+					<content src="Text/6-7.html#toc_marker-4-7-4"/>
+				</navPoint>
+				<navPoint id="navpoint42" playOrder="42">
+					<navLabel>
+						<text>Kadın ve Erkek Cinsiyeti Arasındaki Gerilim</text>
+					</navLabel>
+					<content src="Text/6-7.html#toc_marker-4-7-5"/>
+				</navPoint>
+				<navPoint id="navpoint43" playOrder="43">
+					<navLabel>
+						<text>Durumu Düzeltme Girişimleri</text>
+					</navLabel>
+					<content src="Text/6-7.html#toc_marker-4-7-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint44" playOrder="44">
+				<navLabel>
+					<text>8. KARDEŞLER</text>
+				</navLabel>
+				<content src="Text/6-8.html#toc_marker-4-8"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint45" playOrder="45">
+			<navLabel>
+				<text>II. BÖLÜM: KARAKTER BİLGİSİ</text>
+			</navLabel>
+			<content src="Text/7.html#toc_marker-5"/>
+			<navPoint id="navpoint46" playOrder="46">
+				<navLabel>
+					<text>9. GENEL BİLGİ</text>
+				</navLabel>
+				<content src="Text/7-1.html#toc_marker-5-1"/>
+				<navPoint id="navpoint47" playOrder="47">
+					<navLabel>
+						<text>Karakterin Yapısı ve Oluşumu</text>
+					</navLabel>
+					<content src="Text/7-1.html#toc_marker-5-1-1"/>
+				</navPoint>
+				<navPoint id="navpoint48" playOrder="48">
+					<navLabel>
+						<text>Karakter Gelişiminde Toplumsallık Duygusunun Önemi</text>
+					</navLabel>
+					<content src="Text/7-1.html#toc_marker-5-1-2"/>
+				</navPoint>
+				<navPoint id="navpoint49" playOrder="49">
+					<navLabel>
+						<text>Karakterin Gelişim Doğrultuları</text>
+					</navLabel>
+					<content src="Text/7-1.html#toc_marker-5-1-3"/>
+				</navPoint>
+				<navPoint id="navpoint50" playOrder="50">
+					<navLabel>
+						<text>Eski Psikoloji Ekolü</text>
+					</navLabel>
+					<content src="Text/7-1.html#toc_marker-5-1-4"/>
+				</navPoint>
+				<navPoint id="navpoint51" playOrder="51">
+					<navLabel>
+						<text>Mizaç ve İçsalgı Bezleri</text>
+					</navLabel>
+					<content src="Text/7-1.html#toc_marker-5-1-5"/>
+				</navPoint>
+				<navPoint id="navpoint52" playOrder="52">
+					<navLabel>
+						<text>Özet</text>
+					</navLabel>
+					<content src="Text/7-1.html#toc_marker-5-1-6"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint53" playOrder="53">
+				<navLabel>
+					<text>10. SALDIRGAN (AGRESİF) TİPİN KARAKTER ÖZELLİKLERİ</text>
+				</navLabel>
+				<content src="Text/7-2.html#toc_marker-5-2"/>
+				<navPoint id="navpoint54" playOrder="54">
+					<navLabel>
+						<text>Kendini Beğenmişlik (Hırs)</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-5-2-1"/>
+				</navPoint>
+				<navPoint id="navpoint55" playOrder="55">
+					<navLabel>
+						<text>Kıskançlık</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-5-2-2"/>
+				</navPoint>
+				<navPoint id="navpoint56" playOrder="56">
+					<navLabel>
+						<text>Hasetlik (Çekemezlik)</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-5-2-3"/>
+				</navPoint>
+				<navPoint id="navpoint57" playOrder="57">
+					<navLabel>
+						<text>Cimrilik</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-5-2-4"/>
+				</navPoint>
+				<navPoint id="navpoint58" playOrder="58">
+					<navLabel>
+						<text>Kin</text>
+					</navLabel>
+					<content src="Text/7-2.html#toc_marker-5-2-5"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint59" playOrder="59">
+				<navLabel>
+					<text>11. SALDIRGAN OLMAYAN TİPİN KARAKTER ÖZELLİKLERİ</text>
+				</navLabel>
+				<content src="Text/7-3.html#toc_marker-5-3"/>
+				<navPoint id="navpoint60" playOrder="60">
+					<navLabel>
+						<text>Soyutlanmışlık</text>
+					</navLabel>
+					<content src="Text/7-3.html#toc_marker-5-3-1"/>
+				</navPoint>
+				<navPoint id="navpoint61" playOrder="61">
+					<navLabel>
+						<text>Korku</text>
+					</navLabel>
+					<content src="Text/7-3.html#toc_marker-5-3-2"/>
+				</navPoint>
+				<navPoint id="navpoint62" playOrder="62">
+					<navLabel>
+						<text>Ürkeklik</text>
+					</navLabel>
+					<content src="Text/7-3.html#toc_marker-5-3-3"/>
+				</navPoint>
+				<navPoint id="navpoint63" playOrder="63">
+					<navLabel>
+						<text>Uyum Yeteneğindeki Azalmanın Belirtisi Olan Dizginlenmemiş İçgüdüler</text>
+					</navLabel>
+					<content src="Text/7-3.html#toc_marker-5-3-4"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint64" playOrder="64">
+				<navLabel>
+					<text>12. DİĞER KARAKTER ÖZELLİKLERİ</text>
+				</navLabel>
+				<content src="Text/7-4.html#toc_marker-5-4"/>
+				<navPoint id="navpoint65" playOrder="65">
+					<navLabel>
+						<text>Neşelilik</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-5-4-1"/>
+				</navPoint>
+				<navPoint id="navpoint66" playOrder="66">
+					<navLabel>
+						<text>Düşünme ve Anlatım Biçimi</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-5-4-2"/>
+				</navPoint>
+				<navPoint id="navpoint67" playOrder="67">
+					<navLabel>
+						<text>Öğrenci Gibi Davrananlar</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-5-4-3"/>
+				</navPoint>
+				<navPoint id="navpoint68" playOrder="68">
+					<navLabel>
+						<text>İlke Adamları ve Kılı Kırk Yaranlar</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-5-4-4"/>
+				</navPoint>
+				<navPoint id="navpoint69" playOrder="69">
+					<navLabel>
+						<text>Boyun Eğme</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-5-4-5"/>
+				</navPoint>
+				<navPoint id="navpoint70" playOrder="70">
+					<navLabel>
+						<text>Kibirlenme ve Büyüklenme</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-5-4-6"/>
+				</navPoint>
+				<navPoint id="navpoint71" playOrder="71">
+					<navLabel>
+						<text>Belirli Bir Ruh Durumunun İnsanları</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-5-4-7"/>
+				</navPoint>
+				<navPoint id="navpoint72" playOrder="72">
+					<navLabel>
+						<text>Şanssızlar ve Karganın Yuvadan Attıkları</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-5-4-8"/>
+				</navPoint>
+				<navPoint id="navpoint73" playOrder="73">
+					<navLabel>
+						<text>Dindarlık</text>
+					</navLabel>
+					<content src="Text/7-4.html#toc_marker-5-4-9"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint74" playOrder="74">
+				<navLabel>
+					<text>13. HEYECANLAR</text>
+				</navLabel>
+				<content src="Text/7-5.html#toc_marker-5-5"/>
+				<navPoint id="navpoint75" playOrder="75">
+					<navLabel>
+						<text>I. Ayırıcı Heyecanlar</text>
+					</navLabel>
+					<content src="Text/7-5.html#toc_marker-5-5-1"/>
+				</navPoint>
+				<navPoint id="navpoint76" playOrder="76">
+					<navLabel>
+						<text>II. Birleştirici Heyecanlar</text>
+					</navLabel>
+					<content src="Text/7-5.html#toc_marker-5-5-2"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint77" playOrder="77">
+			<navLabel>
+				<text>EK</text>
+			</navLabel>
+			<content src="Text/8.html#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint78" playOrder="78">
+			<navLabel>
+				<text>SONSÖZ</text>
+			</navLabel>
+			<content src="Text/9.html#toc_marker-7"/>
+		</navPoint>
+	</navMap>
+</ncx>

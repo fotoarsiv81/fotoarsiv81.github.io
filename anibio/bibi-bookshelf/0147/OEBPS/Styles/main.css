@@ -1,0 +1,120 @@
+p {
+   text-indent:1.0em;
+   font-size:100%;
+   line-height:113%;
+   margin-top:.2em;
+   margin-bottom:.2em;
+   text-align:justify;
+   }
+
+.kunye { 
+       font-size: 	75%;
+       margin-top: 0.3em; 	
+       text-align: center;
+       text-indent: 0;
+       }
+
+
+
+
+.siir {
+       text-align:right;
+       margin-left:0.25in;
+       margin-right:0.25in;
+       font-family:"Trebuchet MS",Times,serif;
+       font-size:100%;
+       margin-top:0.01in;
+       margin-bottom:0.01in;
+       font-style: italic;
+       }
+
+.ktplr{
+       text-align:center;
+       margin-left:0.25in;
+       margin-right:0.25in;
+       font-size:100%;
+       margin-top:0.01in;
+       margin-bottom:0.01in;
+       font-style: italic;
+       }
+
+.yazarad {
+         text-align:center;
+         font-family:"Liberation Serif-Bold", serif;
+         font-weight:normal;
+         text-indent:0em;
+         font-size:1.8em;
+         margin-top:2em;
+         margin-bottom:0.5em;
+         }
+
+
+
+.kitapisim {
+           text-align:center;
+           font-family:"Liberation Serif-Bold", serif;
+           font-style:bold;
+           font-size:2.5em;
+           text-indent:0em;
+           margin-top:0em;
+           margin-bottom:0.6em;
+           }
+
+
+
+.cevirmen{
+         text-align:center;
+         font-family:"Liberation Serif-Bold", serif;
+         font-style:bold;
+         font-size:1.5em;
+         text-indent:0em;
+         margin-top:0em;
+         margin-bottom:0.6em;
+         }
+
+
+
+.bilgi {
+        text-align:center;
+        font-family:"Liberation Serif-Bold", serif;
+        font-size:1.0em;
+        font-weight:bold;
+        text-indent:0em;
+        margin-top:1em;
+        margin-bottom:1em;
+        }
+
+
+
+.baslik
+	{
+	text-align:center;
+	font-family:"Liberation Serif-Bold", serif;
+	font-weight:lighter;
+	text-indent:0em;
+	font-size:1.5em;
+	margin-top:4em;
+	margin-bottom:2.5em;
+	}
+
+
+
+.bosluk{
+	    padding-top:6em;
+	    padding-bottom:8em;
+        }
+
+.bosluk2{
+	     padding-top:1em;
+	     padding-bottom:1em;
+         }
+
+.bosluk3{
+         padding-top:1.5em;
+         padding-bottom:1.5em;
+         }
+
+.bosluk4{
+         padding-top:2em;
+         padding-bottom:2em;
+         }

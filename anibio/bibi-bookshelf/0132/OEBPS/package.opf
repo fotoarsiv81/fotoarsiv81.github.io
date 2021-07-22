@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Değirmenimden Mektuplar</dc:title>
+    <dc:creator xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="aut" ns1:file-as="Daudet, Alphonse &amp; Yalçıntoklu, Volkan">Alphonse Daudet</dc:creator>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut">Volkan Yalçıntoklu</dc:creator>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:identifier id="pub-id">urn:isbn:9789750720215</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor xmlns:ns3="http://www.idpf.org/2007/opf" ns3:role="bkp">calibre (2.83.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">a5bf76fc-4470-4162-a80b-82f0e87e0235</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789750720215</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml"/>
+    <item href="copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml"/>
+    <item href="books.xhtml" id="booksxhtml" media-type="application/xhtml+xml"/>
+    <item href="biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml"/>
+    <item href="preface.xhtml" id="prefacexhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter1.xhtml" id="chapter1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter2.xhtml" id="chapter2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter3.xhtml" id="chapter3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter4.xhtml" id="chapter4xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter5.xhtml" id="chapter5xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter6.xhtml" id="chapter6xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter7.xhtml" id="chapter7xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter8.xhtml" id="chapter8xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter9.xhtml" id="chapter9xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter10.xhtml" id="chapter10xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter11.xhtml" id="chapter11xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter12.xhtml" id="chapter12xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter13-1.xhtml" id="chapter13-1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter13-2.xhtml" id="chapter13-2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter14.xhtml" id="chapter14xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter15.xhtml" id="chapter15xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter16.xhtml" id="chapter16xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter17-1.xhtml" id="chapter17-1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter17-2.xhtml" id="chapter17-2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter17-3.xhtml" id="chapter17-3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter18.xhtml" id="chapter18xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter19.xhtml" id="chapter19xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter20.xhtml" id="chapter20xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter21.xhtml" id="chapter21xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter22.xhtml" id="chapter22xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter23-1.xhtml" id="chapter23-1xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter23-2.xhtml" id="chapter23-2xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter23-3.xhtml" id="chapter23-3xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter23-4.xhtml" id="chapter23-4xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter23-5.xhtml" id="chapter23-5xhtml" media-type="application/xhtml+xml"/>
+    <item href="chapter24.xhtml" id="chapter24xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="maincss" media-type="text/css"/>
+    <item href="image/cover.jpg" id="image__coverjpg" media-type="image/jpeg"/>
+    <item href="image/logo.jpg" id="image__logojpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uFYv8Iub784nh4jOkl32myA" media-type="image/jpeg"/>
+    <item href="font/BerlingLTStd-Bold.ttf" id="font__BerlingLTStd-Boldttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-BoldItalic.ttf" id="font__BerlingLTStd-BoldItalicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-Italic.ttf" id="font__BerlingLTStd-Italicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-Medium.ttf" id="font__BerlingLTStd-Mediumttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/BerlingLTStd-Roman.ttf" id="font__BerlingLTStd-Romanttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd-Italic.ttf" id="font__GillSansStd-Italicttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd-Light.ttf" id="font__GillSansStd-Lightttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GillSansStd.ttf" id="font__GillSansStdttf" media-type="application/vnd.ms-opentype"/>
+    <item href="font/GoudyCatTReg.ttf" id="font__GoudyCatTRegttf" media-type="application/vnd.ms-opentype"/>
+    <item href="titlepage_u1.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="coverxhtml"/>
+    <itemref idref="copyright-pagexhtml"/>
+    <itemref idref="titlepagexhtml"/>
+    <itemref idref="booksxhtml"/>
+    <itemref idref="biographyxhtml"/>
+    <itemref idref="prefacexhtml"/>
+    <itemref idref="chapter1xhtml"/>
+    <itemref idref="chapter2xhtml"/>
+    <itemref idref="chapter3xhtml"/>
+    <itemref idref="chapter4xhtml"/>
+    <itemref idref="chapter5xhtml"/>
+    <itemref idref="chapter6xhtml"/>
+    <itemref idref="chapter7xhtml"/>
+    <itemref idref="chapter8xhtml"/>
+    <itemref idref="chapter9xhtml"/>
+    <itemref idref="chapter10xhtml"/>
+    <itemref idref="chapter11xhtml"/>
+    <itemref idref="chapter12xhtml"/>
+    <itemref idref="chapter13-1xhtml"/>
+    <itemref idref="chapter13-2xhtml"/>
+    <itemref idref="chapter14xhtml"/>
+    <itemref idref="chapter15xhtml"/>
+    <itemref idref="chapter16xhtml"/>
+    <itemref idref="chapter17-1xhtml"/>
+    <itemref idref="chapter17-2xhtml"/>
+    <itemref idref="chapter17-3xhtml"/>
+    <itemref idref="chapter18xhtml"/>
+    <itemref idref="chapter19xhtml"/>
+    <itemref idref="chapter20xhtml"/>
+    <itemref idref="chapter21xhtml"/>
+    <itemref idref="chapter22xhtml"/>
+    <itemref idref="chapter23-1xhtml"/>
+    <itemref idref="chapter23-2xhtml"/>
+    <itemref idref="chapter23-3xhtml"/>
+    <itemref idref="chapter23-4xhtml"/>
+    <itemref idref="chapter23-5xhtml"/>
+    <itemref idref="chapter24xhtml"/>
+  </spine>
+  <guide>
+    <reference href="titlepage_u1.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,73 @@
+body {font-family:literata;margin-left:.4em;margin-right:0.4em;}
+p {text-align:justify;margin: 0 0 0 0;font-size:.9em;text-indent:1.5em}
+a:link {text-decoration: none;}
+sub, sup { 
+font-size: 75%;
+line-height: 0; 
+}
+sup {top: -0.25em;}
+sub {bottom: -0.25em;}
+
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always;font-size:0.7em;}
+.bos1{margin-top:1em;}
+.bos5{margin-top:5em;}
+.bos2{margin-top:2em;}
+.bos15{margin-top:15em;}
+
+.baslik1{text-indent: 0em;text-align:center;font-size:1.3em;}
+
+.baslik10 {margin-top:7em;margin-bottom:3em;}
+.baslik10 p{text-indent: 0em;text-align:center;text-indent: 0em;font-size:1.5em;font-style:italic;}
+
+.baslik11 {margin-left:1.5em;margin-top:2em;margin-bottom:1em;}
+.baslik11 p{text-indent: 0em;font-size:1.2em;font-weight:bold;font-style:italic;}
+
+.baslik12 {margin-left:1.5em;margin-top:2em;margin-bottom:1em;}
+.baslik12 p{text-indent: 0em;font-size:1.2em;font-style:italic;}
+
+.baslik13 {margin-left:1.5em;margin-top:2em;margin-bottom:1em;}
+.baslik13 p{text-indent: 0em;font-size:1.1em;font-weight:bold;}
+
+.baslik2 {margin-left:1.5em;margin-top:2em;margin-bottom:1em;}
+.baslik2 p{text-indent: 0em;font-size:1.2em;}
+.baslik3{text-indent: 0em;font-size:1.2em;font-weight:bold;}
+
+.kaynakca {margin-left:1.5em;}
+.kaynakca p{margin-bottom:0.2em;text-indent: -1.5em;font-size:0.9em;}
+
+.kitap1{text-indent: 0em;text-align:center;font-size:1.8em;font-weight:bold;}
+
+.kitap2{text-indent: 0em;text-align:center;font-size:1.6em;font-weight:bold;}
+.kitap3{text-indent: 0em;text-align:center;font-size:1.2em;}
+.ortali{text-indent: 0em;text-align:center;}
+
+.gir1{margin-left:5em;margin-top:1em;margin-bottom:1em;}
+.gir1 p{text-indent: 0em;font-size:0.9em;}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/literata-regular.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: bold;
+    font-style: normal;
+    src: url('../Fonts/literata-bold.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: bold;
+    font-style: italic;
+    src: url('../Fonts/literata-bold-italic.otf');
+}
+
+@font-face {
+    font-family: 'Literata';
+    font-weight: normal;
+    font-style: italic;
+    src: url('../Fonts/literata-italic.otf');
+}

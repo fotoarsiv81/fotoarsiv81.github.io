@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Nothomb, Amélie">Amélie Nothomb</dc:creator>
+<dc:identifier id="uuid">{28218932-4F60-4097-AF58-487CFFB23CF6}</dc:identifier>
+    <dc:date>2016-01-29T22:00:00+00:00</dc:date>
+    <meta content="0.8.1" name="Sigil version"/>
+    <meta name="cover" content="cover"/>
+  <meta name="calibre:title_sort" content="Dişi Şeytan"/>
+<dc:publisher>Doğan Kiitap</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:description>&lt;div&gt;&lt;span style="color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 11px; widows: 1; background-color: rgb(255, 255, 255);"&gt;On altı yaşında kendine güvensiz, bedeninden ve varlığından ürken, arkadaşsız, yalnız bir genç kız kendisinin tam tersi bir kıza rastlarsa ne olur? Hele o kız, önce yatağını, sonra ailesini, sonra da tüm hayatını ele geçirirse? Kısa ve etkili kitaplarıyla tüm dünyada haklı bir üne ve geniş bir okur kitlesine sahip olan Amélie Nothomb’un Dişi Şeytan adlı romanı böyle bir hikâyeyi anlatıyor.&lt;/span&gt;&lt;br style="color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 11px; widows: 1; background-color: rgb(255, 255, 255);"&gt;&lt;span style="color: rgb(102, 102, 102); font-family: Verdana, Geneva, sans-serif; font-size: 11px; widows: 1; background-color: rgb(255, 255, 255);"&gt;Bir insanın diğer bir insana nasıl üstünlük sağlayabileceğinin ya da bir insanın başka bir insanı nasıl parmağında oynatabileceğinin hikâyesi de denilebilir "Dişi Şeytan"a. Yaşananlar arkadaşlık adıyla başlayıp, kurban-cellat ilişkisine dönüşüyor. Aslında bu kitap hiç güzel bir şey söylemiyor. İnsanlığa duyulan güveni yıkıyor, aileye bile sığınamıyor bu romanda okur. Ana kahramanımız Blanche’ın duyduğu yalnızlık ve solgunluk insanın içine işliyor, acıyı derinden hissettiriyor. Ama melonkoliye izin veren bir roman da değil "Dişi Şeytan", acıların içinde küçük bir mutluluk çatısı da açılıyor sığınmak için. Tüm Nothomb kitapları gibi akıcı, sahici ve temiz diyaloglarıyla akıp gidiyor. Ve geriye iyi bir roman okumanın doyurucu hissi kalıyor. &lt;/span&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:author_link_map" content="{&quot;Amélie Nothomb&quot;: &quot;&quot;}"/>
+<dc:title>Dişi Şeytan</dc:title>
+<dc:subject>Edebiyat</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Çeviri</dc:subject>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:subject>young adult</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">fabad952-d348-4ff6-bdd2-389bb4b7a5e0</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752934160</dc:identifier>
+<meta name="calibre:user_metadata:#turkce" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#turkce&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;turkce&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;edebiyat tr&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-baslik.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id3" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id2" media-type="text/css"/>
+    <item href="ds.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id3">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+    <itemref idref="id0"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Pazartesi Öyküleri II</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>GELGEÇ HEVESLER VE ANILAR BİR KAYIT YAZMANI</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>ARTHUR</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>ÜÇ UYARI</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>BİR İLK GÖSTERİ AKŞAMI YAZARIN İZLENİMLERİ</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>PEYNİR ÇORBASI</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>SON KİTAP</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>SATILIK EV</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>NOEL ÖYKÜLERİ</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>ESKİ NESMOND KONAĞI GENÇ MAJESTE SELTZ SUYU FABRİKATÖRÜ</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>NOEL ÖYKÜLERİ</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>PAPA ÖLDÜ</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>YEMEK TABLOLARI - BALIK ÇORBASI (BOUILLABAISSE)</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>DENİZ KIYISINDA HASAT</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>BİR KIZIL KEKLİK YAVRUSUNUN YÜREK ÇARPINTILARI</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>AYNA</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>STARNBERG GÖLÜNDE GEZİNTİ</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#heading_id_18"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

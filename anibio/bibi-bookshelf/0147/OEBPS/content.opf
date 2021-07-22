@@ -1,0 +1,69 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Maalouf, Amin">Amin Maalouf</dc:creator>
+<dc:identifier id="uuid">{BA0EAF41-0293-46E4-BE26-1700066FAE5A}</dc:identifier>
+    <dc:date>2008-03-21T22:00:00+00:00</dc:date>
+    <meta name="cover" content="cover-image"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Ölümcül Kimlikler</dc:title>
+<meta name="calibre:title_sort" content="Ölümcül Kimlikler"/>
+<dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Politik</dc:subject>
+<dc:subject>Sosyoloji</dc:subject>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:description>&lt;p&gt;"Bana 'içimin derinliğinde' ne olduğu sorulduğunda, bunda herkesin 'içinin derinliğinde' ağır basan tek bir aidiyetin, bir bakıma 'kişinin derin gerçekliğinin', doğarken ebediyen belirlenen ve artık değişmeyecek olan 'öz'ünün varolduğu inanışı yatıyor; sanki geri kalanın, bütün geri kalanın -özgür insan olarak katettiği yolun, benimsediği inanışların, tercihlerin, kendine özel duygusallığının, yakınlıklarının, sonuçta yaşamının- hiçbir önemi yokmuş gibi."
+
+Kimlik insanın zamanın içindeki incelişinde onu dünyaya bağlayan bir ayna.
+
+Amin Maalouf, Ölümcül Kimlikler'de çok yönlü ve saydam bir sorgulamanın eşiğinde, aynadaki görüntünün tutulabileceğine işaret ediyor.
+
+Ölümcül Kimlikler, dünyanın yeni zamanlarında insanlığın küllerinden kuracağı düzenin temeline konan bilge bir taş.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Amin Maalouf&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">4068601c-a2e7-4ae5-aeae-874637580f17</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750801990</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/modernlik.xhtml" id="modernlik.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="Text/panteri.xhtml" id="panteri.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonsoz.xhtml" id="sonsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/ktaplr.xhtml" id="ktaplr.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/yky.png" id="yky.png" media-type="image/png"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/icindekiler.xhtml" id="icindekiler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kimligim.xhtml" id="kimligim.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/gezegensel.xhtml" id="gezegensel.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bcover.xhtml" id="bcover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/bcover.Jpg" id="bcover.Jpg" media-type="image/jpeg"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ktaplr.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="icindekiler.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="kimligim.xhtml"/>
+    <itemref idref="modernlik.xhtml"/>
+    <itemref idref="gezegensel.xhtml"/>
+    <itemref idref="panteri.xhtml"/>
+    <itemref idref="sonsoz.xhtml"/>
+    <itemref idref="bcover.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" type="cover"/>
+  </guide>
+</package>

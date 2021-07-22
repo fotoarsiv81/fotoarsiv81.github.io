@@ -1,0 +1,62 @@
+h1
+{
+margin-top:3em;
+margin-bottom:1em;
+text-align:center;
+Font-size:1.5em;
+}
+h2
+{
+margin-top:3em;
+margin-bottom:2em;
+text-align:center;
+Font-size:1.5em;
+}
+p{
+text-align:justify;
+text-indent:1.5em;
+margin-top:0.3em;
+margin-bottom:0.3em;
+}
+.yildiz {
+Font-size:2em;
+margin-top:1em;
+margin-bottom:1em;
+text-align:center;
+
+}
+
+  .baslik{
+text-align:center;
+  font-weight:bold;
+  font-size:2em;
+  margin-top:2em;
+  margin-bottom:2em;
+  }
+ .baslik2{
+text-align:center;
+  font-weight:bold;
+  font-size:1em;
+  margin-top:0em;
+  margin-bottom:0em;
+  }
+.siir{
+text-align:justify;
+text-indent:1em;
+font-style:italic;
+margin-top:0.3em;
+margin-bottom:0.3em;
+margin-left:1em;
+margin-right:1em;
+
+}
+.alinti{
+text-align:right;
+text-indent:1em;
+font-style:italic;
+margin-top:3em;
+margin-bottom:0.3em;
+margin-left:3em;
+margin-right:3em;
+
+}

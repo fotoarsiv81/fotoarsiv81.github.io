@@ -1,0 +1,60 @@
+p {
+  text-align: justify;
+  margin: 0;
+  line-height: 1.3em;
+}
+p + p {
+  text-indent: 1.5em;
+}
+h1, h2, h3, h4, h5, h6 {
+  text-indent: 0;
+  text-align: center;
+}
+h2 {
+  font-size: 1.5em;
+  margin: 2em 0;
+}
+h3 {
+  font-size: 1.8em;
+  margin: 2em 0 3em;
+  font-weight: 400;
+}
+.i {
+  font-style: italic;
+}
+.r {
+  text-align: right;
+}
+.r p {
+  text-align: right;
+}
+.mt1 {
+  margin-top: 1em;
+}
+.mt3 {
+  margin-top: 3em;
+}
+.mt20 {
+  margin-top: 20%;
+}
+.mt30 {
+  margin-top: 30%;
+}
+.ml20 {
+  margin-left: 20%;
+}
+.ml30 {
+  margin-left: 30%;
+}
+.ml40 {
+  margin-left: 40%;
+}
+.mr2 {
+  margin-right: 2em;
+}
+.mr20 {
+  margin-right: 20%;
+}
+blockquote p {
+  text-indent: 0;
+}

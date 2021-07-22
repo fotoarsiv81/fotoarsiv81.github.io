@@ -1,0 +1,58 @@
+h1 {
+font-size:300% ;
+text-align:center;
+font-family:"New Century Schoolbook", Times, sans-serif ;
+font-weight: bold;
+}
+
+h2 {
+font-size:100% ;
+text-align:center;
+text-decoration:underline;
+padding-bottom: 4em;
+}
+
+span.alt{
+font-family:'Comic Sans MS';
+#font-family:'Impact';
+font-size:140%;
+text-align:center;
+text-decoration:none;
+} 
+
+p {
+text-indent:1em;
+text-align:justify;
+}
+
+span.buyuk {
+font-size:150%;
+}
+
+span.kucuk {
+font-size:75%;
+}
+
+#clearfooter {
+height: 100px;
+}
+
+span.iletisim-logo {
+text-align: center;
+style="position:fixed; left:50%; bottom:0;" 
+}
+
+#footert{
+text-align: center;
+position: absolute;
+bottom: 0px;
+left:50%; 
+}
+
+#footer {
+text-align: center;
+height: 40px;
+padding-top: 100px;
+margin: -100px auto 0 auto;
+
+}

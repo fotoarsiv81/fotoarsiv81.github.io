@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:eea214a0-616a-4b86-bf9e-b3794669c4bc" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Cehennem Vadisi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Cehennem Vadisi</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Jenerik</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Ali Erkan Kavaklı</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>1. BÖLÜMÖlüm Pusuda...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>2. BÖLÜMTerörü Patlatacaklar...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>3. BÖLÜMArabayı Havaya Uçuracaklar...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>4. BÖLÜM“Hayatın Tehlikede!..”</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>5. BÖLÜMSarışın Ajan Elizabet David Mora...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>6. BÖLÜMAjanlar Oteli... Bütün Adamlar Görevde...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-8.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>7. BÖLÜMDerin Çete, PKK ile İş Tutuyor...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-9.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>8. BÖLÜMDeli Gibi Âşık...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>9. BÖLÜMApo Tüyocusu General ve Adamları...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>10. BÖLÜMProvokatörler İş Başında...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>11. BÖLÜMCehennem Vadisinde Savaş Başlıyor...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>12. BÖLÜMİkiz Kuleler Havaya Uçacak...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>13. BÖLÜMDünya Adı Konmamış Bir Savaşın Eşiğinde...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>14. BÖLÜMİkiz Kuleler Yanıyor...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>15. BÖLÜMGeorge Tenet’in Tavsiyeleri</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>16. BÖLÜMHüseyin Kaçırıldı...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-18.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>17. BÖLÜMSırlar Çözülüyor...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-19.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>18. BÖLÜMGladio ile Meydan Savaşı...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-20.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>19. BÖLÜMBağdat’ın Gözyaşları...</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-21.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>20. BÖLÜMŞemdinli Yollarına Pusu Kurmuşlar Oy Anam!..</text>
+      </navLabel>
+      <content src="Text/CehennemVadisiEKitap-22.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

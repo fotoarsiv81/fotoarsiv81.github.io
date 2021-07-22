@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Maalouf, Amin">Amin Maalouf</dc:creator>
+<dc:identifier id="uuid">{E4EE505E-80AF-47DA-A0AA-6959FE4FD437}</dc:identifier>
+    <dc:date>2009-10-09T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="x311258.jpg"/>
+    <meta content="Çivisi Çıkmış Dünya" name="calibre:title_sort"/>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;div&gt;Türk okurunun daha çok tarihsel romanlarıyla tanıdığı Maalouf, bu kez "medeniyetler çatışması" adı altında kuramsallaşıp yasallaşan ve dünyadaki bütün kültürler ve halklar için felakete yol açacak politikaları eleştiriyor. &lt;br style="padding: 0px; margin: 0px;"&gt;Yazar, yaşamın devamlılığının olmazsa olmazı olarak gördüğü hoşgörü çığlığını yeniden duymaya davet ediyor insanlığı...&lt;br style="padding: 0px; margin: 0px;"&gt;Çivisi Çıkmış Dünya bir yandan küresel ısınma, enerji kaynakları ve doğal felaketlerle, bir yandan da yanlış ve çıkarcı politikaların doğurduğu ekonomik ve siyasal krizlerle mücadele eden insanlık için bir yol haritası... Kitabın satır aralarında Amerikan politikaları, Avrupa Birliği, 20. yüzyıl Arap siyasi tarihi ve Türkiye'den bahsediliyor. &lt;br style="padding: 0px; margin: 0px;"&gt;Maalouf'un bu eseri, her şeye rağmen birbirimize saygı duymayı ve birlikte yaşamayı başarmak isteyenler için bir tür pusula.&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{&quot;Amin Maalouf&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2014-10-12</dc:date>
+  <dc:title>Çivisi Çıkmış Dünya</dc:title>
+<dc:subject>Deneme</dc:subject>
+<dc:subject>Tarih</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">938103cc-1cee-4b47-8e5b-c4c16888019f</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750816185</dc:identifier>
+<meta name="calibre:user_metadata:#mm_annotations" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#mm_annotations&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;mm_annotations&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;comments&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {}, &quot;name&quot;: &quot;Annotations&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id4" media-type="text/css"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/311258.jpg" id="x311258.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

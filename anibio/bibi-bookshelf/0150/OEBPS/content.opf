@@ -1,0 +1,60 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Maalouf, Amin">Amin Maalouf</dc:creator>
+<dc:identifier id="uuid">{79AE4074-D46E-468C-B96B-38847A20E61A}</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2002-03-10T22:00:00+00:00</dc:date>
+  <dc:title>Uzaktan Aşk</dc:title>
+<meta name="calibre:title_sort" content="Uzaktan Aşk"/>
+<dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Opera</dc:subject>
+<dc:description>&lt;p&gt;XII. yüzyılda, Akitanya'dayız... Soylu bir ozan, Jaufre Rudel, zevk ve eğlenceye doymuş, böylesi yaşam sürmekten bıkmış; uzak, arı ve sonsuz bir aşkı düşlüyor... Kusursuz, düşsel bir kadını anlatıyor dizelerinde. Ve günün birinde, denizler ötesinden gelen Gezgin, bu imgenin gerçekten yaşadığını haber veriyor ona. Çılgına dönen ozanın "Uzaktan Aşk"ını arayışı böyle başlıyor.
+
+Daha önce birçok Avrupa ülkesinde gösterimi yapılan ve bu yıl ABD'de de gösterime girecek Uzaktan Aşk operasının liberttosunda, Maalouf, amacına ulaşmadan yitip giden bir sanatçı yaşamının eğertilmesini sunarken, yolculuk, sürgün, Tanrı, kimlik ve aidiyet izlekleri çevresinde biçimlenen ve yine Batı'dan Doğu'ya uzanan o dokunaklı aşk ve ölüm masallarından birini anlatıyor.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Amin Maalouf&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">96876db7-8306-474e-af41-04cf541ba712</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750803598</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/roldagilimi.xhtml" id="roldagilimi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/perde-1.xhtml" id="perde-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/perde-3.xhtml" id="perde-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/perde-4.xhtml" id="perde-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/perde-5.xhtml" id="perde-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id5" media-type="text/css"/>
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/bcover.jpg" id="bcover.jpg" media-type="image/jpeg"/>
+    <item href="Images/fcover.jpg" id="fcover.jpg" media-type="image/jpeg"/>
+    <item href="Text/ktplr.xhtml" id="ktplr.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/fcover.xhtml" id="fcover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bcover.xhtml" id="bcover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnotlar.xhtml" id="dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/yky.png" id="yky.png" media-type="image/png"/>
+    <item href="Text/perde-2.xhtml" id="perde-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="fcover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ktplr.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="Kunye.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="roldagilimi.xhtml"/>
+    <itemref idref="perde-1.xhtml"/>
+    <itemref idref="perde-2.xhtml"/>
+    <itemref idref="perde-3.xhtml"/>
+    <itemref idref="perde-4.xhtml"/>
+    <itemref idref="perde-5.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+    <itemref idref="bcover.xhtml"/>
+  </spine>
+</package>

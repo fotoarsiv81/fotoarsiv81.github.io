@@ -1,0 +1,9 @@
+ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+p {
+   margin: 0;
+   text-indent: 1.2em
+}

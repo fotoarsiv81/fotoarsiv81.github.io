@@ -1,0 +1,146 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Semerkant</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Maalouf, Amin">Amin Maalouf</dc:creator>
+    <dc:creator opf:role="Amin Maalouf">Amin Maalouf</dc:creator>
+    <dc:identifier>00948b43-b526-4193-b18c-93b464e5b156</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a962bfdf-a466-4ebf-b507-1b9d12e19cf3</dc:identifier>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (3.19.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">2fb35136-b042-41cb-8444-27ca2a4b1086</dc:identifier>
+    <meta content="Semerkant" name="calibre:title_sort"/>
+    <meta content="0.9.5" name="Sigil version"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Amin Maalouf&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.html" id="yazar.html" media-type="application/xhtml+xml"/>
+    <item href="Text/baslik.html" id="baslik.html" media-type="application/xhtml+xml"/>
+    <item href="Text/quote.html" id="quote.html" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.html" id="giris.html" media-type="application/xhtml+xml"/>
+    <item href="Text/I.html" id="I.html" media-type="application/xhtml+xml"/>
+    <item href="Text/01.html" id="x01.html" media-type="application/xhtml+xml"/>
+    <item href="Text/02.html" id="x02.html" media-type="application/xhtml+xml"/>
+    <item href="Text/03.html" id="x03.html" media-type="application/xhtml+xml"/>
+    <item href="Text/04.html" id="x04.html" media-type="application/xhtml+xml"/>
+    <item href="Text/05.html" id="x05.html" media-type="application/xhtml+xml"/>
+    <item href="Text/06.html" id="x06.html" media-type="application/xhtml+xml"/>
+    <item href="Text/07.html" id="x07.html" media-type="application/xhtml+xml"/>
+    <item href="Text/08.html" id="x08.html" media-type="application/xhtml+xml"/>
+    <item href="Text/09.html" id="x09.html" media-type="application/xhtml+xml"/>
+    <item href="Text/10.html" id="x10.html" media-type="application/xhtml+xml"/>
+    <item href="Text/11.html" id="x11.html" media-type="application/xhtml+xml"/>
+    <item href="Text/12.html" id="x12.html" media-type="application/xhtml+xml"/>
+    <item href="Text/13.html" id="x13.html" media-type="application/xhtml+xml"/>
+    <item href="Text/14.html" id="x14.html" media-type="application/xhtml+xml"/>
+    <item href="Text/II.html" id="II.html" media-type="application/xhtml+xml"/>
+    <item href="Text/15.html" id="x15.html" media-type="application/xhtml+xml"/>
+    <item href="Text/16.html" id="x16.html" media-type="application/xhtml+xml"/>
+    <item href="Text/17.html" id="x17.html" media-type="application/xhtml+xml"/>
+    <item href="Text/18.html" id="x18.html" media-type="application/xhtml+xml"/>
+    <item href="Text/19.html" id="x19.html" media-type="application/xhtml+xml"/>
+    <item href="Text/20.html" id="x20.html" media-type="application/xhtml+xml"/>
+    <item href="Text/21.html" id="x21.html" media-type="application/xhtml+xml"/>
+    <item href="Text/22.html" id="x22.html" media-type="application/xhtml+xml"/>
+    <item href="Text/23.html" id="x23.html" media-type="application/xhtml+xml"/>
+    <item href="Text/24.html" id="x24.html" media-type="application/xhtml+xml"/>
+    <item href="Text/III.html" id="III.html" media-type="application/xhtml+xml"/>
+    <item href="Text/25.html" id="x25.html" media-type="application/xhtml+xml"/>
+    <item href="Text/26.html" id="x26.html" media-type="application/xhtml+xml"/>
+    <item href="Text/27.html" id="x27.html" media-type="application/xhtml+xml"/>
+    <item href="Text/28.html" id="x28.html" media-type="application/xhtml+xml"/>
+    <item href="Text/29.html" id="x29.html" media-type="application/xhtml+xml"/>
+    <item href="Text/30.html" id="x30.html" media-type="application/xhtml+xml"/>
+    <item href="Text/31.html" id="x31.html" media-type="application/xhtml+xml"/>
+    <item href="Text/32.html" id="x32.html" media-type="application/xhtml+xml"/>
+    <item href="Text/33.html" id="x33.html" media-type="application/xhtml+xml"/>
+    <item href="Text/34.html" id="x34.html" media-type="application/xhtml+xml"/>
+    <item href="Text/35.html" id="x35.html" media-type="application/xhtml+xml"/>
+    <item href="Text/IV.html" id="IV.html" media-type="application/xhtml+xml"/>
+    <item href="Text/36.html" id="x36.html" media-type="application/xhtml+xml"/>
+    <item href="Text/37.html" id="x37.html" media-type="application/xhtml+xml"/>
+    <item href="Text/38.html" id="x38.html" media-type="application/xhtml+xml"/>
+    <item href="Text/39.html" id="x39.html" media-type="application/xhtml+xml"/>
+    <item href="Text/40.html" id="x40.html" media-type="application/xhtml+xml"/>
+    <item href="Text/41.html" id="x41.html" media-type="application/xhtml+xml"/>
+    <item href="Text/42.html" id="x42.html" media-type="application/xhtml+xml"/>
+    <item href="Text/43.html" id="x43.html" media-type="application/xhtml+xml"/>
+    <item href="Text/44.html" id="x44.html" media-type="application/xhtml+xml"/>
+    <item href="Text/45.html" id="x45.html" media-type="application/xhtml+xml"/>
+    <item href="Text/46.html" id="x46.html" media-type="application/xhtml+xml"/>
+    <item href="Text/47.html" id="x47.html" media-type="application/xhtml+xml"/>
+    <item href="Text/48.html" id="x48.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/SM.css" id="SM.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/semerkant.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/yky.png" id="yky.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="yazar.html"/>
+    <itemref idref="baslik.html"/>
+    <itemref idref="quote.html"/>
+    <itemref idref="giris.html"/>
+    <itemref idref="I.html"/>
+    <itemref idref="x01.html"/>
+    <itemref idref="x02.html"/>
+    <itemref idref="x03.html"/>
+    <itemref idref="x04.html"/>
+    <itemref idref="x05.html"/>
+    <itemref idref="x06.html"/>
+    <itemref idref="x07.html"/>
+    <itemref idref="x08.html"/>
+    <itemref idref="x09.html"/>
+    <itemref idref="x10.html"/>
+    <itemref idref="x11.html"/>
+    <itemref idref="x12.html"/>
+    <itemref idref="x13.html"/>
+    <itemref idref="x14.html"/>
+    <itemref idref="II.html"/>
+    <itemref idref="x15.html"/>
+    <itemref idref="x16.html"/>
+    <itemref idref="x17.html"/>
+    <itemref idref="x18.html"/>
+    <itemref idref="x19.html"/>
+    <itemref idref="x20.html"/>
+    <itemref idref="x21.html"/>
+    <itemref idref="x22.html"/>
+    <itemref idref="x23.html"/>
+    <itemref idref="x24.html"/>
+    <itemref idref="III.html"/>
+    <itemref idref="x25.html"/>
+    <itemref idref="x26.html"/>
+    <itemref idref="x27.html"/>
+    <itemref idref="x28.html"/>
+    <itemref idref="x29.html"/>
+    <itemref idref="x30.html"/>
+    <itemref idref="x31.html"/>
+    <itemref idref="x32.html"/>
+    <itemref idref="x33.html"/>
+    <itemref idref="x34.html"/>
+    <itemref idref="x35.html"/>
+    <itemref idref="IV.html"/>
+    <itemref idref="x36.html"/>
+    <itemref idref="x37.html"/>
+    <itemref idref="x38.html"/>
+    <itemref idref="x39.html"/>
+    <itemref idref="x40.html"/>
+    <itemref idref="x41.html"/>
+    <itemref idref="x42.html"/>
+    <itemref idref="x43.html"/>
+    <itemref idref="x44.html"/>
+    <itemref idref="x45.html"/>
+    <itemref idref="x46.html"/>
+    <itemref idref="x47.html"/>
+    <itemref idref="x48.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

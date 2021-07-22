@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="a962bfdf-a466-4ebf-b507-1b9d12e19cf3" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Semerkant</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>BİRİNCİ KİTAP ŞAİRLER VE SEVGİLİLER</text>
+      </navLabel>
+      <content src="Text/I.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/01.html"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/02.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/03.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/04.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/05.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/06.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/07.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/08.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/09.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/10.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/11.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/12.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/13.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/14.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>İKİNCİ KİTAP HAŞHAŞÎLER CENNETİ[1]</text>
+      </navLabel>
+      <content src="Text/II.html"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/15.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="Text/16.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="Text/17.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/18.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/19.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="Text/20.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="Text/21.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>XXII</text>
+        </navLabel>
+        <content src="Text/22.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>XXIII</text>
+        </navLabel>
+        <content src="Text/23.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>XXIV</text>
+        </navLabel>
+        <content src="Text/24.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>ÜÇÜNCÜ KİTAP BİN YILIN SONU</text>
+      </navLabel>
+      <content src="Text/III.html"/>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>XXV</text>
+        </navLabel>
+        <content src="Text/25.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>XXVI</text>
+        </navLabel>
+        <content src="Text/26.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>XXVII</text>
+        </navLabel>
+        <content src="Text/27.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>XXVIII</text>
+        </navLabel>
+        <content src="Text/28.html"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>XXIX</text>
+        </navLabel>
+        <content src="Text/29.html"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>XXX</text>
+        </navLabel>
+        <content src="Text/30.html"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>XXXI</text>
+        </navLabel>
+        <content src="Text/31.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>XXXII</text>
+        </navLabel>
+        <content src="Text/32.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>XXXIII</text>
+        </navLabel>
+        <content src="Text/33.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>XXXIV</text>
+        </navLabel>
+        <content src="Text/34.html"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>XXXV</text>
+        </navLabel>
+        <content src="Text/35.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>DÖRDÜNCÜ KİTAP DENİZDE BİR ŞAİR</text>
+      </navLabel>
+      <content src="Text/IV.html"/>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>XXXVI</text>
+        </navLabel>
+        <content src="Text/36.html"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>XXXVII</text>
+        </navLabel>
+        <content src="Text/37.html"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>XXXVIII</text>
+        </navLabel>
+        <content src="Text/38.html"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>XXXIX</text>
+        </navLabel>
+        <content src="Text/39.html"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>XL</text>
+        </navLabel>
+        <content src="Text/40.html"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>XLI</text>
+        </navLabel>
+        <content src="Text/41.html"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>XLII</text>
+        </navLabel>
+        <content src="Text/42.html"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>XLIII</text>
+        </navLabel>
+        <content src="Text/43.html"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>XLIV</text>
+        </navLabel>
+        <content src="Text/44.html"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>XLV</text>
+        </navLabel>
+        <content src="Text/45.html"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>XLVI</text>
+        </navLabel>
+        <content src="Text/46.html"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>XLVII</text>
+        </navLabel>
+        <content src="Text/47.html"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>XLVIII</text>
+        </navLabel>
+        <content src="Text/48.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

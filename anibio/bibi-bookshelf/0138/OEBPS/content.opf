@@ -1,0 +1,33 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Kış Yolculuğu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Nothomb, Amelie">Amelie Nothomb</dc:creator>
+    <dc:identifier id="uuid">{74FD869A-C9EA-4385-A7D4-5DEC9529EB83}</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.85.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">d002a9ed-99d1-44c2-a569-25247d3b5453</dc:identifier>
+    <meta content="0.8.1" name="Sigil version"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Kış Yolculuğu"/>
+    <meta name="calibre:author_link_map" content="{&quot;Amelie Nothomb&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="../main.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id2" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id1" media-type="text/css"/>
+    <item href="ky.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id2">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id0"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

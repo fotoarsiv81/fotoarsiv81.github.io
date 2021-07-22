@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f0fed7e2-e220-4fb5-83ce-e49d311a9f03</dc:identifier>
+    <dc:creator opf:file-as="Kavaklı, Ali Erkan" opf:role="aut">Ali Erkan Kavaklı</dc:creator>
+    <dc:description>&lt;p&gt;"Derin Çete Serisi"nin 4. kitabı olan roman Türkiye'nin derin cinayetlerini anlatıyor. Diyarbakır'da bir öğretmen öldürülür, faili bulunamaz. Cinayet, seri cinayetlerinin habercisi gibidir. İstihbaratçı Yüzbaşı Hüseyin ve polis müfettişi Safa, katilin izini sürmek için Diyarbakır'a giderler. Cinayetin işlendiği sokağa geldiklerinde arabaları havaya uçurulur. Hüseyin ağır yaralanır, müfettiş hafif yaralarla kurtulur ve katili aramaya devam eder. O günlerde efsane Emniyet Müdürü Gaffar Okkan, Sezai Karakoç Bulvarı'nda çapraz ateşe tutularak korumaları ile birlikte öldürülür. Katillerin peşine düşen müfettiş, pusuya düşürülür ve kaçırılır... Faili meçhul cinayetler, bombalamalar, adam kaçırmalar ve istihbaratçı savaşları... İç ve dış istihbarat örgütleri arasındaki kıyasıya kavga ve bu mücadeleye heyecan katan Hüseyin ve Ela'nın aşkı... Ülke gündemini işgal eden cinayetlerin ve olayların perde arkası... Terör olaylarıyla çalkalanan ülkemizin hazin öyküsünü anlatıyor Kavaklı.&lt;/p&gt;</dc:description>
+    <dc:publisher>Nesil Yayınları</dc:publisher>
+    <dc:rights>© Fikir ve Sanat Eserleri Yasası gereğince bu eserin yayın hakkı anlaşmalı olarak Nesil Basım Yayın Gıda Tic. ve San. A.Ş.’ye aittir. İzinsiz, kısmen ya da tamamen çoğaltılıp yayınlanamaz.</dc:rights>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:title>Cehennem Vadisi</dc:title>
+    <dc:subject>Polisiye</dc:subject>
+    <dc:subject>Politik</dc:subject>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">2bb9709f-ad0c-4402-a3b9-89985438b423</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786051313603</dc:identifier>
+    <dc:date opf:event="modification">2014-08-25</dc:date>
+    <meta content="Adobe InDesign" name="generator" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="Cehennem Vadisi" name="calibre:title_sort" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="{}" name="calibre:user_categories" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="{&quot;Ali Erkan Kavaklı&quot;: &quot;&quot;}" name="calibre:author_link_map" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="0.7.4" name="Sigil version" />
+    <meta content="10.0" name="calibre:rating" />
+    <meta content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 3, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#tags&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {&quot;cache_to_list&quot;: &quot;|&quot;, &quot;ui_to_list&quot;: &quot;,&quot;, &quot;list_to_ui&quot;: &quot;, &quot;}, &quot;is_multiple&quot;: &quot;|&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: [], &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;tags&quot;, &quot;display&quot;: {&quot;is_names&quot;: false}, &quot;name&quot;: &quot;Raflarım&quot;}" name="calibre:user_metadata:#tags" />
+    <meta name="cover" content="cehennem-vadisi-3716-63193.jpg" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Images/Nesil_fmt.jpeg" id="Nesil_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/Nesil_fmt1.jpeg" id="Nesil_fmt1.jpeg" media-type="image/jpeg" />
+    <item href="Images/nesildigital_fmt.jpeg" id="nesildigital_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Styles/CehennemVa_idstyles.css" id="CehennemVa_idstyles.css" media-type="text/css" />
+    <item href="Styles/idefixnesil.css" id="idefixnesil.css" media-type="text/css" />
+    <item href="Text/CehennemVadisiEKitap-1.xhtml" id="CehennemVadisiEKitap-1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-10.xhtml" id="CehennemVadisiEKitap-10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-11.xhtml" id="CehennemVadisiEKitap-11.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-12.xhtml" id="CehennemVadisiEKitap-12.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-13.xhtml" id="CehennemVadisiEKitap-13.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-14.xhtml" id="CehennemVadisiEKitap-14.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-15.xhtml" id="CehennemVadisiEKitap-15.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-16.xhtml" id="CehennemVadisiEKitap-16.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-17.xhtml" id="CehennemVadisiEKitap-17.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-18.xhtml" id="CehennemVadisiEKitap-18.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-19.xhtml" id="CehennemVadisiEKitap-19.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-2.xhtml" id="CehennemVadisiEKitap-2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-20.xhtml" id="CehennemVadisiEKitap-20.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-21.xhtml" id="CehennemVadisiEKitap-21.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-22.xhtml" id="CehennemVadisiEKitap-22.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-3.xhtml" id="CehennemVadisiEKitap-3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-4.xhtml" id="CehennemVadisiEKitap-4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-5.xhtml" id="CehennemVadisiEKitap-5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-6.xhtml" id="CehennemVadisiEKitap-6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-7.xhtml" id="CehennemVadisiEKitap-7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-8.xhtml" id="CehennemVadisiEKitap-8.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap-9.xhtml" id="CehennemVadisiEKitap-9.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CehennemVadisiEKitap.xhtml" id="CehennemVadisiEKitap.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/CoverImage.xhtml" id="CoverImage.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/cehennem-vadisi-3716-63193.jpg" id="cehennem-vadisi-3716-63193.jpg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="CoverImage.xhtml" />
+    <itemref idref="CehennemVadisiEKitap.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-1.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-2.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-3.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-4.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-5.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-6.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-7.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-8.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-9.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-10.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-11.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-12.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-13.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-14.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-15.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-16.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-17.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-18.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-19.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-20.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-21.xhtml" />
+    <itemref idref="CehennemVadisiEKitap-22.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover" />
+  </guide>
+</package>

@@ -1,0 +1,561 @@
+
+@page {
+  margin: 0.5em;
+  }
+tbody, thead, tfoot, tr, td, th {
+  border-style: inherit;
+  border-width: inherit;
+  border-color: inherit;
+}
+span.Normal {
+  font-family: "Helvetica[T] Regular", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  color: #000;
+  writing-mode: horizontal-tb;
+  line-height: 1;
+}
+span.char-style-override-1 {
+  font-family: "Liberation Serif", serif;
+  font-style: normal;
+  font-weight: bold;
+}
+span.char-style-override-2 {
+  font-style: normal;
+  font-weight: bold;
+}
+span.char-style-override-3 {
+  font-style: italic;
+  font-weight: normal;
+}
+span.char-style-override-4 {
+  font-size: 0.95em;
+  font-style: italic;
+  font-weight: normal;
+}
+span.char-style-override-5 {
+  font-size: 0.95em;
+}
+span.char-style-override-6 {
+  font-family: "Liberation Serif", serif;
+  font-size: 1.83em;
+  font-style: normal;
+  font-weight: bold;
+}
+span.char-style-override-7 {
+  font-family: "Liberation Serif", serif;
+  font-size: 1.17em;
+  font-style: normal;
+  font-weight: bold;
+}
+span.char-style-override-8 {
+  font-family: "Liberation Serif", serif;
+  font-size: 0.75em;
+  font-style: normal;
+  font-weight: normal;
+}
+span.char-style-override-9 {
+  font-family: "Liberation Serif", serif;
+  font-size: 0.83em;
+  font-style: normal;
+  font-weight: normal;
+}
+span.char-style-override-10 {
+  font-family: "Liberation Serif", serif;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: bold;
+}
+span.char-style-override-11 {
+  font-family: "Liberation Serif", serif;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+}
+span.char-style-override-12 {
+  font-family: "Liberation Serif", serif;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: normal;
+}
+span.char-style-override-13 {
+  color: #f00;
+}
+span.char-style-override-14 {
+  color: #f00;
+  vertical-align: super;
+}
+span.char-style-override-15 {
+  color: #f00;
+  font-style: italic;
+  font-weight: normal;
+}
+span.char-style-override-16 {
+  font-size: 2.29em;
+  font-style: italic;
+  font-weight: normal;
+}
+span.char-style-override-17 {
+  font-family: "Liberation Serif", serif;
+  font-size: 0.56em;
+  font-style: italic;
+  font-weight: normal;
+}
+span.char-style-override-18 {
+  color: #f00;
+  font-family: "Liberation Serif";
+  font-size: 0.71em;
+  font-style: normal;
+  font-weight: normal;
+}
+span.char-style-override-19 {
+  font-family: "Liberation Serif", serif;
+  font-style: italic;
+  font-weight: normal;
+}
+span.char-style-override-20 {
+  color: #f00;
+  font-family: "Liberation Serif";
+  font-size: 0.63em;
+  font-style: normal;
+  font-weight: normal;
+}
+p.No-Paragraph-Style {
+  font-family: "Minion Pro", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 0;
+}
+p.Basic-Paragraph {
+  font-family: "Minion Pro", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 0;
+}
+p.B-l-m-Ba-l--- {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.5em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 0.94;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 300px 10px;
+}
+p.Konu-Ba-l--- {
+  font-family: "Liberation Serif", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.33;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 200px 10px 100px 10px;
+}
+p.B-l-m-Arabasl-klar- {
+  font-family: "BauerBodoni-Regular Regular", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.09;
+  text-align: justify;
+  color: #000;
+  text-indent: 14px;
+  margin: 0;
+}
+p.Bold-1 {
+  font-family: "Liberation Serif", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 0.88em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.43;
+  text-align: justify;
+  color: #000;
+  text-indent: 14px;
+  margin: 80px 0 30px 0;
+}
+p.Normal-Yazilar {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.88em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.33;
+  text-align: justify;
+  color: #000;
+  text-indent: 14px;
+  margin: 1px 0;
+}
+p.Basic-Paragraph-1 {
+  font-family: "Minion Pro", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 0;
+}
+p.B-l-m-Ba-l----1 {
+  font-family: "Liberation Serif", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.25;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 250px 10px 150px 10px;
+}
+p.Bold-1-1 {
+  font-family: "Liberation Serif", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 0.88em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.43;
+  text-align: justify;
+  color: #000;
+  text-indent: 14px;
+  margin: 80px 0 30px 0;
+}
+p.Normal-Yazilar-1 {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.88em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.33;
+  text-align: justify;
+  color: #000;
+  text-indent: 14px;
+  margin: 1px 0;
+}
+p.Normal {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.71em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.41;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 0;
+}
+p.B-l-m-Ba-l----2 {
+  font-family: "Liberation Serif", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.25;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 250px 10px 150px 10px;
+}
+p.Normal-Yazilar-2 {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.88em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.33;
+  text-align: justify;
+  color: #000;
+  text-indent: 14px;
+  margin: 1px 0;
+}
+p.Basic-Paragraph-2 {
+  font-family: "Minion Pro", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 0;
+}
+p.B-l-m-Ba-l----3 {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.5em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 0.94;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 300px 10px;
+}
+p.Konu-Ba-l----1 {
+  font-family: "Liberation Serif", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.33;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 200px 10px 100px 10px;
+}
+p.Bold-1-2 {
+  font-family: "Liberation Serif", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 0.88em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.43;
+  text-align: justify;
+  color: #000;
+  text-indent: 14px;
+  margin: 80px 0 30px 0;
+}
+p.Normal-Yazilar-3 {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.88em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.33;
+  text-align: justify;
+  color: #000;
+  text-indent: 14px;
+  margin: 1px 0;
+}
+p.x-talikler {
+  font-family: "BauerBodoni-RegularItalic Regular Italic", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.88em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.25;
+  text-align: justify;
+  color: #000;
+  text-indent: 14px;
+  margin: 0;
+}
+p.Bold-2 {
+  font-family: "Liberation Serif", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 0.88em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.24;
+  text-align: justify;
+  color: #000;
+  text-indent: 14px;
+  margin: 40px 0 15px 0;
+}
+p.Normal-1 {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.79em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.37;
+  text-align: justify;
+  color: #000;
+  text-indent: 15px;
+  margin: 1px 0;
+}
+p.Normal-2 {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.67;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 0;
+}
+p.Normal-3 {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.08em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.38;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 0;
+}
+p.No-Paragraph-Style-1 {
+  font-family: "Minion Pro", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  color: #000;
+  text-indent: 0;
+  margin: 0;
+}
+p.Basic-Paragraph-3 {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.63em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.47;
+  text-align: justify;
+  color: #000;
+  text-indent: 0;
+  margin: 1px 0;
+}
+p.B-l-m-Ba-l----4 {
+  font-family: "Liberation Serif", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 0.92em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 200px 10px 120px 10px;
+}
+p.Basl-klar {
+  font-family: "BauerBodoni-Regular Regular", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.5em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 0.73;
+  text-align: justify;
+  color: #000;
+  text-indent: 0;
+  margin: 0;
+}
+p.Normal-Yazilar-4 {
+  font-family: "Liberation Serif", serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.88em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.33;
+  text-align: justify;
+  color: #000;
+  text-indent: 14px;
+  margin: 1px 0;
+}
+p.para-style-override-2 {
+  margin: 100px 28px 6px 28px;
+  text-align: center;
+}
+p.para-style-override-3 {
+  margin-top: 100px;
+}
+p.para-style-override-4 {
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 20px;
+}
+p.para-style-override-5 {
+  margin-bottom: 65px;
+  margin-top: 120px;
+  text-align: center;
+}
+p.para-style-override-6 {
+  text-align: center;
+}
+p.para-style-override-7 {
+  margin-bottom: 90px;
+  text-align: center;
+}
+p.para-style-override-8 {
+  margin-bottom: 2px;
+  text-align: center;
+}
+p.para-style-override-9 {
+  margin-top: 50px;
+}
+p.para-style-override-10 {
+  text-align: justify;
+}
+p.para-style-override-11 {
+  text-align: justify;
+  text-indent: 3px;
+}
+p.para-style-override-12 {
+  text-align: justify;
+  text-indent: 14px;
+}
+p.para-style-override-13 {
+  text-align: right;
+}
+p.para-style-override-14 {
+  text-indent: 0;
+}
+p.para-style-override-15 {
+  margin-bottom: 6px;
+  text-align: right;
+}
+p.para-style-override-16 {
+  text-align: center;
+  text-indent: 0;
+}
+p.para-style-override-17 {
+  margin-bottom: 6px;
+}

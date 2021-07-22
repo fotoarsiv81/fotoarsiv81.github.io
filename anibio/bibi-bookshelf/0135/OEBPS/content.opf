@@ -1,0 +1,71 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sapho</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Daudet, Alphonse">Alphonse Daudet</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:9df843eb-40ad-45fb-b83c-41412165403a</dc:identifier>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>2011-02-23T08:45:05.303000+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.64.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2015-01-30</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">8b2e5d16-490e-4709-82d7-d4b9c46cbd5e</dc:identifier>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="1" name="calibre:series_index"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="2011-02-23T08:45:05.303000+00:00" name="calibre:timestamp"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Sapho"/>
+    <meta name="calibre:author_link_map" content="{&quot;Alphonse Daudet&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_000.html" id="html19" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_001.html" id="html18" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_002.html" id="html17" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_003.html" id="html16" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_004.html" id="html15" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_005.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_006.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_007.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_008.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_009.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_010.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_011.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_012.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_013.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_014.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_015.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_016.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_017.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Sapho_split_018.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/iskultur.jpg" id="added" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
