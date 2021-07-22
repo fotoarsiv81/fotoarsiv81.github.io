@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Cemile-SultanMurat</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Aytmatov, Cengiz">Cengiz Aytmatov</dc:creator>
+    <dc:publisher>Ötüken Neşriyat</dc:publisher>
+    <dc:date>1996-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:67f7da2c-58aa-4a26-ba1a-921f34d34780</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Cemile yazara ilk büyük şöhreti kazandıran eseridir. “İşte şimdi burada, Villon’un, Hugo’nun, Baudelaire’nin Paris’inde, kralların ve devrimlerin Paris’inde, ressamların yüzyıllık Paris’i olmakla övünen her taşı ya bir tarihi, ya bir efsaneyi hatırlatan şu Paris’te Werther, Bérénice, Antoine ve Kleopatra, Manon Lescaut, Education Sentimentale, Dominique, hepsi birdenbire gözümden düşüverdi. Çünkü ben Cemile’yi okudum. Roméo Juliette, Paolo ve Francesca, Hernani ve Dona Sol, artık bunların hiçbiri gözümde değil, çünkü ben ikinci cihan savaşının üçüncü yılı yazında, 1943 yılının o Ağustos gecesinde Kurkureu vadisinde bir yerde Zahire arabaları ile giden Danyar ve Cemile’ye, bunların hikâyesini anlatan küçük Seyit’e rastladım.”&lt;/span&gt;&lt;br style="box-sizing: border-box; orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;(Louis Aragon)&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">0f3782d2-d6ce-444c-9864-43bf71a80ace</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="OEBPS/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/cemile_sultanmurat.xhtml" id="cemile_sultanmurat" media-type="application/xhtml+xml"/>
+    <item href="Text/cemile_sultanmurat-1.xhtml" id="cemile_sultanmurat-1" media-type="application/xhtml+xml"/>
+    <item href="Text/cemile_sultanmurat-2.xhtml" id="cemile_sultanmurat-2" media-type="application/xhtml+xml"/>
+    <item href="Text/cemile_sultanmurat-3.xhtml" id="cemile_sultanmurat-3" media-type="application/xhtml+xml"/>
+    <item href="Text/cemile_sultanmurat-4.xhtml" id="cemile_sultanmurat-4" media-type="application/xhtml+xml"/>
+    <item href="Text/cemile_sultanmurat-5.xhtml" id="cemile_sultanmurat-5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/cemile_sul_idstyles.css" id="cemile_sul_idstyles.css" media-type="text/css"/>
+    <item href="Images/logo01_fmt.png" id="logo01_fmt.png" media-type="image/png"/>
+    <item href="OEBPS/cover.jpg" id="utfLR8wnQ4ZVH6qKhjRcLZ6" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/vnd.ms-truetype"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/vnd.ms-truetype"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/vnd.ms-truetype"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="LiberationSerif-Regular.ttf" media-type="application/vnd.ms-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="cemile_sultanmurat"/>
+    <itemref idref="cemile_sultanmurat-1"/>
+    <itemref idref="cemile_sultanmurat-2"/>
+    <itemref idref="cemile_sultanmurat-3"/>
+    <itemref idref="cemile_sultanmurat-4"/>
+    <itemref idref="cemile_sultanmurat-5"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

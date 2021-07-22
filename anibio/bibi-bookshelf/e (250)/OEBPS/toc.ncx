@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="xxxx-xxxxx-xxxxx-xxxxxxxxx" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yirmialtı Adam ve Bir Kız</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>UNUTULMUŞ KİTAPLAR MEZARLIĞI</text>
+      </navLabel>
+      <content src="Text/section-0004.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Günlerin Getirdiği</text>
+      </navLabel>
+      <content src="Text/section-0005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Boş Bir Tabak</text>
+      </navLabel>
+      <content src="Text/section-0006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Sözünün Eri</text>
+      </navLabel>
+      <content src="Text/section-0007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Gölgeler Kenti</text>
+      </navLabel>
+      <content src="Text/section-0008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Nuria Monfort: Kayıpların Anısına 1933-1955</text>
+      </navLabel>
+      <content src="Text/section-0012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Rüzgarın Gölgesinde 1955</text>
+      </navLabel>
+      <content src="Text/section-0015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Öldükten Sonra Kasım 1955</text>
+      </navLabel>
+      <content src="Text/section-0016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Mart Suları 1956</text>
+      </navLabel>
+      <content src="Text/section-0017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Oyundaki Kişiler 1966</text>
+      </navLabel>
+      <content src="Text/section-0018.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

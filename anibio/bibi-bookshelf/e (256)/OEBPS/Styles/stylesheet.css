@@ -1,0 +1,105 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    border-bottom: currentColor none 0;
+    border-top: currentColor none 0;
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center
+    }
+.calibre10 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre11 {
+    display: list-item
+    }
+.calibre12 {
+    display: block;
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.calibre13 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre14 {
+    font-style: italic
+    }
+.calibre15 {
+    display: block;
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.83em 0
+    }
+.calibre16 {
+    font-variant: small-caps
+    }
+.calibre17 {
+    font-variant: small-caps;
+    font-weight: bold
+    }
+.calibre18 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    border-bottom: currentColor none 0;
+    border-top: currentColor none 0;
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em;
+    margin: 0.5em 0
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    text-decoration: underline
+    }
+.calibre6 {
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.67em 0
+    }
+.calibre7 {
+    line-height: 1.2
+    }
+.calibre8 {
+    border-bottom: currentColor none 0;
+    border-top: currentColor none 0;
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 1.5em
+    }
+.calibre9 {
+    height: auto;
+    max-width: 100%;
+    width: auto
+    }

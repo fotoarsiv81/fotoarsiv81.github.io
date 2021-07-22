@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Cemil Meriç</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>D56B8F01F96D646140B6807E7607E2BE</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>AF5178AD7E26C0186418F167D727B3ED</string>
+		<key>publisher-unique-id</key>
+		<string>9af7ef20-e9fa-483a-9a97-51899176a732</string>
+		<key>unique-id</key>
+		<integer>-3318900271453472591</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Işık Doğudan gelir</string>
+	<key>playlistName</key>
+	<string>Işık Doğudan gelir</string>
+	<key>releaseDate</key>
+	<string>2011-02-16T22:00:00+00:00</string>
+	<key>sort-artist</key>
+	<string>Meriç, Cemil</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

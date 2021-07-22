@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{60F1ACA0-A91D-4661-A317-A7A3854C6935}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kritik Kavşak (Parlamenter Sistem - Başkanlık Sistemi)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Önsöz</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Başkanlık Sisteminin Tehlikeleri JUAN J. LINZ</text>
+      </navLabel>
+      <content src="Text/01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Demokratik Sistemlerin Karşılaştırılması DONALD L. HOROWITZ</text>
+      </navLabel>
+      <content src="Text/02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Siyasal Kültürün Merkeziliği SEYMOUR MARTIN LIPSET</text>
+      </navLabel>
+      <content src="Text/03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Bölünmüş Toplumlar için Anayasa Tasarımı AREND LİJPHART</text>
+      </navLabel>
+      <content src="Text/04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Başkanlık Sisteminin Olası Tehlikeleri ERGUN ÖZBUDUN</text>
+      </navLabel>
+      <content src="Text/05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Türkiye Demokrasisini Güçlendirecek Çözüm Başkanlık Sistemi mi? SABRİ SAYARI</text>
+      </navLabel>
+      <content src="Text/06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Dönüm Noktasındaki Türkiye: Başkanlık mı, Parlamentarizm mi? SERAP YAZICI</text>
+      </navLabel>
+      <content src="Text/07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Halk Tarafından Seçilen Cumhurbaşkanı ve “Başkanlık” Sistemi -Türkiye Örneği ADAM SZYMANSKI</text>
+      </navLabel>
+      <content src="Text/08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Başkanlık mı, Parlamenter Sistem mi? ÜSTÜN ERGÜDER</text>
+      </navLabel>
+      <content src="Text/09.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Türk-İslam İstisnacılığı 2015: Cumhuriyetten Sultanizme? AYŞEN CANDAŞ</text>
+      </navLabel>
+      <content src="Text/10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Alaturka Başkanlık Rejimi ve Türkiye’nin Otoriterlikle İmtihanı ERSİN KALAYCIOĞLU</text>
+      </navLabel>
+      <content src="Text/11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Türkiye’de Başkanlık Sistemine Kamuoyu Desteği SELİM ERDEM AYTAÇ, ALİ ÇARKOĞLU</text>
+      </navLabel>
+      <content src="Text/12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Yazarlar</text>
+      </navLabel>
+      <content src="Text/yazarlar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/notlar.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

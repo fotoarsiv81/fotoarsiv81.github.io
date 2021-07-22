@@ -1,0 +1,500 @@
+@font-face {
+
+	font-family: LiberationSerif;
+
+	font-style:normal;
+
+	font-style: normal;
+
+	src : url("../Fonts/LiberationSerif-Regular.ttf");
+
+}
+
+@font-face {
+
+	font-family: LiberationSerif;
+
+	font-weight: bold;
+
+    	font-style: normal;
+
+	src : url("../Fonts/LiberationSerif-Bold.ttf");
+
+}
+
+@font-face {
+
+	font-family: LiberationSerif;
+
+    	font-weight: normal;
+
+    	font-style: italic;
+
+	src : url("../Fonts/LiberationSerif-Italic.ttf");
+
+}
+
+@font-face {
+
+	font-family: LiberationSerif;
+
+    	font-weight: normal;
+
+    	font-style: italic;
+
+	src : url("../Fonts/LiberationSerif-BoldItalic.ttf");
+
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+}
+@page {
+	margin : 30px 30px 30px 30px;
+}
+p.Temel-Paragraf {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:45px;
+}
+p.imza {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.yildiz-1 {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:10px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.yildiz-2 {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Kunye {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Kunye-ilk-satir {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:20px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Baslik-Logo {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:20px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:300px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Baslik-Eser {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1.333em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:20px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:80px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Baslik-Yazar {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:20px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:100px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Otuken-Baslik {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:20px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:25px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Kesme {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Baslik-Eser-2 {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1.333em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:20px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:20px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Baslik-Caslon-Orta {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:20px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:50px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Ceviren {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:100px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Caslon-Paragraf {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:55px;
+}
+p.aciklama {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:150px;
+}
+p.Bolum {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:bold;
+	line-height:0.722;
+	margin-bottom:100px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:300px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Temel-Paragraf-son-satir {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:45px;
+}
+p.ceviren-yazar {
+	color:#000000;
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+span.Caslon-Normal {
+	font-family :LiberationSerif, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+}
+span.Normal {
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+}
+span.italik {
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+}
+span.Dipnot {
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	vertical-align:super;
+}
+span.Baslik-Otuken {
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+span.Baslik-Yazar {
+	font-family :LiberationSerif, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+}
+span.Baslik-Eser {
+	font-family :LiberationSerif, serif;
+	font-size:1.333em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+}
+span.Kunye-Buyuk {
+	font-family :LiberationSerif, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.Kunye-Normal {
+	font-family :LiberationSerif, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+}
+span.Caslon-italik {
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+}
+span.Caslon-Bold {
+	font-family :LiberationSerif, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+}
+span.Konu {
+	font-family :LiberationSerif, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+}
+span.Ceviren {
+	font-family :LiberationSerif, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+}
+span.Kitap-Bolum {
+	font-family :LiberationSerif, serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:bold;
+}
+span.Ara-Bolum {
+	font-family :LiberationSerif, serif;
+	font-size:1em;
+	font-style:italic;
+	font-weight:bold;
+}
+span.char-style-override-1 {
+	font-size:1em;
+}
+span.char-style-override-2 {
+	font-size:0.909em;
+}
+span.char-style-override-3 {
+	font-size:0.818em;
+}
+span.char-style-override-4 {
+	font-size:0.9em;
+}
+span.char-style-override-5 {
+	font-size:1.1em;
+}
+span.char-style-override-6 {
+	font-size:1.091em;
+}
+img.frame-1 {
+	height:160px;
+	width:121px;
+}

@@ -1,0 +1,1013 @@
+.Balk {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    text-decoration: none none
+    }
+.Balk1 {
+    color: black;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 1.2;
+    text-decoration: none none
+    }
+.calibre {
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    text-justify-trim: punctuation;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-size: 1.33333em;
+    line-height: 1.2
+    }
+.calibre2 {
+    font-size: 1.33333em;
+    font-weight: normal;
+    line-height: 1.2
+    }
+.calibre3 {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre4 {
+    color: black;
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre5 {
+    display: block
+    }
+.calibre6 {
+    color: windowtext;
+    }
+.calibre7 {
+    font-size: 0.88889em;
+    line-height: 1.2
+    }
+.calibre8 {
+    display: block
+    }
+.calibre9 {
+    font-weight: normal
+    }
+.calibre10 {
+    color: black;
+    font-size: 0.66667em;
+    letter-spacing: 1.5pt
+    }
+.calibre11 {
+    line-height: 1.2
+    }
+.calibre12 {
+    font-size: 1.33333em;
+    line-height: 1.2
+    }
+.calibre13 {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre14 {
+    display: block;
+    font-size: 1.11111em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-indent: 19pt;
+    margin: 12pt 0 0.0001pt
+    }
+.calibre15 {
+    color: windowtext;
+    font-style: normal;
+    line-height: 1.2
+    }
+.calibre16 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre17 {
+    display: block;
+    font-size: 1.11111em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-indent: 16pt;
+    margin: 12pt 0 0.0001pt
+    }
+.calibre18 {
+    font-size: 0.75em
+    }
+.calibre19 {
+    font-weight: bold
+    }
+.calibre20 {
+    font-size: 0.88889em;
+    line-height: 1.2
+    }
+.calibre21 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-indent: 16pt;
+    margin: 2pt 0 0.0001pt
+    }
+.calibre22 {
+    color: windowtext
+    }
+.calibre23 {
+    font-size: 1em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre24 {
+    color: black;
+    text-decoration: none
+    }
+.calibre25 {
+    color: windowtext;
+    line-height: 1.2
+    }
+.calibre26 {
+    font-size: 0.75em;
+    line-height: 1.2
+    }
+.calibre27 {
+    font-size: 0.75em
+    }
+.calibre28 {
+    font-size: 0.85714em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre29 {
+    font-size: 0.66667em
+    }
+.calibre30 {
+    font-size: 0.85714em;
+    line-height: 1.2
+    }
+.calibre31 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-indent: 17pt;
+    margin: 2pt 0 0.0001pt
+    }
+.calibre32 {
+    font-size: 0.66667em
+    }
+.calibre33 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-indent: 18pt;
+    margin: 2pt 0 0.0001pt
+    }
+.calibre34 {
+    color: gray;
+    display: block;
+    height: 2px;
+    text-align: left;
+    border-top: currentColor solid 1px;
+    border-right: currentColor none 1px;
+    border-bottom: currentColor none 1px;
+    border-left: currentColor none 1px;
+    margin: 0.5em auto
+    }
+.calibre35 {
+    font-size: 1.16667em;
+    line-height: 1.2
+    }
+.calibre36 {
+    font-size: 1.16667em;
+    font-style: normal;
+    line-height: 1.2
+    }
+.Dipnot {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -7pt;
+    margin: 0 0 0.0001pt 7pt
+    }
+.Dipnot1 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 0.0001pt
+    }
+.Dipnot2 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -7pt;
+    margin: 0 0 0.0001pt 7pt
+    }
+.Dipnot3 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -8pt;
+    margin: 0 0 0.0001pt 8pt
+    }
+.Dipnot4 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 0.0001pt
+    }
+.Dipnot5 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -10pt;
+    margin: 0 0 0.0001pt 10pt
+    }
+.Dipnot6 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -11pt;
+    margin: 0 0 0.0001pt 11pt
+    }
+.Dipnot7 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 0.0001pt 10pt
+    }
+.Dipnot8 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -10pt;
+    margin: 0 0 0.0001pt 10pt
+    }
+.Dipnot9 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -11pt;
+    margin: 0 0 0.0001pt 11pt
+    }
+.Dipnot10 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    font-style: italic;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.Dipnot11 {
+    color: black;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    text-decoration: none none
+    }
+.Dipnot12 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -10pt;
+    margin: 0 0 0.0001pt 10pt
+    }
+.Dipnot13 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.Dipnot14 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: left;
+    margin: 0 0 0.0001pt 10pt
+    }
+.Dipnot15 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -11pt;
+    margin: 0 0 0.0001pt 11pt
+    }
+.Dipnot16 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 0.0001pt 13pt
+    }
+.Dipnot17 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    font-style: italic;
+    text-align: left;
+    margin: 0 0 0.0001pt 13pt
+    }
+.Dipnot18 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: right;
+    text-indent: 0;
+    margin: 0 0 0.0001pt
+    }
+.Dipnot19 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -13pt;
+    margin: 0 0 0.0001pt 13pt
+    }
+.Dipnottalik {
+    color: black;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Dipnottalik1 {
+    color: black;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.2;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 1.5pt;
+    text-decoration: none none
+    }
+.Gvdemetni1 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni2 {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    text-decoration: none none
+    }
+.Gvdemetni2Constantia {
+    color: black;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    text-decoration: none none
+    }
+.Gvdemetni3 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 0.0001pt 35.4pt
+    }
+.Gvdemetni4 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 35.4pt;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni5 {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    text-decoration: none none
+    }
+.Gvdemetni6 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    letter-spacing: 1.5pt;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 1pt
+    }
+.Gvdemetni6KalnDeil {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni7 {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 1.5pt;
+    line-height: 1.2;
+    text-decoration: none none
+    }
+.Gvdemetni8 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 12.55pt
+    }
+.Gvdemetni9 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-family: "Microsoft Sans Serif", "sans-serif";
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni10 {
+    color: black;
+    font-family: "Microsoft Sans Serif", "sans-serif";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    text-decoration: none none
+    }
+.Gvdemetni11 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-family: "Microsoft Sans Serif", "sans-serif";
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 17.7pt
+    }
+.Gvdemetni12 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 3.3pt
+    }
+.Gvdemetni13 {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 1.2;
+    text-decoration: none none
+    }
+.Gvdemetni14 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-family: "Microsoft Sans Serif", "sans-serif";
+    font-size: 0.66667em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: -11pt;
+    margin: 0 0 0.0001pt 11pt
+    }
+.Gvdemetni15 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: right;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni16 {
+    color: black;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.2;
+    text-decoration: none none
+    }
+.Gvdemetni17 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 19pt;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni18 {
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none none
+    }
+.Gvdemetni19 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 16.3pt
+    }
+.Gvdemetni20 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 4.35pt
+    }
+.Gvdemetni21 {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.2;
+    text-decoration: none none
+    }
+.Gvdemetni22 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.77778em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni23 {
+    color: black;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.2;
+    text-decoration: none none
+    }
+.Gvdemetni24 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni25 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 0.0001pt 16pt
+    }
+.Gvdemetni26 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 16pt;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni27 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni28 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 22.7pt
+    }
+.Gvdemetni29 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni29pt {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni30 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 17.8pt
+    }
+.Gvdemetni31 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 18pt
+    }
+.Gvdemetni32 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 17pt;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni33 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 7.7pt
+    }
+.Gvdemetni34 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.77778em;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 1.7pt 30pt
+    }
+.Gvdemetni35 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.77778em;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 6.6pt 30pt
+    }
+.Gvdemetni36 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 18pt;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni37 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 7.55pt
+    }
+.Gvdemetni38 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.77778em;
+    line-height: 1.2;
+    text-align: left;
+    margin: 0 29pt 4.45pt 30pt
+    }
+.Gvdemetni39 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 4.55pt
+    }
+.Gvdemetni40 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.77778em;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 0.0001pt 33pt
+    }
+.Gvdemetni41 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.77778em;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0 0 7.45pt 33pt
+    }
+.Gvdemetni41ptbolukbraklyor {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 1.5pt;
+    line-height: 1.2;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni42 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 20pt;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni43 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 19.7pt
+    }
+.Gvdemetni44 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 15.9pt;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni45 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 23.9pt
+    }
+.Gvdemetni46 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 16.7pt
+    }
+.Gvdemetni47 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 16pt;
+    margin: 0 0 21.9pt
+    }
+.Gvdemetni48 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 18pt;
+    margin: 0 0 17.8pt
+    }
+.Gvdemetni49 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14pt;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni50 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.88889em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 14pt;
+    margin: 0 0 13.25pt
+    }
+.MsoNormal {
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 34.15pt;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.MsoNormal1 {
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin: 0 0 0.0001pt
+    }
+.MsoNormal2 {
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin: 3.75pt 0
+    }
+.MsoNormal3 {
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 35.85pt;
+    margin: 0 0 0.0001pt
+    }
+.MsoNoSpacing {
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.MsoNoSpacing1 {
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 35.4pt;
+    margin: 0 0 0.0001pt 70.8pt
+    }
+.MsoNoSpacing2 {
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 35.4pt;
+    margin: 0 0 0.0001pt 35.4pt
+    }
+.WordSection {
+    display: block;
+    page: WordSection1
+    }
+.pcalibre:visited {
+    color: #954F72;
+    text-decoration: underline
+    }
+.pcalibre1:link {
+    color: #06C;
+    text-decoration: underline
+    }

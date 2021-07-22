@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:ac770e23-8755-437e-bff1-db9198c03b3d</dc:identifier>
+    <dc:title>Papirüs'ten Başyazılar</dc:title>
+    <dc:creator opf:file-as="Süreya, Cemal" opf:role="aut">Cemal Süreya</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <meta content="Adobe InDesign 9.0" name="generator" xmlns="http://www.idpf.org/2007/opf" />
+    <meta name="cover" content="kapak_fmt.jpeg" xmlns="http://www.idpf.org/2007/opf" />
+    <meta content="0.8.7" name="Sigil version" />
+    <dc:date opf:event="modification">2015-12-29</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/1.xhtml" id="x1" media-type="application/xhtml+xml" />
+    <item href="Text/2.xhtml" id="x2" media-type="application/xhtml+xml" />
+    <item href="Text/3.xhtml" id="x3" media-type="application/xhtml+xml" />
+    <item href="Text/4.xhtml" id="x4" media-type="application/xhtml+xml" />
+    <item href="Text/4-1.xhtml" id="x4-1" media-type="application/xhtml+xml" />
+    <item href="Text/4-2.xhtml" id="x4-2" media-type="application/xhtml+xml" />
+    <item href="Text/4-3.xhtml" id="x4-3" media-type="application/xhtml+xml" />
+    <item href="Text/4-4.xhtml" id="x4-4" media-type="application/xhtml+xml" />
+    <item href="Text/4-5.xhtml" id="x4-5" media-type="application/xhtml+xml" />
+    <item href="Text/4-6.xhtml" id="x4-6" media-type="application/xhtml+xml" />
+    <item href="Text/4-7.xhtml" id="x4-7" media-type="application/xhtml+xml" />
+    <item href="Text/4-8.xhtml" id="x4-8" media-type="application/xhtml+xml" />
+    <item href="Text/4-9.xhtml" id="x4-9" media-type="application/xhtml+xml" />
+    <item href="Text/4-10.xhtml" id="x4-10" media-type="application/xhtml+xml" />
+    <item href="Text/4-11.xhtml" id="x4-11" media-type="application/xhtml+xml" />
+    <item href="Text/4-12.xhtml" id="x4-12" media-type="application/xhtml+xml" />
+    <item href="Text/4-13.xhtml" id="x4-13" media-type="application/xhtml+xml" />
+    <item href="Text/4-14.xhtml" id="x4-14" media-type="application/xhtml+xml" />
+    <item href="Text/4-15.xhtml" id="x4-15" media-type="application/xhtml+xml" />
+    <item href="Text/4-16.xhtml" id="x4-16" media-type="application/xhtml+xml" />
+    <item href="Text/4-17.xhtml" id="x4-17" media-type="application/xhtml+xml" />
+    <item href="Text/4-18.xhtml" id="x4-18" media-type="application/xhtml+xml" />
+    <item href="Text/4-19.xhtml" id="x4-19" media-type="application/xhtml+xml" />
+    <item href="Text/4-20.xhtml" id="x4-20" media-type="application/xhtml+xml" />
+    <item href="Text/4-21.xhtml" id="x4-21" media-type="application/xhtml+xml" />
+    <item href="Text/4-22.xhtml" id="x4-22" media-type="application/xhtml+xml" />
+    <item href="Text/4-23.xhtml" id="x4-23" media-type="application/xhtml+xml" />
+    <item href="Text/4-24.xhtml" id="x4-24" media-type="application/xhtml+xml" />
+    <item href="Text/4-25.xhtml" id="x4-25" media-type="application/xhtml+xml" />
+    <item href="Text/4-26.xhtml" id="x4-26" media-type="application/xhtml+xml" />
+    <item href="Text/4-27.xhtml" id="x4-27" media-type="application/xhtml+xml" />
+    <item href="Text/4-28.xhtml" id="x4-28" media-type="application/xhtml+xml" />
+    <item href="Text/4-29.xhtml" id="x4-29" media-type="application/xhtml+xml" />
+    <item href="Text/4-30.xhtml" id="x4-30" media-type="application/xhtml+xml" />
+    <item href="Text/4-31.xhtml" id="x4-31" media-type="application/xhtml+xml" />
+    <item href="Text/4-32.xhtml" id="x4-32" media-type="application/xhtml+xml" />
+    <item href="Text/4-33.xhtml" id="x4-33" media-type="application/xhtml+xml" />
+    <item href="Text/4-34.xhtml" id="x4-34" media-type="application/xhtml+xml" />
+    <item href="Text/4-35.xhtml" id="x4-35" media-type="application/xhtml+xml" />
+    <item href="Text/4-36.xhtml" id="x4-36" media-type="application/xhtml+xml" />
+    <item href="Text/4-37.xhtml" id="x4-37" media-type="application/xhtml+xml" />
+    <item href="Text/4-38.xhtml" id="x4-38" media-type="application/xhtml+xml" />
+    <item href="Text/4-39.xhtml" id="x4-39" media-type="application/xhtml+xml" />
+    <item href="Text/4-40.xhtml" id="x4-40" media-type="application/xhtml+xml" />
+    <item href="Text/4-41.xhtml" id="x4-41" media-type="application/xhtml+xml" />
+    <item href="Text/4-42.xhtml" id="x4-42" media-type="application/xhtml+xml" />
+    <item href="Styles/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css" />
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/t1_fmt.jpeg" id="t1_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/t2_fmt.jpeg" id="t2_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/t3_fmt.jpeg" id="t3_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Images/yky_2_fmt.jpeg" id="yky_2_fmt.jpeg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="x1" />
+    <itemref idref="x2" />
+    <itemref idref="x3" />
+    <itemref idref="x4" />
+    <itemref idref="x4-1" />
+    <itemref idref="x4-2" />
+    <itemref idref="x4-3" />
+    <itemref idref="x4-4" />
+    <itemref idref="x4-5" />
+    <itemref idref="x4-6" />
+    <itemref idref="x4-7" />
+    <itemref idref="x4-8" />
+    <itemref idref="x4-9" />
+    <itemref idref="x4-10" />
+    <itemref idref="x4-11" />
+    <itemref idref="x4-12" />
+    <itemref idref="x4-13" />
+    <itemref idref="x4-14" />
+    <itemref idref="x4-15" />
+    <itemref idref="x4-16" />
+    <itemref idref="x4-17" />
+    <itemref idref="x4-18" />
+    <itemref idref="x4-19" />
+    <itemref idref="x4-20" />
+    <itemref idref="x4-21" />
+    <itemref idref="x4-22" />
+    <itemref idref="x4-23" />
+    <itemref idref="x4-24" />
+    <itemref idref="x4-25" />
+    <itemref idref="x4-26" />
+    <itemref idref="x4-27" />
+    <itemref idref="x4-28" />
+    <itemref idref="x4-29" />
+    <itemref idref="x4-30" />
+    <itemref idref="x4-31" />
+    <itemref idref="x4-32" />
+    <itemref idref="x4-33" />
+    <itemref idref="x4-34" />
+    <itemref idref="x4-35" />
+    <itemref idref="x4-36" />
+    <itemref idref="x4-37" />
+    <itemref idref="x4-38" />
+    <itemref idref="x4-39" />
+    <itemref idref="x4-40" />
+    <itemref idref="x4-41" />
+    <itemref idref="x4-42" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover" xmlns="http://www.idpf.org/2007/opf" />
+  </guide>
+</package>

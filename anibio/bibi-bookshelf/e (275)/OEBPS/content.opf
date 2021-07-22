@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- Sistematik e-Kitap Atölyesi tarafından hazırlanmıştır. -->
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="1.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="pub-id">urn:isbn: 9789750722950</dc:identifier>
+    <dc:title>Suda Bulanık Oyunlar</dc:title>
+    <dc:creator xmlns:opf="http://www.idpf.org/2007/opf" opf:file-as="Kavukçu, Cemil" opf:role="aut">Cemil Kavukçu</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <meta name="cover" content="image__coverjpg" />
+    <meta content="0.8.7" name="Sigil version" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-12-28</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/biography.xhtml" id="biographyxhtml" media-type="application/xhtml+xml" />
+    <item href="Text/books.xhtml" id="booksxhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter1-1.xhtml" id="chapter1-1xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter2-1.xhtml" id="chapter2-1xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter2-2.xhtml" id="chapter2-2xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter2-3.xhtml" id="chapter2-3xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter3-1.xhtml" id="chapter3-1xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter3-2.xhtml" id="chapter3-2xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter4-1.xhtml" id="chapter4-1xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter4-2.xhtml" id="chapter4-2xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter5-1.xhtml" id="chapter5-1xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter5-2.xhtml" id="chapter5-2xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter6-1.xhtml" id="chapter6-1xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter6-2.xhtml" id="chapter6-2xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter6-3.xhtml" id="chapter6-3xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter7-1.xhtml" id="chapter7-1xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter8-1.xhtml" id="chapter8-1xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter9-1.xhtml" id="chapter9-1xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter9-2.xhtml" id="chapter9-2xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter9-3.xhtml" id="chapter9-3xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chapter9-4.xhtml" id="chapter9-4xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/copyright-page.xhtml" id="copyright-pagexhtml" media-type="application/xhtml+xml" />
+    <item href="Text/cover.xhtml" id="coverxhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/main.css" id="maincss" media-type="text/css" />
+    <item href="Text/part1.xhtml" id="part1xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/part2.xhtml" id="part2xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/part3.xhtml" id="part3xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/part4.xhtml" id="part4xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/part5.xhtml" id="part5xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/part6.xhtml" id="part6xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/part7.xhtml" id="part7xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/part8.xhtml" id="part8xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/part9.xhtml" id="part9xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/titlepage.xhtml" id="titlepagexhtml" media-type="application/xhtml+xml" />
+    <item href="Text/toc.xhtml" id="tocxhtml" media-type="application/xhtml+xml" />
+    <item href="Images/logo.jpg" id="image__logojpg" media-type="image/jpeg" />
+    <item href="Images/cover.jpg" id="image__coverjpg" media-type="image/jpeg" />
+    <item href="toc.ncx" id="tocncx" media-type="application/x-dtbncx+xml" />
+  </manifest>
+  <spine toc="tocncx">
+    <itemref idref="coverxhtml" />
+    <itemref idref="copyright-pagexhtml" />
+    <itemref idref="titlepagexhtml" />
+    <itemref idref="booksxhtml" />
+    <itemref idref="biographyxhtml" />
+    <itemref idref="part1xhtml" />
+    <itemref idref="chapter1-1xhtml" />
+    <itemref idref="part2xhtml" />
+    <itemref idref="chapter2-1xhtml" />
+    <itemref idref="chapter2-2xhtml" />
+    <itemref idref="chapter2-3xhtml" />
+    <itemref idref="part3xhtml" />
+    <itemref idref="chapter3-1xhtml" />
+    <itemref idref="chapter3-2xhtml" />
+    <itemref idref="part4xhtml" />
+    <itemref idref="chapter4-1xhtml" />
+    <itemref idref="chapter4-2xhtml" />
+    <itemref idref="part5xhtml" />
+    <itemref idref="chapter5-1xhtml" />
+    <itemref idref="chapter5-2xhtml" />
+    <itemref idref="part6xhtml" />
+    <itemref idref="chapter6-1xhtml" />
+    <itemref idref="chapter6-2xhtml" />
+    <itemref idref="chapter6-3xhtml" />
+    <itemref idref="part7xhtml" />
+    <itemref idref="chapter7-1xhtml" />
+    <itemref idref="part8xhtml" />
+    <itemref idref="chapter8-1xhtml" />
+    <itemref idref="part9xhtml" />
+    <itemref idref="chapter9-1xhtml" />
+    <itemref idref="chapter9-2xhtml" />
+    <itemref idref="chapter9-3xhtml" />
+    <itemref idref="chapter9-4xhtml" />
+  </spine>
+</package>

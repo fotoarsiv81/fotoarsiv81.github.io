@@ -1,0 +1,198 @@
+.bolum {
+    display: block;
+    font-size: 2em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.chapter {
+    display: block
+    }
+.frame {
+    height: auto;
+    width: auto
+    }
+.h2baslik {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.ideitalik {
+    font-style: italic
+    }
+.indentmetinitalik {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.kitapickapak {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kunye {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.sagitalik {
+    display: block;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+.sagnormal {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+.solbaslik {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+
+    @font-face {
+font-style: normal;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: normal;
+src: url(LiberationSerif-Regular.ttf);
+}
+@font-face {
+font-style: italic;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: normal;
+src: url(LiberationSerif-Italic.ttf);
+}
+@font-face {
+font-style: bold;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: bold;
+src: url(LiberationSerif-Bold.ttf);
+}
+
+@font-face {
+font-style: italic;
+font-family: 'Liberation', serif, sans-serif;
+font-weight: bold;
+src: url(LiberationSerif-BoldItalic.ttf);
+
+}
+
+@font-face {
+font-style: normal;
+font-family: 'Arial', sans-serif;
+font-weight: normal;
+src: url(arial.ttf);
+
+}
+
+@font-face {
+font-style: italic;
+font-family: 'Arial',sans-serif;
+font-weight: normal;
+src: url(ariali.ttf);
+
+}
+
+@font-face {
+
+font-style: normal;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+src: url(arialbd.ttf);
+
+}
+
+
+@font-face {
+font-style: italic;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+src: url(arialbi.ttf);
+}

@@ -1,0 +1,59 @@
+
+@page {
+  text-indent:1.5em;
+  margin-right: 5pt;
+  margin-top: 5pt;
+  margin-left: 5pt;
+  margin-bottom: 5pt;
+  }
+h1 {
+  font-family: Tahoma;
+  text-align: center;
+  font-size: 2em;
+  margin-right: 2em;
+  margin-top: 0.1em;
+  margin-left: 2em;
+  margin-bottom: 0.1em;
+}
+h2 {
+  font-family: Tahoma;
+  text-align: center;
+  font-size: 1.4em;
+}
+h3 {
+  font-family: Tahoma;
+  text-align: justify;
+  font-size: 1em;
+  text-indent: 1.7em;
+}
+h4 {
+  font-family: Tahoma;
+  font-style: italic;
+  font-size: 12pt;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 1.5em;
+  text-align: justify;
+  font-size: 1em;
+  text-indent: 1.7em;
+  margin-right: 2em;
+  margin-top: 0.1em;
+  margin-left: 2em;
+  margin-bottom: 0.1em;
+}
+p {
+  text-indent:1.5em;
+  font-family: Georgia;
+  font-style: normal;
+  font-size: 12pt;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.5em;
+  margin-right: 2em;
+  margin-top: 0.1em;
+  margin-left: 2em;
+  margin-bottom: 0.1em;
+  text-align: justify;
+  text-decoration: none;
+  text-indent: 1.7em;
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{5A160F0F-8779-457D-B93A-CC92A2DF51BA}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Küskün Kahvenin Türküsü</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Küskün Kahvenin Türküsü</text>
+      </navLabel>
+      <content src="Text/01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Harika Çocuk</text>
+      </navLabel>
+      <content src="Text/02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Jokey</text>
+      </navLabel>
+      <content src="Text/03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Madame Zilensky ile Finlandiya Kralı</text>
+      </navLabel>
+      <content src="Text/04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Konuk</text>
+      </navLabel>
+      <content src="Text/05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Bir Aile Sorunu</text>
+      </navLabel>
+      <content src="Text/06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Bir Ağaç, Bir Taş, Bir Bulut</text>
+      </navLabel>
+      <content src="Text/07.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

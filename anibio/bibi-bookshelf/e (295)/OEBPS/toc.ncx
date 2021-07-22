@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="urn:uuid:6D146635-823F-4CF9-B7E8-54E2BFA208B6"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle>
+		<text>Kasvetli Ev</text>
+	</docTitle>
+	<docAuthor>
+		<text>Charles Dickens</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>SUNUŞ  </text>
+			</navLabel>
+			<content src="3.xhtml#_idParaDest-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>MAHKEMELER VE HUKUK EĞİTİMİ KONUSUNDA GENEL BİLGİ   </text>
+			</navLabel>
+			<content src="4.xhtml#_idParaDest-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>KRONOLOJİ  </text>
+			</navLabel>
+			<content src="4-1.xhtml#_idParaDest-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>ÖNSÖZ  </text>
+			</navLabel>
+			<content src="6.xhtml#_idParaDest-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>KARAKTERLER  </text>
+			</navLabel>
+			<content src="7.xhtml#_idParaDest-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>CHANCERY MAHKEMESİ’NDE  </text>
+			</navLabel>
+			<content src="8.xhtml#_idParaDest-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>SOSYETE  </text>
+			</navLabel>
+			<content src="8-1.xhtml#_idParaDest-7"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>BİR GELİŞME  </text>
+			</navLabel>
+			<content src="8-2.xhtml#_idParaDest-8"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>TELESKOPİK HAYIRSEVERLİK  </text>
+			</navLabel>
+			<content src="8-4.xhtml#_idParaDest-9"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>BİR SABAH MACERASI  </text>
+			</navLabel>
+			<content src="8-5.xhtml#_idParaDest-10"/>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>MEMNUNİYET  </text>
+			</navLabel>
+			<content src="8-6.xhtml#_idParaDest-11"/>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>HAYALET YOLU  </text>
+			</navLabel>
+			<content src="8-7.xhtml#_idParaDest-12"/>
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>GÜNAHLARI ÖRTMEK  </text>
+			</navLabel>
+			<content src="8-8.xhtml#_idParaDest-13"/>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>İŞARETLER VE ALAMETLER  </text>
+			</navLabel>
+			<content src="8-9.xhtml#_idParaDest-14"/>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>HUKUK YAZICISI  </text>
+			</navLabel>
+			<content src="8-10.xhtml#_idParaDest-15"/>
+		</navPoint>
+		<navPoint id="navpoint16" playOrder="16">
+			<navLabel>
+				<text>SEVGİLİ KARDEŞİMİZ  </text>
+			</navLabel>
+			<content src="8-11.xhtml#_idParaDest-16"/>
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>TETİKTE  </text>
+			</navLabel>
+			<content src="8-12.xhtml#_idParaDest-17"/>
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>ESTHER’İN HİKÂYESİ  </text>
+			</navLabel>
+			<content src="8-13.xhtml#_idParaDest-18"/>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>ADAP  </text>
+			</navLabel>
+			<content src="8-14.xhtml#_idParaDest-19"/>
+		</navPoint>
+		<navPoint id="navpoint20" playOrder="20">
+			<navLabel>
+				<text>BELL YARD  </text>
+			</navLabel>
+			<content src="8-15.xhtml#_idParaDest-20"/>
+		</navPoint>
+		<navPoint id="navpoint21" playOrder="21">
+			<navLabel>
+				<text>YAPAYALNIZ-TOM  </text>
+			</navLabel>
+			<content src="8-16.xhtml#_idParaDest-21"/>
+		</navPoint>
+		<navPoint id="navpoint22" playOrder="22">
+			<navLabel>
+				<text>ESTHER’İN HİKÂYESİ  </text>
+			</navLabel>
+			<content src="8-17.xhtml#_idParaDest-22"/>
+		</navPoint>
+		<navPoint id="navpoint23" playOrder="23">
+			<navLabel>
+				<text>LEYDİ DEDLOCK  </text>
+			</navLabel>
+			<content src="8-18.xhtml#_idParaDest-23"/>
+		</navPoint>
+		<navPoint id="navpoint24" playOrder="24">
+			<navLabel>
+				<text>GİTMEK  </text>
+			</navLabel>
+			<content src="8-19.xhtml#_idParaDest-24"/>
+		</navPoint>
+		<navPoint id="navpoint25" playOrder="25">
+			<navLabel>
+				<text>YENİ KİRACI  </text>
+			</navLabel>
+			<content src="8-20.xhtml#_idParaDest-25"/>
+		</navPoint>
+		<navPoint id="navpoint26" playOrder="26">
+			<navLabel>
+				<text>SMALLWEED AİLESİ  </text>
+			</navLabel>
+			<content src="8-21.xhtml#_idParaDest-26"/>
+		</navPoint>
+		<navPoint id="navpoint27" playOrder="27">
+			<navLabel>
+				<text>BAY BUCKET  </text>
+			</navLabel>
+			<content src="8-22.xhtml#_idParaDest-27"/>
+		</navPoint>
+		<navPoint id="navpoint28" playOrder="28">
+			<navLabel>
+				<text>ESTHER’İN HİKÂYESİ  </text>
+			</navLabel>
+			<content src="8-23.xhtml#_idParaDest-28"/>
+		</navPoint>
+		<navPoint id="navpoint29" playOrder="29">
+			<navLabel>
+				<text>TEMYİZ DAVASI  </text>
+			</navLabel>
+			<content src="8-24.xhtml#_idParaDest-29"/>
+		</navPoint>
+		<navPoint id="navpoint30" playOrder="30">
+			<navLabel>
+				<text>BAYAN SNAGSBY HER ŞEYİ ANLIYOR  </text>
+			</navLabel>
+			<content src="8-25.xhtml#_idParaDest-30"/>
+		</navPoint>
+		<navPoint id="navpoint31" playOrder="31">
+			<navLabel>
+				<text>KESKİN NİŞANCILAR  </text>
+			</navLabel>
+			<content src="8-26.xhtml#_idParaDest-31"/>
+		</navPoint>
+		<navPoint id="navpoint32" playOrder="32">
+			<navLabel>
+				<text>BİR ESKİ ASKER DAHA  </text>
+			</navLabel>
+			<content src="8-27.xhtml#_idParaDest-32"/>
+		</navPoint>
+		<navPoint id="navpoint33" playOrder="33">
+			<navLabel>
+				<text>DEMİRCİ USTASI  </text>
+			</navLabel>
+			<content src="8-28.xhtml#_idParaDest-33"/>
+		</navPoint>
+		<navPoint id="navpoint34" playOrder="34">
+			<navLabel>
+				<text>GENÇ ADAM  </text>
+			</navLabel>
+			<content src="8-29.xhtml#_idParaDest-34"/>
+		</navPoint>
+		<navPoint id="navpoint35" playOrder="35">
+			<navLabel>
+				<text>ESTHER’İN HİKÂYESİ  </text>
+			</navLabel>
+			<content src="8-30.xhtml#_idParaDest-35"/>
+		</navPoint>
+		<navPoint id="navpoint36" playOrder="36">
+			<navLabel>
+				<text>HEMŞİRE VE HASTA  </text>
+			</navLabel>
+			<content src="8-31.xhtml#_idParaDest-36"/>
+		</navPoint>
+		<navPoint id="navpoint37" playOrder="37">
+			<navLabel>
+				<text>VADE  </text>
+			</navLabel>
+			<content src="8-32.xhtml#_idParaDest-37"/>
+		</navPoint>
+		<navPoint id="navpoint38" playOrder="38">
+			<navLabel>
+				<text>MÜTECAVİZLER  </text>
+			</navLabel>
+			<content src="8-33.xhtml#_idParaDest-38"/>
+		</navPoint>
+		<navPoint id="navpoint39" playOrder="39">
+			<navLabel>
+				<text>YÜREK BURGUSU  </text>
+			</navLabel>
+			<content src="8-34.xhtml#_idParaDest-39"/>
+		</navPoint>
+		<navPoint id="navpoint40" playOrder="40">
+			<navLabel>
+				<text>ESTHER’İN HİKÂYESİ  </text>
+			</navLabel>
+			<content src="8-35.xhtml#_idParaDest-40"/>
+		</navPoint>
+		<navPoint id="navpoint41" playOrder="41">
+			<navLabel>
+				<text>CHESNEY WOLD  </text>
+			</navLabel>
+			<content src="8-36.xhtml#_idParaDest-41"/>
+		</navPoint>
+		<navPoint id="navpoint42" playOrder="42">
+			<navLabel>
+				<text>JARNDYCE JARNDYCE’E KARŞI  </text>
+			</navLabel>
+			<content src="8-37.xhtml#_idParaDest-42"/>
+		</navPoint>
+		<navPoint id="navpoint43" playOrder="43">
+			<navLabel>
+				<text>MÜCADELE  </text>
+			</navLabel>
+			<content src="8-38.xhtml#_idParaDest-43"/>
+		</navPoint>
+		<navPoint id="navpoint44" playOrder="44">
+			<navLabel>
+				<text>AVUKAT VE MÜVEKKİLİ  </text>
+			</navLabel>
+			<content src="8-39.xhtml#_idParaDest-44"/>
+		</navPoint>
+		<navPoint id="navpoint45" playOrder="45">
+			<navLabel>
+				<text>MİLLİ MESELELER VE EV MESELELERİ  </text>
+			</navLabel>
+			<content src="8-40.xhtml#_idParaDest-45"/>
+		</navPoint>
+		<navPoint id="navpoint46" playOrder="46">
+			<navLabel>
+				<text>BAY TULKİNGHORN’UN ODASINDA  </text>
+			</navLabel>
+			<content src="8-41.xhtml#_idParaDest-46"/>
+		</navPoint>
+		<navPoint id="navpoint47" playOrder="47">
+			<navLabel>
+				<text>BAY TULKINGHORN’UN YAZIHANESİNDE  </text>
+			</navLabel>
+			<content src="8-42.xhtml#_idParaDest-47"/>
+		</navPoint>
+		<navPoint id="navpoint48" playOrder="48">
+			<navLabel>
+				<text>ESTHER’İN HİKÂYESİ  </text>
+			</navLabel>
+			<content src="8-43.xhtml#_idParaDest-48"/>
+		</navPoint>
+		<navPoint id="navpoint49" playOrder="49">
+			<navLabel>
+				<text>MEKTUP VE CEVABI  </text>
+			</navLabel>
+			<content src="8-44.xhtml#_idParaDest-49"/>
+		</navPoint>
+		<navPoint id="navpoint50" playOrder="50">
+			<navLabel>
+				<text>EMANET  </text>
+			</navLabel>
+			<content src="8-45.xhtml#_idParaDest-50"/>
+		</navPoint>
+		<navPoint id="navpoint51" playOrder="51">
+			<navLabel>
+				<text>DURDURUN ONU!  </text>
+			</navLabel>
+			<content src="8-46.xhtml#_idParaDest-51"/>
+		</navPoint>
+		<navPoint id="navpoint52" playOrder="52">
+			<navLabel>
+				<text>JO’NUN VASİYETİ  </text>
+			</navLabel>
+			<content src="8-47.xhtml#_idParaDest-52"/>
+		</navPoint>
+		<navPoint id="navpoint53" playOrder="53">
+			<navLabel>
+				<text>KUŞATMA  </text>
+			</navLabel>
+			<content src="8-48.xhtml#_idParaDest-53"/>
+		</navPoint>
+		<navPoint id="navpoint54" playOrder="54">
+			<navLabel>
+				<text>DOSTLUK VAZİFESİ  </text>
+			</navLabel>
+			<content src="8-49.xhtml#_idParaDest-54"/>
+		</navPoint>
+		<navPoint id="navpoint55" playOrder="55">
+			<navLabel>
+				<text>ESTHER’İN HİKÂYESİ  </text>
+			</navLabel>
+			<content src="8-50.xhtml#_idParaDest-55"/>
+		</navPoint>
+		<navPoint id="navpoint56" playOrder="56">
+			<navLabel>
+				<text>AYDINLANMA  </text>
+			</navLabel>
+			<content src="8-51.xhtml#_idParaDest-56"/>
+		</navPoint>
+		<navPoint id="navpoint57" playOrder="57">
+			<navLabel>
+				<text>İNAT  </text>
+			</navLabel>
+			<content src="8-52.xhtml#_idParaDest-57"/>
+		</navPoint>
+		<navPoint id="navpoint58" playOrder="58">
+			<navLabel>
+				<text>İZ  </text>
+			</navLabel>
+			<content src="8-53.xhtml#_idParaDest-58"/>
+		</navPoint>
+		<navPoint id="navpoint59" playOrder="59">
+			<navLabel>
+				<text>MAYINI PATLATMAK  </text>
+			</navLabel>
+			<content src="8-54.xhtml#_idParaDest-59"/>
+		</navPoint>
+		<navPoint id="navpoint60" playOrder="60">
+			<navLabel>
+				<text>KAÇIŞ  </text>
+			</navLabel>
+			<content src="8-55.xhtml#_idParaDest-60"/>
+		</navPoint>
+		<navPoint id="navpoint61" playOrder="61">
+			<navLabel>
+				<text>TAKİP  </text>
+			</navLabel>
+			<content src="8-56.xhtml#_idParaDest-61"/>
+		</navPoint>
+		<navPoint id="navpoint62" playOrder="62">
+			<navLabel>
+				<text>ESTHER’İN HİKÂYESİ  </text>
+			</navLabel>
+			<content src="8-57.xhtml#_idParaDest-62"/>
+		</navPoint>
+		<navPoint id="navpoint63" playOrder="63">
+			<navLabel>
+				<text>KARLI BİR GÜN VE GECESİ  </text>
+			</navLabel>
+			<content src="8-58.xhtml#_idParaDest-63"/>
+		</navPoint>
+		<navPoint id="navpoint64" playOrder="64">
+			<navLabel>
+				<text>ESTHER’İN HİKÂYESİ  </text>
+			</navLabel>
+			<content src="8-59.xhtml#_idParaDest-64"/>
+		</navPoint>
+		<navPoint id="navpoint65" playOrder="65">
+			<navLabel>
+				<text>PERSPEKTİF  </text>
+			</navLabel>
+			<content src="8-60.xhtml#_idParaDest-65"/>
+		</navPoint>
+		<navPoint id="navpoint66" playOrder="66">
+			<navLabel>
+				<text>BİR KEŞİF  </text>
+			</navLabel>
+			<content src="8-61.xhtml#_idParaDest-66"/>
+		</navPoint>
+		<navPoint id="navpoint67" playOrder="67">
+			<navLabel>
+				<text>BİR BAŞKA KEŞİF  </text>
+			</navLabel>
+			<content src="8-62.xhtml#_idParaDest-67"/>
+		</navPoint>
+		<navPoint id="navpoint68" playOrder="68">
+			<navLabel>
+				<text>DEMİR ÇELİK  </text>
+			</navLabel>
+			<content src="8-63.xhtml#_idParaDest-68"/>
+		</navPoint>
+		<navPoint id="navpoint69" playOrder="69">
+			<navLabel>
+				<text>ESTHER’İN HİKÂYESİ  </text>
+			</navLabel>
+			<content src="8-64.xhtml#_idParaDest-69"/>
+		</navPoint>
+		<navPoint id="navpoint70" playOrder="70">
+			<navLabel>
+				<text>DÜNYANIN BAŞLANGICI  </text>
+			</navLabel>
+			<content src="8-65.xhtml#_idParaDest-70"/>
+		</navPoint>
+		<navPoint id="navpoint71" playOrder="71">
+			<navLabel>
+				<text>LINCOLNSHIRE’DA  </text>
+			</navLabel>
+			<content src="8-66.xhtml#_idParaDest-71"/>
+		</navPoint>
+		<navPoint id="navpoint72" playOrder="72">
+			<navLabel>
+				<text>ESTHER’İN HİKÂYESİNİN SONU  </text>
+			</navLabel>
+			<content src="8-67.xhtml#_idParaDest-72"/>
+		</navPoint>
+	</navMap>
+</ncx>

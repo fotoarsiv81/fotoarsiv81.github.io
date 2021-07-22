@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="d325abab-e323-4ae6-aae4-abe8bc071b44" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kahin</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Mirany Archon’la konuşuyor</text>
+      </navLabel>
+      <content src="Text/main-2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Mirany Üst Ev’e Giriyor</text>
+      </navLabel>
+      <content src="Text/main-3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Seth vahşi hayvanlarla karşılaşıyor</text>
+      </navLabel>
+      <content src="Text/main-4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Mirany müzisyeni arıyor</text>
+      </navLabel>
+      <content src="Text/main-5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Seth avantaj sağlamak için bir fırsat görüyor</text>
+      </navLabel>
+      <content src="Text/main-6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Mirany hiç beklemediği sesler duyuyor</text>
+      </navLabel>
+      <content src="Text/main-7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Mirany güneşin sesini duyuyor</text>
+      </navLabel>
+      <content src="Text/main-8.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Seth karanlık yerlerdeki tehlikeyi hissediyor</text>
+      </navLabel>
+      <content src="Text/main-9.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Seth, çakal ve avı arasında kalıyor</text>
+      </navLabel>
+      <content src="Text/main-10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Çöl onları sarmalıyor</text>
+      </navLabel>
+      <content src="Text/main-11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Pazarlık yapılıyor</text>
+      </navLabel>
+      <content src="Text/main-12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Kendime ait olanları bilirim</text>
+      </navLabel>
+      <content src="Text/main-13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Çöl yağmurun hayalini kurar mı?</text>
+      </navLabel>
+      <content src="Text/main-14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Tanrı daha iyi nerede gizlenebilir...</text>
+      </navLabel>
+      <content src="Text/main-15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Tanrı’cılık oyunu oynuyordu</text>
+      </navLabel>
+      <content src="Text/main-16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Bir sır vermek havuza bir taş atmaktır</text>
+      </navLabel>
+      <content src="Text/main-17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Ölüm çiçeklerin en kırmızısı mıdır?</text>
+      </navLabel>
+      <content src="Text/main-18.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Kullanıp atılacak aletler</text>
+      </navLabel>
+      <content src="Text/main-19.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Tanrı kendine tapanlardan sorumlu değildir</text>
+      </navLabel>
+      <content src="Text/main-20.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Mirany kaderini öğrenmek için geliyor</text>
+      </navLabel>
+      <content src="Text/main-21.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Kopya krallığı</text>
+      </navLabel>
+      <content src="Text/main-22.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Karanlığa inen altı yüz basamak</text>
+      </navLabel>
+      <content src="Text/main-23.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Akrep kendi yolunda ilerliyor</text>
+      </navLabel>
+      <content src="Text/main-24.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Dağılıyorlar</text>
+      </navLabel>
+      <content src="Text/main-25.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Aşağıdaki krallığı anımsa</text>
+      </navLabel>
+      <content src="Text/main-26.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Yağmur Kraliçesi’nin kendi yolu vardır</text>
+      </navLabel>
+      <content src="Text/main-27.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Başka kimler bu sınavdan geçebilir?</text>
+      </navLabel>
+      <content src="Text/main-28.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Küskün Kahvenin Türküsü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="McCullers, Carson">Carson McCullers</dc:creator>
+    <dc:identifier id="uuid">{5A160F0F-8779-457D-B93A-CC92A2DF51BA}</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (3.17.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">3c150e37-1ff7-4a49-aa6c-fc9e86e1feec</dc:identifier>
+    <meta content="0.9.3" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Küskün Kahvenin Türküsü"/>
+    <meta name="calibre:author_link_map" content="{&quot;Carson McCullers&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-001.xhtml" id="P-001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-002.xhtml" id="P-002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-003.xhtml" id="P-003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-004.xhtml" id="P-004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-005.xhtml" id="P-005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-006.xhtml" id="P-006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/P-007.xhtml" id="P-007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnotlar.xhtml" id="dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id15" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style.css" id="Style.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/is bankası.jpg" id="is_bankası.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id15">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="P-001.xhtml"/>
+    <itemref idref="P-002.xhtml"/>
+    <itemref idref="P-003.xhtml"/>
+    <itemref idref="P-004.xhtml"/>
+    <itemref idref="P-005.xhtml"/>
+    <itemref idref="P-006.xhtml"/>
+    <itemref idref="P-007.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

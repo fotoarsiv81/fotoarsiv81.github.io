@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Beyaz Gemi</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Aytmatov, Cengiz">Cengiz Aytmatov</dc:creator>
+    <dc:description>&lt;div&gt;&lt;p&gt;Masalla gercegi birlestiren bir eserdir. Gecmisi temsil eden dede ile gelecegi temsil eden cocuk arasinda dramatik bir iliski kurarak insan duygu ve dusuncelerine kendine has yorumlar getirilir. Adi eserde hic gecmeyen cocugun saf ve temiz dunyasindan, hayatin aci ve ciplak gercegine uzanan bir roman kurgusu meydana cikarilir. Aytmatov'un, edebiyat âleminde genis akisler uyandiran, uzun yillar tartisilan, verilmek istenen mesajla yaratilan tiplerin buyuk bir uyum sagladigi eserlerinden biridir.&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Ötüken Neşriyat</dc:publisher>
+    <dc:date>1990-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:bf4258e9-6e14-4df2-b16c-901913db2f6f</dc:identifier>
+    <dc:contributor xmlns:ns2="http://www.idpf.org/2007/opf" ns2:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2014-01-28</dc:date>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">d878933e-f210-4f96-9799-6c6b3001b9a7</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9799754370439</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="AMAZON">B00BEJHDEW</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/beyaz_gemi_VOL1.xhtml" id="beyaz_gemi_VOL1" media-type="application/xhtml+xml"/>
+    <item href="Text/beyaz_gemi_VOL1-1.xhtml" id="beyaz_gemi_VOL1-1" media-type="application/xhtml+xml"/>
+    <item href="Text/beyaz_gemi_VOL1-2.xhtml" id="beyaz_gemi_VOL1-2" media-type="application/xhtml+xml"/>
+    <item href="Text/beyaz_gemi_VOL1-3.xhtml" id="beyaz_gemi_VOL1-3" media-type="application/xhtml+xml"/>
+    <item href="Text/beyaz_gemi_VOL1-4.xhtml" id="beyaz_gemi_VOL1-4" media-type="application/xhtml+xml"/>
+    <item href="Text/beyaz_gemi_VOL1-5.xhtml" id="beyaz_gemi_VOL1-5" media-type="application/xhtml+xml"/>
+    <item href="Text/beyaz_gemi_VOL1-6.xhtml" id="beyaz_gemi_VOL1-6" media-type="application/xhtml+xml"/>
+    <item href="Text/beyaz_gemi_VOL1-7.xhtml" id="beyaz_gemi_VOL1-7" media-type="application/xhtml+xml"/>
+    <item href="Text/beyaz_gemi_VOL1-8.xhtml" id="beyaz_gemi_VOL1-8" media-type="application/xhtml+xml"/>
+    <item href="Text/beyaz_gemi_VOL1-9.xhtml" id="beyaz_gemi_VOL1-9" media-type="application/xhtml+xml"/>
+    <item href="Text/beyaz_gemi_VOL1-10.xhtml" id="beyaz_gemi_VOL1-10" media-type="application/xhtml+xml"/>
+    <item href="Text/beyaz_gemi_VOL1-11.xhtml" id="beyaz_gemi_VOL1-11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/beyaz_gemi.css" id="beyaz_gemi.css" media-type="text/css"/>
+    <item href="OEBPS/cover.jpg" id="uhyLZr44iXNX7F4DcECeUfF" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="Fonts/LiberationSerif-Regular.ttf" id="LiberationSerif-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="beyaz_gemi_VOL1"/>
+    <itemref idref="beyaz_gemi_VOL1-1"/>
+    <itemref idref="beyaz_gemi_VOL1-2"/>
+    <itemref idref="beyaz_gemi_VOL1-3"/>
+    <itemref idref="beyaz_gemi_VOL1-4"/>
+    <itemref idref="beyaz_gemi_VOL1-5"/>
+    <itemref idref="beyaz_gemi_VOL1-6"/>
+    <itemref idref="beyaz_gemi_VOL1-7"/>
+    <itemref idref="beyaz_gemi_VOL1-8"/>
+    <itemref idref="beyaz_gemi_VOL1-9"/>
+    <itemref idref="beyaz_gemi_VOL1-10"/>
+    <itemref idref="beyaz_gemi_VOL1-11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

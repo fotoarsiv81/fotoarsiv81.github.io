@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="4942572e-c571-48d5-93ae-bf71e8e6bbc4" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Perili Ev</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="660b8876-399c-4afe-ab85-3b4b3f4bd118" playOrder="1">
+      <navLabel>
+        <text>DÜNYA KLASİKLERİ</text>
+      </navLabel>
+      <content src="Text/Periliev_split_002.html"/>
+    </navPoint>
+    <navPoint id="75bb4af0-760c-4613-b287-2a5edf168664" playOrder="2">
+      <navLabel>
+        <text>PERİLİ EV</text>
+      </navLabel>
+      <content src="Text/Periliev_split_003.html"/>
+      <navPoint id="66bb136a-2593-4610-b246-96d91755b9fd" playOrder="3">
+        <navLabel>
+          <text>BÖLÜM I EVDEKİ ÖLÜMLÜLER</text>
+        </navLabel>
+        <content src="Text/Periliev_split_004.html"/>
+      </navPoint>
+      <navPoint id="3a8405cd-1724-42a8-be37-32d377c68fab" playOrder="4">
+        <navLabel>
+          <text>BÖLÜM II EFENDİ B’NİN ODASINDAKİ HAYALET</text>
+        </navLabel>
+        <content src="Text/Periliev_split_005.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="edbdcfbd-6d59-4fa3-90fd-4ab2592f4b1d" playOrder="5">
+      <navLabel>
+        <text>PERİLİ EV ÜZERİNE...</text>
+      </navLabel>
+      <content src="Text/Periliev_split_006.html"/>
+      <navPoint id="e735875d-d04a-47d7-942f-f93c120283cb" playOrder="6">
+        <navLabel>
+          <text>Gelişim Romanı</text>
+        </navLabel>
+        <content src="Text/Periliev_split_007.html"/>
+      </navPoint>
+      <navPoint id="9bba69a6-a573-4130-bae5-67cf59ca34ab" playOrder="7">
+        <navLabel>
+          <text>İki Şehrin Hikâyesi</text>
+        </navLabel>
+        <content src="Text/Periliev_split_008.html"/>
+      </navPoint>
+      <navPoint id="86802882-21de-46cb-a50e-086b2166c0f0" playOrder="8">
+        <navLabel>
+          <text>Perili Ev</text>
+        </navLabel>
+        <content src="Text/Periliev_split_009.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="85ea1c93-7017-4e9b-896d-8d6d9643a2eb" playOrder="9">
+      <navLabel>
+        <text>THE HAUNTED HOUSE</text>
+      </navLabel>
+      <content src="Text/Periliev_split_010.html"/>
+      <navPoint id="f0bd9b90-dedc-4a95-a4c2-4c1466052114" playOrder="10">
+        <navLabel>
+          <text>CHAPTER I THE MORTALS IN THE HOUSE</text>
+        </navLabel>
+        <content src="Text/Periliev_split_011.html"/>
+      </navPoint>
+      <navPoint id="f9a9bb3e-450c-4d55-9931-67a01f59d347" playOrder="11">
+        <navLabel>
+          <text>CHAPTER II THE GHOST IN MASTER B.’S ROOM</text>
+        </navLabel>
+        <content src="Text/Periliev_split_012.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

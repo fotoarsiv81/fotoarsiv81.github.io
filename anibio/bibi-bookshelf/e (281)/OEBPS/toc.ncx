@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="urn:uuid:67f7da2c-58aa-4a26-ba1a-921f34d34780" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Cemile - Sultanmurat</text>
+	</docTitle>
+	<docAuthor>
+		<text>Cengiz Aytmatov</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Cemile</text>
+			</navLabel>
+			<content src="Text/cemile_sultanmurat-3.xhtml#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Sultanmurat</text>
+			</navLabel>
+			<content src="Text/cemile_sultanmurat-4.xhtml#toc_marker-2"/>
+		</navPoint>
+	</navMap>
+</ncx>

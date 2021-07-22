@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="ecb521a1-57a8-4af0-b28b-8da7040081f8" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>xCarl Sagan</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>CARL SAGAN</text>
+      </navLabel>
+      <content src="Text/Section0003.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>SUNUŞ</text>
+      </navLabel>
+      <content src="Text/index_split_001.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İÇİNDEKİLER</text>
+      </navLabel>
+      <content src="Text/index_split_002.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>ÖNSÖZ : ÖĞRETMENLERİM</text>
+      </navLabel>
+      <content src="Text/Section0002.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>BÖLÜM 1 : EN DEĞERLİ ŞEY</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>BÖLÜM 2 : BİLİM VE UMUT</text>
+      </navLabel>
+      <content src="Text/index_split_003.html#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>BÖLÜM 3 : AY'DAKİ ADAM, MARSTAKİ YÜZ</text>
+      </navLabel>
+      <content src="Text/index_split_004.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>BÖLÜM 4 : UZAYLILAR</text>
+      </navLabel>
+      <content src="Text/index_split_005.html#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>BÖLÜM 5 : ALDATMACA VE GİZLİLİK</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>BÖLÜM 6 : SANRILAR</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>BÖLÜM 7 : İBLİSLİ DÜNYA</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>BÖLÜM 8 : GERÇEK VE SAHTE DÜŞLERİN AYRIMI</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>BÖLÜM 9 : TERAPİ</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>BÖLÜM 10 : GARAJIMDAKİ EJDER</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>BÖLÜM 11 : YAS KENTİ</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_10"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>BÖLÜM 12 : YUTTURMACA SAPTAMA SANATI</text>
+      </navLabel>
+      <content src="Text/index_split_007.html#sigil_toc_id_11"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>BÖLÜM 13 : GERÇEKLİK SAPLANTISI</text>
+      </navLabel>
+      <content src="Text/index_split_008.html#sigil_toc_id_12"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>BÖLÜM 14 : KARŞIT BİLİM</text>
+      </navLabel>
+      <content src="Text/index_split_008.html#sigil_toc_id_13"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>BÖLÜM 15 : NEWTON'UN UYKUSU</text>
+      </navLabel>
+      <content src="Text/index_split_009.html#sigil_toc_id_14"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>BÖLÜM 16 : BİLİM ADAMLARI GÜNAHI TATTIĞINDA</text>
+      </navLabel>
+      <content src="Text/index_split_010.html#sigil_toc_id_15"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>BÖLÜM 17 : KUŞKUCULUK VE MERAKIN EVLİLİĞİ</text>
+      </navLabel>
+      <content src="Text/index_split_010.html#sigil_toc_id_16"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>BÖLÜM 18 : RÜZGAR TOZ KALDIRIR</text>
+      </navLabel>
+      <content src="Text/index_split_012.html#sigil_toc_id_17"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>BÖLÜM 20 : YANAN EV*</text>
+      </navLabel>
+      <content src="Text/index_split_015.html#sigil_toc_id_18"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>BÖLÜM 21 : ÖZGÜRLÜĞE GİDEN YOL*</text>
+      </navLabel>
+      <content src="Text/index_split_017.html#sigil_toc_id_19"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>BÖLÜM 22 : ANLAMKEŞLER</text>
+      </navLabel>
+      <content src="Text/index_split_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>BÖLÜM 23 : MAXWELL VE İNEKLER</text>
+      </navLabel>
+      <content src="Text/index_split_019.html#sigil_toc_id_20"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>BÖLÜM 24 : BİLİM VE CADILIK *</text>
+      </navLabel>
+      <content src="Text/index_split_022.html#sigil_toc_id_21"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>BÖLÜM 25 : GERÇEK YURTSEVERLER SORU SORAR*</text>
+      </navLabel>
+      <content src="Text/index_split_023.html#sigil_toc_id_22"/>
+    </navPoint>
+  </navMap>
+</ncx>

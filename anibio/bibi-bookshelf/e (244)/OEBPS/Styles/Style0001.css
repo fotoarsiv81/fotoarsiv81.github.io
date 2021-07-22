@@ -1,0 +1,104 @@
+body {
+font-family: 'calibri';
+
+}
+
+
+h1 {
+text-align:center;
+font-size:1.7em;
+margin-top:2em;
+margin-bottom:1em;
+}
+
+h2 {
+text-align:center;
+font-size:1.7em;
+margin-top:1em;
+margin-bottom:1em;
+/*text-shadow: 10px 5px 5px #888888;*/
+}
+
+
+
+
+p 
+{
+
+text-align:justify;
+font-size:1em;
+
+text-indent:1.5em;
+margin: 1em 1em 1em 1em;
+
+}
+
+p:first-letter
+{ 
+
+}
+
+
+p.ilk
+{ 
+text-indent:0em;
+}
+p.ori
+{ 
+text-indent:0em;
+text-align: center;
+margin-top:-3em;
+margin-bottom:3em;
+
+}
+p.ilk:first-letter
+{
+
+
+float: left;
+font-size: 4em;
+line-height: 1;
+font-weight: bold;
+margin: -0.1em 0em -0.3em 0em;
+text-indent:0em;
+}
+
+.alinti
+
+{
+
+text-align:left;
+font-size: 1em;
+font-weight: bold;
+font-style:italic;
+text-indent:25%;
+
+}
+.yildiz {
+
+text-align:center;
+font-size:1.3em;
+margin-top:1em;
+margin-bottom:1em;
+}
+.baslik {
+
+text-align:center;
+font-size:1.7em;
+margin-top:1em;
+margin-bottom:1em;
+font-weight: bold;
+text-indent:0;
+margin-bottom:2em;
+}
+.yan
+
+{
+
+margin-left:16%;
+text-align:justify;
+font-size: 1em;
+font-style:italic;
+text-indent:0em;
+
+}

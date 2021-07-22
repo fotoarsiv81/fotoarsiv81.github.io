@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="AWP-3242E872-63B6-4851-A4E3-E13F5FFEBA4A" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Aynadaki Zaman</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/001.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>MARTILAR</text>
+      </navLabel>
+      <content src="Text/007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>YOLCU</text>
+      </navLabel>
+      <content src="Text/008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>MİNDOS KAYALIKLARI</text>
+      </navLabel>
+      <content src="Text/009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>TÜKENİŞ ŞENLİĞİ</text>
+      </navLabel>
+      <content src="Text/010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>ZAMAN AYNASI</text>
+      </navLabel>
+      <content src="Text/011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>İNCİR AĞACI VE ŞİMŞİRLER</text>
+      </navLabel>
+      <content src="Text/012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>BÜYÜK SİLGİ</text>
+      </navLabel>
+      <content src="Text/013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>KOCAMAN ŞAPKALI KÜÇÜK ADAM</text>
+      </navLabel>
+      <content src="Text/014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>KURTULUŞ GÜNÜ</text>
+      </navLabel>
+      <content src="Text/015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>NAĞNA</text>
+      </navLabel>
+      <content src="Text/016.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

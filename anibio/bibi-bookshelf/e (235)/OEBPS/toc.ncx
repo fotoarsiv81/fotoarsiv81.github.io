@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="urn:isbn: 9789750729935"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:generator" content="Sistematik epub-tools"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Türkiye’nin Soğuk Savaş Düşünce Hayatı</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Kısaltmalar</text>
+         </navLabel>
+         <content src="abbreviations.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>Teşekkür</text>
+         </navLabel>
+         <content src="acknowledgment.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>Giriş</text>
+         </navLabel>
+         <content src="introduction.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>I. BÖLÜM: Türkiye’nin Erken Başlayan Soğuk Savaş’ı</text>
+         </navLabel>
+         <content src="part1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>II. BÖLÜM: Uzak Ülkeden Yakın Dosta ABD’yle Hasbıhal</text>
+         </navLabel>
+         <content src="part2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>III. BÖLÜM: “Kızıl On Yıldan” Korku İmparatorluğuna: ABD’de Savaş Sonrası Fikir İklimi ve Sosyal Bilimler1</text>
+         </navLabel>
+         <content src="part3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+         <navLabel>
+            <text>IV. BÖLÜM: Türkiye Çalışmaları ve Türkiye’de Kültürel Program</text>
+         </navLabel>
+         <content src="part4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>V. BÖLÜM: ABD, Türkiye’de Üniversiteler ve Sosyal Bilimler</text>
+         </navLabel>
+         <content src="part5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+         <navLabel>
+            <text>VI. BÖLÜM: Antikomünizmin Şemsiyesi Altında Modernleşmeci Aydınlar ve ABD</text>
+         </navLabel>
+         <content src="part6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+         <navLabel>
+            <text>VII. BÖLÜM: Maneviyatçılığın Soğuk Savaş Buluşması</text>
+         </navLabel>
+         <content src="part7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+         <navLabel>
+            <text>Sonuç</text>
+         </navLabel>
+         <content src="conclusion.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+         <navLabel>
+            <text>Kaynakça</text>
+         </navLabel>
+         <content src="bibliography.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+         <navLabel>
+            <text>Dizin</text>
+         </navLabel>
+         <content src="index.xhtml"/>
+      </navPoint>
+   </navMap>
+    <navList>
+        <navLabel><text>Türkiye’nin Soğuk Savaş Düşünce Hayatı</text></navLabel>        
+        <navTarget id="cover">
+            <navLabel><text>Kapak</text></navLabel>
+            <content src="cover.xhtml"/>
+        </navTarget>
+        <navTarget id="content">
+            <navLabel><text>Okumaya başla</text></navLabel>
+            <content src="part1.xhtml"/>
+        </navTarget>
+    </navList>
+</ncx>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Ernest Hemingway</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>66D07CC0099930DEDE7CAB802BAA89E5</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>28BD8D9BC6CEFD9AAB207B82A57FB58A</string>
+		<key>publisher-unique-id</key>
+		<string>eb49f9e6-527b-4c28-bae4-54cc3a9d9d24</string>
+		<key>unique-id</key>
+		<integer>-1595188379384683846</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Çanlar Kimin İçin Çalıyor</string>
+	<key>playlistName</key>
+	<string>Çanlar Kimin İçin Çalıyor</string>
+	<key>releaseDate</key>
+	<string>2011-03-15T21:48:41+00:00</string>
+	<key>sort-artist</key>
+	<string>Hemingway, Ernest</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

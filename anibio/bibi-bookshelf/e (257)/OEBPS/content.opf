@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>İngiliz ve Amerikan Edebiyatında Kısa Öykünün Büyük Ustaları</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Üster, Celâl">Celâl Üster</dc:creator>
+    <dc:description>&lt;p&gt;Öykü, dünyanın en eski sanatlarından biri. İnsanlar, en eski çağlardan başlayarak birbirlerine öykü anlatmadan edememişler. Homeros destanlarından Kutsal Kitaplara, &lt;i&gt;Binbir Gece Masalları&lt;/i&gt;’ndan &lt;i&gt;Decameron&lt;/i&gt;’a pek çok yapıt da, söylenceler ve masallar da hep öyküler anlatır bize. Yüzyılların imbiğinden süzülen kısa öykünün apayrı bir edebiyat türü olarak günümüzdeki biçimine bürünmesi ise 19. yüzyılı bulur.&lt;/p&gt;
+
+  &lt;p&gt;Celâl Üster’in yıllar içinde belleğinde iz bırakmış kısa öyküleri bir araya getirdiği bu seçki, İngiliz ve Amerikan edebiyatının büyük ustalarının yapıtlarından bir güldeste. Edgar Allan Poe, Herman Melville ve O. Henry’den Chesterton, James Joyce, Oscar Wilde, Virginia Woolf ve Katherine Mansfield’e, öykü sanatının 19. yüzyıldan 20. yüzyıla evrilişinden bir kesit.&lt;/p&gt;
+
+  &lt;p&gt;Kısa öykünün en güzel örnekleri Üster’in kotardığı yetkin çevirileriyle dilimizde hayat buluyor.&lt;/p&gt;</dc:description>
+    <dc:date>2017-02-03T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{DA457C73-9B97-4663-BA12-DC0829A8C680}</dc:identifier>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">602bc481-df11-43ad-b01a-6da82cf767f2</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">İş Bankası Kültür Yayınları</dc:identifier>
+    <meta name="Sigil version" content="0.9.6" />
+    <meta name="cover" content="cover.jpg" />
+    <meta name="calibre:title_sort" content="İngiliz ve Amerikan Edebiyatında Kısa Öykünün Büyük Ustaları" />
+    <meta name="calibre:author_link_map" content="{&quot;Celâl Üster&quot;: &quot;&quot;}" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2017-02-05</dc:date>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hazirlayan.xhtml" href="Text/hazirlayan.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="onsoz.xhtml" href="Text/onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09.xhtml" href="Text/09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10.xhtml" href="Text/10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11.xhtml" href="Text/11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12.xhtml" href="Text/12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13.xhtml" href="Text/13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14.xhtml" href="Text/14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x15.xhtml" href="Text/15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x16.xhtml" href="Text/16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x17.xhtml" href="Text/17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x18.xhtml" href="Text/18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x19.xhtml" href="Text/19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20.xhtml" href="Text/20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazarlar.xhtml" href="Text/yazarlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id9" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id8" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyBoldItaE.ttf" href="Fonts/BerkeleyBoldItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+    <item id="OKU.txt" href="Misc/OKU.txt" media-type="text/plain"/>
+  </manifest>
+  <spine toc="id9">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="hazirlayan.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
+    <itemref idref="x15.xhtml"/>
+    <itemref idref="x16.xhtml"/>
+    <itemref idref="x17.xhtml"/>
+    <itemref idref="x18.xhtml"/>
+    <itemref idref="x19.xhtml"/>
+    <itemref idref="x20.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+    <itemref idref="yazarlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

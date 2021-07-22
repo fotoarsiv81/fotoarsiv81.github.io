@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Küskün Kahvenin Türküsü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="McCullers, Carson">Carson McCullers</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;“(…)Bir seven vardır, bir de sevilen. Ama bunlar başka başka beldelerin insanlarıdır. Sevilen çoğu zaman sevenin içinde uzun zamandır saklı duran sevgi için yalnızca bir uyarıcıdır… En sıradan birisi coşkun, ateşli ve bataklıktaki zehirli zambaklar kadar güzel bir sevginin nesnesi olabilir&amp;#8230;”&lt;/p&gt;&lt;p&gt;Carson McCullers daha yirmi üç yaşında yazdığı Yalnız Bir Avcıdır Yürek adlı romanıyla ABD’deki edebiyat çevrelerinde adını duyurmuş ve gerçek olduğu kadar karamsar da olan bir varoluş felsefesi içeren yapıtlarıyla okuru, insanlık durumunun temelindeki ruhsal yalnızlığın derinlikleriyle tanıştırmıştır. Küskün Kahvenin Türküsü’nde ise daha önceki romanlarının ortak teması olan “sevgi felsefesi”ni daha da geliştirerek sevginin doğasına ilişkin gerçek bir kurama dönüştürür. Kitapta yer alan altı öyküde de yalnızlıklarını duyumsayan karakterlerle karşılaşırız… Çocukluktan genç kızlığa geçiş sancılarını yaşayan bir kız… Yabancı bir ülkede yaşayan ve sevgisizliğin ne denli acı vereceğini geç anlayan bir erkek… Yaşamını biraz olsun tekdüzelikten kurtarmak için hayalinde farklı bir yaşam sürdürmeye çalışan bir müzik öğretmeni… Carson McCullers’ın usta kaleminden, bir sevgi dilini yaratan ve derinlemesine hisseden kahramanların öyküsünü anlatır Küskün Kahvenin Türküsü.&lt;/p&gt;</dc:description>
+    <dc:date>2017-03-18T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{5A160F0F-8779-457D-B93A-CC92A2DF51BA}</dc:identifier>
+    <dc:date opf:event="modification">2018-04-02</dc:date>
+    <dc:subject>Modern Klasikler</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">fcb283ce-d5ff-4a05-b61c-eeb5a1712ac3</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-975-458-637-4</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+    <meta name="Sigil version" content="0.9.9" />
+    <meta name="calibre:title_sort" content="Küskün Kahvenin Türküsü" />
+    <meta name="calibre:author_link_map" content="{&quot;Carson McCullers&quot;: &quot;&quot;}" />
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id15" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="id15">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

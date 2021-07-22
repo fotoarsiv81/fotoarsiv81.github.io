@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Ted Gibi Konuş</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Gallo, Carmine">Carmine Gallo</dc:creator>
+    <dc:date>2016-04-19T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:ccffa712-5d0f-4af5-8130-3d264c29edc2</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Aganta Kitap</dc:publisher>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">155e628f-f13b-4c0f-b57a-147414703139</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="image/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="kapak.xhtml" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.xhtml" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.xhtml" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.xhtml" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.xhtml" id="x5" media-type="application/xhtml+xml"/>
+    <item href="6.xhtml" id="x6" media-type="application/xhtml+xml"/>
+    <item href="7.xhtml" id="x7" media-type="application/xhtml+xml"/>
+    <item href="7-1.xhtml" id="x7-1" media-type="application/xhtml+xml"/>
+    <item href="7-2.xhtml" id="x7-2" media-type="application/xhtml+xml"/>
+    <item href="7-3.xhtml" id="x7-3" media-type="application/xhtml+xml"/>
+    <item href="7-4.xhtml" id="x7-4" media-type="application/xhtml+xml"/>
+    <item href="7-5.xhtml" id="x7-5" media-type="application/xhtml+xml"/>
+    <item href="7-6.xhtml" id="x7-6" media-type="application/xhtml+xml"/>
+    <item href="7-7.xhtml" id="x7-7" media-type="application/xhtml+xml"/>
+    <item href="7-8.xhtml" id="x7-8" media-type="application/xhtml+xml"/>
+    <item href="7-9.xhtml" id="x7-9" media-type="application/xhtml+xml"/>
+    <item href="7-10.xhtml" id="x7-10" media-type="application/xhtml+xml"/>
+    <item href="7-11.xhtml" id="x7-11" media-type="application/xhtml+xml"/>
+    <item href="7-12.xhtml" id="x7-12" media-type="application/xhtml+xml"/>
+    <item href="7-13.xhtml" id="x7-13" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/1_fmt.jpeg" id="x1_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/4_fmt.jpeg" id="x4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/5_fmt.jpeg" id="x5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/6_fmt.jpeg" id="x6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/7_fmt.jpeg" id="x7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/8_fmt.jpeg" id="x8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/9_fmt.jpeg" id="x9_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/10_fmt.jpeg" id="x10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/11_fmt.jpeg" id="x11_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/12_fmt.jpeg" id="x12_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/13_fmt.jpeg" id="x13_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/14_fmt.jpeg" id="x14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/15_fmt.jpeg" id="x15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/16_fmt.jpeg" id="x16_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/17_fmt.jpeg" id="x17_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/18_fmt.jpeg" id="x18_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/19_fmt.jpeg" id="x19_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/20_fmt.jpeg" id="x20_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/21_fmt.jpeg" id="x21_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/22_fmt.jpeg" id="x22_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/23_fmt.jpeg" id="x23_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="image/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="font/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item href="font/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-ttf"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x7-1"/>
+    <itemref idref="x7-2"/>
+    <itemref idref="x7-3"/>
+    <itemref idref="x7-4"/>
+    <itemref idref="x7-5"/>
+    <itemref idref="x7-6"/>
+    <itemref idref="x7-7"/>
+    <itemref idref="x7-8"/>
+    <itemref idref="x7-9"/>
+    <itemref idref="x7-10"/>
+    <itemref idref="x7-11"/>
+    <itemref idref="x7-12"/>
+    <itemref idref="x7-13"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

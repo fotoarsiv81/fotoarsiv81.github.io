@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="urn:uuid:7527ada7-0e9f-48ce-9aaa-966a7d105a3b"/>
+		<meta name="dtb:depth" content="0"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle>
+		<text>Toprak Ana</text>
+	</docTitle>
+	<docAuthor>
+		<text>Cengiz Aytmatov</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>CoverImage</text>
+			</navLabel>
+			<content src="CoverImage.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>toprak_ana</text>
+			</navLabel>
+			<content src="toprak_ana.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>toprak_ana-1</text>
+			</navLabel>
+			<content src="toprak_ana-1.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>toprak_ana-2</text>
+			</navLabel>
+			<content src="toprak_ana-2.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>toprak_ana-3</text>
+			</navLabel>
+			<content src="toprak_ana-3.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="urn:uuid:2D9CC931-9176-4777-8280-6F3E3B6A4B02" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>BİR KIRLANGICIN DAHA VAR</text>
+	</docTitle>
+	<docAuthor>
+		<text>Cemal Süreya</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>BİRİNCİ BÖLÜM  </text>
+			</navLabel>
+			<content src="Text/1-2.xhtml#_idParaDest-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>İKİNCİ BÖLÜM  </text>
+			</navLabel>
+			<content src="Text/1-4.xhtml#_idParaDest-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>ÜÇÜNCÜ BÖLÜM  </text>
+			</navLabel>
+			<content src="Text/1-6.xhtml#_idParaDest-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>DÖRDÜNCÜ BÖLÜM  </text>
+			</navLabel>
+			<content src="Text/1-8.xhtml#_idParaDest-4"/>
+		</navPoint>
+	</navMap>
+</ncx>

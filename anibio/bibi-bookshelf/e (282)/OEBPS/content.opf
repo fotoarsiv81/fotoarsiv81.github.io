@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta content="Adobe InDesign" name="generator"/>
+		<meta content="Toprak-Ana.jpg" name="cover"/>
+		<dc:title>Toprak Ana</dc:title>
+		<dc:creator>Cengiz Aytmatov</dc:creator>
+		<dc:subject>Toprak Ana</dc:subject>
+		<dc:subject>Cengiz Aytmatov</dc:subject>
+		<dc:subject>Ötüken Neşriyat</dc:subject>
+		<dc:description/>
+		<dc:publisher>Ötüken Neşriyat</dc:publisher>
+		<dc:date>2012-09-11</dc:date>
+		<dc:source/>
+		<dc:relation/>
+		<dc:coverage/>
+		<dc:rights/>
+		<dc:language>tr-TR</dc:language>
+		<dc:identifier id="bookid">urn:uuid:5014e79c-fa41-492c-8215-5c829f245024</dc:identifier></metadata>
+	<manifest>
+		<item href="CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+		<item href="toprak_ana.xhtml" id="toprak_ana" media-type="application/xhtml+xml"/>
+		<item href="toprak_ana-1.xhtml" id="toprak_ana-1" media-type="application/xhtml+xml"/>
+		<item href="toprak_ana-2.xhtml" id="toprak_ana-2" media-type="application/xhtml+xml"/>
+		<item href="toprak_ana-3.xhtml" id="toprak_ana-3" media-type="application/xhtml+xml"/>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+		<item href="css/toprak_ana_vol2.css" id="toprak_ana_vol2.css" media-type="text/css"/>
+		<item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/vnd.ms-truetype"/>
+
+		<item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/vnd.ms-truetype"/>
+
+		<item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/vnd.ms-truetype"/>
+
+		<item href="Fonts/LiberationSerif-Regular.ttf" id="LiberationSerif-Regular.ttf" media-type="application/vnd.ms-truetype"/>
+		<item href="image/logo01_fmt.png" id="logo01_fmt.png" media-type="image/png"/>
+		<item href="image/Toprak-Ana.jpg" id="Toprak-Ana.jpg" media-type="image/jpeg"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="CoverImage"/>
+		<itemref idref="toprak_ana"/>
+		<itemref idref="toprak_ana-1"/>
+		<itemref idref="toprak_ana-2"/>
+		<itemref idref="toprak_ana-3"/>
+	</spine>
+</package>

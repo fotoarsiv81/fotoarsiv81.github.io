@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn: 9789750722950" name="dtb:uid"/>
+      <meta content="1" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Suda Bulanık Oyunlar</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>BİR</text>
+         </navLabel>
+         <content src="Text/part1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>İKİ</text>
+         </navLabel>
+         <content src="Text/part2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>ÜÇ</text>
+         </navLabel>
+         <content src="Text/part3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>DÖRT</text>
+         </navLabel>
+         <content src="Text/part4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>BEŞ</text>
+         </navLabel>
+         <content src="Text/part5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>ALTI</text>
+         </navLabel>
+         <content src="Text/part6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+         <navLabel>
+            <text>YEDİ</text>
+         </navLabel>
+         <content src="Text/part7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>SEKİZ</text>
+         </navLabel>
+         <content src="Text/part8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+         <navLabel>
+            <text>DOKUZ</text>
+         </navLabel>
+         <content src="Text/part9.xhtml"/>
+      </navPoint>
+   </navMap>
+    <navList>
+        <navLabel><text>Suda Bulanık Oyunlar</text></navLabel>        
+        <navTarget id="cover">
+            <navLabel><text>Kapak</text></navLabel>
+            <content src="Text/cover.xhtml"/>
+        </navTarget>
+        <navTarget id="content">
+            <navLabel><text>Okumaya başla</text></navLabel>
+            <content src="Text/part1.xhtml"/>
+        </navTarget>
+    </navList>
+</ncx>

@@ -1,0 +1,53 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Aytmatov, Cengiz">Cengiz Aytmatov</dc:creator>
+<meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="Cemile-Sultanmurat_1.jpg"/>
+    <dc:publisher>Ötüken</dc:publisher>
+    <dc:date>2012-10-07T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:67f7da2c-58aa-4a26-ba1a-921f34d34780</dc:identifier>
+    <meta content="0.7.2" name="Sigil version"/>
+    <meta content="Cemile-SultanMurat" name="calibre:title_sort"/>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.33.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Cengiz Aytmatov&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2013-12-02</dc:date>
+  <dc:title>Cemile-SultanMurat</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none; "&gt;Cemile yazara ilk büyük şöhreti kazandıran eseridir. “İşte şimdi burada, Villon'un, Hugo'nun, Baudelaire'nin Paris'inde, kralların ve devrimlerin Paris'inde, ressamların yüzyıllık Paris'i olmakla övünen her taşı ya bir tarihi, ya bir efsaneyi hatırlatan şu Paris'te Werther, Bérénice, Antoine ve Kleopatra, Manon Lescaut, Education Sentimentale, Dominique, hepsi birdenbire gözümden düşüverdi. Çünkü ben Cemile'yi okudum. Roméo Juliette, Paolo ve Francesca, Hernani ve Dona Sol, artık bunların hiçbiri gözümde değil, çünkü ben ikinci cihan savaşının üçüncü yılı yazında, 1943 yılının o Ağustos gecesinde Kurkureu vadisinde bir yerde Zahire arabaları ile giden Danyar ve Cemile'ye, bunların hikâyesini anlatan küçük Seyit'e rastladım.”&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+<dc:language>en</dc:language>
+<dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">e07601c4-d9bd-4ee1-b4d2-baf2a3d91327</dc:identifier>
+<dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9789754370188</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/CoverImage.xhtml" id="CoverImage" media-type="application/xhtml+xml"/>
+    <item href="Text/cemile_sultanmurat.xhtml" id="cemile_sultanmurat" media-type="application/xhtml+xml"/>
+    <item href="Text/cemile_sultanmurat-1.xhtml" id="cemile_sultanmurat-1" media-type="application/xhtml+xml"/>
+    <item href="Text/cemile_sultanmurat-2.xhtml" id="cemile_sultanmurat-2" media-type="application/xhtml+xml"/>
+    <item href="Text/cemile_sultanmurat-3.xhtml" id="cemile_sultanmurat-3" media-type="application/xhtml+xml"/>
+    <item href="Text/cemile_sultanmurat-4.xhtml" id="cemile_sultanmurat-4" media-type="application/xhtml+xml"/>
+    <item href="Text/cemile_sultanmurat-5.xhtml" id="cemile_sultanmurat-5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/cemile_sul_idstyles.css" id="cemile_sul_idstyles.css" media-type="text/css"/>
+    <item href="Images/Cemile-Sultanmurat_1.jpg" id="Cemile-Sultanmurat_1.jpg" media-type="image/jpeg"/>
+    <item href="Images/logo01_fmt.png" id="logo01_fmt.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverImage"/>
+    <itemref idref="cemile_sultanmurat"/>
+    <itemref idref="cemile_sultanmurat-1"/>
+    <itemref idref="cemile_sultanmurat-2"/>
+    <itemref idref="cemile_sultanmurat-3"/>
+    <itemref idref="cemile_sultanmurat-4"/>
+    <itemref idref="cemile_sultanmurat-5"/>
+  </spine>
+  <guide>
+    <reference href="Text/CoverImage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

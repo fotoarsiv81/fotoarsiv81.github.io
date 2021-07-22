@@ -1,0 +1,94 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.2em;
+    line-height: 1.2
+    }
+.calibre2 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre3 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre4 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre5 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre6 {
+    font-family: "Times New Roman", "serif";
+    font-size: 1.55em;
+    line-height: 1.2
+    }
+.calibre7 {
+    font-family: "Bodoni MT Black", "serif";
+    font-size: 2.4em;
+    line-height: 115%
+    }
+.calibre8 {
+    height: 69px;
+    line-height: 1.2;
+    width: 107px
+    }
+.calibre9 {
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.calibre10 {
+    font-family: "Cambria Math", "serif";
+    font-size: 1.2em;
+    line-height: 1.2
+    }
+.calibre11 {
+    height: 804px;
+    line-height: 1.2;
+    width: 486px
+    }
+.MsoNormal {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: 115%;
+    text-align: center;
+    margin: 0 0 10pt
+    }
+.MsoNormal1 {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: 115%;
+    margin: 0 0 10pt
+    }
+.MsoNormal2 {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: 115%;
+    text-align: center;
+    margin: 0 0 6pt
+    }
+.MsoNormal3 {
+    display: block;
+    font-family: "Calibri", "sans-serif";
+    font-size: 0.83333em;
+    line-height: 115%;
+    text-align: justify;
+    text-indent: 21.3pt;
+    margin: 0 0 6pt
+    }
+.WordSection {
+    display: block;
+    page: WordSection1
+    }

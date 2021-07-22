@@ -1,0 +1,853 @@
+.Balk {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: justify;
+    text-indent: 1cm;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.Balk2-1ptbolukbraklyor {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: -1pt;
+    line-height: 1.2;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    text-justify-trim: punctuation;
+    margin: 0 5pt
+    }
+.calibre1 {
+    color: black;
+    font-size: 0.75em
+    }
+.calibre2 {
+    display: block;
+    page-break-before: auto
+    }
+.calibre3 {
+    display: block
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    font-style: italic
+    }
+.calibre6 {
+    color: black;
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.calibre7 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre8 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-indent: 1cm;
+    margin: 0 0 0.0001pt
+    }
+.calibre9 {
+    line-height: 1.2
+    }
+.calibre10 {
+    color: windowtext;
+    line-height: 1.2
+    }
+.calibre11 {
+    font-size: 0.75em
+    }
+.calibre12 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-indent: 1cm;
+    margin: 12pt 0 0.0001pt
+    }
+.calibre13 {
+    color: windowtext;
+    letter-spacing: 0;
+    line-height: 1.2
+    }
+.calibre14 {
+    color: windowtext;
+    font-size: 0.66667em;
+    letter-spacing: 0
+    }
+.calibre15 {
+    color: windowtext;
+    font-size: 1em;
+    font-weight: normal;
+    letter-spacing: 0
+    }
+.calibre16 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-indent: 1cm;
+    margin: 2pt 0 0.0001pt
+    }
+.calibre17 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-indent: 1cm;
+    margin: 2pt 0 0.0001pt
+    }
+.calibre18 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre19 {
+    font-size: 1em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre20 {
+    font-size: 1.33333em;
+    line-height: 1.2
+    }
+.calibre21 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: sub
+    }
+.calibre22 {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre23 {
+    font-size: 0.85714em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre24 {
+    font-size: 1.16667em;
+    line-height: 1.2
+    }
+.calibre25 {
+    font-size: 0.875em;
+    line-height: 1.2
+    }
+.calibre26 {
+    font-size: 1.33333em;
+    font-weight: normal;
+    line-height: 1.2
+    }
+.calibre27 {
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.calibre28 {
+    color: windowtext;
+    font-variant: normal;
+    line-height: 1.2
+    }
+.calibre29 {
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.calibre30 {
+    font-size: 1.33333em;
+    font-style: normal;
+    line-height: 1.2
+    }
+.calibre31 {
+    text-decoration: underline
+    }
+.calibre32 {
+    display: block
+    }
+.calibre33 {
+    font-size: 0.88889em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre34 {
+    color: black;
+    font-size: 1.5em;
+    line-height: 1.2
+    }
+.calibre35 {
+    text-decoration: none
+    }
+.calibre36 {
+    color: gray;
+    display: block;
+    height: 2px;
+    text-align: left;
+    border-top: currentColor solid 1px;
+    border-right: currentColor none 1px;
+    border-bottom: currentColor none 1px;
+    border-left: currentColor none 1px;
+    margin: 0.5em auto
+    }
+.calibre37 {
+    font-size: 0.85714em;
+    line-height: 1.2
+    }
+.calibre38 {
+    font-size: 1em;
+    font-style: normal;
+    line-height: 1.2
+    }
+.calibre39 {
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2
+    }
+.calibre40 {
+    font-weight: normal
+    }
+.calibre41 {
+    font-size: 0.75em;
+    line-height: 1.2
+    }
+.calibre42 {
+    font-size: 1em
+    }
+.Dipnot {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.875em;
+    line-height: 1.2;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.Dipnot1 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.Dipnot2 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: left;
+    text-justify: inter-ideograph;
+    margin: 0 30pt 0.0001pt 0
+    }
+.Dipnot3 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: left;
+    text-justify: inter-ideograph;
+    margin: 0 19pt 0.0001pt 0
+    }
+.Dipnot4 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: left;
+    text-justify: inter-ideograph;
+    margin: 0 34pt 0.0001pt 0
+    }
+.Dipnot5 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: left;
+    text-justify: inter-ideograph;
+    margin: 0 23pt 0.0001pt 0
+    }
+.Dipnot6 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: left;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.Dipnot7 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    margin: 0 21pt 0.0001pt 0
+    }
+.Dipnot8 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: left;
+    text-justify: inter-ideograph;
+    margin: 0 20pt 0.0001pt 0
+    }
+.Dipnot9 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    font-style: italic;
+    line-height: 1.2;
+    margin: 0 24pt 0.0001pt 0
+    }
+.Dipnot10 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    margin: 0 11pt 0.0001pt 0
+    }
+.Dipnot11 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.Dipnot12 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.Dipnot13 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: left;
+    text-justify: inter-ideograph;
+    margin: 0 36pt 0.0001pt 0
+    }
+.Dipnot14 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 14.4pt;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.Dipnot68ptKaln {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 1.2;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Dipnottalik {
+    color: black;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.2;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: -0.5pt;
+    line-height: 39pt;
+    text-align: center;
+    margin: 0 0 7.1pt
+    }
+.Gvdemetni1 {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: -0.5pt;
+    line-height: 1.2;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni2 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: -0.5pt;
+    line-height: 39pt;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni2CordiaUPC4pt {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni2CordiaUPC95pttalik {
+    color: black;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni2Kaln {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    position: relative;
+    text-decoration: underline none underline;
+    top: 0
+    }
+.Gvdemetni2talik {
+    color: black;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni3 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: -0.5pt;
+    line-height: 39pt;
+    text-align: center;
+    margin: 0 0 6.1pt
+    }
+.Gvdemetni4 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: -0.5pt;
+    line-height: 39pt;
+    text-align: center;
+    margin: 0 0 84.15pt
+    }
+.Gvdemetni5 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 120.3pt
+    }
+.Gvdemetni6 {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 1.2;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni6KkBykHarf0ptbolukbraklyor {
+    color: black;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 1.2;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni7 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni8 {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni9 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: -0.5pt;
+    line-height: 30.25pt;
+    text-align: center;
+    margin: 0 1pt 41.6pt 0
+    }
+.Gvdemetni10 {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: -0.5pt;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni10CordiaUPC4ptKalnDeil {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni11 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 1pt 0.0001pt 0
+    }
+.Gvdemetni12 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 1pt 26.15pt 0
+    }
+.Gvdemetni13 {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.2;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni14 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 1pt 54.75pt 0
+    }
+.Gvdemetni15 {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni16 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 1pt 0.0001pt 0
+    }
+.Gvdemetni17 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 1pt 13.9pt 0
+    }
+.Gvdemetni18 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 1pt 26.65pt 0
+    }
+.Gvdemetni19 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 1pt 27.15pt 0
+    }
+.Gvdemetni20 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1.125em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni21 {
+    color: black;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 1.2;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.Gvdemetni22 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.875em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 1cm;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni23 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 1cm;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni24 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 0.875em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 1cm;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni25 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt 1cm
+    }
+.Gvdemetni26 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 1cm;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni27 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 1cm;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni28 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni29 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 1cm;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni30 {
+    background: transparent;
+    color: black;
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 1cm;
+    text-justify: inter-ideograph;
+    margin: 0 0 0.0001pt
+    }
+.Gvdemetni31 {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    position: relative;
+    text-decoration: underline none underline;
+    top: 0
+    }
+.Gvdemetni213ptKalntalik {
+    color: black;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    position: relative;
+    text-decoration: none none;
+    top: 0
+    }
+.MsoNormal {
+    color: black;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-indent: 1cm;
+    margin: 0 0 0.0001pt
+    }
+.WordSection {
+    display: block;
+    page: WordSection1
+    }
+.WordSection1 {
+    display: block;
+    page: WordSection2
+    }
+.WordSection2 {
+    display: block;
+    page: WordSection3
+    }
+.WordSection3 {
+    display: block;
+    page: WordSection4
+    }
+.WordSection4 {
+    display: block;
+    page: WordSection5
+    }
+.WordSection5 {
+    display: block;
+    page: WordSection6
+    }
+.WordSection6 {
+    display: block;
+    page: WordSection7
+    }
+.pcalibre:visited {
+    color: #954F72;
+    text-decoration: underline
+    }
+.pcalibre1:link {
+    color: #06C;
+    text-decoration: underline
+    }

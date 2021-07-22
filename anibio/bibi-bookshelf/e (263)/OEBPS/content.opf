@@ -1,0 +1,76 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Son Ceset</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Oker, Celil">Celil Oker</dc:creator>
+    <dc:identifier id="uuid">{030A2782-FECF-4822-BB4F-A794B6BFA1C6}</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">dace0e4c-e448-4b46-ab0e-303cec791e98</dc:identifier>
+    <meta content="0.8.6" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Son Ceset"/>
+    <meta name="calibre:author_link_map" content="{&quot;Celil Oker&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="main.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset001.xhtml" id="sonceset001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset002.xhtml" id="sonceset002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset003.xhtml" id="sonceset003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset004.xhtml" id="sonceset004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset005.xhtml" id="sonceset005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset006.xhtml" id="sonceset006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset007.xhtml" id="sonceset007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset008.xhtml" id="sonceset008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset009.xhtml" id="sonceset009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset010.xhtml" id="sonceset010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset011.xhtml" id="sonceset011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset012.xhtml" id="sonceset012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset013.xhtml" id="sonceset013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset014.xhtml" id="sonceset014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset015.xhtml" id="sonceset015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset016.xhtml" id="sonceset016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset017.xhtml" id="sonceset017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset018.xhtml" id="sonceset018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset019.xhtml" id="sonceset019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset020.xhtml" id="sonceset020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sonceset021.xhtml" id="sonceset021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style11.css" id="Style11.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/Doğan Kitap.png" id="Doğan_Kitap.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id5">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="sonceset001.xhtml"/>
+    <itemref idref="sonceset002.xhtml"/>
+    <itemref idref="sonceset003.xhtml"/>
+    <itemref idref="sonceset004.xhtml"/>
+    <itemref idref="sonceset005.xhtml"/>
+    <itemref idref="sonceset006.xhtml"/>
+    <itemref idref="sonceset007.xhtml"/>
+    <itemref idref="sonceset008.xhtml"/>
+    <itemref idref="sonceset009.xhtml"/>
+    <itemref idref="sonceset010.xhtml"/>
+    <itemref idref="sonceset011.xhtml"/>
+    <itemref idref="sonceset012.xhtml"/>
+    <itemref idref="sonceset013.xhtml"/>
+    <itemref idref="sonceset014.xhtml"/>
+    <itemref idref="sonceset015.xhtml"/>
+    <itemref idref="sonceset016.xhtml"/>
+    <itemref idref="sonceset017.xhtml"/>
+    <itemref idref="sonceset018.xhtml"/>
+    <itemref idref="sonceset019.xhtml"/>
+    <itemref idref="sonceset020.xhtml"/>
+    <itemref idref="sonceset021.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

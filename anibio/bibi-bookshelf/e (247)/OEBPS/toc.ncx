@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="AWP-B6F68B8A-124C-4395-AF20-E80696C444F7" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bir Garip Aşk Öyküsü</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Başlık</text>
+      </navLabel>
+      <content src="Text/001.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="Text/020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="Text/023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="Text/028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>VIII</text>
+      </navLabel>
+      <content src="Text/031.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>IX</text>
+      </navLabel>
+      <content src="Text/034.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Bayan Fågel ve diğerleri için not</text>
+      </navLabel>
+      <content src="Text/037.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

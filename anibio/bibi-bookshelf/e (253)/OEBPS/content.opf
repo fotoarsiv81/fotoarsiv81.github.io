@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Altın Gözde Yansımalar</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="McCullers, Carson">Carson McCullers</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>Carson McCullers, ABD’nin güneydoğu eyaletlerinden birinde, barış zamanı bir ordugâhta geçen bu romanında, beş kişinin yalnızlıkları, düşleri, saplantıları, başarısızlıkları ve zaaflarından bir “insani cehennem” örüyor. Bastırılmış duygularıyla savaş halinde bir Yüzbaşı; onun dünyayı umursamayan, delifişek karısı; bu kadının sevgilisi ve aynı zamanda aile dostu olan bir Binbaşı ve onun sadakatsizliği yüzünden acı çeken, kırılgan ve duyarlı karısı. Bir de, akşam yemeklerinde buluşan ya da birlikte kâğıt oynayan bu insanların hayatlarını gözetleyen, sessiz sakin, ama tehlikeli Er Williams… Ordugâhın monoton ve boğucu atmosferinde sıkışıp kalmış bu beş kişiyi bekleyen trajedi daha en baştan sezilmektedir… McCullers, “altın gözü”nden yansıyan bu acıklı portreleriyle, insan kalbinde yatan arzu ve nefreti iskandil ediyor. Altın Gözde Yansımalar bizi ruhun karanlık dehlizlerinde dolaştıran romanlardan…</dc:description>
+    <dc:date>2017-03-19T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{E67369CD-9BA3-4B15-B009-E55A06C9EEF8}</dc:identifier>
+    <dc:date opf:event="modification">2017-03-21</dc:date>
+    <dc:subject>Modern Klasikler</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">b227c64f-6b08-485a-a2fc-8592dbdf0b97</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">978-605-332-044-9</dc:identifier>
+    <meta name="Sigil version" content="0.9.6"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Altın Gözde Yansımalar"/>
+    <meta name="calibre:author_link_map" content="{&quot;Carson McCullers&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ithaf.xhtml" href="Text/ithaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id7" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id6" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="id7">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="ithaf.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

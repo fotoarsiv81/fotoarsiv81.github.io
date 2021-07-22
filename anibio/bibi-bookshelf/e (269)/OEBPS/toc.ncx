@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Papirüs'ten Başyazılar</text>
+	</docTitle>
+	<docAuthor>
+		<text>Cemal Süreya</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Bir Cemal Süreya Yaşadı</text>
+			</navLabel>
+			<content src="Text/4.xhtml#_idParaDest-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Papirüs’teki Günler</text>
+			</navLabel>
+			<content src="Text/4-1.xhtml#_idParaDest-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>Cemal Süreya Yazılarda</text>
+			</navLabel>
+			<content src="Text/4-2.xhtml#_idParaDest-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>Gerçek Ayıklanma</text>
+			</navLabel>
+			<content src="Text/4-4.xhtml#_idParaDest-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>Şiir Anayasaya Aykırıdır</text>
+			</navLabel>
+			<content src="Text/4-5.xhtml#_idParaDest-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>Tarihsel Kötümserlik</text>
+			</navLabel>
+			<content src="Text/4-6.xhtml#_idParaDest-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>Sağcıların Çıkmazı</text>
+			</navLabel>
+			<content src="Text/4-7.xhtml#_idParaDest-7"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>Mitoloji Havarileri</text>
+			</navLabel>
+			<content src="Text/4-8.xhtml#_idParaDest-8"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>Edebiyatımızda Yeni Bir Tip</text>
+			</navLabel>
+			<content src="Text/4-9.xhtml#_idParaDest-9"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>Özgürlüğün Kullanma Değeri</text>
+			</navLabel>
+			<content src="Text/4-10.xhtml#_idParaDest-10"/>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>Telif ve Sürüm</text>
+			</navLabel>
+			<content src="Text/4-11.xhtml#_idParaDest-11"/>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>Güdümlü Eleştiriden Mekanik Eleştiriye</text>
+			</navLabel>
+			<content src="Text/4-12.xhtml#_idParaDest-12"/>
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>Ölü Yasalar</text>
+			</navLabel>
+			<content src="Text/4-13.xhtml#_idParaDest-13"/>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>Türk Yazarının Halklaşması</text>
+			</navLabel>
+			<content src="Text/4-14.xhtml#_idParaDest-14"/>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>Ataç’ın Eylemi</text>
+			</navLabel>
+			<content src="Text/4-15.xhtml#_idParaDest-15"/>
+		</navPoint>
+		<navPoint id="navpoint16" playOrder="16">
+			<navLabel>
+				<text>Azgelişmiş Ülkelerde Şiir</text>
+			</navLabel>
+			<content src="Text/4-16.xhtml#_idParaDest-16"/>
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>Değişim</text>
+			</navLabel>
+			<content src="Text/4-17.xhtml#_idParaDest-17"/>
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>Yazarın Devletle İlişkisi</text>
+			</navLabel>
+			<content src="Text/4-18.xhtml#_idParaDest-18"/>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>Sonuna Kadar</text>
+			</navLabel>
+			<content src="Text/4-19.xhtml#_idParaDest-19"/>
+		</navPoint>
+		<navPoint id="navpoint20" playOrder="20">
+			<navLabel>
+				<text>Türk Tipi Üstüne Soruşturmamız</text>
+			</navLabel>
+			<content src="Text/4-20.xhtml#_idParaDest-20"/>
+		</navPoint>
+		<navPoint id="navpoint21" playOrder="21">
+			<navLabel>
+				<text>Atatürkiye</text>
+			</navLabel>
+			<content src="Text/4-21.xhtml#_idParaDest-21"/>
+		</navPoint>
+		<navPoint id="navpoint22" playOrder="22">
+			<navLabel>
+				<text>Konuşma Dili ve Şiir</text>
+			</navLabel>
+			<content src="Text/4-22.xhtml#_idParaDest-22"/>
+		</navPoint>
+		<navPoint id="navpoint23" playOrder="23">
+			<navLabel>
+				<text>Tevfik Fikret Üstüne</text>
+			</navLabel>
+			<content src="Text/4-23.xhtml#_idParaDest-23"/>
+		</navPoint>
+		<navPoint id="navpoint24" playOrder="24">
+			<navLabel>
+				<text>Okur, Anadolu’daki Okur</text>
+			</navLabel>
+			<content src="Text/4-24.xhtml#_idParaDest-24"/>
+		</navPoint>
+		<navPoint id="navpoint25" playOrder="25">
+			<navLabel>
+				<text>Ödüller Armağanlar</text>
+			</navLabel>
+			<content src="Text/4-25.xhtml#_idParaDest-25"/>
+		</navPoint>
+		<navPoint id="navpoint26" playOrder="26">
+			<navLabel>
+				<text>Bağlantı Çerçevesi</text>
+			</navLabel>
+			<content src="Text/4-26.xhtml#_idParaDest-26"/>
+		</navPoint>
+		<navPoint id="navpoint27" playOrder="27">
+			<navLabel>
+				<text>Devrimci Romantizm ve Kıyısız Gerçekçilik</text>
+			</navLabel>
+			<content src="Text/4-27.xhtml#_idParaDest-27"/>
+		</navPoint>
+		<navPoint id="navpoint28" playOrder="28">
+			<navLabel>
+				<text>Utanç Listesi</text>
+			</navLabel>
+			<content src="Text/4-28.xhtml#_idParaDest-28"/>
+		</navPoint>
+		<navPoint id="navpoint29" playOrder="29">
+			<navLabel>
+				<text>Sovyetler’de Türk Şiiri</text>
+			</navLabel>
+			<content src="Text/4-29.xhtml#_idParaDest-29"/>
+		</navPoint>
+		<navPoint id="navpoint30" playOrder="30">
+			<navLabel>
+				<text>Şiirimiz Üstüne Bir İki Söz</text>
+			</navLabel>
+			<content src="Text/4-30.xhtml#_idParaDest-30"/>
+		</navPoint>
+		<navPoint id="navpoint31" playOrder="31">
+			<navLabel>
+				<text>İmgenin Kökleri</text>
+			</navLabel>
+			<content src="Text/4-31.xhtml#_idParaDest-31"/>
+		</navPoint>
+		<navPoint id="navpoint32" playOrder="32">
+			<navLabel>
+				<text>Hükümet Programları ve Kültür</text>
+			</navLabel>
+			<content src="Text/4-32.xhtml#_idParaDest-32"/>
+		</navPoint>
+		<navPoint id="navpoint33" playOrder="33">
+			<navLabel>
+				<text>Doğurgan Tümevarım</text>
+			</navLabel>
+			<content src="Text/4-33.xhtml#_idParaDest-33"/>
+		</navPoint>
+		<navPoint id="navpoint34" playOrder="34">
+			<navLabel>
+				<text>Bayankuş</text>
+			</navLabel>
+			<content src="Text/4-34.xhtml#_idParaDest-34"/>
+		</navPoint>
+		<navPoint id="navpoint35" playOrder="35">
+			<navLabel>
+				<text>Şiir ve Devrim</text>
+			</navLabel>
+			<content src="Text/4-35.xhtml#_idParaDest-35"/>
+		</navPoint>
+		<navPoint id="navpoint36" playOrder="36">
+			<navLabel>
+				<text>Sorgudadır Yazar</text>
+			</navLabel>
+			<content src="Text/4-36.xhtml#_idParaDest-36"/>
+		</navPoint>
+		<navPoint id="navpoint37" playOrder="37">
+			<navLabel>
+				<text>Marksizmin Birey Anlayışı ve Gerçekçilik</text>
+			</navLabel>
+			<content src="Text/4-37.xhtml#_idParaDest-37"/>
+		</navPoint>
+		<navPoint id="navpoint38" playOrder="38">
+			<navLabel>
+				<text>1960 + 10 = 1970</text>
+			</navLabel>
+			<content src="Text/4-38.xhtml#_idParaDest-38"/>
+		</navPoint>
+		<navPoint id="navpoint39" playOrder="39">
+			<navLabel>
+				<text>Erkin Düşünce Ergin Sanat</text>
+			</navLabel>
+			<content src="Text/4-39.xhtml#_idParaDest-39"/>
+		</navPoint>
+		<navPoint id="navpoint40" playOrder="40">
+			<navLabel>
+				<text>Aydınlar</text>
+			</navLabel>
+			<content src="Text/4-40.xhtml#_idParaDest-40"/>
+		</navPoint>
+	</navMap>
+</ncx>

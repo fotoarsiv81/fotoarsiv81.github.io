@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Hemingway, Ernest">Ernest Hemingway</dc:creator>
+<meta name="calibre:title_sort" content="Çanlar Kimin İçin Çalıyor"/>
+    <dc:language>tr</dc:language>
+    <meta name="calibre:timestamp" content="2011-03-15T21:48:41.000002+00:00"/>
+    <dc:title>Çanlar Kimin İçin Çalıyor</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2011-03-15T21:48:41+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.48) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">eb49f9e6-527b-4c28-bae4-54cc3a9d9d24</dc:identifier>
+  <opf:meta name="calibre:user_categories" content="{}"/>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index_split_000.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_010.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_011.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

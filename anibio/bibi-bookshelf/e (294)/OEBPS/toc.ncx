@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:46ea08ab-c855-4a21-8dc6-d97733886b8e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>İki Şehrin Hikâyesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Birinci Bölüm</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>I. Dönem</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>II. Posta Arabası</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>III. Gece Gölgeleri</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>IV. Hazırlık</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>V. Şarap Dükkânı</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>VI. Ayakkabıcı</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>İkinci Bölüm</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>I. Beş Yıl Sonra</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>II. Bir Görünüş</text>
+        </navLabel>
+        <content src="Text/Section0013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>III. Bir Hayal Kırıklığı</text>
+        </navLabel>
+        <content src="Text/Section0014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>IV. Tebrik</text>
+        </navLabel>
+        <content src="Text/Section0015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>V. Çakal</text>
+        </navLabel>
+        <content src="Text/Section0016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>VI. Yüzlerce İnsan</text>
+        </navLabel>
+        <content src="Text/Section0017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>VII. Monsenyör Şehirde</text>
+        </navLabel>
+        <content src="Text/Section0018.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>VIII. Monsenyör Köyde</text>
+        </navLabel>
+        <content src="Text/Section0019.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>IX. Gorgo'nun Başı</text>
+        </navLabel>
+        <content src="Text/Section0020.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>X. İki Söz</text>
+        </navLabel>
+        <content src="Text/Section0021.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>XI. Bir Dostun Portresi</text>
+        </navLabel>
+        <content src="Text/Section0022.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>XII. Nezaket Sahibi Adam</text>
+        </navLabel>
+        <content src="Text/Section0023.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>XIII. Nezaket Yoksunu Adam</text>
+        </navLabel>
+        <content src="Text/Section0024.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>XIV. Namuslu Esnaf</text>
+        </navLabel>
+        <content src="Text/Section0025.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>XV. Örgü</text>
+        </navLabel>
+        <content src="Text/Section0026.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>XVI. Örgüye Devam</text>
+        </navLabel>
+        <content src="Text/Section0027.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>XVII. Bir Gece</text>
+        </navLabel>
+        <content src="Text/Section0028.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>XVIII. Dokuz Gün</text>
+        </navLabel>
+        <content src="Text/Section0029.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>XIX. Bir Fikir</text>
+        </navLabel>
+        <content src="Text/Section0030.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>XX. Bir Rica</text>
+        </navLabel>
+        <content src="Text/Section0031.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>XXI. Yankılanan Ayak Sesleri</text>
+        </navLabel>
+        <content src="Text/Section0032.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>XXII. Deniz Hâlâ Kabarıyor</text>
+        </navLabel>
+        <content src="Text/Section0033.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>XXIII. Gerilim Tırmanıyor</text>
+        </navLabel>
+        <content src="Text/Section0034.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>XXIV. Mıknatıs Taşı Kayalığı'na Sürükleniş</text>
+        </navLabel>
+        <content src="Text/Section0035.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Üçüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/Section0036.xhtml"/>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>I. Gizli</text>
+        </navLabel>
+        <content src="Text/Section0037.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>II. Bileği Taşı</text>
+        </navLabel>
+        <content src="Text/Section0038.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>III. Gölge</text>
+        </navLabel>
+        <content src="Text/Section0039.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>IV. Fırtına Öncesi Sessizlik</text>
+        </navLabel>
+        <content src="Text/Section0040.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>V. Bıçkıcı</text>
+        </navLabel>
+        <content src="Text/Section0041.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>VI. Zafer</text>
+        </navLabel>
+        <content src="Text/Section0042.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>VII. Kapı Çalınıyor</text>
+        </navLabel>
+        <content src="Text/Section0043.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>VIII. Eldeki Kartlar</text>
+        </navLabel>
+        <content src="Text/Section0044.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>IX. Oyun Başlıyor</text>
+        </navLabel>
+        <content src="Text/Section0045.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>X. Gölgenin Cismi</text>
+        </navLabel>
+        <content src="Text/Section0046.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>XI. Alacakaranlık</text>
+        </navLabel>
+        <content src="Text/Section0047.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>XII. Karanlık</text>
+        </navLabel>
+        <content src="Text/Section0048.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>XIII. Elli İki</text>
+        </navLabel>
+        <content src="Text/Section0049.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>XIV. Örgü Bitti</text>
+        </navLabel>
+        <content src="Text/Section0050.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>XV. Ayak Sesleri Sonsuza Dek Susar</text>
+        </navLabel>
+        <content src="Text/Section0051.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Dipnotlar</text>
+      </navLabel>
+      <content src="Text/Section0052.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

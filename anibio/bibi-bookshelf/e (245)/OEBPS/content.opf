@@ -1,0 +1,121 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Sagan, Carl">Carl Sagan</dc:creator>
+<dc:identifier id="uuid">{A7154141-449F-4148-9DF5-F84353DD109D}</dc:identifier>
+    <dc:date>2006-09-13T21:00:00+00:00</dc:date>
+    <dc:publisher>Tübitak Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Carl Sagan, kariyerinin son kitabı Milyarlarca ve Milyarlarca'da hepimizin içinde yaşadığı evrene ilişkin temel konuları her zaman olduğu gibi hem aklıyla hem yüreğiyle ele alıyor. Konu ister insandaki avlanma içgüdüsü, ister çocukluğunun oyuncak trenindeki elektrik transformatörünün kokusu, isterse küresel ısınma ya da Mars'ta yaşam olsun... Kitaptaki denemeler evrenin uçsuz bucaksızlığında yol alırken, insan zihnini de araştırıyor. Çünkü Sagan'a göre gelecek yüzyıllarda karşılaşacağımız sorunları ancak bilimi ve duyguyu birleştirerek çözebiliriz. &lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.png"/>
+    <meta content="Milyarlarca ve Milyarlarca" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Carl Sagan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-10-26</dc:date>
+  <dc:title>Milyarlarca ve Milyarlarca</dc:title>
+<dc:subject>Popüler Bilim</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">7f0d52da-3857-4eab-93c4-9a38a2eef2e4</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9754033765</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="main-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.xhtml" id="Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.xhtml" id="Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.xhtml" id="Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.xhtml" id="Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.xhtml" id="Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.xhtml" id="Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0019.xhtml" id="Section0019.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0020.xhtml" id="Section0020.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0021.xhtml" id="Section0021.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0022.xhtml" id="Section0022.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0023.xhtml" id="Section0023.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0024.xhtml" id="Section0024.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0025.xhtml" id="Section0025.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0026.xhtml" id="Section0026.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0027.xhtml" id="Section0027.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0028.xhtml" id="Section0028.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0029.xhtml" id="Section0029.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id40" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id39" media-type="text/css"/>
+    <item href="Images/kapak.png" id="kapak.png" media-type="image/png"/>
+    <item href="Images/main-1.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="Images/main-10.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="Images/main-11.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="Images/main-12.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="Images/main-13.jpg" id="id13" media-type="image/jpeg"/>
+    <item href="Images/main-14.jpg" id="id14" media-type="image/jpeg"/>
+    <item href="Images/main-15.jpg" id="id15" media-type="image/jpeg"/>
+    <item href="Images/main-16.jpg" id="id16" media-type="image/jpeg"/>
+    <item href="Images/main-17.jpg" id="id17" media-type="image/jpeg"/>
+    <item href="Images/main-18.jpg" id="id18" media-type="image/jpeg"/>
+    <item href="Images/main-19.jpg" id="id19" media-type="image/jpeg"/>
+    <item href="Images/main-2.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="Images/main-20.jpg" id="id20" media-type="image/jpeg"/>
+    <item href="Images/main-21.jpg" id="id21" media-type="image/jpeg"/>
+    <item href="Images/main-22.jpg" id="id22" media-type="image/jpeg"/>
+    <item href="Images/main-23.jpg" id="id23" media-type="image/jpeg"/>
+    <item href="Images/main-24.jpg" id="id24" media-type="image/jpeg"/>
+    <item href="Images/main-25.jpg" id="id25" media-type="image/jpeg"/>
+    <item href="Images/main-26.jpg" id="id26" media-type="image/jpeg"/>
+    <item href="Images/main-3.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="Images/main-4.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="Images/main-5.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="Images/main-6.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="Images/main-7.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="Images/main-8.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="Images/main-9.jpg" id="id9" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id40">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id0"/>
+    <itemref idref="main-1.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="Section0019.xhtml"/>
+    <itemref idref="Section0020.xhtml"/>
+    <itemref idref="Section0021.xhtml"/>
+    <itemref idref="Section0022.xhtml"/>
+    <itemref idref="Section0023.xhtml"/>
+    <itemref idref="Section0024.xhtml"/>
+    <itemref idref="Section0025.xhtml"/>
+    <itemref idref="Section0026.xhtml"/>
+    <itemref idref="Section0027.xhtml"/>
+    <itemref idref="Section0028.xhtml"/>
+    <itemref idref="Section0029.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

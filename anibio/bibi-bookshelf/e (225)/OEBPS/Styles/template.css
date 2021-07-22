@@ -1,0 +1,1091 @@
+
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.Font-Style82 {
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.83em;
+	color : #000000;
+}
+span.Font-Style81 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	color : #000000;
+}
+span.Font-Style75 {
+	font-weight : bold;
+	font-style : italic;
+	font-size : 0.92em;
+	color : #000000;
+}
+span.Font-Style74 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	font-variant : small-caps;
+	color : #000000;
+}
+span.Font-Style75-1 {
+	font-weight : bold;
+	font-style : italic;
+	font-size : 0.92em;
+	color : #000000;
+}
+span.Font-Style76 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.17em;
+	font-variant : small-caps;
+	color : #000000;
+}
+span.Font-Style77 {
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.67em;
+	color : #000000;
+}
+span.Font-Style78 {
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.83em;
+	color : #000000;
+}
+span.Font-Style79 {
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.83em;
+	color : #000000;
+}
+span.Font-Style81-2 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	color : #000000;
+}
+span.Font-Style82-1 {
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.83em;
+	color : #000000;
+}
+span.Font-Style83 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	color : #000000;
+}
+span.Font-Style84 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	color : #000000;
+}
+span.Font-Style85 {
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.67em;
+	color : #000000;
+}
+span.Font-Style86 {
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.67em;
+	color : #000000;
+}
+span.Font-Style87 {
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.67em;
+	color : #000000;
+}
+span.Font-Style88 {
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.92em;
+	color : #000000;
+}
+span.Font-Style90 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.67em;
+	color : #000000;
+}
+span.Font-Style91 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.5em;
+	color : #000000;
+}
+span.Hyperlink {
+	text-decoration : underline;
+	color : #000080;
+}
+span.char-style-override-1 {
+	font-size : 1.67em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-2 {
+	font-size : 1.67em;
+	font-style : normal;
+	font-weight : bold;
+}
+span.char-style-override-3 {
+	font-size : 1.67em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-4 {
+	font-size : 1.17em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-5 {
+	font-size : 0.92em;
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-6 {
+	font-style : normal;
+	font-weight : normal;
+}
+span.char-style-override-7 {
+	font-size : 0.92em;
+	font-style : italic;
+	font-weight : bold;
+}
+span.char-style-override-8 {
+	font-size : 0.83em;
+}
+span.char-style-override-9 {
+	vertical-align : super;
+}
+span.char-style-override-10 {
+	font-size : 0.83em;
+	vertical-align : super;
+}
+span.char-style-override-11 {
+	vertical-align : sub;
+}
+span.char-style-override-12 {
+	font-size : 0.83em;
+	font-style : italic;
+	font-weight : normal;
+	vertical-align : super;
+}
+span.char-style-override-13 {
+	text-decoration : underline;
+}
+span.char-style-override-14 {
+	font-size : 0.67em;
+}
+span.char-style-override-15 {
+	font-size : 0.5em;
+	vertical-align : super;
+}
+p.Konu-Ba-l--- {
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 67px 10px 40px 10px;
+}
+p.Style18 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.24;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Basic-Paragraph {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Basic-Paragraph-1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.G-vde---Metin-Ortala {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 30px 10px;
+}
+p.G-vde {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 10px 8px 10px;
+}
+p.Normal {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Basic-Paragraph-2 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.G-vde---Metin-Ortala-1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 30px 10px;
+}
+p.No-Paragraph-Style {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Basic-Paragraph-3 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.B-l-m-Ba-l--- {
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 140px 10px 40px 10px;
+}
+p.Konu-Ba-l----1 {
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 67px 10px 40px 10px;
+}
+p.Normal-1 {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.baslik {
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.75;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 67px 221px 40px 18px;
+}
+p.altbas {
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 67px 0px 40px 18px;
+}
+p.para-style-override-1 {
+	text-align : center;
+	margin-top : 0em;
+	margin-bottom : 0em;
+}
+p.para-style-override-2 {
+	text-align : center;
+}
+p.para-style-override-3 {
+	text-align : center;
+	margin-top : 20px;
+	margin-bottom : 20px;
+}
+p.para-style-override-4 {
+	text-align : right;
+}
+p.para-style-override-5 {
+	margin-right : 0px;
+	margin-top : 9px;
+}
+p.para-style-override-6 {
+	margin-top : 6px;
+}
+p.para-style-override-7 {
+	margin-right : 1px;
+	margin-top : 6px;
+}
+p.para-style-override-8 {
+	margin-right : 0px;
+	margin-top : 6px;
+}
+p.para-style-override-9 {
+	margin-top : 2px;
+}
+p.para-style-override-10 {
+	margin-top : 2px;
+	text-indent : 16px;
+}
+p.para-style-override-11 {
+	margin-top : 2px;
+	text-indent : 18px;
+}
+p.para-style-override-12 {
+	margin-top : 2px;
+	text-indent : 17px;
+}
+p.para-style-override-13 {
+	margin-right : 0px;
+	margin-top : 3px;
+}
+p.para-style-override-14 {
+	margin-right : 0px;
+	margin-top : 10px;
+	text-align : right;
+}
+p.para-style-override-15 {
+	margin-left : 18px;
+	margin-right : 221px;
+}
+p.para-style-override-16 {
+	margin-right : 1px;
+	margin-top : 2px;
+	text-indent : 17px;
+}
+p.para-style-override-17 {
+	margin-top : 3px;
+	text-indent : 17px;
+}
+p.para-style-override-18 {
+	margin-left : 18px;
+	margin-top : 0px;
+}
+p.para-style-override-19 {
+	margin-left : 18px;
+}
+p.para-style-override-20 {
+	margin-left : 34px;
+	margin-top : 2px;
+}
+p.para-style-override-21 {
+	text-indent : 17px;
+}
+p.para-style-override-22 {
+	margin-top : 9px;
+	text-indent : 17px;
+}
+p.para-style-override-23 {
+	margin-right : 1px;
+	margin-top : 2px;
+}
+p.para-style-override-24 {
+	margin-right : 1px;
+	margin-top : 3px;
+	text-indent : 17px;
+}
+p.para-style-override-25 {
+	margin-right : 1px;
+	margin-top : 3px;
+}
+p.para-style-override-26 {
+	margin-right : 0px;
+	margin-top : 2px;
+	text-indent : 17px;
+}
+p.para-style-override-27 {
+	margin-left : 18px;
+	margin-top : 5px;
+}
+p.para-style-override-28 {
+	margin-left : 17px;
+}
+p.para-style-override-29 {
+	margin-left : 17px;
+	margin-top : 2px;
+}
+p.para-style-override-30 {
+	margin-left : 18px;
+	margin-top : 7px;
+}
+p.para-style-override-31 {
+	margin-top : 3px;
+}
+p.para-style-override-32 {
+	margin-left : 18px;
+	margin-top : 1px;
+}
+p.para-style-override-33 {
+	margin-right : 1px;
+	margin-top : 4px;
+	text-indent : 17px;
+}
+p.para-style-override-34 {
+	margin-top : 3px;
+	text-indent : 18px;
+}
+p.para-style-override-35 {
+	margin-right : 0px;
+	margin-top : 2px;
+}
+p.para-style-override-36 {
+	margin-right : 0px;
+	margin-top : 3px;
+	text-indent : 17px;
+}
+p.para-style-override-37 {
+	margin-left : 18px;
+	margin-top : 8px;
+}
+p.para-style-override-38 {
+	margin-left : 18px;
+	margin-top : 12px;
+}
+p.para-style-override-39 {
+	margin-left : 17px;
+	margin-top : 7px;
+}
+p.para-style-override-40 {
+	margin-top : 10px;
+	text-indent : 17px;
+}
+p.para-style-override-41 {
+	margin-bottom : 2px;
+	text-indent : 18px;
+}
+p.para-style-override-42 {
+	margin-bottom : 3px;
+	margin-top : 1px;
+	text-indent : 17px;
+}
+p.para-style-override-43 {
+	margin-left : 17px;
+	text-indent : -17px;
+}
+p.para-style-override-44 {
+	margin-right : 0px;
+	text-indent : 17px;
+}
+p.para-style-override-45 {
+	margin-right : 0px;
+	margin-top : 2px;
+	text-indent : 18px;
+}
+p.para-style-override-46 {
+	margin-right : 1px;
+	margin-top : 2px;
+	text-indent : 18px;
+}
+p.para-style-override-47 {
+	margin-top : 1px;
+}
+p.para-style-override-48 {
+	margin-left : 17px;
+	margin-top : 2px;
+	text-indent : -17px;
+}
+p.para-style-override-49 {
+	margin-left : 16px;
+	margin-top : 3px;
+	text-indent : -16px;
+}
+p.para-style-override-50 {
+	margin-left : 51px;
+}
+p.para-style-override-51 {
+	margin-top : 7px;
+}
+p.para-style-override-52 {
+	margin-left : 17px;
+	margin-top : 3px;
+	text-indent : -17px;
+}
+p.para-style-override-53 {
+	margin-left : 18px;
+	margin-top : 4px;
+}
+p.para-style-override-54 {
+	margin-left : 16px;
+	margin-top : 4px;
+	text-indent : -16px;
+}
+p.para-style-override-55 {
+	margin-left : 16px;
+	text-indent : -16px;
+}
+p.para-style-override-56 {
+	margin-left : 16px;
+	margin-top : 2px;
+	text-indent : -16px;
+}
+p.para-style-override-57 {
+	margin-top : 5px;
+}
+p.para-style-override-58 {
+	margin-left : 18px;
+	margin-right : 0px;
+	margin-top : 3px;
+	text-indent : -18px;
+}
+p.para-style-override-59 {
+	margin-right : 1px;
+	text-indent : 17px;
+}
+p.para-style-override-60 {
+	margin-right : 0px;
+	text-indent : 20px;
+}
+p.para-style-override-61 {
+	margin-left : 17px;
+	margin-top : 8px;
+}
+p.para-style-override-62 {
+	margin-right : 0px;
+	margin-top : 8px;
+	text-indent : 17px;
+}
+p.para-style-override-63 {
+	margin-right : 0px;
+	text-indent : 18px;
+}
+p.para-style-override-64 {
+	margin-left : 18px;
+	margin-top : 23px;
+}
+p.para-style-override-65 {
+	margin-left : 34px;
+	margin-top : 3px;
+}
+p.para-style-override-66 {
+	margin-right : 0px;
+	margin-top : 7px;
+	text-indent : 18px;
+}
+p.para-style-override-67 {
+	margin-bottom : 22px;
+	margin-top : 2px;
+	text-indent : 18px;
+}
+p.para-style-override-68 {
+	margin-left : 17px;
+	margin-top : 1px;
+}
+p.para-style-override-69 {
+	text-indent : 16px;
+}
+p.para-style-override-70 {
+	margin-top : 10px;
+	text-indent : 16px;
+}
+p.para-style-override-71 {
+	margin-top : 2px;
+	text-indent : 20px;
+}
+p.para-style-override-72 {
+	margin-left : 34px;
+	margin-top : 21px;
+	text-indent : -15px;
+}
+p.para-style-override-73 {
+	margin-left : 17px;
+	margin-top : 0px;
+}
+p.para-style-override-74 {
+	margin-left : 19px;
+}
+p.para-style-override-75 {
+	margin-left : 19px;
+	margin-top : 0px;
+}
+p.para-style-override-76 {
+	margin-left : 34px;
+	margin-top : 2px;
+	text-indent : -16px;
+}
+p.para-style-override-77 {
+	margin-left : 18px;
+	margin-top : 2px;
+}
+p.para-style-override-78 {
+	margin-left : 34px;
+	margin-top : 1px;
+	text-indent : -17px;
+}
+p.para-style-override-79 {
+	margin-right : 1px;
+	text-indent : 18px;
+}
+p.para-style-override-80 {
+	margin-right : 1px;
+	margin-top : 9px;
+	text-indent : 18px;
+}
+p.para-style-override-81 {
+	margin-top : 9px;
+}
+p.para-style-override-82 {
+	text-indent : 21px;
+}
+p.para-style-override-83 {
+	margin-bottom : 5px;
+	margin-top : 2px;
+	text-indent : 17px;
+}
+p.para-style-override-84 {
+	margin-top : 2px;
+	text-indent : 22px;
+}
+p.para-style-override-85 {
+	margin-left : 17px;
+	margin-top : 2px;
+	text-indent : 15px;
+}
+p.para-style-override-86 {
+	margin-right : 1px;
+	margin-top : 10px;
+	text-indent : 17px;
+}
+p.para-style-override-87 {
+	margin-bottom : 3px;
+	margin-right : 1px;
+	margin-top : 2px;
+	text-indent : 20px;
+}
+p.para-style-override-88 {
+	margin-left : 17px;
+	text-indent : 14px;
+}
+p.para-style-override-89 {
+	margin-left : 17px;
+	margin-top : 8px;
+	text-indent : 14px;
+}
+p.para-style-override-90 {
+	margin-right : 0px;
+	margin-top : 10px;
+	text-indent : 17px;
+}
+p.para-style-override-91 {
+	margin-bottom : 2px;
+	margin-top : 3px;
+}
+p.para-style-override-92 {
+	margin-top : 10px;
+}
+p.para-style-override-93 {
+	margin-left : 17px;
+	margin-top : 9px;
+}
+p.para-style-override-94 {
+	margin-top : 7px;
+	text-indent : 17px;
+}
+p.para-style-override-95 {
+	margin-left : 23px;
+	margin-top : 23px;
+}
+p.para-style-override-96 {
+	margin-left : 23px;
+	margin-top : 6px;
+}
+p.para-style-override-97 {
+	margin-left : 23px;
+	margin-top : 3px;
+}
+p.para-style-override-98 {
+	margin-bottom : 2px;
+	margin-top : 3px;
+	text-indent : 17px;
+}
+p.para-style-override-99 {
+	margin-bottom : 3px;
+	margin-top : 8px;
+	text-indent : 17px;
+}
+p.para-style-override-100 {
+	margin-right : 0px;
+	margin-top : 4px;
+	text-indent : 16px;
+}
+p.para-style-override-101 {
+	margin-right : 1px;
+	margin-top : 2px;
+	text-indent : 19px;
+}
+p.para-style-override-102 {
+	text-indent : 18px;
+}
+p.para-style-override-103 {
+	margin-top : 10px;
+	text-indent : 18px;
+}
+p.para-style-override-104 {
+	margin-top : 10px;
+	text-align : justify;
+	text-indent : 17px;
+}
+p.para-style-override-105 {
+	margin-top : 8px;
+	text-indent : 18px;
+}
+p.para-style-override-106 {
+	margin-left : 20px;
+	margin-top : 16px;
+}
+p.para-style-override-107 {
+	margin-left : 20px;
+}
+p.para-style-override-108 {
+	margin-left : 34px;
+	margin-top : 3px;
+	text-indent : -17px;
+}
+p.para-style-override-109 {
+	margin-left : 17px;
+	margin-top : 5px;
+}
+p.para-style-override-110 {
+	margin-left : 34px;
+	margin-top : 2px;
+	text-indent : -17px;
+}
+p.para-style-override-111 {
+	text-indent : 20px;
+}
+p.para-style-override-112 {
+	margin-top : 0px;
+	text-indent : 17px;
+}
+p.para-style-override-113 {
+	margin-left : 34px;
+	margin-top : 3px;
+	text-indent : -16px;
+}
+p.para-style-override-114 {
+	margin-left : 18px;
+	margin-top : 6px;
+}
+p.para-style-override-115 {
+	margin-left : 35px;
+	margin-top : 3px;
+}
+p.para-style-override-116 {
+	margin-bottom : 2px;
+	margin-top : 2px;
+	text-indent : 16px;
+}
+p.para-style-override-117 {
+	margin-left : 18px;
+	margin-right : 177px;
+}
+p.para-style-override-118 {
+	margin-left : 19px;
+	margin-top : 1px;
+}
+p.para-style-override-119 {
+	margin-left : 19px;
+	margin-right : 110px;
+}
+p.para-style-override-120 {
+	margin-left : 17px;
+	margin-top : 6px;
+}
+p.para-style-override-121 {
+	margin-right : 0px;
+	margin-top : 7px;
+	text-indent : 16px;
+}
+p.para-style-override-122 {
+	margin-left : 34px;
+	text-indent : -17px;
+}
+p.para-style-override-123 {
+	margin-left : 34px;
+	text-indent : -16px;
+}
+p.para-style-override-124 {
+	margin-left : 34px;
+	margin-top : 8px;
+	text-indent : -16px;
+}
+p.para-style-override-125 {
+	margin-right : 1px;
+	margin-top : 2px;
+	text-indent : 16px;
+}
+p.para-style-override-126 {
+	margin-left : 18px;
+	margin-top : 9px;
+}
+p.para-style-override-127 {
+	margin-right : 0px;
+	margin-top : 9px;
+	text-indent : 17px;
+}
+p.para-style-override-128 {
+	margin-top : 3px;
+	text-indent : 16px;
+}
+p.para-style-override-129 {
+	margin-left : 35px;
+	margin-top : 2px;
+	text-align : justify;
+}
+p.para-style-override-130 {
+	margin-left : 35px;
+	margin-top : 3px;
+	text-align : justify;
+}
+p.para-style-override-131 {
+	margin-left : 19px;
+	margin-top : 7px;
+}
+p.para-style-override-132 {
+	margin-left : 35px;
+	margin-top : 3px;
+	text-indent : -17px;
+}
+p.para-style-override-133 {
+	margin-left : 35px;
+	margin-top : 2px;
+	text-indent : -17px;
+}
+p.para-style-override-134 {
+	margin-left : 33px;
+	margin-top : 2px;
+	text-indent : -15px;
+}
+p.para-style-override-135 {
+	margin-left : 18px;
+	margin-right : 88px;
+}
+p.para-style-override-136 {
+	margin-left : 18px;
+	margin-right : 88px;
+	margin-top : 3px;
+}
+p.para-style-override-137 {
+	margin-top : 1px;
+	text-indent : 18px;
+}
+p.para-style-override-138 {
+	margin-bottom : 22px;
+	margin-top : 2px;
+	text-indent : 17px;
+}
+p.para-style-override-139 {
+	margin-top : 2px;
+	text-indent : 19px;
+}
+p.para-style-override-140 {
+	margin-left : 17px;
+	margin-top : 4px;
+}
+p.para-style-override-141 {
+	margin-right : 0px;
+	margin-top : 6px;
+	text-indent : 17px;
+}
+p.para-style-override-142 {
+	margin-top : 2px;
+	text-indent : 21px;
+}
+p.para-style-override-143 {
+	margin-bottom : 3px;
+	margin-top : 2px;
+	text-indent : 17px;
+}
+p.para-style-override-144 {
+	margin-left : 16px;
+}
+p.para-style-override-145 {
+	margin-left : 16px;
+	margin-top : 7px;
+}
+p.para-style-override-146 {
+	margin-right : 0px;
+	margin-top : 3px;
+	text-indent : 18px;
+}
+p.para-style-override-147 {
+	margin-top : 6px;
+	text-indent : 17px;
+}
+p.para-style-override-148 {
+	margin-left : 17px;
+	text-align : justify;
+}
+p.para-style-override-149 {
+	margin-top : 11px;
+	text-indent : 17px;
+}
+p.para-style-override-150 {
+	margin-bottom : 2px;
+	margin-top : 2px;
+	text-indent : 17px;
+}
+p.para-style-override-151 {
+	margin-top : 11px;
+	text-indent : 18px;
+}
+p.para-style-override-152 {
+	margin-right : 0px;
+	margin-top : 2px;
+	text-indent : 16px;
+}
+p.para-style-override-153 {
+	text-align : justify;
+}
+p.para-style-override-154 {
+	margin-top : 1px;
+	text-indent : 17px;
+}
+p.para-style-override-155 {
+	margin-left : 24px;
+}
+p.para-style-override-156 {
+	margin-top : 3px;
+	text-indent : 20px;
+}
+p.para-style-override-157 {
+	margin-right : 1px;
+	margin-top : 1px;
+}
+p.para-style-override-158 {
+	margin-right : 1px;
+	margin-top : 16px;
+}
+p.para-style-override-159 {
+	margin-right : 1px;
+	margin-top : 6px;
+	text-indent : 17px;
+}
+p.para-style-override-160 {
+	margin-top : 9px;
+	text-indent : 18px;
+}
+p.para-style-override-161 {
+	margin-top : 6px;
+	text-indent : 18px;
+}
+p.para-style-override-162 {
+	margin-right : 0px;
+	margin-top : 2px;
+	text-indent : 21px;
+}
+p.para-style-override-163 {
+	margin-top : 2px;
+	text-align : justify;
+	text-indent : 17px;
+}
+p.para-style-override-164 {
+	margin-left : 18px;
+	margin-top : 3px;
+}
+p.para-style-override-165 {
+	margin-top : 6px;
+	text-align : justify;
+}
+p.para-style-override-166 {
+	margin-top : 0px;
+	text-align : justify;
+}
+div.Basic-Text-Frame {
+}

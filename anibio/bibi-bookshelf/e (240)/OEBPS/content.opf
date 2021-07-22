@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Jung, Carl Gustav">Carl Gustav Jung</dc:creator>
+<dc:description>&lt;span style="color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);"&gt;"Din, insan aklının en eski ve en yaygın uğraşlarından biridir. Bu nedenle insanın psikolojik yapısına değinen her psikoloji dalı, dinin sadece toplumsal ya da tarihsel bir olay olmayıp, çok sayıda insan için oldukça kişisel bir ilgi alanı olduğu gerçeğini gözlemlemeden edemez."İnsan ruhunun zenginliklerini en ayrıntılı biçimde incelemiş bir araştırmacıdan, bir psikanaliz ustasından din ve psikoloji üzerine yetkin bir kitap.&lt;/span&gt;</dc:description>
+    <dc:identifier id="uuid">{5785FC63-B880-4233-A2B1-073CE86567F2}</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2014-07-29T21:00:00+00:00</dc:date>
+    <meta content="Psikoloji Ve Din" name="calibre:title_sort"/>
+    <dc:publisher>İlhan Yayınları</dc:publisher>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Carl Gustav Jung&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2014-09-08</dc:date>
+    <meta name="cover" content="id1"/>
+    <dc:title>Psikoloji Ve Din</dc:title>
+<dc:subject>Psikoloji</dc:subject>
+<dc:subject>Dinler</dc:subject>
+<dc:subject>İnsan ve Toplum</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">4cd0f56d-b3a9-472b-a1dd-f714a829d40d</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789757200444</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/main-1.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="Images/main-2.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="Text/main-1.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/main.css" id="id19" media-type="text/css"/>
+    <item href="toc.ncx" id="id20" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main-3.xhtml" id="main-3.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id20">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="main-3.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

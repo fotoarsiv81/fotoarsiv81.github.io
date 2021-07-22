@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:file-as="Sagan, Carl" opf:role="aut">Carl Sagan</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:079b2dd6-d7b6-4ed4-af64-56ab81652f76</dc:identifier>
+    <dc:date>1987-02-14T22:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta name="cover" content="kapak.jpg" />
+    <dc:title>Mesaj</dc:title>
+    <meta content="Mesaj" name="calibre:title_sort" />
+    <dc:publisher>İnkılâp Kitabevi</dc:publisher>
+    <meta content="10.0" name="calibre:rating" />
+    <dc:subject>Bilim Kurgu</dc:subject>
+    <dc:description>&lt;p&gt;Argus Projesi Müdürü olan Dr. Eleanor Arroway, insanlık tarihinin bu bölümünün kapandığını anlayan ilk kişidir. Mesaj’ın şifresinin çözümünü sağlayan ve Dünya liderlerini bunu bir tehdit olarak görmemeleri için ikna eden Arroway mesaj karşısında kendi yaşamının değiştiğini görecektir. H.G. Wells’den bu yana anlatım gücünü ve bilimsel hayalleri böylesine şaşırtıcı bir biçimde birleştiren bir roman yazılmamıştır. Cosmos’da evreni anlatan Carl Sagan, Mesaj’da evrenin ve bizim geleceğimizi dile getirmektedir.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Carl Sagan&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">bdac3ba0-fb2f-4727-bed9-06808f923771</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9782266079990</dc:identifier>
+    <dc:date opf:event="modification">2014-02-22</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css" />
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="ickapak.xhtml" />
+    <itemref idref="Section0001.xhtml" />
+    <itemref idref="Section0002.xhtml" />
+    <itemref idref="Section0003.xhtml" />
+    <itemref idref="Section0004.xhtml" />
+    <itemref idref="Section0005.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

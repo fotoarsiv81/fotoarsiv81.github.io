@@ -1,0 +1,179 @@
+
+
+
+
+.baslik{
+  font: normal normal 1.25em "Berling";
+  text-align: center;
+  margin: 2em auto;
+}
+
+.baslik1{
+  font: normal normal 1.25em "Berling";
+  text-align: center;
+  margin: 5em auto 2em auto;
+}
+
+.chapter p{
+  font: normal normal .875em "Berling";
+  text-indent: 1.5em;
+  margin: 0;
+  line-height: 1.3em;
+}
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+  margin:4em 0 1em;
+}
+.si-backref{
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #000;
+}
+.si-footnote{
+  font-family: Gill1;
+  font-size: .8em;
+  margin-bottom: .25em;
+}
+
+.mektup,.b-center{
+  margin: 1em auto;
+}
+
+.mektup p,.alinti p,.mektup1 p{
+  font: normal normal .875em "Gill";
+}
+
+.alinti{
+  margin: 1em auto 1em 1em;
+}
+
+.h-margin{
+  margin: 2em auto;
+  border: none;
+}
+
+.alinti1{
+  margin: 1em auto 1em 0em;
+}
+
+.b-center p{
+  font-style: italic;
+  text-align: center;
+  text-indent: 0 !important;
+}
+
+.yazar{
+  text-align: right;
+}
+
+.mektup1{
+  margin: 1em auto 1em 1em;
+}
+
+/*Biography*/
+
+.biography p,.books p{
+  font: normal normal .75em "Gill1";
+  margin: 0;
+  line-height: 1.5em;
+}
+
+.s-margin{
+  margin-top: 5em;
+}
+
+/*Copyright*/
+
+.copyright-page p{
+  font: normal normal .66em "Gill1";
+  margin: 0;
+  line-height: 1.5em;
+}
+
+.c1-margin{
+  margin: 1em auto;
+}
+
+.c-margin{
+  margin-top: 3em;
+}
+
+.copyright-page a{
+  vertical-align: baseline;
+  font-size: 1em;
+  color: #7A7A7A;
+  text-decoration: none;
+}
+
+/*Titlepage*/
+
+.titlepage{
+  text-align: center;
+}
+
+.t-1{
+  font: normal normal 2.083em "Goudy";
+  margin: 0;
+}
+
+.t-2{
+  font: normal normal 2.68em "Goudy";
+  margin: 0;
+}
+
+.t-3{
+  font: normal normal .91em "Gill1";
+  margin: 0 auto 2em auto;
+}
+
+.t-4{
+  font: normal normal .83em "Gill1";
+  margin: 0;
+}
+
+.t-5{
+  font: normal normal 1em "Gill1";
+  margin: .5em auto;
+}
+
+.first{
+  font-size: 1.1em;
+}
+
+/*Cover*/
+
+.kapak img{
+  max-width: 100%;
+}
+.kapak{
+  margin: 0 auto;
+  max-width: 500px;
+  page-break-inside: avoid;
+}
+
+.logo{
+  margin: 3em auto 0 auto;
+}
+h1
+{
+margin-top:3em;
+margin-bottom:3em;
+text-align:center;
+Font-size:1.5em;
+}
+p{
+text-align:justify;
+text-indent:1em;
+margin-top:0.3em;
+margin-bottom:0.3em;
+}
+
+

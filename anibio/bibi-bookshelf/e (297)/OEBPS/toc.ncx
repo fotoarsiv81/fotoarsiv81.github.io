@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta content="urn:isbn:9789750720352" name="dtb:uid"/>
+      <meta content="2" name="dtb:depth"/>
+      <meta content="Sistematik epub-tools" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Oliver Twist</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>BİRİNCİ KİTAP</text>
+         </navLabel>
+         <content src="Text/chapter1.xhtml"/>
+         <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+               <text>I - Oliver Twist’in doğduğu yeri ve hangi koşullar altında dünyaya geldiğini anlatıyor</text>
+            </navLabel>
+            <content src="Text/chapter2.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+               <text>II - Oliver’ın büyümesini, eğitimini ve barındığı yerleri ele alıyor</text>
+            </navLabel>
+            <content src="Text/chapter3.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+               <text>III - Oliver Twist’in hiç de makbul olmayan bir işe girmesine ramak kaldığını anlatıyor</text>
+            </navLabel>
+            <content src="Text/chapter4.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+               <text>IV - Yeni bir iş önerisi alan Oliver hayata ilk adımını atıyor</text>
+            </navLabel>
+            <content src="Text/chapter5.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+               <text>V - Oliver yeni insanların arasına karışıyor ve ilk kez bir cenazeye giderek efendisinin mesleği hakkında olumsuz bir izlenim ediniyor</text>
+            </navLabel>
+            <content src="Text/chapter6.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+               <text>VI - Noah’nın sataşmalarına katlanamayan Oliver sonunda harekete geçiyor ve bir hayli şaşkınlık yaratıyor</text>
+            </navLabel>
+            <content src="Text/chapter7.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+               <text>VII - Oliver başkaldırmayı sürdürüyor</text>
+            </navLabel>
+            <content src="Text/chapter8.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+               <text>VIII - Oliver yürüyerek Londra’ya gidiyor. Yolda şaşırtıcı bir genç beyle tanışıyor</text>
+            </navLabel>
+            <content src="Text/chapter9.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+               <text>IX - Sevimli ihtiyarla yetenekli çömezleri hakkında başkaca bilgiler veriyor</text>
+            </navLabel>
+            <content src="Text/chapter10.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+               <text>X - Oliver yeni arkadaşlarının karakterlerini yakından tanıdıkça edindiği deneyim kendisine pahalıya mal oluyor. Bu hikâyenin kısa ama çok önemli bir bölümü</text>
+            </navLabel>
+            <content src="Text/chapter11.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+               <text>XI - Sorgu Yargıcı Mr. Fang’i ele alıyor ve onun adalet uygulama yöntemine küçük bir örnek veriyor</text>
+            </navLabel>
+            <content src="Text/chapter12.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+               <text>XII - Oliver’a ömründe görmediği kadar iyi bakılıyor. Bir resim hakkında bazı ayrıntılı bilgiler</text>
+            </navLabel>
+            <content src="Text/chapter13.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+               <text>XIII - Yeniden o şen ihtiyarla genç çömezlerine dönüyor. Zeki okuyucu bu kimseler aracılığıyla yeni bir dost ediniyor. Ve onun üzerinden bu hikâyeyle ilgili birçok hoş konu anlatılıyor</text>
+            </navLabel>
+            <content src="Text/chapter14.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+               <text>XIV - Oliver’ın Mr. Brownlow’un evindeki hayatına dair başkaca ayrıntılı bilgiler içeriyor ve Mr. Grimwig adlı birinin, sokağa çıkan Oliver’ın ardından savurduğu şaşılacak kehaneti anlatıyor</text>
+            </navLabel>
+            <content src="Text/chapter15.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+               <text>XV - Şen ihtiyarla Nancy’nin Oliver’ı nasıl da içten sevdiklerini gösteriyor</text>
+            </navLabel>
+            <content src="Text/chapter16.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+               <text>XVI - Nancy’nin sahip çıkmasından sonra Oliver Twist’in başına gelenleri anlatıyor</text>
+            </navLabel>
+            <content src="Text/chapter17.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+               <text>XVII - Oliver’ın şanssızlığı sürüyor, büyük bir adam Londra’ya gelip onun adına leke sürüyor</text>
+            </navLabel>
+            <content src="Text/chapter18.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+               <text>XVIII - Oliver’ın saygıdeğer dostlarının ihya edici meclisinde nasıl vakit geçirdiğini konu ediniyor</text>
+            </navLabel>
+            <content src="Text/chapter19.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+               <text>XIX - Dikkate değer bir plan görüşülüp karara bağlanıyor</text>
+            </navLabel>
+            <content src="Text/chapter20.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+               <text>XX - Oliver Mr. William Sikes’a teslim ediliyor</text>
+            </navLabel>
+            <content src="Text/chapter21.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+               <text>XXI - Yolculuk</text>
+            </navLabel>
+            <content src="Text/chapter22.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+               <text>XXII - Soygun</text>
+            </navLabel>
+            <content src="Text/chapter23.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+         <navLabel>
+            <text>İKİNCİ KİTAP</text>
+         </navLabel>
+         <content src="Text/chapter24.xhtml"/>
+         <navPoint id="navPoint-25" playOrder="25">
+            <navLabel>
+               <text>I - Mr. Bumble ile bir hanım arasında geçen tatlı konuşmanın özünü veriyor ve kilise yazmanlarının bile bazı konularda zayıf olabileceklerini gösteriyor</text>
+            </navLabel>
+            <content src="Text/chapter25.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-26" playOrder="26">
+            <navLabel>
+               <text>II - Tatsız bir konuyu işliyor. Ama neyse ki kısa bir bölümdür ve bu hikâyede önemli bir yeri olduğu sonradan ortaya çıkabilir</text>
+            </navLabel>
+            <content src="Text/chapter26.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-27" playOrder="27">
+            <navLabel>
+               <text>III - Hikâyemiz gene Fagin ve ortaklarına dönüyor</text>
+            </navLabel>
+            <content src="Text/chapter27.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-28" playOrder="28">
+            <navLabel>
+               <text>IV - Sahneye esrarengiz bir kişi çıkıyor. Bu hikâyenin ayrılmaz bir parçası olan birçok şey meydana geliyor ve yapılıyor</text>
+            </navLabel>
+            <content src="Text/chapter28.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+               <text>V - Bir hanımefendinin apar topar topar bırakıldığı önceki bir bölümün nezaketsizliğini telafi ediyor</text>
+            </navLabel>
+            <content src="Text/chapter29.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-30" playOrder="30">
+            <navLabel>
+               <text>VI - Oliver’a dönüyor ve onun serüvenlerini anlatmayı sürdürüyor</text>
+            </navLabel>
+            <content src="Text/chapter30.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-31" playOrder="31">
+            <navLabel>
+               <text>VII - Oliver’ın sığındığı evin insanlarını tanıtıyor ve onların Oliver hakkındaki düşüncelerini anlatıyor</text>
+            </navLabel>
+            <content src="Text/chapter31.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-32" playOrder="32">
+            <navLabel>
+               <text>VIII - Nazik bir durum ortaya çıkıyor</text>
+            </navLabel>
+            <content src="Text/chapter32.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-33" playOrder="33">
+            <navLabel>
+               <text>IX - Oliver’ın iyi yürekli dostlarıyla sürmeye başladığı mutlu hayatı anlatıyor</text>
+            </navLabel>
+            <content src="Text/chapter33.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-34" playOrder="34">
+            <navLabel>
+               <text>X - Oliver’la dostlarının mutluluğu ansızın kesintiye uğruyor</text>
+            </navLabel>
+            <content src="Text/chapter34.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-35" playOrder="35">
+            <navLabel>
+               <text>XI - Sahnede yeni beliren genç bir bey hakkında tanıtıcı bilgiler veriliyor. Oliver’ın başından geçen yeni bir serüven</text>
+            </navLabel>
+            <content src="Text/chapter35.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-36" playOrder="36">
+            <navLabel>
+               <text>XII - Oliver’ın başından geçen olayın tatmin edici olmaktan uzak sonu ve Harry Maylie ile Rose arasında geçen epeyce önemli bir konuşmayı anlatıyor</text>
+            </navLabel>
+            <content src="Text/chapter36.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-37" playOrder="37">
+            <navLabel>
+               <text>XIII - Kısadır. Şu anda pek önemli görünmeyebilir. Gene de bir önceki bölümün devamı ve sırası daha sonra gelecek olan ilerideki bir bölümün anahtarı olarak okunmalıdır</text>
+            </navLabel>
+            <content src="Text/chapter37.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-38" playOrder="38">
+            <navLabel>
+               <text>XIV - Bu kitabın beşinci bölümünü anımsayan erkek ya da kadın okur, evlilik durumlarında pek sık rastlanan bir çelişkiye tanık oluyor</text>
+            </navLabel>
+            <content src="Text/chapter38.xhtml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+         <navLabel>
+            <text>ÜÇÜNCÜ KİTAP</text>
+         </navLabel>
+         <content src="Text/chapter39.xhtml"/>
+         <navPoint id="navPoint-40" playOrder="40">
+            <navLabel>
+               <text>I - Gece buluşmasında Mr. Monks ile Mr. ve Mrs. Bumble arasında neler geçtiğini anlatıyor</text>
+            </navLabel>
+            <content src="Text/chapter40.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-41" playOrder="41">
+            <navLabel>
+               <text>II - Okurun tanıdığı bazı saygın kişiler yeniden sahneye çıkıyor ve Monks ile Fagin’in nasıl kafa kafaya verdiklerini anlatıyor</text>
+            </navLabel>
+            <content src="Text/chapter41.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-42" playOrder="42">
+            <navLabel>
+               <text>III - Tuhaf bir görüşme; önceki bölümün devamı niteliğinde</text>
+            </navLabel>
+            <content src="Text/chapter42.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-43" playOrder="43">
+            <navLabel>
+               <text>IV - Yeni yeni gerçeklerin ortaya çıktığı anlatılıyor ve sürprizlerin de felaketler gibi çok zaman birbirini izlediğini gösteriyor</text>
+            </navLabel>
+            <content src="Text/chapter43.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-44" playOrder="44">
+            <navLabel>
+               <text>V - Oliver’ın keskin zekâ belirtileri sergileyen eski bir dostu, büyük kentte önemli biri olup çıkıyor</text>
+            </navLabel>
+            <content src="Text/chapter44.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-45" playOrder="45">
+            <navLabel>
+               <text>VI - Elegeçmez’in başının nasıl derde girdiğini anlatıyor</text>
+            </navLabel>
+            <content src="Text/chapter45.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-46" playOrder="46">
+            <navLabel>
+               <text>VII - Nancy’nin Rose Maylie’ye verdiği sözü tutma zamanı geliyor. Nancy bunu başaramıyor. Fagin, Noah Claypole’u gizli bir göreve gönderiyor</text>
+            </navLabel>
+            <content src="Text/chapter46.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-47" playOrder="47">
+            <navLabel>
+               <text>VIII - Buluşma sözü yerine getiriliyor</text>
+            </navLabel>
+            <content src="Text/chapter47.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-48" playOrder="48">
+            <navLabel>
+               <text>IX - Ölümcül sonuçlar</text>
+            </navLabel>
+            <content src="Text/chapter48.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-49" playOrder="49">
+            <navLabel>
+               <text>X - Sikes’ın firarı</text>
+            </navLabel>
+            <content src="Text/chapter49.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-50" playOrder="50">
+            <navLabel>
+               <text>XI - Monks ve Mr. Brownlow nihayet buluşuyorlar. Aralarında geçen konuşma ve bunu yarıda kesen haber</text>
+            </navLabel>
+            <content src="Text/chapter50.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-51" playOrder="51">
+            <navLabel>
+               <text>XII - Takip ve kaçış</text>
+            </navLabel>
+            <content src="Text/chapter51.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-52" playOrder="52">
+            <navLabel>
+               <text>XIII - Birkaç sır birden çözüme kavuşuyor ve çeyiz, başlık parası gibi konuların konuşulmadığı bir evlenme önerisi anlatılıyor</text>
+            </navLabel>
+            <content src="Text/chapter52.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-53" playOrder="53">
+            <navLabel>
+               <text>XIV - Fagin’in yeryüzündeki son gecesi</text>
+            </navLabel>
+            <content src="Text/chapter53.xhtml"/>
+         </navPoint>
+         <navPoint id="navPoint-54" playOrder="54">
+            <navLabel>
+               <text>XV - Ve en son</text>
+            </navLabel>
+            <content src="Text/chapter54.xhtml"/>
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>

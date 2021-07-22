@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Pavese, Cesare">Cesare Pavese</dc:creator>
+<dc:identifier id="uuid">{25B28C32-9F4F-4BC5-80A6-D26B183641CB}</dc:identifier>
+    <dc:date>2005-01-15T22:00:00+00:00</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;İtalyan edebiyatının en önemli adlarından biri olan "Cesare Pavese" romanlarında ve şiirlerinde çağdaş dünya sorunlarına, bu sorunları yaşayan insanların yazgılarına eğilmiş genç bir yazardı. Daha kırk iki yaşındayken 1950 yılında intihar ederek yaşamına son veren Pavese, "Tepedeki Ev"i yaşamının son yıllarında kaleme almıştır. İkinci Dünya Savaşı'nın bitimine yakın bir dönemde, faşistlere karşı yürütülen iç savaş sırasında kentten kaçıp uzaklara, çocukluğunun geçtiği yerlere giden öğretmen Corrado, geçmişte kısa süreli bir ilişki yaşadığı kadınla karşılaşır. Yaşadığı dönemin katı gerçeğinden ve belirsiz bir gelecekten kaçarken, savaşın acımasızlığından, anlamsızlığından derinden etkilenir, "Savaş bir gün biterse", der, "şunu sormalıyız kendimize: Peki ya ölenleri ne yapacağız? Neden öldüler?"
+&lt;/p&gt;</dc:description>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Tepedeki Ev"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Cesare Pavese&quot;: &quot;&quot;}"/>
+  <dc:title>Tepedeki Ev</dc:title>
+<dc:subject>Klasik</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">04ed4c08-9c2a-4a02-b937-ecacbb081def</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755106342</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/main-title.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/main-bio.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id4" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id3" media-type="text/css"/>
+    <item href="Images/te.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id5"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

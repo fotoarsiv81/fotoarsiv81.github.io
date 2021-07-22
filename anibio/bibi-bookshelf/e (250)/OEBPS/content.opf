@@ -1,0 +1,136 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Zafon, Carlos Ruiz">Carlos Ruiz Zafon</dc:creator>
+<dc:identifier id="EPB-UUID" opf:scheme="uuid">xxxx-xxxxx-xxxxx-xxxxxxxxx</dc:identifier>
+    <meta name="cover" content="_kapak.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>2005-10-07T21:00:00+00:00</dc:date>
+    <meta content="Rüzgarın Gölgesi" name="calibre:title_sort"/>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <meta content="10.0" name="calibre:rating"/>
+    <dc:description>&lt;div&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;1945 yılında, uzun süren İç Savaş&amp;amp;ın izleri Barcelonada &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;hala sürmektedir. Henüz çok genç olan Daniel Sempere bir &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;kitapçı olan babasıyla birlikte Unutulmuş Kitaplar &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Mezarlığını ziyaret eder.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Babası, oğluna bir &lt;/span&gt;&lt;a href="http://www.idefix.com/kitap/" style="padding: 0px; margin: 0px; widows: 1;"&gt;kitap&lt;/a&gt;&lt;span style="widows: 1;"&gt; seçmesini, ona çok iyi &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;bakmasını ve evlat edinmesini ister.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Genç Daniel, Julian Carax adlı bir yazarın Rüzgarın &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Gölgesi adlı eserini seçer. Bu adeta onun için uzun, &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;gizemli ve sonu belli olmayan bir yolculuğun başlangıcı &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;gibidir.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Okuduğu kitaptan çok etkilenen genç adam bu esrarengiz &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;yazarın yaşamını ve ölümündeki gerçeği araştırmaya &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;başlar. Böylece roman içinde yeni bir roman doğar.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Daniel tutku ve aşkın, kitapların gölgeli dünyasıyla &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;nasıl kaynaştığını keşfettikçe garip yansımalar yapan &lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;bir aynanın oyununun içine düşer.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; widows: 1; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="{&quot;Carlos Ruiz Zafon&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:date opf:event="modification">2015-10-31</dc:date>
+  <dc:title>Rüzgarın Gölgesi</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Gizem</dc:subject>
+<dc:subject>Macera</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">da88a28a-52ed-4a10-acdf-5615a086d108</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752105584</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/_kapak.jpg" id="_kapak.jpg" media-type="image/jpeg"/>
+    <item href="Styles/styles.css" id="styles_css" media-type="text/css"/>
+    <item href="Text/section-0001.html" id="section-0001_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0002.html" id="section-0002_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0003.html" id="section-0003_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0004.html" id="section-0004_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0005.html" id="section-0005_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0006.html" id="section-0006_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0007.html" id="section-0007_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0008.html" id="section-0008_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0009.html" id="section-0009_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0010.html" id="section-0010_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0011.html" id="section-0011_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0012.html" id="section-0012_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0013.html" id="section-0013_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0014.html" id="section-0014_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0015.html" id="section-0015_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0016.html" id="section-0016_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0017.html" id="section-0017_html" media-type="application/xhtml+xml"/>
+    <item href="Text/section-0018.html" id="section-0018_html" media-type="application/xhtml+xml"/>
+    <item href="Images/output-3.jpg" id="output-3_jpg" media-type="image/jpeg"/>
+    <item href="Images/1.jpg" id="id_1_jpg" media-type="image/jpeg"/>
+    <item href="Images/2.jpg" id="id_2_jpg" media-type="image/jpeg"/>
+    <item href="Images/3.jpg" id="id_3_jpg" media-type="image/jpeg"/>
+    <item href="Images/4.jpg" id="id_4_jpg" media-type="image/jpeg"/>
+    <item href="Images/5.jpg" id="id_5_jpg" media-type="image/jpeg"/>
+    <item href="Images/6.jpg" id="id_6_jpg" media-type="image/jpeg"/>
+    <item href="Images/7.jpg" id="id_7_jpg" media-type="image/jpeg"/>
+    <item href="Images/8.jpg" id="id_8_jpg" media-type="image/jpeg"/>
+    <item href="Images/9.jpg" id="id_9_jpg" media-type="image/jpeg"/>
+    <item href="Images/10.jpg" id="id_10_jpg" media-type="image/jpeg"/>
+    <item href="Images/11.jpg" id="id_11_jpg" media-type="image/jpeg"/>
+    <item href="Images/12.jpg" id="id_12_jpg" media-type="image/jpeg"/>
+    <item href="Images/13.jpg" id="id_13_jpg" media-type="image/jpeg"/>
+    <item href="Images/14.jpg" id="id_14_jpg" media-type="image/jpeg"/>
+    <item href="Images/15.jpg" id="id_15_jpg" media-type="image/jpeg"/>
+    <item href="Images/16.jpg" id="id_16_jpg" media-type="image/jpeg"/>
+    <item href="Images/17.jpg" id="id_17_jpg" media-type="image/jpeg"/>
+    <item href="Images/18.jpg" id="id_18_jpg" media-type="image/jpeg"/>
+    <item href="Images/19.jpg" id="id_19_jpg" media-type="image/jpeg"/>
+    <item href="Images/20.jpg" id="id_20_jpg" media-type="image/jpeg"/>
+    <item href="Images/21.jpg" id="id_21_jpg" media-type="image/jpeg"/>
+    <item href="Images/22.jpg" id="id_22_jpg" media-type="image/jpeg"/>
+    <item href="Images/23.jpg" id="id_23_jpg" media-type="image/jpeg"/>
+    <item href="Images/24.jpg" id="id_24_jpg" media-type="image/jpeg"/>
+    <item href="Images/25.jpg" id="id_25_jpg" media-type="image/jpeg"/>
+    <item href="Images/26.jpg" id="id_26_jpg" media-type="image/jpeg"/>
+    <item href="Images/27.jpg" id="id_27_jpg" media-type="image/jpeg"/>
+    <item href="Images/28.jpg" id="id_28_jpg" media-type="image/jpeg"/>
+    <item href="Images/29.jpg" id="id_29_jpg" media-type="image/jpeg"/>
+    <item href="Images/30.jpg" id="id_30_jpg" media-type="image/jpeg"/>
+    <item href="Images/31.jpg" id="id_31_jpg" media-type="image/jpeg"/>
+    <item href="Images/32.jpg" id="id_32_jpg" media-type="image/jpeg"/>
+    <item href="Images/33.jpg" id="id_33_jpg" media-type="image/jpeg"/>
+    <item href="Images/34.jpg" id="id_34_jpg" media-type="image/jpeg"/>
+    <item href="Images/35.jpg" id="id_35_jpg" media-type="image/jpeg"/>
+    <item href="Images/36.jpg" id="id_36_jpg" media-type="image/jpeg"/>
+    <item href="Images/37.jpg" id="id_37_jpg" media-type="image/jpeg"/>
+    <item href="Images/38.jpg" id="id_38_jpg" media-type="image/jpeg"/>
+    <item href="Images/39.jpg" id="id_39_jpg" media-type="image/jpeg"/>
+    <item href="Images/40.jpg" id="id_40_jpg" media-type="image/jpeg"/>
+    <item href="Images/41.jpg" id="id_41_jpg" media-type="image/jpeg"/>
+    <item href="Images/42.jpg" id="id_42_jpg" media-type="image/jpeg"/>
+    <item href="Images/43.jpg" id="id_43_jpg" media-type="image/jpeg"/>
+    <item href="Images/44.jpg" id="id_44_jpg" media-type="image/jpeg"/>
+    <item href="Images/1a.jpg" id="id_1a_jpg" media-type="image/jpeg"/>
+    <item href="Images/2a.jpg" id="id_2a_jpg" media-type="image/jpeg"/>
+    <item href="Images/3a.jpg" id="id_3a_jpg" media-type="image/jpeg"/>
+    <item href="Images/4a.jpg" id="id_4a_jpg" media-type="image/jpeg"/>
+    <item href="Images/5a.jpg" id="id_5a_jpg" media-type="image/jpeg"/>
+    <item href="Images/6a.jpg" id="id_6a_jpg" media-type="image/jpeg"/>
+    <item href="Images/7a.jpg" id="id_7a_jpg" media-type="image/jpeg"/>
+    <item href="Images/8a.jpg" id="id_8a_jpg" media-type="image/jpeg"/>
+    <item href="Images/9a.jpg" id="id_9a_jpg" media-type="image/jpeg"/>
+    <item href="Images/10a.jpg" id="id_10a_jpg" media-type="image/jpeg"/>
+    <item href="Images/11a.jpg" id="id_11a_jpg" media-type="image/jpeg"/>
+    <item href="Images/12a.jpg" id="id_12a_jpg" media-type="image/jpeg"/>
+    <item href="Images/13a.jpg" id="id_13a_jpg" media-type="image/jpeg"/>
+    <item href="Images/1b.jpg" id="id_1b_jpg" media-type="image/jpeg"/>
+    <item href="Images/2b.jpg" id="id_2b_jpg" media-type="image/jpeg"/>
+    <item href="Images/3b.jpg" id="id_3b_jpg" media-type="image/jpeg"/>
+    <item href="Images/4b.jpg" id="id_4b_jpg" media-type="image/jpeg"/>
+    <item href="Images/qwer.jpg" id="qwer_jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="section-0001_html"/>
+    <itemref idref="section-0002_html"/>
+    <itemref idref="section-0003_html"/>
+    <itemref idref="section-0004_html"/>
+    <itemref idref="section-0005_html"/>
+    <itemref idref="section-0006_html"/>
+    <itemref idref="section-0007_html"/>
+    <itemref idref="section-0008_html"/>
+    <itemref idref="section-0009_html"/>
+    <itemref idref="section-0010_html"/>
+    <itemref idref="section-0011_html"/>
+    <itemref idref="section-0012_html"/>
+    <itemref idref="section-0013_html"/>
+    <itemref idref="section-0014_html"/>
+    <itemref idref="section-0015_html"/>
+    <itemref idref="section-0016_html"/>
+    <itemref idref="section-0017_html"/>
+    <itemref idref="section-0018_html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
