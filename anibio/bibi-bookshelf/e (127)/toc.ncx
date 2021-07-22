@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="e3bdb8f0-84d0-4968-9c7e-3212b153a02a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.26)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Damda Deli Var</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="b6ef6b7f-5652-4ec4-8390-e96460789a6b" playOrder="1">
+      <navLabel>
+        <text>Başla</text>
+      </navLabel>
+      <content src="titlepage.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

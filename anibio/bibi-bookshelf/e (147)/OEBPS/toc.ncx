@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text/>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>GİRİŞ-BATI’NIN GELİŞİ: ETKİ VE TEPKİ</text>
+      </navLabel>
+      <content src="Text/Section0006.html#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>BİRİNCİ BÖLÜM-KAVRAMSAL ARKAPLAN</text>
+      </navLabel>
+      <content src="Text/Section0011.html#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>İKİNCİ BÖLÜM-İSLÂM MODERNIZMI</text>
+      </navLabel>
+      <content src="Text/Section0015.html#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>ÜÇÜNCÜ BÖLÜM-MEDENİYETLERİN KUTUPLAŞMASI</text>
+      </navLabel>
+      <content src="Text/Section0018.html#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>DÖRDÜNCÜ BÖLÜM-GELENEKSELCILIK</text>
+      </navLabel>
+      <content src="Text/Section0020.html#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>BEŞİNCİ BÖLÜM-MESİHÇİLİK</text>
+      </navLabel>
+      <content src="Text/Section0021.html#toc_marker-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>ALTINCI BÖLÜM-ELEŞTIRI</text>
+      </navLabel>
+      <content src="Text/Section0022.html#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>YEDİNCİ BÖLÜM-YENİ PARADİGMA</text>
+      </navLabel>
+      <content src="Text/Section0023.html#toc_marker-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>SEKİZİNCİ BÖLÜM-YENİ TOPLUM</text>
+      </navLabel>
+      <content src="Text/Section0025.html#toc_marker-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>DOKUZUNCU BÖLÜM-YENİ İNSAN</text>
+      </navLabel>
+      <content src="Text/Section0027.html#toc_marker-10"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>SONUÇLAR</text>
+      </navLabel>
+      <content src="Text/Section0028.html#toc_marker-11"/>
+    </navPoint>
+  </navMap>
+</ncx>

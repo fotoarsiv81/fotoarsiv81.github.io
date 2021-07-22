@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="a1ca4b91-e404-4de6-8102-c4d7f3f5094f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.28.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dansöz Kıvırmaları</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>[B1]</text>
+      </navLabel>
+      <content src="Dans_246_z_K_305_v_305_rmalar_3_split_004.html#filepos1130389"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>[B2]</text>
+      </navLabel>
+      <content src="Dans_246_z_K_305_v_305_rmalar_3_split_004.html#filepos1130406"/>
+    </navPoint>
+  </navMap>
+</ncx>

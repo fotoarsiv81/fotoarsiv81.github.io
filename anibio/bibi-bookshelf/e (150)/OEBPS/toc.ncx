@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+<head>
+<meta content="zamangezgini" name="dtb:uid"/>
+<meta content="1" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Ölüm Şatosu</text>
+</docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel>
+<text>Title page</text>
+</navLabel>
+<content src="Text/001.html"/>
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel>
+<text>İÇİNDEKİLER</text>
+</navLabel>
+<content src="Text/004.html"/>
+</navPoint>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel>
+<text>BİRİNCİ BÖLÜM ~ÇIĞLIKLAR~</text>
+</navLabel>
+<content src="Text/005.html"/>
+</navPoint>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel>
+<text>İKİNCİ BÖLÜM ~CLARA~</text>
+</navLabel>
+<content src="Text/006.html"/>
+</navPoint>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel>
+<text>ÜÇÜNCÜ BÖLÜM ~KÂBUS~</text>
+</navLabel>
+<content src="Text/007.html"/>
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel>
+<text>DÖRDÜNCÜ BÖLÜM ~GERİ GELECEĞİM!...~</text>
+</navLabel>
+<content src="Text/008.html"/>
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel>
+<text>BEŞİNCİ BÖLÜM ~KORKULU ANLAR~</text>
+</navLabel>
+<content src="Text/009.html"/>
+</navPoint>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel>
+<text>ALTINCI BÖLÜM ~KAYBOLAN RESİM~</text>
+</navLabel>
+<content src="Text/010.html"/>
+</navPoint>
+<navPoint id="navpoint-9" playOrder="9">
+<navLabel>
+<text>YEDİNCİ BÖLÜM ~ÖLÜM SESSİZLİĞİ~</text>
+</navLabel>
+<content src="Text/011.html"/>
+</navPoint>
+<navPoint id="navpoint-10" playOrder="10">
+<navLabel>
+<text>SEKİZİNCİ BÖLÜM ~BİTMEYEN KORKULAR~</text>
+</navLabel>
+<content src="Text/012.html"/>
+</navPoint>
+<navPoint id="navpoint-11" playOrder="11">
+<navLabel>
+<text>DOKUZUNCU BÖLÜM ~ESRARENGİZ ÖLÜM~</text>
+</navLabel>
+<content src="Text/013.html"/>
+</navPoint>
+<navPoint id="navpoint-12" playOrder="12">
+<navLabel>
+<text>ONUNCU BÖLÜM ~ŞÜPHELİ DURUMLAR~</text>
+</navLabel>
+<content src="Text/014.html"/>
+</navPoint>
+<navPoint id="navpoint-13" playOrder="13">
+<navLabel>
+<text>ONBİRİNCİ BÖLÜM ~RUHLAR GERİ GELİRLER~</text>
+</navLabel>
+<content src="Text/015.html"/>
+</navPoint>
+<navPoint id="navpoint-14" playOrder="14">
+<navLabel>
+<text>ONİKİNCİ BÖLÜM ~YENİ KORKULAR~</text>
+</navLabel>
+<content src="Text/016.html"/>
+</navPoint>
+<navPoint id="navpoint-15" playOrder="15">
+<navLabel>
+<text>ONÜÇÜNCÜ BÖLÜM ~KAN LEKELERİ~</text>
+</navLabel>
+<content src="Text/017.html"/>
+</navPoint>
+<navPoint id="navpoint-16" playOrder="16">
+<navLabel>
+<text>ONDÖRDÜNCÜ BÖLÜM ~SONUN BAŞLANGICI~</text>
+</navLabel>
+<content src="Text/018.html"/>
+</navPoint>
+</navMap>
+</ncx>

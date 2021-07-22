@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="7b9f1539-99ab-4eca-8a73-4e02186de5be" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.7.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bir Gün</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u5f271e0d-be20-4000-9a94-9a840472ca0c" playOrder="1">
+      <navLabel>
+        <text>Başla</text>
+      </navLabel>
+      <content src="titlepage.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

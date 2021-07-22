@@ -1,0 +1,16 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+sub, sup { 
+	font-size: 10%;
+	line-height: 0; 
+	position: relative; 
+	vertical-align: baseline; 
+}
+sup { 
+	top: -0em; 
+}
+sub { 
+	bottom: -0.5em; 
+}

@@ -1,0 +1,84 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Çilingiroğlu, Ayhan">Ayhan Çilingiroğlu</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:545c2887-11cc-400c-945c-1e2a0d1e6b51</dc:identifier>
+    <dc:publisher>Destek Yayınları</dc:publisher>
+    <dc:date>2014-10-20T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2014-10-31</dc:date>
+    <dc:description>&lt;p&gt;Ayhan Çilingiroğlu, cumhuriyet tarihimizin medar-ı iftiharları arasında özel bir örnektir. Kendisi Türkiye'nin ilk Sanayi ve Ticaret Bakanı'dır. Hiçbir siyasi partiye üye olmadığı halde bu göreve atanmış, 1971'de ona bağlı iktisadi devlet teşekküllerinden biri bile zarar etmemiştir. Görev süresinde ve sonrasında da hiçbir siyasi partiye üye olmamıştır.
+
+İTÜ'de Turgut Özakman, Hüsamettin Cindoruk, Recai Kutan gibi kişilerle birlikte okumuştur. Turgut Özal, Süleyman Demirel, iktisat dalında ilk Nobel ödülünü alan Prof. Tinbergen gibi kişilerle birlikte çalışmıştır. Cahit Arf gibi bilim adamları, Abdi İpekçi gibi gazeteciler, Seyfi Demirsoy, Halil Tunç gibi sendika liderleri yakın dostları arasındadır.
+
+Meslek hayatına 1953'te Devlet Demir Yolları'nda başlamıştır. Devlet Planlama Teşkilatı'nın kuruluşunda Koordinasyon Dairesi Başkanı olarak yer almıştır. 1961-1962 yıllarında Başbakan İsmet Paşa ile her hafta diz dize çalışmış, Turhan Feyzioğlu, Bülent Ecevit, Ferit Melen, Fahrettin Kerim Gökay gibi bakanları yakından tanımıştır. ODTÜ'nin bugünkü yerinde kurulmasını sağlamıştır.
+
+33 yaşındayken, OECD tarafından Portekiz hükümetine baş danışman olarak görevlendirilmiş, 1965-1969 arasında Washington D.C. Dünya Bankası merkezinde Sanayi Ekonomisti olarak görev yapmıştır. OECD, Dünya Bankası, UNDP, UNIDO gibi kurumlara danışman olarak hizmet vermiştir.
+
+Seksen Yıl 1934-2014 Kesitler'de yaşadığı dönemlere tanıklık ederken, mesleki deneyimleri ve evrensel vizyonuyla okura ışık tutuyor ve farklı bakış açıları sunuyor.
+(Tanıtım Bülteninden)
+&lt;/p&gt;</dc:description>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Adobe InDesign 9.0" name="generator"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="x186.jpg"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="Seksen Yıl 1934-2014" name="calibre:title_sort"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="{&quot;Ayhan Çilingiroğlu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+  <dc:title>Seksen Yıl 1934-2014</dc:title>
+<dc:subject>Otobiyografi</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">54ca166f-3f6a-4887-a041-2f4f9921e486</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786054994922</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.xhtml" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/5-1.xhtml" id="x5-1" media-type="application/xhtml+xml"/>
+    <item href="Text/5-2.xhtml" id="x5-2" media-type="application/xhtml+xml"/>
+    <item href="Text/5-3.xhtml" id="x5-3" media-type="application/xhtml+xml"/>
+    <item href="Text/5-4.xhtml" id="x5-4" media-type="application/xhtml+xml"/>
+    <item href="Text/5-5.xhtml" id="x5-5" media-type="application/xhtml+xml"/>
+    <item href="Text/5-6.xhtml" id="x5-6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="Images/186.jpg" id="x186.jpg" media-type="image/jpeg"/>
+    <item href="Images/destek_fmt.jpeg" id="destek_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/destek_fmt1.jpeg" id="destek_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-BoldItalic.ttf" id="LiberationSerif-BoldItalic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/5-1_split1.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/5-6_split1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x5-1"/>
+    <itemref idref="id"/>
+    <itemref idref="x5-2"/>
+    <itemref idref="x5-3"/>
+    <itemref idref="x5-4"/>
+    <itemref idref="x5-5"/>
+    <itemref idref="x5-6"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

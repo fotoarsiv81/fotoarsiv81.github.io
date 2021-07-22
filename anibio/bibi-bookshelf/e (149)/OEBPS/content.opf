@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Parzybok, Benjamin">Benjamin Parzybok</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">894f0ff1-d201-437c-a1ca-81b18dc5dd6d</dc:identifier>
+    <dc:date>2011-02-03T22:00:00+00:00</dc:date>
+    <dc:publisher>Domingo Yayınevi</dc:publisher>
+    <dc:description>&lt;p&gt;"Onlarca insan hayatına sihirli bir dokunuşun peşinde, ama sadece Benjamin Parzybok bu sihiri koltukta aramayı akıl etmiş. KOLTUK bir kaybedenler destanı." 
+Los Angeles Times
+
+"Biraz Murakami, biraz Tom Tobbins ve biraz Don Kişot..." 
+Scott, Me and My Big Mouth
+
+Bu, günümüzün acımasız gerçeklerinin bir araya getirdiği üç kaybedenin, üç "seçilmemiş"in, birer kahramana dönüştüğü kült bir öykü. Büyülü olana inanışa, gözle görülenin ötesine, Tolkien'in efsanevi dünyasına Tom Robbinsvari bir yolculuk.
+
+Kahramanlarımız üç ev arkadaşı. Bir yazılım devini hackleyip küçük de olsa bir şöhret kazanmış -ve işsiz kalmış asosyal yazılımcı Thom, hiçbir zaman yeterince akıllı ve hızlı olamamış küçük sahtekarlıkların adamı Erik ve rüyaları sıklıkla gerçek çıkıyor olmasa kesin deli tanısı konulacak, kafası darmaduman bir amatör kahin Tree. 
+
+Onları kahramana dönüştüren, okyanus aştıkları yolculukları boyunca adını koyamadıkları bir arayışa sürükleyen ise, paylaştıkları evde üzerinde pinekleyip durdukları kocaman, turuncu renkli bir koltuk. Bu, bir bakıma, onların olduğu kadar, koltuğun da yolculuğu. Koltuğun gitmek istediği bir yer var ve bu yolculuğu tamamlamadan kahramanlarımızı bırakmaya niyeti yok. Üstelik bir koltuk böylesine büyülü olduğu zaman, isteyeni de çok oluyor -buna silahlı adamlar da dahil.
+
+Hayata katılmayanların, hayatın anlamını keşfettiği bu yolculukta Piri Reis'le karşılaşmaları çok mu şaşırtıcı?&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Koltuk" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Benjamin Parzybok&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="kapak.jpeg"/>
+  <dc:title>Koltuk</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">1a99a3a7-1a79-481c-be17-506757551608</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786056180156</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/chapter.xhtml" id="text1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter1.xhtml" id="text2" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter2.xhtml" id="text3" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter3.xhtml" id="text4" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter4.xhtml" id="text5" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter5.xhtml" id="text6" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter6.xhtml" id="text7" media-type="application/xhtml+xml"/>
+    <item href="Styles/styles1.css" id="resource1" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/kapak.jpeg" id="kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="text1"/>
+    <itemref idref="text2"/>
+    <itemref idref="text3"/>
+    <itemref idref="text4"/>
+    <itemref idref="text5"/>
+    <itemref idref="text6"/>
+    <itemref idref="text7"/>
+  </spine>
+  <guide>
+    <reference href="Text/chapter.xhtml" title="Title page" type="title-page"/>
+    <reference href="Text/chapter1.xhtml" title="Text" type="text"/>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

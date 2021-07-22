@@ -1,0 +1,127 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.calibre {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 10pt;
+  margin-right: 10pt;
+  margin-top: 0;
+  page-break-before: always;
+}
+.calibre1 {
+  display: block;
+  page-break-after: always;
+}
+.calibre2 {
+  height: auto;
+  width: auto;
+}
+.calibre3 {
+  font-size: smaller;
+  line-height: normal;
+  vertical-align: super;
+}
+.chapter {
+  display: block;
+}
+.h1baslik {
+  display: block;
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.idebold {
+  font-weight: bold;
+}
+.ideitalik {
+  font-style: italic;
+}
+.kitapickapak {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.25em;
+  page-break-before: always;
+  text-align: center;
+}
+.kitapickapak1 {
+  display: block;
+  font-size: 1.5em;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: center;
+}
+.kunye {
+  display: block;
+  font-size: 0.75em;
+  margin-bottom: 0;
+  margin-left: 3em;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: left;
+}
+.normal {
+  display: block;
+  font-size: 1em;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.7em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.ortaitalik {
+  display: block;
+  font-style: italic;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.ortayazi {
+  display: block;
+  font-style: normal;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.resimalti {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  margin-bottom: 5px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 5px;
+  text-align: center;
+}
+.sagnormal {
+  display: block;
+  font-style: normal;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: right;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+  cursor: default;
+}
+a[href] {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}

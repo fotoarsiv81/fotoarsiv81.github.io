@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Ayşe Kulin</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>495FDD018FB5494EED3433E67A6AA114</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>3043BC3F0968798FAD63E764D5374CED</string>
+		<key>publisher-unique-id</key>
+		<string>4deb9c4c-3aa9-4dc9-80a2-796aec1f3de8</string>
+		<key>unique-id</key>
+		<integer>-634816890090405723</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>www.iphonepub.com</string>
+	<key>itemName</key>
+	<string>Bir Gün</string>
+	<key>playlistName</key>
+	<string>Bir Gün</string>
+	<key>releaseDate</key>
+	<string>2010-11-21T01:09:46.193106+00:00</string>
+	<key>sort-artist</key>
+	<string>Kulin, Ayşe</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

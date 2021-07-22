@@ -1,0 +1,41 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Kulin, Ayşe">Ayşe Kulin</dc:creator>
+<meta name="calibre:title_sort" content="Tek ve Tek Başına Türkan"/>
+    <meta name="calibre:timestamp" content="2014-03-17T12:33:33.524000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2011-03-22T01:12:15+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.28.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">958536d5-511a-4aa0-a873-7b187470b75b</dc:identifier>
+    <dc:title>Tek ve Tek Başına Türkan</dc:title>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ayşe Kulin&quot;: &quot;&quot;}"/>
+<dc:language>en</dc:language>
+<dc:identifier opf:scheme="calibre">958536d5-511a-4aa0-a873-7b187470b75b</dc:identifier>
+<dc:identifier opf:scheme="MOBI-ASIN">2a0ee1f4-4254-41e6-b4a5-64deb245aa67</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Tek_ve_Tek_Ba_351_305_na_T_252__split_000.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Tek_ve_Tek_Ba_351_305_na_T_252__split_001.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Tek_ve_Tek_Ba_351_305_na_T_252__split_002.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="images/00002.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="images/00003.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="images/00004.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="images/00005.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

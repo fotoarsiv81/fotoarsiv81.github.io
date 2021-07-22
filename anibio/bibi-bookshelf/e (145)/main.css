@@ -1,0 +1,22 @@
+﻿ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ img { max-width: 100%; }
+ .font0 { font-size:medium; font-family: 'Arial', sans-serif; }
+ .font1 { font-size:large; font-family: 'Arial', sans-serif; }
+ .font2 { font-size:x-large; font-family: 'Arial', sans-serif; }
+ .font3 { font-size:x-small; font-family: 'Arial Narrow', sans-serif; }
+ .font4 { font-size:small; font-family: 'Arial Narrow', sans-serif; }
+ .font5 { font-size:medium; font-family: 'Arial Narrow', sans-serif; }
+ .font6 { font-size:small; font-family: 'Bookman Old Style', serif; }
+ .font7 { font-size:medium; font-family: 'Candara', sans-serif; }
+ .font8 { font-size:xx-small; font-family: 'Franklin Gothic Heavy', sans-serif; }
+ .font9 { font-size:x-small; font-family: 'Franklin Gothic Heavy', sans-serif; }
+ .font10 { font-size:medium; font-family: 'Franklin Gothic Heavy', sans-serif; }
+ .font11 { font-size:large; font-family: 'Franklin Gothic Heavy', sans-serif; }
+ .font12 { font-size:medium; font-family: 'Georgia', serif; }
+ .font13 { font-size:large; font-family: 'Georgia', serif; }
+ .font14 { font-size:x-large; font-family: 'Georgia', serif; }
+ .font15 { font-size:x-large; font-family: 'Trebuchet MS', sans-serif; }

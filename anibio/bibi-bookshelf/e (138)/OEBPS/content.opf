@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Thödöl, Bardo">Bardo Thödöl</dc:creator>
+<dc:date>2012-04-12T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b2e96279-b6c0-4a24-abee-1feaae204ceb</dc:identifier>
+    <dc:publisher>Kozmik</dc:publisher>
+    <dc:description>&lt;p&gt;Ölüm hepimiz için bir gizem. Öldükten sonra nereye gidiyoruz? Öldükten sonra bize neler oluyor? Tekrar dünyaya dönüş var mı? Ölümle ilgili neleri bilmeliyiz ya da bilebiliriz? 
+"Tibet'in Ölüler Kitabı", birçok kişiye alışılmadık bilgiler sunan, yepyeni bir düşünce tarzı ortaya koyan, değeri ölçülemez bir antik metindir. Tantrik Budizm'in son derece karmaşık yapısı içinde, bu bilgilerin anlaşılması ilk bakışta zor gibi görünse de, ruhsal yolu izleyen bir insanın kavraması son derece kolaydır; çünkü bu metnin dilinde, karmaşıklığın altında bir basitlik
+gizlidir. 
+İslamiyet, Hıristiyanlık ve Musevilik'te din temsilcileri her ne kadar
+reenkarnasyonun olmadığını iddia etseler de, Budizm inancının en yüce amacı tekrar doğmamaktır. Dünyevi acılara son vermenin en sağlam yolu, bir daha ana rahmine girmemenin yolunu bulmak, Kurtuluş'a ulaşmaktır.
+Budist inancın ölümle ilgili temelini oluşturan ve binlerce yıldır korunan bu eşsiz antik metinde, ölen kişiye bu Kurtuluş'a ulaşması için yapması gerekenler anlatılmaktadır. Diğer bir deyişle, ölen kişinin ruhunun asıl hedefi olan yere gitmesi için yol gösterilmektedir&lt;/p&gt;</dc:description>
+    <meta content="Tibet'in Ölüler Kitabı" name="calibre:title_sort"/>
+    <meta content="2014-03-17T11:55:55.549000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{&quot;Bardo Thödöl&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-07-08</dc:date>
+  <dc:title>Tibet'in Ölüler Kitabı</dc:title>
+<dc:subject>Din</dc:subject>
+<dc:subject>Budizm</dc:subject>
+<dc:subject>İnanç</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">14d7a47c-2bb5-42c6-b8e9-03572930dc5d</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9758823388</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/Tibet_Oluler_Kitabi_split_000.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="Text/Tibet_Oluler_Kitabi_split_001.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="Text/Tibet_Oluler_Kitabi_split_002.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="Text/Tibet_Oluler_Kitabi_split_003.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/Tibet_Oluler_Kitabi_split_004.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/Tibet_Oluler_Kitabi_split_005.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/Tibet_Oluler_Kitabi_split_006.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/Tibet_Oluler_Kitabi_split_007.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/Tibet_Oluler_Kitabi_split_008.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/Tibet_Oluler_Kitabi_split_009.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/Tibet_Oluler_Kitabi_split_010.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/Tibet_Oluler_Kitabi_split_011.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/00003.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="Images/00004.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="Images/00005.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="Images/00007.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="Images/00008.jpg" id="id10" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id112"/>
+    <itemref idref="id11"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+  </spine>
+  <guide>
+    <reference href="Text/Tibet_Oluler_Kitabi_split_011.html#filepos152452" title="Table of Contents" type="toc"/>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

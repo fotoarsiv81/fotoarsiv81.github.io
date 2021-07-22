@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="1416a097-3bef-4b36-bbdb-e2732f56a223" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.20)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Yasak Ilişki</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="12594d1b-2982-4c2c-a6e0-5f4838c2ece4" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="titlepage.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

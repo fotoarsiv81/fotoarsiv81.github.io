@@ -1,0 +1,409 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.alt-ba-lik {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    page-break-before: always
+    }
+.calibre1 {
+    display: block;
+    page-break-after: always
+    }
+.calibre10 {
+    height: 626;
+    width: 550
+    }
+.calibre11 {
+    height: 261;
+    width: 221
+    }
+.calibre12 {
+    height: 289;
+    width: 197
+    }
+.calibre13 {
+    height: 272;
+    width: 191
+    }
+.calibre14 {
+    height: 162;
+    width: 227
+    }
+.calibre15 {
+    height: 212;
+    width: 269
+    }
+.calibre16 {
+    height: 198;
+    width: 209
+    }
+.calibre17 {
+    height: 221;
+    width: 248
+    }
+.calibre18 {
+    height: 209;
+    width: 240
+    }
+.calibre19 {
+    height: 371;
+    width: 247
+    }
+.calibre2 {
+    height: 106;
+    width: 77
+    }
+.calibre20 {
+    height: 400;
+    width: 263
+    }
+.calibre21 {
+    height: 243;
+    width: 322
+    }
+.calibre22 {
+    height: 169;
+    width: 332
+    }
+.calibre23 {
+    height: 209;
+    width: 275
+    }
+.calibre24 {
+    height: 359;
+    width: 338
+    }
+.calibre25 {
+    height: 175;
+    width: 277
+    }
+.calibre26 {
+    height: 346;
+    width: 224
+    }
+.calibre27 {
+    height: 246;
+    width: 322
+    }
+.calibre28 {
+    height: 273;
+    width: 196
+    }
+.calibre29 {
+    height: 192;
+    width: 335
+    }
+.calibre3 {
+    height: 290;
+    width: 207
+    }
+.calibre30 {
+    height: 664;
+    width: 430
+    }
+.calibre31 {
+    height: 236;
+    width: 207
+    }
+.calibre32 {
+    height: 546;
+    width: 350
+    }
+.calibre33 {
+    height: 172;
+    width: 258
+    }
+.calibre34 {
+    height: 606;
+    width: 430
+    }
+.calibre35 {
+    height: 203;
+    width: 220
+    }
+.calibre36 {
+    height: 155;
+    width: 162
+    }
+.calibre37 {
+    height: 186;
+    width: 271
+    }
+.calibre38 {
+    height: 232;
+    width: 168
+    }
+.calibre39 {
+    height: 480;
+    width: 371
+    }
+.calibre4 {
+    height: 562;
+    width: 439
+    }
+.calibre40 {
+    height: 188;
+    width: 350
+    }
+.calibre41 {
+    height: 331;
+    width: 237
+    }
+.calibre42 {
+    display: block;
+    text-align: center
+    }
+.calibre43 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre44 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre45 {
+    background-color: #eee;
+    border: 1px solid #fff;
+    display: table-cell;
+    font-family: Arial, sans-serif;
+    font-size: 0.8em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0.2em;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    padding-top: 0.2em;
+    text-align: left;
+    vertical-align: inherit
+    }
+.calibre46 {
+    height: 66;
+    width: 163
+    }
+.calibre47 {
+    height: 602;
+    width: 400
+    }
+.calibre48 {
+    height: 177;
+    width: 228
+    }
+.calibre49 {
+    height: 337;
+    width: 450
+    }
+.calibre5 {
+    height: 207;
+    width: 227
+    }
+.calibre6 {
+    height: 441;
+    width: 288
+    }
+.calibre7 {
+    height: 299;
+    width: 315
+    }
+.calibre8 {
+    height: 238;
+    width: 202
+    }
+.calibre9 {
+    height: 217;
+    width: 321
+    }
+.chapter {
+    display: block
+    }
+.clrb {
+    clear: both;
+    display: block
+    }
+.generictable {
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 100%
+    }
+.h1baslik {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.idebold {
+    font-weight: bold
+    }
+.idebold1 {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.indentmetinitalik {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 0.25em;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.kitapickapak {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kitapickapak1 {
+    display: block;
+    font-size: 1.75em;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.kunye {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 3em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left
+    }
+.normal {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.normal1 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 0.7em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: justify;
+    text-indent: 0.75em
+    }
+.ortaitalik {
+    display: block;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.ortayazi {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resim {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.resimalti {
+    font-size: 0.8em;
+    font-style: italic;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-align: center
+    }
+.sagbold {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+.sagbolditalik {
+    display: block;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+.sagitalik {
+    display: block;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+.sagnormal {
+    display: block;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: right
+    }
+.tablo {
+    display: inline-block;
+    width: 100%
+    }
+a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: default
+    }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer
+    }                                                              
+    

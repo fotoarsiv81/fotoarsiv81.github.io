@@ -1,0 +1,193 @@
+@font-face {
+    font-family: "Berling LT Std Medium";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../Fonts/BerlingLTStd-Medium.ttf)
+    }
+@font-face {
+    font-family: "Berling LT Std Medium";
+    font-style: italic;
+    font-weight: normal;
+    src: url(../Fonts/BerlingLTStd-MedItalic.ttf)
+    }
+@font-face {
+    font-family: "Berling LT Std Roman";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../Fonts/BerlingLTStd-Roman.ttf)
+    }
+@font-face {
+    font-family: "Berling LT Std Roman";
+    font-style: italic;
+    font-weight: normal;
+    src: url(../Fonts/BerlingLTStd-Italic.ttf)
+    }
+@font-face {
+    font-family: "Gill Sans Std";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../Fonts/GillSansStd.ttf)
+    }
+@font-face {
+    font-family: "Gill Sans Std";
+    font-style: italic;
+    font-weight: normal;
+    src: url(../Fonts/GillSansStd-Italic.ttf)
+    }
+a {
+    text-decoration: none;
+    color: #7A7A7A
+    }
+/*
+ *chapter
+ */
+p {
+    font: normal 0.875em/1.3em "Berling LT Std Roman";
+    margin: 0;
+    text-indent: 1.9em
+    }
+.final {
+    margin-top: 1.5em;
+    text-align: right;
+    font-style: italic
+    }
+h1 {
+    font: normal normal 1.33em/1.2em "Berling LT Std Roman";
+    text-align: center;
+    margin: 3em 0 1.5em 0
+    }
+.part {
+    font-size: 1.666em;
+    margin-top: 6em
+    }
+.subtitle {
+    font: normal 1.06em "Berling LT Std Medium";
+    text-align: left;
+    margin: 3em 0 1em 1.5em
+    }
+.centered {
+    text-align: center
+    }
+.margin {
+    margin-top: 1.2em
+    }
+.align-right {
+    font-style: italic;
+    text-align: right
+    }
+.figure {
+    max-width: 720px;
+    margin: 1em auto 0 auto;
+    page-break-inside: avoid
+    }
+.figcaption {
+    font: normal normal 0.741em/1.3em "Gill Sans Std";
+    margin: 0.75em 1em 2em 0
+    }
+.preface {
+    font: normal 0.833em/1.3em "Berling LT Std Roman"
+    }
+.dedication {
+    margin: 6em 0 0 auto;
+    text-align: right;
+    max-width: 10em
+    }
+.dedication p {
+    text-indent: 0;
+    font: normal normal 0.8em/1.3em "Berling LT Std Roman"
+    }
+.preface p {
+    font-size: 0.9em
+    }
+.epigraph {
+    max-width: 10em;
+    margin: 0 0 1.5em auto
+    }
+.epigraph p {
+    font: normal normal 0.729em/1.3em "Berling LT Std Roman" !important;
+    text-indent: 0;
+    text-align: right
+    }
+.books .books {
+    font: normal normal 0.75em/1.3em "Gill Sans Std";
+    text-indent: 0
+    }
+.books ul {
+    padding-left: 0
+    }
+.books ul li {
+    font: normal normal 0.75em/1.5em "Gill Sans Std";
+    list-style-type: none
+    }
+.si-noteref {
+    text-decoration: none;
+    color: #7A7A7A;
+    font-size: 0.75em;
+    vertical-align: super;
+    padding-left: 0.1em
+    }
+.si-footnotes {
+    margin: 4em 0 1em
+    }
+.si-backref {
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #000
+    }
+.si-footnote {
+    font-family: "Gill Sans Std";
+    font-size: 0.8em;
+    margin-bottom: 0.25em
+    }
+.kunye, .margin, .press {
+    margin-top: 0.8em
+    }
+.isbn {
+    margin-top: 1.2em
+    }
+.kunye .publisher {
+    margin-top: 2em
+    }
+.kunye span {
+    font-family: "Gill Sans Std";
+    font-size: 0.667em;
+    display: block
+    }
+.title {
+    text-align: center
+    }
+.aut {
+    font-family: "Berling LT Std Roman";
+    font-size: 1.333em;
+    margin-bottom: 1.5em
+    }
+.work {
+    font-family: "Berling LT Std Roman";
+    font-size: 2.333em;
+    margin-top: 0.2em
+    }
+.work span {
+    font-size: 0.75em;
+    display: block;
+    margin-top: 0.2em
+    }
+.logo {
+    margin: 3em auto 0 auto;
+    width: 60px
+    }
+.cover-container img {
+    max-width: 100%
+    }
+.cover-container {
+    margin: 0 auto;
+    max-width: 500px;
+    page-break-inside: avoid
+    }
+img {
+    max-width: 100%
+    }
+#biography p {
+    font: normal 0.75em/1.5em "Gill Sans Std";
+    text-indent: 0
+    }

@@ -1,0 +1,103 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Altındal, Aytunç">Aytunç Altındal</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">cf601539-c6cf-4ff6-be9d-779346448716</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2011-03-22T02:08:59+00:00</dc:date>
+    <dc:publisher>Bilinmeyen</dc:publisher>
+    <dc:description>&lt;div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;p class="MsoNormal" style="margin-bottom: 0.0001pt;"&gt;&lt;span style="font-size:9.0pt"&gt;İlk Hıristiyanlık'la ve kilise
+babalarıyla derin bir bağlılığı sürdürmeye devam eden Ortodokslar, Osmanlı'da
+"İstanbul'un fethiyle" başlayan ve Kurtuluş Savaşı'na, oradan
+günümüze kadar süren önemini korumuştur. XI. yüzyılda Hıristiyan aleminde
+gerçekleşen ayrılıktan bu yana İstanbul Patrikhanesi onursal önceliğe sahiptir.&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoNormal" style="margin-bottom: 0.0001pt;"&gt;&lt;span style="font-size: 9pt;"&gt;Aytunç Altındal, Türkiye ve
+Ortodokslar'da, Sovyetler Birliği'nin çökmesinden sonra oluşturulan ve
+Türkiye'yi hedef alan "Ortodoks İttifakı "nı, Vatikan ile Fener
+Patrikhanesi arasındaki ilişkileri ve Patrikhane'nin karıştığı olayları,
+Bizans'ı yeniden canlandırma faaliyetlerini ve Cumhuriyet rejimi için hayati
+önem taşıyan "ekümeniklik" olgusunu gözler önüne seriyor. Çağdaş
+misyonerlik faaliyetlerinin araçların "Dinler arası Diyalog",
+"İbrahimi Dinlerin "Hoşgörü/Tolerans" toplantılarının perde
+arkasına gizlenen karanlık emelleri ayrıntılarıyla açıklıyor. &lt;/span&gt;&lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+    <meta content="Bilinmeyen Vatikan" name="calibre:title_sort"/>
+    <meta content="2014-06-01T00:23:23.389000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.1" name="Sigil version"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Aytunç Altındal&quot;: &quot;&quot;}"/>
+  <dc:title>Bilinmeyen Vatikan</dc:title>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Dinler Tarihi</dc:subject>
+<dc:subject>Hıristiyanlık</dc:subject>
+<dc:subject>Katoliklik</dc:subject>
+<dc:subject>Vatikan</dc:subject>
+<dc:subject>Papalık</dc:subject>
+<dc:subject>Politika</dc:subject>
+<dc:subject>Finans</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">d268b618-e70e-42d6-8474-894040d623ce</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.html" id="ickapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/001.html" id="x001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="x002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="x003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/004.html" id="x004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/005.html" id="x005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/006.html" id="x006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/007.html" id="x007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/008.html" id="x008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/009.html" id="x009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/010.html" id="x010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/011.html" id="x011.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/MERITOKRASI.jpg" id="MERITOKRASI.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="ickapak.html"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="x001.html"/>
+    <itemref idref="x002.html"/>
+    <itemref idref="x003.html"/>
+    <itemref idref="x004.html"/>
+    <itemref idref="x005.html"/>
+    <itemref idref="x006.html"/>
+    <itemref idref="x007.html"/>
+    <itemref idref="x008.html"/>
+    <itemref idref="x009.html"/>
+    <itemref idref="x010.html"/>
+    <itemref idref="x011.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

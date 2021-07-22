@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="urn:uuid:AAA8CA19-62AA-4443-824C-1D9685FC4B45" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>SEKSEN YIL</text>
+	</docTitle>
+	<docAuthor>
+		<text>AYHAN ÇİLİNGİROĞLU</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Nisan/Mayıs/Haziran 1960</text>
+			</navLabel>
+			<content src="Text/5.xhtml#_idParaDest-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>1952-1953-1954 yılları</text>
+			</navLabel>
+			<content src="Text/5-1.xhtml#_idParaDest-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>1942/1943</text>
+			</navLabel>
+			<content src="Text/5-2.xhtml#_idParaDest-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>1960/1961</text>
+			</navLabel>
+			<content src="Text/5-4.xhtml#_idParaDest-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>1965/1971</text>
+			</navLabel>
+			<content src="Text/5-6.xhtml#_idParaDest-5"/>
+		</navPoint>
+	</navMap>
+</ncx>
