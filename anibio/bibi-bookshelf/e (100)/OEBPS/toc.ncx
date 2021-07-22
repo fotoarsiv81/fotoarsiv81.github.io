@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="dc0a1b98-b9e8-48fc-a6aa-519d3cbcbbca" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.0.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Okumak, Yazmak Ve Yaşamak Üzerine</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navpoint-2" playOrder="1">
+      <navLabel>
+        <text>OKUMAK YAZMAK VE YAŞAMAK ÜZERİNE</text>
+      </navLabel>
+      <content src="Text/002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-3" playOrder="2">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-4" playOrder="3">
+      <navLabel>
+        <text>Giriş</text>
+      </navLabel>
+      <content src="Text/004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-5" playOrder="4">
+      <navLabel>
+        <text>İNSAN MUTLULUĞUNUN İKI TEMEL DÜŞMANı: ISTıRAP VE CAN SıKıNTıSı</text>
+      </navLabel>
+      <content src="Text/006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-6" playOrder="5">
+      <navLabel>
+        <text>OKUMAK VE KITAPLAR ÜZERINE</text>
+      </navLabel>
+      <content src="Text/032.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-7" playOrder="6">
+      <navLabel>
+        <text>YAZARLıK VE ÜSLUP ÜZERINE</text>
+      </navLabel>
+      <content src="Text/050.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-8" playOrder="7">
+      <navLabel>
+        <text>DÜŞÜNMEK ÜZERINE</text>
+      </navLabel>
+      <content src="Text/085.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,1564 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	 <head>
+			<meta content="urn:isbn:9789750717697" name="dtb:uid"/>
+			<meta content="1" name="dtb:depth"/>
+			<meta content="Sistematik epub-tools" name="dtb:generator"/>
+			<meta content="211" name="dtb:totalPageCount"/>
+			<meta content="223" name="dtb:maxPageNumber"/>
+	 </head>
+	 <docTitle>
+			<text>Yazın Sanatı</text>
+	 </docTitle>
+	 <navMap>
+			<navLabel>
+				 <text>İçindekiler</text>
+			</navLabel>
+			<navPoint id="navPoint-1" playOrder="1">
+				 <navLabel>
+						<text>Yazar</text>
+				 </navLabel>
+				 <content src="Text/chapter1.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-2" playOrder="2">
+				 <navLabel>
+						<text>Anlatıcı</text>
+				 </navLabel>
+				 <content src="Text/chapter2.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-3" playOrder="3">
+				 <navLabel>
+						<text>Konu</text>
+				 </navLabel>
+				 <content src="Text/chapter3.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-4" playOrder="4">
+				 <navLabel>
+						<text>Portre</text>
+				 </navLabel>
+				 <content src="Text/chapter4.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-5" playOrder="5">
+				 <navLabel>
+						<text>Yapı</text>
+				 </navLabel>
+				 <content src="Text/chapter5.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-6" playOrder="6">
+				 <navLabel>
+						<text>Karakter Tanıtımı</text>
+				 </navLabel>
+				 <content src="Text/chapter6.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-7" playOrder="7">
+				 <navLabel>
+						<text>Dekor</text>
+				 </navLabel>
+				 <content src="Text/chapter7.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-8" playOrder="8">
+				 <navLabel>
+						<text>Sarmal Anlatı</text>
+				 </navLabel>
+				 <content src="Text/chapter8.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-9" playOrder="9">
+				 <navLabel>
+						<text>Geçmişe Dönüş - Flashback</text>
+				 </navLabel>
+				 <content src="Text/chapter9.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-10" playOrder="10">
+				 <navLabel>
+						<text>Labirent İçinde Gezinti</text>
+				 </navLabel>
+				 <content src="Text/chapter10.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-11" playOrder="11">
+				 <navLabel>
+						<text>Dokuma Tekniği</text>
+				 </navLabel>
+				 <content src="Text/chapter11.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-12" playOrder="12">
+				 <navLabel>
+						<text>Bilinçakışı</text>
+				 </navLabel>
+				 <content src="Text/chapter12.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-13" playOrder="13">
+				 <navLabel>
+						<text>Giriş</text>
+				 </navLabel>
+				 <content src="Text/chapter13.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-14" playOrder="14">
+				 <navLabel>
+						<text>Roman Nasıl Biter?</text>
+				 </navLabel>
+				 <content src="Text/chapter14.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-15" playOrder="15">
+				 <navLabel>
+						<text>Geleceği Geçmiş Zamanda Anlatmak</text>
+				 </navLabel>
+				 <content src="Text/chapter15.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-16" playOrder="16">
+				 <navLabel>
+						<text>Renkler ve İmgeler</text>
+				 </navLabel>
+				 <content src="Text/chapter16.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-17" playOrder="17">
+				 <navLabel>
+						<text>Savaş Yazarlığı</text>
+				 </navLabel>
+				 <content src="Text/chapter17.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-18" playOrder="18">
+				 <navLabel>
+						<text>Ölüm Üzerine</text>
+				 </navLabel>
+				 <content src="Text/chapter18.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-19" playOrder="19">
+				 <navLabel>
+						<text>Yabancılaşma</text>
+				 </navLabel>
+				 <content src="Text/chapter19.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-20" playOrder="20">
+				 <navLabel>
+						<text>Ölümsüzlük</text>
+				 </navLabel>
+				 <content src="Text/chapter20.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-21" playOrder="21">
+				 <navLabel>
+						<text>Korku Romanları</text>
+				 </navLabel>
+				 <content src="Text/chapter21.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-22" playOrder="22">
+				 <navLabel>
+						<text>Erotizm</text>
+				 </navLabel>
+				 <content src="Text/chapter22.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-23" playOrder="23">
+				 <navLabel>
+						<text>Seks ve Kadın</text>
+				 </navLabel>
+				 <content src="Text/chapter23.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-24" playOrder="24">
+				 <navLabel>
+						<text>Eşcinsellik Teması</text>
+				 </navLabel>
+				 <content src="Text/chapter24.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-25" playOrder="25">
+				 <navLabel>
+						<text>Çerçeve Öykü</text>
+				 </navLabel>
+				 <content src="Text/chapter25.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-26" playOrder="26">
+				 <navLabel>
+						<text>Tarihî Roman</text>
+				 </navLabel>
+				 <content src="Text/chapter26.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-27" playOrder="27">
+				 <navLabel>
+						<text>Düşünce Romanı</text>
+				 </navLabel>
+				 <content src="Text/chapter27.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-28" playOrder="28">
+				 <navLabel>
+						<text>Mektup-Roman</text>
+				 </navLabel>
+				 <content src="Text/chapter28.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-29" playOrder="29">
+				 <navLabel>
+						<text>Biyografi</text>
+				 </navLabel>
+				 <content src="Text/chapter29.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-30" playOrder="30">
+				 <navLabel>
+						<text>Otobiyografi</text>
+				 </navLabel>
+				 <content src="Text/chapter30.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-31" playOrder="31">
+				 <navLabel>
+						<text>Çeviri</text>
+				 </navLabel>
+				 <content src="Text/chapter31.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-32" playOrder="32">
+				 <navLabel>
+						<text>Yabancı Dilin Yazarı</text>
+				 </navLabel>
+				 <content src="Text/chapter32.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-33" playOrder="33">
+				 <navLabel>
+						<text>Orta Milenyumda Avrupa</text>
+				 </navLabel>
+				 <content src="Text/chapter33.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-34" playOrder="34">
+				 <navLabel>
+						<text>Didaktik Edebiyat</text>
+				 </navLabel>
+				 <content src="Text/chapter34.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-35" playOrder="35">
+				 <navLabel>
+						<text>Coşkunluk Akımı</text>
+				 </navLabel>
+				 <content src="Text/chapter35.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-36" playOrder="36">
+				 <navLabel>
+						<text>Romantizm</text>
+				 </navLabel>
+				 <content src="Text/chapter36.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-37" playOrder="37">
+				 <navLabel>
+						<text>Simgecilik</text>
+				 </navLabel>
+				 <content src="Text/chapter37.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-38" playOrder="38">
+				 <navLabel>
+						<text>Gerçekçilik</text>
+				 </navLabel>
+				 <content src="Text/chapter38.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-39" playOrder="39">
+				 <navLabel>
+						<text>Gerçeküstücülük ve Vian</text>
+				 </navLabel>
+				 <content src="Text/chapter39.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-40" playOrder="40">
+				 <navLabel>
+						<text>Absürd Edebiyat</text>
+				 </navLabel>
+				 <content src="Text/chapter40.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-41" playOrder="41">
+				 <navLabel>
+						<text>Varoluşçu Kahraman</text>
+				 </navLabel>
+				 <content src="Text/chapter41.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-42" playOrder="42">
+				 <navLabel>
+						<text>Yeni Roman</text>
+				 </navLabel>
+				 <content src="Text/chapter42.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-43" playOrder="43">
+				 <navLabel>
+						<text>Edebiyatta Kübizm</text>
+				 </navLabel>
+				 <content src="Text/chapter43.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-44" playOrder="44">
+				 <navLabel>
+						<text>Büyülü Gerçekçilik</text>
+				 </navLabel>
+				 <content src="Text/chapter44.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-45" playOrder="45">
+				 <navLabel>
+						<text>Post-Modernizm</text>
+				 </navLabel>
+				 <content src="Text/chapter45.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-46" playOrder="46">
+				 <navLabel>
+						<text>Dizin</text>
+				 </navLabel>
+				 <content src="Text/index.xhtml"/>
+			</navPoint>
+	 </navMap>
+	 <pageList>
+			<navLabel>
+				 <text>Basılı kitaptaki sayfa numaraları (2. baskıya göre)</text>
+			</navLabel>
+			<pageTarget id="pageTarget-47" playOrder="47" type="normal">
+				 <navLabel>
+						<text>13</text>
+				 </navLabel>
+				 <content src="Text/chapter1.xhtml#page13"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-48" playOrder="48" type="normal">
+				 <navLabel>
+						<text>14</text>
+				 </navLabel>
+				 <content src="Text/chapter1.xhtml#page14"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-49" playOrder="49" type="normal">
+				 <navLabel>
+						<text>15</text>
+				 </navLabel>
+				 <content src="Text/chapter1.xhtml#page15"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-50" playOrder="50" type="normal">
+				 <navLabel>
+						<text>16</text>
+				 </navLabel>
+				 <content src="Text/chapter1.xhtml#page16"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-51" playOrder="51" type="normal">
+				 <navLabel>
+						<text>17</text>
+				 </navLabel>
+				 <content src="Text/chapter2.xhtml#page17"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-52" playOrder="52" type="normal">
+				 <navLabel>
+						<text>18</text>
+				 </navLabel>
+				 <content src="Text/chapter2.xhtml#page18"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-53" playOrder="53" type="normal">
+				 <navLabel>
+						<text>19</text>
+				 </navLabel>
+				 <content src="Text/chapter2.xhtml#page19"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-54" playOrder="54" type="normal">
+				 <navLabel>
+						<text>20</text>
+				 </navLabel>
+				 <content src="Text/chapter2.xhtml#page20"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-55" playOrder="55" type="normal">
+				 <navLabel>
+						<text>21</text>
+				 </navLabel>
+				 <content src="Text/chapter2.xhtml#page21"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-56" playOrder="56" type="normal">
+				 <navLabel>
+						<text>22</text>
+				 </navLabel>
+				 <content src="Text/chapter3.xhtml#page22"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-57" playOrder="57" type="normal">
+				 <navLabel>
+						<text>23</text>
+				 </navLabel>
+				 <content src="Text/chapter3.xhtml#page23"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-58" playOrder="58" type="normal">
+				 <navLabel>
+						<text>24</text>
+				 </navLabel>
+				 <content src="Text/chapter3.xhtml#page24"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-59" playOrder="59" type="normal">
+				 <navLabel>
+						<text>25</text>
+				 </navLabel>
+				 <content src="Text/chapter3.xhtml#page25"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-60" playOrder="60" type="normal">
+				 <navLabel>
+						<text>26</text>
+				 </navLabel>
+				 <content src="Text/chapter3.xhtml#page26"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-61" playOrder="61" type="normal">
+				 <navLabel>
+						<text>27</text>
+				 </navLabel>
+				 <content src="Text/chapter4.xhtml#page27"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-62" playOrder="62" type="normal">
+				 <navLabel>
+						<text>28</text>
+				 </navLabel>
+				 <content src="Text/chapter4.xhtml#page28"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-63" playOrder="63" type="normal">
+				 <navLabel>
+						<text>29</text>
+				 </navLabel>
+				 <content src="Text/chapter4.xhtml#page29"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-64" playOrder="64" type="normal">
+				 <navLabel>
+						<text>30</text>
+				 </navLabel>
+				 <content src="Text/chapter4.xhtml#page30"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-65" playOrder="65" type="normal">
+				 <navLabel>
+						<text>31</text>
+				 </navLabel>
+				 <content src="Text/chapter4.xhtml#page31"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-66" playOrder="66" type="normal">
+				 <navLabel>
+						<text>32</text>
+				 </navLabel>
+				 <content src="Text/chapter5.xhtml#page32"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-67" playOrder="67" type="normal">
+				 <navLabel>
+						<text>33</text>
+				 </navLabel>
+				 <content src="Text/chapter5.xhtml#page33"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-68" playOrder="68" type="normal">
+				 <navLabel>
+						<text>34</text>
+				 </navLabel>
+				 <content src="Text/chapter5.xhtml#page34"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-69" playOrder="69" type="normal">
+				 <navLabel>
+						<text>35</text>
+				 </navLabel>
+				 <content src="Text/chapter5.xhtml#page35"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-70" playOrder="70" type="normal">
+				 <navLabel>
+						<text>36</text>
+				 </navLabel>
+				 <content src="Text/chapter5.xhtml#page36"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-71" playOrder="71" type="normal">
+				 <navLabel>
+						<text>37</text>
+				 </navLabel>
+				 <content src="Text/chapter6.xhtml#page37"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-72" playOrder="72" type="normal">
+				 <navLabel>
+						<text>38</text>
+				 </navLabel>
+				 <content src="Text/chapter6.xhtml#page38"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-73" playOrder="73" type="normal">
+				 <navLabel>
+						<text>39</text>
+				 </navLabel>
+				 <content src="Text/chapter6.xhtml#page39"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-74" playOrder="74" type="normal">
+				 <navLabel>
+						<text>40</text>
+				 </navLabel>
+				 <content src="Text/chapter6.xhtml#page40"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-75" playOrder="75" type="normal">
+				 <navLabel>
+						<text>41</text>
+				 </navLabel>
+				 <content src="Text/chapter6.xhtml#page41"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-76" playOrder="76" type="normal">
+				 <navLabel>
+						<text>42</text>
+				 </navLabel>
+				 <content src="Text/chapter7.xhtml#page42"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-77" playOrder="77" type="normal">
+				 <navLabel>
+						<text>43</text>
+				 </navLabel>
+				 <content src="Text/chapter7.xhtml#page43"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-78" playOrder="78" type="normal">
+				 <navLabel>
+						<text>44</text>
+				 </navLabel>
+				 <content src="Text/chapter7.xhtml#page44"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-79" playOrder="79" type="normal">
+				 <navLabel>
+						<text>45</text>
+				 </navLabel>
+				 <content src="Text/chapter7.xhtml#page45"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-80" playOrder="80" type="normal">
+				 <navLabel>
+						<text>46</text>
+				 </navLabel>
+				 <content src="Text/chapter8.xhtml#page46"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-81" playOrder="81" type="normal">
+				 <navLabel>
+						<text>47</text>
+				 </navLabel>
+				 <content src="Text/chapter8.xhtml#page47"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-82" playOrder="82" type="normal">
+				 <navLabel>
+						<text>48</text>
+				 </navLabel>
+				 <content src="Text/chapter8.xhtml#page48"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-83" playOrder="83" type="normal">
+				 <navLabel>
+						<text>49</text>
+				 </navLabel>
+				 <content src="Text/chapter8.xhtml#page49"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-84" playOrder="84" type="normal">
+				 <navLabel>
+						<text>50</text>
+				 </navLabel>
+				 <content src="Text/chapter8.xhtml#page50"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-85" playOrder="85" type="normal">
+				 <navLabel>
+						<text>51</text>
+				 </navLabel>
+				 <content src="Text/chapter9.xhtml#page51"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-86" playOrder="86" type="normal">
+				 <navLabel>
+						<text>52</text>
+				 </navLabel>
+				 <content src="Text/chapter9.xhtml#page52"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-87" playOrder="87" type="normal">
+				 <navLabel>
+						<text>53</text>
+				 </navLabel>
+				 <content src="Text/chapter9.xhtml#page53"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-88" playOrder="88" type="normal">
+				 <navLabel>
+						<text>54</text>
+				 </navLabel>
+				 <content src="Text/chapter9.xhtml#page54"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-89" playOrder="89" type="normal">
+				 <navLabel>
+						<text>55</text>
+				 </navLabel>
+				 <content src="Text/chapter10.xhtml#page55"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-90" playOrder="90" type="normal">
+				 <navLabel>
+						<text>56</text>
+				 </navLabel>
+				 <content src="Text/chapter10.xhtml#page56"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-91" playOrder="91" type="normal">
+				 <navLabel>
+						<text>57</text>
+				 </navLabel>
+				 <content src="Text/chapter10.xhtml#page57"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-92" playOrder="92" type="normal">
+				 <navLabel>
+						<text>58</text>
+				 </navLabel>
+				 <content src="Text/chapter10.xhtml#page58"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-93" playOrder="93" type="normal">
+				 <navLabel>
+						<text>59</text>
+				 </navLabel>
+				 <content src="Text/chapter10.xhtml#page59"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-94" playOrder="94" type="normal">
+				 <navLabel>
+						<text>60</text>
+				 </navLabel>
+				 <content src="Text/chapter11.xhtml#page60"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-95" playOrder="95" type="normal">
+				 <navLabel>
+						<text>61</text>
+				 </navLabel>
+				 <content src="Text/chapter11.xhtml#page61"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-96" playOrder="96" type="normal">
+				 <navLabel>
+						<text>62</text>
+				 </navLabel>
+				 <content src="Text/chapter11.xhtml#page62"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-97" playOrder="97" type="normal">
+				 <navLabel>
+						<text>63</text>
+				 </navLabel>
+				 <content src="Text/chapter11.xhtml#page63"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-98" playOrder="98" type="normal">
+				 <navLabel>
+						<text>64</text>
+				 </navLabel>
+				 <content src="Text/chapter11.xhtml#page64"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-99" playOrder="99" type="normal">
+				 <navLabel>
+						<text>65</text>
+				 </navLabel>
+				 <content src="Text/chapter12.xhtml#page65"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-100" playOrder="100" type="normal">
+				 <navLabel>
+						<text>66</text>
+				 </navLabel>
+				 <content src="Text/chapter12.xhtml#page66"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-101" playOrder="101" type="normal">
+				 <navLabel>
+						<text>67</text>
+				 </navLabel>
+				 <content src="Text/chapter12.xhtml#page67"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-102" playOrder="102" type="normal">
+				 <navLabel>
+						<text>68</text>
+				 </navLabel>
+				 <content src="Text/chapter12.xhtml#page68"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-103" playOrder="103" type="normal">
+				 <navLabel>
+						<text>69</text>
+				 </navLabel>
+				 <content src="Text/chapter12.xhtml#page69"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-104" playOrder="104" type="normal">
+				 <navLabel>
+						<text>70</text>
+				 </navLabel>
+				 <content src="Text/chapter13.xhtml#page70"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-105" playOrder="105" type="normal">
+				 <navLabel>
+						<text>71</text>
+				 </navLabel>
+				 <content src="Text/chapter13.xhtml#page71"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-106" playOrder="106" type="normal">
+				 <navLabel>
+						<text>72</text>
+				 </navLabel>
+				 <content src="Text/chapter13.xhtml#page72"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-107" playOrder="107" type="normal">
+				 <navLabel>
+						<text>73</text>
+				 </navLabel>
+				 <content src="Text/chapter13.xhtml#page73"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-108" playOrder="108" type="normal">
+				 <navLabel>
+						<text>74</text>
+				 </navLabel>
+				 <content src="Text/chapter13.xhtml#page74"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-109" playOrder="109" type="normal">
+				 <navLabel>
+						<text>75</text>
+				 </navLabel>
+				 <content src="Text/chapter14.xhtml#page75"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-110" playOrder="110" type="normal">
+				 <navLabel>
+						<text>76</text>
+				 </navLabel>
+				 <content src="Text/chapter14.xhtml#page76"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-111" playOrder="111" type="normal">
+				 <navLabel>
+						<text>77</text>
+				 </navLabel>
+				 <content src="Text/chapter14.xhtml#page77"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-112" playOrder="112" type="normal">
+				 <navLabel>
+						<text>78</text>
+				 </navLabel>
+				 <content src="Text/chapter14.xhtml#page78"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-113" playOrder="113" type="normal">
+				 <navLabel>
+						<text>79</text>
+				 </navLabel>
+				 <content src="Text/chapter14.xhtml#page79"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-114" playOrder="114" type="normal">
+				 <navLabel>
+						<text>80</text>
+				 </navLabel>
+				 <content src="Text/chapter15.xhtml#page80"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-115" playOrder="115" type="normal">
+				 <navLabel>
+						<text>81</text>
+				 </navLabel>
+				 <content src="Text/chapter15.xhtml#page81"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-116" playOrder="116" type="normal">
+				 <navLabel>
+						<text>82</text>
+				 </navLabel>
+				 <content src="Text/chapter15.xhtml#page82"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-117" playOrder="117" type="normal">
+				 <navLabel>
+						<text>83</text>
+				 </navLabel>
+				 <content src="Text/chapter15.xhtml#page83"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-118" playOrder="118" type="normal">
+				 <navLabel>
+						<text>84</text>
+				 </navLabel>
+				 <content src="Text/chapter16.xhtml#page84"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-119" playOrder="119" type="normal">
+				 <navLabel>
+						<text>85</text>
+				 </navLabel>
+				 <content src="Text/chapter16.xhtml#page85"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-120" playOrder="120" type="normal">
+				 <navLabel>
+						<text>86</text>
+				 </navLabel>
+				 <content src="Text/chapter16.xhtml#page86"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-121" playOrder="121" type="normal">
+				 <navLabel>
+						<text>87</text>
+				 </navLabel>
+				 <content src="Text/chapter16.xhtml#page87"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-122" playOrder="122" type="normal">
+				 <navLabel>
+						<text>88</text>
+				 </navLabel>
+				 <content src="Text/chapter16.xhtml#page88"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-123" playOrder="123" type="normal">
+				 <navLabel>
+						<text>89</text>
+				 </navLabel>
+				 <content src="Text/chapter17.xhtml#page89"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-124" playOrder="124" type="normal">
+				 <navLabel>
+						<text>90</text>
+				 </navLabel>
+				 <content src="Text/chapter17.xhtml#page90"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-125" playOrder="125" type="normal">
+				 <navLabel>
+						<text>91</text>
+				 </navLabel>
+				 <content src="Text/chapter17.xhtml#page91"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-126" playOrder="126" type="normal">
+				 <navLabel>
+						<text>92</text>
+				 </navLabel>
+				 <content src="Text/chapter17.xhtml#page92"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-127" playOrder="127" type="normal">
+				 <navLabel>
+						<text>93</text>
+				 </navLabel>
+				 <content src="Text/chapter18.xhtml#page93"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-128" playOrder="128" type="normal">
+				 <navLabel>
+						<text>94</text>
+				 </navLabel>
+				 <content src="Text/chapter18.xhtml#page94"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-129" playOrder="129" type="normal">
+				 <navLabel>
+						<text>95</text>
+				 </navLabel>
+				 <content src="Text/chapter18.xhtml#page95"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-130" playOrder="130" type="normal">
+				 <navLabel>
+						<text>96</text>
+				 </navLabel>
+				 <content src="Text/chapter18.xhtml#page96"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-131" playOrder="131" type="normal">
+				 <navLabel>
+						<text>97</text>
+				 </navLabel>
+				 <content src="Text/chapter18.xhtml#page97"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-132" playOrder="132" type="normal">
+				 <navLabel>
+						<text>98</text>
+				 </navLabel>
+				 <content src="Text/chapter18.xhtml#page98"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-133" playOrder="133" type="normal">
+				 <navLabel>
+						<text>99</text>
+				 </navLabel>
+				 <content src="Text/chapter19.xhtml#page99"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-134" playOrder="134" type="normal">
+				 <navLabel>
+						<text>100</text>
+				 </navLabel>
+				 <content src="Text/chapter19.xhtml#page100"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-135" playOrder="135" type="normal">
+				 <navLabel>
+						<text>101</text>
+				 </navLabel>
+				 <content src="Text/chapter19.xhtml#page101"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-136" playOrder="136" type="normal">
+				 <navLabel>
+						<text>102</text>
+				 </navLabel>
+				 <content src="Text/chapter19.xhtml#page102"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-137" playOrder="137" type="normal">
+				 <navLabel>
+						<text>103</text>
+				 </navLabel>
+				 <content src="Text/chapter20.xhtml#page103"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-138" playOrder="138" type="normal">
+				 <navLabel>
+						<text>104</text>
+				 </navLabel>
+				 <content src="Text/chapter20.xhtml#page104"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-139" playOrder="139" type="normal">
+				 <navLabel>
+						<text>105</text>
+				 </navLabel>
+				 <content src="Text/chapter20.xhtml#page105"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-140" playOrder="140" type="normal">
+				 <navLabel>
+						<text>106</text>
+				 </navLabel>
+				 <content src="Text/chapter20.xhtml#page106"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-141" playOrder="141" type="normal">
+				 <navLabel>
+						<text>107</text>
+				 </navLabel>
+				 <content src="Text/chapter21.xhtml#page107"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-142" playOrder="142" type="normal">
+				 <navLabel>
+						<text>108</text>
+				 </navLabel>
+				 <content src="Text/chapter21.xhtml#page108"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-143" playOrder="143" type="normal">
+				 <navLabel>
+						<text>109</text>
+				 </navLabel>
+				 <content src="Text/chapter21.xhtml#page109"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-144" playOrder="144" type="normal">
+				 <navLabel>
+						<text>110</text>
+				 </navLabel>
+				 <content src="Text/chapter21.xhtml#page110"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-145" playOrder="145" type="normal">
+				 <navLabel>
+						<text>111</text>
+				 </navLabel>
+				 <content src="Text/chapter22.xhtml#page111"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-146" playOrder="146" type="normal">
+				 <navLabel>
+						<text>112</text>
+				 </navLabel>
+				 <content src="Text/chapter22.xhtml#page112"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-147" playOrder="147" type="normal">
+				 <navLabel>
+						<text>113</text>
+				 </navLabel>
+				 <content src="Text/chapter22.xhtml#page113"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-148" playOrder="148" type="normal">
+				 <navLabel>
+						<text>114</text>
+				 </navLabel>
+				 <content src="Text/chapter22.xhtml#page114"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-149" playOrder="149" type="normal">
+				 <navLabel>
+						<text>115</text>
+				 </navLabel>
+				 <content src="Text/chapter23.xhtml#page115"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-150" playOrder="150" type="normal">
+				 <navLabel>
+						<text>116</text>
+				 </navLabel>
+				 <content src="Text/chapter23.xhtml#page116"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-151" playOrder="151" type="normal">
+				 <navLabel>
+						<text>117</text>
+				 </navLabel>
+				 <content src="Text/chapter23.xhtml#page117"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-152" playOrder="152" type="normal">
+				 <navLabel>
+						<text>118</text>
+				 </navLabel>
+				 <content src="Text/chapter23.xhtml#page118"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-153" playOrder="153" type="normal">
+				 <navLabel>
+						<text>119</text>
+				 </navLabel>
+				 <content src="Text/chapter24.xhtml#page119"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-154" playOrder="154" type="normal">
+				 <navLabel>
+						<text>120</text>
+				 </navLabel>
+				 <content src="Text/chapter24.xhtml#page120"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-155" playOrder="155" type="normal">
+				 <navLabel>
+						<text>121</text>
+				 </navLabel>
+				 <content src="Text/chapter24.xhtml#page121"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-156" playOrder="156" type="normal">
+				 <navLabel>
+						<text>122</text>
+				 </navLabel>
+				 <content src="Text/chapter24.xhtml#page122"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-157" playOrder="157" type="normal">
+				 <navLabel>
+						<text>123</text>
+				 </navLabel>
+				 <content src="Text/chapter25.xhtml#page123"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-158" playOrder="158" type="normal">
+				 <navLabel>
+						<text>124</text>
+				 </navLabel>
+				 <content src="Text/chapter25.xhtml#page124"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-159" playOrder="159" type="normal">
+				 <navLabel>
+						<text>125</text>
+				 </navLabel>
+				 <content src="Text/chapter25.xhtml#page125"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-160" playOrder="160" type="normal">
+				 <navLabel>
+						<text>126</text>
+				 </navLabel>
+				 <content src="Text/chapter25.xhtml#page126"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-161" playOrder="161" type="normal">
+				 <navLabel>
+						<text>127</text>
+				 </navLabel>
+				 <content src="Text/chapter25.xhtml#page127"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-162" playOrder="162" type="normal">
+				 <navLabel>
+						<text>128</text>
+				 </navLabel>
+				 <content src="Text/chapter26.xhtml#page128"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-163" playOrder="163" type="normal">
+				 <navLabel>
+						<text>129</text>
+				 </navLabel>
+				 <content src="Text/chapter26.xhtml#page129"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-164" playOrder="164" type="normal">
+				 <navLabel>
+						<text>130</text>
+				 </navLabel>
+				 <content src="Text/chapter26.xhtml#page130"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-165" playOrder="165" type="normal">
+				 <navLabel>
+						<text>131</text>
+				 </navLabel>
+				 <content src="Text/chapter26.xhtml#page131"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-166" playOrder="166" type="normal">
+				 <navLabel>
+						<text>132</text>
+				 </navLabel>
+				 <content src="Text/chapter26.xhtml#page132"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-167" playOrder="167" type="normal">
+				 <navLabel>
+						<text>133</text>
+				 </navLabel>
+				 <content src="Text/chapter27.xhtml#page133"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-168" playOrder="168" type="normal">
+				 <navLabel>
+						<text>134</text>
+				 </navLabel>
+				 <content src="Text/chapter27.xhtml#page134"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-169" playOrder="169" type="normal">
+				 <navLabel>
+						<text>135</text>
+				 </navLabel>
+				 <content src="Text/chapter27.xhtml#page135"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-170" playOrder="170" type="normal">
+				 <navLabel>
+						<text>136</text>
+				 </navLabel>
+				 <content src="Text/chapter27.xhtml#page136"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-171" playOrder="171" type="normal">
+				 <navLabel>
+						<text>137</text>
+				 </navLabel>
+				 <content src="Text/chapter28.xhtml#page137"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-172" playOrder="172" type="normal">
+				 <navLabel>
+						<text>138</text>
+				 </navLabel>
+				 <content src="Text/chapter28.xhtml#page138"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-173" playOrder="173" type="normal">
+				 <navLabel>
+						<text>139</text>
+				 </navLabel>
+				 <content src="Text/chapter28.xhtml#page139"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-174" playOrder="174" type="normal">
+				 <navLabel>
+						<text>140</text>
+				 </navLabel>
+				 <content src="Text/chapter28.xhtml#page140"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-175" playOrder="175" type="normal">
+				 <navLabel>
+						<text>141</text>
+				 </navLabel>
+				 <content src="Text/chapter28.xhtml#page141"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-176" playOrder="176" type="normal">
+				 <navLabel>
+						<text>142</text>
+				 </navLabel>
+				 <content src="Text/chapter29.xhtml#page142"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-177" playOrder="177" type="normal">
+				 <navLabel>
+						<text>143</text>
+				 </navLabel>
+				 <content src="Text/chapter29.xhtml#page143"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-178" playOrder="178" type="normal">
+				 <navLabel>
+						<text>144</text>
+				 </navLabel>
+				 <content src="Text/chapter29.xhtml#page144"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-179" playOrder="179" type="normal">
+				 <navLabel>
+						<text>145</text>
+				 </navLabel>
+				 <content src="Text/chapter29.xhtml#page145"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-180" playOrder="180" type="normal">
+				 <navLabel>
+						<text>146</text>
+				 </navLabel>
+				 <content src="Text/chapter29.xhtml#page146"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-181" playOrder="181" type="normal">
+				 <navLabel>
+						<text>147</text>
+				 </navLabel>
+				 <content src="Text/chapter30.xhtml#page147"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-182" playOrder="182" type="normal">
+				 <navLabel>
+						<text>148</text>
+				 </navLabel>
+				 <content src="Text/chapter30.xhtml#page148"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-183" playOrder="183" type="normal">
+				 <navLabel>
+						<text>149</text>
+				 </navLabel>
+				 <content src="Text/chapter30.xhtml#page149"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-184" playOrder="184" type="normal">
+				 <navLabel>
+						<text>150</text>
+				 </navLabel>
+				 <content src="Text/chapter30.xhtml#page150"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-185" playOrder="185" type="normal">
+				 <navLabel>
+						<text>151</text>
+				 </navLabel>
+				 <content src="Text/chapter30.xhtml#page151"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-186" playOrder="186" type="normal">
+				 <navLabel>
+						<text>152</text>
+				 </navLabel>
+				 <content src="Text/chapter31.xhtml#page152"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-187" playOrder="187" type="normal">
+				 <navLabel>
+						<text>153</text>
+				 </navLabel>
+				 <content src="Text/chapter31.xhtml#page153"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-188" playOrder="188" type="normal">
+				 <navLabel>
+						<text>154</text>
+				 </navLabel>
+				 <content src="Text/chapter31.xhtml#page154"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-189" playOrder="189" type="normal">
+				 <navLabel>
+						<text>155</text>
+				 </navLabel>
+				 <content src="Text/chapter31.xhtml#page155"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-190" playOrder="190" type="normal">
+				 <navLabel>
+						<text>156</text>
+				 </navLabel>
+				 <content src="Text/chapter31.xhtml#page156"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-191" playOrder="191" type="normal">
+				 <navLabel>
+						<text>157</text>
+				 </navLabel>
+				 <content src="Text/chapter32.xhtml#page157"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-192" playOrder="192" type="normal">
+				 <navLabel>
+						<text>158</text>
+				 </navLabel>
+				 <content src="Text/chapter32.xhtml#page158"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-193" playOrder="193" type="normal">
+				 <navLabel>
+						<text>159</text>
+				 </navLabel>
+				 <content src="Text/chapter32.xhtml#page159"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-194" playOrder="194" type="normal">
+				 <navLabel>
+						<text>160</text>
+				 </navLabel>
+				 <content src="Text/chapter32.xhtml#page160"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-195" playOrder="195" type="normal">
+				 <navLabel>
+						<text>161</text>
+				 </navLabel>
+				 <content src="Text/chapter32.xhtml#page161"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-196" playOrder="196" type="normal">
+				 <navLabel>
+						<text>162</text>
+				 </navLabel>
+				 <content src="Text/chapter33.xhtml#page162"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-197" playOrder="197" type="normal">
+				 <navLabel>
+						<text>163</text>
+				 </navLabel>
+				 <content src="Text/chapter33.xhtml#page163"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-198" playOrder="198" type="normal">
+				 <navLabel>
+						<text>164</text>
+				 </navLabel>
+				 <content src="Text/chapter33.xhtml#page164"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-199" playOrder="199" type="normal">
+				 <navLabel>
+						<text>165</text>
+				 </navLabel>
+				 <content src="Text/chapter34.xhtml#page165"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-200" playOrder="200" type="normal">
+				 <navLabel>
+						<text>166</text>
+				 </navLabel>
+				 <content src="Text/chapter34.xhtml#page166"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-201" playOrder="201" type="normal">
+				 <navLabel>
+						<text>167</text>
+				 </navLabel>
+				 <content src="Text/chapter34.xhtml#page167"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-202" playOrder="202" type="normal">
+				 <navLabel>
+						<text>168</text>
+				 </navLabel>
+				 <content src="Text/chapter34.xhtml#page168"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-203" playOrder="203" type="normal">
+				 <navLabel>
+						<text>169</text>
+				 </navLabel>
+				 <content src="Text/chapter34.xhtml#page169"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-204" playOrder="204" type="normal">
+				 <navLabel>
+						<text>170</text>
+				 </navLabel>
+				 <content src="Text/chapter35.xhtml#page170"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-205" playOrder="205" type="normal">
+				 <navLabel>
+						<text>171</text>
+				 </navLabel>
+				 <content src="Text/chapter35.xhtml#page171"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-206" playOrder="206" type="normal">
+				 <navLabel>
+						<text>172</text>
+				 </navLabel>
+				 <content src="Text/chapter35.xhtml#page172"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-207" playOrder="207" type="normal">
+				 <navLabel>
+						<text>173</text>
+				 </navLabel>
+				 <content src="Text/chapter35.xhtml#page173"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-208" playOrder="208" type="normal">
+				 <navLabel>
+						<text>174</text>
+				 </navLabel>
+				 <content src="Text/chapter36.xhtml#page174"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-209" playOrder="209" type="normal">
+				 <navLabel>
+						<text>175</text>
+				 </navLabel>
+				 <content src="Text/chapter36.xhtml#page175"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-210" playOrder="210" type="normal">
+				 <navLabel>
+						<text>176</text>
+				 </navLabel>
+				 <content src="Text/chapter36.xhtml#page176"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-211" playOrder="211" type="normal">
+				 <navLabel>
+						<text>177</text>
+				 </navLabel>
+				 <content src="Text/chapter36.xhtml#page177"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-212" playOrder="212" type="normal">
+				 <navLabel>
+						<text>178</text>
+				 </navLabel>
+				 <content src="Text/chapter36.xhtml#page178"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-213" playOrder="213" type="normal">
+				 <navLabel>
+						<text>179</text>
+				 </navLabel>
+				 <content src="Text/chapter37.xhtml#page179"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-214" playOrder="214" type="normal">
+				 <navLabel>
+						<text>180</text>
+				 </navLabel>
+				 <content src="Text/chapter37.xhtml#page180"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-215" playOrder="215" type="normal">
+				 <navLabel>
+						<text>181</text>
+				 </navLabel>
+				 <content src="Text/chapter37.xhtml#page181"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-216" playOrder="216" type="normal">
+				 <navLabel>
+						<text>182</text>
+				 </navLabel>
+				 <content src="Text/chapter37.xhtml#page182"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-217" playOrder="217" type="normal">
+				 <navLabel>
+						<text>183</text>
+				 </navLabel>
+				 <content src="Text/chapter37.xhtml#page183"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-218" playOrder="218" type="normal">
+				 <navLabel>
+						<text>184</text>
+				 </navLabel>
+				 <content src="Text/chapter37.xhtml#page184"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-219" playOrder="219" type="normal">
+				 <navLabel>
+						<text>185</text>
+				 </navLabel>
+				 <content src="Text/chapter37.xhtml#page185"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-220" playOrder="220" type="normal">
+				 <navLabel>
+						<text>186</text>
+				 </navLabel>
+				 <content src="Text/chapter37.xhtml#page186"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-221" playOrder="221" type="normal">
+				 <navLabel>
+						<text>187</text>
+				 </navLabel>
+				 <content src="Text/chapter38.xhtml#page187"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-222" playOrder="222" type="normal">
+				 <navLabel>
+						<text>188</text>
+				 </navLabel>
+				 <content src="Text/chapter38.xhtml#page188"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-223" playOrder="223" type="normal">
+				 <navLabel>
+						<text>189</text>
+				 </navLabel>
+				 <content src="Text/chapter38.xhtml#page189"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-224" playOrder="224" type="normal">
+				 <navLabel>
+						<text>190</text>
+				 </navLabel>
+				 <content src="Text/chapter38.xhtml#page190"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-225" playOrder="225" type="normal">
+				 <navLabel>
+						<text>191</text>
+				 </navLabel>
+				 <content src="Text/chapter38.xhtml#page191"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-226" playOrder="226" type="normal">
+				 <navLabel>
+						<text>192</text>
+				 </navLabel>
+				 <content src="Text/chapter39.xhtml#page192"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-227" playOrder="227" type="normal">
+				 <navLabel>
+						<text>193</text>
+				 </navLabel>
+				 <content src="Text/chapter39.xhtml#page193"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-228" playOrder="228" type="normal">
+				 <navLabel>
+						<text>194</text>
+				 </navLabel>
+				 <content src="Text/chapter39.xhtml#page194"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-229" playOrder="229" type="normal">
+				 <navLabel>
+						<text>195</text>
+				 </navLabel>
+				 <content src="Text/chapter39.xhtml#page195"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-230" playOrder="230" type="normal">
+				 <navLabel>
+						<text>196</text>
+				 </navLabel>
+				 <content src="Text/chapter40.xhtml#page196"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-231" playOrder="231" type="normal">
+				 <navLabel>
+						<text>197</text>
+				 </navLabel>
+				 <content src="Text/chapter40.xhtml#page197"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-232" playOrder="232" type="normal">
+				 <navLabel>
+						<text>198</text>
+				 </navLabel>
+				 <content src="Text/chapter40.xhtml#page198"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-233" playOrder="233" type="normal">
+				 <navLabel>
+						<text>199</text>
+				 </navLabel>
+				 <content src="Text/chapter40.xhtml#page199"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-234" playOrder="234" type="normal">
+				 <navLabel>
+						<text>200</text>
+				 </navLabel>
+				 <content src="Text/chapter40.xhtml#page200"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-235" playOrder="235" type="normal">
+				 <navLabel>
+						<text>201</text>
+				 </navLabel>
+				 <content src="Text/chapter41.xhtml#page201"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-236" playOrder="236" type="normal">
+				 <navLabel>
+						<text>202</text>
+				 </navLabel>
+				 <content src="Text/chapter41.xhtml#page202"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-237" playOrder="237" type="normal">
+				 <navLabel>
+						<text>203</text>
+				 </navLabel>
+				 <content src="Text/chapter41.xhtml#page203"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-238" playOrder="238" type="normal">
+				 <navLabel>
+						<text>204</text>
+				 </navLabel>
+				 <content src="Text/chapter41.xhtml#page204"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-239" playOrder="239" type="normal">
+				 <navLabel>
+						<text>205</text>
+				 </navLabel>
+				 <content src="Text/chapter42.xhtml#page205"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-240" playOrder="240" type="normal">
+				 <navLabel>
+						<text>206</text>
+				 </navLabel>
+				 <content src="Text/chapter42.xhtml#page206"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-241" playOrder="241" type="normal">
+				 <navLabel>
+						<text>207</text>
+				 </navLabel>
+				 <content src="Text/chapter42.xhtml#page207"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-242" playOrder="242" type="normal">
+				 <navLabel>
+						<text>208</text>
+				 </navLabel>
+				 <content src="Text/chapter43.xhtml#page208"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-243" playOrder="243" type="normal">
+				 <navLabel>
+						<text>209</text>
+				 </navLabel>
+				 <content src="Text/chapter43.xhtml#page209"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-244" playOrder="244" type="normal">
+				 <navLabel>
+						<text>210</text>
+				 </navLabel>
+				 <content src="Text/chapter43.xhtml#page210"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-245" playOrder="245" type="normal">
+				 <navLabel>
+						<text>211</text>
+				 </navLabel>
+				 <content src="Text/chapter43.xhtml#page211"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-246" playOrder="246" type="normal">
+				 <navLabel>
+						<text>212</text>
+				 </navLabel>
+				 <content src="Text/chapter43.xhtml#page212"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-247" playOrder="247" type="normal">
+				 <navLabel>
+						<text>213</text>
+				 </navLabel>
+				 <content src="Text/chapter44.xhtml#page213"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-248" playOrder="248" type="normal">
+				 <navLabel>
+						<text>214</text>
+				 </navLabel>
+				 <content src="Text/chapter44.xhtml#page214"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-249" playOrder="249" type="normal">
+				 <navLabel>
+						<text>215</text>
+				 </navLabel>
+				 <content src="Text/chapter44.xhtml#page215"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-250" playOrder="250" type="normal">
+				 <navLabel>
+						<text>216</text>
+				 </navLabel>
+				 <content src="Text/chapter44.xhtml#page216"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-251" playOrder="251" type="normal">
+				 <navLabel>
+						<text>217</text>
+				 </navLabel>
+				 <content src="Text/chapter44.xhtml#page217"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-252" playOrder="252" type="normal">
+				 <navLabel>
+						<text>218</text>
+				 </navLabel>
+				 <content src="Text/chapter45.xhtml#page218"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-253" playOrder="253" type="normal">
+				 <navLabel>
+						<text>219</text>
+				 </navLabel>
+				 <content src="Text/chapter45.xhtml#page219"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-254" playOrder="254" type="normal">
+				 <navLabel>
+						<text>220</text>
+				 </navLabel>
+				 <content src="Text/chapter45.xhtml#page220"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-255" playOrder="255" type="normal">
+				 <navLabel>
+						<text>221</text>
+				 </navLabel>
+				 <content src="Text/chapter45.xhtml#page221"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-256" playOrder="256" type="normal">
+				 <navLabel>
+						<text>222</text>
+				 </navLabel>
+				 <content src="Text/chapter45.xhtml#page222"/>
+			</pageTarget>
+			<pageTarget id="pageTarget-257" playOrder="257" type="normal">
+				 <navLabel>
+						<text>223</text>
+				 </navLabel>
+				 <content src="Text/chapter45.xhtml#page223"/>
+			</pageTarget>
+	 </pageList>
+</ncx>

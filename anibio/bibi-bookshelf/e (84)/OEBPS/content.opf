@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="1.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Sherlock Holmes - Dörtlü İttifak</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Doyle, Arthur Conan">Arthur Conan Doyle</dc:creator>
+    <dc:publisher>Avrupa Yakası Yayınları</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4bf5c2b3-910d-4360-ae7d-62f26438257c</dc:identifier>
+    <dc:date opf:event="modification">2014-02-20</dc:date>
+    <dc:description>"Genç ve güzel Mary Morstan'a her yıl postayla gönderilen kıymetli incilerin anlamı neydi? Bu durumun yıllardır haber alamadığı babasıyla bir ilgisi var mıydı? Üzüntülerle yoğrulmuş yıllardan sonra ardı ardına gelen sürpriz düğümleri ancak dedektiflerin pîri Sherlock Holmes çözecektir.  
+  
+Sir Arthur Conan Doyle'nin öykü kahramanı Sherlock Holmes'e, roman boyunca yaptığı akıl yürütmelerle, soğukkanlılığı, azmi ve zekâsıyla hayran kalacak, arkadaşı Dr. Watson'un sürükleyici anlatımıyla kendinizi masalsı bir serüvenin tam ortasında bulacaksınız.  
+  
+Tıpkı yaşadığımız gerçek dünyada olduğu gibi, suçun ve masumiyetin nerede başladığını, nerede bittiğini sorgulatan, insanların zayıf ve güçlü yanlarını bir kanaviçe gibi işleyen eserin içinde yavaş yavaş gelişen büyük ve masum bir aşka da şahitlik edeceksiniz."</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">b3a73dc3-42c7-44f9-b79d-5b1d06500ef9</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9789944979672</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/dortluittifak_split_000.html" id="html46" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_001.html" id="html45" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_002.html" id="html44" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_003.html" id="html43" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_005.html" id="html41" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_007.html" id="html39" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_009.html" id="html37" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_011.html" id="html35" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_013.html" id="html33" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_015.html" id="html31" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_017.html" id="html29" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_019.html" id="html27" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_021.html" id="html25" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_023.html" id="html23" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_025.html" id="html21" media-type="application/xhtml+xml"/>
+    <item href="Text/dortluittifak_split_027.html" id="html19" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/kolombo.jpeg" id="added2" media-type="image/jpeg"/>
+    <item href="Images/logoson_opt.jpeg" id="added" media-type="image/jpeg"/>
+    <item href="Images/sir.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html46"/>
+    <itemref idref="html45"/>
+    <itemref idref="html44"/>
+    <itemref idref="html43"/>
+    <itemref idref="html41"/>
+    <itemref idref="html39"/>
+    <itemref idref="html37"/>
+    <itemref idref="html35"/>
+    <itemref idref="html33"/>
+    <itemref idref="html31"/>
+    <itemref idref="html29"/>
+    <itemref idref="html27"/>
+    <itemref idref="html25"/>
+    <itemref idref="html23"/>
+    <itemref idref="html21"/>
+    <itemref idref="html19"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

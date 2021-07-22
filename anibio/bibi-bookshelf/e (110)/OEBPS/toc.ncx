@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="d8d5a95a-8430-43ef-81ea-5be7ee8dc214" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Baba</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>KİŞİLER</text>
+      </navLabel>
+      <content src="Text/index.html#toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>BİRİNCİ PERDE</text>
+      </navLabel>
+      <content src="Text/index_split1.html"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>PERDE</text>
+        </navLabel>
+        <content src="Text/index_split1.html#toc_id_7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>İKİNCİ PERDE</text>
+      </navLabel>
+      <content src="Text/index_split2.html"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>PERDE</text>
+        </navLabel>
+        <content src="Text/index_split2.html#toc_id_9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>ÜÇÜNCÜ PERDE</text>
+      </navLabel>
+      <content src="Text/index_split3.html"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>PERDE</text>
+        </navLabel>
+        <content src="Text/index_split3.html#toc_id_11"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

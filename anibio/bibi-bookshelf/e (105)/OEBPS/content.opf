@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Tohumcu, Aslı">Aslı Tohumcu</dc:creator>
+<dc:publisher>Kırmızı Kedi</dc:publisher>
+    <dc:date>2011-03-08T14:30:20+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">184cd4c3-c010-4299-8f60-05de25326aa6</dc:identifier>
+    <dc:date opf:event="modification">2014-10-23</dc:date>
+    <dc:description>&lt;p&gt;İstanbul'da ya da Erzurum'da, Hatay'da ya da Muğla'da, belediye otobüslerinde balık istifi yolculuk eden insanlar. Otobüsün arkasında, en beyefendi haliyle dikilen orta yaşlı bir adam. Sıradan bir emekli. İşine giden bir kadın. Dudakları sürekli kıpırdayan bir altıncı sınıf öğrencisi. Bir şemsiye satıcısı. Eli kolu sürekli oynayan, yakası paçası dağılmış bir adam. İçlerinden biri çocuğunu öldürmüş olabilir mi? Sübyancılıkla suçlanmış… Kocasının tecavüzüne uğramış… Şoföre uzatılsın diye verilen akbilleri cebine indirmiş…
+Taş Uykusu, köksüzleşerek kurumaya yüz tutan edebiyatımızı, elinden tutup yeniden toprağına, kalabalıkların arasına çekiyor. Aslı Tohumcu, bir belediye otobüsünde birlikte yolculuk etmek zorunda kalan insanların zihninden geçenleri okuyarak, günümüz Türkiye'sinin şiddet yüklü yüzünü hüzünlü bir fotoğraf karesine çeviriyor.
+&lt;/p&gt;</dc:description>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Taş Uykusu"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:author_link_map" content="{&quot;Aslı Tohumcu&quot;: &quot;&quot;}"/>
+  <dc:title>Taş Uykusu</dc:title>
+<dc:subject>Öykü</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">f6b9c39a-219d-42de-b78a-4d1f2162665f</dc:identifier>
+<dc:identifier opf:scheme="ISBN">2789785878957</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/tasuykusu_split_000.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/tasuykusu_split_001.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/tasuykusu_split_002.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/tasuykusu_split_003.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/tasuykusu_split_004.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/tasuykusu_split_005.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

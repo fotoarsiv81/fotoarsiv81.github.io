@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId">AWP-0E09D8BE-15B8-4A12-A26F-29CBEE1423A9</dc:identifier>
+    <dc:title>Sisler Bulvarı</dc:title>
+    <dc:creator opf:file-as="İlhan, Attila" opf:role="aut">Attila İlhan</dc:creator>
+    <dc:language>tr</dc:language>
+    <dc:publisher>secrettime</dc:publisher>
+    <dc:date opf:event="">2013-09-29</dc:date>
+    <dc:identifier opf:scheme="Meritokrasi Notu">4</dc:identifier>
+    <meta name="cover" content="cover" />
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date opf:event="modification">2014-01-13</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/style.css" id="style" media-type="text/css" />
+    <item href="Text/001.html" id="id001" media-type="application/xhtml+xml" />
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id001" />
+  </spine>
+  <guide>
+    <reference href="Text/001.html#a5" title="Table of Contents" type="toc" />
+    <reference href="Text/001.html#a0" title="Beginning" type="text" />
+  </guide>
+</package>

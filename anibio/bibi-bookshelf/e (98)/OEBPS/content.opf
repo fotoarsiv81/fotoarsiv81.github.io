@@ -1,0 +1,94 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Din Üzerine</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Schopenhauer, Arthur">Arthur Schopenhauer</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:afc0d93c-b4a2-47c7-9cde-a1242ae4c7c3</dc:identifier>
+    <dc:publisher>Say Yayınları</dc:publisher>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (3.27.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en-US</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">68fe1ab1-5eed-43ee-9b18-62f95ea1454b</dc:identifier>
+    <meta content="Adobe InDesign 9.0" name="generator"/>
+    <meta name="calibre:title_sort" content="Din Üzerine"/>
+    <meta name="calibre:author_link_map" content="{&quot;Arthur Schopenhauer&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="kapak_fmt.jpeg"/>
+  </metadata>
+  <manifest>
+    <item href="kapak.xhtml" id="kapak" media-type="application/xhtml+xml"/>
+    <item href="1.xhtml" id="x1" media-type="application/xhtml+xml"/>
+    <item href="2.xhtml" id="x2" media-type="application/xhtml+xml"/>
+    <item href="3.xhtml" id="x3" media-type="application/xhtml+xml"/>
+    <item href="4.xhtml" id="x4" media-type="application/xhtml+xml"/>
+    <item href="5.xhtml" id="x5" media-type="application/xhtml+xml"/>
+    <item href="6.xhtml" id="x6" media-type="application/xhtml+xml"/>
+    <item href="6-1.xhtml" id="x6-1" media-type="application/xhtml+xml"/>
+    <item href="6-2.xhtml" id="x6-2" media-type="application/xhtml+xml"/>
+    <item href="6-3.xhtml" id="x6-3" media-type="application/xhtml+xml"/>
+    <item href="6-4.xhtml" id="x6-4" media-type="application/xhtml+xml"/>
+    <item href="6-5.xhtml" id="x6-5" media-type="application/xhtml+xml"/>
+    <item href="6-6.xhtml" id="x6-6" media-type="application/xhtml+xml"/>
+    <item href="6-7.xhtml" id="x6-7" media-type="application/xhtml+xml"/>
+    <item href="6-8.xhtml" id="x6-8" media-type="application/xhtml+xml"/>
+    <item href="6-9.xhtml" id="x6-9" media-type="application/xhtml+xml"/>
+    <item href="6-10.xhtml" id="x6-10" media-type="application/xhtml+xml"/>
+    <item href="6-11.xhtml" id="x6-11" media-type="application/xhtml+xml"/>
+    <item href="6-12.xhtml" id="x6-12" media-type="application/xhtml+xml"/>
+    <item href="6-13.xhtml" id="x6-13" media-type="application/xhtml+xml"/>
+    <item href="6-14.xhtml" id="x6-14" media-type="application/xhtml+xml"/>
+    <item href="6-15.xhtml" id="x6-15" media-type="application/xhtml+xml"/>
+    <item href="6-16.xhtml" id="x6-16" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+    <item href="image/10_fmt.jpeg" id="x10_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/11_fmt.jpeg" id="x11_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/12_fmt.jpeg" id="x12_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/13_fmt.jpeg" id="x13_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/14_fmt.jpeg" id="x14_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/15_fmt.jpeg" id="x15_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/16_fmt.jpeg" id="x16_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/17_fmt.jpeg" id="x17_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/2_fmt.jpeg" id="x2_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/3_fmt.jpeg" id="x3_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/4_fmt.jpeg" id="x4_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/5_fmt.jpeg" id="x5_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/6_fmt.jpeg" id="x6_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/7_fmt.jpeg" id="x7_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/8_fmt.jpeg" id="x8_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/8044.jpg" id="x8044.jpg" media-type="image/jpeg"/>
+    <item href="image/9_fmt.jpeg" id="x9_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="image/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x6-1"/>
+    <itemref idref="x6-2"/>
+    <itemref idref="x6-3"/>
+    <itemref idref="x6-4"/>
+    <itemref idref="x6-5"/>
+    <itemref idref="x6-6"/>
+    <itemref idref="x6-7"/>
+    <itemref idref="x6-8"/>
+    <itemref idref="x6-9"/>
+    <itemref idref="x6-10"/>
+    <itemref idref="x6-11"/>
+    <itemref idref="x6-12"/>
+    <itemref idref="x6-13"/>
+    <itemref idref="x6-14"/>
+    <itemref idref="x6-15"/>
+    <itemref idref="x6-16"/>
+  </spine>
+  <guide>
+    <reference href="kapak.xhtml" type="cover"/>
+  </guide>
+</package>

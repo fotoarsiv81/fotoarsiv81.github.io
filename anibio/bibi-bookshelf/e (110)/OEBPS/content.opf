@@ -1,0 +1,52 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Strindberg, August">August Strindberg</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">d8d5a95a-8430-43ef-81ea-5be7ee8dc214</dc:identifier>
+    <dc:description>&lt;div&gt;August Strindberg, 'günümüz tiyatrosundaki bütün modernliklerin öncüsü' olarak ünlenmiş bir yazardır.Sayısı kırkı aşan oyunlarında yozlaşmış aristokrasiyi sakat burjuva yaşamını insanlar arasındaki sömürüyü anlatır.Özellikle aile kurumunda kadın erkek ilişkisinin kadınların olumsuz ve uyumsuz davranışları nedeniylebir ölüm kalım savaşma dönüştüğünü vurgular.&lt;br&gt;&lt;br&gt;Tiyatro tarihinin özyaşamını oyunlarına yansıtanönde gelen yazarlardan biri olan Strindberg'inBaba adlı bu oyunu kendi yaşamından alınmış bir evlilik kurumu içinde gelişen ve karşı iki cinsin ölüm kalım savaşına dönüşüp trajik sonla noktalanan bir öyküyü anlattığı en önemli yapıtlarından biridir.&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2014-09-11T21:00:00+00:00</dc:date>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="2014-07-10T23:37:31.918000+00:00" name="calibre:timestamp"/>
+    <meta content="Baba" name="calibre:title_sort"/>
+    <meta content="{&quot;August Strindberg&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:user_categories" content="{}"/>
+  <dc:title>Baba</dc:title>
+<dc:subject>İsveç Edebiyatı</dc:subject>
+<dc:subject>Tiyatro</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">762eebe4-322e-4f3b-b7b4-63a0879b1744</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.html" id="kunye.html" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye2.html" id="kunye2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/bilgi.html" id="bilgi.html" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/index.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split1.html" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split2.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split3.html" id="id7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="kunye2.html"/>
+    <itemref idref="bilgi.html"/>
+    <itemref idref="id3"/>
+    <itemref idref="id2"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+  </spine>
+  <guide>
+    <reference href="Text/toc.xhtml#calibre_generated_inline_toc" title="İçindekiler" type="toc"/>
+    <reference href="Text/titlepage.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

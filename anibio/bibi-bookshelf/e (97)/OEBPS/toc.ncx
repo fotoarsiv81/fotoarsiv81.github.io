@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="38bccb23-847c-4e04-9ccd-b87bb0b2a149" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>AŞKIN METAFİZİĞİ</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="2086a777-7259-4bf1-812b-be2423451461" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/askin_split_003.html"/>
+    </navPoint>
+    <navPoint id="9feac228-341d-40d2-907b-ee7bc9302f5f" playOrder="2">
+      <navLabel>
+        <text>AŞKIN METAFİZİĞİ AŞKIN (CİNSEL SEVGİNİN) METAFİZİĞİ</text>
+      </navLabel>
+      <content src="Text/askin_split_004.html"/>
+      <navPoint id="d8fa095b-44c6-4297-8ac8-9e27d5208ecb" playOrder="3">
+        <navLabel>
+          <text>v I v</text>
+        </navLabel>
+        <content src="Text/askin_split_005.html"/>
+      </navPoint>
+      <navPoint id="71c4464c-95c4-4239-8ced-ebb96c52af46" playOrder="4">
+        <navLabel>
+          <text>v II v</text>
+        </navLabel>
+        <content src="Text/askin_split_006.html"/>
+      </navPoint>
+      <navPoint id="e87c297e-fc03-4455-a455-804d114d317d" playOrder="5">
+        <navLabel>
+          <text>v III v</text>
+        </navLabel>
+        <content src="Text/askin_split_007.html"/>
+      </navPoint>
+      <navPoint id="41e4cc69-9976-4853-a9fd-ccb34bb25a9b" playOrder="6">
+        <navLabel>
+          <text>v IV v</text>
+        </navLabel>
+        <content src="Text/askin_split_008.html"/>
+      </navPoint>
+      <navPoint id="430a05f2-c29d-4982-82b4-a4677b4db562" playOrder="7">
+        <navLabel>
+          <text>v V v</text>
+        </navLabel>
+        <content src="Text/askin_split_009.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

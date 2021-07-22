@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="df64847a-9f8a-468a-acc2-04785dd3c5dd" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.49)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sherlock Holmes Kızıl Soruşturma</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="1f7e705c-65fa-435f-b0f5-2ec05b138cfa" playOrder="1">
+      <navLabel>
+        <text>BİRİNCİ KISIM</text>
+      </navLabel>
+      <content src="kizilsorusturma_split_002.html"/>
+      <navPoint id="82e02426-4875-43a4-abdb-b3b024e22a5c" playOrder="2">
+        <navLabel>
+          <text>BİRİNCİ BÖLÜM BAY SHERLOCK HOLMES</text>
+        </navLabel>
+        <content src="kizilsorusturma_split_003.html"/>
+      </navPoint>
+      <navPoint id="6ff63bbb-1022-4fcf-b293-8abc6730e292" playOrder="3">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM TÜMDENGELİM BİLİMİ</text>
+        </navLabel>
+        <content src="kizilsorusturma_split_005.html"/>
+      </navPoint>
+      <navPoint id="0d9ca5f7-abf1-47c2-9e43-e3b3cf387af4" playOrder="4">
+        <navLabel>
+          <text>ÜÇÜNCÜ BÖLÜM LAURISTON GARDENS’IN ESRARI</text>
+        </navLabel>
+        <content src="kizilsorusturma_split_006.html"/>
+      </navPoint>
+      <navPoint id="53879eee-c54b-42f6-94cf-5b26cfdb26ba" playOrder="5">
+        <navLabel>
+          <text>DÖRDÜNCÜ BÖLÜM JOHN RANCE’İN ANLATACAKLARI</text>
+        </navLabel>
+        <content src="kizilsorusturma_split_007.html"/>
+      </navPoint>
+      <navPoint id="b3b39b73-bc61-4206-afc1-af3835d8eec5" playOrder="6">
+        <navLabel>
+          <text>BEŞİNCİ BÖLÜM GAZETEYE VERİLEN İLÂNIN GETİRDİĞİ ZİYARETÇİ</text>
+        </navLabel>
+        <content src="kizilsorusturma_split_008.html"/>
+      </navPoint>
+      <navPoint id="edfb8706-695d-46b9-9b81-924730f83daa" playOrder="7">
+        <navLabel>
+          <text>ALTINCI BÖLÜM TOBIAS GREGSON, NELER YAPABİLECEĞİNİ GÖSTERİYOR</text>
+        </navLabel>
+        <content src="kizilsorusturma_split_009.html"/>
+      </navPoint>
+      <navPoint id="7e5d3966-d388-4d2d-8439-4a45fba79209" playOrder="8">
+        <navLabel>
+          <text>YEDİNCİ BÖLÜM KARANLIKTAKİ IŞIK</text>
+        </navLabel>
+        <content src="kizilsorusturma_split_010.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="3c0fbf7d-def4-4195-bfe4-65275939574b" playOrder="9">
+      <navLabel>
+        <text>İKİNCİ KISIM</text>
+      </navLabel>
+      <content src="kizilsorusturma_split_011.html"/>
+      <navPoint id="51d102c2-1730-4a5f-88b5-68b089633562" playOrder="10">
+        <navLabel>
+          <text>BİRİNCİ BÖLÜM GENİŞ ALKALİ OVASI</text>
+        </navLabel>
+        <content src="kizilsorusturma_split_012.html"/>
+      </navPoint>
+      <navPoint id="d16f140f-304e-4d55-8390-a566aa7c371a" playOrder="11">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM UTAH ÇİÇEĞİ</text>
+        </navLabel>
+        <content src="kizilsorusturma_split_013.html"/>
+      </navPoint>
+      <navPoint id="bc2d16c1-af18-47f0-b82a-8324398fba1a" playOrder="12">
+        <navLabel>
+          <text>ÜÇÜNCÜ BÖLÜM JOHN FERRIER, PEYGAMBERLE KONUŞUYOR</text>
+        </navLabel>
+        <content src="kizilsorusturma_split_014.html"/>
+      </navPoint>
+      <navPoint id="697b51cd-aaf4-4582-9d19-c32365079af5" playOrder="13">
+        <navLabel>
+          <text>DÖRDÜNCÜ BÖLÜM CAN PAZARI</text>
+        </navLabel>
+        <content src="kizilsorusturma_split_015.html"/>
+      </navPoint>
+      <navPoint id="80121d4b-de69-45e7-8649-f196b9f2ec6f" playOrder="14">
+        <navLabel>
+          <text>BEŞİNCİ BÖLÜM İNTİKÂM MELEKLERİ</text>
+        </navLabel>
+        <content src="kizilsorusturma_split_016.html"/>
+      </navPoint>
+      <navPoint id="5b67465c-0b73-4f03-b205-350997d75509" playOrder="15">
+        <navLabel>
+          <text>ALTINCI BÖLÜM DOKTOR JOHN WATSON’UN HATIRALARININ DEVAMI</text>
+        </navLabel>
+        <content src="kizilsorusturma_split_017.html"/>
+      </navPoint>
+      <navPoint id="ea50fcb1-78c9-49ae-bd84-1356f0df2ed9" playOrder="16">
+        <navLabel>
+          <text>YEDİNCİ BÖLÜM SONUÇ</text>
+        </navLabel>
+        <content src="kizilsorusturma_split_018.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

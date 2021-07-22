@@ -1,0 +1,60 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Golden, Arthur">Arthur Golden</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:8c581adb-0f22-4751-974d-6186bdf4aa1d</dc:identifier>
+    <dc:date opf:event="modification">2014-05-21</dc:date>
+    <dc:description>&lt;p class="description"&gt;'Bu destansı roman hızla yok olan bir dünyayı gözler önüne seriyor.' - The Times- 'Büyüleyici... anlatı sanatının en güzel örneklerinden biri... okumaya doyulmuyor.' - Observer- 'İnanılmaz bir düş dünyasına sahip olan Golden, Sayuri'nin anılarını şiirsel bir dille anlatıyor.' - Independent- 'Bu olağanüstü kitap yok olmuş bir dünyayı tün ayrıntılarıyla okurlara sunuyor.' - Daily Mail-&lt;/p&gt;</dc:description>
+    <dc:format>Epub</dc:format>
+    <dc:date>2006-05-20T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+  <dc:title>Bir Geyşanın Anıları</dc:title>
+<meta name="calibre:title_sort" content="Bir Geyşanın Anıları"/>
+<dc:publisher>Altın Kitaplar</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Japonya</dc:subject>
+<dc:subject>Tarihi Roman</dc:subject>
+<dc:subject>Aşk</dc:subject>
+<dc:subject>Yetişkin</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Arthur Golden&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">248ec597-ded9-463f-8f73-9c0c585a8566</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754059700</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

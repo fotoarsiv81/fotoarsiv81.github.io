@@ -1,0 +1,143 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+@font-face {
+	font-style: normal;
+	font-weight: normal;
+	font-family: "My Font";	
+	src: url(fonts/Regular.otf);
+}
+
+@font-face {
+	font-style: italic;
+	font-weight: normal;
+	font-family: "My Font";
+	src: url(fonts/Italic.otf);
+}
+
+@font-face {
+	font-style: normal;
+	font-weight: bold;
+	font-family: "My Font";
+	src: url(fonts/Bold.otf);
+
+}
+body{
+	font-family: "My Font";
+}
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify
+    }
+.calibre1 {
+    display: block;
+    line-height: 1.2;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre10 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre11 {
+    border: 1px inset;
+    color: gray;
+    display: block;
+    height: 2px;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em
+    }
+.calibre12 {
+    line-height: 1.2
+    }
+.calibre13 {
+    display: block;
+    font-size: 0.875em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre2 {
+    display: list-item;
+    line-height: 1.2
+    }
+.calibre3 {
+    color: blue;
+    cursor: pointer;
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.calibre4 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 10px;
+    text-align: center
+    }
+.calibre5 {
+    color: inherit;
+    cursor: inherit;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre6 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 10px
+    }
+.calibre7 {
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 5px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 5px;
+    text-indent: 1.2em
+    }
+.calibre8 {
+    font-size: 0.875em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre9 {
+    font-weight: bolder;
+    line-height: 1.2
+    }

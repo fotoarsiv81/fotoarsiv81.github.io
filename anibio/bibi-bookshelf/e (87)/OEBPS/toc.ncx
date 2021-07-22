@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="d4af0818-89a3-41dc-8779-d85073a9a56b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Korku Vadisi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>I. BÖLÜM BIRLSTONE FACİASI</text>
+      </navLabel>
+      <content src="Text/part1.html"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>1 Uyarı</text>
+        </navLabel>
+        <content src="Text/1.01.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>2 Sherlock Holmes Konuşuyor</text>
+        </navLabel>
+        <content src="Text/1.02.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>3 Birlstone’daki Facia</text>
+        </navLabel>
+        <content src="Text/1.03.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>4 Karanlık</text>
+        </navLabel>
+        <content src="Text/1.04.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>5 Malikâne Sakinleri</text>
+        </navLabel>
+        <content src="Text/1.05.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>6 Bir Işık Görünüyor</text>
+        </navLabel>
+        <content src="Text/1.06.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>7 Çözüm</text>
+        </navLabel>
+        <content src="Text/1.07.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>II. BÖLÜM ÇETE</text>
+      </navLabel>
+      <content src="Text/part2.html"/>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>1 Yabancı</text>
+        </navLabel>
+        <content src="Text/2.01.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>2 Büyük Üstat</text>
+        </navLabel>
+        <content src="Text/2.02.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>3 Vermissa, 341 Numaralı Loca</text>
+        </navLabel>
+        <content src="Text/2.03.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>4 Korku Vadisi</text>
+        </navLabel>
+        <content src="Text/2.04.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>5 En Karanlık Saat</text>
+        </navLabel>
+        <content src="Text/2.05.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>6 Tehlike</text>
+        </navLabel>
+        <content src="Text/2.06.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>7 Birdy Edwards’ın Tuzağa Düşürülmesi</text>
+        </navLabel>
+        <content src="Text/2.07.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Sonsöz</text>
+      </navLabel>
+      <content src="Text/sonsoz.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

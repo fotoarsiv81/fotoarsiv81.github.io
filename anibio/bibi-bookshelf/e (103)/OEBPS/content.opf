@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Güngör, Aşkın">Aşkın Güngör</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">3531203a-eccd-45e4-81e3-fde56eac8f0e</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2008-03-24T22:00:00+00:00</dc:date>
+    <meta content="Sevgili Salak" name="calibre:title_sort"/>
+    <meta content="2013-02-15T02:49:19+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Sevgili Salak</dc:title>
+<dc:publisher>Olgu Kitap</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Yaşam</dc:subject>
+<dc:subject>İlişkiler</dc:subject>
+<dc:description>&lt;p&gt;Bir Konsomatris olan Nilay'a beslediği tutkulu aşk Mahsun'a korkunç
+cinayetler işletecek mi, yoksa herşey saf aklın tehlikeli oyunlarından mı
+ibaret?
+"ulan yemin ediyorum, ben okusam yazar olurdum, kızım! Boru değil,
+yazar! Hem, benim şu düşündüklerim var ya, eğer üşenmeyip yazsam
+şimdi meşhurdum, anasını satayım! Vallahi bak, roman olurdu kızım,
+aklımdan geçenler. Ha, millet "bu ne, be? Böyle roman mı olur?" derdi
+belki. Ama ben herşeyi düşündüm, Nilay Onlara derdim ki, "Ne ulan?"
+derdim. "Hayat sadece sizin aklınızdan geçenler öi?" derdim. "ne şaştınız
+o'lum? Bizimki gibi hayatlarda böyle cümleler debeleniyo, anasını satayım,"
+derdim. Ha hatta, "Biz sizin yok saydıklarınızız," derdim, abi".
+&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Aşkın Güngör&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">67d9b678-89fd-459e-bef3-752418b451d8</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_styles.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="id0"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

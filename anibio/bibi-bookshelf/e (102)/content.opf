@@ -1,0 +1,111 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Koksal, Asim">Asim Koksal</dc:creator>
+<dc:publisher>Diyanet Vakfı</dc:publisher>
+    <meta name="calibre:title_sort" content="Peygamberler Tarihi"/>
+    <dc:description>&lt;div&gt;&lt;span style="color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);"&gt;Peygamberler Tarihi'nde; Peygamberlerin (Salât'ü Selam olsun onlara) Soyları, hayat ve Şahsiyetleri, Üstün kişilikleri, gönderildikleri kavimlere, neler tebliğ ettikleri, nasıl karşılandıkları, kavimlerin tutum ve davranışlarına göre, ne gibi âkıbetlere uğradıkları… Kaynaklarımıza dayanılarak açıklanmış; şu kadar ki; kitabımızın konusu bakımından, bilinmesi yararlı bazı hususlara öncelikle, temas edilmesi gerekli görülmüştür.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: 'Trebuchet MS', tahoma, verdana, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+    <meta name="calibre:timestamp" content="2011-11-29T07:34:25+00:00"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2011-11-29T07:36:26+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">34281904-c9f8-4db6-9870-e8266c813836</dc:identifier>
+  <meta name="calibre:rating" content="8.0"/>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Asim Koksal&quot;: &quot;&quot;}"/>
+<dc:title>Peygamberler Tarihi</dc:title>
+<dc:subject>Din</dc:subject>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Biyografi</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">964a376c-0ef8-49fd-b332-2128cf65c9f2</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753890342</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="Regular.otf" href="fonts/Regular.otf" media-type="application/x-font-opentype"/>
+    <item id="Italic.otf" href="fonts/Italic.otf" media-type="application/x-font-opentype"/>
+    <item id="Bold.otf" href="fonts/Bold.otf" media-type="application/x-font-opentype"/>
+    <item href="01nubuvetnebi.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="02adem.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="03sit.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="04idris.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="05nuh.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="06hud.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="07salih.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="08ibrahim.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="09ismail.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="10ishak.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="11lut.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="12yakup.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="13yusuf.htm" id="html13" media-type="application/xhtml+xml"/>
+    <item href="14eyyub.htm" id="html14" media-type="application/xhtml+xml"/>
+    <item href="15zulkifl.htm" id="html15" media-type="application/xhtml+xml"/>
+    <item href="16suayb.htm" id="html16" media-type="application/xhtml+xml"/>
+    <item href="17musaveharun_split_000.htm" id="html172" media-type="application/xhtml+xml"/>
+    <item href="17musaveharun_split_001.htm" id="html171" media-type="application/xhtml+xml"/>
+    <item href="18hizir.htm" id="html18" media-type="application/xhtml+xml"/>
+    <item href="19yusabnun.htm" id="html19" media-type="application/xhtml+xml"/>
+    <item href="21hizkil.htm" id="html20" media-type="application/xhtml+xml"/>
+    <item href="22-ilyas.htm" id="html21" media-type="application/xhtml+xml"/>
+    <item href="23-elyesa.htm" id="html22" media-type="application/xhtml+xml"/>
+    <item href="24-yunus.htm" id="html23" media-type="application/xhtml+xml"/>
+    <item href="25semuyel.htm" id="html24" media-type="application/xhtml+xml"/>
+    <item href="26davud.htm" id="html25" media-type="application/xhtml+xml"/>
+    <item href="27suleyman.htm" id="html26" media-type="application/xhtml+xml"/>
+    <item href="28lokman.htm" id="html27" media-type="application/xhtml+xml"/>
+    <item href="29saya.htm" id="html28" media-type="application/xhtml+xml"/>
+    <item href="30-irmiya.htm" id="html29" media-type="application/xhtml+xml"/>
+    <item href="31danyal.htm" id="html30" media-type="application/xhtml+xml"/>
+    <item href="32uzeyr.htm" id="html31" media-type="application/xhtml+xml"/>
+    <item href="33zulkarneyn.htm" id="html32" media-type="application/xhtml+xml"/>
+    <item href="35isa.htm" id="html33" media-type="application/xhtml+xml"/>
+    <item href="36fetretdevri.htm" id="html34" media-type="application/xhtml+xml"/>
+    <item href="Index.htm" id="html" media-type="application/xhtml+xml"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+    <itemref idref="html12"/>
+    <itemref idref="html13"/>
+    <itemref idref="html14"/>
+    <itemref idref="html15"/>
+    <itemref idref="html16"/>
+    <itemref idref="html172"/>
+    <itemref idref="html171"/>
+    <itemref idref="html18"/>
+    <itemref idref="html19"/>
+    <itemref idref="html20"/>
+    <itemref idref="html21"/>
+    <itemref idref="html22"/>
+    <itemref idref="html23"/>
+    <itemref idref="html24"/>
+    <itemref idref="html25"/>
+    <itemref idref="html26"/>
+    <itemref idref="html27"/>
+    <itemref idref="html28"/>
+    <itemref idref="html29"/>
+    <itemref idref="html30"/>
+    <itemref idref="html31"/>
+    <itemref idref="html32"/>
+    <itemref idref="html33"/>
+    <itemref idref="html34"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

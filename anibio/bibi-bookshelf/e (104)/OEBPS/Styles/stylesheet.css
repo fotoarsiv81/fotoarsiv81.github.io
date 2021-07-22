@@ -1,0 +1,257 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.calibre {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 10pt;
+  margin-right: 10pt;
+  margin-top: 0;
+  page-break-before: always;
+}
+.calibre1 {
+  display: block;
+  page-break-after: always;
+}
+.calibre2 {
+  height: 91;
+  width: 100;
+}
+.calibre3 {
+  height: 696;
+  width: 450;
+}
+.calibre4 {
+  display: block;
+  text-align: center;
+}
+.calibre5 {
+  display: table-row;
+  vertical-align: middle;
+}
+.calibre6 {
+  background-color: #eee;
+  border: 1px solid #fff;
+  display: table-cell;
+  font-family: Arial, sans-serif;
+  font-size: 0.8em;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0.2em;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+  padding-top: 0.2em;
+  text-align: left;
+  vertical-align: inherit;
+}
+.calibre7 {
+  height: auto;
+  width: auto;
+}
+.calibre8 {
+  height: 16;
+  width: 79;
+}
+.calibre9 {
+  font-size: smaller;
+  line-height: normal;
+  vertical-align: super;
+}
+.chapter {
+  display: block;
+}
+.clrb {
+  clear: both;
+  display: block;
+}
+.g-vde-metni {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+}
+.generictable {
+  border: 0;
+  border-collapse: collapse;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0;
+  width: 100%;
+}
+.h1baslik {
+  display: block;
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.67em;
+  page-break-before: always;
+  text-align: center;
+}
+.idebold {
+  font-weight: bold;
+}
+.ideitalik {
+  font-style: italic;
+}
+.indentmetin {
+  display: block;
+  font-size: 1em;
+  margin-bottom: 0.25em;
+  margin-left: 3em;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.indentmetin1 {
+  display: block;
+  font-size: 1em;
+  list-style-type: decimal;
+  margin-bottom: 0.25em;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: justify;
+  text-indent: 0.75em;
+  padding-left: 3em;
+}
+.indentmetinitalik {
+  display: block;
+  font-size: 1em;
+  font-style: italic;
+  margin-bottom: 0.25em;
+  margin-left: 3em;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.kitapickapak {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: center;
+}
+.kitapickapak1 {
+  display: block;
+  font-size: 1.75em;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-align: center;
+}
+.kunye {
+  display: block;
+  font-size: 0.75em;
+  margin-bottom: 0;
+  margin-left: 3em;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: left;
+}
+.normal {
+  display: block;
+  font-size: 1em;
+  font-weight: bold;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.7em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.normal1 {
+  display: block;
+  font-size: 1em;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.7em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.normal2 {
+  display: list-item;
+  font-size: 1em;
+  margin-bottom: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.7em;
+  text-align: justify;
+  text-indent: 0.75em;
+}
+.ortayazi {
+  display: block;
+  font-style: normal;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.resim {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.sagbolditalik {
+  display: block;
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: right;
+}
+.sagitalik {
+  display: block;
+  font-style: italic;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: right;
+}
+.tablo {
+  display: inline-block;
+  width: 100%;
+}
+.word-imported-list {
+  display: block;
+  list-style-type: decimal;
+  margin-bottom: 1em;
+  margin-right: 0;
+  margin-top: 1em;
+  padding-left: 0;
+}
+.word-imported-list1 {
+  display: block;
+  list-style-type: decimal;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-left: 0;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+  cursor: default;
+}
+a[href] {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}

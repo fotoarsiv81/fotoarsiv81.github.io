@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="90789176-5b5a-4739-a569-3894d2bc6319" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.47)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Mavi Yakut</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="44837414-7205-4676-93f2-e61992a92b3a" playOrder="1">
+      <navLabel>
+        <text>SHERLOCK HOLMES ÖLÜM DÖŞEĞİNDE</text>
+      </navLabel>
+      <content src="Text/maviyakut_split_003.html"/>
+    </navPoint>
+    <navPoint id="110e1d87-fe94-4492-b277-464fb265156d" playOrder="2">
+      <navLabel>
+        <text>BENEKLİ KORDON</text>
+      </navLabel>
+      <content src="Text/maviyakut_split_005.html"/>
+    </navPoint>
+    <navPoint id="345dd9c1-1eb4-4d6b-bc3f-69bbfa687748" playOrder="3">
+      <navLabel>
+        <text>ASİL BEKÂR</text>
+      </navLabel>
+      <content src="Text/maviyakut_split_007.html"/>
+    </navPoint>
+    <navPoint id="8c01c5e1-2e54-457c-b445-d14dbe6b9c4a" playOrder="4">
+      <navLabel>
+        <text>MAVİ YAKUT</text>
+      </navLabel>
+      <content src="Text/maviyakut_split_009.html"/>
+    </navPoint>
+    <navPoint id="11da14ae-f145-45c1-9d1d-9bef4b445ef6" playOrder="5">
+      <navLabel>
+        <text>DANS EDEN ADAMLAR</text>
+      </navLabel>
+      <content src="Text/maviyakut_split_011.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:98c1e9f6-9976-4b10-8883-396b4dddaaaa" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Rama Bahçesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>TEŞEKKÜRLER</text>
+      </navLabel>
+      <content src="Text/tesekkur.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>1 NICOLE’ÜN GÜNLÜĞÜ</text>
+      </navLabel>
+      <content src="Text/1._KISIM.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/BLM001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/BLM002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/BLM003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/BLM004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/BLM005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/BLM006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/BLM007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="Text/BLM008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>9</text>
+        </navLabel>
+        <content src="Text/BLM009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>10</text>
+        </navLabel>
+        <content src="Text/BLM010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>11</text>
+        </navLabel>
+        <content src="Text/BLM011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>12</text>
+        </navLabel>
+        <content src="Text/BLM012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>13</text>
+        </navLabel>
+        <content src="Text/BLM013.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>2 DÜĞÜM’DE</text>
+      </navLabel>
+      <content src="Text/2._KISIM.xhtml"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/BLM014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/BLM015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/BLM016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/BLM017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/BLM018.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/BLM019.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/BLM020.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="Text/BLM021.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>9</text>
+        </navLabel>
+        <content src="Text/BLM022.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>3 MARS’TA BULUŞMA</text>
+      </navLabel>
+      <content src="Text/3._KISIM.xhtml"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/BLM023.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/BLM024.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/BLM025.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/BLM026.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/BLM027.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/BLM028.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/BLM029.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="Text/BLM030.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>9</text>
+        </navLabel>
+        <content src="Text/BLM031.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>10</text>
+        </navLabel>
+        <content src="Text/BLM032.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>11</text>
+        </navLabel>
+        <content src="Text/BLM033.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>12</text>
+        </navLabel>
+        <content src="Text/BLM034.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>4 DÜĞÜN ŞARKISI</text>
+      </navLabel>
+      <content src="Text/4._KISIM.xhtml"/>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/BLM035.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/BLM036.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/BLM037.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/BLM038.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/BLM039.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/BLM040.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/BLM041.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="Text/BLM042.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>9</text>
+        </navLabel>
+        <content src="Text/BLM043.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>10</text>
+        </navLabel>
+        <content src="Text/BLM044.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>5 DAVA</text>
+      </navLabel>
+      <content src="Text/5._KISIM.xhtml"/>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/BLM045.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/BLM046.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/BLM047.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/BLM048.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/BLM049.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/BLM050.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/BLM051.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="Text/BLM052.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>9</text>
+        </navLabel>
+        <content src="Text/BLM053.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>10</text>
+        </navLabel>
+        <content src="Text/BLM054.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

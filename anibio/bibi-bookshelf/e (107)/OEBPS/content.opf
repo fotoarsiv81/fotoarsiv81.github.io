@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="İlhan, Attilâ">Attilâ İlhan</dc:creator>
+<dc:identifier id="uuid">{DACD8FA6-3F8A-4907-82A9-65CF32E491E4}</dc:identifier>
+    <dc:date>2002-01-03T22:00:00+00:00</dc:date>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Saplantılarıyla boğuşan, genelgeçer ahlak kurallarının hor gördüğü bir durumu içinde hissederek yaşayan, Bayraktar Paşazadelerin kızı Suat.. Kadınlardan korkan, onları doğru dürüst tanımayan ve fahişelerin dışında hemen hiçbirisine yanaşmamış, Manisa eşrafından Hacıbeyoğlu'nun oğlu Halim... Bu iki insan, hapsedilmiş bir ozanın kurtarılması için düzenlenen bir toplantının, kışkırtılmış halk kalabalıklarınca basılıp, polisçe dağıtıldığı kargaşanın içinde birbirlerine itilirler... 
+Bıçağın Ucu bir cehennemi anlatıyor. Bu cehennem Türkiye'deki aydınların yaşamıdır. Roman kahramanı Halim'in dediği gibi: Gerilime alıştık bir tanem, yıllardır bıçağın ucunu kalbimizin üstünde duyarak yaşıyoruz, koymuyor. 
+Selim İleri&lt;/p&gt;</dc:description>
+    <meta name="cover" content="kapak.jpg"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Bıçağın Ucu" name="calibre:title_sort"/>
+    <meta content="8.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Attilâ İlhan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date opf:event="modification">2015-01-29</dc:date>
+  <dc:title>Bıçağın Ucu</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">330193af-3b48-462d-8a8b-d525da0a88fa</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754583250</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/main.html" id="main.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id14" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id13" media-type="text/css"/>
+    <item href="Images/cover.png" id="cover-image" media-type="image/png"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/Section0000.html" id="Section0000.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id14">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="main.html"/>
+    <itemref idref="Section0000.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0004.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

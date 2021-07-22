@@ -1,0 +1,25 @@
+h1
+{
+margin-top:3em;
+margin-bottom:3em;
+text-align:center;
+Font-size:1.5em;
+}
+h1:first-letter{
+Font-size:2em;
+
+}
+p{
+text-align:justify;
+text-indent:1em;
+margin-top:0.3em;
+margin-bottom:0.3em;
+}
+.baslik{
+text-align:center;
+  font-weight:bold;
+  font-size:2em;
+  margin-top:2em;
+  margin-bottom:2em;
+
+  }

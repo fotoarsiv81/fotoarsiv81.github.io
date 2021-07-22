@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid_id" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Korku Vadisi</dc:title>
+    <dc:creator opf:file-as="Doyle, Arthur Conan" opf:role="aut">Arthur Conan Doyle</dc:creator>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Sir Arthur Conan Doyle’un akıl yürütme yeteneği çok güçlü Edinburglu bir öğretmenden esinlenerek yarattığı Sherlock Holmes karakteri ilk kez 1887’de yayımlanan Kızıl İpucu’nda boy gösterdi. İngiliz edebiyatının en canlı karakterlerinden biri olan Holmes, piposu, şapkası ve kendine özgü giysileriyle farklı bir dedektif olarak daha sonra pek çok romanda okuyucunun karşısına çıktı. Arkadaşı Dr. Watson ve düşmanı Prof. Moriarty ile birlikte birçok filmin de kahramanı olarak ün kazandı. Doyle’un yazdığı tarihi romanlar ve tiyatro oyunları Sherlock Holmes’un kazandığı ünün gölgesinde kaldı.&lt;br /&gt;Holmes’un ele aldığı karmaşık cinayetler, karşılaştığı suçlular, sahte ipuçları, çaresiz kalmış kanun adamları, yalan söyleyen tanıklar, rastlantılar, dedektifin gözlem gücü, zekâsı ve ulaştığı umulmadık çözümler zevkli bir kurgu içinde, akıcı bir üslupla edebiyatın klasikleri arasına katıldı.&lt;/p&gt;</dc:description>
+    <dc:date>2017-04-03T21:00:00+00:00</dc:date>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">d4af0818-89a3-41dc-8779-d85073a9a56b</dc:identifier>
+    <dc:date opf:event="modification">2017-04-04</dc:date>
+    <dc:subject>Modern Klasikler</dc:subject>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">e8c2b6e1-cd64-41a7-8a83-6a776cc3713d</dc:identifier>
+    <meta content="0.9.6" name="Sigil version" />
+    <meta name="cover" content="cover.jpg" />
+    <meta content="Korku Vadisi" name="calibre:title_sort" />
+    <meta content="{&quot;Arthur Conan Doyle&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.html" href="Text/kunye.html" media-type="application/xhtml+xml"/>
+    <item id="title.html" href="Text/title.html" media-type="application/xhtml+xml"/>
+    <item id="part1.html" href="Text/part1.html" media-type="application/xhtml+xml"/>
+    <item id="x1.01.html" href="Text/1.01.html" media-type="application/xhtml+xml"/>
+    <item id="x1.02.html" href="Text/1.02.html" media-type="application/xhtml+xml"/>
+    <item id="x1.03.html" href="Text/1.03.html" media-type="application/xhtml+xml"/>
+    <item id="x1.04.html" href="Text/1.04.html" media-type="application/xhtml+xml"/>
+    <item id="x1.05.html" href="Text/1.05.html" media-type="application/xhtml+xml"/>
+    <item id="x1.06.html" href="Text/1.06.html" media-type="application/xhtml+xml"/>
+    <item id="x1.07.html" href="Text/1.07.html" media-type="application/xhtml+xml"/>
+    <item id="part2.html" href="Text/part2.html" media-type="application/xhtml+xml"/>
+    <item id="x2.01.html" href="Text/2.01.html" media-type="application/xhtml+xml"/>
+    <item id="x2.02.html" href="Text/2.02.html" media-type="application/xhtml+xml"/>
+    <item id="x2.03.html" href="Text/2.03.html" media-type="application/xhtml+xml"/>
+    <item id="x2.04.html" href="Text/2.04.html" media-type="application/xhtml+xml"/>
+    <item id="x2.05.html" href="Text/2.05.html" media-type="application/xhtml+xml"/>
+    <item id="x2.06.html" href="Text/2.06.html" media-type="application/xhtml+xml"/>
+    <item id="x2.07.html" href="Text/2.07.html" media-type="application/xhtml+xml"/>
+    <item id="sonsoz.html" href="Text/sonsoz.html" media-type="application/xhtml+xml"/>
+    <item id="notlar.html" href="Text/notlar.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="main.css" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+    <item id="BerkeleyBoldE.ttf" href="Fonts/BerkeleyBoldE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyItaE.ttf" href="Fonts/BerkeleyItaE.ttf" media-type="application/x-font-truetype"/>
+    <item id="BerkeleyMediumE.ttf" href="Fonts/BerkeleyMediumE.ttf" media-type="application/x-font-truetype"/>
+    <item id="GillSansMTPro-Book.ttf" href="Fonts/GillSansMTPro-Book.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.html"/>
+    <itemref idref="title.html"/>
+    <itemref idref="part1.html"/>
+    <itemref idref="x1.01.html"/>
+    <itemref idref="x1.02.html"/>
+    <itemref idref="x1.03.html"/>
+    <itemref idref="x1.04.html"/>
+    <itemref idref="x1.05.html"/>
+    <itemref idref="x1.06.html"/>
+    <itemref idref="x1.07.html"/>
+    <itemref idref="part2.html"/>
+    <itemref idref="x2.01.html"/>
+    <itemref idref="x2.02.html"/>
+    <itemref idref="x2.03.html"/>
+    <itemref idref="x2.04.html"/>
+    <itemref idref="x2.05.html"/>
+    <itemref idref="x2.06.html"/>
+    <itemref idref="x2.07.html"/>
+    <itemref idref="sonsoz.html"/>
+    <itemref idref="notlar.html"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

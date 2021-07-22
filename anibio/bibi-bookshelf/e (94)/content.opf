@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Üç Çatılı Ev</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Doyle, Arthur Conan">Arthur Conan Doyle</dc:creator>
+    <dc:publisher>Avrupa Yakası Yayınları</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">032eefa4-62ef-4f91-bcab-ba4e1c84251e</dc:identifier>
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">bf8d2215-b8a3-4aed-91d7-dc177271f635</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="uccatiliev_split_000.html" id="html18" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_001.html" id="html17" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_002.html" id="html16" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_003.html" id="html15" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_004.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_005.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_006.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_007.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_008.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_009.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_010.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_011.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_012.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_013.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_014.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_015.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_016.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="uccatiliev_split_017.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="bolumbasikoy_opt.jpeg" id="added2" media-type="image/jpeg"/>
+    <item href="cover-1.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="logoson_opt.jpeg" id="added" media-type="image/jpeg"/>
+    <item href="sir.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="arial.ttf" id="cid5" media-type="application/octet-stream"/>
+    <item href="arialbd.ttf" id="cid6" media-type="application/octet-stream"/>
+    <item href="arialbi.ttf" id="cid8" media-type="application/octet-stream"/>
+    <item href="ariali.ttf" id="cid7" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-Bold.ttf" id="cid2" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-BoldItalic.ttf" id="cid4" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-Italic.ttf" id="cid3" media-type="application/octet-stream"/>
+    <item href="LiberationSerif-Regular.ttf" id="cid1" media-type="application/octet-stream"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

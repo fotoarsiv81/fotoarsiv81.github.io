@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="2872be6a-ef5d-4241-ba48-e9386419ef8b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.47)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Böcek Avcısı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="bb2c5265-f85e-4f25-a417-c21341cc8f83" playOrder="1">
+      <navLabel>
+        <text>BÖCEK AVCISI</text>
+      </navLabel>
+      <content src="bocekavcisi_split_003.html"/>
+    </navPoint>
+    <navPoint id="ee2cf664-7fcd-401b-9426-c3fdb1df3332" playOrder="2">
+      <navLabel>
+        <text>KARA PETER</text>
+      </navLabel>
+      <content src="bocekavcisi_split_005.html"/>
+    </navPoint>
+    <navPoint id="51c79241-9982-4671-bb99-cbdac1565397" playOrder="3">
+      <navLabel>
+        <text>BİSİKLETLİ TAKİP</text>
+      </navLabel>
+      <content src="bocekavcisi_split_007.html"/>
+    </navPoint>
+    <navPoint id="959727dc-7ec0-4ca1-8581-599bfe561a2e" playOrder="4">
+      <navLabel>
+        <text>SON OLAY</text>
+      </navLabel>
+      <content src="bocekavcisi_split_009.html"/>
+    </navPoint>
+    <navPoint id="7b31ec57-110c-47ff-adda-11aacf578187" playOrder="5">
+      <navLabel>
+        <text>BORSA KÂTİBİ</text>
+      </navLabel>
+      <content src="bocekavcisi_split_011.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

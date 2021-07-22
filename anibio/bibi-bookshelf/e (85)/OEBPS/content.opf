@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Sherlock Holmes - Kırmızı Gürgenler</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Doyle, Arthur Conan">Arthur Conan Doyle</dc:creator>
+    <dc:identifier id="bookid"/>
+    <dc:description>Güzel bir sayfiye yerinin adı olan KIRMIZI GÜRGENLER'de iş bulmak için bir iş ilanına başvurmuş olan Bayan Hunter'ın başından geçen tuhaf öykü anlatılmaktadır. Garip davranışlar içinde olan bir karı-kocanın biricik kızlarına bakmak için evlerine yerleşmiş olan Bayan Hunter kısa süre içinde buranın hiç de tekin bir yer olmadığını anlayacaktır. Büyük evin içinde olan tuhaf şeyleri çözmesi için Sherlock Holmes ve Dr. Watson'a başvuran Bayan Hunter evde saçları kendi saçına benzeyen birinin hapis hayatı yaşadığını öğrenirler. Bu meraklıların kendi evinde sırrını öğrenmesinden hiç hoşlanmayan ev sahibinin de onlar hakkında başka planları vardır.</dc:description>
+    <dc:publisher>Mitra Yayınları</dc:publisher>
+    <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor xmlns:opf="http://www.idpf.org/2007/opf" opf:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">34191ce1-67f1-487d-a1b3-473b62d9eace</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786055752330</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="OEBPS/cover.jpg" id="ucRXUphDaUjccCAwyHTZxp5" media-type="image/jpeg"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0004.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

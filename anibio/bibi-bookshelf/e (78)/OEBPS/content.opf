@@ -1,0 +1,158 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Rama Bahçesi</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Arthur C. Clarke,  Gentry Lee">Arthur C. Clarke, Gentry Lee</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2016-11-22</dc:date>
+    <dc:identifier id="BookId">urn:uuid:98c1e9f6-9976-4b10-8883-396b4dddaaaa</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr-TR</dc:language>
+    <dc:identifier opf:scheme="calibre">adfa0c10-49d9-4df8-9258-b8a40c5a12e7</dc:identifier>
+    <meta name="Sigil version" content="0.9.7"/>
+    <meta name="cover" content="Arthur_C._Clarke_ve_Gentry_Lee_-_Rama_Bahcesi_kapak.jpg"/>
+    <meta name="calibre:title_sort" content="Rama Bahçesi"/>
+    <meta name="calibre:author_link_map" content="{&quot;Arthur C. Clarke, Gentry Lee&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="kapak.xhtml" href="Text/kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ickapak.xhtml" href="Text/ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="knye.xhtml" href="Text/knye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tesekkur.xhtml" href="Text/tesekkur.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1._KISIM.xhtml" href="Text/1._KISIM.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM001.xhtml" href="Text/BLM001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM002.xhtml" href="Text/BLM002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM003.xhtml" href="Text/BLM003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM004.xhtml" href="Text/BLM004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM005.xhtml" href="Text/BLM005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM006.xhtml" href="Text/BLM006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM007.xhtml" href="Text/BLM007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM008.xhtml" href="Text/BLM008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM009.xhtml" href="Text/BLM009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM010.xhtml" href="Text/BLM010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM011.xhtml" href="Text/BLM011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM012.xhtml" href="Text/BLM012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM013.xhtml" href="Text/BLM013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2._KISIM.xhtml" href="Text/2._KISIM.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM014.xhtml" href="Text/BLM014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM015.xhtml" href="Text/BLM015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM016.xhtml" href="Text/BLM016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM017.xhtml" href="Text/BLM017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM018.xhtml" href="Text/BLM018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM019.xhtml" href="Text/BLM019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM020.xhtml" href="Text/BLM020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM021.xhtml" href="Text/BLM021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM022.xhtml" href="Text/BLM022.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3._KISIM.xhtml" href="Text/3._KISIM.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM023.xhtml" href="Text/BLM023.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM024.xhtml" href="Text/BLM024.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM025.xhtml" href="Text/BLM025.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM026.xhtml" href="Text/BLM026.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM027.xhtml" href="Text/BLM027.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM028.xhtml" href="Text/BLM028.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM029.xhtml" href="Text/BLM029.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM030.xhtml" href="Text/BLM030.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM031.xhtml" href="Text/BLM031.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM032.xhtml" href="Text/BLM032.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM033.xhtml" href="Text/BLM033.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM034.xhtml" href="Text/BLM034.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4._KISIM.xhtml" href="Text/4._KISIM.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM035.xhtml" href="Text/BLM035.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM036.xhtml" href="Text/BLM036.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM037.xhtml" href="Text/BLM037.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM038.xhtml" href="Text/BLM038.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM039.xhtml" href="Text/BLM039.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM040.xhtml" href="Text/BLM040.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM041.xhtml" href="Text/BLM041.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM042.xhtml" href="Text/BLM042.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM043.xhtml" href="Text/BLM043.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM044.xhtml" href="Text/BLM044.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5._KISIM.xhtml" href="Text/5._KISIM.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM045.xhtml" href="Text/BLM045.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM046.xhtml" href="Text/BLM046.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM047.xhtml" href="Text/BLM047.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM048.xhtml" href="Text/BLM048.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM049.xhtml" href="Text/BLM049.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM050.xhtml" href="Text/BLM050.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM051.xhtml" href="Text/BLM051.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM052.xhtml" href="Text/BLM052.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM053.xhtml" href="Text/BLM053.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BLM054.xhtml" href="Text/BLM054.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Notlar.xhtml" href="Text/Notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="mandos.css" href="Styles/mandos.css" media-type="text/css"/>
+    <item id="Arthur_C._Clarke_ve_Gentry_Lee_-_Rama_Bahcesi_kapak.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="Ithaki.jpg" href="Images/Ithaki.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="knye.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="tesekkur.xhtml"/>
+    <itemref idref="x1._KISIM.xhtml"/>
+    <itemref idref="BLM001.xhtml"/>
+    <itemref idref="BLM002.xhtml"/>
+    <itemref idref="BLM003.xhtml"/>
+    <itemref idref="BLM004.xhtml"/>
+    <itemref idref="BLM005.xhtml"/>
+    <itemref idref="BLM006.xhtml"/>
+    <itemref idref="BLM007.xhtml"/>
+    <itemref idref="BLM008.xhtml"/>
+    <itemref idref="BLM009.xhtml"/>
+    <itemref idref="BLM010.xhtml"/>
+    <itemref idref="BLM011.xhtml"/>
+    <itemref idref="BLM012.xhtml"/>
+    <itemref idref="BLM013.xhtml"/>
+    <itemref idref="x2._KISIM.xhtml"/>
+    <itemref idref="BLM014.xhtml"/>
+    <itemref idref="BLM015.xhtml"/>
+    <itemref idref="BLM016.xhtml"/>
+    <itemref idref="BLM017.xhtml"/>
+    <itemref idref="BLM018.xhtml"/>
+    <itemref idref="BLM019.xhtml"/>
+    <itemref idref="BLM020.xhtml"/>
+    <itemref idref="BLM021.xhtml"/>
+    <itemref idref="BLM022.xhtml"/>
+    <itemref idref="x3._KISIM.xhtml"/>
+    <itemref idref="BLM023.xhtml"/>
+    <itemref idref="BLM024.xhtml"/>
+    <itemref idref="BLM025.xhtml"/>
+    <itemref idref="BLM026.xhtml"/>
+    <itemref idref="BLM027.xhtml"/>
+    <itemref idref="BLM028.xhtml"/>
+    <itemref idref="BLM029.xhtml"/>
+    <itemref idref="BLM030.xhtml"/>
+    <itemref idref="BLM031.xhtml"/>
+    <itemref idref="BLM032.xhtml"/>
+    <itemref idref="BLM033.xhtml"/>
+    <itemref idref="BLM034.xhtml"/>
+    <itemref idref="x4._KISIM.xhtml"/>
+    <itemref idref="BLM035.xhtml"/>
+    <itemref idref="BLM036.xhtml"/>
+    <itemref idref="BLM037.xhtml"/>
+    <itemref idref="BLM038.xhtml"/>
+    <itemref idref="BLM039.xhtml"/>
+    <itemref idref="BLM040.xhtml"/>
+    <itemref idref="BLM041.xhtml"/>
+    <itemref idref="BLM042.xhtml"/>
+    <itemref idref="BLM043.xhtml"/>
+    <itemref idref="BLM044.xhtml"/>
+    <itemref idref="x5._KISIM.xhtml"/>
+    <itemref idref="BLM045.xhtml"/>
+    <itemref idref="BLM046.xhtml"/>
+    <itemref idref="BLM047.xhtml"/>
+    <itemref idref="BLM048.xhtml"/>
+    <itemref idref="BLM049.xhtml"/>
+    <itemref idref="BLM050.xhtml"/>
+    <itemref idref="BLM051.xhtml"/>
+    <itemref idref="BLM052.xhtml"/>
+    <itemref idref="BLM053.xhtml"/>
+    <itemref idref="BLM054.xhtml"/>
+    <itemref idref="Notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/kapak.xhtml"/>
+  </guide>
+</package>
