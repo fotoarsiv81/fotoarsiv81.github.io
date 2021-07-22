@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Christie, Agatha">Agatha Christie</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:d64be92b-4c7b-48fc-b49b-8ce503163a44</dc:identifier>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p style="background-color: transparent; "&gt;Kulakları sağır eden bir gürültü ve canhıraş bir çığlık, Lee Ailesi’nin Noel yemeğini berbat eder. Üst katta zalim Simeon Lee boğazı kesilerek öldürülmüştür. Köyde bir arkadaşının evinde Noel tatilini geçirmekte olan Hercule Poirot olaya el koyunca evde yas havası yerine kuşku rüzgarlarının estiğini fark eder. Herkesin yaşlı adamdan nefret etmesi için kendine göre bir nedeni vardır.&lt;/p&gt;&lt;div class="social" style="text-align: left; text-indent: 0px; float: left; width: 500px; margin-top: 20px; margin-bottom: 20px; background-color: transparent; "&gt;&lt;div class="fb-like fb_iframe_widget" data-href="http://www.altinkitaplar.com.tr/noelde-cinayet/" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=&amp;amp;href=http%3A%2F%2Fwww.altinkitaplar.com.tr%2Fnoelde-cinayet%2F&amp;amp;layout=button_count&amp;amp;locale=en_US&amp;amp;sdk=joey&amp;amp;send=false&amp;amp;show_faces=false&amp;amp;width=90" style="display: inline-block; position: relative; margin-top: 0px; margin-right: 10px; float: left; "&gt;&lt;span style="display: inline-block; position: relative; text-align: justify; vertical-align: bottom; width: 76px; height: 20px;"&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2014-03-11T22:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Noel'de Cinayet" name="calibre:title_sort"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="noelde-cinayet-350.jpeg"/>
+    <meta name="calibre:series" content="Hercule Poirot"/>
+    <meta name="calibre:series_index" content="20.0"/>
+  <dc:title>Noel'de Cinayet</dc:title>
+<dc:subject>Dedektif</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Macera</dc:subject>
+<dc:subject>Gizem</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">78116c28-7428-47e3-be1e-a55261f5e6d0</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754052718</dc:identifier>
+<dc:identifier opf:scheme="GOODREAD">10414937</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/stil.css" id="stil.css" media-type="text/css"/>
+    <item href="Images/noelde-cinayet-350.jpeg" id="noelde-cinayet-350.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

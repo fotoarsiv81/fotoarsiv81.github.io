@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Agatha Christie</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>C8742D9853F028BC6CE6343A84946329</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>ADBC20A43E8BD354306DAC571EC18140</string>
+		<key>publisher-unique-id</key>
+		<string>45e89754-357d-422e-9f76-2a8fa8cc4d8e</string>
+		<key>unique-id</key>
+		<integer>271109617029894825</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Nilde Ölüm</string>
+	<key>playlistName</key>
+	<string>Nilde Ölüm</string>
+	<key>releaseDate</key>
+	<string>2011-10-16T10:02:21+00:00</string>
+	<key>sort-artist</key>
+	<string>Christie, Agatha</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

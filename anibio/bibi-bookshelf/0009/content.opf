@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta name="calibre:title_sort" content="Sessizliğin İlk Sesi"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:title>Sessizliğin İlk Sesi</dc:title>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9a6a4b44-1e33-42fe-b54f-96229c07280c</dc:identifier>
+    <dc:identifier opf:scheme="calibre">9a6a4b44-1e33-42fe-b54f-96229c07280c</dc:identifier>
+    <dc:language>tr</dc:language>
+    <meta name="cover" content="cover"/>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;"Bir isteğiniz?" diye soruyor. Sanki bütün dünya insanlarının bildiği bir dil var da, o dilde soruyor bunu. "Başka bir emriniz?" diyor ardından. Bu iki soru gümüşsü yeşillikteki bir ormanın sessizliğinde nerden çıktığı belirsiz bir acayip kuşun ötüvermesi gibi geliyor ona. Ağaoğlu'nun sessizliğin sesini yükselten ilk sesini duyduk duymadık demeyin.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;-Füsun Akatlı-&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Ağaoğlu'nun sahte değerlere, yanlış kalıplaşmış, kemikleşmiş insan tanımlarına karşı savaş açtığını Sessizliğin İlk Sesi tartışmasız biçimde ortaya koyuyor. Tartışmaya yanaşmadığımız, hep tabu saydığımız bizle sarmaş dolaş yaşayan engelleri, toplumun dikenleşmiş pürüzlerini sıralıyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;-Doğan Hızlan-&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:creator opf:file-as="Ağaoğlu, Adalet" opf:role="aut">Adalet Ağaoğlu</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (2.40.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:timestamp" content="2016-01-23T18:20:22.475000+00:00"/>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-1.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main-2.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="main-3.png" id="id3" media-type="image/png"/>
+    <item href="main-3.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="fbe309a8-5981-48e1-8c4e-e80b7659653f" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Yunus Emre Hayatı ve Bütün Şiirleri</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/yunus_split_004_split_000.html" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>RİSÂLET’ÜN NUSHİYYE</text>
+      </navLabel>
+      <content src="Text/yunus_split_005.html" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ŞİİRLER</text>
+      </navLabel>
+      <content src="Text/yunus_split_010.html" />
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/yunus_split_011.html" />
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/yunus_split_041_split_000.html" />
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/yunus_split_057_split_000.html" />
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/yunus_split_117_split_000.html" />
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/yunus_split_178_split_000.html" />
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/yunus_split_186_split_000.html" />
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/yunus_split_191_split_000.html" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/yunus_split_203_split_000.html" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/yunus_split_276_split_000.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>AÇIKLAMA</text>
+      </navLabel>
+      <content src="Text/yunus_split_321.html" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>SÖZLÜK</text>
+      </navLabel>
+      <content src="Text/yunus_split_322.html" />
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>A</text>
+        </navLabel>
+        <content src="Text/yunus_split_323.html" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>B</text>
+        </navLabel>
+        <content src="Text/yunus_split_324.html" />
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>C, Ç</text>
+        </navLabel>
+        <content src="Text/yunus_split_325.html" />
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>D</text>
+        </navLabel>
+        <content src="Text/yunus_split_326.html" />
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>E</text>
+        </navLabel>
+        <content src="Text/yunus_split_327.html" />
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>F</text>
+        </navLabel>
+        <content src="Text/yunus_split_328.html" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>G</text>
+        </navLabel>
+        <content src="Text/yunus_split_329.html" />
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>H</text>
+        </navLabel>
+        <content src="Text/yunus_split_330.html" />
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>I - İ</text>
+        </navLabel>
+        <content src="Text/yunus_split_331.html" />
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>J</text>
+        </navLabel>
+        <content src="Text/yunus_split_332.html" />
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>K</text>
+        </navLabel>
+        <content src="Text/yunus_split_333.html" />
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>L</text>
+        </navLabel>
+        <content src="Text/yunus_split_334.html" />
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>M</text>
+        </navLabel>
+        <content src="Text/yunus_split_335.html" />
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>N</text>
+        </navLabel>
+        <content src="Text/yunus_split_336.html" />
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>O</text>
+        </navLabel>
+        <content src="Text/yunus_split_337.html" />
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Ö</text>
+        </navLabel>
+        <content src="Text/yunus_split_338.html" />
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>P</text>
+        </navLabel>
+        <content src="Text/yunus_split_339.html" />
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>R</text>
+        </navLabel>
+        <content src="Text/yunus_split_340.html" />
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>S</text>
+        </navLabel>
+        <content src="Text/yunus_split_341.html" />
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Ş</text>
+        </navLabel>
+        <content src="Text/yunus_split_342.html" />
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>T</text>
+        </navLabel>
+        <content src="Text/yunus_split_343.html" />
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>U</text>
+        </navLabel>
+        <content src="Text/yunus_split_344.html" />
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Ü</text>
+        </navLabel>
+        <content src="Text/yunus_split_345.html" />
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/yunus_split_346.html" />
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Y</text>
+        </navLabel>
+        <content src="Text/yunus_split_347.html" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Z</text>
+        </navLabel>
+        <content src="Text/yunus_split_348.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>AÇIKLAMADA GEÇEN MADDELERİN</text>
+      </navLabel>
+      <content src="Text/yunus_split_349_split_000.html" />
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="Text/yunus_split_349_split_000.html#sigil_toc_id_1" />
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>A</text>
+        </navLabel>
+        <content src="Text/yunus_split_350.html" />
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>B</text>
+        </navLabel>
+        <content src="Text/yunus_split_351.html" />
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>C</text>
+        </navLabel>
+        <content src="Text/yunus_split_352.html" />
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>D</text>
+        </navLabel>
+        <content src="Text/yunus_split_353.html" />
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>E</text>
+        </navLabel>
+        <content src="Text/yunus_split_354.html" />
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>F</text>
+        </navLabel>
+        <content src="Text/yunus_split_355.html" />
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>G</text>
+        </navLabel>
+        <content src="Text/yunus_split_356.html" />
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>H</text>
+        </navLabel>
+        <content src="Text/yunus_split_357.html" />
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>İ</text>
+        </navLabel>
+        <content src="Text/yunus_split_358.html" />
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>K</text>
+        </navLabel>
+        <content src="Text/yunus_split_359.html" />
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>L</text>
+        </navLabel>
+        <content src="Text/yunus_split_360.html" />
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>M</text>
+        </navLabel>
+        <content src="Text/yunus_split_361.html" />
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>N</text>
+        </navLabel>
+        <content src="Text/yunus_split_362.html" />
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Ö</text>
+        </navLabel>
+        <content src="Text/yunus_split_363.html" />
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>P</text>
+        </navLabel>
+        <content src="Text/yunus_split_364.html" />
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>R</text>
+        </navLabel>
+        <content src="Text/yunus_split_365.html" />
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>S</text>
+        </navLabel>
+        <content src="Text/yunus_split_366.html" />
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Ş</text>
+        </navLabel>
+        <content src="Text/yunus_split_367.html" />
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>T</text>
+        </navLabel>
+        <content src="Text/yunus_split_368.html" />
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>U</text>
+        </navLabel>
+        <content src="Text/yunus_split_369.html" />
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Ü</text>
+        </navLabel>
+        <content src="Text/yunus_split_370.html" />
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/yunus_split_371.html" />
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Y</text>
+        </navLabel>
+        <content src="Text/yunus_split_372.html" />
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Z</text>
+        </navLabel>
+        <content src="Text/yunus_split_373.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>BİBLİYOGRAFYA</text>
+      </navLabel>
+      <content src="Text/yunus_split_374.html" />
+    </navPoint>
+  </navMap>
+</ncx>

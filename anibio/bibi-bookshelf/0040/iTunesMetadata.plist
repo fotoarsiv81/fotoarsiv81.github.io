@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Agatha Christie</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>07F992814514DE8E3EB3CA6E89E2EFD5</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>F70FDF186E9EF645F63D70D541947542</string>
+		<key>publisher-unique-id</key>
+		<string>38ed5766-b614-4399-ae2b-3ca97a24d87a</string>
+		<key>unique-id</key>
+		<integer>-4421919877826723723</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Şampanyadaki Zehir</string>
+	<key>playlistName</key>
+	<string>Şampanyadaki Zehir</string>
+	<key>releaseDate</key>
+	<string>2011-10-16T10:02:32+00:00</string>
+	<key>sort-artist</key>
+	<string>Christie, Agatha</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

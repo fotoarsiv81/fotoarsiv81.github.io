@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="D'Hagé, Adrian">Adrian D'Hagé</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">705913bc-504a-4143-b4a7-65f16d4bdb8a</dc:identifier>
+    <dc:date>2005-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>İnkılâp Kitabevi</dc:publisher>
+    <dc:date opf:event="modification">2014-01-21</dc:date>
+    <dc:description>&lt;p&gt;Kutsal çöldeki bir mağaranın duvarından, kum taneleri dökülmeye devam etmektedir. Uygarlığın sonunu getirecek olan geriye sayım başlamıştır. &lt;br /&gt;Ölü Deniz Parşömenleri'nden biri, Kumran yakınlarında bir mağarada iki bin yıl kadar gözlerden uzak bir şekilde bekler. Omega Parşömeni, hem insanlığı tehdit eden korkunç bir kehanet, hem de Vatikan'ın en çok korktuğu şifreli sayı ile ilgili uyarılar taşımaktadır. Papa'nın sağlığı giderek bozulmakta, Başbakan Kardinal olan acımasız Lorenzo Petroni, Peter'in Anahtarları'nı elinde tutmaktadır. Onu korkutan üç şey vardır: Kardinal Giovanni Donelli'nin, Vatikan Bankası ile ilgili başlattığı soruşturma; gazeteci Tom Schweiker'in Petroni'nin geçmişini araştırması ve en tehlikelisi de, çok zeki bir araştırmacı ve arkeolojik DNA konusunda dünyanın en yetkin bilim insanlarından biri olan Dr. Allegra Bassetti'nin, savaşın altüst ettiği Kudüs'te Omega Parşömeni'nin parçalarını bir araya getirmeye çalışmasıdır. Donelli, Schweiker ve Bassetti yazmanın peşindeki bu nefes kesen yarış sırasında kendi hayatları için de mücadele ederken, Vatikan bu kehanetin gizli kalması için ne gerekiyorsa yapmaktan çekinmeyecektir. &lt;br /&gt;Virginia Langley'deki CIA karargâhında ise Mike McKinnon, kayıp nükleer bavul bombalarını araştırmakta ve bu bombaların Omega Parşömeni'ndeki kehanetlerle ilgili olduğundan kuşkulanmaktadır.&lt;/p&gt;</dc:description>
+    <meta content="Omega Parşömeni" name="calibre:title_sort"/>
+    <meta content="2013-06-27T19:14:38+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{&quot;Adrian D'Hagé&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="8.0" name="calibre:rating"/>
+  <dc:contributor opf:role="bkp">calibre (1.21.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:title>Omega Parşömeni</dc:title>
+<dc:subject>Gerilim</dc:subject>
+<dc:subject>Roman</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">5b08affb-667c-4bd2-8e35-cc83e4c04278</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789751024541</dc:identifier>
+<dc:identifier opf:scheme="GOODREADS">17313396</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_000.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

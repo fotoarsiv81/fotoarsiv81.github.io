@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="c84266d6-7034-4519-a135-453de12a95d9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ölü Ruhlar</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Birinci Muvman</text>
+      </navLabel>
+      <content src="Text/index_split_003.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Bir</text>
+        </navLabel>
+        <content src="Text/index_split_003.html#toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İkinci Muvman</text>
+      </navLabel>
+      <content src="Text/index_split_003.html#toc_id_3"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>İki</text>
+        </navLabel>
+        <content src="Text/index_split_003.html#toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Üç</text>
+        </navLabel>
+        <content src="Text/index_split_003.html#toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Dört</text>
+        </navLabel>
+        <content src="Text/index_split_003.html#toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Beş</text>
+        </navLabel>
+        <content src="Text/index_split_004.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Altı</text>
+        </navLabel>
+        <content src="Text/index_split_004.html#toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Yedi</text>
+        </navLabel>
+        <content src="Text/index_split_004.html#toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Sekiz</text>
+        </navLabel>
+        <content src="Text/index_split_004.html#toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Dokuz</text>
+        </navLabel>
+        <content src="Text/index_split_004.html#toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>On</text>
+        </navLabel>
+        <content src="Text/index_split_004.html#toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>On bir</text>
+        </navLabel>
+        <content src="Text/index_split_005.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>On iki</text>
+        </navLabel>
+        <content src="Text/index_split_005.html#toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>On üç</text>
+        </navLabel>
+        <content src="Text/index_split_005.html#toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>On dört</text>
+        </navLabel>
+        <content src="Text/index_split_005.html#toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>On beş</text>
+        </navLabel>
+        <content src="Text/index_split_005.html#toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>On altı</text>
+        </navLabel>
+        <content src="Text/index_split_005.html#toc_id_18"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Üçüncü Muvman</text>
+      </navLabel>
+      <content src="Text/index_split_005.html#toc_id_19"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>On Yedi</text>
+        </navLabel>
+        <content src="Text/index_split_006.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Dördüncü Muvman</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#toc_id_21"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>On sekiz</text>
+        </navLabel>
+        <content src="Text/index_split_006.html#toc_id_22"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Birinci Muvman</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#toc_id_23"/>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Bir</text>
+        </navLabel>
+        <content src="Text/index_split_006.html#toc_id_24"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Notlar</text>
+      </navLabel>
+      <content src="Text/index_split_006.html#toc_id_25"/>
+    </navPoint>
+  </navMap>
+</ncx>

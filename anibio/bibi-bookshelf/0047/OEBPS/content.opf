@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Tanpınar, Ahmet Hamdi">Ahmet Hamdi Tanpınar</dc:creator>
+<meta content="Beş Şehir" name="calibre:title_sort"/>
+    <meta content="2014-04-05T01:14:15.432000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2001-03-31T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">00a85cbd-af53-43f4-a49f-34f1485dc4e1</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-04-05</dc:date>
+  <dc:title>Beş Şehir</dc:title>
+<dc:publisher>Dergah Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Etimoloji</dc:subject>
+<dc:subject>Coğrafya</dc:subject>
+<dc:subject>Dil</dc:subject>
+<dc:description>&lt;p&gt;Beş Şehir'in asıl konusu hayatımızda kaybolan şeylerin ardından duyulan üzüntü ile yeniye karşı beslenen iştiyaktır. İlk bakışta birbiriyle çatışır görünen bu iki duyguyu sevgi kelimesinde birleştirebiliriz. Bu sevginin kendisine çerçeve olarak seçtiği şehirler, benim hayatımın tesadüfleridir. Bu itibarla onların arkasında kendi insanımızı ve hayatımızı, vatanın manevi çehresi olan kültürümüzü görmek daha da doğru olur. Bizden evvelki nesiller gibi bizim neslimiz de, bu değerlere, şimdi medeniyet değişmesi dediğimiz, bütün yaşama ümitlerimizin bağlı olduğu uzun ve sarsıcı tecrübenin bizi getirdiği sert dönemeçlerden baktı. Yüzelli senedir hep onun uçurumlarına sarktık. Onun dirseklerinden arkada bıraktığımız yolu ve uzakta zahmetimize gülen vaitli manzarayı seyrettik.&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ahmet Hamdi Tanpınar&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">fdedaf4d-f2d0-41bc-86d6-b5cb022cecf0</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789759952440</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Ahmet Hamdi Tanpinar - Bes Sehir_split_000.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/Ahmet Hamdi Tanpinar - Bes Sehir_split_001.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/Ahmet Hamdi Tanpinar - Bes Sehir_split_002.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/Ahmet Hamdi Tanpinar - Bes Sehir_split_003.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/Ahmet Hamdi Tanpinar - Bes Sehir_split_004.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Ahmet Hamdi Tanpinar - Bes Sehir_split_005.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

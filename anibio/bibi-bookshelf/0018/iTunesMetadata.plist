@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Agatha Christie</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>A95435F486559C61FD165900D3C862C7</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>5D78417C058F3E43979C8A1907C71904</string>
+		<key>publisher-unique-id</key>
+		<string>a322d870-8ca2-4669-9909-8a421e4faec1</string>
+		<key>unique-id</key>
+		<integer>566000708031125978</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Beklenmeyen Misafir</string>
+	<key>playlistName</key>
+	<string>Beklenmeyen Misafir</string>
+	<key>releaseDate</key>
+	<string>2011-10-16T10:01:17+00:00</string>
+	<key>sort-artist</key>
+	<string>Christie, Agatha</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="Casares, Adolfo Bioy" opf:role="aut">Adolfo Bioy Casares</dc:creator>
+    <dc:publisher>Helikopter Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Borges, Morel'in Buluşu için yazdığı önsözde diyor ki: “Entrikanın ayrıntılarını yazarıyla tartıştım, onu yeniden okudum; onu kusursuz olarak nitelemenin bir yanlışlık ya da abartma olacağını sanmıyorum.” Ben de sanmıyorum. Pek iyi de, nasıl bir roman ki bu 1940'da yayınlandığından beri ıcık cıcık incelense de hâlâ tasvir edilemiyor, tanımlanamıyor? Neden Arjantin ve dünya edebiyatının en önemli kitapları arasında yer alıyor? Bu soruya cevabım yok, ama benim için niye önemli olduğunu biliyorum: Bir kere, hayal var. Macera var. Gerçekliğin sınırlarında gezintiye çıkmak var. Daha sonra boş olmadığı anlaşılacak bir ada ve o adaya sığınan bir kaçak var (ne çok kullanılmıştır değil mi bu “boş ada” konusu romanlarda!). Sonra gizemli bir kadın belirecek, adadaki kaçağın dünyası değişecek. Uzaktan âşık olacak: Umutsuzca kadını cezbetmeye çalışacak, kaybedecek onu, arayacak... Öyle bir an gelecek ki, arzunun bu karanlık nesnesinin var olup olmadığından bile emin olamayacak.&lt;/p&gt;</dc:description>
+    <dc:date>2008-10-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">96d27d04-469b-48dc-b4a2-e8fc8c4e729c</dc:identifier>
+    <meta content="Morel'in Buluşu" name="calibre:title_sort" />
+    <meta content="6.0" name="calibre:rating" />
+    <meta content="2014-05-21T22:18:18+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="cover" />
+    <meta content="{&quot;Adolfo Bioy Casares&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date opf:event="modification">2014-08-25</dc:date>
+    <dc:title>Morel'in Buluşu</dc:title>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Macera</dc:subject>
+    <meta content="{}" name="calibre:user_categories" />
+    <dc:language>tr</dc:language>
+    <dc:identifier opf:scheme="calibre">72695890-b958-462c-94e2-94731ae80647</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">W_nlPgAACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9786055819026</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_000.html" id="id218" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_001.html" id="id217" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_002.html" id="id216" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_003.html" id="id215" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_004.html" id="id214" media-type="application/xhtml+xml" />
+    <item href="Text/index_split_005.html" id="id213" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="id218" />
+    <itemref idref="id217" />
+    <itemref idref="id216" />
+    <itemref idref="id215" />
+    <itemref idref="id214" />
+    <itemref idref="id213" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

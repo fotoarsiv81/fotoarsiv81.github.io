@@ -1,0 +1,55 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Christie, Agatha">Agatha Christie</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">717c5b47-4e99-4ea4-8274-044439b8dfc7</dc:identifier>
+    <dc:date>2006-05-29T21:00:00+00:00</dc:date>
+    <meta content="Ölüm Büyüsü" name="calibre:title_sort"/>
+    <meta content="2011-07-25T15:32:46+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Ölüm Büyüsü</dc:title>
+<dc:publisher>Altın Kitaplar</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Polisiye</dc:subject>
+<dc:subject>Dedektif</dc:subject>
+<dc:description>&lt;p&gt;1970'li yıllardan beri baskısı olmayan ve en çok aranan Agatha Christie kitaplarının başında yer alan bir polisiye klasiği
+
+Yaşlı bir din adamı öldürülmüştür. Katil telaş içinde kurbanın ceplerini araştırır, ama aradığı şeyi Peder Gorman'ın yırtık cüppesinde bulamaz.
+
+Peki katilin aradığı nedir? Ve birkaç saat önce ölüm döşeğinde yatan kadın, pedere neler itiraf etmiştir?
+
+Kır At adlı halka açık evi yöneten ve kara büyü yaptıkları söylenen üç kadın bu soruların yanıtlarını verebilirlerdi. Belki de çözüm insan tabiatının karanlık yönlerinde yatıyordu...
+
+"Kara büyü ile işlenen cinayetler... Dâhiyane ve çok eğlendirici."
+Evening Standard&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Agatha Christie&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">c1a42872-205a-4ca2-b8c9-d1aee9f2689d</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789752107373</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_001.html" id="index_split_001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="index_split_001.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

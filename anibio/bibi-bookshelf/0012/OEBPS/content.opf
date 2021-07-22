@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Phillips, Adam">Adam Phillips</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">d774d673-4acb-4cff-8776-ab46a3ef7493</dc:identifier>
+    <dc:date>2008-05-12T21:00:00+00:00</dc:date>
+    <meta content="Tekeşlilik" name="calibre:title_sort"/>
+    <meta content="2014-05-30T11:03:36.715000+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+  <dc:title>Tekeşlilik</dc:title>
+<dc:publisher>Metis Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Psikoloji</dc:subject>
+<dc:subject>Cinsellik</dc:subject>
+<dc:subject>İlişkiler</dc:subject>
+<dc:subject>Sosyoloji</dc:subject>
+<dc:description>&lt;p&gt;İki kişiden ancak arkadaş olur; çift üç kişiden oluşur." Edebiyatımızı, şarkılarımızı, felsefemizi ve hatta politik düşüncemizi belirleyen temel kavramların hepsi aslında tekeşlilik tarafından içeriliyor: Sevgi, ihanet, sadakat, saygı, kıskançlık, bağlılık, arzu, yalan, kural, ev, ceza, özgürlük, ahlak, merak, görev, suç, özgürlük. Phillips ciddi, psikanalitik bir yaklaşımla alaycı, denemeci bir yaklaşımı birleştiriyor tekeşliliğe bakarken. "Dışlama" üzerine kurulmuş gibi görünen bu yapının aslında daima kendisinden başka şeyleri içereceğini, sadakatin ihanete, bağlılığın sadakatsizliğe durmadan dönüşeceğini, ve tanımı gereği "iki kişilik" bir kurum olan tekeşliliğin ebedi bir "üçüncü" olmadan yapamayacağını söylüyor.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Adam Phillips&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">d774d673-4acb-4cff-8776-ab46a3ef7493</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789753421591</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Tekeslilik_split_001.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Tekeslilik_split_000.html" id="Tekeslilik_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Tekeslilik_split_000.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="id12"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

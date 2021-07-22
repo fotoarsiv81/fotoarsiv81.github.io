@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>I. BÖLÜM-SURİYE’NİN DÜNÜ</text>
+			</navLabel>
+			<content src="Text/4_split6.html#toc_marker-1"/>
+			<navPoint id="navpoint2" playOrder="2">
+				<navLabel>
+					<text>A. 1920’LERE KADAR SURİYE</text>
+				</navLabel>
+				<content src="Text/4_split6.html#toc_marker-1-1"/>
+			</navPoint>
+			<navPoint id="navpoint3" playOrder="3">
+				<navLabel>
+					<text>B. 1920 – 1970 ARASI SURİYE (Darbeler Dönemi) </text>
+				</navLabel>
+				<content src="Text/4_split6.html#toc_marker-1-2"/>
+			</navPoint>
+			<navPoint id="navpoint4" playOrder="4">
+				<navLabel>
+					<text>C. HAFIZ ESAD DÖNEMİ</text>
+				</navLabel>
+				<content src="Text/4_split6.html#toc_marker-1-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>II. BÖLÜM-GÜNÜMÜZ SURİYESİ</text>
+			</navLabel>
+			<content src="Text/4_split6.html#toc_marker-2"/>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>A. BEŞAR ESAD DÖNEMİ</text>
+				</navLabel>
+				<content src="Text/4_split6.html#toc_marker-2-1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>III. BÖLÜM-SURİYE’NİN MUHTEMEL GELECEĞİ</text>
+			</navLabel>
+			<content src="Text/4_split1.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>EKLER</text>
+			</navLabel>
+			<content src="Text/4_split1.html#toc_marker-4"/>
+			<navPoint id="navpoint9" playOrder="9">
+				<navLabel>
+					<text>EK-A</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-4-1"/>
+			</navPoint>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>EK-B</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-4-2"/>
+			</navPoint>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>EK-C</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-4-3"/>
+			</navPoint>
+			<navPoint id="navpoint12" playOrder="12">
+				<navLabel>
+					<text>EK-Ç</text>
+				</navLabel>
+				<content src="Text/4_split1.html#toc_marker-4-4"/>
+			</navPoint>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>EK-D</text>
+				</navLabel>
+				<content src="Text/4_split5.html#toc_marker-4-5"/>
+			</navPoint>
+			<navPoint id="navpoint14" playOrder="14">
+				<navLabel>
+					<text>EK-E</text>
+				</navLabel>
+				<content src="Text/4_split5.html#toc_marker-4-6"/>
+			</navPoint>
+			<navPoint id="navpoint15" playOrder="15">
+				<navLabel>
+					<text>EK-F</text>
+				</navLabel>
+				<content src="Text/4_split5.html#toc_marker-4-7"/>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

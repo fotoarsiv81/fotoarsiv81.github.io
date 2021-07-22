@@ -1,0 +1,28 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-style: italic;
+    font-family: "amasis", serif;
+    font-weight: normal;
+
+    }
+@font-face {
+    font-style: normal;
+    font-family: "amasis", serif;
+    font-weight: normal;
+
+    }
+@font-face {
+    font-style: italic;
+    font-family: "amasis", serif;
+    font-weight: bold;
+  
+    }
+@font-face {
+    font-style: normal;
+    font-family: "amasis", serif;
+    font-weight: bold;
+  
+    }

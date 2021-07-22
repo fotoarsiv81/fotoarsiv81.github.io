@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+<head>
+<meta content="AWP-B40E24AA-4D4E-4A85-922B-9C4A934EAB3E" name="dtb:uid"/>
+<meta content="1" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Ruh Üşümesi</text>
+</docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel>
+<text>Title page</text>
+</navLabel>
+<content src="Text/001.html"/>
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel>
+<text>I Karşılaşma</text>
+</navLabel>
+<content src="Text/005.html"/>
+</navPoint>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel>
+<text>II Tınılar</text>
+</navLabel>
+<content src="Text/006.html#ncx95"/>
+</navPoint>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel>
+<text>III Dokunuşlar</text>
+</navLabel>
+<content src="Text/007.html#ncx169"/>
+</navPoint>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel>
+<text>IV Gezintiler</text>
+</navLabel>
+<content src="Text/008.html#ncx221"/>
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel>
+<text>V Geçiş</text>
+</navLabel>
+<content src="Text/009.html#ncx339"/>
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel>
+<text>VI Deniz Mağaralarında Uğultular</text>
+</navLabel>
+<content src="Text/010.html#ncx471"/>
+</navPoint>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel>
+<text>VII Çapraz Dalışlar</text>
+</navLabel>
+<content src="Text/011.html#ncx656"/>
+</navPoint>
+<navPoint id="navpoint-9" playOrder="9">
+<navLabel>
+<text>VIII Ayrılış ya da Buluşma</text>
+</navLabel>
+<content src="Text/012.html#ncx818"/>
+</navPoint>
+<navPoint id="navpoint-10" playOrder="10">
+<navLabel>
+<text>IX Epilog Incompiuta:</text>
+</navLabel>
+<content src="Text/013.html#ncx911"/>
+</navPoint>
+</navMap>
+</ncx>

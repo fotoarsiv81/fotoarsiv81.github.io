@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Paksoy, Ahmet">Ahmet Paksoy</dc:creator>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2013-01-10T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e6838d82-0ef7-4027-ac01-55a102668eec</dc:identifier>
+    <dc:publisher>Alfa</dc:publisher>
+    <dc:date opf:event="modification">2015-01-11</dc:date>
+    <dc:description>&lt;p&gt;Bir zamanlar Türkiye'nin en önemli kamu kurumlardan biri olan İDO'nun Genel Müdürü Dr. Ahmet Paksoy'un başarıya uzanan hikâyesi. Üniversitede bir akademisyenken, bir gün aniden İDO genel müdürlüğüne atanan Paksoy, denizcilik alanında dünyanın en büyük filosuna sahip işletme olmayı nasıl başardıklarını anlattı.
+
+Kurumun başına ilk geldiğinde neler yaptı? Üniversite ile iş dünyasının hangi özgün yönlerini bir araya getirdi? Bazı konulardaki tecrübesizliğini nasıl aştı? Kamuda ne gibi eksiklikler gördü, bunların üzerine nasıl gitti? Nasıl bir yönetim tarzını benimsedi? Krizleri nasıl yönetti? Bir kamu kurumunu özel sektör ruhuyla nasıl çalıştırdı? Kurumu ve kendini geliştirmek için neler yaptı? Neleri daha iyi yapabilirdi? Yaşadıklarından ne gibi yöneticilik dersleri çıkardı? İşletmenin kamudan özel sektöre geçiş sürecinde neler yaptı?
+
+Bu kitap, yönetim pratiğine ilgi duyan profesyoneller kadar, büyük hedefleri olan gençler için bir başucu kılavuzu.
+(Tanıtım Bülteninden)&lt;/p&gt;</dc:description>
+    <meta name="cover" content="cover"/>
+    <meta content="Tecrübesizliğin Şansındır" name="calibre:title_sort"/>
+    <meta content="2015-01-11T18:01:04.710000+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ahmet Paksoy&quot;: &quot;&quot;}"/>
+  <dc:title>Tecrübesizliğin Şansındır</dc:title>
+<dc:subject>Biyografi</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">cfe61872-c055-47e6-818a-8ff2988eac90</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786051067520</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/index.html" id="index.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.html" id="Section0004.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.html" id="Section0005.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.html" id="Section0006.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.html" id="Section0007.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.html" id="Section0008.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.html" id="Section0009.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.html" id="Section0010.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.html" id="Section0011.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0012.html" id="Section0012.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0013.html" id="Section0013.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0014.html" id="Section0014.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0015.html" id="Section0015.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0016.html" id="Section0016.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0017.html" id="Section0017.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0018.html" id="Section0018.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="index.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="Section0004.html"/>
+    <itemref idref="Section0005.html"/>
+    <itemref idref="Section0006.html"/>
+    <itemref idref="Section0007.html"/>
+    <itemref idref="Section0008.html"/>
+    <itemref idref="Section0009.html"/>
+    <itemref idref="Section0010.html"/>
+    <itemref idref="Section0011.html"/>
+    <itemref idref="Section0012.html"/>
+    <itemref idref="Section0013.html"/>
+    <itemref idref="Section0014.html"/>
+    <itemref idref="Section0015.html"/>
+    <itemref idref="Section0016.html"/>
+    <itemref idref="Section0017.html"/>
+    <itemref idref="Section0018.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

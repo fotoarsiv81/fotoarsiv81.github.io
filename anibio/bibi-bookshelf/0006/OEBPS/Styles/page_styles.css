@@ -1,0 +1,52 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-style: normal;
+    font-family: "Liberation", serif, sans-serif;
+    font-weight: normal;
+
+    }
+@font-face {
+    font-style: italic;
+    font-family: "Liberation", serif, sans-serif;
+    font-weight: normal;
+  
+    }
+@font-face {
+    font-style: bold;
+    font-family: "Liberation", serif, sans-serif;
+    font-weight: bold;
+
+    }
+@font-face {
+    font-style: italic;
+    font-family: "Liberation", serif, sans-serif;
+    font-weight: bold;
+  
+    }
+@font-face {
+    font-style: normal;
+    font-family: "Arial", sans-serif;
+    font-weight: normal;
+   
+    }
+@font-face {
+    font-style: italic;
+    font-family: "Arial", sans-serif;
+    font-weight: normal;
+    
+    }
+@font-face {
+    font-style: normal;
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+
+    }
+@font-face {
+    font-style: italic;
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+ 
+    }

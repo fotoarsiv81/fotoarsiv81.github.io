@@ -1,0 +1,913 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Gölpınarlı, Abdülbaki">Abdülbaki Gölpınarlı</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">fbe309a8-5981-48e1-8c4e-e80b7659653f</dc:identifier>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>2006-03-22T22:00:00+00:00</dc:date>
+    <meta content="Yunus Emre Hayatı ve Bütün Şiirleri" name="calibre:title_sort"/>
+    <meta content="2013-04-30T16:42:38+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Yunus Emre Hayatı ve Bütün Şiirleri</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Şiir</dc:subject>
+<dc:subject>Yunus Emre</dc:subject>
+<dc:subject>Biyografi</dc:subject>
+<dc:subject>Orjinal</dc:subject>
+<dc:description>&lt;p&gt;Yunus Emre Hayatın ve halkın dili ile gür bir
+lirizmi kaynaştırarak tasavvuf şiirinin kurucularından
+biri olmayı başaran unutulmaz bir
+13. yüzyıl sonu - 14. yüzyıl başı ozanıdır.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Abdülbaki Gölpınarlı&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">da2362b6-4771-485c-a645-903dcd3d8db0</dc:identifier>
+<dc:identifier opf:scheme="ISBN">2789785878063</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/isbank-logo.jpg" id="added" media-type="image/jpeg"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_000_split_000.html" id="html4122" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_000_split_001.html" id="html4121" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_001.html" id="html411" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_002_split_000.html" id="html4103" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_002_split_001.html" id="html4102" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_002_split_002.html" id="html4101" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_003.html" id="html409" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_004_split_000.html" id="html4082" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_004_split_001.html" id="html4081" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_005.html" id="html407" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_006.html" id="html406" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_007.html" id="html405" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_008.html" id="html404" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_009_split_000.html" id="html4035" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_009_split_001.html" id="html4034" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_009_split_002.html" id="html4033" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_009_split_003.html" id="html4032" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_009_split_004.html" id="html4031" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_010.html" id="html402" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_011.html" id="html401" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_012.html" id="html400" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_013.html" id="html399" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_014.html" id="html398" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_015.html" id="html397" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_016.html" id="html396" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_017.html" id="html395" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_018.html" id="html394" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_019.html" id="html393" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_020.html" id="html392" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_021.html" id="html391" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_022.html" id="html390" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_023.html" id="html389" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_024.html" id="html388" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_025.html" id="html387" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_026.html" id="html386" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_027.html" id="html385" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_028.html" id="html384" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_029.html" id="html383" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_030.html" id="html382" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_031.html" id="html381" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_032.html" id="html380" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_033.html" id="html379" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_034.html" id="html378" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_035.html" id="html377" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_036.html" id="html376" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_037.html" id="html375" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_038.html" id="html374" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_039.html" id="html373" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_040.html" id="html372" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_041_split_000.html" id="html3713" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_041_split_001.html" id="html3712" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_041_split_002.html" id="html3711" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_042.html" id="html370" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_043.html" id="html369" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_044.html" id="html368" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_045.html" id="html367" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_046.html" id="html366" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_047.html" id="html365" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_048.html" id="html364" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_049.html" id="html363" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_050.html" id="html362" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_051.html" id="html361" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_052.html" id="html360" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_053.html" id="html359" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_054.html" id="html358" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_055.html" id="html357" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_056.html" id="html356" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_057_split_000.html" id="html3552" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_057_split_001.html" id="html3551" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_058.html" id="html354" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_059.html" id="html353" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_060.html" id="html352" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_061.html" id="html351" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_062.html" id="html350" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_063.html" id="html349" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_064.html" id="html348" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_065.html" id="html347" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_066.html" id="html346" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_067.html" id="html345" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_068.html" id="html344" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_069.html" id="html343" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_070.html" id="html342" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_071.html" id="html341" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_072.html" id="html340" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_073.html" id="html339" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_074.html" id="html338" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_075.html" id="html337" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_076.html" id="html336" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_077.html" id="html335" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_078.html" id="html334" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_079.html" id="html333" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_080.html" id="html332" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_081.html" id="html331" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_082.html" id="html330" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_083.html" id="html329" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_084.html" id="html328" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_085.html" id="html327" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_086.html" id="html326" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_087.html" id="html325" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_088.html" id="html324" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_089.html" id="html323" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_090.html" id="html322" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_091.html" id="html321" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_092.html" id="html320" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_093.html" id="html319" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_094.html" id="html318" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_095.html" id="html317" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_096.html" id="html316" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_097.html" id="html315" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_098.html" id="html314" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_099.html" id="html313" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_100.html" id="html312" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_101.html" id="html311" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_102.html" id="html310" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_103.html" id="html309" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_104.html" id="html308" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_105.html" id="html307" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_106.html" id="html306" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_107.html" id="html305" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_108.html" id="html304" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_109.html" id="html303" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_110.html" id="html302" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_111.html" id="html301" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_112.html" id="html300" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_113.html" id="html299" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_114.html" id="html298" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_115.html" id="html297" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_116.html" id="html296" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_117_split_000.html" id="html2953" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_117_split_001.html" id="html2952" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_117_split_002.html" id="html2951" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_118.html" id="html294" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_119.html" id="html293" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_120.html" id="html292" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_121.html" id="html291" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_122.html" id="html290" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_123.html" id="html289" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_124.html" id="html288" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_125.html" id="html287" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_126.html" id="html286" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_127.html" id="html285" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_128.html" id="html284" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_129_split_000.html" id="html2832" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_129_split_001.html" id="html2831" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_130.html" id="html282" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_131.html" id="html281" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_132.html" id="html280" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_133.html" id="html279" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_134.html" id="html278" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_135.html" id="html277" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_136.html" id="html276" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_137.html" id="html275" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_138.html" id="html274" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_139.html" id="html273" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_140.html" id="html272" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_141.html" id="html271" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_142.html" id="html270" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_143.html" id="html269" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_144.html" id="html268" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_145.html" id="html267" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_146.html" id="html266" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_147.html" id="html265" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_148.html" id="html264" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_149.html" id="html263" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_150.html" id="html262" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_151.html" id="html261" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_152.html" id="html260" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_153.html" id="html259" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_154.html" id="html258" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_155.html" id="html257" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_156.html" id="html256" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_157.html" id="html255" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_158.html" id="html254" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_159.html" id="html253" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_160.html" id="html252" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_161.html" id="html251" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_162.html" id="html250" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_163.html" id="html249" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_164.html" id="html248" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_165.html" id="html247" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_166.html" id="html246" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_167.html" id="html245" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_168.html" id="html244" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_169.html" id="html243" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_170.html" id="html242" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_171.html" id="html241" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_172.html" id="html240" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_173.html" id="html239" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_174.html" id="html238" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_175.html" id="html237" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_176.html" id="html236" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_177.html" id="html235" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_178_split_000.html" id="html2342" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_178_split_001.html" id="html2341" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_179.html" id="html233" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_180.html" id="html232" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_181.html" id="html231" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_182.html" id="html230" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_183.html" id="html229" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_184.html" id="html228" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_185.html" id="html227" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_186_split_000.html" id="html2262" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_186_split_001.html" id="html2261" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_187.html" id="html225" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_188.html" id="html224" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_189.html" id="html223" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_190.html" id="html222" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_191_split_000.html" id="html2212" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_191_split_001.html" id="html2211" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_192.html" id="html220" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_193.html" id="html219" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_194.html" id="html218" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_195.html" id="html217" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_196.html" id="html216" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_197.html" id="html215" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_198.html" id="html214" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_199.html" id="html213" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_200.html" id="html212" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_201.html" id="html211" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_202.html" id="html210" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_203_split_000.html" id="html2093" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_203_split_001.html" id="html2092" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_203_split_002.html" id="html2091" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_204.html" id="html208" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_205.html" id="html207" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_206.html" id="html206" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_207.html" id="html205" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_208.html" id="html204" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_209.html" id="html203" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_210.html" id="html202" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_211.html" id="html201" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_212.html" id="html200" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_213.html" id="html199" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_214.html" id="html198" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_215.html" id="html197" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_216.html" id="html196" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_217.html" id="html195" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_218.html" id="html194" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_219.html" id="html193" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_220.html" id="html192" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_221.html" id="html191" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_222.html" id="html190" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_223.html" id="html189" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_224.html" id="html188" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_225.html" id="html187" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_226.html" id="html186" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_227.html" id="html185" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_228.html" id="html184" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_229.html" id="html183" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_230.html" id="html182" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_231.html" id="html181" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_232.html" id="html180" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_233.html" id="html179" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_234.html" id="html178" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_235.html" id="html177" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_236.html" id="html176" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_237.html" id="html175" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_238.html" id="html174" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_239.html" id="html173" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_240.html" id="html172" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_241.html" id="html171" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_242.html" id="html170" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_243.html" id="html169" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_244.html" id="html168" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_245.html" id="html167" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_246.html" id="html166" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_247.html" id="html165" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_248.html" id="html164" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_249.html" id="html163" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_250.html" id="html162" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_251.html" id="html161" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_252.html" id="html160" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_253.html" id="html159" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_254.html" id="html158" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_255.html" id="html157" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_256.html" id="html156" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_257.html" id="html155" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_258.html" id="html154" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_259.html" id="html153" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_260.html" id="html152" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_261.html" id="html151" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_262.html" id="html150" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_263_split_000.html" id="html1492" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_263_split_001.html" id="html1491" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_264.html" id="html148" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_265.html" id="html147" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_266.html" id="html146" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_267.html" id="html145" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_268.html" id="html144" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_269.html" id="html143" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_270.html" id="html142" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_271.html" id="html141" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_272.html" id="html140" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_273.html" id="html139" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_274.html" id="html138" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_275.html" id="html137" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_276_split_000.html" id="html1362" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_276_split_001.html" id="html1361" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_277.html" id="html135" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_278.html" id="html134" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_279.html" id="html133" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_280.html" id="html132" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_281.html" id="html131" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_282.html" id="html130" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_283.html" id="html129" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_284.html" id="html128" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_285.html" id="html127" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_286.html" id="html126" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_287.html" id="html125" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_288.html" id="html124" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_289.html" id="html123" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_290.html" id="html122" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_291.html" id="html121" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_292.html" id="html120" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_293.html" id="html119" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_294.html" id="html118" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_295.html" id="html117" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_296.html" id="html116" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_297.html" id="html115" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_298.html" id="html114" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_299.html" id="html113" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_300.html" id="html112" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_301.html" id="html111" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_302.html" id="html110" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_303.html" id="html109" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_304.html" id="html108" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_305.html" id="html107" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_306.html" id="html106" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_307.html" id="html105" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_308.html" id="html104" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_309.html" id="html103" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_310.html" id="html102" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_311.html" id="html101" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_312.html" id="html100" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_313.html" id="html99" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_314.html" id="html98" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_315.html" id="html97" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_316.html" id="html96" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_317.html" id="html95" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_318.html" id="html94" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_319.html" id="html93" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_320.html" id="html92" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_321.html" id="html91" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_322.html" id="html90" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_323.html" id="html89" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_324.html" id="html88" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_325.html" id="html87" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_326.html" id="html86" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_327.html" id="html85" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_328.html" id="html84" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_329.html" id="html83" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_330.html" id="html82" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_331.html" id="html81" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_332.html" id="html80" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_333.html" id="html79" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_334.html" id="html78" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_335.html" id="html77" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_336.html" id="html76" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_337.html" id="html75" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_338.html" id="html74" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_339.html" id="html73" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_340.html" id="html72" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_341.html" id="html71" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_342.html" id="html70" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_343.html" id="html69" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_344.html" id="html68" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_345.html" id="html67" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_346.html" id="html66" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_347.html" id="html65" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_348.html" id="html64" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_349_split_000.html" id="html633" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_349_split_001.html" id="html632" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_349_split_002.html" id="html631" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_350.html" id="html62" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_351.html" id="html61" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_352.html" id="html60" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_353.html" id="html59" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_354.html" id="html58" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_355.html" id="html57" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_356.html" id="html56" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_357.html" id="html55" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_358.html" id="html54" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_359.html" id="html53" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_360.html" id="html52" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_361.html" id="html51" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_362.html" id="html50" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_363.html" id="html49" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_364.html" id="html48" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_365.html" id="html47" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_366.html" id="html46" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_367.html" id="html45" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_368.html" id="html44" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_369.html" id="html43" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_370.html" id="html42" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_371.html" id="html41" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_372.html" id="html40" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_373.html" id="html39" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_374.html" id="html38" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_375.html" id="html37" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_376.html" id="html36" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_377.html" id="html35" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_378.html" id="html34" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_379.html" id="html33" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_380.html" id="html32" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_381.html" id="html31" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_382.html" id="html30" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_383.html" id="html29" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_384.html" id="html28" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_385.html" id="html27" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_386.html" id="html26" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_387.html" id="html25" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_388.html" id="html24" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_389.html" id="html23" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_390.html" id="html22" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_391.html" id="html21" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_392.html" id="html20" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_393.html" id="html19" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_394.html" id="html18" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_395.html" id="html17" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_396.html" id="html16" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_397.html" id="html15" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_398.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_399.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_400.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_401.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_402.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_403.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_404.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_405.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_406.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_407.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_408.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_409.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_410.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/yunus_split_411.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html4122"/>
+    <itemref idref="html4121"/>
+    <itemref idref="html411"/>
+    <itemref idref="html4103"/>
+    <itemref idref="html4102"/>
+    <itemref idref="html4101"/>
+    <itemref idref="html409"/>
+    <itemref idref="html4082"/>
+    <itemref idref="html4081"/>
+    <itemref idref="html407"/>
+    <itemref idref="html406"/>
+    <itemref idref="html405"/>
+    <itemref idref="html404"/>
+    <itemref idref="html4035"/>
+    <itemref idref="html4034"/>
+    <itemref idref="html4033"/>
+    <itemref idref="html4032"/>
+    <itemref idref="html4031"/>
+    <itemref idref="html402"/>
+    <itemref idref="html401"/>
+    <itemref idref="html400"/>
+    <itemref idref="html399"/>
+    <itemref idref="html398"/>
+    <itemref idref="html397"/>
+    <itemref idref="html396"/>
+    <itemref idref="html395"/>
+    <itemref idref="html394"/>
+    <itemref idref="html393"/>
+    <itemref idref="html392"/>
+    <itemref idref="html391"/>
+    <itemref idref="html390"/>
+    <itemref idref="html389"/>
+    <itemref idref="html388"/>
+    <itemref idref="html387"/>
+    <itemref idref="html386"/>
+    <itemref idref="html385"/>
+    <itemref idref="html384"/>
+    <itemref idref="html383"/>
+    <itemref idref="html382"/>
+    <itemref idref="html381"/>
+    <itemref idref="html380"/>
+    <itemref idref="html379"/>
+    <itemref idref="html378"/>
+    <itemref idref="html377"/>
+    <itemref idref="html376"/>
+    <itemref idref="html375"/>
+    <itemref idref="html374"/>
+    <itemref idref="html373"/>
+    <itemref idref="html372"/>
+    <itemref idref="html3713"/>
+    <itemref idref="html3712"/>
+    <itemref idref="html3711"/>
+    <itemref idref="html370"/>
+    <itemref idref="html369"/>
+    <itemref idref="html368"/>
+    <itemref idref="html367"/>
+    <itemref idref="html366"/>
+    <itemref idref="html365"/>
+    <itemref idref="html364"/>
+    <itemref idref="html363"/>
+    <itemref idref="html362"/>
+    <itemref idref="html361"/>
+    <itemref idref="html360"/>
+    <itemref idref="html359"/>
+    <itemref idref="html358"/>
+    <itemref idref="html357"/>
+    <itemref idref="html356"/>
+    <itemref idref="html3552"/>
+    <itemref idref="html3551"/>
+    <itemref idref="html354"/>
+    <itemref idref="html353"/>
+    <itemref idref="html352"/>
+    <itemref idref="html351"/>
+    <itemref idref="html350"/>
+    <itemref idref="html349"/>
+    <itemref idref="html348"/>
+    <itemref idref="html347"/>
+    <itemref idref="html346"/>
+    <itemref idref="html345"/>
+    <itemref idref="html344"/>
+    <itemref idref="html343"/>
+    <itemref idref="html342"/>
+    <itemref idref="html341"/>
+    <itemref idref="html340"/>
+    <itemref idref="html339"/>
+    <itemref idref="html338"/>
+    <itemref idref="html337"/>
+    <itemref idref="html336"/>
+    <itemref idref="html335"/>
+    <itemref idref="html334"/>
+    <itemref idref="html333"/>
+    <itemref idref="html332"/>
+    <itemref idref="html331"/>
+    <itemref idref="html330"/>
+    <itemref idref="html329"/>
+    <itemref idref="html328"/>
+    <itemref idref="html327"/>
+    <itemref idref="html326"/>
+    <itemref idref="html325"/>
+    <itemref idref="html324"/>
+    <itemref idref="html323"/>
+    <itemref idref="html322"/>
+    <itemref idref="html321"/>
+    <itemref idref="html320"/>
+    <itemref idref="html319"/>
+    <itemref idref="html318"/>
+    <itemref idref="html317"/>
+    <itemref idref="html316"/>
+    <itemref idref="html315"/>
+    <itemref idref="html314"/>
+    <itemref idref="html313"/>
+    <itemref idref="html312"/>
+    <itemref idref="html311"/>
+    <itemref idref="html310"/>
+    <itemref idref="html309"/>
+    <itemref idref="html308"/>
+    <itemref idref="html307"/>
+    <itemref idref="html306"/>
+    <itemref idref="html305"/>
+    <itemref idref="html304"/>
+    <itemref idref="html303"/>
+    <itemref idref="html302"/>
+    <itemref idref="html301"/>
+    <itemref idref="html300"/>
+    <itemref idref="html299"/>
+    <itemref idref="html298"/>
+    <itemref idref="html297"/>
+    <itemref idref="html296"/>
+    <itemref idref="html2953"/>
+    <itemref idref="html2952"/>
+    <itemref idref="html2951"/>
+    <itemref idref="html294"/>
+    <itemref idref="html293"/>
+    <itemref idref="html292"/>
+    <itemref idref="html291"/>
+    <itemref idref="html290"/>
+    <itemref idref="html289"/>
+    <itemref idref="html288"/>
+    <itemref idref="html287"/>
+    <itemref idref="html286"/>
+    <itemref idref="html285"/>
+    <itemref idref="html284"/>
+    <itemref idref="html2832"/>
+    <itemref idref="html2831"/>
+    <itemref idref="html282"/>
+    <itemref idref="html281"/>
+    <itemref idref="html280"/>
+    <itemref idref="html279"/>
+    <itemref idref="html278"/>
+    <itemref idref="html277"/>
+    <itemref idref="html276"/>
+    <itemref idref="html275"/>
+    <itemref idref="html274"/>
+    <itemref idref="html273"/>
+    <itemref idref="html272"/>
+    <itemref idref="html271"/>
+    <itemref idref="html270"/>
+    <itemref idref="html269"/>
+    <itemref idref="html268"/>
+    <itemref idref="html267"/>
+    <itemref idref="html266"/>
+    <itemref idref="html265"/>
+    <itemref idref="html264"/>
+    <itemref idref="html263"/>
+    <itemref idref="html262"/>
+    <itemref idref="html261"/>
+    <itemref idref="html260"/>
+    <itemref idref="html259"/>
+    <itemref idref="html258"/>
+    <itemref idref="html257"/>
+    <itemref idref="html256"/>
+    <itemref idref="html255"/>
+    <itemref idref="html254"/>
+    <itemref idref="html253"/>
+    <itemref idref="html252"/>
+    <itemref idref="html251"/>
+    <itemref idref="html250"/>
+    <itemref idref="html249"/>
+    <itemref idref="html248"/>
+    <itemref idref="html247"/>
+    <itemref idref="html246"/>
+    <itemref idref="html245"/>
+    <itemref idref="html244"/>
+    <itemref idref="html243"/>
+    <itemref idref="html242"/>
+    <itemref idref="html241"/>
+    <itemref idref="html240"/>
+    <itemref idref="html239"/>
+    <itemref idref="html238"/>
+    <itemref idref="html237"/>
+    <itemref idref="html236"/>
+    <itemref idref="html235"/>
+    <itemref idref="html2342"/>
+    <itemref idref="html2341"/>
+    <itemref idref="html233"/>
+    <itemref idref="html232"/>
+    <itemref idref="html231"/>
+    <itemref idref="html230"/>
+    <itemref idref="html229"/>
+    <itemref idref="html228"/>
+    <itemref idref="html227"/>
+    <itemref idref="html2262"/>
+    <itemref idref="html2261"/>
+    <itemref idref="html225"/>
+    <itemref idref="html224"/>
+    <itemref idref="html223"/>
+    <itemref idref="html222"/>
+    <itemref idref="html2212"/>
+    <itemref idref="html2211"/>
+    <itemref idref="html220"/>
+    <itemref idref="html219"/>
+    <itemref idref="html218"/>
+    <itemref idref="html217"/>
+    <itemref idref="html216"/>
+    <itemref idref="html215"/>
+    <itemref idref="html214"/>
+    <itemref idref="html213"/>
+    <itemref idref="html212"/>
+    <itemref idref="html211"/>
+    <itemref idref="html210"/>
+    <itemref idref="html2093"/>
+    <itemref idref="html2092"/>
+    <itemref idref="html2091"/>
+    <itemref idref="html208"/>
+    <itemref idref="html207"/>
+    <itemref idref="html206"/>
+    <itemref idref="html205"/>
+    <itemref idref="html204"/>
+    <itemref idref="html203"/>
+    <itemref idref="html202"/>
+    <itemref idref="html201"/>
+    <itemref idref="html200"/>
+    <itemref idref="html199"/>
+    <itemref idref="html198"/>
+    <itemref idref="html197"/>
+    <itemref idref="html196"/>
+    <itemref idref="html195"/>
+    <itemref idref="html194"/>
+    <itemref idref="html193"/>
+    <itemref idref="html192"/>
+    <itemref idref="html191"/>
+    <itemref idref="html190"/>
+    <itemref idref="html189"/>
+    <itemref idref="html188"/>
+    <itemref idref="html187"/>
+    <itemref idref="html186"/>
+    <itemref idref="html185"/>
+    <itemref idref="html184"/>
+    <itemref idref="html183"/>
+    <itemref idref="html182"/>
+    <itemref idref="html181"/>
+    <itemref idref="html180"/>
+    <itemref idref="html179"/>
+    <itemref idref="html178"/>
+    <itemref idref="html177"/>
+    <itemref idref="html176"/>
+    <itemref idref="html175"/>
+    <itemref idref="html174"/>
+    <itemref idref="html173"/>
+    <itemref idref="html172"/>
+    <itemref idref="html171"/>
+    <itemref idref="html170"/>
+    <itemref idref="html169"/>
+    <itemref idref="html168"/>
+    <itemref idref="html167"/>
+    <itemref idref="html166"/>
+    <itemref idref="html165"/>
+    <itemref idref="html164"/>
+    <itemref idref="html163"/>
+    <itemref idref="html162"/>
+    <itemref idref="html161"/>
+    <itemref idref="html160"/>
+    <itemref idref="html159"/>
+    <itemref idref="html158"/>
+    <itemref idref="html157"/>
+    <itemref idref="html156"/>
+    <itemref idref="html155"/>
+    <itemref idref="html154"/>
+    <itemref idref="html153"/>
+    <itemref idref="html152"/>
+    <itemref idref="html151"/>
+    <itemref idref="html150"/>
+    <itemref idref="html1492"/>
+    <itemref idref="html1491"/>
+    <itemref idref="html148"/>
+    <itemref idref="html147"/>
+    <itemref idref="html146"/>
+    <itemref idref="html145"/>
+    <itemref idref="html144"/>
+    <itemref idref="html143"/>
+    <itemref idref="html142"/>
+    <itemref idref="html141"/>
+    <itemref idref="html140"/>
+    <itemref idref="html139"/>
+    <itemref idref="html138"/>
+    <itemref idref="html137"/>
+    <itemref idref="html1362"/>
+    <itemref idref="html1361"/>
+    <itemref idref="html135"/>
+    <itemref idref="html134"/>
+    <itemref idref="html133"/>
+    <itemref idref="html132"/>
+    <itemref idref="html131"/>
+    <itemref idref="html130"/>
+    <itemref idref="html129"/>
+    <itemref idref="html128"/>
+    <itemref idref="html127"/>
+    <itemref idref="html126"/>
+    <itemref idref="html125"/>
+    <itemref idref="html124"/>
+    <itemref idref="html123"/>
+    <itemref idref="html122"/>
+    <itemref idref="html121"/>
+    <itemref idref="html120"/>
+    <itemref idref="html119"/>
+    <itemref idref="html118"/>
+    <itemref idref="html117"/>
+    <itemref idref="html116"/>
+    <itemref idref="html115"/>
+    <itemref idref="html114"/>
+    <itemref idref="html113"/>
+    <itemref idref="html112"/>
+    <itemref idref="html111"/>
+    <itemref idref="html110"/>
+    <itemref idref="html109"/>
+    <itemref idref="html108"/>
+    <itemref idref="html107"/>
+    <itemref idref="html106"/>
+    <itemref idref="html105"/>
+    <itemref idref="html104"/>
+    <itemref idref="html103"/>
+    <itemref idref="html102"/>
+    <itemref idref="html101"/>
+    <itemref idref="html100"/>
+    <itemref idref="html99"/>
+    <itemref idref="html98"/>
+    <itemref idref="html97"/>
+    <itemref idref="html96"/>
+    <itemref idref="html95"/>
+    <itemref idref="html94"/>
+    <itemref idref="html93"/>
+    <itemref idref="html92"/>
+    <itemref idref="html91"/>
+    <itemref idref="html90"/>
+    <itemref idref="html89"/>
+    <itemref idref="html88"/>
+    <itemref idref="html87"/>
+    <itemref idref="html86"/>
+    <itemref idref="html85"/>
+    <itemref idref="html84"/>
+    <itemref idref="html83"/>
+    <itemref idref="html82"/>
+    <itemref idref="html81"/>
+    <itemref idref="html80"/>
+    <itemref idref="html79"/>
+    <itemref idref="html78"/>
+    <itemref idref="html77"/>
+    <itemref idref="html76"/>
+    <itemref idref="html75"/>
+    <itemref idref="html74"/>
+    <itemref idref="html73"/>
+    <itemref idref="html72"/>
+    <itemref idref="html71"/>
+    <itemref idref="html70"/>
+    <itemref idref="html69"/>
+    <itemref idref="html68"/>
+    <itemref idref="html67"/>
+    <itemref idref="html66"/>
+    <itemref idref="html65"/>
+    <itemref idref="html64"/>
+    <itemref idref="html633"/>
+    <itemref idref="html632"/>
+    <itemref idref="html631"/>
+    <itemref idref="html62"/>
+    <itemref idref="html61"/>
+    <itemref idref="html60"/>
+    <itemref idref="html59"/>
+    <itemref idref="html58"/>
+    <itemref idref="html57"/>
+    <itemref idref="html56"/>
+    <itemref idref="html55"/>
+    <itemref idref="html54"/>
+    <itemref idref="html53"/>
+    <itemref idref="html52"/>
+    <itemref idref="html51"/>
+    <itemref idref="html50"/>
+    <itemref idref="html49"/>
+    <itemref idref="html48"/>
+    <itemref idref="html47"/>
+    <itemref idref="html46"/>
+    <itemref idref="html45"/>
+    <itemref idref="html44"/>
+    <itemref idref="html43"/>
+    <itemref idref="html42"/>
+    <itemref idref="html41"/>
+    <itemref idref="html40"/>
+    <itemref idref="html39"/>
+    <itemref idref="html38"/>
+    <itemref idref="html37"/>
+    <itemref idref="html36"/>
+    <itemref idref="html35"/>
+    <itemref idref="html34"/>
+    <itemref idref="html33"/>
+    <itemref idref="html32"/>
+    <itemref idref="html31"/>
+    <itemref idref="html30"/>
+    <itemref idref="html29"/>
+    <itemref idref="html28"/>
+    <itemref idref="html27"/>
+    <itemref idref="html26"/>
+    <itemref idref="html25"/>
+    <itemref idref="html24"/>
+    <itemref idref="html23"/>
+    <itemref idref="html22"/>
+    <itemref idref="html21"/>
+    <itemref idref="html20"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

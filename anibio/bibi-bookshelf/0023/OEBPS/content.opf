@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Christie, Agatha">Agatha Christie</dc:creator>
+<dc:identifier id="BookId">AWP-CD2D8F9E-4CFB-445E-9B84-530D2CC971B1</dc:identifier>
+    <dc:publisher>Altın Kitaplar</dc:publisher>
+    <dc:date>1998-07-01T21:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2013-07-27</dc:date>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.2" name="Sigil version"/>
+  <meta name="calibre:title_sort" content="Işıklar Sönünce"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:description>&lt;div&gt;&lt;p&gt;Cinayet, karasevda, doğaüstü güçler gibi konuları işleyen bu yedi öykü Agatha Christie’nin ölümünden yirmi bir yıl sonra bulunmuştur. Bu öyküleri okuyunca yazarın neden polisiye romanlar kraliçesi unvanını kazandığını bir kez daha anlayacaksınız.&lt;/p&gt;&lt;div class="social" style="float: left; width: 500px; margin-top: 20px; margin-bottom: 20px; "&gt;&lt;div class="fb-like" data-href="http://www.altinkitaplar.com.tr/isiklar-sonunce/" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" style="text-align: left; text-indent: 0px; margin-top: 0px; margin-right: 10px; float: left; background-color: transparent; "&gt;&lt;/div&gt;&lt;br class="Apple-interchange-newline"&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Agatha Christie&quot;: &quot;&quot;}"/>
+<dc:title>Işıklar Sönünce</dc:title>
+<meta name="calibre:series" content="Hercule Poirot"/>
+<meta name="calibre:series_index" content="41.0"/>
+<dc:subject>Polisiye</dc:subject>
+<dc:subject>Cinayet</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">07065589-9200-405a-8cd2-feee743ff539</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754058246</dc:identifier>
+<dc:identifier opf:scheme="GOODREAD">13633354</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/cover.html" id="cover.html" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5.html" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6.html" media-type="application/xhtml+xml"/>
+    <item href="Text/7.html" id="x7.html" media-type="application/xhtml+xml"/>
+    <item href="Text/8.html" id="x8.html" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/img1.jpg" id="img1" media-type="image/jpeg"/>
+    <item href="Styles/page_styles.css" id="page_styles.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.html"/>
+    <itemref idref="x1.html"/>
+    <itemref idref="x2.html"/>
+    <itemref idref="x3.html"/>
+    <itemref idref="x4.html"/>
+    <itemref idref="x5.html"/>
+    <itemref idref="x6.html"/>
+    <itemref idref="x7.html"/>
+    <itemref idref="x8.html"/>
+  </spine>
+</package>

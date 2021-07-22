@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="urn:isbn:9789750723612" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="Sistematik epub-tools" name="dtb:generator"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Yüklük</text>
+	</docTitle>
+	<navMap>
+		<navLabel>
+			<text>İçindekiler</text>
+		</navLabel>
+		<navPoint id="navPoint-1" playOrder="1">
+			<navLabel>
+				<text>hâl</text>
+			</navLabel>
+			<content src="Text/part1.xhtml"/>
+			<navPoint id="navPoint-2" playOrder="2">
+				<navLabel>
+					<text>Bu Sene Her Şey İyi Olacak</text>
+				</navLabel>
+				<content src="Text/chapter1.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-3" playOrder="3">
+				<navLabel>
+					<text>Süngerli Odalarda</text>
+				</navLabel>
+				<content src="Text/chapter2.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-4" playOrder="4">
+				<navLabel>
+					<text>Adana Tutuşsun Ucundan</text>
+				</navLabel>
+				<content src="Text/chapter3.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-5" playOrder="5">
+				<navLabel>
+					<text>“Kayayı Delen İncir”</text>
+				</navLabel>
+				<content src="Text/chapter4.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-6" playOrder="6">
+				<navLabel>
+					<text>Giden Çocuklar İçin: Müfredat</text>
+				</navLabel>
+				<content src="Text/chapter5.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-7" playOrder="7">
+				<navLabel>
+					<text>Ben Nasıl Geldim Şu Dünyaya?</text>
+				</navLabel>
+				<content src="Text/chapter6.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-8" playOrder="8">
+				<navLabel>
+					<text>Her Şeyin Teorisi43</text>
+				</navLabel>
+				<content src="Text/chapter7.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-9" playOrder="9">
+				<navLabel>
+					<text>Salinger Yazıtları</text>
+				</navLabel>
+				<content src="Text/chapter8.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-10" playOrder="10">
+				<navLabel>
+					<text>Olmayınca Olmuyor</text>
+				</navLabel>
+				<content src="Text/chapter9.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navPoint-11" playOrder="11">
+			<navLabel>
+				<text>bakiye</text>
+			</navLabel>
+			<content src="Text/part2.xhtml"/>
+			<navPoint id="navPoint-12" playOrder="12">
+				<navLabel>
+					<text>“Gevrek Değil de Boyoz Güzelmiş...”</text>
+				</navLabel>
+				<content src="Text/chapter10.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-13" playOrder="13">
+				<navLabel>
+					<text>Dostumuz Yaşamasız, Kömürümüz Kara</text>
+				</navLabel>
+				<content src="Text/chapter11.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-14" playOrder="14">
+				<navLabel>
+					<text>“Fazla Heveslenme Sen Buraya!”</text>
+				</navLabel>
+				<content src="Text/chapter12.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-15" playOrder="15">
+				<navLabel>
+					<text>Can ve Mutlu Moskova Neden Bizdendir?</text>
+				</navLabel>
+				<content src="Text/chapter13.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-16" playOrder="16">
+				<navLabel>
+					<text>“Tina Modotti Ha Muerto”</text>
+				</navLabel>
+				<content src="Text/chapter14.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-17" playOrder="17">
+				<navLabel>
+					<text>Hayatın Bütün Sokakları</text>
+				</navLabel>
+				<content src="Text/chapter15.xhtml"/>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

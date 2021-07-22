@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Tanpınar, Ahmet Hamdi">Ahmet Hamdi Tanpınar</dc:creator>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>1987-12-08T22:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1d333060-6c3d-4da9-b5a4-c5de09fa5d7e</dc:identifier>
+    <dc:date opf:event="modification">2014-12-20</dc:date>
+    <meta content="Aydaki Kadın" name="calibre:title_sort"/>
+    <meta name="cover" content="_kapak.jpeg"/>
+    <meta content="2014-12-15T10:38:03.799000+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Ahmet Hamdi Tanpınar&quot;: &quot;&quot;}"/>
+  <dc:title>Aydaki Kadın</dc:title>
+<dc:publisher>Adam Yayınları</dc:publisher>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Roman</dc:subject>
+<dc:description>&lt;p&gt;"Yazarın ölümüyle yarım kalan bu romanın taslakları, 1974'te Tanpınar'ın İstanbul Türkiyat Enstitüsü'ne verilen diğer evrakı arasında karışık bir biçimde numaralanmış olarak bulunmaktaydı. Aydaki Kadın'ı kitap haline getirebilmek için önce, yaklaşık dört bin sayfayı bulan evraktan ayırmak gerekti. Daha sonra birden fazla taslağı bulunan ve sayfalarının çoğu numaralandırılmış olan roman, yazarın plan ve notlarına dayanılarak, kendi içinde bir düzene sokuldu."
+— Güler Güven
+Ahmet Hamdi Tanpınar (1901-1962) şiir, roman, öykü, deneme, inceleme alanlarında verdiği yapıtlarla çok yönlü bir sanat adamı olarak Cumhuriyet sonrası Türk edebiyatında kendine seçkin bir yer sağlamıştır.&lt;/p&gt;</dc:description>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">d2d54e37-704c-420c-921c-6f669cff1e5e</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9759951665</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.htm" id="ickapak.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/arkakapak.htm" id="arkakapak.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/aydaki-kadin_01.htm" id="aydaki-kadin_01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/aydaki-kadin_02.htm" id="aydaki-kadin_02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/aydaki-kadin_03.htm" id="aydaki-kadin_03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/aydaki-kadin_04.htm" id="aydaki-kadin_04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/aydaki-kadin_05.htm" id="aydaki-kadin_05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/aydaki-kadin_06.htm" id="aydaki-kadin_06.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/aydaki-kadin_07.htm" id="aydaki-kadin_07.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/aydaki-kadin_08.htm" id="aydaki-kadin_08.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/aydaki-kadin_09.htm" id="aydaki-kadin_09.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/aydaki-kadin_10.htm" id="aydaki-kadin_10.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/aydaki-kadin_11.htm" id="aydaki-kadin_11.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/aydaki-kadin_12.htm" id="aydaki-kadin_12.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/aydaki-kadin_13.htm" id="aydaki-kadin_13.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/aydaki-kadin_14.htm" id="aydaki-kadin_14.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/_kapak.jpeg" id="_kapak.jpeg" media-type="image/jpeg"/>
+    <item href="Images/_logo.png" id="_logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.htm"/>
+    <itemref idref="arkakapak.htm"/>
+    <itemref idref="aydaki-kadin_01.htm"/>
+    <itemref idref="aydaki-kadin_02.htm"/>
+    <itemref idref="aydaki-kadin_03.htm"/>
+    <itemref idref="aydaki-kadin_04.htm"/>
+    <itemref idref="aydaki-kadin_05.htm"/>
+    <itemref idref="aydaki-kadin_06.htm"/>
+    <itemref idref="aydaki-kadin_07.htm"/>
+    <itemref idref="aydaki-kadin_08.htm"/>
+    <itemref idref="aydaki-kadin_09.htm"/>
+    <itemref idref="aydaki-kadin_10.htm"/>
+    <itemref idref="aydaki-kadin_11.htm"/>
+    <itemref idref="aydaki-kadin_12.htm"/>
+    <itemref idref="aydaki-kadin_13.htm"/>
+    <itemref idref="aydaki-kadin_14.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

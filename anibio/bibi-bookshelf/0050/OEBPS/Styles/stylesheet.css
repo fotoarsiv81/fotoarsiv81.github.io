@@ -1,0 +1,137 @@
+.block_ {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_1 {
+    display: block;
+    text-indent: 35.4pt;
+    margin: 0;
+    padding: 0
+    }
+.block_2 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.875em;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0
+    }
+.block_3 {
+    display: block;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_4 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.875em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_5 {
+    display: block;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_6 {
+    display: block;
+    text-indent: 18pt;
+    margin: 0;
+    padding: 0
+    }
+.block_7 {
+    display: block;
+    text-align: right;
+    margin: 0;
+    padding: 0
+    }
+.block_8 {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    text-indent: 18pt;
+    margin: 0;
+    padding: 0
+    }
+.block_9 {
+    display: block;
+    font-weight: bold;
+    text-indent: 18pt;
+    margin: 0;
+    padding: 0
+    }
+.block_10 {
+    display: block;
+    font-size: 0.875em;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0
+    }
+.block_11 {
+    display: block;
+    text-align: center;
+    text-indent: 18pt;
+    margin: 0;
+    padding: 0
+    }
+.block_12 {
+    display: block;
+    text-indent: -18pt;
+    margin: 0 0 0 18pt;
+    padding: 0
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Arial Unicode MS", sans-serif;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    margin: 0;
+    padding: 0
+    }
+.calibre2 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre3 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: sub
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.tab {
+    white-space: pre-wrap
+    }
+.text_ {
+    font-size: 1.14286em;
+    line-height: 1.2
+    }
+.text_2 {
+    font-variant: small-caps
+    }
+.text_3 {
+    display: block;
+    font-weight: bold;
+    margin: 0;
+    padding: 0
+    }

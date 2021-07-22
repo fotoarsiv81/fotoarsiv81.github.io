@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Agatha Christie</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>9C0456CC57FBC3628DB0CB8F0ACB33CB</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>D8218DA2FDD585207E1CE9BA59984E9F</string>
+		<key>publisher-unique-id</key>
+		<string>eaee6ea3-d07c-4d1b-bab3-6d2e6a6bbe3c</string>
+		<key>unique-id</key>
+		<integer>3781343255109844784</integer>
+	</dict>
+	<key>itemName</key>
+	<string>İskemlede Beş Ceset</string>
+	<key>playlistName</key>
+	<string>İskemlede Beş Ceset</string>
+	<key>releaseDate</key>
+	<string>2011-10-11T14:56:02+00:00</string>
+	<key>sort-artist</key>
+	<string>Christie, Agatha</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

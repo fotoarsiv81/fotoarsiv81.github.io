@@ -1,0 +1,406 @@
+@font-face {
+	font-family: "Berling";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../Fonts/BerlingLTStd-Roman.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Berling";
+	font-weight: normal;
+	font-style: italic;
+	src:url("../Fonts/BerlingLTStd-Italic.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Berling";
+	font-weight: bold;
+	font-style: normal;
+	src:url("../Fonts/BerlingLTStd-Bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Berling Medium";
+	font-weight: bold;
+	font-style: normal;
+	src:url("../Fonts/BerlingLTStd-Medium.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../Fonts/GillSansStd.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: italic;
+	src:url("../Fonts/GillSansStd-Italic.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Gill Sans Light";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../Fonts/GillSansStd-Light.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Goudy CatT";
+	font-weight: normal;
+	font-style: normal;
+	src:url("../Fonts/GoudyCatTReg.ttf") format("truetype");
+}
+
+
+/*COVER*/
+
+.cover-container{
+	margin: 0 auto;
+	max-width: 500px;
+	page-break-inside: avoid;
+}
+
+.cover-container img {
+	width: 100%;
+}
+
+/*COPYRIGHT-PAGE*/
+
+
+.press {
+	margin-bottom: 1em;
+}
+
+.copyright-page .copy{
+	margin-top: 1em;
+}
+.copyright-page .publisher{
+	margin-top: 2em;
+}
+
+.copyright-page span{
+	font-family: "Gill Sans";
+	font-size:0.75em;
+	display: block;
+}
+
+.copyright-page .pull {
+	padding-left: .51em;
+}
+
+.copyright-page a{
+	color:#777;
+	text-decoration: none;
+	
+}
+
+/*TITLEPAGE*/
+
+.title{
+	text-align: center;
+}
+
+.aut{
+	margin-top: 1.5em;
+	font:normal normal 2.063em/1.2em  "Goudy Cat";
+	text-align: center;
+}
+
+.bfl {
+	font-size: 1.12em;
+}
+
+.work {
+	font:normal normal 3em/1.1em  "Goudy Cat";
+	margin-top: .5em;
+}
+
+.seri{
+		font-family: "Gill Sans";
+		font-size: .92em;
+		margin-top: 3em;
+}
+
+.logo{
+	margin: 3em auto 0 auto;
+}
+
+/*WORKS*/
+
+.works p{
+	margin-top: 4em;
+	font-family: "Gill Sans";
+	font-size: .83em;
+	text-indent: 0;
+}
+
+.works ul {
+	margin-left: 0;
+	padding-left: 0;
+	list-style: none;
+}
+
+.works ul li {
+	font-family: "Gill Sans";
+	font-size: .83em;
+	padding-bottom: .3em;
+}
+
+/*BIOGRAPHY*/
+
+.biography p{
+	font-family: "Gill Sans";
+	font-size: .75em;
+	line-height: 1.4em;
+	text-indent: 0;
+}
+
+/*DEDICATION*/
+
+.dedication .container, .epigraph .container {
+	margin-top: 5em;
+}
+
+.dedication span, .epigraph span, .epigraph cite{
+	display: block;
+	font:normal normal .83em/1.3em "Berling";
+	text-align: right;
+}
+
+.epigraph cite {
+	margin-top: 1em;
+}
+
+/*PART*/
+
+.part .container {
+	margin-top: 5em;
+}
+
+.part-header {
+	font: normal normal 1.42em/1.3em "Berling";
+	text-align: center;
+	margin: 0;
+}
+
+/*CHAPTER*/
+
+.chapter .container {
+	margin-top: 5em;
+}
+
+.chapter h1 {
+	font: normal normal 1.125em/1.3em "Berling";
+	margin: 0;
+	text-align: center;
+}
+
+.chapter h2 {
+	font:normal bold 1em/1.3em "Berling";
+	padding-left: 1.7em;
+	margin: 1.5em 0 .8em;
+}
+
+.chapter h3 {
+	font:normal bold .875em/1.3em "Berling";
+	margin: 1em auto 0;
+	padding-left: 2em;
+}
+
+.chapter .dedication {
+	margin: 2em auto 1.5em;
+}
+
+.chapter .dedication span {
+	display: block;
+	text-align: right;
+	font:normal normal .83em/1.3em "Berling";
+}
+
+.chapter h1 + p {
+	margin-top: 2em;
+}
+
+p {
+	font:normal normal .875em/1.3em "Berling";
+	margin: 0;
+	text-indent: 2em;
+}
+
+.entry {
+	margin: 1em 0;
+}
+
+.entry p {
+	font-style: italic;
+}
+
+.poem {
+	margin: 1em 0 1em 1.7em;
+}
+
+.poem span {
+	font:normal normal .875em/1.3em "Berling";
+	display: block;
+}
+
+.img-container {
+	margin: 1em auto;
+	width: 100%;
+	max-width: 500px;
+	page-break-inside: avoid;
+}
+
+.left {
+	width: 200px;
+	page-break-inside: avoid;
+	float: left;
+	margin: 0;
+	padding: .2em .5em 0 0;
+}
+
+.left + p {
+	padding-top: .4em;
+}
+
+.chapter img {
+	width: 100%;
+}
+
+.figtext table {
+	margin: 1em auto;
+	border:1px solid;
+	padding: 1em;
+}
+
+.figtext table td {
+	font:normal normal .8em/1.3em "Berling";
+	
+}
+
+.figtext td:last-child {
+	padding-left: 2em;
+}
+
+blockquote {
+	margin: 1em 1.3em;
+}
+
+.chapter blockquote h1 {
+	font-weight: normal;
+	font-family: "Gill Sans Light";
+	margin: 2em 0 .8em;
+	text-align: left;
+	font-size: .875em;
+	padding-left: 1.4em;
+}
+
+.chapter blockquote h1 + p {
+	margin-top: 0;
+}
+
+blockquote p {
+	font-family: "Gill Sans Light";
+	text-indent: 1.3em;
+}
+
+.note {
+	margin-top: 1em;
+}
+
+.epigraph-center {
+	margin: 1.2em auto;
+}
+
+.epigraph-center span, .epigraph-center cite{
+	display: block;
+	text-align: center;
+	font:normal normal .875em/1.3em "Gill Sans light";
+}
+
+hr {
+	border:none;
+	text-align: center;
+	margin: 1.5em auto 1em;
+}
+
+hr:before {
+	content:"***";
+	font:normal bold 1em/1.3em "Berling Medium";
+}
+
+.telgraph {
+	margin: 1.5em 0;
+	border: 1px solid #000;
+	padding: .5em;
+}
+
+.telgraph span, .telgraph cite{
+	display: block;
+	text-align: center;
+	font:normal normal .875em/1.3em "Berling";
+}
+
+/*CHAPTER2 - reverse layout*/
+
+#chapter2 .container {
+	margin-top: 0;
+}
+
+
+#chapter2 h1 {
+	margin-top: 2em;
+}
+
+#chapter2 h2:first-child {
+	margin-top: 0;
+}
+
+#chapter2 .epigraph {
+	margin: 1em auto;
+}
+
+#chapter2 .epigraph span {
+	display: block;
+	font:normal normal .83em/1.3em "Berling";
+	text-align: right;
+}
+
+/*FOOTNOTES*/
+
+.footnotes{
+	margin:3em 0 1em;
+}
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+  line-height: 1em;
+}
+.si-footnotes{
+	margin:4em 0 1em;
+}
+.si-backref{
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #000;
+	font-size: 1.1em;
+}
+.si-footnote{
+	font-family: "Gill Sans";
+	font-weight: normal;
+	font-style: normal;
+	font-size: .75em;
+	margin-bottom: .25em;
+}
+
+.clear {
+	clear:both;
+}

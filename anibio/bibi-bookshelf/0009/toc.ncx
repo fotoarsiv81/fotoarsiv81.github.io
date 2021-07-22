@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="9a6a4b44-1e33-42fe-b54f-96229c07280c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sessizliğin İlk Sesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{FDAC7927-F90A-408F-8BD7-00E22A7D683D}" playOrder="1">
+      <navLabel>
+        <text>ESKİDEN, BİR SABAH .</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{A17F7ACD-64FF-4107-8806-B0FCF8714A8A}" playOrder="2">
+      <navLabel>
+        <text>2.</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{5B8A7F76-A476-4F40-88C0-16348EB218C6}" playOrder="3">
+      <navLabel>
+        <text>NERDE O ESKİ ÖLÜMLER?</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

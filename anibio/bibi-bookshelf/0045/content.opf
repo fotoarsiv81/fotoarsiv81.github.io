@@ -1,0 +1,33 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Gülüm, Ahmet">Ahmet Gülüm</dc:creator>
+<meta name="calibre:title_sort" content="Dikkat Yazılı Var"/>
+    <meta name="calibre:timestamp" content="2014-03-17T12:35:51.117000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2011-03-30T21:32:39+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.28.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1dcc0904-34be-440d-86d1-3082903fb844</dc:identifier>
+    <dc:title>Dikkat Yazılı Var</dc:title>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ahmet Gülüm&quot;: &quot;&quot;}"/>
+<dc:language>en</dc:language>
+<dc:identifier opf:scheme="calibre">1dcc0904-34be-440d-86d1-3082903fb844</dc:identifier>
+<dc:identifier opf:scheme="MOBI-ASIN">4352143e-3a48-40f9-8cba-33981938db72</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Dikkat_Yaz_305_l_305_Var.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

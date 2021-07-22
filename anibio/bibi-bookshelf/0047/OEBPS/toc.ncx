@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="00a85cbd-af53-43f4-a49f-34f1485dc4e1" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Beş Şehir</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Ankara</text>
+      </navLabel>
+      <content src="Text/Ahmet%20Hamdi%20Tanpinar%20-%20Bes%20Sehir_split_000.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Erzurum</text>
+      </navLabel>
+      <content src="Text/Ahmet%20Hamdi%20Tanpinar%20-%20Bes%20Sehir_split_001.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Konya</text>
+      </navLabel>
+      <content src="Text/Ahmet%20Hamdi%20Tanpinar%20-%20Bes%20Sehir_split_002.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Bursa'da zaman</text>
+      </navLabel>
+      <content src="Text/Ahmet%20Hamdi%20Tanpinar%20-%20Bes%20Sehir_split_003.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>İstanbul</text>
+      </navLabel>
+      <content src="Text/Ahmet%20Hamdi%20Tanpinar%20-%20Bes%20Sehir_split_004.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Dizin</text>
+      </navLabel>
+      <content src="Text/Ahmet%20Hamdi%20Tanpinar%20-%20Bes%20Sehir_split_005.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>
