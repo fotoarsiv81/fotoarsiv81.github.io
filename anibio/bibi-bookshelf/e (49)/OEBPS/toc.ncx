@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789750721229"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:generator" content="Sistematik epub-tools"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Doktor Çehov'dan Öyküler</text>
+   </docTitle>
+   <navMap>
+      <navLabel>
+         <text>İçindekiler</text>
+      </navLabel>
+      <navPoint id="navPoint-1" playOrder="1">
+         <navLabel>
+            <text>Dr. Çehov’un Aşk Reçetesi</text>
+         </navLabel>
+         <content src="preface.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+         <navLabel>
+            <text>Perpetium Mobile</text>
+         </navLabel>
+         <content src="chapter1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+         <navLabel>
+            <text>Cerrahlık</text>
+         </navLabel>
+         <content src="chapter2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+         <navLabel>
+            <text>Ayna</text>
+         </navLabel>
+         <content src="chapter3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+         <navLabel>
+            <text>Duruşmadan Önceki Gece</text>
+         </navLabel>
+         <content src="chapter4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+         <navLabel>
+            <text>Sıra Dışı Bir Adam</text>
+         </navLabel>
+         <content src="chapter5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+         <navLabel>
+            <text>Eczacının Karısı</text>
+         </navLabel>
+         <content src="chapter6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+         <navLabel>
+            <text>Düşmanlar</text>
+         </navLabel>
+         <content src="chapter7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+         <navLabel>
+            <text>Altıncı Koğuş</text>
+         </navLabel>
+         <content src="chapter8-1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+         <navLabel>
+            <text>Kara Keşiş</text>
+         </navLabel>
+         <content src="chapter9-1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+         <navLabel>
+            <text>Bir Hekimin Yaşadıkları</text>
+         </navLabel>
+         <content src="chapter10.xhtml"/>
+      </navPoint>
+   </navMap>
+</ncx>

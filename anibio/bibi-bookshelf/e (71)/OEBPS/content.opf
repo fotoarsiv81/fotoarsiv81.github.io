@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Clarke, Arthur C.">Arthur C. Clarke</dc:creator>
+<dc:identifier id="BookId">AWP-7FF55F7A-66BF-435B-8E34-DC63663DC862</dc:identifier>
+    <dc:publisher>Başkan Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;..Kuduz beynin imha edilmesi mümkün değildi. Değildi, çünkü ölümsüzdü. Kuduz beyin, Galaksinin sınırlarına sürülüp orada anlayamadığımız bir şekilde hapsedildi. Hapishanesi, "Kara Güneş" adiyla bilinen garip, yapay bir gezegendi. Ve Kuduz beyin hâlâ orada tutuklu bulunuyordu. Kara Güneş öldüğü zaman yeniden hürriyetine kavuşacaktı. "Kara Güneş"in ne zaman öleceğini kestirmek ise şu an için mümkün değildi... &lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>1984-08-24T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta content="Kara Güneş" name="calibre:title_sort"/>
+    <meta content="2.0" name="calibre:series_index"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Arthur C. Clarke&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="fvo9.jpg"/>
+  <dc:title>Kara Güneş</dc:title>
+<dc:subject>Bilim Kurgu</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Uzay</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">894fe459-e430-4e21-b6ed-81bb0594bdf0</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/002.html" id="x002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Text/003.html" id="id003" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/cover.css" id="coverstyle" media-type="text/css"/>
+    <item href="Styles/style.css" id="style" media-type="text/css"/>
+    <item href="Images/fvo9.jpg" id="fvo9.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x002.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+    <itemref idref="id003"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

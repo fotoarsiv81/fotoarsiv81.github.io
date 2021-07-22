@@ -1,0 +1,77 @@
+.calibre {
+    display: block
+    }
+.calibre1 {
+    display: block;
+    line-height: 1.2
+    }
+.heading {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 1.5em
+    }
+.heading1 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 1.5em
+    }
+.heading2 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 1.5em
+    }
+.main {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.sgc {
+    display: block;
+    text-align: center
+    }
+.sgc1 {
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold
+    }
+.sgc2 {
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.sgc3 {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal
+    }
+.sgc4 {
+    font-family: Calibri;
+    font-weight: bold
+    }
+.sgc5 {
+    font-family: Calibri;
+    font-weight: bold;
+    line-height: 1.2
+    }

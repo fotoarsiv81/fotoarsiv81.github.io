@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:aa386ce7-0dd3-4cb8-bbdd-616b6569c219" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>MUTLU BİR AİLE</text>
+      </navLabel>
+      <content src="Text/oyku.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İKİ GEMİ</text>
+      </navLabel>
+      <content src="Text/oyku.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>KEMİKİSTAN GEMİSİ</text>
+      </navLabel>
+      <content src="Text/oyku.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>GÖBEKİSTAN GEMİSİ</text>
+      </navLabel>
+      <content src="Text/oyku.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>KEMİKİSTAN'A VARIŞ</text>
+      </navLabel>
+      <content src="Text/oyku.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>PRENS ŞİŞGÖBEK</text>
+      </navLabel>
+      <content src="Text/oyku.xhtml#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>ZAYIFLAMA BAKANI BOŞTABAK</text>
+      </navLabel>
+      <content src="Text/oyku.xhtml#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>GÖBECİK TOPLANTISI</text>
+      </navLabel>
+      <content src="Text/oyku.xhtml#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>ŞİŞKOLARLA SISKALARIN SAVAŞI</text>
+      </navLabel>
+      <content src="Text/oyku.xhtml#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>SISKALAR GÖBEKİSTAN'DA</text>
+      </navLabel>
+      <content src="Text/oyku.xhtml#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>ŞİŞKOLARLA SISKALAR</text>
+      </navLabel>
+      <content src="Text/oyku.xhtml#sigil_toc_id_10"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>DÖNÜŞ</text>
+      </navLabel>
+      <content src="Text/oyku.xhtml#sigil_toc_id_11"/>
+    </navPoint>
+  </navMap>
+</ncx>

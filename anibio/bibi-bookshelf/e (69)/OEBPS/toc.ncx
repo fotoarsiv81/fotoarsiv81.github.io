@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="9eec553d-a0bb-4fcc-9b60-915fd87d6b13" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>3001 Uzay Efsanesi (Son Efsane)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ARTHUR C. CLARKE</text>
+      </navLabel>
+      <content src="Text/Section0001.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>ÖNDEYİŞ: İLKÇOCUKLAR</text>
+      </navLabel>
+      <content src="Text/Section0002.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>1 YILDIZ ŞEHRİ</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>UYANIŞ</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>İYİLEŞTİRME</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>MANZARALI ODA</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>EĞİTİM</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>BEYİN BAŞLIĞI</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>BİLGİ ALMA</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>GÖKYÜZÜ ÜLKESİ</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>ICARUS'A SAYGI</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>BURADA EJDER VAR</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_10"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>HÜSRAN</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_11"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>BİLİNMEDİK BİR ZAMANDA BİR YABANCI</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_12"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>GOLIATH DÜNYA'YA VEDA</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_13"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>VENÜS'TEN GEÇİŞ</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_14"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>MISŞPRINGLE DOSYA-WALLACE</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_15"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>KAPTAN'IN MASASI</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_16"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>GALELEO'NUN DÜNYALARI</text>
+      </navLabel>
+      <content src="Text/Section0002.html#sigil_toc_id_17"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>KAYNAKLAR VE TEŞEKKÜRLER</text>
+      </navLabel>
+      <content src="Text/Section0003.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

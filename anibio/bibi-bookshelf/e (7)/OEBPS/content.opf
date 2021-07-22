@@ -1,0 +1,89 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Bauman, Zygmunt">Zygmunt Bauman</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">9ccb0db9-c7e0-459f-9cc1-8d4628b39075</dc:identifier>
+    <dc:publisher>Ayrıntı Yayınları</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;&lt;p&gt;Ozellikle modernlik ve post-modernlik calismalariyla son donemin en parlak dusunurlerinden biri olan Zygmunt Bauman, sosyal bilimler alaninda son derece ilginc bir kitap sunuyor bizlere. Sosyolojik Dusunmek, sadece sosyoloji ogrencileri icin kaleme alinmis bir calisma degil. Konuya ilgi duyan herkesin sosyolojinin anlami ve islevi, sosyolojide degisik tarzlar ve yaklasimlar uzerine bilgilenmesini saglayacak onemli bir kaynak kitap. Ama hepsinden onemlisi Bauman, gundelik ve toplumsal hayatimiza sosyolojik bir boyuttan bakmanin anlamini; boyle bir bakisin kazandiracagi kavrayis zenginligini; tektipligin ve tamamlanarak donmus goruslerin degil, toplum yasaminda muphemligin kabulune dayali bir dusunme tarzinin, kisacasi sosyolojik dusunmenin onemini ortaya koyuyor. Sosyolojik Dusunmek, akademik kullanim mantigina gore degil, "gundelik hayat mantigi"na gore duzenlenmis bir kitap. Bauman, sosyolojinin inceleme konusu olan ikilik ve karsitliklari cokboyutlu bir bakisla irdeliyor: Birey olma ve toplum icinde var olma arasindaki butunluk ile catisma; toplumlarin ya da genel olarak insan gruplarinin kendini ve karsitini, daha dogrusu karsitina gore kendini tanimlamasi; birey ile grup, doga ile kultur, millet ile devlet, birliktelik ile ayrilik, bireysel varligini koruma ile ahlâki yukumluluk arasindaki catismalar, kitapta incelenen ikiliklerden bazilari. Bauman, sosyolojinin asla tamamlanmis, kesin, muphemlikten tamamen arinmis bir bakis acisi olusturamayacagini belirtiyor. Dolayisiyla hicbir bakis tek basina kusursuz ya da ayricalikli olamaz; hayata iliskin degisik yorumlarin her biri, olsa olsa kavrayis butunlugumuze kendi zenginligini katacaktir. Sosyolojik dusunmek, kesinlige varacak bir yol saglamak soyle dursun, her turlu muphemligi cogaltacaktir. Ama muphemlikten korkmamak gerekir; dunyaya iliskin gercek bir kavrayis ozgurlugunun ve hosgorunun temelinde bu muphemligin, bakis zenginliginin kabulu yatar. Bu anlamda sosyoloji ve sosyolojik dusunmek, Bauman'in sozler&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:date>1999-08-14T21:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2014-09-24</dc:date>
+    <meta content="Sosyolojik Düşünmek" name="calibre:title_sort"/>
+    <meta content="2014-08-16T22:34:53.300000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.1" name="Sigil version"/>
+    <meta content="10.0" name="calibre:rating"/>
+    <meta content="{&quot;Zygmunt Bauman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:title>Sosyolojik Düşünmek</dc:title>
+<dc:subject>Sosyoloji</dc:subject>
+<dc:subject>Felsefe</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">707000ee-8aec-4576-8247-ffd7c1a1a3f7</dc:identifier>
+<dc:identifier opf:scheme="AMAZON">9755391967</dc:identifier>
+<dc:identifier opf:scheme="GOOGLE">yZP-AQAACAAJ</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789755391960</dc:identifier>
+<meta name="calibre:user_metadata:#checked" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#checked&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;checked&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {}, &quot;name&quot;: &quot;Checked&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sosyolojik_dusunmek_split_000.htm" id="html21" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sosyolojik_dusunmek_split_001.htm" id="html20" media-type="application/xhtml+xml"/>
+    <item href="Text/sosyolojik_dusunmek_split_002.htm" id="html19" media-type="application/xhtml+xml"/>
+    <item href="Text/sosyolojik_dusunmek_split_003.htm" id="html18" media-type="application/xhtml+xml"/>
+    <item href="Text/sosyolojik_dusunmek_split_004.htm" id="html17" media-type="application/xhtml+xml"/>
+    <item href="Text/sosyolojik_dusunmek_split_005.htm" id="html16" media-type="application/xhtml+xml"/>
+    <item href="Text/sosyolojik_dusunmek_split_006.htm" id="sosyolojik_dusunmek_split_006.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.htm" id="Section0001.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/sosyolojik_dusunmek_split_009.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/sosyolojik_dusunmek_split_010.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/sosyolojik_dusunmek_split_012.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/sosyolojik_dusunmek_split_013.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/sosyolojik_dusunmek_split_015.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/sosyolojik_dusunmek_split_017.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/sosyolojik_dusunmek_split_019.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/Index.xhtml" id="Index.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/fonts.css" id="font_embed" media-type="text/css"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/sgc-index.css" id="sgc-index.css" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/AYRINTI.jpg" id="AYRINTI.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Fonts/Georgia-Bold-Italic.ttf" id="font3" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Georgia-Bold.ttf" id="font" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Georgia-Italic.ttf" id="font1" media-type="application/x-font-truetype"/>
+    <item href="Fonts/Georgia.ttf" id="font2" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="html21"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="html20"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="sosyolojik_dusunmek_split_006.htm"/>
+    <itemref idref="Section0001.htm"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html6"/>
+    <itemref idref="html4"/>
+    <itemref idref="html2"/>
+    <itemref idref="Index.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/Index.xhtml" title="Index" type="index"/>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

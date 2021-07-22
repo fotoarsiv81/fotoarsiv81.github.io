@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <meta name="calibre:title_sort" content="Çevengur"/>
+    <meta name="calibre:timestamp" content="2015-03-01T13:26:10.481000+00:00"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <meta name="cover" content="cover"/>
+    <dc:title>Çevengur</dc:title>
+    <dc:publisher>Metis</dc:publisher>
+    <dc:creator opf:file-as="Platonov, Andrey" opf:role="aut">Andrey Platonov</dc:creator>
+    <dc:language>tr</dc:language>
+    <dc:description>&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Sovyetlerin "sakıncalı" yazarı Andrey Platonov'un 1926-29 yılları arasında kaleme aldığı Çevengur, hayatı değiştirme fikrine samimiyetle sarılan "insancıklar"ın hikâyesini absürde kayan mizahi bir dille anlatıyor. Ünlü devrimcilerin bedensiz hayalleriyle kuşatılmış, değişim için yapılacak tek şeyi -yani devrimi- hallettikten sonra öylece kalakalmış garip bir topluluğun öyküsü Çevengur. Her şeyin bittiği ve hiçbir şeyin başlamadığı bir dünyada insanın tabiatla bile mücadele etmek istemediği bir can sıkıntısının öyküsü. Platonov'un kendine has dilinin ve sıradışı bakış açısının ürünü olan bu roman, kahramanlarıyla birlikte hayatın ve ölümün sırrını çözmeye çalışan, hakikatin arayışta olduğunu sezen ve sezdiren bir aydının Rus devrimi üzerine engin düşüncelerini yansıtan bir başyapıt.&lt;/span&gt;&lt;/font&gt;</dc:description>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1e939bca-15ad-4c79-82fe-2c7c74079e73</dc:identifier>
+    <dc:identifier opf:scheme="calibre">1e939bca-15ad-4c79-82fe-2c7c74079e73</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.18.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-1.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main-2.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="main-3.png" id="id3" media-type="image/png"/>
+    <item href="main-3.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="main-4.png" id="id4" media-type="image/png"/>
+    <item href="main-4.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="main-5.png" id="id5" media-type="image/png"/>
+    <item href="main-5.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="main-6.png" id="id6" media-type="image/png"/>
+    <item href="main-6.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="main-7.png" id="id7" media-type="image/png"/>
+    <item href="main-7.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="main-8.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

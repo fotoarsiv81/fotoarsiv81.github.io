@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="57651f70-ceab-4626-b8f6-e7e95e873baf" name="dtb:uid"/>
+        <meta content="2" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>2001: Bir Uzay Efsanesi</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>İÇİNDEKİLER</text>
+            </navLabel>
+            <content src="Text/Section1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>ÖNSÖZ</text>
+            </navLabel>
+            <content src="Text/Section3.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>KAYNAKLAR</text>
+            </navLabel>
+            <content src="Text/Section4.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>ESKİ ÇAĞLARDA BİR GECE</text>
+            </navLabel>
+            <content src="Text/Section5.xhtml"/>
+            <navPoint id="navPoint-5" playOrder="5">
+                <navLabel>
+                    <text>YOKOLUŞA DOĞRU</text>
+                </navLabel>
+                <content src="Text/Section6.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-6" playOrder="6">
+                <navLabel>
+                    <text>YENİ KAYA</text>
+                </navLabel>
+                <content src="Text/Section7.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-7" playOrder="7">
+                <navLabel>
+                    <text>AKADEMİ</text>
+                </navLabel>
+                <content src="Text/Section8.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-8" playOrder="8">
+                <navLabel>
+                    <text>LEOPAR</text>
+                </navLabel>
+                <content src="Text/Section9.xhtml"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>T.M.A.-1</text>
+            </navLabel>
+            <content src="Text/Section10.xhtml"/>
+            <navPoint id="navPoint-10" playOrder="10">
+                <navLabel>
+                    <text>ÖZEL UÇUŞ</text>
+                </navLabel>
+                <content src="Text/Section11.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-11" playOrder="11">
+                <navLabel>
+                    <text>YÖRÜNGESEL BULUŞMA</text>
+                </navLabel>
+                <content src="Text/Section12.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-12" playOrder="12">
+                <navLabel>
+                    <text>AY MEKİĞİ</text>
+                </navLabel>
+                <content src="Text/Section13.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-13" playOrder="13">
+                <navLabel>
+                    <text>CLAVİUS ÜSSÜ</text>
+                </navLabel>
+                <content src="Text/Section14.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-14" playOrder="14">
+                <navLabel>
+                    <text>ANORMALLİK</text>
+                </navLabel>
+                <content src="Text/Section15.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-15" playOrder="15">
+                <navLabel>
+                    <text>DÜNYA IŞIĞI ALTINDA YOLCULUK</text>
+                </navLabel>
+                <content src="Text/Section16.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-16" playOrder="16">
+                <navLabel>
+                    <text>YAVAŞ ŞAFAK</text>
+                </navLabel>
+                <content src="Text/Section17.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-17" playOrder="17">
+                <navLabel>
+                    <text>DİNLEYİCİLER</text>
+                </navLabel>
+                <content src="Text/Section18.xhtml"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+                <text>GEZEGENLER ARASINDA</text>
+            </navLabel>
+            <content src="Text/Section19.xhtml"/>
+            <navPoint id="navPoint-19" playOrder="19">
+                <navLabel>
+                    <text>DISCOVERY</text>
+                </navLabel>
+                <content src="Text/Section20.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-20" playOrder="20">
+                <navLabel>
+                    <text>HAL</text>
+                </navLabel>
+                <content src="Text/Section21.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-21" playOrder="21">
+                <navLabel>
+                    <text>SEYİR DÜZENİ</text>
+                </navLabel>
+                <content src="Text/Section22.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-22" playOrder="22">
+                <navLabel>
+                    <text>ASTEROİTLER ARASINDA</text>
+                </navLabel>
+                <content src="Text/Section23.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-23" playOrder="23">
+                <navLabel>
+                    <text>JÜPİTER’DEN GEÇİŞ</text>
+                </navLabel>
+                <content src="Text/Section24.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-24" playOrder="24">
+                <navLabel>
+                    <text>TANRILARIN DÜNYASI</text>
+                </navLabel>
+                <content src="Text/Section25.xhtml"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+            <navLabel>
+                <text>SONU OLMAYAN BOŞLUK</text>
+            </navLabel>
+            <content src="Text/Section26.xhtml"/>
+            <navPoint id="navPoint-26" playOrder="26">
+                <navLabel>
+                    <text>DOĞUM GÜNÜ PARTİSİ</text>
+                </navLabel>
+                <content src="Text/Section27.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-27" playOrder="27">
+                <navLabel>
+                    <text>GEZİNTİ</text>
+                </navLabel>
+                <content src="Text/Section28.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-28" playOrder="28">
+                <navLabel>
+                    <text>TEŞHİS</text>
+                </navLabel>
+                <content src="Text/Section29.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-29" playOrder="29">
+                <navLabel>
+                    <text>KESİK DEVRE</text>
+                </navLabel>
+                <content src="Text/Section30.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-30" playOrder="30">
+                <navLabel>
+                    <text>SATÜRN’E GİDEN İLK İNSAN</text>
+                </navLabel>
+                <content src="Text/Section31.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-31" playOrder="31">
+                <navLabel>
+                    <text>HAL İLE KONUŞMA</text>
+                </navLabel>
+                <content src="Text/Section32.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-32" playOrder="32">
+                <navLabel>
+                    <text>BİLİNMESİ GEREKEN ŞEY</text>
+                </navLabel>
+                <content src="Text/Section33.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-33" playOrder="33">
+                <navLabel>
+                    <text>BOŞLUKTA</text>
+                </navLabel>
+                <content src="Text/Section34.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-34" playOrder="34">
+                <navLabel>
+                    <text>TEK BAŞINA</text>
+                </navLabel>
+                <content src="Text/Section35.xhtml"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+            <navLabel>
+                <text>SATÜRN’ÜN UYDULARI</text>
+            </navLabel>
+            <content src="Text/Section36.xhtml"/>
+            <navPoint id="navPoint-36" playOrder="36">
+                <navLabel>
+                    <text>HAYATTA KALMA MÜCADELESİ</text>
+                </navLabel>
+                <content src="Text/Section37.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-37" playOrder="37">
+                <navLabel>
+                    <text>P.D.’LER HAKKINDA</text>
+                </navLabel>
+                <content src="Text/Section38.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-38" playOrder="38">
+                <navLabel>
+                    <text>YÖRÜNGE ÜZERİNDEKİ BUZ</text>
+                </navLabel>
+                <content src="Text/Section39.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-39" playOrder="39">
+                <navLabel>
+                    <text>BÜYÜK KARDEŞ</text>
+                </navLabel>
+                <content src="Text/Section40.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-40" playOrder="40">
+                <navLabel>
+                    <text>DENEY</text>
+                </navLabel>
+                <content src="Text/Section41.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-41" playOrder="41">
+                <navLabel>
+                    <text>GÖZCÜ</text>
+                </navLabel>
+                <content src="Text/Section42.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-42" playOrder="42">
+                <navLabel>
+                    <text>GÖZÜN İÇİNE DOĞRU</text>
+                </navLabel>
+                <content src="Text/Section43.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-43" playOrder="43">
+                <navLabel>
+                    <text>ÇIKIŞ</text>
+                </navLabel>
+                <content src="Text/Section44.xhtml"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+            <navLabel>
+                <text>YILDIZ KAPISI’NDAN GEÇİŞ</text>
+            </navLabel>
+            <content src="Text/Section45.xhtml"/>
+            <navPoint id="navPoint-45" playOrder="45">
+                <navLabel>
+                    <text>BÜYÜK MERKEZ</text>
+                </navLabel>
+                <content src="Text/Section46.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-46" playOrder="46">
+                <navLabel>
+                    <text>YABANCI GÖKYÜZÜ</text>
+                </navLabel>
+                <content src="Text/Section47.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-47" playOrder="47">
+                <navLabel>
+                    <text>KARŞILAMA</text>
+                </navLabel>
+                <content src="Text/Section48.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-48" playOrder="48">
+                <navLabel>
+                    <text>ÖZET</text>
+                </navLabel>
+                <content src="Text/Section49.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-49" playOrder="49">
+                <navLabel>
+                    <text>DEĞİŞİM</text>
+                </navLabel>
+                <content src="Text/Section50.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-50" playOrder="50">
+                <navLabel>
+                    <text>YILDIZ ÇOCUK</text>
+                </navLabel>
+                <content src="Text/Section51.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-51" playOrder="51">
+                <navLabel>
+                    <text>GÖZCÜ</text>
+                </navLabel>
+                <content src="Text/Section52.xhtml"/>
+            </navPoint>
+            <navPoint id="navPoint-52" playOrder="52">
+                <navLabel>
+                    <text>ŞAFAKTA KARŞILAŞMA</text>
+                </navLabel>
+                <content src="Text/Section53.xhtml"/>
+            </navPoint>
+        </navPoint>
+    </navMap>
+</ncx>

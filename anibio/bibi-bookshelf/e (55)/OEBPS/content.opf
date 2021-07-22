@@ -1,0 +1,90 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Tabucchi, Antonio">Antonio Tabucchi</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">c030b581-e70a-429e-baf4-ac48e4808d69</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;p&gt;Yıl 1938. Lizbon. İspanya'da iç savaş, İtalya'da faşizm, Portekiz'de Salazar diktatörlüğü. Bir akşam gazetesinin kültür sayfasını hazırlayan Pereira'nın 'ölümcül' bir gazetecilik anlayışı vardır: Ölmüş yazarlarla ilgili anma yazılarına ve yaşayan yazarlar için önceden yazılmış ölüm yazılarına meraklıdır. Tıpkı kendi yaşamının da geçmiş ve anılar üstüne kurulu olması gibi. En yakın dostu, ölmüş karısının resmidir. Monteiro Rossi adında bir delikanlı ve sevgilisi Marta'yla tanışması, yaşlı gazetecinin yaşamını temelden değiştirecek, onu içsel bir olgunluğa, acılarla yüklü bir bilinçlenmeye yöneltecektir. Fernando Pessoa'nın Son Üç Günü, Hint Gece Müziği, Ufuk Çizgisi adlı kitaplarını yayınladığımız Antonio Tabucchi, çağımızın en hümanist başyapıtlarından biri sayılabilecek Pereira İddia Ediyor'da, yakın geçmişimizin, belki de belirsiz şimdimizin düşüncelerini sorguluyor, okurun belleğinden uzun yıllar silinmeyecek bir başkişi yaratıyor.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2005-03-14T22:00:00+00:00</dc:date>
+    <meta content="Pereira İddia Ediyor" name="calibre:title_sort"/>
+    <meta content="2015-03-15T11:42:26.255000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Antonio Tabucchi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="calibre:rating" content="8.0"/>
+  <dc:title>Pereira İddia Ediyor</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">090998b9-57c3-424a-9716-9ccf48854682</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750705076</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.htm" id="ickapak.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_01.htm" id="bo_01.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_02.htm" id="bo_02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_03.htm" id="bo_03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_04.htm" id="bo_04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_05.htm" id="bo_05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_06.htm" id="bo_06.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_07.htm" id="bo_07.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_08.htm" id="bo_08.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_09.htm" id="bo_09.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_10.htm" id="bo_10.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_11.htm" id="bo_11.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_12.htm" id="bo_12.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_13.htm" id="bo_13.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_14.htm" id="bo_14.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_15.htm" id="bo_15.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_16.htm" id="bo_16.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_17.htm" id="bo_17.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_18.htm" id="bo_18.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_19.htm" id="bo_19.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_20.htm" id="bo_20.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_21.htm" id="bo_21.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_22.htm" id="bo_22.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_23.htm" id="bo_23.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_24.htm" id="bo_24.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/bo_25.htm" id="bo_25.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/not.htm" id="not.htm" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ickapak.htm"/>
+    <itemref idref="bo_01.htm"/>
+    <itemref idref="bo_02.htm"/>
+    <itemref idref="bo_03.htm"/>
+    <itemref idref="bo_04.htm"/>
+    <itemref idref="bo_05.htm"/>
+    <itemref idref="bo_06.htm"/>
+    <itemref idref="bo_07.htm"/>
+    <itemref idref="bo_08.htm"/>
+    <itemref idref="bo_09.htm"/>
+    <itemref idref="bo_10.htm"/>
+    <itemref idref="bo_11.htm"/>
+    <itemref idref="bo_12.htm"/>
+    <itemref idref="bo_13.htm"/>
+    <itemref idref="bo_14.htm"/>
+    <itemref idref="bo_15.htm"/>
+    <itemref idref="bo_16.htm"/>
+    <itemref idref="bo_17.htm"/>
+    <itemref idref="bo_18.htm"/>
+    <itemref idref="bo_19.htm"/>
+    <itemref idref="bo_20.htm"/>
+    <itemref idref="bo_21.htm"/>
+    <itemref idref="bo_22.htm"/>
+    <itemref idref="bo_23.htm"/>
+    <itemref idref="bo_24.htm"/>
+    <itemref idref="bo_25.htm"/>
+    <itemref idref="not.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

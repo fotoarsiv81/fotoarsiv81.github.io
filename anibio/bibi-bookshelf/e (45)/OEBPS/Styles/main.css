@@ -1,0 +1,21 @@
+p {
+margin:0 auto 0 auto;
+text-indent:1.5em;
+text-align:justify;}
+a:link {text-decoration: none;}
+sub, sup { 
+font-size: 75%;
+line-height: 0; 
+}
+sup {top: -0.25em;}
+sub {bottom: -0.25em;}
+
+.bos05{margin-top:0.5em;}
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always;font-size:0.8em;}
+
+.ekdg-logo {text-align: center; margin: 5em 0 1em;}
+
+.bas0{text-indent: 0em;text-align:center;font-size:1.3em;font-weight:bold;margin-top:5em;margin-bottom:2em;}
+.bas1{font-size:1.3em;font-weight:bold;margin-top:3em;margin-bottom:1em;}
+
+.ucak{text-indent: 0em;text-align:center;margin-top:5em;}

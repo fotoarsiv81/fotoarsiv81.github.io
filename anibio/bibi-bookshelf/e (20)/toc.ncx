@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tur">
+  <head>
+    <meta content="1e939bca-15ad-4c79-82fe-2c7c74079e73" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.18.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Çevengur</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="{AAC747F4-1D32-4DB4-8C40-D6281C8D7396}" playOrder="1">
+      <navLabel>
+        <text>sı</text>
+      </navLabel>
+      <content src="main-1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{B3BF86CA-3617-4959-805D-B687A8DA6918}" playOrder="2">
+      <navLabel>
+        <text>"Sorına a canım! Neler neler içtim ben. Cilaya, ve</text>
+      </navLabel>
+      <content src="main-2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{C9EC636D-94DE-4564-9ADA-DBA0C82263BB}" playOrder="3">
+      <navLabel>
+        <text>ıso</text>
+      </navLabel>
+      <content src="main-3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{134923C2-E63C-46B5-8049-2DDB66EC6BFE}" playOrder="4">
+      <navLabel>
+        <text>Çepumıy anlamıştı:</text>
+      </navLabel>
+      <content src="main-4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{E90108FE-E40C-496F-BF24-1B8615564660}" playOrder="5">
+      <navLabel>
+        <text>"Böylece gidivereceksin,'' demişti Pi yusya, karar</text>
+      </navLabel>
+      <content src="main-5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{B13EFD78-E4E1-4196-B632-90E049757B92}" playOrder="6">
+      <navLabel>
+        <text>Ne var ki çocuğun ıstıraplar dinmek bilmiyor, ısın</text>
+      </navLabel>
+      <content src="main-6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{8D896BBC-DC3E-4DBB-BE04-91679B78B13C}" playOrder="7">
+      <navLabel>
+        <text>Serbinov şehri, kendisini bir hanımın beklediği ba</text>
+      </navLabel>
+      <content src="main-7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="{FCB5D768-A0F6-4A64-B372-8FB836993962}" playOrder="8">
+      <navLabel>
+        <text>ha la?"</text>
+      </navLabel>
+      <content src="main-8.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

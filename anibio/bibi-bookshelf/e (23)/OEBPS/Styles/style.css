@@ -1,0 +1,51 @@
+body {font-family: serif;}
+
+p {font-size: 1em;}
+i, em {font-style: italic;}
+b, strong {font-weight: bold;}
+a {text-decoration: none;}
+blockquote {margin: 1.5em 0;}
+ol {margin: 1.5em 0 1.5em 1.5em; padding-left: 2em;}
+
+.kapak_resmi {text-align: center; margin: 0; padding: 0;}
+
+.ic_kapak_1, .ithaf {margin: 5em 0 1em;}
+.ic_kapak_2 {margin: 1em 0;}
+
+.kitap_adi, .yazar_adi, .cevirmen_adi, .yayinevi_adi, .baslik_1 {font-weight: normal; text-align: center;}
+.kitap_adi, .yazar_adi, .cevirmen_adi, .yayinevi_adi {margin: 0;}
+.baslik_1 {margin: 1em 0;}
+.bolum .baslik_1 {margin: 3em 0;}
+.kitap_adi {font-size: 2em;}
+.baslik_1 {font-size: 1.7em;}
+.yazar_adi {font-size: 1.5em;}
+.cevirmen_adi, .yayinevi_adi {font-size: 1em;}
+
+.kunye p {font-family: sans-serif; font-size: 0.875em; text-align: center; margin: 0;}
+.kunye_1 {margin: 3em 0 1.5em;}
+.kunye_2 {margin: 1.5em 0;}
+.kunye_3 {margin: 4.5em 0 1.5em;}
+
+.yazar {margin: 3em 0 1.5em;}
+
+.harita {text-align: center; margin: 1.5em 0;}
+
+.ithaf p {text-align: center; text-indent: 0; margin: 0;}
+
+.yazar p, .bolum p {text-indent: 1.5em; margin: 0;}
+
+.duzyazi_1, .duzyazi_2, .duzyazi_3 {margin-left: 1.5em;}
+.duzyazi_1 p, .duzyazi_2 p {font-family: monospace; text-indent: 0;}
+.duzyazi_1 p {margin: 0;}
+.duzyazi_2 p {margin: 1em 0;}
+
+p.sag {text-align: right; text-indent: 0;}
+
+p.kayit, p.bolum_arasi {text-align: center; text-indent: 0;}
+p.kayit {margin: 4.5em 0 1.5em;}
+p.bolum_arasi {margin: 1.5em 0 1.1em;}
+
+p.paragraf_1 {margin-top: 1.5em;}
+p.paragraf_2 {margin-top: 3em;}
+
+.dipnotlar p {text-indent: 0; margin: 1em 0;}

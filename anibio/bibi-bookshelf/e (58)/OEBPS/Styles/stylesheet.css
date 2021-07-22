@@ -1,0 +1,272 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    color: black;
+    font-size: 1.2em
+    }
+.calibre2 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1.29167em;
+    font-weight: normal;
+    layout-grid-mode: line;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 30pt 0 6pt
+    }
+.calibre3 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1.29167em;
+    font-weight: normal;
+    layout-grid-mode: line;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 30pt 0 6pt
+    }
+.calibre4 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    float: left;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.calibre5 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre6 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre7 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.calibre8 {
+    height: 69px;
+    width: 359px
+    }
+.calibre9 {
+    display: block
+    }
+.calibre10 {
+    font-size: 1.2em
+    }
+.calibre11 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    font-weight: normal;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 18pt 0 6pt
+    }
+.calibre12 {
+    font-style: italic
+    }
+.calibre13 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    font-weight: normal;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 12pt 0 6pt
+    }
+.calibre14 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    font-weight: normal;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 30pt 0 6pt
+    }
+.calibre15 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    font-weight: normal;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 30pt 0 6pt
+    }
+.MsoBodyTextIndent {
+    background: white;
+    color: black;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    font-style: italic;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    text-align: justify;
+    text-indent: -1.4pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoBodyTextIndent1 {
+    background: white;
+    color: black;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    text-align: justify;
+    text-indent: -36.85pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoBodyTextIndent2 {
+    background: white;
+    color: black;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    text-align: justify;
+    text-indent: -1.4pt;
+    margin: 0 0 0.0001pt 36.85pt
+    }
+.MsoBodyTextIndent3 {
+    background: white;
+    color: black;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    text-align: justify;
+    text-indent: -1.4pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoNormal {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    text-align: center;
+    text-indent: -36.85pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoNormal1 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    margin: 0 0 0.0001pt
+    }
+.MsoNormal2 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    text-align: justify;
+    text-indent: -1.4pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoNormal3 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    text-align: justify;
+    text-indent: -36.85pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoNormal4 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    text-align: center;
+    text-indent: -1.4pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoNormal5 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    text-align: justify;
+    text-indent: -1.4pt;
+    margin: 0 0 0.0001pt 36.85pt
+    }
+.MsoNormal6 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    text-align: justify;
+    text-indent: -36.85pt;
+    margin: 0 0 0.0001pt 36.85pt
+    }
+.MsoNormal7 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    text-indent: -1.4pt;
+    margin: 0 0 6pt 36.85pt
+    }
+.MsoNormal8 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    text-align: justify;
+    text-indent: 36.85pt;
+    margin: 0 0 6pt
+    }
+.MsoNormal9 {
+    background: white;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.83333em;
+    layout-grid-mode: line;
+    line-height: 18pt;
+    text-align: right;
+    text-indent: 36.85pt;
+    margin: 0 0 6pt
+    }
+.WordSection {
+    display: block;
+    page: WordSection1
+    }

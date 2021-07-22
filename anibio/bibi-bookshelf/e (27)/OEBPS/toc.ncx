@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{442E5614-3107-4078-B394-A32885826F3D}" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (2.12.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Anna Seghers - Ödül</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>ÖDÜL</text>
+      </navLabel>
+      <content src="Text/main.xhtml#u7a7d0055-3808-4384-9e62-211da3b2c142"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>BÖLÜMLER</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml#uf8eb1b67-922c-43de-abc2-4a5c19884d02"/>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>BİRİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#uf8eb1b67-922c-43de-abc2-4a5c19884d02"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>İKİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#u315d7bd7-5dee-4e1f-8824-41f1387ea1e0"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>ÜÇÜNCÜ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#u708892a6-2310-458a-af3f-eb9d6d0c10f9"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>DÖRDÜNCÜ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#u4f3fe3e8-ae18-4fe4-8a5d-bc906354d4f0"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>BEŞİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml#u04ebf478-0f0d-4999-9852-9a75d4250e18"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>ALTINCI BÖLÜM</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml#u829d585b-92f6-4909-8f5c-e5b9494bd4c3"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>YEDİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/main-1.xhtml#u3ce4f68d-48c7-46b8-bb27-1a88b58f9ac2"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>SEKİZİNCİ BÖLÜM</text>
+        </navLabel>
+        <content src="Text/main-2.xhtml#u0a1cdc02-f77c-4bc2-b185-7485e856563f"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

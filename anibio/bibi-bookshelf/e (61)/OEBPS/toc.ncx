@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Giyotinli Labirent</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yasal Uyarı</text>
+      </navLabel>
+      <content src="Text/dikkat.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>İçindekiler</text>
+      </navLabel>
+      <content src="Text/toc.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Batan Geminin Ambarı</text>
+      </navLabel>
+      <content src="Text/nakkal1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Orospu Meto</text>
+      </navLabel>
+      <content src="Text/nakkal2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Mona Lisa</text>
+      </navLabel>
+      <content src="Text/nakkal3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Dik Kuyruk</text>
+      </navLabel>
+      <content src="Text/nakkal4.xhtml#heading_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>The Good Marmara</text>
+      </navLabel>
+      <content src="Text/nakkal5.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Sado'nun Saadeti</text>
+      </navLabel>
+      <content src="Text/nakkal6.xhtml#heading_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Minik Çinli</text>
+      </navLabel>
+      <content src="Text/nakkal7.xhtml#heading_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Çerçevedeki Kadın</text>
+      </navLabel>
+      <content src="Text/nakkal8.xhtml#heading_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Melon'un Aşıkları</text>
+      </navLabel>
+      <content src="Text/nakkal9.xhtml#heading_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Gecenin Sevgilileri</text>
+      </navLabel>
+      <content src="Text/nakkal10.xhtml#heading_id_3" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Hayırlı İşler</text>
+      </navLabel>
+      <content src="Text/nakkal13.xhtml#heading_id_2" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Şizofrenin</text>
+      </navLabel>
+      <content src="Text/nakkal14.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Kaptan'ın Serzenişleri</text>
+      </navLabel>
+      <content src="Text/nakkal15.xhtml#heading_id_2" />
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,66 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Rice, Anne">Anne Rice</dc:creator>
+<meta content="Vittorio" name="calibre:title_sort"/>
+    <meta content="2013-12-03T22:21:40.312000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2007-05-05T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d38687e0-ed64-4192-ba98-eb0f14b6f655</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-05-03</dc:date>
+  <dc:title>Vittorio</dc:title>
+<dc:publisher>Martı Yayınları</dc:publisher>
+<meta name="calibre:series" content="Bir Vampirin Hikayesi"/>
+<meta name="calibre:series_index" content="2.0"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Vampir</dc:subject>
+<dc:subject>Korku</dc:subject>
+<dc:subject>Gizem</dc:subject>
+<dc:subject>Gerilim</dc:subject>
+<dc:description>&lt;p&gt;“Küçük bir çocukken korkunç bir rüya görmüştüm. Rüyamda kardeşlerimin kesik başlarını kucağımda tutuyordum. Kocaman, kıpır kıpır gözleri kızarmış yanakları dışında tamamen hareketsiz ve sessizdiler. Benimse adeta dilim tutulmuş, kucağımdaki bu görüntüye baka kalmıştım.
+
+Ve bir gün rüyam gerçek oldu.
+
+Ama kimse ne onlar nede benim için ağlayabilir artık, çünkü isimsiz olarak gömülmelerinden bu yana beş yüz yıl geçti.
+
+Ben bir vampirim.
+
+Adım Vittorio…”
+
+
+
+“pandora” ve “Vampirle konuşma”nın yazarı Anne Rice bu kitapta bizi ortaçağın Floransa'sına, Vittorio'nun ülkesine götürüyor.
+
+
+
+“Romeo ve Juliet”in vampir versiyonu olarak adlandırılan bu roman, kutsal ve lanetli harikalarla dolu bir Rönesans İtalya'sında genç aşkın ve masumiyetin yitiriliş öyküsünü anlatıyor.
+&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Anne Rice&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">a034bf7e-685d-4eea-b0a7-3f7fbbee1256</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789758461745</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/index_split_000.html" id="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="index_split_000.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="Section0003.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

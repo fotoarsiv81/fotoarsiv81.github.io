@@ -1,0 +1,73 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Malraux, Andre">Andre Malraux</dc:creator>
+<dc:identifier id="uuid">{C4F87301-3352-47A1-B41F-C929B4C5DCB7}</dc:identifier>
+    <dc:publisher>İletişim Yayınları</dc:publisher>
+    <dc:date>2015-06-30T21:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;p&gt;Umut, İspanyol iç savaşını bir faşizm çözümlemesiyle birlikte aktarıyor. Romanın dokusu, mücadelenin seyrini belirleyecek kent olan Madrid’de kurulmuş. Faşist saldırılara karşı sosyalistlerin cumhuriyetçiler, anarşistler ve sendikacılarla kurduğu cephe, ülkenin her yerinde çökmek üzeredir. Askerî karmaşa ideolojilerde de yansımasını bulur. Devrimci ordunun içindeki görüşleri ayırt etmek giderek olanaksızlaşır. Paris Komünü ve Sovyet Devrimi, geçmişteki modeller olarak direnişçilerin belleğinde birer imgedir. Silahlı sivillerle dolu kamyonların, sürekli söylenen Enternasyonal marşının, strateji tartışmalarının arasında hep cesetler vardır. Çatışmalarda düşenler, kurşuna dizilenler... Yaşam ile ölüm arasında, bıçak sırtındaki çizgi hep sezdirilir.&lt;/p&gt; &lt;p&gt;Malraux 1937’de yayımlanan bu romanında, diktatörlüğü yıllarca sürecek Franco’nun, halkın bir bölümünden de aldığı destekle yıktığı barikatların öyküsünü anlatıyor. Yazar, “Devrim”i, hem bir kavram olarak, hem de İspanya’da geçen bir tragedya olarak sorguluyor.&lt;/p&gt; &lt;/div&gt;</dc:description>
+    <meta content="Umut" name="calibre:title_sort"/>
+    <meta content="{&quot;Andre Malraux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="id"/>
+    <meta content="0.8.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2015-07-05</dc:date>
+  <meta name="calibre:rating" content="8.0"/>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:title>Umut</dc:title>
+<dc:subject>Roman</dc:subject>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e2fce481-7717-406b-b53f-f9f99dd7ebaf</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789754706734</dc:identifier>
+<meta name="calibre:user_metadata:#mm_annotations" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#mm_annotations&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;comments&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;mm_annotations&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Annotations&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="Text/kapak.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye1.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye2.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye3.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/ithaf.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/birinci.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/1_1_1.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/1_1_2.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/1_1_3.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/1_2_1.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/1_2_2.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/ikinci.xhtml" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/2_1.xhtml" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/2_2.xhtml" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/ucuncu.xhtml" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/3_1.xhtml" id="id30" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.xhtml" id="id31" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id13" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/kunye.css" id="id19" media-type="text/css"/>
+    <item href="Styles/main.css" id="id12" media-type="text/css"/>
+    <item href="Images/cover1.jpg" id="id" media-type="image/jpeg"/>
+    <item href="Images/iletisim.png" id="id15" media-type="image/png"/>
+  </manifest>
+  <spine toc="id13">
+    <itemref idref="id16"/>
+    <itemref idref="id2"/>
+    <itemref idref="id20"/>
+    <itemref idref="id1"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id25"/>
+    <itemref idref="id5"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.xhtml" type="cover"/>
+  </guide>
+</package>

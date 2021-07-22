@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+<head>
+<meta content="AWP-AD056119-661F-4A02-A211-D02E9E99284F" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Arthur C Clarke - 2010 Bir Uzay Efsanesi 2</text>
+</docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel>
+<text>Title page</text>
+</navLabel>
+<content src="Text/001.html"/>
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel>
+<text>ARTHUR C. CLARKE</text>
+</navLabel>
+<content src="Text/005.html"/>
+</navPoint>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel>
+<text>Yazarın Notu</text>
+</navLabel>
+<content src="Text/006.html"/>
+</navPoint>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel>
+<text>1 - LEONOV</text>
+</navLabel>
+<content src="Text/008.html"/>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel>
+<text>MERKEZDEKİ BULUŞMA</text>
+</navLabel>
+<content src="Text/009.html"/>
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel>
+<text>YUNUSLARIN EVİ</text>
+</navLabel>
+<content src="Text/010.html"/>
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel>
+<text>SAL 9000</text>
+</navLabel>
+<content src="Text/011.html"/>
+</navPoint>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel>
+<text>GÖREV PROFİLİ</text>
+</navLabel>
+<content src="Text/012.html"/>
+</navPoint>
+<navPoint id="navpoint-9" playOrder="9">
+<navLabel>
+<text>LEONOV</text>
+</navLabel>
+<content src="Text/013.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-10" playOrder="10">
+<navLabel>
+<text>2 - TSIEN</text>
+</navLabel>
+<content src="Text/014.html"/>
+<navPoint id="navpoint-11" playOrder="11">
+<navLabel>
+<text>UYANIŞ</text>
+</navLabel>
+<content src="Text/015.html"/>
+</navPoint>
+<navPoint id="navpoint-12" playOrder="12">
+<navLabel>
+<text>TSIEN</text>
+</navLabel>
+<content src="Text/015.html#ncx429"/>
+</navPoint>
+<navPoint id="navpoint-13" playOrder="13">
+<navLabel>
+<text>JÜPİTER GEÇİŞİ</text>
+</navLabel>
+<content src="Text/015.html#ncx448"/>
+</navPoint>
+<navPoint id="navpoint-14" playOrder="14">
+<navLabel>
+<text>BÜYÜK KANALDAKİ BUZ</text>
+</navLabel>
+<content src="Text/016.html"/>
+</navPoint>
+<navPoint id="navpoint-15" playOrder="15">
+<navLabel>
+<text>EUROPA'DAN BİR ÇIĞLIK</text>
+</navLabel>
+<content src="Text/017.html"/>
+</navPoint>
+<navPoint id="navpoint-16" playOrder="16">
+<navLabel>
+<text>BUZ VE BOŞLUK</text>
+</navLabel>
+<content src="Text/018.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-17" playOrder="17">
+<navLabel>
+<text>3 - DISCOVERY</text>
+</navLabel>
+<content src="Text/019.html"/>
+<navPoint id="navpoint-18" playOrder="18">
+<navLabel>
+<text>DALIŞ</text>
+</navLabel>
+<content src="Text/020.html"/>
+</navPoint>
+<navPoint id="navpoint-19" playOrder="19">
+<navLabel>
+<text>GALLILEO'NUN DÜNYALARI</text>
+</navLabel>
+<content src="Text/021.html"/>
+</navPoint>
+<navPoint id="navpoint-20" playOrder="20">
+<navLabel>
+<text>ÇİFTE BULUŞMA</text>
+</navLabel>
+<content src="Text/022.html"/>
+</navPoint>
+<navPoint id="navpoint-21" playOrder="21">
+<navLabel>
+<text>DEVDEN KAÇIŞ</text>
+</navLabel>
+<content src="Text/023.html"/>
+</navPoint>
+<navPoint id="navpoint-22" playOrder="22">
+<navLabel>
+<text>KİŞİSEL HAT</text>
+</navLabel>
+<content src="Text/024.html"/>
+</navPoint>
+<navPoint id="navpoint-23" playOrder="23">
+<navLabel>
+<text>GEMİYE BİNİŞ PARTİSİ</text>
+</navLabel>
+<content src="Text/025.html"/>
+</navPoint>
+<navPoint id="navpoint-24" playOrder="24">
+<navLabel>
+<text>KURTARIŞ</text>
+</navLabel>
+<content src="Text/026.html"/>
+</navPoint>
+<navPoint id="navpoint-25" playOrder="25">
+<navLabel>
+<text>DEĞİRMEN OPERASYONU</text>
+</navLabel>
+<content src="Text/027.html"/>
+</navPoint>
+<navPoint id="navpoint-26" playOrder="26">
+<navLabel>
+<text>GİYOTİN</text>
+</navLabel>
+<content src="Text/028.html"/>
+</navPoint>
+<navPoint id="navpoint-27" playOrder="27">
+<navLabel>
+<text>DİRİLİŞ</text>
+</navLabel>
+<content src="Text/029.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-28" playOrder="28">
+<navLabel>
+<text>4 - LAGRANGE</text>
+</navLabel>
+<content src="Text/030.html"/>
+<navPoint id="navpoint-29" playOrder="29">
+<navLabel>
+<text>BÜYÜK BİRADER</text>
+</navLabel>
+<content src="Text/031.html"/>
+</navPoint>
+<navPoint id="navpoint-30" playOrder="30">
+<navLabel>
+<text>BULUŞMA</text>
+</navLabel>
+<content src="Text/032.html"/>
+</navPoint>
+<navPoint id="navpoint-31" playOrder="31">
+<navLabel>
+<text>ÖN ARAŞTIRMA</text>
+</navLabel>
+<content src="Text/033.html"/>
+</navPoint>
+<navPoint id="navpoint-32" playOrder="32">
+<navLabel>
+<text>LAGRANGE'DEN MANZARA</text>
+</navLabel>
+<content src="Text/034.html"/>
+</navPoint>
+<navPoint id="navpoint-33" playOrder="33">
+<navLabel>
+<text>GÖZALTI</text>
+</navLabel>
+<content src="Text/035.html"/>
+</navPoint>
+<navPoint id="navpoint-34" playOrder="34">
+<navLabel>
+<text>PERDE ARASI; SAMİMİ İTİRAFLAR</text>
+</navLabel>
+<content src="Text/036.html"/>
+</navPoint>
+<navPoint id="navpoint-35" playOrder="35">
+<navLabel>
+<text>DÜŞ KIRIKLIĞI</text>
+</navLabel>
+<content src="Text/037.html"/>
+</navPoint>
+<navPoint id="navpoint-36" playOrder="36">
+<navLabel>
+<text>ORTAYA ÇIKIŞ</text>
+</navLabel>
+<content src="Text/038.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-37" playOrder="37">
+<navLabel>
+<text>5 - YILDIZLARIN ÇOCUĞU</text>
+</navLabel>
+<content src="Text/039.html"/>
+<navPoint id="navpoint-38" playOrder="38">
+<navLabel>
+<text>EVE DÖNÜŞ</text>
+</navLabel>
+<content src="Text/040.html"/>
+</navPoint>
+<navPoint id="navpoint-39" playOrder="39">
+<navLabel>
+<text>DISNEYVILLE</text>
+</navLabel>
+<content src="Text/041.html"/>
+</navPoint>
+<navPoint id="navpoint-40" playOrder="40">
+<navLabel>
+<text>CRYSTAL SPRING</text>
+</navLabel>
+<content src="Text/042.html"/>
+</navPoint>
+<navPoint id="navpoint-41" playOrder="41">
+<navLabel>
+<text>BETTY</text>
+</navLabel>
+<content src="Text/043.html"/>
+</navPoint>
+<navPoint id="navpoint-42" playOrder="42">
+<navLabel>
+<text>VEDA</text>
+</navLabel>
+<content src="Text/044.html"/>
+</navPoint>
+<navPoint id="navpoint-43" playOrder="43">
+<navLabel>
+<text>TEDAVİ</text>
+</navLabel>
+<content src="Text/045.html"/>
+</navPoint>
+<navPoint id="navpoint-44" playOrder="44">
+<navLabel>
+<text>DERİNLERDEKİ YANGIN</text>
+</navLabel>
+<content src="Text/046.html"/>
+</navPoint>
+<navPoint id="navpoint-45" playOrder="45">
+<navLabel>
+<text>SOĞUMA</text>
+</navLabel>
+<content src="Text/047.html"/>
+</navPoint>
+<navPoint id="navpoint-46" playOrder="46">
+<navLabel>
+<text>KÖPÜK MANZARASI</text>
+</navLabel>
+<content src="Text/048.html"/>
+</navPoint>
+<navPoint id="navpoint-47" playOrder="47">
+<navLabel>
+<text>POD BAY'DE</text>
+</navLabel>
+<content src="Text/049.html"/>
+</navPoint>
+<navPoint id="navpoint-48" playOrder="48">
+<navLabel>
+<text>"DAISY, DAISY..."</text>
+</navLabel>
+<content src="Text/050.html"/>
+</navPoint>
+<navPoint id="navpoint-49" playOrder="49">
+<navLabel>
+<text>GECE NÖBETİ</text>
+</navLabel>
+<content src="Text/051.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-50" playOrder="50">
+<navLabel>
+<text>6 - DÜNYALARI YİYEN</text>
+</navLabel>
+<content src="Text/052.html"/>
+<navPoint id="navpoint-51" playOrder="51">
+<navLabel>
+<text>MAKİNEDEKİ HAYALET</text>
+</navLabel>
+<content src="Text/053.html"/>
+</navPoint>
+<navPoint id="navpoint-52" playOrder="52">
+<navLabel>
+<text>DÜŞÜNCE DENEYİ</text>
+</navLabel>
+<content src="Text/054.html"/>
+</navPoint>
+<navPoint id="navpoint-53" playOrder="53">
+<navLabel>
+<text>KAYBOLMA NUMARASI</text>
+</navLabel>
+<content src="Text/055.html"/>
+</navPoint>
+<navPoint id="navpoint-54" playOrder="54">
+<navLabel>
+<text>KAÇIŞ MANEVRASI</text>
+</navLabel>
+<content src="Text/055.html#ncx1705"/>
+</navPoint>
+<navPoint id="navpoint-55" playOrder="55">
+<navLabel>
+<text>GERİ SAYIM</text>
+</navLabel>
+<content src="Text/056.html"/>
+</navPoint>
+<navPoint id="navpoint-56" playOrder="56">
+<navLabel>
+<text>TEĞET GEÇİŞ</text>
+</navLabel>
+<content src="Text/057.html"/>
+</navPoint>
+<navPoint id="navpoint-57" playOrder="57">
+<navLabel>
+<text>GECE TARAFINDA</text>
+</navLabel>
+<content src="Text/058.html"/>
+</navPoint>
+<navPoint id="navpoint-58" playOrder="58">
+<navLabel>
+<text>DÜNYALARI YİYEN</text>
+</navLabel>
+<content src="Text/059.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-59" playOrder="59">
+<navLabel>
+<text>7 - LUCIFER YÜKSELİYOR</text>
+</navLabel>
+<content src="Text/060.html"/>
+<navPoint id="navpoint-60" playOrder="60">
+<navLabel>
+<text>JÜPİTER'E ELVEDA</text>
+</navLabel>
+<content src="Text/061.html"/>
+</navPoint>
+<navPoint id="navpoint-61" playOrder="61">
+<navLabel>
+<text>BÜYÜK OYUN</text>
+</navLabel>
+<content src="Text/062.html"/>
+</navPoint>
+<navPoint id="navpoint-62" playOrder="62">
+<navLabel>
+<text>ATEŞLEME</text>
+</navLabel>
+<content src="Text/063.html"/>
+</navPoint>
+<navPoint id="navpoint-63" playOrder="63">
+<navLabel>
+<text>DÜNYALARDAN BİR HEDİYE</text>
+</navLabel>
+<content src="Text/064.html"/>
+</navPoint>
+<navPoint id="navpoint-64" playOrder="64">
+<navLabel>
+<text>GÜNEŞLER ARASINDA</text>
+</navLabel>
+<content src="Text/065.html"/>
+</navPoint>
+<navPoint id="navpoint-65" playOrder="65">
+<navLabel>
+<text>LUCIFER YÜKSELİYOR</text>
+</navLabel>
+<content src="Text/066.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-66" playOrder="66">
+<navLabel>
+<text>SONSÖZ: 20,001</text>
+</navLabel>
+<content src="Text/067.html"/>
+</navPoint>
+<navPoint id="navpoint-67" playOrder="67">
+<navLabel>
+<text>TEŞEKKÜRLER</text>
+</navLabel>
+<content src="Text/068.html"/>
+</navPoint>
+<navPoint id="navpoint-68" playOrder="68">
+<navLabel>
+<text>UZAY EFSANESİ SÜRÜYOR</text>
+</navLabel>
+<content src="Text/069.html"/>
+</navPoint>
+</navMap>
+</ncx>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:contributor opf:role="bkp">calibre (2.18.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4597e4ad-b558-477b-bf88-06514ce5bf23</dc:identifier>
+    <dc:identifier opf:scheme="calibre">4597e4ad-b558-477b-bf88-06514ce5bf23</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:subject>Roman</dc:subject>
+    <dc:publisher>Metis</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Rus edebiyatının geç keşfedilmiş ustalarından biri olan Andrey Platonov'un 1930'larda yazdığı Mutlu Moskova, Rusya'da ancak 1991'de, eski rejim yıkıldıktan sonra yayımlanabildi. Roman küçük yaşta öksüz kalan Moskova Çestnova'nın etrafında dönüyor. Hayatı keşfetmeye çalışan, içi içine sığmayan Moskova meslekten mesleğe ve bir romantik ilişkiden diğerine geçerken hem değişik tecrübeler yaşıyor hem de ilginç karakterlerle karşılaşıyor.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Moskova'nın yaşadıkları ve tanıştığı kişiler üzerinden, insan ruhunu amansız bir savaş meydanına çeviren karşıt güçleri de ustalıkla betimliyor Platonov: Birilerine, bir şeylere bağlanma ihtiyacı ve bu bağlılıktan duyulan korku, mantık ve duygular; toplumsal benlik ve bireysel benlik, bir şeyler yapma arzusu ve bu arzuyu öldüren nafilelik hissi...&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Tıpkı Platonov'un diğer eserleri gibi, Mutlu Moskova da Stalin dönemindeki idealist propagandalara karşılık toplumsal gerçekliği gözler önüne seren, insana dair ebedi ve ezeli meseleleri kurcalayarak varoluşu sorgulayan, her cümlesi yazarın özgün zihninin ve kaleminin damgasını taşıyan bir roman.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>tr</dc:language>
+    <dc:creator opf:file-as="AndreyPlatonov" opf:role="aut">AndreyPlatonov</dc:creator>
+    <meta name="calibre:timestamp" content="2015-03-01T13:43:32.506000+00:00"/>
+    <meta name="calibre:title_sort" content="Mutlu Moskova"/>
+    <meta name="cover" content="cover"/>
+    <dc:title>Mutlu Moskova</dc:title>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="main-1.png" id="id1" media-type="image/png"/>
+    <item href="main-1.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="main-2.png" id="id2" media-type="image/png"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

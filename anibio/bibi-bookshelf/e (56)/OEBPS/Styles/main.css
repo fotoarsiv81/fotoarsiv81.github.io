@@ -1,0 +1,24 @@
+p {
+margin:0 auto 0 auto;
+text-indent:1.5em;
+text-align:justify;}
+a:link {text-decoration: none;}
+sub, sup { 
+font-size: 75%;
+line-height: 0; 
+}
+sup {top: -0.25em;}
+sub {bottom: -0.25em;}
+
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always;font-size:0.8em;}
+
+.ekdg-logo {text-align: center; margin: 5em 0 1em;}
+
+.yildiz {text-indent: 0em;text-align:center;margin-bottom:0.5em;margin-top:0.5em;}
+
+.bos{margin-top:10.3em;}
+.bos05{margin-top:0.5em;}
+
+.bas1{text-indent: 0em;text-align:center;font-size:1.3em;margin-bottom:2em;margin-top:4.6em;}
+
+.gir1{margin-left:5em;margin-top:2em;margin-bottom:2em;}

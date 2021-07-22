@@ -1,0 +1,49 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Clarke, Arthur C.">Arthur C. Clarke</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">9eec553d-a0bb-4fcc-9b60-915fd87d6b13</dc:identifier>
+    <dc:publisher>İthaki Yayınları</dc:publisher>
+    <dc:date>2014-03-24T22:00:00+00:00</dc:date>
+    <meta content="2011-07-03T10:52:20.117518+00:00" name="calibre:timestamp"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="kapak.jpg"/>
+  <dc:title>3001 Uzay Efsanesi (Son Efsane)</dc:title>
+<meta name="calibre:title_sort" content="3001 Uzay Efsanesi (Son Efsane)"/>
+<meta name="calibre:series" content="Uzay Efsanesi"/>
+<meta name="calibre:series_index" content="4.0"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Bilim kurgu</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Uzay</dc:subject>
+<dc:description>&lt;p&gt;Ve uzay efsanesi, tehlikelerle yüklü final sürecine giriyor. İnsanlık, güneş sistemi’ne hükmeden üç tektaşa karşı duyduğu korkuya rağmen, ayakta kalmayı başarmıştır. Korkunun ortasında bir umut ışığı belirmiştir. Binlerce yıl önce öldüğüne inanılan Frank Poole’un bedeni “bilinçli bir yaşama” döndürülebilmiştir. Ancak Poole’un her şeyden önce, tektaşın içerisinde Dave Bowman ve Hal’ın başına ne geldiğini anlaması gerekmektedir.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Arthur C. Clarke&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">0a557bef-0126-4a4e-ae34-b51cae8a8c4d</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9756902191</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.html" id="Section0003.html" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/index_split_001.html" id="index_split_001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="index_split_002.html" media-type="application/xhtml+xml"/>
+    <item href="Images/kapak.jpg" id="kapak.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="index_split_001.html"/>
+    <itemref idref="Section0001.html"/>
+    <itemref idref="Section0002.html"/>
+    <itemref idref="index_split_002.html"/>
+    <itemref idref="Section0003.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

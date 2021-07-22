@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="5e9abcfb-bc66-4ff3-bad5-ed0788e6c0cd" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.51)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Büyük Oyunlar İvanov, Orman Cini, Vanya Dayı, Martı, Üç Kızkardeş, Vişne Bahçesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="72b4f224-81fa-48f6-941c-ff5f981f4232" playOrder="1">
+      <navLabel>
+        <text>Oyun Yazarı Olarak Anton Çehov</text>
+      </navLabel>
+      <content src="anton_split_003.html"/>
+    </navPoint>
+    <navPoint id="f5da9308-7aa6-4855-83f3-b684d79748c6" playOrder="2">
+      <navLabel>
+        <text>İVANOV</text>
+      </navLabel>
+      <content src="anton_split_004.html"/>
+    </navPoint>
+    <navPoint id="1c2c94e0-e027-47cf-a9c7-a76130b9f8b7" playOrder="3">
+      <navLabel>
+        <text>ORMAN CİNİ</text>
+      </navLabel>
+      <content src="anton_split_010.html"/>
+    </navPoint>
+    <navPoint id="cddeb5d0-4d13-4509-a6e7-399af2fc79a6" playOrder="4">
+      <navLabel>
+        <text>VANYA DAYI</text>
+      </navLabel>
+      <content src="anton_split_014.html"/>
+    </navPoint>
+    <navPoint id="ec0b2eb5-42ce-4c3a-a395-fc11fb469d40" playOrder="5">
+      <navLabel>
+        <text>MARTI</text>
+      </navLabel>
+      <content src="anton_split_019.html"/>
+    </navPoint>
+    <navPoint id="67dabd76-4e70-4ae1-bfba-8974f0c135d5" playOrder="6">
+      <navLabel>
+        <text>ÜÇ KIZ KARDEŞ</text>
+      </navLabel>
+      <content src="anton_split_024.html"/>
+    </navPoint>
+    <navPoint id="711089e8-3e5c-4a3a-8fb8-9e678de814f8" playOrder="7">
+      <navLabel>
+        <text>VİŞNE BAHÇESİ</text>
+      </navLabel>
+      <content src="anton_split_029.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

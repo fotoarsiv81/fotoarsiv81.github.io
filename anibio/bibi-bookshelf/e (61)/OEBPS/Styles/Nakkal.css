@@ -1,0 +1,46 @@
+.ufak {
+    font-size: 68%;
+}
+
+.not {
+    margin-left: 5%;
+    margin-right 10%;
+}
+
+
+.uzunara {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.merkez {
+    text-align: center
+}
+
+.ufakcaps {
+    font-variant: small-caps;
+}
+
+p.noind {
+    text-align: justify;
+    text-indent: 0;
+}
+
+h1.giris {
+    text-align: center;
+}
+
+p.dilek {
+    font-style: italic; 
+    text-align: right
+}
+
+h2.icindebaslik {
+    text-align: center;
+}
+
+ p.icindekilersira {
+    text-align: center;
+    font-size: 93%;
+}

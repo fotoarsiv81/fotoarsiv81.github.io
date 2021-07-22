@@ -1,0 +1,49 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    src: url(fonts/Times-New-Roman.ttf);
+    panose-1: 2 2 6 3 5 4 5 2 3 4;
+    font-family: "Times New Roman"
+    }
+@font-face {
+    src: url(fonts/Times-New-Roman-Italic.ttf);
+    panose-1: 2 2 5 3 5 4 5 9 3 4;
+    font-family: "Times New Roman";
+    font-style: italic
+    }
+@font-face {
+    src: url(fonts/Times-New-Roman-Bold.ttf);
+    panose-1: 2 2 8 3 7 5 5 2 3 4;
+    font-family: "Times New Roman";
+    font-weight: bold
+    }
+@font-face {
+    src: url(fonts/Times-New-Roman-Bold-Italic.ttf);
+    panose-1: 2 2 7 3 6 5 5 9 3 4;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-style: italic
+    }
+@font-face {
+    font-family: "Georgia";
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    src: url(fonts/Georgia.ttf)
+    }
+@font-face {
+    font-family: "Liberation Serif";
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    src: url(fonts/Liberation-Serif.ttf)
+    }
+@font-face {
+    font-family: "Calibri";
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    src: url(fonts/Calibri.ttf)
+    }

@@ -1,0 +1,1998 @@
+.Balk {
+  font-family: "Georgia";
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0.5pt;
+  line-height: 1.2;
+  text-decoration: none;
+  text-line-through: none;
+}
+.Balk1 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 1em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  page-break-after: avoid;
+  text-indent: 1.5em;
+  margin: 0 0 0 2pt;
+}
+.calibre {
+  display: block;
+  font-size: 1.29167em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  text-justify-trim: punctuation;
+  margin: 0 5pt;
+}
+.calibre1 {
+  color: #365F91;
+  display: block;
+  font-family: "Georgia";
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 24pt 0 0.0001pt;
+}
+.calibre2 {
+  line-height: 1.2;
+}
+.calibre3 {
+  color: black;
+  line-height: 1.2;
+  text-decoration: none;
+}
+.calibre4 {
+  font-family: "Georgia";
+  font-size: 0.9em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.calibre5 {
+  color: black;
+  text-decoration: none;
+}
+.calibre6 {
+  font-weight: normal;
+  line-height: 1.2;
+}
+.calibre7 {
+  font-weight: bold;
+}
+.calibre8 {
+  color: black;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+}
+.calibre9 {
+  display: block;
+  page-break-before: auto;
+}
+.calibre10 {
+  font-size: 1.2em;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.calibre11 {
+  color: #365F91;
+  display: block;
+  font-family: "Georgia";
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  margin: 24pt 0 0.0001pt;
+}
+.calibre12 {
+  font-style: normal;
+}
+.calibre13 {
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre14 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+}
+.calibre15 {
+  border-collapse: separate;
+  border-spacing: 2px;
+  display: table;
+  float: left;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: left;
+  text-indent: 0;
+}
+.calibre16 {
+  display: table-row-group;
+  vertical-align: middle;
+}
+.calibre17 {
+  display: table-row;
+  vertical-align: inherit;
+}
+.calibre18 {
+  display: table-cell;
+  text-align: left;
+  vertical-align: inherit;
+  padding: 9.4pt 0;
+}
+.calibre19 {
+  text-decoration: none;
+}
+.calibre20 {
+  font-size: 1em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre21 {
+  font-weight: normal;
+}
+.calibre22 {
+  font-size: 0.75em;
+}
+.calibre23 {
+  font-size: 1.29167em;
+  line-height: 1.2;
+}
+.calibre24 {
+  display: table-cell;
+  text-align: left;
+  vertical-align: inherit;
+  padding: 9.55pt 0;
+}
+.calibre25 {
+  color: black;
+  font-size: 1em;
+  font-style: normal;
+  line-height: 1.2;
+}
+.calibre26 {
+  color: black;
+  font-size: 1em;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.calibre27 {
+  display: block;
+}
+.calibre28 {
+  font-weight: bold;
+  line-height: 1.2;
+}
+.calibre29 {
+  font-size: 0.77419em;
+}
+.calibre30 {
+  display: table-cell;
+  text-align: left;
+  vertical-align: inherit;
+  padding: 9.6pt 0;
+}
+.calibre31 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre32 {
+  font-size: 1em;
+  line-height: 1.2;
+  vertical-align: sub;
+}
+.calibre33 {
+  display: table-cell;
+  text-align: left;
+  vertical-align: inherit;
+  padding: 10.1pt 0;
+}
+.calibre34 {
+  display: table-cell;
+  text-align: left;
+  vertical-align: inherit;
+  padding: 10.55pt 0;
+}
+.calibre35 {
+  color: black;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+}
+.calibre36 {
+  display: table-cell;
+  text-align: left;
+  vertical-align: inherit;
+  padding: 10.3pt 0;
+}
+.calibre37 {
+  display: table-cell;
+  text-align: left;
+  vertical-align: inherit;
+  padding: 22.95pt 0;
+}
+.calibre38 {
+  color: black;
+  font-family: "Georgia";
+  font-size: 0.48387em;
+}
+.calibre39 {
+  display: table-cell;
+  text-align: left;
+  vertical-align: inherit;
+  padding: 0;
+}
+.calibre40 {
+  display: table-cell;
+  text-align: left;
+  vertical-align: inherit;
+  padding: 10pt 0;
+}
+.calibre41 {
+  color: black;
+  font-family: "Georgia";
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre42 {
+  display: table-cell;
+  text-align: left;
+  vertical-align: inherit;
+  padding: 9.7pt 0;
+}
+.calibre43 {
+  display: table-cell;
+  text-align: left;
+  vertical-align: inherit;
+  padding: 9.1pt 0;
+}
+.calibre44 {
+  font-size: 1.2em;
+  font-style: normal;
+  line-height: 1.2;
+}
+.calibre45 {
+  color: #365F91;
+  font-family: "Georgia";
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre46 {
+  display: block;
+  line-height: 1.2;
+  page-break-before: auto;
+}
+.calibre47 {
+  border-collapse: separate;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: center;
+  text-indent: 0;
+}
+.calibre48 {
+  display: block;
+}
+.calibre49 {
+  font-size: 0.48387em;
+}
+.calibre50 {
+  color: black;
+  font-family: "Georgia";
+  font-size: 0.48387em;
+}
+.calibre51 {
+  font-size: 1em;
+  font-style: normal;
+  line-height: 1.2;
+}
+.calibre52 {
+  font-size: 0.9em;
+  line-height: 1.2;
+}
+.calibre53 {
+  color: gray;
+  display: block;
+  height: 2px;
+  text-align: left;
+  border-top: currentColor solid 1px;
+  border-right: currentColor none 1px;
+  border-bottom: currentColor none 1px;
+  border-left: currentColor none 1px;
+  margin: 0.5em auto;
+}
+.calibre54 {
+  color: black;
+  font-family: "Georgia";
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre55 {
+  font-size: 1.33333em;
+  line-height: 1.2;
+}
+.calibre56 {
+  color: black;
+  font-family: "Georgia";
+  font-size: 1em;
+}
+.calibre57 {
+  font-size: 1.11111em;
+}
+.Dipnot {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.58065em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 0 0 1pt;
+}
+.Dipnot1 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.58065em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0;
+}
+.Dipnot2 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.58065em;
+  line-height: 12.7pt;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 161pt 0 1pt;
+}
+.Gvdemetni {
+  font-family: "Georgia";
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0;
+  text-decoration: none;
+  text-line-through: none;
+}
+.Gvdemetni1 {
+  font-family: "Georgia";
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0;
+  text-decoration: none underline;
+  text-line-through: none;
+}
+.Gvdemetni2 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 0 0 1pt;
+}
+.Gvdemetni3 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 1pt;
+}
+.Gvdemetni3d {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 0 0 116pt;
+}
+.Gvdemetni3d1 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 0 0 1pt;
+}
+.Gvdemetni3d2 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 0 0 5pt;
+}
+.Gvdemetni3d3 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0;
+}
+.Gvdemetni4 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0;
+}
+.Gvdemetni5 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.48387em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: left;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 0 0 185pt;
+}
+.Gvdemetni6 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 0 0 5pt;
+}
+.Gvdemetni7 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.58065em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0;
+}
+.Gvdemetni8 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.48387em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: left;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 0 0 2pt;
+}
+.Gvdemetni9 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.48387em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: left;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 0 0 178pt;
+}
+.Gvdemetni9pt0ptbolukbraklyor {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0.5pt;
+  text-decoration: none;
+  text-line-through: none;
+}
+.Gvdemetni10 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.48387em;
+  font-style: italic;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 1pt;
+}
+.Gvdemetni10ptKalntalik0ptbolukbraklyor75lekleniyor {
+  font-style: italic;
+  font-variant: normal;
+  font-weight: bold;
+  letter-spacing: 0.5pt;
+  text-decoration: none;
+  text-line-through: none;
+}
+.Gvdemetni10ptKalntalik75lekleniyor {
+  font-style: italic;
+  font-variant: normal;
+  font-weight: bold;
+  letter-spacing: 0;
+  text-decoration: none;
+  text-line-through: none;
+}
+.Gvdemetni11 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-style: italic;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 2pt 0 11pt;
+}
+.Gvdemetni11a {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 0 0 5pt;
+}
+.Gvdemetni11a1 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0;
+}
+.Gvdemetni11a2 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 0 0 11pt;
+}
+.Gvdemetni11a3 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 17pt 0 2pt;
+}
+.Gvdemetni11a4 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 0 0 2pt;
+}
+.Gvdemetni11a5 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 5pt 0 2pt;
+}
+.Gvdemetni11a6 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 87pt 0 2pt;
+}
+.Gvdemetni11a7 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 0 0 1pt;
+}
+.Gvdemetni11a8 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 42pt 0 1pt;
+}
+.Gvdemetni11a9 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 64pt 0 1pt;
+}
+.Gvdemetni11a10 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 3pt;
+}
+.Gvdemetni11a11 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 0 0 3pt;
+}
+.Gvdemetni11a12 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 14pt 0 2pt;
+}
+.Gvdemetni11a13 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 49pt 0 2pt;
+}
+.Gvdemetni11a14 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 3pt 0 1pt;
+}
+.Gvdemetni11a15 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 7pt 0 2pt;
+}
+.Gvdemetni11a16 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 2pt 0 12pt;
+}
+.Gvdemetni11a17 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 2pt;
+}
+.Gvdemetni11a18 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 85pt 0 2pt;
+}
+.Gvdemetni12 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-style: italic;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 5pt 0 2pt;
+}
+.Gvdemetni13 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 1em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 0 0 2pt;
+}
+.Gvdemetni14 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-style: italic;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 6pt 0 1pt;
+}
+.Gvdemetni15 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-style: italic;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 0 0 1pt;
+}
+.Gvdemetni16 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-style: italic;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 3pt 0 1pt;
+}
+.Gvdemetni17 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0 0 0 2pt;
+}
+.Gvdemetni105pttalik {
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0;
+  text-decoration: none underline;
+  text-line-through: none;
+}
+.Gvdemetni395ptKalnDeil {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  letter-spacing: 0;
+  text-decoration: none;
+  text-line-through: none;
+}
+.Gvdemetni1175pt {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0;
+  line-height: 1.2;
+  text-decoration: none;
+  text-line-through: none;
+}
+.Gvdemetni2385pttalikdeil {
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0;
+  line-height: 1.2;
+  text-decoration: none;
+  text-line-through: none;
+}
+.Gvdemetnifd {
+  font-family: "Georgia";
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0;
+  line-height: 1.2;
+  text-decoration: none;
+  text-line-through: none;
+}
+.Gvdemetniff {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 1pt;
+}
+.Gvdemetniff1 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 -7pt 0 1pt;
+}
+.Gvdemetniff2 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: left;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 1pt;
+}
+.Gvdemetniff3 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 233.55pt;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 0 0 5pt;
+}
+.Gvdemetniff4 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 1pt 0 5pt;
+}
+.Gvdemetniff5 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 -4pt 0 1pt;
+}
+.Gvdemetniff6 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 1pt 0 2pt;
+}
+.Gvdemetniff7 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 -7pt 0 2pt;
+}
+.Gvdemetniff8 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 0 0 1pt;
+}
+.Gvdemetniff9 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: left;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 0 0 1pt;
+}
+.Gvdemetniff10 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 9pt 0 1pt;
+}
+.Gvdemetniff11 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 1pt 0 0;
+}
+.Gvdemetniff12 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 14pt 0 1pt;
+}
+.Gvdemetniff13 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 4pt 0 1pt;
+}
+.Gvdemetniff14 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 2pt 0 1pt;
+}
+.Gvdemetniff15 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 0 0 2pt;
+}
+.Gvdemetniff16 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 3pt 0 1pt;
+}
+.Gvdemetniff17 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 291.95pt;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 3pt 0 1pt;
+}
+.Gvdemetniff18 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 277.95pt;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 3pt 0 1pt;
+}
+.Gvdemetniff19 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0;
+}
+.Gvdemetniff20 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 -2pt 0 1pt;
+}
+.Gvdemetniff21 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 282.05pt;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 6pt 0 1pt;
+}
+.Gvdemetniff22 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 6pt 0 1pt;
+}
+.Gvdemetniff23 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 273.15pt;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 -4pt 0 1pt;
+}
+.Gvdemetniff24 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 -5pt 0 1pt;
+}
+.Gvdemetniff25 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 2pt;
+}
+.Gvdemetniff26 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 5pt 0 1pt;
+}
+.Gvdemetniff27 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 277.2pt;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 1pt 0 0;
+}
+.Gvdemetniff28 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 3pt 0 2pt;
+}
+.Gvdemetniff29 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 277.95pt;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 1pt;
+}
+.Gvdemetniff30 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 -6pt 0 1pt;
+}
+.Gvdemetniff31 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: left;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 0 0 15pt;
+}
+.Gvdemetniff32 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 -8pt 0 1pt;
+}
+.Gvdemetniff33 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 274.1pt;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 1pt;
+}
+.Gvdemetniff34 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 -5pt 0 2pt;
+}
+.Gvdemetniff35 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: left;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0;
+}
+.Gvdemetniff36 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: left;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 0 0 11pt;
+}
+.Gvdemetniff37 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: left;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 0 0 2pt;
+}
+.Gvdemetniff38 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.77419em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: left;
+  text-indent: 1.5em;
+  text-justify: inter-ideograph;
+  margin: 0 0 0 3pt;
+}
+.GvdemetniKaln {
+  font-family: "Georgia";
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  letter-spacing: 0;
+  text-decoration: none;
+  text-line-through: none;
+}
+.GvdemetniSegoeUI7pt {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0;
+  text-decoration: none;
+  text-line-through: none;
+}
+.GvdemetniSegoeUItalik {
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0;
+  text-decoration: none;
+  text-line-through: none;
+}
+.Gvdemetnitalik {
+  font-family: "Georgia";
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0;
+  text-decoration: none;
+  text-line-through: none;
+}
+.MsoNormal {
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 1em;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-indent: 1.5em;
+  margin: 0;
+}
+.MsoToc {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: right dotted 269.1pt;
+  text-indent: 1.5em;
+  margin: 0 0 0 3pt;
+}
+.MsoToc1 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 11.4pt right dotted 269.1pt;
+  text-indent: 1.5em;
+  margin: 0 0 0 3pt;
+}
+.MsoToc2 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: dotted 228.35pt right 269.1pt;
+  text-indent: 1.5em;
+  margin: 0 0 0 3pt;
+}
+.MsoToc3 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 14.5pt right dotted 269.1pt;
+  text-indent: 1.5em;
+  margin: 0 0 0 3pt;
+}
+.MsoToc4 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 17.9pt dotted 114.1pt 118.9pt 208.7pt right 269.1pt;
+  text-indent: 1.5em;
+  margin: 0 0 0 3pt;
+}
+.MsoToc5 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 23.75pt right dotted 274.55pt;
+  text-indent: 1.5em;
+  margin: 0 0 0 6pt;
+}
+.MsoToc6 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 27.35pt right dotted 274.55pt;
+  text-indent: 1.5em;
+  margin: 0 0 0 6pt;
+}
+.MsoToc7 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 20.9pt right dotted 274.55pt;
+  text-indent: 1.5em;
+  margin: 0 0 0 6pt;
+}
+.MsoToc8 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 18pt right dotted 274.55pt;
+  text-indent: 1.5em;
+  margin: 0 0 0 6pt;
+}
+.MsoToc9 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 24pt right dotted 274.55pt;
+  text-indent: 1.5em;
+  margin: 0 0 0 6pt;
+}
+.MsoToc10 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 18.7pt right dotted 274.55pt;
+  text-indent: 1.5em;
+  margin: 0 0 0 6pt;
+}
+.MsoToc11 {
+  background: transparent;
+  border-bottom: 0;
+  border-top: 0;
+  color: black;
+  display: block;
+  font-family: "Georgia";
+  font-size: 0.64516em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 0;
+  padding-top: 0;
+  tab-stops: 18.5pt right dotted 274.55pt;
+  text-indent: 1.5em;
+  margin: 0 0 0 6pt;
+}
+.WordSection {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  page: WordSection1;
+  text-indent: 1.5em;
+}
+.WordSection1 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  page: WordSection2;
+  text-indent: 1.5em;
+}
+.WordSection2 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  page: WordSection3;
+  text-indent: 1.5em;
+}
+.WordSection3 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  page: WordSection4;
+  text-indent: 1.5em;
+}
+.WordSection4 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  page: WordSection5;
+  text-indent: 1.5em;
+}
+.WordSection5 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  page: WordSection6;
+  text-indent: 1.5em;
+}
+.WordSection6 {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  page: WordSection7;
+  text-indent: 1.5em;
+}
+.pcalibre:visited {
+  color: purple;
+  text-decoration: underline;
+}
+.pcalibre1:link {
+  color: #06C;
+  text-decoration: underline;
+}

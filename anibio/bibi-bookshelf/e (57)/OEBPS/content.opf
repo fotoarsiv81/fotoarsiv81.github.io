@@ -1,0 +1,78 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Yanılmışım Tanrı Varmış</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Flew, Antony">Antony Flew</dc:creator>
+    <dc:identifier id="uuid">{7E905E97-AD9E-4524-9571-72B437DA8171}</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Profil Yayıncılık</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (3.36.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">f1f0008a-f0c5-4984-8ff8-20dbad34d655</dc:identifier>
+    <meta content="0.9.1" name="Sigil version"/>
+    <meta name="cover" content="flew.jpg"/>
+    <meta name="calibre:title_sort" content="Yanılmışım Tanrı Varmış"/>
+    <meta name="calibre:author_link_map" content="{&quot;Antony Flew&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ic kapak.xhtml" id="ic_kapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cevirmen.xhtml" id="cevirmen.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/icindekiler.xhtml" id="icindekiler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum1.xhtml" id="bolum1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum1-1.xhtml" id="bolum1-1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum1-2.xhtml" id="bolum1-2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum1-3.xhtml" id="bolum1-3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2.xhtml" id="bolum2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2-4.xhtml" id="bolum2-4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2-5.xhtml" id="bolum2-5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2-6.xhtml" id="bolum2-6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2-7.xhtml" id="bolum2-7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2-8.xhtml" id="bolum2-8.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2-9.xhtml" id="bolum2-9.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/bolum2-10.xhtml" id="bolum2-10.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ekler.xhtml" id="ekler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ek-a.xhtml" id="ek-a.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ek-b.xhtml" id="ek-b.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sond.xhtml" id="sond.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ovguler.xhtml" id="ovguler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id9" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/main.css" id="id8" media-type="text/css"/>
+    <item href="Images/flew.jpg" id="flew.jpg" media-type="image/jpeg"/>
+    <item href="Images/profil.jpg" id="profil.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id9">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="ic_kapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="cevirmen.xhtml"/>
+    <itemref idref="icindekiler.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="bolum1.xhtml"/>
+    <itemref idref="bolum1-1.xhtml"/>
+    <itemref idref="bolum1-2.xhtml"/>
+    <itemref idref="bolum1-3.xhtml"/>
+    <itemref idref="bolum2.xhtml"/>
+    <itemref idref="bolum2-4.xhtml"/>
+    <itemref idref="bolum2-5.xhtml"/>
+    <itemref idref="bolum2-6.xhtml"/>
+    <itemref idref="bolum2-7.xhtml"/>
+    <itemref idref="bolum2-8.xhtml"/>
+    <itemref idref="bolum2-9.xhtml"/>
+    <itemref idref="bolum2-10.xhtml"/>
+    <itemref idref="ekler.xhtml"/>
+    <itemref idref="ek-a.xhtml"/>
+    <itemref idref="ek-b.xhtml"/>
+    <itemref idref="sond.xhtml"/>
+    <itemref idref="ovguler.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

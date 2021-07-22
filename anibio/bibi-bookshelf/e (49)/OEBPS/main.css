@@ -1,0 +1,259 @@
+@font-face {
+	font-family:"Berling";
+	font-style:normal;
+	font-weight:bold;
+	src : url("font/BerlingLTStd-Bold.ttf");
+}
+@font-face {
+	font-family:"Berling";
+	font-style:italic;
+	font-weight:bold;
+	src : url("font/BerlingLTStd-BoldItalic.ttf");
+}
+@font-face {
+	font-family:"Berling";
+	font-style:normal;
+	font-weight:normal;
+	src : url("font/BerlingLTStd-Roman.ttf");
+}
+@font-face {
+	font-family:"Berling";
+	font-style:italic;
+	font-weight:normal;
+	src : url("font/BerlingLTStd-Italic.ttf");
+}
+
+@font-face {
+	font-family:"GillSans";
+	font-style:normal;
+	font-weight:normal;
+	src : url("font/GillSansStd.ttf");
+}
+@font-face {
+	font-family:"GillSans";
+	font-style:italic;
+	font-weight:normal;
+	src : url("font/GillSansStd-Italic.ttf");
+}
+@font-face {
+	font-family:"GillSans";
+	font-style:normal;
+	font-weight: 300;
+	src : url("font/GillSansStd-Light.ttf");
+}
+@font-face {
+	font-family:"GillSans";
+	font-style:italic;
+	font-weight: 300;
+	src : url("font/GillSansStd-LightItalic.ttf");
+}
+
+@font-face {
+	font-family:"Goudy";
+	font-style: normal;
+	font-weight: normal;
+	src : url("font/GoudyCatTReg.ttf");
+}
+
+@font-face {
+	font-family:"Mobil";
+	font-style:normal;
+	font-weight:bold;
+	src : url("font/MobilTurk.ttf");
+}
+
+a{
+  text-decoration: none;
+  color: #7A7A7A;
+}
+
+/*
+ *chapter
+ */
+
+p {
+	font: normal .875em/1.3em "Berling";
+	margin: 0;
+	text-indent: 1.5em;
+}
+
+h1 {
+	font: normal normal 1.125em/1.3em "Berling";
+	text-align: center;
+	margin-top: 4em;
+}
+
+.prescription, .letter, .noindent, blockquote {
+	margin: 1em 0 0 1em;
+}
+.prescription p, .prescription dl, .letter p, .noindent p, blockquote p {
+	font: normal 300 .875em/1.3em "GillSans";
+	text-indent: 1.7em;
+}
+.as-text {
+	margin: 1em 0 0 0;
+}
+.as-text p {
+	font: normal normal .875em/1.3em "Berling";
+}
+
+dl {
+	margin: 0;
+}
+dl dt {
+	float: left;
+	clear: left;
+	width: 12em;
+	font-style: italic;
+}
+dl dd {
+	clear: right;
+}
+.fix-margin {
+	padding-top: .4em
+}
+
+hr {
+	border: 0;
+	max-width: 3em;
+	margin: 1em auto .6em auto;
+}
+hr:before {
+	content :"* * *";
+	font: normal .9em/1.2em "Berling-Medium";
+}
+
+.preface h1 {
+	font: normal 1.16em "Berling";
+	margin-bottom: 1.25em;
+}
+.preface {
+	font-size: .9em;
+}
+
+.chapter-title {
+	font-size: 1.125em;
+	margin-top: 3em;
+}
+.chap-num {
+	margin-top: 1.5em;
+}
+
+.align-right {
+	text-align: right;
+}
+.margin {
+	margin-top: 1em;
+}
+.subsection {
+	margin-top: 2.2em;
+}
+
+
+.si-noteref{
+  text-decoration: none;
+  color: #7A7A7A;
+  font-size: .75em;
+  vertical-align: super;
+  padding-left: .1em;
+}
+.si-footnotes{
+	margin:4em 0 1em;
+}
+.si-backref{
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: #000;
+}
+.si-footnote {
+	font-family: GillSans;
+	font-size: .8em;
+	margin-bottom: .25em;
+}
+
+.books .books {
+	font: normal normal .75em/1.3em "GillSans";
+	text-indent: 0;
+}
+.books ul {
+	padding-left: 0;
+}
+.books ul li {
+	font: normal normal .75em/1.5em "GillSans";
+	list-style-type: none;
+}
+
+
+
+.bold span {
+	font: normal bold .55em "Mobil" !important;
+}
+.kunye .margin, .press{
+  margin: .8em 0 0 ;
+}
+.isbn {
+	margin-top: 1.2em;
+}
+.kunye .publisher{
+	margin-top: 2em;
+}
+.kunye span{
+  font-family: "GillSans";
+  font-size:0.667em;
+  display: block;
+}
+.title{
+  text-align: center;
+}
+.aut{
+  font-family: "Goudy";
+  font-size: 2em;
+  margin-bottom: 0;
+}
+.aut span{
+  font-size: 1.15em;
+}
+.work{
+  font-family: "Goudy";
+  font-size: 2.18em;
+  margin-top: .3em;
+}
+.work span {
+	font-size: .44em;
+	display: block;
+}
+.seri{
+  font-family: "GillSans";
+  font-size: 1em;
+  margin-top: 3.5em
+}
+.trans{
+  font-family: "GillSans";
+  font-size: .9em;
+  margin-top: 1.5em;
+  line-height: 1.5em
+}
+.trans span{
+  font-size: 1.2em;
+}
+.logo{
+  margin: 3em auto 0 auto;
+  width: 60px; 
+}
+img{
+  width: 100%;
+}
+.cover-container{
+  margin: 0 auto;
+  max-width: 450px;
+}
+.biography p{
+  font-family: "GillSans";
+  font-size: .75em;
+  line-height: 1.5em;
+  text-indent: 0;
+}
+.biography .translator {
+  margin-top: 2em;
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="tr-TR" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="{02F85C46-272F-4CA9-B45F-DEFB32445648}" name="uid"/>
+  </head>
+  <docTitle>
+    <text>Yanılmışım Tanrı Varmış.doc</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="{5B6D3DE8-8A65-443C-A9A1-B2E31EA4E743}" playOrder="1">
+      <navLabel>
+        <text>Yanılmışım</text>
+      </navLabel>
+      <content src="Text/ic%20kapak.xhtml#caption1"/>
+    </navPoint>
+    <navPoint id="{67F4FE06-82ED-401F-BA0F-9B3D0C189537}" playOrder="2">
+      <navLabel>
+        <text>ÖNSÖZ</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+    <navPoint id="{8E1A3FF5-3E30-42CF-A0C8-D5124D36D909}" playOrder="3">
+      <navLabel>
+        <text>2 - KANITIN GÖTÜRDÜĞÜ YER</text>
+      </navLabel>
+      <content src="Text/bolum1-2.xhtml"/>
+    </navPoint>
+    <navPoint id="{119311A1-368F-4E1B-8380-497839C347EF}" playOrder="4">
+      <navLabel>
+        <text>3 - SAKİN BİR YAKLAŞIMLA ATEİZM</text>
+      </navLabel>
+      <content src="Text/bolum1-3.xhtml"/>
+    </navPoint>
+    <navPoint id="{79E375F7-C01B-422F-A037-B25460184D59}" playOrder="5">
+      <navLabel>
+        <text>6 - EVREN BİZİM GELECEĞİMİZİ BİLİYOR MUYDU?</text>
+      </navLabel>
+      <content src="Text/bolum2-6.xhtml"/>
+    </navPoint>
+    <navPoint id="{E062F6E8-94C4-444F-AE47-8BF525A86A22}" playOrder="6">
+      <navLabel>
+        <text>9 - TANRI YA YER BULMAK</text>
+      </navLabel>
+      <content src="Text/bolum2-9.xhtml"/>
+    </navPoint>
+    <navPoint id="{DC55BD76-73BF-4C33-9BF7-CF80A83A232D}" playOrder="7">
+      <navLabel>
+        <text>EKLER</text>
+      </navLabel>
+      <content src="Text/ekler.xhtml"/>
+    </navPoint>
+    <navPoint id="{78B58FCA-3BFC-4E64-9775-25DEE7901E4D}" playOrder="8">
+      <navLabel>
+        <text>ANTONY FLEW: SON DÜŞÜNCELER</text>
+      </navLabel>
+      <content src="Text/sond.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

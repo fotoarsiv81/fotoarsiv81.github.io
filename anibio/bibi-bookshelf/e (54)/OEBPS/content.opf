@@ -1,0 +1,60 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Fernando Pessoa'nın Son Üç Günü</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tabucchi, Antonio">Antonio Tabucchi</dc:creator>
+    <dc:creator opf:file-as="Tabucchi,Antonio" opf:role="yazan">Antonio Tabucchi</dc:creator>
+    <dc:creator opf:role="yazar">Antonio Tabucchi</dc:creator>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:contributor opf:role="Hazırlayan">[sardav25]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">8401a550-bebc-44a3-90d2-f3a348020387</dc:identifier>
+    <meta content="0.9.7" name="Sigil version"/>
+    <meta name="calibre:title_sort" content="Fernando Pessoa'nın Son Üç Günü"/>
+    <meta name="calibre:author_link_map" content="{&quot;Antonio Tabucchi&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="Sectio0001.xhtml" href="Text/Sectio0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sectio0002.xhtml" href="Text/Sectio0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sectio0003.xhtml" href="Text/Sectio0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sectio0004.xhtml" href="Text/Sectio0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sectio0005.xhtml" href="Text/Sectio0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sectio0006.xhtml" href="Text/Sectio0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sectio0007.xhtml" href="Text/Sectio0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sectio0008.xhtml" href="Text/Sectio0008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sectio0009.xhtml" href="Text/Sectio0009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sectio0010.xhtml" href="Text/Sectio0010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sectio0011.xhtml" href="Text/Sectio0011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sectio0012.xhtml" href="Text/Sectio0012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sectio0013.xhtml" href="Text/Sectio0013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sectio0014.xhtml" href="Text/Sectio0014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sectio0015.xhtml" href="Text/Sectio0015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id6" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Stylesheet.css" href="Styles/Stylesheet.css" media-type="text/css"/>
+    <item id="cover-image" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="Sectio0001.xhtml"/>
+    <itemref idref="Sectio0002.xhtml"/>
+    <itemref idref="Sectio0003.xhtml"/>
+    <itemref idref="Sectio0004.xhtml"/>
+    <itemref idref="Sectio0005.xhtml"/>
+    <itemref idref="Sectio0006.xhtml"/>
+    <itemref idref="Sectio0007.xhtml"/>
+    <itemref idref="Sectio0008.xhtml"/>
+    <itemref idref="Sectio0009.xhtml"/>
+    <itemref idref="Sectio0010.xhtml"/>
+    <itemref idref="Sectio0011.xhtml"/>
+    <itemref idref="Sectio0012.xhtml"/>
+    <itemref idref="Sectio0013.xhtml"/>
+    <itemref idref="Sectio0014.xhtml"/>
+    <itemref idref="Sectio0015.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/Sectio0001.xhtml"/>
+  </guide>
+</package>

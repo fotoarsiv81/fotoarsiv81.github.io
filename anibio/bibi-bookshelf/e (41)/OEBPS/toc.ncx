@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="3c4062d4-c406-45ac-9b5e-94d1408d289c"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Otomatik Portakal</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Yazar</text>
+      </navLabel>
+      <content src="Text/yazar.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/title.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Birinci Bölüm</text>
+      </navLabel>
+      <content src="Text/1.01.html"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/1.01.html#c1"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/1.02.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/1.03.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/1.04.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/1.05.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/1.06.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/1.07.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>İkinci Bölüm</text>
+      </navLabel>
+      <content src="Text/2.01.html"/>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/2.01.html#c2"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/2.02.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/2.03.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/2.04.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/2.05.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/2.06.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/2.07.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Üçüncü Bölüm</text>
+      </navLabel>
+      <content src="Text/3.01.html"/>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/3.01.html#c3"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/3.02.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/3.03.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/3.04.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="Text/3.05.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="Text/3.06.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="Text/3.07.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

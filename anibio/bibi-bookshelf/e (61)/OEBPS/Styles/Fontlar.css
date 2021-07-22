@@ -1,0 +1,16 @@
+  @page {
+    margin-bottom: 8pt;
+    margin-top: 8pt;
+    margin-left: 8pt;
+    margin-right: 8pt;
+    }
+ 
+body { 
+   text-align: justify;
+   text-indent: 1em;
+ }
+
+div#coverpage {
+	text-align: center;
+}
+

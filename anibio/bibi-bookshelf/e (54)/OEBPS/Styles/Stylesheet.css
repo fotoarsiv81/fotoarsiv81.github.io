@@ -1,0 +1,390 @@
+@charset "UTF-8";
+
+html {
+
+}
+
+/* Bütün etiketleri sıfırlıyoruz */
+article, address, aside, blockquote, canvas, dd, details, div, dl, dt, figure,
+figcaption, footer, h1, h2, h3, h4, h5, h6, header, hr, li, main, nav, ol, p,
+pre, section, summary, ul {
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+  line-height: inherit;
+  text-indent: 0;
+  font-style: normal;
+  font-weight: normal;
+}
+article, aside, figure, figcaption, footer, header, main, nav, section {
+  display: block;
+}
+h1, h2, h3, h4, h5, h6, dt, pre {
+  text-align: left;
+}
+a, abbr, b, bdi, bdo, cite, code, data, del, dfn, em, i, ins, kbd, mark, q, rp,
+rt, rtc, ruby, s, samp, small, span, strong, sub, sup, time, var {
+  font-size: inherit;
+  vertical-align: baseline;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-decoration: none;
+}
+q {
+  quotes: none;
+}
+/* RESET BİTTİ */
+
+
+body > :last-child,
+body > section > :last-child {
+  margin-bottom: 0;
+}
+
+
+/* PAGE LAYOUT */
+@page {
+  margin: 30px 30px 20px 30px;
+  padding: 0;
+}
+
+body {
+    /**
+     * Font tipi olarak serif font ailesini görmesini istiyoruz.
+     * Kitabın çeşidine göre diğer iki font ailesinden birisini de kullanabilirsiniz.
+     */
+      /*font-family: serif;*/
+
+
+    /*font-family: "Minion Pro", "Iowan Old Style", Palatino, "Palatino Linotype", "Palatino Nova", "BN Amasis", Cambria, FreeSerif, "Times New Roman", serif;*/
+
+    font-size: 109%;
+    line-height: 1.2;
+    widows: 2;
+    orphans: 2;
+}
+/* Bölümlerdeki paragrafların hepsinin Justified olmasını sağlıyoruz. */
+#chapter p, .chapter p, #bolum p, .bolum p {
+    text-align: justify;
+}
+
+/* TYPOGRAPHY */
+h1, h2, h3, h4, h5, h6, blockquote p cite, dt, pre, address, table, caption, th,
+td, .align-left, .align-center, .align-right, .caption, .no-hyphens {
+  adobe-hyphenate: none;
+  -ms-hyphens: none;
+  -moz-hyphens: none;
+  -webkit-hyphens: none;
+  -epub-hyphens: none;
+  hyphens: none;
+}
+h1, h2, h3, h4, h5, h6, dt, hr {
+  page-break-inside: avoid;
+  break-inside: avoid;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+h1 {
+  font-size: 2.0375em;
+  line-height: 1.04347826;
+  margin-top: 1.5em;
+  margin-bottom: 2.08695652em;
+
+}
+h2 {
+  font-size: 2.0125em;
+  line-height: 1.14285714;
+  margin-top: 2.28571429em;
+  margin-bottom: 1.14285714em;
+  text-indent: 1.5em;
+}
+h3 {
+  font-size: 1.125em;
+  line-height: 1.33333333;
+  margin-top: 1.33333333em;
+  margin-bottom: 1.33333333em;
+}
+h4 {
+  font-size: 2em;
+  line-height: 1.5;
+  margin-top: 1.5em;
+  margin-bottom: 0em;
+}
+h5 { /* Styles */ }
+h6 { /* Styles */ }
+
+p { text-indent: 1em;}
+
+blockquote { margin: 1.5em 5%; }
+blockquote p { text-indent: 0; font-style: italic; }
+blockquote p i, blockquote p em, blockquote p cite { font-style: normal; }
+address { /* Styles */ }
+
+/*a {
+  text-decoration: underline;
+  font-weight: bold;
+  color: inherit;
+  -webkit-text-fill-color: inherit;
+}*/
+i, cite, dfn, em {
+  font-style: italic;
+}
+i i, i cite, i dfn, i em, cite i, cite cite, cite dfn, cite em, dfn i, dfn cite,
+dfn dfn, dfn em, em i, em cite, em dfn, em em {
+  font-style: normal;
+}
+b, strong { font-weight: bold; }
+del, s { text-decoration: line-through; }
+mark { background-color: yellow; color: inherit; }
+small {
+  font-size: 0.8125em;
+}
+sub {
+  font-size: 50%;
+  line-height: 1.2;
+  vertical-align: sub;
+  /* Fallback */
+  vertical-align: -20%;
+}
+sup {
+  font-size: 75%;
+  line-height: 1.2;
+  vertical-align: super;
+  /* Fallback */
+  vertical-align: 33%;
+}
+
+/* FIGURES + IMAGES  */
+figure {
+  page-break-inside: avoid;
+  break-inside: avoid;
+  margin: 1.5em 0;
+}
+figcaption, .caption {
+  font-size: 0.9375em;
+  line-height: 1.6;
+  text-indent: 0;
+  text-align: center;
+}
+/*img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+img.portrait, img.portre {
+  width: auto;
+  max-width: 100%;
+  height: 100%;
+  max-height: 95%;
+}*/
+.float-left img, .float-sol img .float-right img, .float-sag img {
+  width: 100%;
+}
+@supports (height: 99vh) {
+  img.portrait {
+    height: 99vh;
+  }
+}
+/* LISTS */
+ul, ol { margin: 1.5em 0; padding-left: 5%; }
+ul { list-style-type: disc; list-style-position: outside; }
+ul ul { list-style-type: square; }
+ol { list-style-type: decimal; list-style-position: outside; }
+ol ol { list-style-type: lower-roman; }
+
+/* DEFINITION LISTS */
+dl { margin: 1.5em 0 1.5em 5%; }
+dt { margin: 1.5em 0 0 0; font-weight: bold; }
+dt > dfn { font-style: normal; font-weight: bold; }
+
+
+/* TABLES */
+/*table {
+  display: table;
+  table-layout: auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+  max-width: 100%;
+  margin: 1.5em auto;
+  font-feature-settings: "tnum" 1;
+  font-variant-numeric: tabular-nums;
+}
+caption {
+  caption-side: top;
+  text-align: center;
+  font-weight: bold;
+}
+th {
+  empty-cells: show;
+  border-bottom: 0.125em solid currentColor;
+  padding: 0.6875em 2% 0.6875em 0;
+  text-align: left;
+  font-weight: bold;
+}
+td {
+  empty-cells: show;
+  padding: 0.75em 2% 0.6875em 0;
+  text-align: left;
+  border-bottom: 0.0625em solid currentColor;
+}
+.table-fixed {
+  table-layout: fixed;
+}
+*/
+/* CODE */
+pre {
+  margin: 1.5em 0 1.5em 5%;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  -ms-tab-size: 3;
+  -moz-tab-size: 3;
+  -webkit-tab-size: 3;
+  tab-size: 3;
+}
+code, kbd, samp, var {
+  font-family: monospace;
+}
+
+.float-left, .float-sol { float: left; }
+.float-right, .float-sag { float: right; }
+
+/* Widths | Genişlikler */
+.w-100, .g-100 { width: 100%; }
+.w-90, .g-90 { width: 90%; }
+.w-80, .g-80 { width: 80%; }
+.w-70, .g-70 { width: 70%; }
+.w-60, .g-60 { width: 60%; }
+.w-50, .g-50 { width: 50%; }
+.w-40, .g-40 { width: 40%; }
+.w-30, .g-30 { width: 30%; }
+.w-20, .g-20 { width: 20%; }
+.w-10, .g-10 { width: 10%; }
+
+/* Heights | Yükseklikler */
+.h-100, .y-100 { height: 99%; /* 99.8% cos’ legacy RMSDK applies blank page after if 100% */ }
+.h-90, .y-90 { height: 90%; }
+.h-80, .y-80 { height: 80%; }
+.h-70, .y-70 { height: 70%; }
+.h-60, .y-60 { height: 60%; }
+.h-50, .y-50 { height: 50%; }
+.h-40, .y-40 { height: 40%; }
+.h-30, .y-30 { height: 30%; }
+.h-20, .y-20 { height: 20%; }
+.h-10, .y-10 { height: 10%; }
+@supports (height: 100vh) {
+  .h-100, .y-100 {
+    height: 99vh;
+  }
+  .h-90, .y-90 { height: 90vh; }
+  .h-80, .y-80 { height: 80vh; }
+  .h-70, .y-70 { height: 70vh; }
+  .h-60, .y-60 { height: 60vh; }
+  .h-50, .y-50 { height: 50vh; }
+  .h-40, .y-40 { height: 40vh; }
+  .h-30, .y-30 { height: 30vh; }
+  .h-20, .y-20 { height: 20vh; }
+  .h-10, .y-10 { height: 10vh; }
+}
+
+/* UTILITIES */
+/* Display */
+.block { display: block; }
+.inline-block { display: inline-block; }
+.hidden, .gizli { display: none; }
+
+/* Margins */
+.no-margin, .margin-yok { margin: 0; }
+.no-margin-top, .margin-yok-ust { margin-top: 0; }
+.no-margin-bottom, .margin-yok-alt { margin-bottom: 0; }
+.no-margin-left, .margin-yok-sol { margin-left: 0; }
+.no-margin-right, .margin-yok-sag { margin-right: 0; }
+.margin-top-s, .margin-ust-s { margin-top: 0.50em; }
+.margin-top-m, .margin-ust-m { margin-top: 1.5em; }
+.margin-top-l, .margin-ust-l { margin-top: 3em; }
+.margin-top-xl, .margin-ust-xl { margin-top: 4.5em; }
+.margin-top-xxl, .margin-ust-xxl { margin-top: 6em; }
+.margin-bottom-s, .margin-alt-s { margin-bottom: 0.75em; }
+.margin-bottom-m, .margin-alt-m { margin-bottom: 1.5em; }
+.margin-bottom-l, .margin-alt-l { margin-bottom: 3em; }
+.margin-bottom-xl, .margin-alt-xl { margin-bottom: 4.5em; }
+.margin-bottom-xxl, .margin-alt-xxl { margin-bottom: 6em; }
+.margin-left-s, .margin-sol-s { margin-left: 2.5%; /* % won't reflow with font-size user setting */ }
+.margin-left-m, .margin-sol-m { margin-left: 5%; }
+.margin-left-l, .margin-sol-l { margin-left: 7.5%; }
+.margin-left-xl, .margin-sol-xl { margin-left: 10%; }
+.margin-left-xxl, .margin-sol-xxl { margin-left: 15%; }
+.margin-right-s, .margin-sag-s { margin-right: 2.5%; /* % won't reflow with font-size user setting */ }
+.margin-right-m, .margin-sag-m { margin-right: 5%; }
+.margin-right-l, .margin-sag-l { margin-right: 7.5%; }
+.margin-right-xl, .margin-sag-xl { margin-right: 10%; }
+.margin-right-xxl, .margin-sag-xxl { margin-right: 15%; }
+
+/* Text align */
+.justify, .yasla { text-align: justify; }
+.align-left, .sola-hizala { text-align: left; }
+.align-center, .ortala { text-indent: 0; text-align: center; }
+.align-right, .saga-hizala { text-indent: 0; text-align: right; }
+
+
+.footnote-line, .dipnot-cizgi {
+  display: block;
+  border-bottom: 1px solid black;
+  width: 35%;
+  margin-top: 1.5em;
+  margin-left: 1em;
+  margin-bottom: 0.5em;
+}
+/*.footnote, .dipnot {
+  font-size: 0.8em;
+  line-height: 1.6;
+  text-indent: 0;
+}
+*/
+
+.linebreak, .bos-satir, .asterism, .uc-yildiz {
+  display: block;
+  height: 1.5em;
+  margin: 0;
+  width: 100%;
+  text-align: center;
+  text-indent: 0;
+}
+.asterism, .uc-yildiz {
+  margin: 1.5em 0;
+}
+
+
+.indent, .girinti { text-indent: 1.5em; }
+.no-indent, .girinti-yok { text-indent: 0; }
+.bold, .kalin { font-weight: bold; }
+.italic, .egik { font-style: italic; }
+.bold-italic, .kalin-egik { font-weight: bold; font-style: italic; }
+.underline, .alt-cizgi { text-decoration: underline; }
+
+
+/****************************************************
+ * Tanımlamalar Bitti.
+ *
+ * Kendi eklemek istediğiniz stilleri bu bölümden sonra tanımlayınız.
+ * Yukarıdaki kodlarda oynama yapmayınız.
+ */
+
+blockquote {
+   margin: 1.5em 5%;
+   text-indent: 0em;
+   font-style: normal;
+   font-size: 0.8em;
+}
+
+.yl {
+   margin: 1.0em 5%;
+   font-size: 2.0em;
+   text-align: center;
+}
+
+a:link { color: #B4002A; font-weight: bold; text-decoration:underline }
+a:visited { color: #b02952; font-weight: bold; text-decoration:underline }
+a:hover { color: #94d7c3; font-weight: bold; text-decoration:underline }
+ 

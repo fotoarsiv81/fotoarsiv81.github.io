@@ -1,0 +1,38 @@
+p {
+	margin-top:0.1em;
+  margin-bottom:0.1em;
+  text-indent:1.5em;
+  text-align:justify;
+}
+sub, sup { 
+font-size: 60%;
+line-height: 0; 
+}
+sup {top: -0.25em;}
+sub {bottom: -0.25em;}
+
+.footnote {text-indent: 0em; margin-bottom: 0em; margin-top: 0em; page-break-before: always;font-size:0.8em;}
+
+.ithaf1 {text-align:right;font-style:italic;margin-top: 10em;}
+.ithaf2 {text-align:right;font-style:italic;}
+
+.baslik1{text-indent: 0em;text-align:center;font-weight:bold;margin-top: 1em;margin-bottom: 6em;font-size:1.1em;}
+.baslik2{text-indent: 0em;text-align:center;font-weight:bold;margin-top: 1em;margin-bottom: 0.1em;font-size:1.6em;}
+.baslik3{text-indent: 0em;text-align:center;font-weight:bold;margin-bottom: 4em;font-size:1.5em;}
+.baslik33{text-indent: 0em;text-align:center;font-weight:bold;margin-bottom: 5.1em;margin-top: 0.5em;font-size:1.5em;}
+.baslik4{text-indent: 0em;text-align:center;font-weight:bold;font-size:1.2em;margin-top: 2em;}
+.baslik5{text-indent: 0em;text-align:center;font-weight:bold;font-size:1.1em;margin-bottom: 0.5em;text-decoration: underline;margin-top: -1.2em;}
+
+.kesim1{text-indent: 0em;margin-top: 9em;text-align:center;font-size:1.1em;}
+.kesim2{text-indent: 0em;text-align:center;font-size:1.6em;font-weight:bold;font-style:italic;}
+
+.ilk{text-indent:0em;}
+.ilk_alt_bosluk{text-indent:0em;margin-bottom: 0.4em;}
+
+.ortali_yildiz{text-indent:0em;text-align:center;margin-top:0.5em;margin-bottom:0.5em;letter-spacing:0.3em;}
+.buyuk_yildiz{font-size:1.3em;}
+.zaman{font-style:italic;text-align:right;font-size:1.1em;margin-bottom:0.5em;}  
+
+.sone{text-indent:0em;margin-left:3em;font-style:italic;}
+
+

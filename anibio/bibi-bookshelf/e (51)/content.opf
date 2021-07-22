@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Çehov, Anton">Anton Çehov</dc:creator>
+<dc:publisher>BZ Yayın</dc:publisher>
+    <dc:description>&lt;div&gt;
+
+&lt;p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal"&gt;&lt;span class="szsfr"&gt;&lt;span style="font-size:9.0pt;mso-bidi-font-family:
+Arial"&gt;Yazar Küçük Köpekli Kadın'da, şehirli ve köylü kavramlarını irdeleyerek
+bir kez daha tüm güzellikleri ve çirkinlikleriyle insanı anlamaya çalışıyor.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal"&gt;&lt;span style="font-size:9.0pt"&gt;“Yaşadığımız kentte hepimiz sıkıcı,
+boğucu bir yaşamın içine gömülmüşüz; gereksiz kâğıtlar karalamamız, iskambil
+oynamamız bizler için de birer kılıf değil midir? Yaşamımızı kimsenin bir işine
+yaramadan, aylaklık içinde, budala, akılsız kadınlar arasında geçirmemiz, bir
+sürü saçma sapan şeyler söyleyip başkalarının söylediklerini dinlememiz, hepsi
+birer kılıf değil mi?”&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">0a8c6bb7-6576-4d74-b733-785eea838d97</dc:identifier>
+    <meta name="calibre:title_sort" content="Küçük Köpekli Kadın"/>
+    <meta name="calibre:rating" content="10.0"/>
+    <meta name="calibre:timestamp" content="2014-06-30T18:15:30.738000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:user_categories" content="{}"/>
+    <meta name="calibre:author_link_map" content="{&quot;Anton Çehov&quot;: &quot;&quot;}"/>
+  <dc:title>Küçük Köpekli Kadın</dc:title>
+<dc:subject>Rus Edebiyatı</dc:subject>
+<dc:subject>Öykü</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">e6de2ff1-87df-437a-a1a3-d90192ef7118</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="fonts/Calibri.ttf" id="font6" media-type="application/x-font-truetype"/>
+    <item href="fonts/Georgia.ttf" id="font4" media-type="application/x-font-truetype"/>
+    <item href="fonts/Liberation-Serif.ttf" id="font5" media-type="application/x-font-truetype"/>
+    <item href="fonts/Times-New-Roman-Bold-Italic.ttf" id="font3" media-type="application/x-font-truetype"/>
+    <item href="fonts/Times-New-Roman-Bold.ttf" id="font2" media-type="application/x-font-truetype"/>
+    <item href="fonts/Times-New-Roman-Italic.ttf" id="font1" media-type="application/x-font-truetype"/>
+    <item href="fonts/Times-New-Roman.ttf" id="font" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

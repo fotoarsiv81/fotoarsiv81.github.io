@@ -1,0 +1,80 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="K., Arif">Arif K.</dc:creator>
+<meta name="calibre:title_sort" content="Felsefe Dersleri"/>
+    <meta name="calibre:timestamp" content="2014-03-17T12:33:36.020000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2012-11-16T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">725b106f-66c0-4433-975f-f193cd3894a1</dc:identifier>
+    <meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Arif K.&quot;: &quot;&quot;}"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:title>Felsefe Dersleri</dc:title>
+<dc:subject>Felsefe</dc:subject>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">36ef1ba6-33cb-42a1-b46d-d1642b16d83e</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Felsefe_Dersleri_split_000.html" id="id123" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_001.html" id="id122" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_002.html" id="id121" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_003.html" id="id120" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_004.html" id="id119" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_005.html" id="id118" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_006.html" id="id117" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_007.html" id="id116" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_008.html" id="id115" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_009.html" id="id114" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_010.html" id="id113" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_011.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_012.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_013.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_014.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_015.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_016.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_017.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_018.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_019.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_020.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_021.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Felsefe_Dersleri_split_022.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="images/00001.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id123"/>
+    <itemref idref="id122"/>
+    <itemref idref="id121"/>
+    <itemref idref="id120"/>
+    <itemref idref="id119"/>
+    <itemref idref="id118"/>
+    <itemref idref="id117"/>
+    <itemref idref="id116"/>
+    <itemref idref="id115"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Felsefe_Dersleri_split_022.html#filepos901752" title="Table of Contents" type="toc"/>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

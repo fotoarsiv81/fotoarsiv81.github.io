@@ -1,0 +1,72 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Maalouf, Amin">Amin Maalouf</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:9a9554cd-a800-4301-b307-f8218218626a</dc:identifier>
+    <dc:date>2007-08-16T21:00:00+00:00</dc:date>
+    <meta xmlns="http://www.idpf.org/2007/opf" name="cover" content="cover-image"/>
+    <meta xmlns="http://www.idpf.org/2007/opf" content="0.7.4" name="Sigil version"/>
+  <dc:title>Yüzüncü Ad</dc:title>
+<meta name="calibre:title_sort" content="Yüzüncü Ad"/>
+<dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Tarihi Kurgu</dc:subject>
+<dc:subject>Fransız Edebiyatı</dc:subject>
+<dc:subject>Lübnan</dc:subject>
+<dc:description>&lt;p&gt;Doğu'daki son Cenevizlilerden, antika tüccarı Baldassare Embriaco, 1665 yılı sonlarında, soyunun yüzyıllardır yaşadığı Lübnan'dan yola düşer. Ertesi yıl, İncil'e göre " Canavar Yılı " dır. Ertesi yıl, İncil'e göre düpedüz Mahşer: Kan, ateş, yıkım ve herşeyin sonu!... Zamanın sonu! Dünyayı ve Baldassare'yi kurtarabilecek tek şeyse, Yüzüncü Ad'dır. Kimselerin görmediği bir yazma kitap ve bu kitapta açıklandığı söylenen bir ad: Allah'ın, Kuran'da anılan doksan dokuz adının, sıradan ölümlülere bildirilmemiş olan yüzüncüsü... Tanrı'nın gizli ve yüce adı...
+&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Amin Maalouf&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">2249c4f3-5bf3-43ff-be90-a344eb0168b6</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750800030</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Images/fcover.jpg" id="fcover.jpg" media-type="image/jpeg"/>
+    <item href="Styles/main.css" id="main.css" media-type="text/css"/>
+    <item href="Text/bcover.xhtml" id="bcover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/fover.xhtml" id="fover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yuzuncuad.xhtml" id="yuzuncuad.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sabetayinsesi.xhtml" id="sabetayinsesi.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yildizsizbirgok.xhtml" id="yildizsizbirgok.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/cenovaninayrtms.xhtml" id="cenovaninayrtms.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnotlar.xhtml" id="dipnotlar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/icindekiler.xhtml" id="icindekiler.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ickapak.xhtml" id="ickapak.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ktplr.xhtml" id="ktplr.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/bcover.jpg" id="bcover.jpg" media-type="image/jpeg"/>
+    <item href="Text/tesekr.xhtml" id="tesekr.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/defter1.xhtml" id="defter1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/defter2.xhtml" id="defter2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/defter3.xhtml" id="defter3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/defter4.xhtml" id="defter4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/yky.png" id="yky.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="fover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="ktplr.xhtml"/>
+    <itemref idref="ickapak.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="icindekiler.xhtml"/>
+    <itemref idref="tesekr.xhtml"/>
+    <itemref idref="defter1.xhtml"/>
+    <itemref idref="yuzuncuad.xhtml"/>
+    <itemref idref="defter2.xhtml"/>
+    <itemref idref="sabetayinsesi.xhtml"/>
+    <itemref idref="defter3.xhtml"/>
+    <itemref idref="yildizsizbirgok.xhtml"/>
+    <itemref idref="defter4.xhtml"/>
+    <itemref idref="cenovaninayrtms.xhtml"/>
+    <itemref idref="dipnotlar.xhtml"/>
+    <itemref idref="bcover.xhtml"/>
+  </spine>
+  <guide>
+    <reference xmlns="http://www.idpf.org/2007/opf" href="Text/fover.xhtml" type="cover"/>
+  </guide>
+</package>

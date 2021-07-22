@@ -1,0 +1,41 @@
+  @page {
+ 
+    margin-left: 9pt;
+    margin-right: 9pt;
+    }
+  @font-face {
+    font-style: normal;
+    
+    font-weight: normal;
+    
+    }
+  @font-face {
+    font-style: italic;
+    
+    font-weight: normal;
+    
+    }
+  @font-face {
+    font-style: normal;
+   
+    font-weight: bold;
+    
+    }
+  @font-face {
+    font-style: italic;
+
+    font-weight: bold;
+    
+    }
+body { 
+
+   font-size: 94%;
+   text-align: justify;
+   text-indent: 22px;
+
+}
+
+div#coverpage {
+	text-align: center;
+}
+

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Yaşam Sanatı</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Bauman, Zygmunt">Zygmunt Bauman</dc:creator>
+    <dc:description>Dünya üzerindeki milyarlarca insanın farklı beklentileri ve amaçları olsa da tek bir ortak hayali var: Mutlu olmak. Hepimiz mutlu olmak için çabalıyor, bunun için yaşamlarımızda bazı seçimler yapıyor, bazı şeylerden vazgeçiyor, kısacası yaşamlarımıza yön vermeye çalışıyoruz. Peki nedir bu mutluluk denen muamma? Gerçekten aranıp bulunabilecek bir şey mi, yoksa beyhude yere peşinden koşulan, aslında tamamen rastlantılara bağlı olan bir şey midir? Mutluluğu ararken, kader dediğimiz şeyin ağlarında debelenen bir piyondan mı ibaretiz, yoksa seçimlerimiz sayesinde kendi yaşamlarımızı "yaratan" sanatçılar mıyız? Zygmunt Bauman, mutluluğu hazır reçetelerle ulaşılabilecek bir şeye, yaşamı da adeta metaya indirgeyen yaşadığımız akışkan modern çağın açmazlarını ve ikilemlerini bir bir önümüze seriyor ve yaşamlarımıza vurulan prangaların, dayatılan yaşam tasarılarının, sözde bizim adımıza yapılan seçimlerin iç yüzünü ortaya koyuyor. Yüzyılımızın en büyük düşünürlerinden Bauman'ın "Yaşam Sanatı" yaşam, mutluluk, başarı gibi konular üzerine felsefeyle yoğrulmuş bir düşünce şöleni…</dc:description>
+    <dc:publisher>Versus Kitap</dc:publisher>
+    <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:CFC13D7C-4A8E-42C5-AB6A-32ED2FB89D93</dc:identifier>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-01-04</dc:date>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (2.85.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>tr</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">2ab752f6-9dcd-4db0-8a16-0dc08645ad18</dc:identifier>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="ISBN">9786055691493</dc:identifier>
+    <meta name="cover" content="cover"/>
+    </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6" media-type="application/xhtml+xml"/>
+    <item href="Text/7.html" id="x7" media-type="application/xhtml+xml"/>
+    <item href="Text/7-1.html" id="x7-1" media-type="application/xhtml+xml"/>
+    <item href="Text/7-2.html" id="x7-2" media-type="application/xhtml+xml"/>
+    <item href="Text/7-3.html" id="x7-3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/kapak_fmt.jpeg" id="kapak_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/versus_fmt.jpeg" id="versus_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/versus_fmt1.jpeg" id="versus_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="OEBPS/cover.jpg" id="uHgMjvOtKoHXnnxRM8eDNM7" media-type="image/jpeg"/>
+    <item href="Fonts/LiberationSerif-Bold.ttf" id="LiberationSerif-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif-Italic.ttf" id="LiberationSerif-Italic.ttf" media-type="application/x-font-truetype"/>
+    <item href="Fonts/LiberationSerif.ttf" id="LiberationSerif.ttf" media-type="application/x-font-truetype"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="x6"/>
+    <itemref idref="x7"/>
+    <itemref idref="x7-1"/>
+    <itemref idref="x7-2"/>
+    <itemref idref="x7-3"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kardeşimin Hikayesi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Ben</text>
+      </navLabel>
+      <content src="Text/Section0001.html#sigil_toc_id_1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>1.Garip bir sabah, gazeteci kızın gelişi, Kerberos</text>
+        </navLabel>
+        <content src="Text/Section0001.html#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>2.Kaderini bilme cezası, aşk ve kıskançlık üzerine bir sohbet</text>
+        </navLabel>
+        <content src="Text/Section0001.html#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>3.Kerberos’un kesik kulakları, Svetlana ve öfke alametleri</text>
+        </navLabel>
+        <content src="Text/Section0001.html#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>4.Akşam yemeği ve kahverengi tereyağına benzeyen iğrenç şey</text>
+        </navLabel>
+        <content src="Text/Section0001.html#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>5.Aldatanlar, aldatılanlar ve cinayet gecesi</text>
+        </navLabel>
+        <content src="Text/Section0001.html#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>6.Fırtına, genç savcının çarpık kravatı ve tuhaf bir duvar</text>
+        </navLabel>
+        <content src="Text/Section0001.html#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>7.Başsağlığı ziyareti, burnu kanlı kedi Eve girince duşun altına girip kaynar suyla uzun uzun yıkandım.</text>
+        </navLabel>
+        <content src="Text/Section0001.html#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>8.Hikâyeler nerede başlar, gerçek nerede biter?</text>
+        </navLabel>
+        <content src="Text/Section0001.html#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>9.Mihail’in hikâyesi ve evde geceleyen ilk kadın</text>
+        </navLabel>
+        <content src="Text/index_split_001.html#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>10.Su içen minareler, Sevgili’yle tanışma, aşkın tehlikeleri, sahilde itiraflar</text>
+        </navLabel>
+        <content src="Text/index_split_001.html#sigil_toc_id_11"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Mehmet</text>
+      </navLabel>
+      <content src="Text/index_split_001.html#sigil_toc_id_12"/>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>11. Trafik kazası, üniversite yılları ve Beyaz Rusya</text>
+        </navLabel>
+        <content src="Text/index_split_001.html#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>12.Genç kızın öfkesi, hasta oğlanın ateşi, Kerberos’un kıskançlığı,yani normal bir gün daha</text>
+        </navLabel>
+        <content src="Text/index_split_001.html#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>13. Ebedi koca</text>
+        </navLabel>
+        <content src="Text/index_split_001.html#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>14. Yine savcının kravatı, simit yiyen kız ve hikâyeler</text>
+        </navLabel>
+        <content src="Text/index_split_001.html#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>15.Kerberos’un dişleri, kuduz aşısı vesaire</text>
+        </navLabel>
+        <content src="Text/index_split_002.html#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>16.Dünya dışı bir varlığa âşık olmak</text>
+        </navLabel>
+        <content src="Text/index_split_002.html#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>17.Mona Lisa, unutkan inek ve gündelik olaylar</text>
+        </navLabel>
+        <content src="Text/index_split_002.html#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>18.Minsk’teki otel, dans eden piyano ve bir sorun</text>
+        </navLabel>
+        <content src="Text/index_split_002.html#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>19.Yine aşk cinayetleri ve intiharlar üzerine konuşuluyor</text>
+        </navLabel>
+        <content src="Text/index_split_002.html#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>20.Tercüman aracılığıyla aşk, Kerberos’un kulübesindeki parlak sarı şey</text>
+        </navLabel>
+        <content src="Text/index_split_002.html#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>21.Şeremetyevo Havaalanı’nda olup biten garip işler ve Mehmet’in kayboluşu</text>
+        </navLabel>
+        <content src="Text/index_split_002.html#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>22.Andaman Denizi, Rahip Porfirio ve kadınsız dağ</text>
+        </navLabel>
+        <content src="Text/index_split_002.html#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>23.Çayırdaki garip hayvanlar, küskün kuzu ve savcı bey</text>
+        </navLabel>
+        <content src="Text/index_split_002.html#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>24.Düşmanca bakan duvar, Amerikalı gazeteci</text>
+        </navLabel>
+        <content src="Text/index_split_002.html#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>25.Son gün</text>
+        </navLabel>
+        <content src="Text/index_split_003.html#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>26.Son gece</text>
+        </navLabel>
+        <content src="Text/index_split_003.html#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>27.Dokunuş ve ayrılış</text>
+        </navLabel>
+        <content src="Text/index_split_003.html#sigil_toc_id_29"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

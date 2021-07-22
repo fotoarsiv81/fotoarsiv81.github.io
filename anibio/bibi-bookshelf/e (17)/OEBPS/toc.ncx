@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="tr">
+  <head>
+    <meta content="{C4F87301-3352-47A1-B41F-C929B4C5DCB7}" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="calibre (2.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Umut</text>
+  </docTitle>
+  <navMap>
+    
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Kapak</text>
+      </navLabel>
+      <content src="Text/kapak.xhtml"/>
+    </navPoint>
+        
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Künye</text>
+      </navLabel>
+      <content src="Text/kunye2.xhtml"/>
+    </navPoint>   
+  
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/kunye3.xhtml"/>
+    </navPoint> 
+    
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>İthaf</text>
+      </navLabel>
+      <content src="Text/ithaf.xhtml"/>
+    </navPoint> 
+    
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Atilla İlhan'ın Önsözü</text>
+      </navLabel>
+      <content src="Text/onsoz.xhtml"/>
+    </navPoint>
+
+<navPoint playOrder="1">
+<navLabel>
+<text>Birinci Kesim - Gönülden Geçirmek</text>
+</navLabel>
+<content src="Text/birinci.xhtml"/>
+  
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Gönülden Geçirmek</text>
+      </navLabel>
+      <content src="Text/1_1_1.xhtml"/>
+    </navPoint> 
+    
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>Kıyametin İşleyişi</text>
+      </navLabel>
+      <content src="Text/1_2_1.xhtml"/>
+    </navPoint>        
+</navPoint>
+  
+   <navPoint playOrder="1">
+      <navLabel>
+        <text>İkinci Kesim - Manzanares</text>
+      </navLabel>
+      <content src="Text/ikinci.xhtml"/>
+
+      
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Olmak ve Yapmak</text>
+      </navLabel>
+      <content src="Text/2_1.xhtml"/>
+    </navPoint>        
+      
+     <navPoint playOrder="1">
+      <navLabel>
+        <text>"Solcu Kanı"</text>
+      </navLabel>
+      <content src="Text/2_2.xhtml"/>
+    </navPoint>        
+</navPoint>   
+ 
+   <navPoint playOrder="1">
+      <navLabel>
+        <text>Üçüncü Kesim - Umut</text>
+      </navLabel>
+      <content src="Text/ucuncu.xhtml"/>
+      
+    <navPoint playOrder="1">
+      <navLabel>
+        <text>Umut</text>
+      </navLabel>
+      <content src="Text/3_1.xhtml"/>
+    </navPoint>        
+     </navPoint>  
+
+      <navPoint playOrder="1">
+      <navLabel>
+        <text>Dipnotlar</text>
+      </navLabel>
+      <content src="Text/dipnot.xhtml"/>
+    </navPoint>     
+        
+        <navPoint playOrder="1">
+      <navLabel>
+        <text>Arka Kapak</text>
+      </navLabel>
+      <content src="Text/kapak2.xhtml"/>
+    </navPoint>      
+         
+  </navMap>
+</ncx>

@@ -1,0 +1,27 @@
+div.sgc-index-title {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+div.sgc-index-body {
+    margin-left: -2em;
+}
+
+div.sgc-index-entry {
+    margin-top: 0em;
+    margin-bottom: 0.5em;
+    margin-left: 3.5em;
+    text-indent: -1.5em;
+}
+
+div.sgc-index-new-letter {
+    margin-top: 1.5em;
+    margin-left: 1.3em;
+    margin-bottom: 0.5em;
+    font-size: 1.5em;
+    font-weight: bold;
+    border-bottom: solid black 4px;
+    width: 50%;
+}

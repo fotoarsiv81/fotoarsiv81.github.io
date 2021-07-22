@@ -1,0 +1,93 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Clarke, Arthur C.">Arthur C. Clarke</dc:creator>
+<dc:identifier id="BookId">AWP-29E4BE55-2469-41BA-8F33-5D61BBE745E5</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date>1983-03-24T22:00:00+00:00</dc:date>
+  <dc:title>Safak Projesi</dc:title>
+<meta name="calibre:title_sort" content="Safak Projesi"/>
+<dc:publisher>Başkan Yayınları</dc:publisher>
+<meta name="calibre:series" content="Kurgu Bilim Dizisi"/>
+<meta name="calibre:series_index" content="1.0"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Bilim kurgu</dc:subject>
+<dc:subject>Klasik</dc:subject>
+<dc:subject>Uzay</dc:subject>
+<dc:description>&lt;p&gt;Yirmiüçüncü Yüzyılda...
+Mars’ta, aralarında Dünya’nın en parlak zekâlarının da bulunduğu 
+bir grup insan, gezegenin yüzünü değiştirmek amacıyla savaşım 
+veriyorlardı.
+... Son birkaç haftada bu bitkiler nasılda büyümüştü!.. 
+Şimdi boyları bir insan boyundan çok daha yüksekti. 
+Gibson, bunların bir kısmının normal büyüme olduğunu 
+kabul etse de diğer etkenin yapay güneş “Phobos” olduğunu
+çok iyi biliyordu.
+“Şafak Projesi” tüm hızıyla yaşıyordu.
+... Zamanla Phobos gökyüzünde yavaş yavaş kaybolurken,
+bu kez Güneş yükselmeye başladı. Güneş en tepeye çıkınca, 
+“Phobos” onun yanında daha sönük kaldı. Ama yine de görevini
+yerine getirecek kadar parlaktı ve bin yıl süreyle Mars gecelerini aydınlatacaktı...
+
+Kaynak: http://www.webcanavari.net/ebook/arthur-cclark-safak-projesi-ekitap-t264714.0.html#ixzz2wz3AjrLm 
+www.webcanavari.net - www.rapcanavari.net - www.kadincaforum.net &lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Arthur C. Clarke&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">d431564a-8914-4143-b40b-ad64af08084a</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/1.html" id="x1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/6.html" id="x6.html" media-type="application/xhtml+xml"/>
+    <item href="Text/10.html" id="x10.html" media-type="application/xhtml+xml"/>
+    <item href="Text/11.html" id="x11.html" media-type="application/xhtml+xml"/>
+    <item href="Text/14.html" id="x14.html" media-type="application/xhtml+xml"/>
+    <item href="Text/19.html" id="x19.html" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/img1.jpg" id="img1" media-type="image/jpeg"/>
+    <item href="Text/4.html" id="x4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5.html" media-type="application/xhtml+xml"/>
+    <item href="Text/7.html" id="x7.html" media-type="application/xhtml+xml"/>
+    <item href="Text/8.html" id="x8.html" media-type="application/xhtml+xml"/>
+    <item href="Text/9.html" id="x9.html" media-type="application/xhtml+xml"/>
+    <item href="Text/12.html" id="x12.html" media-type="application/xhtml+xml"/>
+    <item href="Text/13.html" id="x13.html" media-type="application/xhtml+xml"/>
+    <item href="Text/15.html" id="x15.html" media-type="application/xhtml+xml"/>
+    <item href="Text/16.html" id="x16.html" media-type="application/xhtml+xml"/>
+    <item href="Text/17.html" id="x17.html" media-type="application/xhtml+xml"/>
+    <item href="Text/18.html" id="x18.html" media-type="application/xhtml+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_styles.css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="x1.html"/>
+    <itemref idref="x2.html"/>
+    <itemref idref="x3.html"/>
+    <itemref idref="x4.html"/>
+    <itemref idref="x5.html"/>
+    <itemref idref="x6.html"/>
+    <itemref idref="x7.html"/>
+    <itemref idref="x8.html"/>
+    <itemref idref="x9.html"/>
+    <itemref idref="x10.html"/>
+    <itemref idref="x11.html"/>
+    <itemref idref="x12.html"/>
+    <itemref idref="x13.html"/>
+    <itemref idref="x14.html"/>
+    <itemref idref="x15.html"/>
+    <itemref idref="x16.html"/>
+    <itemref idref="x17.html"/>
+    <itemref idref="x18.html"/>
+    <itemref idref="x19.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover"/>
+  </guide>
+</package>

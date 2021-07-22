@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Seghers, Anna">Anna Seghers</dc:creator>
+<meta content="Transit" name="calibre:title_sort"/>
+    <meta content="2013-10-28T08:31:48.126000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="_cover.jpeg"/>
+    <dc:date>1967-04-07T21:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c1fab7b7-2cbd-4e52-9167-c4f886e87368</dc:identifier>
+    <meta content="0.7.4" name="Sigil version"/>
+    <dc:date opf:event="modification">2014-04-03</dc:date>
+  <dc:title>Transit</dc:title>
+<dc:publisher>Fahir Onger Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Alman Edebiyatı</dc:subject>
+<dc:subject>Tarihi Kurgu</dc:subject>
+<dc:subject>2. Dünya savaşı</dc:subject>
+<dc:description>&lt;p&gt;Nobel ödüllü Fransız yazar ve düşünür Andre Gide, yaşamı boyunca toplumsal ve bireysel ahlakın en önemli ölçütünün bireyin içtenliği ve kendini tanıması olduğunu vurgulamıştır. Ayrı Yol, Andre Gide'in bu görüşünü en net biçimde dile getirdiği romanlarından biri. 
+
+Geleneksel ahlak anlayışının karşısında bireyin özgürlüğünü savunanlara açık destek veren ve bu nedenle devrimci olarak nitelendirilen yazar, bu yapıtında, kendi evliliğinden yola çıkarak insan ilişkilerindeki sorunlara çözüm getirme çabalarını dile getiriyor.
+
+Ayrı Yol, balayını geçirmek üzere karısıyla birlikte Tunus'a giden arkeolog Michel'in vereme yakalanmasıyla başlayan, onun iyileşmesi ve daha sonra karısının hastalanmasıyla devam eden bir yüzleşme ve arayış serüveni. Dünya edebiyatının en usta yazarlarından birinin kaleminden çıkan bu romanda, eşcinselliğini keşfeden ve toplumsal düzenin dayattığı kavramlardan sıyrılıp olabildiğince özgürleşmeye çalışan, bunu yaparken de kendisiyle çatışan bir erkeğin öyküsünü okuyacaksınız.&lt;/p&gt;</dc:description>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Anna Seghers&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">c2d7fea1-3afd-43ff-bae5-3776d1625c5f</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9789750710933</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/_cover.jpeg" id="_cover.jpeg" media-type="image/jpeg"/>
+    <item href="Text/Anna_Seghers_-_Transit_split_000.html" id="id1111" media-type="application/xhtml+xml"/>
+    <item href="Text/Anna_Seghers_-_Transit_split_001.html" id="id1110" media-type="application/xhtml+xml"/>
+    <item href="Text/Anna_Seghers_-_Transit_split_002.html" id="id1109" media-type="application/xhtml+xml"/>
+    <item href="Text/Anna_Seghers_-_Transit_split_003.html" id="id1108" media-type="application/xhtml+xml"/>
+    <item href="Text/Anna_Seghers_-_Transit_split_004.html" id="id1107" media-type="application/xhtml+xml"/>
+    <item href="Text/Anna_Seghers_-_Transit_split_005.html" id="id1106" media-type="application/xhtml+xml"/>
+    <item href="Text/Anna_Seghers_-_Transit_split_006.html" id="id1105" media-type="application/xhtml+xml"/>
+    <item href="Images/00001.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1111"/>
+    <itemref idref="id1110"/>
+    <itemref idref="id1109"/>
+    <itemref idref="id1108"/>
+    <itemref idref="id1107"/>
+    <itemref idref="id1106"/>
+    <itemref idref="id1105"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

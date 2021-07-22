@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:c3aee68b-0eec-43a8-ae86-379db7f93af9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kan Şarkısı</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>İç Kapak</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Kısım I</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Verniers’in Kaleminden</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Dördüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Beşinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Altıncı Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0016.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Kısım II</text>
+      </navLabel>
+      <content src="Text/Section0017.xhtml"/>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Verniers’in Kaleminden</text>
+        </navLabel>
+        <content src="Text/Section0018.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0019.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0020.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0021.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Dördüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0022.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Beşinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0023.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Altıncı Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0024.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Yedinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0025.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Sekizinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0026.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Dokuzuncu Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0027.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Onuncu Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0028.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Kısım III</text>
+      </navLabel>
+      <content src="Text/Section0029.xhtml"/>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Verniers’in Kaleminden</text>
+        </navLabel>
+        <content src="Text/Section0030.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0031.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0032.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0033.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Dördüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0034.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Beşinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0035.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Altıncı Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0036.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Yedinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0037.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Sekizinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0038.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Kısım IV</text>
+      </navLabel>
+      <content src="Text/Section0039.xhtml"/>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Verniers’in Kaleminden</text>
+        </navLabel>
+        <content src="Text/Section0041.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0042.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>İkinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0043.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Üçüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0044.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Dördüncü Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0045.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Beşinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0046.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Altıncı Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0047.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Yedinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0048.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Sekizinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0049.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Dokuzuncu Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0050.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Onuncu Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0051.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Kısım V</text>
+      </navLabel>
+      <content src="Text/Section0052.xhtml"/>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Verniers’in Kaleminden</text>
+        </navLabel>
+        <content src="Text/Section0053.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Birinci Bölüm</text>
+        </navLabel>
+        <content src="Text/Section0054.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Ek I: Karakterler</text>
+      </navLabel>
+      <content src="Text/Section0055.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Ek II: Keschet’in Kuralları</text>
+      </navLabel>
+      <content src="Text/Section0056.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Teşekkürler</text>
+      </navLabel>
+      <content src="Text/Section0057.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Dipnotlar</text>
+      </navLabel>
+      <content src="Text/Section0058.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,13 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+
+div.giris {
+    display: block;
+    font-size: 0.66667em;
+    line-height: 1.2;
+    margin-bottom: 6pt;
+    margin-right: 0;
+    margin-top: 6pt;
+    text-align: justify;
+    text-indent: 8.5pt;
+    padding: 0
+    };

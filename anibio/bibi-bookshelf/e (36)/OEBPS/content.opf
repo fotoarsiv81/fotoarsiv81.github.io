@@ -1,0 +1,66 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Mckee, Annie">Annie Mckee</dc:creator>
+<dc:description>D&amp;R E-Kitap Formatlı ürün.</dc:description>
+    <dc:publisher>Varlık Yayınları</dc:publisher>
+    <dc:date>2012-07-29T21:00:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid"/>
+    <dc:identifier>urn:uuid:6D21C0F3-FAC0-4F3B-A326-C1AD46592B79</dc:identifier>
+    <dc:contributor xmlns:ns1="http://www.idpf.org/2007/opf" ns1:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2015-01-31</dc:date>
+    <meta content="Adobe InDesign" name="generator"/>
+    <meta name="cover" content="x186.png"/>
+    <meta content="Yeni Liderler" name="calibre:title_sort"/>
+    <meta content="{&quot;Annie Mckee&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Yeni Liderler</dc:title>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>de</dc:language>
+<dc:language>en</dc:language>
+<dc:language>tr</dc:language>
+<dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">58e3b4a8-6641-460d-8b7a-2ecc1000adc5</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/KAPAK.html" id="KAPAK" media-type="application/xhtml+xml"/>
+    <item href="Text/1.html" id="x1" media-type="application/xhtml+xml"/>
+    <item href="Text/2.html" id="x2" media-type="application/xhtml+xml"/>
+    <item href="Text/3.html" id="x3" media-type="application/xhtml+xml"/>
+    <item href="Text/4.html" id="x4" media-type="application/xhtml+xml"/>
+    <item href="Text/5.html" id="x5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/template.css" id="css" media-type="text/css"/>
+    <item href="Images/1_fmt.png" id="x1_fmt.png" media-type="image/png"/>
+    <item href="Images/186.png" id="x186.png" media-type="image/png"/>
+    <item href="Images/2_fmt.png" id="x2_fmt.png" media-type="image/png"/>
+    <item href="Images/3_fmt.png" id="x3_fmt.png" media-type="image/png"/>
+    <item href="Images/4_fmt.png" id="x4_fmt.png" media-type="image/png"/>
+    <item href="Images/annie_fmt.jpeg" id="annie_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/boyatzis_fmt.jpeg" id="boyatzis_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/DanielGoleman_fmt.jpeg" id="DanielGoleman_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="Images/kapak_fmt.png" id="kapak_fmt.png" media-type="image/png"/>
+    <item href="Fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-BoldIt.otf" id="MinionPro-BoldIt.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Fonts/Wingdings-Regular.otf" id="Wingdings-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item href="Text/5_split1.html" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/5_split2.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/5_split3.html" id="id2" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="KAPAK"/>
+    <itemref idref="x1"/>
+    <itemref idref="x2"/>
+    <itemref idref="x3"/>
+    <itemref idref="x4"/>
+    <itemref idref="x5"/>
+    <itemref idref="id"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+  </spine>
+</package>

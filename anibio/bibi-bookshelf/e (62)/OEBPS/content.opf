@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Aristoteles">Aristoteles</dc:creator>
+<dc:identifier id="BookID" opf:scheme="UUID"/>
+    <dc:contributor opf:role="edt">Oğuzhan Yağız</dc:contributor>
+    <dc:date>2013-06-08T21:00:00+00:00</dc:date>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <meta content="0.5.3" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="Atinalıların Devleti"/>
+    <meta name="calibre:author_link_map" content="{&quot;Aristoteles&quot;: &quot;&quot;}"/>
+  <dc:title>Atinalıların Devleti</dc:title>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Felsefe</dc:subject>
+<dc:subject>Tarih</dc:subject>
+<dc:subject>Yunan Edebiyatı</dc:subject>
+<dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Aristoteles (MÖ 384-MÖ 323): En önemli ve çok yönlü Antik Yunan filozoflarından biridir. Çağdaş felsefe eğitiminin ayrılmaz bir parçası olan görüşlerinin etkileri pek çok alanda sürmektedir. Dil, felsefe, sanat, fizik gibi çok çeşitli alanlarda, günümüzde dahi canlılığını koruyan pek çok kavram ve kuramsal ayrımla düşünce tarihine büyük katkısı olmuştur. Atinalıların Devleti, Aristoteles'in genel okur kitlesine hitaben yazılmış, devlet rejimlerini konu alan kapsamlı eseri Politeia'nın ilk ve en ayrıntılı kısmıdır.&lt;/span&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;br style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: start; text-indent: 0px; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; display: inline !important; float: none; background-color: transparent; "&gt;Aristoteles Atina tarihini anlattıktan sonra kendine has metodik ve bilimsel yaklaşımla Atina devletinin yapısını ve işleyişini anlatır. Atina demokrasisi ve kurumları hakkında bugün bildiklerimizin çoğuna kaynaklık eden Atinalıların Devleti, sadece içeriğiyle değil üslubuyla da çok değerli bir klasiktir. &lt;/span&gt;&lt;/div&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.24.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">fc124737-9e40-4a77-9080-e0aaa2ae5ed9</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786053609551</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/kapak.html" id="kapak.html" media-type="application/xhtml+xml"/>
+    <item href="Text/telif.xhtml" id="telif.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dikkat.xhtml" id="dikkat.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/onsoz.xhtml" id="onsoz.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/giris.xhtml" id="giris.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/ozet.xhtml" id="ozet.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/Fontlar.css" id="Fontlar.css" media-type="text/css"/>
+    <item href="Styles/Nakkal.css" id="Nakkal.css" media-type="text/css"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/Nakkal Siyah.png" id="Nakkal_Siyah.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="kapak.html"/>
+    <itemref idref="telif.xhtml"/>
+    <itemref idref="dikkat.xhtml"/>
+    <itemref idref="toc.xhtml"/>
+    <itemref idref="onsoz.xhtml"/>
+    <itemref idref="giris.xhtml"/>
+    <itemref idref="ozet.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.html" title="Cover" type="cover"/>
+    <reference href="Text/toc.xhtml" title="Table Of Contents" type="toc"/>
+    <reference href="Text/rica.html" title="Text" type="text"/>
+    <reference href="Text/dikkat.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum1.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum2.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum3.xhtml" title="Text" type="text"/>
+    <reference href="Text/bolum4.xhtml" title="Text" type="text"/>
+  </guide>
+</package>

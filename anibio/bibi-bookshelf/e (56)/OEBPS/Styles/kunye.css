@@ -1,0 +1,25 @@
+p {
+  margin:0 auto 0 auto;  
+  font-size:0.8em;
+  text-indent:0em;
+  text-align:left;
+}
+
+.bos05{margin-top:0.5em;}
+.bos2{margin-top:2em;}
+.bos3{margin-top:3em;}
+.bos5{margin-top:5em;}
+.bos8{margin-top:8em;}
+
+.buyuk{font-size:110%;}
+
+.kun0{text-align:center;font-size:1.4em;}
+.kun1{text-align:center;font-size:1.7em;font-weight:bold;}
+.kun2{text-align:center;font-size:1.7em;}
+.kun3{text-align:center;font-size:2.2em;font-weight:bold;}
+.kun4{text-align:center;font-size:1.1em;}
+.kun5{text-align:center;font-size:1em;}
+.yazar{text-align:justify;}
+
+.soz{margin-right:2em;}
+.soz p{text-align:right;font-size:1em;}

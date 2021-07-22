@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf"><dc:title>Anonim - Keloglan Masalları e</dc:title>
+<dc:subject></dc:subject>
+<dc:description></dc:description>
+<dc:language>tr-TR</dc:language>
+<dc:creator opf:role="aut">Bilinmeyen yazar</dc:creator><dc:identifier id="uuid">{235448BD-D3A1-472D-B556-EC59FE668694}</dc:identifier>
+</metadata>
+<manifest>
+<item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+<item href="main-1.jpg" id="id1" media-type="image/jpeg"/>
+<item href="main-2.jpg" id="id2" media-type="image/jpeg"/>
+<item href="main-3.jpg" id="id3" media-type="image/jpeg"/>
+<item href="main-4.jpg" id="id4" media-type="image/jpeg"/>
+<item href="main-5.jpg" id="id5" media-type="image/jpeg"/>
+<item href="main-6.jpg" id="id6" media-type="image/jpeg"/>
+<item href="main-7.jpg" id="id7" media-type="image/jpeg"/>
+<item href="main-8.jpg" id="id8" media-type="image/jpeg"/>
+<item href="main.css" id="id9" media-type="text/css"/>
+<item href="toc.ncx" id="id10" media-type="application/x-dtbncx+xml"/>
+</manifest>
+<spine toc="id10"><itemref idref="id0"/></spine></package>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="e0ab9a33-556d-47bf-887f-f77278706c0b" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>ÖLÜM VE KIZ</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Ariel DORFMAN</text>
+      </navLabel>
+      <content src="Text/OLUM%20VE%20KIZ_split_001.htm" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>KİŞİLER</text>
+      </navLabel>
+      <content src="Text/OLUM%20VE%20KIZ_split_002.htm" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>PERDE I</text>
+      </navLabel>
+      <content src="Text/OLUM%20VE%20KIZ_split_003.htm" />
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Sahne l</text>
+        </navLabel>
+        <content src="Text/OLUM%20VE%20KIZ_split_003.htm#sigil_toc_id_1" />
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>(Işıklar söner.)</text>
+        </navLabel>
+        <content src="Text/OLUM%20VE%20KIZ_split_004.htm" />
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Sahne 2</text>
+        </navLabel>
+        <content src="Text/OLUM%20VE%20KIZ_split_004.htm#sigil_toc_id_2" />
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Sahne 3</text>
+        </navLabel>
+        <content src="Text/OLUM%20VE%20KIZ_split_005.htm" />
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Sahne 4</text>
+        </navLabel>
+        <content src="Text/OLUM%20VE%20KIZ_split_006.htm" />
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>(Işıklar söner.)</text>
+        </navLabel>
+        <content src="Text/OLUM%20VE%20KIZ_split_007.htm" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>PERDE II</text>
+      </navLabel>
+      <content src="Text/OLUM%20VE%20KIZ_split_007.htm#sigil_toc_id_3" />
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Sahne l</text>
+        </navLabel>
+        <content src="Text/OLUM%20VE%20KIZ_split_007.htm#sigil_toc_id_4" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>(Işıklar söner.)</text>
+        </navLabel>
+        <content src="Text/OLUM%20VE%20KIZ_split_008.htm" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Sahne 2</text>
+        </navLabel>
+        <content src="Text/OLUM%20VE%20KIZ_split_008.htm#sigil_toc_id_5" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>(Işıklar söner.)</text>
+        </navLabel>
+        <content src="Text/OLUM%20VE%20KIZ_split_009.htm" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>PERDE III</text>
+      </navLabel>
+      <content src="Text/OLUM%20VE%20KIZ_split_009.htm#sigil_toc_id_6" />
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Sahne l</text>
+        </navLabel>
+        <content src="Text/OLUM%20VE%20KIZ_split_009.htm#sigil_toc_id_7" />
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Sahne 2</text>
+        </navLabel>
+        <content src="Text/OLUM%20VE%20KIZ_split_010.htm" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>PERDE</text>
+      </navLabel>
+      <content src="Text/OLUM%20VE%20KIZ_split_011.htm" />
+    </navPoint>
+  </navMap>
+</ncx>

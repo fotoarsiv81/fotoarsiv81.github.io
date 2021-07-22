@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="uuid">{E7A0E5C0-E336-4847-8A11-E3A887F6DCF1}</dc:identifier>
+    <dc:title>İklimler</dc:title>
+    <dc:creator opf:role="aut">André Maurois</dc:creator>
+    <dc:language>tr-TR</dc:language>
+    <dc:date opf:event="modification">2016-01-10</dc:date>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta name="cover" content="x305027.jpg" />
+  </metadata>
+  <manifest>
+    <item href="Text/Odile_VIII.xhtml" id="Odile_VIII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_XIX.xhtml" id="Odile_XIX.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_VIII.xhtml" id="Isabelle_VIII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_XXII.xhtml" id="Isabelle_XXII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_XXIV.xhtml" id="Isabelle_XXIV.xhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/main.css" id="id5" media-type="text/css" />
+    <item href="toc.ncx" id="id6" media-type="application/x-dtbncx+xml" />
+    <item href="Text/Kunye.xhtml" id="Kunye.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Alain.xhtml" id="Alain.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_I_Odile.xhtml" id="Bolum_I_Odile.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_I.xhtml" id="Odile_I.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_II.xhtml" id="Odile_II.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ic_Kapak.xhtml" id="Ic_Kapak.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_III.xhtml" id="Odile_III.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_IV.xhtml" id="Odile_IV.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_V.xhtml" id="Odile_V.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_VI.xhtml" id="Odile_VI.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_VII.xhtml" id="Odile_VII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_IX.xhtml" id="Odile_IX.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_X.xhtml" id="Odile_X.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_XI.xhtml" id="Odile_XI.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_XII.xhtml" id="Odile_XII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_XIII.xhtml" id="Odile_XIII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_XIV.xhtml" id="Odile_XIV.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_XV.xhtml" id="Odile_XV.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_XVI.xhtml" id="Odile_XVI.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_XVII.xhtml" id="Odile_XVII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_XVIII.xhtml" id="Odile_XVIII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_XX.xhtml" id="Odile_XX.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_XXI.xhtml" id="Odile_XXI.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Odile_XXII.xhtml" id="Odile_XXII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bolum_II_Isabelle.xhtml" id="Bolum_II_Isabelle.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_I.xhtml" id="Isabelle_I.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_II.xhtml" id="Isabelle_II.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_III.xhtml" id="Isabelle_III.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelel_IV.xhtml" id="Isabelel_IV.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_V.xhtml" id="Isabelle_V.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_VI.xhtml" id="Isabelle_VI.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_VII.xhtml" id="Isabelle_VII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_IX.xhtml" id="Isabelle_IX.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_X.xhtml" id="Isabelle_X.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_XI.xhtml" id="Isabelle_XI.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/%C4%B0klimler%20Kapak.jpg" id="İklimler_Kapak.jpg" media-type="image/jpeg" />
+    <item href="Text/Isabelle_XII.xhtml" id="Isabelle_XII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_XIII.xhtml" id="Isabelle_XIII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_XIV.xhtml" id="Isabelle_XIV.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_XV.xhtml" id="Isabelle_XV.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_XVI.xhtml" id="Isabelle_XVI.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_XVII.xhtml" id="Isabelle_XVII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_XVIII.xhtml" id="Isabelle_XVIII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_XIX.xhtml" id="Isabelle_XIX.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_XX.xhtml" id="Isabelle_XX.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_XXI.xhtml" id="Isabelle_XXI.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Isabelle_XXIII.xhtml" id="Isabelle_XXIII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css" />
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/305027.jpg" id="x305027.jpg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="id6">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="Ic_Kapak.xhtml" />
+    <itemref idref="Kunye.xhtml" />
+    <itemref idref="TOC.xhtml" />
+    <itemref idref="Alain.xhtml" />
+    <itemref idref="Bolum_I_Odile.xhtml" />
+    <itemref idref="Odile_I.xhtml" />
+    <itemref idref="Odile_II.xhtml" />
+    <itemref idref="Odile_III.xhtml" />
+    <itemref idref="Odile_IV.xhtml" />
+    <itemref idref="Odile_V.xhtml" />
+    <itemref idref="Odile_VI.xhtml" />
+    <itemref idref="Odile_VII.xhtml" />
+    <itemref idref="Odile_VIII.xhtml" />
+    <itemref idref="Odile_IX.xhtml" />
+    <itemref idref="Odile_X.xhtml" />
+    <itemref idref="Odile_XI.xhtml" />
+    <itemref idref="Odile_XII.xhtml" />
+    <itemref idref="Odile_XIII.xhtml" />
+    <itemref idref="Odile_XIV.xhtml" />
+    <itemref idref="Odile_XV.xhtml" />
+    <itemref idref="Odile_XVI.xhtml" />
+    <itemref idref="Odile_XVII.xhtml" />
+    <itemref idref="Odile_XVIII.xhtml" />
+    <itemref idref="Odile_XIX.xhtml" />
+    <itemref idref="Odile_XX.xhtml" />
+    <itemref idref="Odile_XXI.xhtml" />
+    <itemref idref="Odile_XXII.xhtml" />
+    <itemref idref="Bolum_II_Isabelle.xhtml" />
+    <itemref idref="Isabelle_I.xhtml" />
+    <itemref idref="Isabelle_II.xhtml" />
+    <itemref idref="Isabelle_III.xhtml" />
+    <itemref idref="Isabelel_IV.xhtml" />
+    <itemref idref="Isabelle_V.xhtml" />
+    <itemref idref="Isabelle_VI.xhtml" />
+    <itemref idref="Isabelle_VII.xhtml" />
+    <itemref idref="Isabelle_VIII.xhtml" />
+    <itemref idref="Isabelle_IX.xhtml" />
+    <itemref idref="Isabelle_X.xhtml" />
+    <itemref idref="Isabelle_XI.xhtml" />
+    <itemref idref="Isabelle_XII.xhtml" />
+    <itemref idref="Isabelle_XIII.xhtml" />
+    <itemref idref="Isabelle_XIV.xhtml" />
+    <itemref idref="Isabelle_XV.xhtml" />
+    <itemref idref="Isabelle_XVI.xhtml" />
+    <itemref idref="Isabelle_XVII.xhtml" />
+    <itemref idref="Isabelle_XVIII.xhtml" />
+    <itemref idref="Isabelle_XIX.xhtml" />
+    <itemref idref="Isabelle_XX.xhtml" />
+    <itemref idref="Isabelle_XXI.xhtml" />
+    <itemref idref="Isabelle_XXII.xhtml" />
+    <itemref idref="Isabelle_XXIII.xhtml" />
+    <itemref idref="Isabelle_XXIV.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/TOC.xhtml" title="İçindekiler" type="toc" />
+    <reference href="Text/cover.xhtml" title="Kapak" type="cover" />
+  </guide>
+</package>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="calibre:title_sort" content="Sınırsız Güç"/>
+    <dc:language>tur</dc:language>
+    <dc:creator opf:file-as="Robbins, Anthony" opf:role="aut">Anthony Robbins</dc:creator>
+    <meta name="calibre:timestamp" content="2011-10-11T13:10:29+00:00"/>
+    <dc:title>Sınırsız Güç</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2011-10-11T13:10:29+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.8.17) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">0f60c3a5-ca38-419e-9779-dd293d90e2ed</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index-159_1.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="index-162_1.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="index-183_1.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="index-1_1.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="index-246_1.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="index-283_1.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="index-314_1.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="index-316_1.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="index-317_1.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="index-334_1.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="index-337_1.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="index-449_1.jpg" id="id13" media-type="image/jpeg"/>
+    <item href="index-64_1.jpg" id="id14" media-type="image/jpeg"/>
+    <item href="index-6_1.jpg" id="id15" media-type="image/jpeg"/>
+    <item href="index-92_1.jpg" id="id16" media-type="image/jpeg"/>
+    <item href="index-95_1.jpg" id="id17" media-type="image/jpeg"/>
+    <item href="index_split_000.html" id="id121" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id120" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id119" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id118" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id117" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id116" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id115" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id114" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id113" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="index_split_010.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="index_split_011.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="index_split_012.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="index_split_013.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id121"/>
+    <itemref idref="id120"/>
+    <itemref idref="id119"/>
+    <itemref idref="id118"/>
+    <itemref idref="id117"/>
+    <itemref idref="id116"/>
+    <itemref idref="id115"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

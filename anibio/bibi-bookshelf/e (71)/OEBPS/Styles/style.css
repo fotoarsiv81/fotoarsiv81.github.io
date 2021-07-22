@@ -1,0 +1,20 @@
+@font-face{font-family:"Calibri";font-style:normal;font-weight:normal;<h1 class="p0"><span class="t6">\1</span></h1>}
+@font-face{font-family:"Calibri";font-style:normal;font-weight:bold;<h1 class="p0"><span class="t6">\1</span></h1>}
+@font-face{font-family:"Calibri";font-style:italic;font-weight:bold;<h1 class="p0"><span class="t6">\1</span></h1>}
+@font-face{font-family:"Calibri";font-style:italic;font-weight:normal;<h1 class="p0"><span class="t6">\1</span></h1>}
+@font-face{font-family:"Arial";font-style:normal;font-weight:normal;<h1 class="p0"><span class="t6">\1</span></h1>}
+@page{margin-left:0.5cm;margin-right:0.5cm;margin-top:0.5cm;margin-bottom:0.5cm}
+body{margin:0}
+p{text-indent:1.5em;margin-left:0;margin-right:0;text-align:justify;margin-top:0;margin-bottom:0;font-family:Calibri,sans-serif;font-size:109%}
+.p0{text-indent:0;margin-left:0;text-align:center}
+.p1{text-align:center}
+.p3{text-indent:0;margin-left:0}
+.p4{text-indent:0;margin-left:0;text-align:left}
+.t1{font-size:4em}
+.t2{font-size:2.3em}
+.t3{font-size:1.3em;font-weight:bold}
+.t4{font-size:1.3em}
+.t5{font-weight:bold}
+.t6{font-weight:bold;font-style:italic}
+.t7{font-style:italic}
+.t8{font-family:Arial,sans-serif;font-size:.92em}

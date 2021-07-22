@@ -1,0 +1,64 @@
+body {
+  margin: 10% 10pt;
+}
+p {
+  text-indent: 1.5em;
+  text-align: justify;
+  margin: 0;
+  line-height: 1.3em;
+}
+h1, h2, h3, h4, h5 {
+  text-indent: 0;
+  text-align: center;
+}
+h6 {
+  text-indent: 0;
+  text-align: right;
+}
+/*- İÇ KAPAK -*/
+.ickapak {
+  margin-top: 2em;
+}
+.ickapak p {
+  text-indent: 0;
+  text-align: center;
+}
+.yazar {
+  font-size: 1.3em;
+  margin-bottom: 1em;
+}
+.kitap {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+}
+.cevirmen {
+  font-size: 0.85em;
+}
+.logo {
+  margin-top: 6em;
+}
+/*- KUNYA -*/
+.kunya p {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.67em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.38;
+  text-align: center;
+  color: #000;
+  text-indent: 0;
+  margin: 3px 30px 0 30px;
+}
+div.sgc-toc-title {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  text-align: center;
+}
+div.sgc-toc-level-1 {
+  margin-left: 0;
+}
+div.sgc-toc-level-3 {
+  margin-left: 2em;
+}

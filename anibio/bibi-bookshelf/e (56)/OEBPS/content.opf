@@ -1,0 +1,79 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Tabucchi, Antonio">Antonio Tabucchi</dc:creator>
+<dc:identifier id="uuid">{6671D39A-40BD-4A90-8913-D4D345638CC9}</dc:identifier>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p&gt;Çağdaş Avrupa edebiyatının en gözde yazarlarından Tabucchi, kitaplarında günümüzün yakıcı sorunlarını ustalıkla irdeliyor.&lt;/p&gt;
+
+&lt;p&gt;Kurulduğu günden bu yana öyküye özel bir yer veren Can Yayınları, 30. yıldönümünü öykü ustalarının birbirinden güzel kitaplarıyla karşılıyor. Márquez’den Thomas Mann’a, Munro’dan Tanizaki’ye dünya edebiyatının önde gelen öykü ustalarının kitaplarının yer alacağı bu özel dizimizin ilk kitabı, İtalyan yazar Antonio Tabucchi’nin Zaman Hızla Yaşlanıyor’u.&lt;/p&gt;
+
+&lt;p&gt;Kitapta yer alan dokuz öykü, yüzyıl dönümünde Avrupa’da geçiyor. Öykülerin kahramanları, geçmişin hayaletleriyle boğuşan savaş kurbanları, siyasi dönekler, hâlâ Doğu Bloku özlemi çekenler. Kitap boyunca zamanın izini süren Tabucchi, kâh bilgece kâh hüzünlü bir dille kaleme aldığı satırlarla, zamanın nasıl hızla akıp geçtiğini gözler önüne seriyor, dönemin tarihçesini melankolik bir ironiyle yansıtıyor. Birbirinden bağımsız gibi görünen bu öykülerin aslında ortak bir noktası var: tüyler ürpertici geçmişimiz ile kırık dökük günümüz arasındaki paralellik.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:date>2016-05-11T21:00:00+00:00</dc:date>
+    <meta content="Zaman Hızla Yaşlanıyor" name="calibre:title_sort"/>
+    <meta content="{&quot;Antonio Tabucchi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="cover" content="id28"/>
+    <meta content="0.8.7" name="Sigil version"/>
+  <meta name="calibre:rating" content="10.0"/>
+<dc:contributor opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:title>Zaman Hızla Yaşlanıyor</dc:title>
+<dc:subject>İtalyan Edebiyatı</dc:subject>
+<dc:subject>Öykü</dc:subject>
+<dc:subject>Logolu</dc:subject>
+<dc:language>tr-TR</dc:language>
+<dc:identifier opf:scheme="calibre">126643a4-dc2c-4589-8781-9969c77717ef</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Text/kapak.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/0.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/ic_kapak.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/yazar.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/soz.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/1.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/2.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/3.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/4.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/5.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/6.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/7.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/8.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/9.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/tesekkur.xhtml" id="id32" media-type="application/xhtml+xml"/>
+    <item href="Text/dipnot.xhtml" id="id31" media-type="application/xhtml+xml"/>
+    <item href="Text/arka_kapak.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="id10" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/kunye.css" id="id27" media-type="text/css"/>
+    <item href="Styles/main.css" id="id9" media-type="text/css"/>
+    <item href="Images/can.png" id="id2" media-type="image/png"/>
+    <item href="Images/cover1.jpg" id="id28" media-type="image/jpeg"/>
+    <item href="Images/cover2.jpg" id="id29" media-type="image/jpeg"/>
+    <item href="Images/yazi.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="Text/ekdg-logo.xhtml" id="ekdg-logo.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/ekdg-logo.png" id="ekdg-logo.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="id10">
+    <itemref idref="id"/>
+    <itemref idref="ekdg-logo.xhtml"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id32"/>
+    <itemref idref="id31"/>
+    <itemref idref="id25"/>
+  </spine>
+  <guide>
+    <reference href="Text/kapak.xhtml" type="cover"/>
+  </guide>
+</package>

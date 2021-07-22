@@ -1,0 +1,66 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Dorfman, Ariel">Ariel Dorfman</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">e0ab9a33-556d-47bf-887f-f77278706c0b</dc:identifier>
+    <dc:publisher>Mitos Boyut</dc:publisher>
+    <dc:date>2000-04-10T21:00:00+00:00</dc:date>
+    <meta content="Ölüm ve Kız" name="calibre:title_sort"/>
+    <meta content="2014-03-17T15:17:31.537000+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="{}" name="calibre:user_categories"/>
+    <meta content="{&quot;Ariel Dorfman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="0.7.4" name="Sigil version"/>
+  <dc:title>Ölüm ve Kız</dc:title>
+<meta name="calibre:series" content="Tiyatro Oyun Dizisi"/>
+<meta name="calibre:series_index" content="449.0"/>
+<meta name="calibre:rating" content="8.0"/>
+<dc:subject>Tiyatro Oyunu</dc:subject>
+<dc:description>&lt;p&gt;Politik gerilim örtüsü altında bir düşün oyunu... Heyecanlı, çarpıcı; özünde kişiselliğe sahip olan bir evrenselliğe ulaşmış.
+-Mel Gussow
+Bir başyapıt. Diktatörlükten hemen sonra... Olaylar, hukukçu Gerardo'nun yakın geçmişteki suçları incelemek için atandığı günün akşamı, deniz kıyısında bir evde geçer. Eşi Paulina bu tür suçların bir kurbanıdır...
+Arabasının lastiği patlayan kocasını Roberto evine bırakır. Paulina, bir zamanlar ırzına geçmiş olan vücudundan ne kadar elektrik akımı geçirilebileceğini hesaplayarak işkence eden doktoru sesinden tanır.&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">f77871c3-5e2e-4fc6-88a3-9c318957c6f4</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9786054465705</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Text/OLUM VE KIZ_split_000.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/OLUM VE KIZ_split_001.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/OLUM VE KIZ_split_002.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/OLUM VE KIZ_split_003.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/OLUM VE KIZ_split_004.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/OLUM VE KIZ_split_005.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/OLUM VE KIZ_split_006.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/OLUM VE KIZ_split_007.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/OLUM VE KIZ_split_008.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/OLUM VE KIZ_split_009.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/OLUM VE KIZ_split_010.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/OLUM VE KIZ_split_011.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="Images/image001.png" id="added3" media-type="image/png"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
