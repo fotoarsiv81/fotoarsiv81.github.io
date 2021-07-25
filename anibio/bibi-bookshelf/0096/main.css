@@ -1,0 +1,19 @@
+﻿ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ img { max-width: 100%; }
+ .font0 { font-size:small; font-family: 'Calibri', sans-serif; }
+ .font1 { font-size:small; font-family: 'Candara', sans-serif; }
+ .font2 { font-size:medium; font-family: 'Candara', sans-serif; }
+ .font3 { font-size:large; font-family: 'Candara', sans-serif; }
+ .font4 { font-size:small; font-family: 'Century Gothic', sans-serif; }
+ .font5 { font-size:medium; font-family: 'Century Gothic', sans-serif; }
+ .font6 { font-size:xx-large; font-family: 'Century Gothic', sans-serif; }
+ .font7 { font-size:xx-large; font-family: 'Garamond', serif; }
+ .font8 { font-size:large; font-family: 'Impact', sans-serif; }
+ .font9 { font-size:small; font-family: 'Times New Roman', serif; }
+ .font10 { font-size:medium; font-family: 'Times New Roman', serif; }
+ .font11 { font-size:x-large; font-family: 'Times New Roman', serif; }
+ .font12 { font-size:xx-large; font-family: 'Times New Roman', serif; }
