@@ -1,0 +1,9 @@
+@page {
+    margin-bottom: 28pt;
+    margin-top: 28pt
+    }
+@font-face {
+    font-family: "FreeSans";
+    panose-1: 2 11 5 4 2 2 2 2 2 4;
+    src: url(fonts/FreeSans.ttf)
+    }

@@ -1,0 +1,17 @@
+.calibre {
+    display: block;
+    font-family: "FreeSans", sans-serif;
+    font-size: 1.66667em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 28pt
+    }
+.calibre1 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre2 {
+    height: auto;
+    width: auto
+    }
