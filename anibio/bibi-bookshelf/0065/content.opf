@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf"><dc:title>Amerlie Couture - Kiraz&apos;ın Sarkıları e</dc:title>
+<dc:subject></dc:subject>
+<dc:description></dc:description>
+<dc:language>tr-TR</dc:language>
+<dc:creator opf:role="aut">Bilinmeyen yazar</dc:creator><dc:identifier id="uuid">{B8E01CB6-20EA-4FAB-8DCF-76B2F5983BE7}</dc:identifier>
+</metadata>
+<manifest>
+<item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+<item href="main-1.jpg" id="id1" media-type="image/jpeg"/>
+<item href="main-2.jpg" id="id2" media-type="image/jpeg"/>
+<item href="main-3.jpg" id="id3" media-type="image/jpeg"/>
+<item href="main-4.jpg" id="id4" media-type="image/jpeg"/>
+<item href="main-5.jpg" id="id5" media-type="image/jpeg"/>
+<item href="main-6.jpg" id="id6" media-type="image/jpeg"/>
+<item href="main-7.jpg" id="id7" media-type="image/jpeg"/>
+<item href="main-8.jpg" id="id8" media-type="image/jpeg"/>
+<item href="main-9.jpg" id="id9" media-type="image/jpeg"/>
+<item href="main-10.jpg" id="id10" media-type="image/jpeg"/>
+<item href="main-11.jpg" id="id11" media-type="image/jpeg"/>
+<item href="main-12.jpg" id="id12" media-type="image/jpeg"/>
+<item href="main-13.jpg" id="id13" media-type="image/jpeg"/>
+<item href="main-14.jpg" id="id14" media-type="image/jpeg"/>
+<item href="main-15.jpg" id="id15" media-type="image/jpeg"/>
+<item href="main-16.jpg" id="id16" media-type="image/jpeg"/>
+<item href="main-17.jpg" id="id17" media-type="image/jpeg"/>
+<item href="main-18.jpg" id="id18" media-type="image/jpeg"/>
+<item href="main-19.jpg" id="id19" media-type="image/jpeg"/>
+<item href="main-20.jpg" id="id20" media-type="image/jpeg"/>
+<item href="main-21.jpg" id="id21" media-type="image/jpeg"/>
+<item href="main-22.jpg" id="id22" media-type="image/jpeg"/>
+<item href="main-23.jpg" id="id23" media-type="image/jpeg"/>
+<item href="main-24.jpg" id="id24" media-type="image/jpeg"/>
+<item href="main-25.jpg" id="id25" media-type="image/jpeg"/>
+<item href="main-26.jpg" id="id26" media-type="image/jpeg"/>
+<item href="main-27.jpg" id="id27" media-type="image/jpeg"/>
+<item href="main-28.jpg" id="id28" media-type="image/jpeg"/>
+<item href="main-29.jpg" id="id29" media-type="image/jpeg"/>
+<item href="main-30.jpg" id="id30" media-type="image/jpeg"/>
+<item href="main-31.jpg" id="id31" media-type="image/jpeg"/>
+<item href="main-32.jpg" id="id32" media-type="image/jpeg"/>
+<item href="main-33.jpg" id="id33" media-type="image/jpeg"/>
+<item href="main-34.jpg" id="id34" media-type="image/jpeg"/>
+<item href="main-1.xhtml" id="id35" media-type="application/xhtml+xml"/>
+<item href="main-2.xhtml" id="id36" media-type="application/xhtml+xml"/>
+<item href="main-3.xhtml" id="id37" media-type="application/xhtml+xml"/>
+<item href="main-4.xhtml" id="id38" media-type="application/xhtml+xml"/>
+<item href="main-5.xhtml" id="id39" media-type="application/xhtml+xml"/>
+<item href="main.css" id="id40" media-type="text/css"/>
+<item href="toc.ncx" id="id41" media-type="application/x-dtbncx+xml"/>
+</manifest>
+<spine toc="id41"><itemref idref="id0"/><itemref idref="id35"/><itemref idref="id36"/><itemref idref="id37"/><itemref idref="id38"/><itemref idref="id39"/></spine></package>

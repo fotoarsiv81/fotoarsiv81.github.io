@@ -1,0 +1,19 @@
+﻿ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ img { max-width: 100%; }
+ .font0 { font-size:x-small; font-family: 'Book Antiqua', serif; }
+ .font1 { font-size:small; font-family: 'Book Antiqua', serif; }
+ .font2 { font-size:medium; font-family: 'Book Antiqua', serif; }
+ .font3 { font-size:x-small; font-family: 'Impact', sans-serif; }
+ .font4 { font-size:medium; font-family: 'Segoe UI', sans-serif; }
+ .font5 { font-size:xx-small; font-family: 'Sylfaen', serif; }
+ .font6 { font-size:x-small; font-family: 'Sylfaen', serif; }
+ .font7 { font-size:small; font-family: 'Sylfaen', serif; }
+ .font8 { font-size:medium; font-family: 'Sylfaen', serif; }
+ .font9 { font-size:large; font-family: 'Sylfaen', serif; }
+ .font10 { font-size:x-large; font-family: 'Sylfaen', serif; }
+ .font11 { font-size:xx-large; font-family: 'Sylfaen', serif; }
+ .font12 { font-size:medium; font-family: 'Trebuchet MS', sans-serif; }
