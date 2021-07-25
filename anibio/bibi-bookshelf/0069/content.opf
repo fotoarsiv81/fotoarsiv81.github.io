@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf"><dc:title>Jean Ure - Pembe Giysiler Hic Havali Degil e</dc:title>
+<dc:subject></dc:subject>
+<dc:description></dc:description>
+<dc:language>tr-TR</dc:language>
+<dc:creator opf:role="aut">Bilinmeyen yazar</dc:creator><dc:identifier id="uuid">{39CCA4ED-467C-4BCD-9421-32DF0A0F0D24}</dc:identifier>
+</metadata>
+<manifest>
+<item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+<item href="main-1.jpg" id="id1" media-type="image/jpeg"/>
+<item href="main-2.jpg" id="id2" media-type="image/jpeg"/>
+<item href="main-3.jpg" id="id3" media-type="image/jpeg"/>
+<item href="main-4.jpg" id="id4" media-type="image/jpeg"/>
+<item href="main-5.jpg" id="id5" media-type="image/jpeg"/>
+<item href="main-6.jpg" id="id6" media-type="image/jpeg"/>
+<item href="main-1.xhtml" id="id7" media-type="application/xhtml+xml"/>
+<item href="main-2.xhtml" id="id8" media-type="application/xhtml+xml"/>
+<item href="main-3.xhtml" id="id9" media-type="application/xhtml+xml"/>
+<item href="main-4.xhtml" id="id10" media-type="application/xhtml+xml"/>
+<item href="main-5.xhtml" id="id11" media-type="application/xhtml+xml"/>
+<item href="main-6.xhtml" id="id12" media-type="application/xhtml+xml"/>
+<item href="main-7.xhtml" id="id13" media-type="application/xhtml+xml"/>
+<item href="main-8.xhtml" id="id14" media-type="application/xhtml+xml"/>
+<item href="main-9.xhtml" id="id15" media-type="application/xhtml+xml"/>
+<item href="main.css" id="id16" media-type="text/css"/>
+<item href="toc.ncx" id="id17" media-type="application/x-dtbncx+xml"/>
+</manifest>
+<spine toc="id17"><itemref idref="id0"/><itemref idref="id7"/><itemref idref="id8"/><itemref idref="id9"/><itemref idref="id10"/><itemref idref="id11"/><itemref idref="id12"/><itemref idref="id13"/><itemref idref="id14"/><itemref idref="id15"/></spine></package>
