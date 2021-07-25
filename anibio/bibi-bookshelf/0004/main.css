@@ -1,0 +1,14 @@
+﻿ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ img { max-width: 100%; }
+ .font0 { font-size:small; font-family: 'Arial', sans-serif; }
+ .font1 { font-size:medium; font-family: 'Arial', sans-serif; }
+ .font2 { font-size:large; font-family: 'Arial', sans-serif; }
+ .font3 { font-size:small; font-family: 'Book Antiqua', serif; }
+ .font4 { font-size:medium; font-family: 'Book Antiqua', serif; }
+ .font5 { font-size:medium; font-family: 'Times New Roman', serif; }
+ .font6 { font-size:large; font-family: 'Times New Roman', serif; }
+ .font7 { font-size:xx-large; font-family: 'Times New Roman', serif; }
